@@ -1,0 +1,1554 @@
+[
+  {
+    "name": "Bartlett's Fish Camp",
+    "address": "12 On the Lake, Michigan City, IN 46360",
+    "phone": "(219) 879-9544",
+    "website": "https://bartlettsfishcamp.net",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Oyster bar, lobster rolls, mesquite grill. 80 outdoor seats right on the lake. THE sunset dinner spot.",
+    "must_try": "Oyster bar, lobster roll, lake perch tacos",
+    "hours": "Seasonal May-Sept",
+    "seasonal": "May through September",
+    "modes": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bridges Waterside Grille",
+    "address": "508 E 2nd St, Michigan City, IN 46360",
+    "phone": "(219) 878-0227",
+    "website": "https://bridgeswatersidegrille.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$-$$$",
+    "rating": "4.1",
+    "description": "Dockside on Trail Creek. Beach-cabana vibe. Family-friendly. Seasonal.",
+    "must_try": "Fish tacos, waterfront cocktails",
+    "hours": "Seasonal May-Sept, closed Tue",
+    "seasonal": "May through September",
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Matey's Restaurant",
+    "address": "110 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 872-9471",
+    "website": "https://mateysbar.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Nautical-themed with a famous three-level Tiki Deck overlooking Lake Michigan. Veteran-owned. Ground floor 21+.",
+    "must_try": "Wings, tropical cocktails, live music on the deck",
+    "hours": "Daily 11am-close",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swingbelly's",
+    "address": "3101 E US-12, Michigan City, IN 46360",
+    "phone": "(219) 874-5718",
+    "website": "https://swingbellys.org",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$-$$",
+    "rating": "4.0",
+    "description": "Institution since 1983. Steps from Washington Park Beach. Hand-pattied burgers, best Yellow Lake Perch on the Great Lakes.",
+    "must_try": "Monday $5 burger, Lake Perch, Prime Rib Sandwich",
+    "hours": "Mon-Sat 11am-10pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Farina's Supper Club",
+    "address": "3311 Pottawattomie Trail, Michigan City, IN 46360",
+    "phone": "(219) 874-7729",
+    "website": "https://farinasupperclub.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$-$$$",
+    "rating": "4.5",
+    "description": "Award-winning Chef Joseph Farina. Historic Duneland Beach Inn. Three private dining rooms. Book on OpenTable.",
+    "must_try": "Pork Chop Sinatra, Mile High Meat Lasagna, spiked gelato",
+    "hours": "Wed-Sun 5pm-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Galveston Steakhouse",
+    "address": "10 Commerce Square, Michigan City, IN 46360",
+    "phone": "(219) 879-5555",
+    "website": "https://thegalvestonsteakhouse.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$-$$$",
+    "rating": "4.2",
+    "description": "Old-school supper-club vibe. No reservations. Prime Rib comes with free clam chowder and bread. Maybe thirty bucks.",
+    "must_try": "Prime Rib, clam chowder, bread basket",
+    "hours": "Tue-Sat 4pm-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Patrick's Grille",
+    "address": "4125 S Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 873-9401",
+    "website": "https://patricksgrille.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$-$$$",
+    "rating": "4.4",
+    "description": "Locally sourced, refined American. Lobster Bisque and Beef Tenderloins. White tablecloth without the pretense.",
+    "must_try": "Lobster Bisque, Beef Tenderloin",
+    "hours": "Tue-Sat 5pm-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Steakhouse at Blue Chip",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Premier fine dining at the casino. USDA Prime. Reservations required, 21+.",
+    "must_try": "Australian Lobster Tails, Chilean Sea Bass",
+    "hours": "Thu-Sun, reservations required",
+    "seasonal": null,
+    "modes": [
+      "casino",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Leeds Public House",
+    "address": "401 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 814-4530",
+    "website": "https://leedspublichouse.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Modern gastropub in a 1903 building. 14 local beers on tap. Fire pit patio. Weekend brunch.",
+    "must_try": "Nashville Hot Chicken Mac & Cheese, LPH Burger (short rib/brisket/chuck blend)",
+    "hours": "Tue-Sun 11am-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fiddlehead Restaurant",
+    "address": "422 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 210-3253",
+    "website": "https://fiddleheadmc.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "MC staple 10+ years. Grass-fed burgers, great vegetarian options. No reservations.",
+    "must_try": "Grass-Fed Burger, 'The Hipster' pulled pork, fried pickles",
+    "hours": "Tue-Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cool Runnings",
+    "address": "501 Center St, Michigan City, IN 46360",
+    "phone": "(219) 210-3885",
+    "website": "https://coolrunningsin.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Jamaican/Caribbean restaurant and wine bar. Generous portions. All mains include rice & peas.",
+    "must_try": "Jerk Chicken, Curry Chicken, Shrimp Mac & Cheese",
+    "hours": "Wed-Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Royale with Cheese",
+    "address": "110 W 9th St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Creative burger joint, frequently on best-of lists.",
+    "must_try": "Signature burgers",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Sophia's House of Pancakes",
+    "address": "5250 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 879-9999",
+    "website": "https://sophiaspancakehouse.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$-$$",
+    "rating": "4.4",
+    "description": "Go early. Open 363 days a year, massive portions, fresh flowers on every table. Five-egg omelets and Nutella crepes.",
+    "must_try": "5-egg omelets, Nutella crepes, Mickey Mouse pancakes (for kids)",
+    "hours": "Daily 6am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Memo's House of Pancakes",
+    "address": "1714 E US Hwy 20, Michigan City, IN 46360",
+    "phone": "(219) 871-1583",
+    "website": null,
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Family-run Mexican-American breakfast. Chorizo scrambles, huevos rancheros, homemade salsa.",
+    "must_try": "Chorizo scramble, huevos rancheros",
+    "hours": "Daily 6am-2pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Holly's Restaurant",
+    "address": "3705 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 879-5124",
+    "website": null,
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Classic diner. Pancakes, omelets, no-frills breakfast done right.",
+    "must_try": "Pancake stack, corned beef hash",
+    "hours": "Daily 6am-2pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Social Que BBQ",
+    "address": "1701 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 221-6383",
+    "website": null,
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Michigan City native started it in 2017. Modern smoking with family recipes. Brisket, ribs, pulled pork.",
+    "must_try": "Brisket, smoked wings, mac & cheese",
+    "hours": "Thu-Sun 11am-sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Up N Smoke Rib Shack",
+    "address": "517 E Barker Ave, Michigan City, IN 46360",
+    "phone": "(219) 814-4135",
+    "website": null,
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Veteran-owned. Sunday brunch buffet with make-your-own omelets is a sleeper hit.",
+    "must_try": "Ribs, Sunday brunch buffet",
+    "hours": "Wed-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Albano's Villa",
+    "address": "1612 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 872-0571",
+    "website": null,
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Sicilian family recipes since 1957. Red sauce, hand-made pasta, old school Italian.",
+    "must_try": "Lasagna, chicken parmesan",
+    "hours": "Tue-Sat 4pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roma Pizza",
+    "address": "2400 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 872-9123",
+    "website": null,
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Family recipes for 50+ years. Pizza, pasta, calzones. Delivery available.",
+    "must_try": "Specialty pizza, calzones",
+    "hours": "Mon-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lakeshore Coffee",
+    "address": "444 Wabash St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Cozy spot near the outlets. Good pour-overs and pastries.",
+    "must_try": "Pour-over, seasonal latte",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "FLUID Coffee Roasters",
+    "address": "518 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 878-1800",
+    "website": "https://fluidcoffeelove.com",
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$-$$",
+    "rating": "4.7",
+    "description": "Small-batch roaster on Franklin St. Voodoo Latte is the cult favorite. Art on the walls.",
+    "must_try": "Voodoo Latte, cold brew",
+    "hours": "Mon-Sat 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Basecamp Marina Cafe",
+    "address": "200 Heisman Harbor, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Caf\u00e9 at the marina. Coffee, food, provisions in a waterfront setting.",
+    "must_try": "Morning coffee with a marina view",
+    "hours": "Seasonal",
+    "seasonal": "May through October",
+    "modes": [
+      "chill",
+      "lake"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Burn 'Em Brewing",
+    "address": "1215 E 2nd St, Michigan City, IN 46360",
+    "phone": "(219) 217-2337",
+    "website": "https://burnembrewing.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Voted Best Brewery 2024 & 2025. 20+ beers on draft, 700+ recipes. Grateful Dead vibe. Live music weekends.",
+    "must_try": "Garbage Pail Nachos, What the Cluck sandwich, Red Zeppelin beer",
+    "hours": "Tue-Sun 12pm-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shoreline Brewery",
+    "address": "208 Wabash St, Michigan City, IN 46360",
+    "phone": "(219) 879-4677",
+    "website": "https://shorelinebrewery.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "World Beer Cup winner. One block from the lake since 2005. 12 house beers on tap.",
+    "must_try": "Award-winning house ales, fish tacos",
+    "hours": "Daily 11am-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zorn Brew Works",
+    "address": "605 E 9th St, Michigan City, IN 46360",
+    "phone": "(219) 243-7157",
+    "website": "https://zornbrewworks.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Brewery and kitchen. Taco Tuesday is a local institution. Large indoor/outdoor space.",
+    "must_try": "Taco Tuesday, rotating IPAs",
+    "hours": "Tue-Sun 11am-close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ritz Klub Tavern",
+    "address": "124 W 4th St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$-$$",
+    "rating": "4.5",
+    "description": "Michigan City's oldest tavern since the 1890s. Outdoor biergarten. Sunday Bloody Mary Bar.",
+    "must_try": "Legendary cheeseburgers, Reubens, Sunday Bloody Mary Bar",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cellar Door",
+    "address": "1901 Franklin St, Michigan City, IN 46360",
+    "phone": "(219) 879-9897",
+    "website": "https://cellardoorbar.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Cocktail bar in an 1890 barroom. Vintage pinball, 10-pin bowling game. Curated cocktails.",
+    "must_try": "Old Fashioned, seasonal craft cocktails",
+    "hours": "Thu-Sun 5pm-close",
+    "seasonal": null,
+    "modes": [
+      "casino",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shady Creek Winery",
+    "address": "2030 Tryon Rd, Michigan City, IN 46360",
+    "phone": "(219) 874-9463",
+    "website": "https://shadycreekwinery.com",
+    "category": "bars",
+    "subcategory": "wine_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Local winery with tasting room. Nice grounds for an afternoon.",
+    "must_try": "Wine flights, seasonal varieties",
+    "hours": "Wed-Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Chip Casino & Hotel",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "entertainment",
+    "subcategory": "casinos",
+    "price": "$$$",
+    "rating": "4.0",
+    "description": "1,700+ slots, 40 table games, 8 live poker tables. Stardust Event Center brings national touring acts. Rocks Lounge nightly live music. 22-story Spa Blu Tower.",
+    "must_try": "Table games, Stardust shows, Spa Blu",
+    "hours": "24/7 (casino floor)",
+    "seasonal": null,
+    "modes": [
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Chip Sportsbook",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "entertainment",
+    "subcategory": "sportsbooks",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Indiana legal sports betting. Big screens, game-day atmosphere. Part of the Blue Chip complex.",
+    "must_try": "Game day visit during NFL/NBA season",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stardust Event Center",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "entertainment",
+    "subcategory": "live_music",
+    "price": "$$-$$$",
+    "rating": "4.2",
+    "description": "National touring acts at the casino. Dinner + show packages available.",
+    "must_try": "Dinner and show package",
+    "hours": "Event-dependent",
+    "seasonal": null,
+    "modes": [
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Michigan City Port Authority / Washington Park Marina",
+    "address": "200 Heisman Harbor Rd, Michigan City, IN 46360",
+    "phone": "(219) 872-1712",
+    "website": "https://mcmarina.org",
+    "category": "boating",
+    "subcategory": "marinas",
+    "price": "$$",
+    "rating": null,
+    "description": "Washington Park Marina + Trail Creek Marina. 100+ slips, fuel dock, boat launch, winter storage.",
+    "must_try": null,
+    "hours": "Seasonal",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "B&E Marine",
+    "address": "31 Lake Shore Dr, Michigan City, IN 46360",
+    "phone": "(219) 879-8301",
+    "website": "https://bemarine.com",
+    "category": "boating",
+    "subcategory": "boat_rentals",
+    "price": "$$$",
+    "rating": null,
+    "description": "Full-service dealer: Sea Ray, Boston Whaler, Yamaha, Harris Pontoons. 70+ boats, Women in Boating classes.",
+    "must_try": null,
+    "hours": "Mon-Sat",
+    "seasonal": null,
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Harbor Country Adventures",
+    "address": "Trail Creek dock, Michigan City, IN 46360",
+    "phone": "(269) 231-5867",
+    "website": "https://harborcountryadventures.com",
+    "category": "boating",
+    "subcategory": "boat_rentals",
+    "price": "$$-$$$",
+    "rating": "4.5",
+    "description": "Kayaks ($45/2hr), SUPs, jet-skis ($95/hr), boat tours. No license needed for pontoons.",
+    "must_try": "Half-day pontoon rental, sunset kayak",
+    "hours": "Memorial Day through Labor Day",
+    "seasonal": "Memorial Day through Labor Day",
+    "modes": [
+      "lake",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Michigan City Sailboat Charters",
+    "address": "709 E Barker Ave, Michigan City, IN 46360",
+    "phone": "(219) 879-7608",
+    "website": null,
+    "category": "boating",
+    "subcategory": "sailing",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "33-34 ft sailboats. Bareboat or captained. Overnight charters to New Buffalo, Chicago, St. Joe. BYOB.",
+    "must_try": "2-hour sunset sail for 2-6 people",
+    "hours": "By appointment",
+    "seasonal": "May through October",
+    "modes": [
+      "romantic",
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fire Drill Charters",
+    "address": "Michigan City, IN 46360",
+    "phone": "(219) 898-8282",
+    "website": "https://firedrillcharters.com",
+    "category": "boating",
+    "subcategory": "charters",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "One of the top charter captains on the lake. King Salmon, Coho, Steelhead. Equipment supplied, license sold on board.",
+    "must_try": "Full-day salmon charter (April-October)",
+    "hours": "Dawn departures, by appointment",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tightline Fishing",
+    "address": "Michigan City, IN 46360",
+    "phone": "(219) 898-6312",
+    "website": "https://tightlinefish.com",
+    "category": "boating",
+    "subcategory": "charters",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Charter fishing for salmon, steelhead, lake trout. 6 passengers max, starting around $650.",
+    "must_try": "King Salmon charter",
+    "hours": "By appointment",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Colorblind Charters",
+    "address": "Michigan City, IN 46360",
+    "phone": "(574) 360-8741",
+    "website": "https://colorblindcharters.com",
+    "category": "boating",
+    "subcategory": "charters",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Charter fishing on Lake Michigan. Salmon, steelhead, perch. All equipment provided, they clean your catch.",
+    "must_try": "Half-day perch trip",
+    "hours": "By appointment",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nauti Lady Charters",
+    "address": "Michigan City, IN 46360",
+    "phone": "(574) 354-7288",
+    "website": "https://nautiladyfishingcharters.com",
+    "category": "boating",
+    "subcategory": "charters",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Lake Michigan charter fishing. Professional captain, full equipment.",
+    "must_try": null,
+    "hours": "By appointment",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cloud Nine Charter",
+    "address": "Michigan City, IN 46360",
+    "phone": "(219) 879-7852",
+    "website": "https://fishingoncloudnine.com",
+    "category": "boating",
+    "subcategory": "charters",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Experienced charter captain. Salmon, trout, steelhead on Lake Michigan.",
+    "must_try": null,
+    "hours": "By appointment",
+    "seasonal": "April through October",
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Washington Park Beach",
+    "address": "100 E Michigan Blvd, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.5",
+    "description": "2 miles of beach, lifeguards, pier to 1904 East Pierhead Lighthouse, Oasis Splash Pad, volleyball. Parking $15/day.",
+    "must_try": "Walk the pier to the lighthouse at sunset",
+    "hours": "Dawn to dusk",
+    "seasonal": "Beach season June-September, park year-round",
+    "modes": [
+      "chill",
+      "lake",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Indiana Dunes National Park",
+    "address": "Michigan City area, IN",
+    "phone": null,
+    "website": "https://nps.gov/indu",
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.7",
+    "description": "15 miles of shoreline, 50+ miles of trails, 15,000 acres. $25/vehicle 7-day pass. Mount Baldy is closest access from MC.",
+    "must_try": "Mount Baldy hike, 3 Dune Challenge at State Park",
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "lake",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Friendship Botanic Gardens",
+    "address": "2055 E US Hwy 12, Michigan City, IN 46360",
+    "phone": "(219) 878-9885",
+    "website": "https://friendshipgardens.org",
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.5",
+    "description": "105 acres, 24+ themed gardens, Lake Lucerne. Originally from the 1933 World's Fair. $10 adult.",
+    "must_try": "Japanese Garden, Lake Lucerne loop",
+    "hours": "Daily 10am-dusk (seasonal)",
+    "seasonal": "May through October",
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Creek Ridge County Park",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "112 acres, wetland boardwalks, disc golf, off-leash dog area, steelhead fishing on Trail Creek.",
+    "must_try": "Wetland boardwalk, disc golf",
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "lake",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MC Municipal Golf Course",
+    "address": "4000 E Michigan Blvd, Michigan City, IN 46360",
+    "phone": "(219) 873-1516",
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "golf",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "36 holes (North + South courses). Driving range, pro shop. Affordable municipal course.",
+    "must_try": "18 holes on the South course",
+    "hours": "Dawn to dusk, seasonal",
+    "seasonal": "April through November",
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Washington Park Zoo",
+    "address": "Washington Park, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "family",
+    "price": "Free",
+    "rating": "4.0",
+    "description": "Free zoo since 1928. Small but kids love it. Right next to the beach.",
+    "must_try": null,
+    "hours": "Daily, seasonal",
+    "seasonal": "May through October",
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barker Mansion",
+    "address": "631 Washington St, Michigan City, IN 46360",
+    "phone": "(219) 873-1520",
+    "website": "https://barkermansion.org",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$",
+    "rating": "4.5",
+    "description": "38-room, 35,000 sq ft English Manor (1857-1909). 90% original furnishings. $10 adult.",
+    "must_try": "Guided tour of all 38 rooms",
+    "hours": "Daily 10am-3pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Old Lighthouse Museum",
+    "address": "1 Washington St, Michigan City, IN 46360",
+    "phone": "(219) 872-6133",
+    "website": "https://mchistorical.org",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Indiana's oldest lighthouse (1858). Shipwrecks, lightkeeper Harriet Colfax who served 43 years. Climb to lantern room. $10 adult.",
+    "must_try": "Climb to the lantern room",
+    "hours": "Tue-Sun 1pm-4pm (seasonal)",
+    "seasonal": "April through October",
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lubeznik Center for the Arts",
+    "address": "101 W 2nd St, Michigan City, IN 46360",
+    "phone": "(219) 874-4900",
+    "website": "https://lubeznikcenter.org",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "5 galleries, outdoor sculpture, Gallery Shop. Always free admission. Check for First Friday events.",
+    "must_try": "First Friday Art Walk",
+    "hours": "Tue-Sat 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Michigan City Public Library",
+    "address": "100 E 4th St, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://mclib.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Designed by Helmut Jahn. Translucent walls, sawtooth roof mimicking lake waves. AIA award winner. Worth visiting just for the architecture.",
+    "must_try": "See the interior light during golden hour",
+    "hours": "Mon-Sat",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lighthouse Place Premium Outlets",
+    "address": "601 Wabash St, Michigan City, IN 46360",
+    "phone": "(219) 874-2915",
+    "website": "https://premiumoutlets.com/outlet/lighthouse-place",
+    "category": "shopping",
+    "subcategory": "outlets",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "70+ stores, ~1M visitors/year. Nike, Coach, North Face, Under Armour, Kate Spade, Polo Ralph Lauren.",
+    "must_try": "Grab the free coupon book at the info center",
+    "hours": "Mon-Sat 10am-8pm, Sun 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Antique Market",
+    "address": "3707 Frontage Rd, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "antiques",
+    "price": "$-$$",
+    "rating": "4.5",
+    "description": "Premier antique mall since 1990. 140+ dealers, most items under $100. Best Antique Shop 5 years running.",
+    "must_try": "Browse all 140+ dealer booths",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Uptown Arts District",
+    "address": "Franklin St corridor, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$-$$",
+    "rating": null,
+    "description": "Franklin St corridor: Good News Vintage, Hoity Toity, Ballyea Jewelry, Lange's Meat Market, galleries. First Friday Art Walk monthly.",
+    "must_try": "First Friday Art Walk, Lange's Meat Market",
+    "hours": "Varies by shop",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Farmers Market",
+    "address": "8th & Washington St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Producers-only market: fresh produce, artisan breads, local honey, live music. Every Saturday through October.",
+    "must_try": "Local honey, artisan bread, live music",
+    "hours": "Saturdays 8am-12pm",
+    "seasonal": "May through October",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Chip Casino Hotel",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$-$$$",
+    "rating": "4.0",
+    "description": "486 rooms, casino, Spa Blu (10,000 sq ft), indoor pool, 2 hot tubs. The anchor. Starts around $99/night.",
+    "must_try": "Spa Blu, pool, Stay + Play package",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hampton Inn & Suites Michigan City",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Free hot breakfast, pool, gym. Reliable mid-range. ~$112/night.",
+    "must_try": null,
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Bridge Inn",
+    "address": "Uptown Arts District, Michigan City, IN 46360",
+    "phone": "(219) 561-0066",
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Boutique suites on Trail Creek. Kitchenettes, jetted tubs, 40-ft boat slips. 9.2/10 Expedia.",
+    "must_try": "Suite with boat slip access",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "lake"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Brewery Lodge at Zorn",
+    "address": "5727 N 600 W, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "12-suite boutique in a 1930s manor on 40+ wooded acres. Restaurant, spa, Zorn beers on draft.",
+    "must_try": "Spa, dinner at the lodge restaurant",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beachwalk Resort",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "vacation_rentals",
+    "price": "$$-$$$$",
+    "rating": "4.3",
+    "description": "Most popular vacation rental community. Beach access, pools, splash pad. $150-$500+/night depending on unit.",
+    "must_try": "Multi-bedroom unit for a group weekend",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Spa Blu at Blue Chip",
+    "address": "777 Blue Chip Dr, Michigan City, IN 46360",
+    "phone": null,
+    "website": "https://bluechip.boydgaming.com",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "10,000 sq ft spa in the Spa Blu Tower. Full service: massage, facials, body treatments, salon.",
+    "must_try": "Couples massage, hot stone treatment",
+    "hours": "Daily by appointment",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "casino"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Redamak's",
+    "address": "616 E Buffalo St, New Buffalo, MI 49117",
+    "phone": "(269) 469-4522",
+    "website": "https://redamaks.com",
+    "category": "side_trip",
+    "subcategory": "new_buffalo",
+    "price": "$",
+    "rating": "4.5",
+    "description": "'The Hamburger That Made New Buffalo Famous.' Since 1975. CASH ONLY (ATM on-site). Worth the line.",
+    "must_try": "Cheeseburger + chocolate shake",
+    "hours": "Memorial Day-Labor Day daily, weekends off-season",
+    "seasonal": "Peak summer, limited off-season",
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stray Dog Bar & Grill",
+    "address": "245 N Whittaker St, New Buffalo, MI 49117",
+    "phone": null,
+    "website": null,
+    "category": "side_trip",
+    "subcategory": "new_buffalo",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Rooftop bar with marina + lake views. Great sunset spot.",
+    "must_try": "Rooftop cocktails at sunset",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Greenbush Brewing",
+    "address": "Sawyer, MI (15 min north)",
+    "phone": null,
+    "website": "https://greenbushbrewing.com",
+    "category": "side_trip",
+    "subcategory": "new_buffalo",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Top 10 brewery in Michigan per USA Today. Dog-friendly. BYOF (bring your own food).",
+    "must_try": "Craft beers, fire pits, live music",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Round Barn Winery",
+    "address": "Baroda, MI (30 min north)",
+    "phone": null,
+    "website": null,
+    "category": "side_trip",
+    "subcategory": "new_buffalo",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Iconic turn-of-century Amish round barn. Vineyard cabanas, heated igloos, Bourbon Barn.",
+    "must_try": "Vineyard cabana reservation, bourbon tasting",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Horizon Coffee",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Weekday morning spot. Good flat whites.",
+    "must_try": "Flat white",
+    "hours": "Mon-Fri 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Olympia Lanes",
+    "address": "1401 Wabash St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "bowling",
+    "price": "$",
+    "rating": "3.8",
+    "description": "Glow-in-the-dark bowling weekends. Classic lanes, arcade games.",
+    "must_try": "Glow bowling Friday/Saturday nights",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Oasis Splash Pad",
+    "address": "Washington Park, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Free splash pad in Washington Park. Perfect for toddlers to 10-year-olds.",
+    "must_try": null,
+    "hours": "Memorial Day through Labor Day",
+    "seasonal": "Memorial Day through Labor Day",
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "East Pierhead Lighthouse",
+    "address": "Washington Park pier, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Walk the pier to the 1904 lighthouse. Iconic Michigan City photo op, especially at sunset.",
+    "must_try": "Sunset walk on the pier",
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bentwood Tavern",
+    "address": "Marina Grand Resort, New Buffalo, MI 49117",
+    "phone": null,
+    "website": null,
+    "category": "side_trip",
+    "subcategory": "new_buffalo",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Upscale lakefront dining at Marina Grand. Great wine list and sunset views.",
+    "must_try": "Whitefish, sunset patio",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Food City",
+    "address": "Franklin St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "3.8",
+    "description": "Main grocery store. Stock your rental or cabin here.",
+    "must_try": null,
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": true
+  },
+  {
+    "name": "Walmart Supercenter",
+    "address": "5936 S Franklin St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "3.5",
+    "description": "Full grocery, pharmacy, everything. On the south end of Franklin.",
+    "must_try": null,
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "CVS Pharmacy",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.5",
+    "description": "Pharmacy, basics, beach supplies in a pinch.",
+    "must_try": null,
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": true
+  },
+  {
+    "name": "Franciscan Health Michigan City",
+    "address": "301 W Homer St, Michigan City, IN 46360",
+    "phone": "(219) 879-8511",
+    "website": null,
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "3.5",
+    "description": "Full hospital with emergency room. Walk-in urgent care also available.",
+    "must_try": null,
+    "hours": "ER 24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Dune Yoga",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "wellness",
+    "subcategory": "yoga",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Yoga classes, some offered outdoors in summer at the dunes and beach.",
+    "must_try": "Beach yoga class",
+    "hours": "By schedule",
+    "seasonal": "Outdoor classes summer only",
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Panini Panini",
+    "address": "Franklin St, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Quick paninis, soups, and salads downtown. Good lunch stop between shops.",
+    "must_try": "Italian panini",
+    "hours": "Mon-Sat 11am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Hokkaido Japanese Restaurant",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Sushi and Japanese cuisine. One of the few Asian options in town.",
+    "must_try": "Sushi rolls, hibachi",
+    "hours": "Tue-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "El Cajete",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Authentic Mexican. Tacos, burritos, tamales. Local favorite.",
+    "must_try": "Street tacos, tamales",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Duneland Pizza",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.0",
+    "description": "Delivery pizza. Good for stocking a cabin or late-night hotel order.",
+    "must_try": "Delivery pizza to your rental",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Mucho Mas",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Mexican restaurant with generous portions and solid margaritas.",
+    "must_try": "Margaritas, enchilada plate",
+    "hours": "Daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Trail Creek Dog Park",
+    "address": "Creek Ridge County Park, Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.2",
+    "description": "Off-leash dog area within Creek Ridge County Park. Fenced, shaded.",
+    "must_try": null,
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Karwick Nature Preserve",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "Quiet hiking trails through dune forest. Less crowded than the national park.",
+    "must_try": "Loop trail through dune ridges",
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "lake"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Horizon Wind Coffee",
+    "address": "Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Neighborhood coffee spot. Good flat whites, quiet mornings.",
+    "must_try": "Flat white",
+    "hours": "Mon-Fri 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Harbour Trust & Savings Bank Building",
+    "address": "Downtown Michigan City, IN 46360",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": null,
+    "description": "Architectural landmark in the downtown core. Art Deco details worth a look while walking Franklin St.",
+    "must_try": "Exterior photo on Franklin St walk",
+    "hours": "Exterior viewing anytime",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": true
+  }
+]

@@ -1,0 +1,165 @@
+[
+  {
+    "keys": ["hello", "hi", "hey", "sup", "yo", "howdy", "what's up", "start", "help", "menu"],
+    "text": "Welcome aboard, captain. I'm the Harbor Master — been on these docks thirty years. What are you looking for?",
+    "businesses": [],
+    "chips": ["Where to eat", "Best bars & breweries", "Get on the water", "Things to do", "Where to stay", "New Buffalo trip", "Coffee", "Shopping"]
+  },
+  {
+    "keys": ["eat", "food", "dinner", "lunch", "restaurant", "hungry", "dining", "where to eat", "recommend"],
+    "text": "Depends what you're after, captain. Michigan City punches way above its weight on food. What sounds right?",
+    "businesses": [],
+    "chips": ["Waterfront dining", "Best steaks", "Casual & burgers", "Italian", "BBQ & soul food", "Breakfast spot"]
+  },
+  {
+    "keys": ["waterfront", "water view", "lake view", "outdoor dining", "patio", "sunset dinner", "bartlett", "bridges", "dock"],
+    "text": "You want to eat on the water? Bartlett's Fish Camp is the crown jewel — oyster bar, lobster rolls, 80 outdoor seats right on the lake. Seasonal May through September, no reservations, so get there early. Bridges Waterside Grille is your dockside option on Trail Creek. And Matey's three-level Tiki Deck has the best lake views for cocktails.",
+    "businesses": ["Bartlett's Fish Camp", "Bridges Waterside Grille", "Matey's Restaurant"],
+    "chips": ["Bartlett's details", "Best steaks", "Breweries", "Book a table"],
+    "sponsor": { "id": "dining", "cta": "Book a Reservation", "section": "harbor-dining" }
+  },
+  {
+    "keys": ["steak", "steakhouse", "fine dining", "nice dinner", "date night", "special occasion", "farina", "galveston"],
+    "text": "Three moves here. Farina's Supper Club is Chef Joseph Farina from Chicago — Pork Chop Sinatra, spiked gelato, book on OpenTable. Galveston Steakhouse is old-school supper club, no reservations, Prime Rib comes with free clam chowder and bread. Maybe thirty bucks. The Steakhouse at Blue Chip is USDA Prime, 21+, if you want to make a night of it at the casino.",
+    "businesses": ["Farina's Supper Club", "Galveston Steakhouse", "The Steakhouse at Blue Chip"],
+    "chips": ["Waterfront dining", "Bars after dinner", "Blue Chip Casino"],
+    "sponsor": { "id": "dining", "cta": "Find a Table", "section": "harbor-steak" }
+  },
+  {
+    "keys": ["casual", "burger", "cheap eats", "pub", "gastropub", "fiddlehead", "leeds", "lunch spot"],
+    "text": "For burgers, locals will fight you over this one. Swingbelly's does the Monday $5 burger special and has the best Lake Perch on the Great Lakes — been there since '83. Leeds Public House on Franklin is the gastropub move: Nashville Hot Chicken Mac, 14 local beers on tap. Fiddlehead does grass-fed burgers and great vegetarian options. Cool Runnings for Jamaican — the jerk chicken is unreal.",
+    "businesses": ["Swingbelly's", "Leeds Public House", "Fiddlehead Restaurant", "Cool Runnings"],
+    "chips": ["Waterfront dining", "Breweries", "Breakfast", "BBQ"]
+  },
+  {
+    "keys": ["bbq", "barbecue", "ribs", "soul food", "smoke"],
+    "text": "Social Que BBQ — Michigan City native started it in 2017, modern smoking with family recipes. Get there before they sell out. Up N Smoke Rib Shack is veteran-owned, and their Sunday brunch buffet with make-your-own omelets is a sleeper hit.",
+    "businesses": ["Social Que BBQ", "Up N Smoke Rib Shack"],
+    "chips": ["Burgers", "Breweries", "Breakfast"]
+  },
+  {
+    "keys": ["italian", "pasta", "pizza"],
+    "text": "Albano's Villa has been doing Sicilian family recipes since 1957 — old school red sauce done right. Roma Pizza for your quick slice or calzone fix, family recipes for 50+ years. If you want upscale Italian, Farina's does a Mile High Meat Lasagna that'll change your life.",
+    "businesses": ["Albano's Villa", "Roma Pizza", "Farina's Supper Club"],
+    "chips": ["Steaks", "Casual dining", "Coffee"]
+  },
+  {
+    "keys": ["breakfast", "brunch", "pancake", "morning", "sophia", "memo"],
+    "text": "Sophia's House of Pancakes. Go early. Open 363 days a year, massive portions, fresh flowers on every table. The 5-egg omelets and Nutella crepes are the move. If you want Mexican breakfast, Memo's is family-run — chorizo scrambles, huevos rancheros, homemade salsa. Holly's for the classic diner experience.",
+    "businesses": ["Sophia's House of Pancakes", "Memo's House of Pancakes", "Holly's Restaurant"],
+    "chips": ["Coffee after", "Beach day", "Shopping"]
+  },
+  {
+    "keys": ["coffee", "cafe", "espresso", "latte"],
+    "text": "FLUID Coffee Roasters on Franklin. Small-batch, art on the walls, the Voodoo Latte is the cult favorite. Basecamp Marina Cafe if you want coffee with a waterfront view. Lakeshore Coffee near the outlets for a quick stop.",
+    "businesses": ["FLUID Coffee Roasters", "Basecamp Marina Cafe", "Lakeshore Coffee"],
+    "chips": ["Breakfast", "Shopping nearby", "Beach day"]
+  },
+  {
+    "keys": ["bar", "bars", "drink", "drinks", "brewery", "breweries", "beer", "craft beer", "nightlife", "night out"],
+    "text": "Burn 'Em Brewing is the crown — voted Best Brewery two years running, 20+ beers on tap, Grateful Dead vibe, live music weekends. Garbage Pail Nachos are a move. Shoreline Brewery is World Beer Cup winner, one block from the lake. Zorn Brew Works does Taco Tuesday. For cocktails, The Cellar Door is an 1890 barroom with vintage pinball. Ritz Klub is the oldest tavern since the 1890s — legendary cheeseburgers and Sunday Bloody Mary Bar.",
+    "businesses": ["Burn 'Em Brewing", "Shoreline Brewery", "Zorn Brew Works", "The Cellar Door", "Ritz Klub Tavern"],
+    "chips": ["Best food at breweries", "After dinner drinks", "Casino night", "Wine"]
+  },
+  {
+    "keys": ["wine", "winery", "vino"],
+    "text": "Shady Creek Winery has a tasting room and nice grounds for an afternoon. If you've got time, Round Barn Winery in Baroda (30 min north into Michigan) is iconic — Amish round barn, vineyard cabanas, heated igloos in winter, plus a Bourbon Barn.",
+    "businesses": ["Shady Creek Winery", "Round Barn Winery"],
+    "chips": ["Breweries", "New Buffalo trip", "Romantic dinner"]
+  },
+  {
+    "keys": ["casino", "blue chip", "gamble", "gambling", "slots", "poker", "table games"],
+    "text": "Blue Chip Casino & Hotel — 1,700+ slots, 40 table games, 8 live poker tables, and the sportsbook for Indiana legal betting. Stardust Event Center brings national touring acts. Rocks Lounge has nightly live music. The Steakhouse is the fine dining play. The 22-story Spa Blu Tower is the tallest building in the city — spa, pool, the works.",
+    "businesses": ["Blue Chip Casino & Hotel"],
+    "chips": ["Blue Chip dining", "Sportsbook", "Where to stay", "After the casino"],
+    "sponsor": { "id": "blue-chip", "cta": "Explore Blue Chip", "section": "harbor-casino" }
+  },
+  {
+    "keys": ["sportsbook", "sports betting", "bet", "fanduel", "lines", "odds", "game"],
+    "text": "Blue Chip Sportsbook is your spot — Indiana legal sports betting, big screens, game-day atmosphere. Part of the casino complex so you can bounce between the tables and the book all night.",
+    "businesses": ["Blue Chip Sportsbook"],
+    "chips": ["Casino details", "Bars nearby", "Where to eat"],
+    "sponsor": { "id": "sportsbook", "cta": "Check Today's Lines", "section": "harbor-sports" }
+  },
+  {
+    "keys": ["boat", "boating", "marina", "rent a boat", "kayak", "jet ski", "paddle", "sup", "sail", "pontoon"],
+    "text": "Trail Creek Marina has 100+ slips, fuel dock, launch ramp. Harbor Country Adventures rents kayaks ($45/2hr), SUPs, jet-skis ($95/hr), and pontoon boats — no license needed for pontoons. Michigan City Sailboat Charters does captained sunset sails and overnight trips to New Buffalo or Chicago. B&E Marine if you're buying.",
+    "businesses": ["Michigan City Port Authority", "Harbor Country Adventures", "Michigan City Sailboat Charters", "B&E Marine"],
+    "chips": ["Charter fishing", "Sailboat details", "Marina rules"],
+    "sponsor": { "id": "boating", "cta": "Rent a Boat", "section": "harbor-boating" }
+  },
+  {
+    "keys": ["fishing", "charter", "salmon", "steelhead", "perch", "catch", "fish", "coho", "chinook"],
+    "text": "Michigan City is one of the top charter ports on Lake Michigan. Season runs April through October — King Salmon, Coho, Steelhead, Lake Trout, Brown Trout. All charters supply equipment, sell licenses on board, and clean your catch. Most run 6 passengers max, starting around $650. Fire Drill, Tightline, and Colorblind are the ones I'd call first.",
+    "businesses": ["Fire Drill Charters", "Tightline Fishing", "Colorblind Charters"],
+    "chips": ["Book a charter", "Boating rentals", "Best lake perch restaurant"],
+    "sponsor": { "id": "boating", "cta": "Book a Charter", "section": "harbor-charter" }
+  },
+  {
+    "keys": ["beach", "dunes", "hike", "outdoor", "park", "walk", "nature", "trail", "garden", "golf", "splash pad"],
+    "text": "Washington Park Beach — 2 miles of sand, walk the pier to the 1904 East Pierhead Lighthouse at sunset. Parking $15/day. Oasis Splash Pad is free for kids. Indiana Dunes National Park is 15 min west — Mount Baldy is the closest big dune access, stunning views. Friendship Botanic Gardens is 105 acres from the 1933 World's Fair. Creek Ridge County Park for disc golf and wetland boardwalks.",
+    "businesses": ["Washington Park Beach", "Indiana Dunes National Park", "Friendship Botanic Gardens", "Creek Ridge County Park"],
+    "chips": ["Beach details", "Dune hikes", "Family activities", "Boating"]
+  },
+  {
+    "keys": ["shop", "shopping", "outlets", "stores", "antiques", "boutique", "gallery"],
+    "text": "Lighthouse Place Premium Outlets — 70+ stores, Nike, Coach, North Face, Kate Spade. Grab the coupon book at the info center. The Antique Market on Frontage Rd has 140+ dealers, most items under $100. Uptown Arts District on Franklin is your gallery walk and vintage shopping — Good News Vintage, Hoity Toity, Ballyea Jewelry, and Lange's Meat Market. Saturdays there's the Farmers Market at 8th & Washington, producers-only through October.",
+    "businesses": ["Lighthouse Place Premium Outlets", "The Antique Market", "Uptown Arts District", "Farmers Market"],
+    "chips": ["Outlet deals", "Downtown walk", "Coffee nearby"],
+    "sponsor": { "id": "outlets", "cta": "Get Coupon Book", "section": "harbor-shop" }
+  },
+  {
+    "keys": ["hotel", "stay", "sleep", "lodging", "room", "airbnb", "vacation rental", "where to stay"],
+    "text": "Blue Chip Casino Hotel starts around $99 — 486 rooms, pool, Spa Blu, you're on top of the action. Bridge Inn is the boutique move in the Uptown Arts District — suites on Trail Creek with jetted tubs and boat slips. The Brewery Lodge at Zorn is a 12-suite manor on 40 wooded acres if you want secluded. Beachwalk Resort for vacation rentals — beach access, pools, $150-$500+/night depending on unit.",
+    "businesses": ["Blue Chip Casino Hotel", "Bridge Inn", "The Brewery Lodge at Zorn", "Beachwalk Resort"],
+    "chips": ["Casino details", "Romantic stay", "Family stay", "Budget options"]
+  },
+  {
+    "keys": ["family", "kids", "children", "kid-friendly"],
+    "text": "Washington Park Beach has the Oasis Splash Pad — free, and it'll make you a hero. The zoo in Washington Park is free too, since 1928. Friendship Botanic Gardens is great for a walk. Sophia's does Mickey Mouse pancakes. Lighthouse Place Outlets has a playground area. And if it rains, there's always bowling at Olympia Lanes.",
+    "businesses": ["Washington Park Beach", "Washington Park Zoo", "Friendship Botanic Gardens", "Sophia's House of Pancakes", "Lighthouse Place Premium Outlets"],
+    "chips": ["Beach details", "Shopping", "Breakfast", "Ice cream"]
+  },
+  {
+    "keys": ["romantic", "date", "couple", "anniversary", "proposal"],
+    "text": "Sunset sail on a 34-ft sailboat — BYOB, 2 hours, captained. Dinner at Farina's (book on OpenTable). Stay at Bridge Inn with the jetted tubs. Or the Brewery Lodge if you want total seclusion. Spa Blu at Blue Chip for couples massage. End the night at The Cellar Door for cocktails in an 1890 barroom.",
+    "businesses": ["Michigan City Sailboat Charters", "Farina's Supper Club", "Bridge Inn", "Spa Blu at Blue Chip", "The Cellar Door"],
+    "chips": ["Sunset sail details", "Fine dining", "Boutique hotels", "Wine"]
+  },
+  {
+    "keys": ["chicago", "drive", "coming from", "how to get", "south shore", "train", "amtrak"],
+    "text": "Sixty miles east of Chicago — under 90 minutes by car on I-94, or take the South Shore Line from Millennium Station straight to the Michigan City stop. Amtrak stops here too on the Wolverine line. Once you're here, Turo's your best bet for a car if you came by train. Most of the waterfront and downtown is walkable though.",
+    "businesses": [],
+    "chips": ["Where to eat first", "Where to stay", "Beach day"]
+  },
+  {
+    "keys": ["perfect day", "itinerary", "plan my day", "what should i do", "full day", "day trip", "schedule"],
+    "text": "Here's the local play, captain: Morning coffee at FLUID on Franklin. Beach time at Washington Park — walk the pier, swim, hit the splash pad if you've got kids. Lunch at Swingbelly's (it's right there). Afternoon: rent kayaks from Harbor Country Adventures or browse the outlets. Happy hour at Burn 'Em Brewing — Garbage Pail Nachos, whatever's on tap. Dinner at Bartlett's if it's summer (get there early). End the night at The Cellar Door or Blue Chip, depending on your vibe.",
+    "businesses": ["FLUID Coffee Roasters", "Washington Park Beach", "Swingbelly's", "Harbor Country Adventures", "Burn 'Em Brewing", "Bartlett's Fish Camp", "The Cellar Door", "Blue Chip Casino & Hotel"],
+    "chips": ["Make it a casino night", "Family version", "Romantic version", "Rainy day plan"]
+  },
+  {
+    "keys": ["late night", "after hours", "where to go late", "midnight"],
+    "text": "Blue Chip Casino is 24/7 — that's your late night move. Rocks Lounge inside has live music most nights. Before midnight, The Cellar Door is open Thursday through Sunday. Burn 'Em often runs late on weekends with live music.",
+    "businesses": ["Blue Chip Casino & Hotel", "The Cellar Door", "Burn 'Em Brewing"],
+    "chips": ["Casino details", "Tomorrow's breakfast", "Where to stay"]
+  },
+  {
+    "keys": ["new buffalo", "michigan", "day trip", "nearby", "side trip"],
+    "text": "Twenty minutes north and you're in New Buffalo, Michigan. Redamak's is the move — 'The Hamburger That Made New Buffalo Famous' since 1975. Cash only, worth the line. Stray Dog has a rooftop bar with marina views. Greenbush Brewing in Sawyer is Top 10 in Michigan — dog-friendly, bring your own food. Round Barn Winery in Baroda for vineyard cabanas and a Bourbon Barn. It's a great afternoon side trip.",
+    "businesses": ["Redamak's", "Stray Dog Bar & Grill", "Greenbush Brewing", "Round Barn Winery"],
+    "chips": ["Back to MC for dinner", "Wineries", "Beach in New Buffalo"]
+  },
+  {
+    "keys": ["event", "events", "what's happening", "concert", "festival", "show", "tonight", "this weekend"],
+    "text": "Check the ticker at the top of the page for what's coming up. The big ones: Blues Festival in June, Sand Sculpting Festival in July, Great Lakes Grand Prix powerboat race in August, Taste of Michigan City in August. First Friday Art Walk is every month. Burn 'Em and Zorn have live music most weekends. Blue Chip's Stardust Event Center brings national touring acts — check their calendar.",
+    "businesses": ["Burn 'Em Brewing", "Zorn Brew Works", "Stardust Event Center"],
+    "chips": ["This weekend", "Live music", "Casino shows", "Family events"]
+  },
+  {
+    "keys": ["history", "museum", "culture", "art", "gallery", "lighthouse", "mansion"],
+    "text": "Barker Mansion is a 38-room English manor from 1857 — 90% original furnishings, $10 tour. The Old Lighthouse Museum is Indiana's oldest (1858), climb to the lantern room, learn about lightkeeper Harriet Colfax who served 43 years. Lubeznik Center for the Arts is always free — 5 galleries, outdoor sculpture. The public library is worth seeing just for the Helmut Jahn architecture — translucent walls, sawtooth roof mimicking lake waves.",
+    "businesses": ["Barker Mansion", "Old Lighthouse Museum", "Lubeznik Center for the Arts", "Michigan City Public Library"],
+    "chips": ["Art Walk", "Downtown walk", "Coffee nearby", "Shopping"]
+  }
+]

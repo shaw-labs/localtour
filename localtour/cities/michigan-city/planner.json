@@ -1,0 +1,502 @@
+{
+  "morning_starts": [
+    {
+      "title": "Coffee at FLUID Roasters",
+      "note": "Get the Voodoo Latte. 518 Franklin St.",
+      "business": "FLUID Coffee Roasters",
+      "website": "https://fluidcoffeelove.com",
+      "duration": "45 min"
+    },
+    {
+      "title": "Breakfast at Sophia's",
+      "note": "Go early \u2014 5-egg omelets, Nutella crepes. Open 363 days/yr.",
+      "business": "Sophia's House of Pancakes",
+      "website": "https://sophiaspancakehouse.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Brunch at Leeds Public House",
+      "note": "Weekend brunch, fire pit patio, Nashville Hot Chicken Mac.",
+      "business": "Leeds Public House",
+      "website": "https://leedspublichouse.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Coffee at Basecamp Marina",
+      "note": "Coffee with a waterfront view at the marina.",
+      "business": "Basecamp Marina Cafe",
+      "website": null,
+      "duration": "30 min"
+    },
+    {
+      "title": "Breakfast at Memo's",
+      "note": "Family-run. Chorizo scrambles, huevos rancheros, homemade salsa.",
+      "business": "Memo's House of Pancakes",
+      "website": null,
+      "duration": "1 hr"
+    },
+    {
+      "title": "Coffee at Lakeshore Caf\u00e9",
+      "note": "Quick stop near the outlets before a shopping morning.",
+      "business": "Lakeshore Coffee",
+      "website": null,
+      "duration": "30 min"
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Washington Park Beach",
+      "note": "2 miles of sand. Walk the pier to the 1904 lighthouse. Parking $15.",
+      "business": "Washington Park Beach",
+      "website": null,
+      "duration": "3 hrs"
+    },
+    {
+      "title": "Indiana Dunes \u2014 Mount Baldy hike",
+      "note": "Closest big dune access. Stunning lake views from the top. $25/vehicle.",
+      "business": "Indiana Dunes National Park",
+      "website": "https://nps.gov/indu",
+      "duration": "2-3 hrs"
+    },
+    {
+      "title": "3 Dune Challenge at Dunes State Park",
+      "note": "Mt. Tom, Mt. Holden, Mt. Jackson. Brutal but worth it.",
+      "business": "Indiana Dunes National Park",
+      "website": null,
+      "duration": "3 hrs"
+    },
+    {
+      "title": "Rent a pontoon boat",
+      "note": "No license needed. Half-day from Harbor Country Adventures.",
+      "business": "Harbor Country Adventures",
+      "website": "https://harborcountryadventures.com",
+      "duration": "3-4 hrs"
+    },
+    {
+      "title": "Kayak Trail Creek",
+      "note": "Single/double kayaks from $45/2hr. SUPs available.",
+      "business": "Harbor Country Adventures",
+      "website": "https://harborcountryadventures.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Jet ski rental",
+      "note": "$95/hr from Trail Creek dock.",
+      "business": "Harbor Country Adventures",
+      "website": "https://harborcountryadventures.com",
+      "duration": "1-2 hrs"
+    },
+    {
+      "title": "Sunset sail",
+      "note": "2-hour captained cruise on a 34-ft sailboat. BYOB. Book for 2-6.",
+      "business": "Michigan City Sailboat Charters",
+      "website": null,
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Charter fishing \u2014 salmon/steelhead",
+      "note": "Fire Drill, Tightline, or Colorblind. Equipment provided, ~$650.",
+      "business": "Fire Drill Charters",
+      "website": "https://firedrillcharters.com",
+      "duration": "5-8 hrs"
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Barker Mansion tour",
+      "note": "38-room English manor, 90% original furnishings. $10.",
+      "business": "Barker Mansion",
+      "website": "https://barkermansion.org",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Old Lighthouse Museum",
+      "note": "Indiana's oldest (1858). Climb to lantern room. $10.",
+      "business": "Old Lighthouse Museum",
+      "website": "https://mchistorical.org",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Lubeznik Center for the Arts",
+      "note": "5 galleries, always free. Check for First Friday events.",
+      "business": "Lubeznik Center for the Arts",
+      "website": "https://lubeznikcenter.org",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Uptown Arts District walk",
+      "note": "Galleries, vintage shops, Lange's meat market on Franklin St.",
+      "business": "Uptown Arts District",
+      "website": null,
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Friendship Botanic Gardens",
+      "note": "105 acres, 24+ gardens, from the 1933 World's Fair. $10.",
+      "business": "Friendship Botanic Gardens",
+      "website": "https://friendshipgardens.org",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Michigan City Public Library",
+      "note": "Helmut Jahn architecture. Translucent walls, sawtooth roof. Free.",
+      "business": "Michigan City Public Library",
+      "website": "https://mclib.org",
+      "duration": "30 min"
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Lighthouse Place Premium Outlets",
+      "note": "70+ stores \u2014 Nike, Coach, North Face, Kate Spade. Grab the coupon book.",
+      "business": "Lighthouse Place Premium Outlets",
+      "website": "https://premiumoutlets.com/outlet/lighthouse-place",
+      "duration": "2-3 hrs"
+    },
+    {
+      "title": "The Antique Market",
+      "note": "140+ dealers, most items under $100. Best Antique Shop 5 years running.",
+      "business": "The Antique Market",
+      "website": null,
+      "duration": "1-2 hrs"
+    },
+    {
+      "title": "Uptown Arts District shopping",
+      "note": "Good News Vintage, Hoity Toity, Ballyea Jewelry on Franklin.",
+      "business": "Uptown Arts District",
+      "website": null,
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Farmers Market (Saturday)",
+      "note": "Producers-only, 8am-noon at 8th & Washington. Local honey, artisan bread.",
+      "business": "Farmers Market",
+      "website": null,
+      "duration": "1 hr"
+    },
+    {
+      "title": "Shady Creek Winery tasting",
+      "note": "Local winery, nice grounds for an afternoon.",
+      "business": "Shady Creek Winery",
+      "website": "https://shadycreekwinery.com",
+      "duration": "1 hr"
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Lunch at Swingbelly's",
+      "note": "Lake perch + Monday $5 burgers. Steps from the beach.",
+      "business": "Swingbelly's",
+      "website": "https://swingbellys.org",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Lunch at Fiddlehead",
+      "note": "Grass-fed burgers, great vegetarian options. No reservations.",
+      "business": "Fiddlehead Restaurant",
+      "website": "https://fiddleheadmc.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Lunch at Cool Runnings",
+      "note": "Jerk chicken, curry chicken, generous portions.",
+      "business": "Cool Runnings",
+      "website": "https://coolrunningsin.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Lunch at Leeds Public House",
+      "note": "Nashville Hot Chicken Mac, 14 local beers on tap.",
+      "business": "Leeds Public House",
+      "website": "https://leedspublichouse.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "BBQ at Social Que",
+      "note": "Modern smoking, family recipes. Get there before they sell out.",
+      "business": "Social Que BBQ",
+      "website": null,
+      "duration": "1 hr"
+    },
+    {
+      "title": "Pizza at Roma",
+      "note": "Family recipes 50+ years. Pizza, calzones, delivery.",
+      "business": "Roma Pizza",
+      "website": null,
+      "duration": "45 min"
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Burn 'Em Brewing",
+      "note": "20+ beers on tap. Garbage Pail Nachos. Live music weekends.",
+      "business": "Burn 'Em Brewing",
+      "website": "https://burnembrewing.com",
+      "duration": "1-2 hrs"
+    },
+    {
+      "title": "Shoreline Brewery",
+      "note": "World Beer Cup winner. One block from the lake.",
+      "business": "Shoreline Brewery",
+      "website": "https://shorelinebrewery.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Zorn Brew Works",
+      "note": "Taco Tuesday is the move. Big indoor/outdoor space.",
+      "business": "Zorn Brew Works",
+      "website": "https://zornbrewworks.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Ritz Klub Tavern",
+      "note": "Oldest tavern since 1890s. Sunday Bloody Mary Bar.",
+      "business": "Ritz Klub Tavern",
+      "website": null,
+      "duration": "1 hr"
+    },
+    {
+      "title": "Matey's Tiki Deck",
+      "note": "3-level Tiki Deck with lake views. Tropical cocktails.",
+      "business": "Matey's Restaurant",
+      "website": "https://mateysbar.com",
+      "duration": "1.5 hrs"
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Dinner at Swingbelly's",
+      "note": "Lake perch + Monday $5 burgers. Steps from the beach.",
+      "business": "Swingbelly's",
+      "website": "https://swingbellys.org",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Dinner at Fiddlehead",
+      "note": "Grass-fed burgers, great vegetarian options. No reservations.",
+      "business": "Fiddlehead Restaurant",
+      "website": "https://fiddleheadmc.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Dinner at Cool Runnings",
+      "note": "Jerk chicken, curry chicken, generous portions.",
+      "business": "Cool Runnings",
+      "website": "https://coolrunningsin.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Dinner at Albano's Villa",
+      "note": "Sicilian family recipes since 1957. Red sauce heaven.",
+      "business": "Albano's Villa",
+      "website": null,
+      "duration": "1 hr"
+    },
+    {
+      "title": "Dinner at Leeds Public House",
+      "note": "Fire pit patio. Nashville Hot Chicken Mac.",
+      "business": "Leeds Public House",
+      "website": "https://leedspublichouse.com",
+      "duration": "1 hr"
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Dinner at Farina's Supper Club",
+      "note": "Book on OpenTable. Pork Chop Sinatra, spiked gelato.",
+      "business": "Farina's Supper Club",
+      "website": "https://farinasupperclub.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Dinner at Galveston Steakhouse",
+      "note": "Prime Rib ~$30, includes clam chowder & bread. No reservations.",
+      "business": "Galveston Steakhouse",
+      "website": "https://thegalvestonsteakhouse.com",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Dinner at Patrick's Grille",
+      "note": "Locally sourced, Lobster Bisque, Beef Tenderloins.",
+      "business": "Patrick's Grille",
+      "website": "https://patricksgrille.com",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "The Steakhouse at Blue Chip",
+      "note": "USDA Prime, 21+. Reservations required.",
+      "business": "The Steakhouse at Blue Chip",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Dinner at Bridges Waterside Grille",
+      "note": "Dockside on Trail Creek. Seasonal May-Sept. Elevated waterfront.",
+      "business": "Bridges Waterside Grille",
+      "website": "https://bridgeswatersidegrille.com",
+      "duration": "1.5 hrs"
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Sunset dinner at Bartlett's Fish Camp",
+      "note": "Oyster bar, lobster rolls, 80 outdoor seats. THE spot.",
+      "business": "Bartlett's Fish Camp",
+      "website": "https://bartlettsfishcamp.net",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Dinner at Farina's Supper Club",
+      "note": "Chef Joseph Farina. Three private dining rooms. OpenTable.",
+      "business": "Farina's Supper Club",
+      "website": "https://farinasupperclub.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Dinner at Bridges Waterside Grille",
+      "note": "Dockside on Trail Creek. Seasonal May-Sept.",
+      "business": "Bridges Waterside Grille",
+      "website": "https://bridgeswatersidegrille.com",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Dinner at Patrick's Grille",
+      "note": "Refined American. White tablecloth without pretense.",
+      "business": "Patrick's Grille",
+      "website": "https://patricksgrille.com",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Dinner at The Brewery Lodge",
+      "note": "12-suite manor on 40 wooded acres. Restaurant, Zorn beers.",
+      "business": "The Brewery Lodge at Zorn",
+      "website": null,
+      "duration": "2 hrs"
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Blue Chip Casino",
+      "note": "1,700+ slots, 40 tables, sportsbook. Open 24/7.",
+      "business": "Blue Chip Casino & Hotel",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "3+ hrs"
+    },
+    {
+      "title": "Stardust Event Center show",
+      "note": "National touring acts. Dinner + show packages.",
+      "business": "Stardust Event Center",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "2-3 hrs"
+    },
+    {
+      "title": "Cocktails at The Cellar Door",
+      "note": "1890 barroom, vintage pinball, curated cocktails.",
+      "business": "The Cellar Door",
+      "website": "https://cellardoorbar.com",
+      "duration": "1-2 hrs"
+    },
+    {
+      "title": "Live music at Burn 'Em Brewing",
+      "note": "Weekend bands on the patio. No cover.",
+      "business": "Burn 'Em Brewing",
+      "website": "https://burnembrewing.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Rocks Lounge at Blue Chip",
+      "note": "Nightly live music inside the casino.",
+      "business": "Blue Chip Casino & Hotel",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "1-2 hrs"
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Oasis Splash Pad + Washington Park Zoo",
+      "note": "Free zoo since 1928. Splash pad right next door.",
+      "business": "Washington Park Zoo",
+      "website": null,
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Washington Park Beach",
+      "note": "Lifeguards, volleyball, pier walk. Parking $15.",
+      "business": "Washington Park Beach",
+      "website": null,
+      "duration": "3 hrs"
+    },
+    {
+      "title": "Lighthouse Place Outlets",
+      "note": "70+ stores. Playground area. Coupon book at info center.",
+      "business": "Lighthouse Place Premium Outlets",
+      "website": "https://premiumoutlets.com/outlet/lighthouse-place",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Friendship Botanic Gardens",
+      "note": "105 acres, Lake Lucerne, themed gardens. Great for a walk.",
+      "business": "Friendship Botanic Gardens",
+      "website": "https://friendshipgardens.org",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Pancakes at Sophia's",
+      "note": "Mickey Mouse pancakes. You'll be a hero.",
+      "business": "Sophia's House of Pancakes",
+      "website": "https://sophiaspancakehouse.com",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Creek Ridge County Park",
+      "note": "Wetland boardwalks, disc golf, off-leash dog area.",
+      "business": "Creek Ridge County Park",
+      "website": null,
+      "duration": "1.5 hrs"
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Blue Chip Casino",
+      "note": "1,700+ slots, restaurants, spa. All indoors.",
+      "business": "Blue Chip Casino & Hotel",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "3+ hrs"
+    },
+    {
+      "title": "Barker Mansion tour",
+      "note": "38-room manor. 90% original furnishings. $10.",
+      "business": "Barker Mansion",
+      "website": "https://barkermansion.org",
+      "duration": "1.5 hrs"
+    },
+    {
+      "title": "Lubeznik Center for the Arts",
+      "note": "5 galleries, always free.",
+      "business": "Lubeznik Center for the Arts",
+      "website": "https://lubeznikcenter.org",
+      "duration": "1 hr"
+    },
+    {
+      "title": "Lighthouse Place Outlets",
+      "note": "Covered walkways. 70+ stores.",
+      "business": "Lighthouse Place Premium Outlets",
+      "website": "https://premiumoutlets.com/outlet/lighthouse-place",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Spa Blu at Blue Chip",
+      "note": "10,000 sq ft spa. Massage, facials, treatments.",
+      "business": "Spa Blu at Blue Chip",
+      "website": "https://bluechip.boydgaming.com",
+      "duration": "2 hrs"
+    },
+    {
+      "title": "Brewery crawl",
+      "note": "Burn 'Em \u2192 Shoreline \u2192 Zorn. All indoors, all excellent.",
+      "business": "Burn 'Em Brewing",
+      "website": "https://burnembrewing.com",
+      "duration": "3 hrs"
+    }
+  ]
+}

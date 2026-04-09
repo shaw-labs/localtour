@@ -1,0 +1,171 @@
+{
+  "slug": "michigan-city",
+  "name": "Michigan City",
+  "state": "Indiana",
+  "region": "Great Lakes",
+  "tagline": "Where Industry Meets the Lake",
+  "description": "A port city reborn. Sand dunes, marinas, casinos, and lakeshore living just an hour from Chicago.",
+  "coordinates": { "lat": 41.7075, "lng": -86.8950 },
+  "timezone": "America/Chicago",
+  "population": 31479,
+  "nearest_major_city": "Chicago, IL — 60 miles, ~90 min drive",
+  "domain_legacy": "michigancity.life",
+
+  "identity": {
+    "known_for": [
+      "Indiana Dunes National Park access",
+      "Washington Park Beach and lighthouse",
+      "Blue Chip Casino",
+      "Charter fishing on Lake Michigan",
+      "Lighthouse Place Premium Outlets",
+      "Uptown Arts District",
+      "Gateway from Chicago"
+    ],
+    "vibe": "Blue-collar lakefront town going through a renaissance — steel mills gave way to sand dunes, marinas, and a growing food scene.",
+    "best_season": "summer",
+    "visitor_type": ["weekend warriors from Chicago", "casino overnight guests", "fishing charters", "beach families", "outlet shoppers", "foodies"]
+  },
+
+  "hero": {
+    "summer": {
+      "image": "hero-aerial.jpg",
+      "title": "Michigan City — Where Industry Meets the Lake",
+      "sub": "A port city reborn. Steel mills gave way to sand dunes, marinas, and a lakeshore lifestyle just an hour from Chicago."
+    },
+    "fall": {
+      "image": "seasonal-fall.jpg",
+      "title": "Michigan City — Fall on the Lake",
+      "sub": "Autumn colors meet the shoreline. Dune hikes, outlet shopping, and the last warm weekends before winter."
+    },
+    "winter": {
+      "image": "seasonal-winter.jpg",
+      "title": "Michigan City — The Lake Never Sleeps",
+      "sub": "Casino nights, downtown dining, and the frozen drama of a Great Lakes winter."
+    },
+    "spring": {
+      "image": "seasonal-spring.jpg",
+      "title": "Michigan City — The Lake Wakes Up",
+      "sub": "Fishing season opens. The charters are booking. The dunes are turning green. Spring on Lake Michigan starts here."
+    }
+  },
+
+  "nexus": {
+    "type": "casino",
+    "anchor": "Blue Chip Casino & Hotel",
+    "anchor_url": "https://bluechip.boydgaming.com",
+    "radius": "walkable",
+    "services": ["stay", "eat", "drink", "play", "bet"],
+    "affiliate_density": "high",
+    "description": "486-room casino resort with 1,700+ slots, 40 tables, sportsbook, Stardust Event Center, Spa Blu, and multiple restaurants. Tallest building in the city."
+  },
+
+  "nexus_grid": [
+    { "id": "lake", "title": "Beach & Lake", "icon": "🏖️", "description": "Two miles of sand, charter fishing, dunes" },
+    { "id": "eat", "title": "Eat & Drink", "icon": "🍽️", "description": "Waterfront dining, breweries, coffee" },
+    { "id": "casino", "title": "Casino & Nightlife", "icon": "🎰", "description": "Blue Chip, sportsbook, live music" },
+    { "id": "shopping", "title": "Shopping & Arts", "icon": "🛍️", "description": "70+ outlet stores, galleries, antiques" },
+    { "id": "boating", "title": "Get on the Water", "icon": "⛵", "description": "Marina, kayaks, sailboat charters" },
+    { "id": "plan", "title": "Plan Your Trip", "icon": "📋", "description": "Itinerary builder, transit, lodging" }
+  ],
+
+  "sponsors": {
+    "anchor": {
+      "id": "blue-chip",
+      "name": "Blue Chip Casino & Hotel",
+      "url": "https://bluechip.boydgaming.com",
+      "tagline": "Michigan City's entertainment anchor"
+    },
+    "categories": [
+      { "id": "boating", "name": "GetMyBoat", "section": "boating", "ctas": ["Rent a Boat", "Book a Charter", "Plan a Lake Day"] },
+      { "id": "sportsbook", "name": "FanDuel", "section": "casino", "ctas": ["Check Today's Lines"], "disclaimer": "21+. Terms apply. Play responsibly." },
+      { "id": "dining", "name": "OpenTable", "section": "eat", "ctas": ["Find a Table", "Book a Reservation"] },
+      { "id": "outlets", "name": "Lighthouse Place Premium Outlets", "section": "shopping", "ctas": ["Browse Deals", "Get Coupon Book"] }
+    ],
+    "album_sponsors": {
+      "Marina": { "id": "boating", "cta": "Rent a Boat", "label": "GetMyBoat" },
+      "Casino Night": { "id": "blue-chip", "cta": "Explore Blue Chip", "label": "Blue Chip Casino" },
+      "Beach": { "id": "boating", "cta": "Plan a Lake Day", "label": "GetMyBoat" },
+      "Shopping": { "id": "outlets", "cta": "Get Coupon Book", "label": "Lighthouse Place Outlets" },
+      "Food": { "id": "dining", "cta": "Find a Table", "label": "OpenTable" }
+    }
+  },
+
+  "modes": [
+    { "id": "chill", "label": "Chill Day", "icon": "☀️", "description": "Beach, coffee, sunset, easy meals", "tags": ["waterfront", "coffee", "breakfast", "outdoor"] },
+    { "id": "casino", "label": "Casino Night", "icon": "🎰", "description": "Blue Chip, steaks, cocktails, sports", "tags": ["casino", "fine_dining", "bars", "live_music"] },
+    { "id": "lake", "label": "Lake Day", "icon": "⛵", "description": "Dunes, kayaking, biking, exploring", "tags": ["beaches", "water_sports", "hiking", "fishing"] },
+    { "id": "foodie", "label": "Foodie Tour", "icon": "🍽️", "description": "Restaurant crawl, breweries, coffee", "tags": ["gastropub", "breweries", "coffee", "waterfront", "fine_dining"] },
+    { "id": "culture", "label": "Culture Walk", "icon": "🎨", "description": "Museums, galleries, history, theatre", "tags": ["museums", "galleries", "historic_sites", "landmarks"] },
+    { "id": "family", "label": "Family Trip", "icon": "👨‍👩‍👧‍👦", "description": "Kid-friendly beaches, zoo, outlets", "tags": ["beaches", "parks", "shopping", "breakfast"] },
+    { "id": "romantic", "label": "Romantic Escape", "icon": "💫", "description": "Sunset sail, fine dining, spa", "tags": ["fine_dining", "sailing", "spas", "boutique_hotels"] }
+  ],
+
+  "transit": {
+    "from_nearest_hub": {
+      "drive": "~90 min from Chicago via I-94. ~2.5 hrs from Indianapolis via US-421.",
+      "train": "South Shore Line from Chicago Millennium Station to Michigan City (11th St Station). ~2 hrs. Also Amtrak Wolverine line.",
+      "fly": "Fly into Chicago O'Hare (ORD) or Midway (MDW), then drive east or connect to South Shore Line."
+    },
+    "local_transport": "Waterfront and downtown are walkable. Car recommended for dunes, outlets, and restaurants along Franklin St. Turo or rental for train arrivals."
+  },
+
+  "side_trips": [
+    {
+      "name": "New Buffalo, MI",
+      "distance": "20 min north",
+      "pitch": "Small-town Lake Michigan charm with legendary burgers, rooftop bars, and wine country.",
+      "highlights": ["Redamak's burgers (cash only, worth the line)", "Stray Dog rooftop bar", "Round Barn Winery", "Greenbush Brewing", "Bentwood Tavern at Marina Grand"]
+    },
+    {
+      "name": "Indiana Dunes National Park",
+      "distance": "15 min west",
+      "pitch": "15 miles of shoreline, 50+ miles of trails, 15,000 acres of dune ecosystems.",
+      "highlights": ["Mount Baldy hike", "3 Dune Challenge", "West Beach sunset", "Cowles Bog Trail", "$25/vehicle 7-day pass"]
+    }
+  ],
+
+  "concierge": {
+    "name": "Harbor Master",
+    "greeting": "Welcome aboard, captain. I'm the Harbor Master — been on these docks thirty years. What are you looking for?",
+    "personality": "Salty, warm, knowledgeable local",
+    "sign_off": "Fair winds, captain."
+  },
+
+  "wall": {
+    "albums": ["Beach", "Marina", "Casino Night", "Downtown", "Food", "Shopping", "Sunset", "Events", "Throwback"]
+  },
+
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": true,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+
+  "images": {
+    "hero-aerial.jpg": { "section": "hero", "season": "summer" },
+    "seasonal-fall.jpg": { "section": "hero", "season": "fall" },
+    "seasonal-winter.jpg": { "section": "hero", "season": "winter" },
+    "seasonal-spring.jpg": { "section": "hero", "season": "spring" },
+    "hero-lighthouse-dusk.jpg": { "section": "story" },
+    "history-harbor-fog.jpg": { "section": "story" },
+    "history-railyard.jpg": { "section": "story" },
+    "history-old-lighthouse.jpg": { "section": "story" },
+    "lake-beach.jpg": { "section": "lake" },
+    "lake-marina.jpg": { "section": "lake" },
+    "lake-charter-fishing.jpg": { "section": "lake" },
+    "boating-charter.jpg": { "section": "boating" },
+    "boating-sailboat.jpg": { "section": "boating" },
+    "boating-pontoon.jpg": { "section": "boating" },
+    "eat-restaurant.jpg": { "section": "eat" },
+    "eat-coffee.jpg": { "section": "eat" },
+    "eat-outlets.jpg": { "section": "shopping" },
+    "casino-night.jpg": { "section": "casino" },
+    "casino-sportsbook.jpg": { "section": "casino" },
+    "plan-hotel.jpg": { "section": "plan" },
+    "plan-drive.jpg": { "section": "plan" },
+    "wall-polaroids.jpg": { "section": "wall" }
+  }
+}
