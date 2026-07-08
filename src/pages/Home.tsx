@@ -60,6 +60,18 @@ export default function Home() {
               ))}
             </section>
 
+            <section className="flex flex-wrap gap-2">
+              {cities.map((c) => (
+                <a
+                  key={c.slug}
+                  href={`/cities/${c.slug}`}
+                  className="px-3 py-1.5 border border-stone-700 rounded text-xs text-stone-300 hover:border-amber-400 hover:text-amber-400"
+                >
+                  {c.config.name} →
+                </a>
+              ))}
+            </section>
+
             <section>
               <table className="w-full text-sm border-collapse">
                 <thead>

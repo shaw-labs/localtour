@@ -1,0 +1,9 @@
+/* LocalTour engine stylesheet.
+   PLACEHOLDER — replaced by the WS1 css-extract port (lines 12–1596 of the inline
+   apps: feed ambient globals + keyframes, then the full Classic "preview 4" system).
+   Only the keyframes the foundation stubs need are here. */
+@keyframes viewfade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+.view-enter { animation: viewfade 0.5s ease-out both; }
