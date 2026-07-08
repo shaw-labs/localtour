@@ -1,0 +1,340 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>LocalTour · Final Cut — Work Page</title>
+<style>
+  :root{
+    --ink-0:#0a0a0a; --ink-1:#131110; --ink-2:#1c1815; --line:#2a241d;
+    --paper:#f2ece1; --dim:#a89c8a; --faint:#6f6558;
+    --red:#dc2626; --gold:#d4a853;
+    --ok:#6fb583; --warn:#e8a63a; --crit:#e04b3a; --info:#7d94b8;
+    --serif:"Playfair Display",Georgia,"Times New Roman",serif;
+    --sans:"DM Sans",-apple-system,"Segoe UI","Helvetica Neue",Arial,sans-serif;
+    --mono:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,Consolas,monospace;
+  }
+  html{background:var(--ink-0)}
+  body{background:var(--ink-0);color:var(--paper);font-family:var(--sans);
+    font-size:15px;line-height:1.55;margin:0;padding:0 20px 96px;
+    -webkit-font-smoothing:antialiased}
+  .wrap{max-width:1060px;margin:0 auto}
+  a{color:var(--gold);text-decoration:none;border-bottom:1px solid rgba(212,168,83,.35)}
+  a:hover,a:focus-visible{color:#e9c37a;border-bottom-color:#e9c37a;outline:none}
+  :focus-visible{outline:2px solid var(--gold);outline-offset:2px}
+
+  /* masthead */
+  header{padding:44px 0 26px;border-bottom:1px solid var(--line)}
+  .eyebrow{font-family:var(--mono);font-size:11px;letter-spacing:.22em;
+    text-transform:uppercase;color:var(--red);margin:0 0 10px}
+  h1{font-family:var(--serif);font-weight:500;font-style:italic;
+    font-size:clamp(34px,5.5vw,52px);line-height:1.05;margin:0;text-wrap:balance}
+  h1 .plain{font-style:normal}
+  .masthead-sub{color:var(--dim);max-width:62ch;margin:14px 0 0}
+  .statusline{display:flex;flex-wrap:wrap;gap:8px;margin-top:20px}
+  .chip{font-family:var(--mono);font-size:11px;letter-spacing:.06em;
+    padding:4px 10px;border:1px solid var(--line);border-radius:2px;color:var(--dim);
+    background:var(--ink-1);white-space:nowrap}
+  .chip b{color:var(--paper);font-weight:600}
+  .chip.live b{color:var(--gold)}
+  .chip.run{border-color:rgba(212,168,83,.4)}
+  .chip.run b{color:var(--gold)}
+
+  /* sections */
+  section{margin-top:52px}
+  .sec-head{display:flex;align-items:baseline;gap:14px;border-bottom:1px solid var(--line);
+    padding-bottom:10px;margin-bottom:20px}
+  .sec-head h2{font-family:var(--serif);font-style:italic;font-weight:500;
+    font-size:24px;margin:0}
+  .sec-head .tag{font-family:var(--mono);font-size:10.5px;letter-spacing:.18em;
+    text-transform:uppercase;color:var(--faint)}
+  .sec-note{color:var(--dim);font-size:13.5px;margin:-10px 0 18px;max-width:74ch}
+
+  /* verified numbers */
+  .numbers{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:1px;
+    background:var(--line);border:1px solid var(--line)}
+  .num{background:var(--ink-1);padding:18px 16px 14px}
+  .num .v{font-family:var(--serif);font-size:34px;line-height:1;color:var(--paper);
+    font-variant-numeric:tabular-nums}
+  .num .v.gold{color:var(--gold)}
+  .num .k{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;
+    text-transform:uppercase;color:var(--faint);margin-top:8px}
+  .verify-banner{display:flex;gap:10px;align-items:center;margin-top:12px;
+    font-family:var(--mono);font-size:12px;color:var(--ok)}
+  .verify-banner::before{content:"";width:8px;height:8px;background:var(--ok);
+    border-radius:50%;flex:none}
+
+  /* tables */
+  .tbl-scroll{overflow-x:auto;border:1px solid var(--line)}
+  table{border-collapse:collapse;width:100%;font-size:13px;min-width:640px}
+  th{font-family:var(--mono);font-size:10.5px;letter-spacing:.14em;text-transform:uppercase;
+    color:var(--faint);text-align:left;padding:10px 14px;border-bottom:1px solid var(--line);
+    background:var(--ink-1);font-weight:500}
+  td{padding:9px 14px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--dim)}
+  tr:last-child td{border-bottom:none}
+  td.mono, .mono{font-family:var(--mono);font-variant-numeric:tabular-nums}
+  td .strong{color:var(--paper)}
+  .drift-pos{color:var(--crit)} .drift-neg{color:var(--warn)}
+
+  /* truth debt board */
+  .debt{display:flex;flex-direction:column;gap:10px}
+  .debt-row{display:grid;grid-template-columns:5px 92px 1fr;gap:0;
+    background:var(--ink-1);border:1px solid var(--line)}
+  .debt-row .stripe{background:var(--faint)}
+  .debt-row.crit .stripe{background:var(--crit)}
+  .debt-row.high .stripe{background:var(--warn)}
+  .debt-row.med .stripe{background:var(--info)}
+  .debt-row .sev{font-family:var(--mono);font-size:10px;letter-spacing:.16em;
+    text-transform:uppercase;padding:14px 0 0 14px;color:var(--faint)}
+  .debt-row.crit .sev{color:var(--crit)} .debt-row.high .sev{color:var(--warn)}
+  .debt-row.med .sev{color:var(--info)}
+  .debt-row .body{padding:12px 16px 13px}
+  .debt-row h3{font-size:14.5px;margin:0 0 4px;color:var(--paper);font-weight:600}
+  .debt-row p{margin:0;color:var(--dim);font-size:13px;max-width:88ch}
+  .debt-row .fix{font-family:var(--mono);font-size:11px;color:var(--faint);margin-top:7px}
+  .debt-row .fix b{color:var(--gold);font-weight:500}
+
+  /* workstreams */
+  .ws-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
+  .ws{background:var(--ink-1);border:1px solid var(--line);padding:16px 18px 14px;
+    display:flex;flex-direction:column;gap:8px}
+  .ws-top{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+  .ws-id{font-family:var(--mono);font-size:11px;color:var(--red);letter-spacing:.1em}
+  .ws h3{font-size:15px;margin:0;color:var(--paper);font-weight:600}
+  .ws p{margin:0;font-size:12.8px;color:var(--dim)}
+  .pill{font-family:var(--mono);font-size:10px;letter-spacing:.12em;text-transform:uppercase;
+    padding:3px 8px;border-radius:2px;white-space:nowrap;flex:none}
+  .pill.todo{color:var(--faint);border:1px solid var(--line)}
+  .pill.gated{color:var(--warn);border:1px solid rgba(232,166,58,.35)}
+  .pill.done{color:var(--ok);border:1px solid rgba(111,181,131,.35)}
+  .pill.next{color:var(--gold);border:1px solid rgba(212,168,83,.5);background:rgba(212,168,83,.08)}
+
+  /* phase rail */
+  .phases{display:flex;flex-direction:column}
+  .phase{display:grid;grid-template-columns:56px 1fr auto;gap:16px;align-items:baseline;
+    padding:13px 4px;border-bottom:1px solid var(--line)}
+  .phase:last-child{border-bottom:none}
+  .phase .no{font-family:var(--serif);font-style:italic;font-size:22px;color:var(--faint)}
+  .phase.active .no{color:var(--gold)}
+  .phase .what{color:var(--dim);font-size:13.5px}
+  .phase .what b{color:var(--paper);font-weight:600}
+  .phase .gate{font-family:var(--mono);font-size:11px;color:var(--faint);text-align:right;max-width:300px}
+
+  /* codebase map */
+  .repo-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:12px}
+  .repo{background:var(--ink-1);border:1px solid var(--line);padding:16px 18px}
+  .repo .role{font-family:var(--mono);font-size:10px;letter-spacing:.16em;
+    text-transform:uppercase;color:var(--gold);margin-bottom:6px}
+  .repo .path{font-family:var(--mono);font-size:12.5px;color:var(--paper);word-break:break-all}
+  .repo p{margin:8px 0 0;font-size:12.8px;color:var(--dim)}
+  .repo.warn-card{border-color:rgba(224,75,58,.4)}
+  .repo.warn-card .role{color:var(--crit)}
+
+  /* founder inputs */
+  .inputs{display:flex;flex-direction:column;gap:1px;background:var(--line);border:1px solid var(--line)}
+  .input-row{display:grid;grid-template-columns:110px 1fr;gap:14px;background:var(--ink-1);
+    padding:12px 16px;align-items:baseline}
+  .input-row .st{font-family:var(--mono);font-size:10px;letter-spacing:.14em;text-transform:uppercase}
+  .st.resolved{color:var(--ok)} .st.needed{color:var(--warn)} .st.later{color:var(--faint)}
+  .input-row .desc{font-size:13.5px;color:var(--dim)}
+  .input-row .desc b{color:var(--paper);font-weight:600}
+
+  /* decision log */
+  .log{border-left:2px solid var(--line);margin-left:6px;padding-left:22px;
+    display:flex;flex-direction:column;gap:16px}
+  .log-item{position:relative}
+  .log-item::before{content:"";position:absolute;left:-27px;top:6px;width:8px;height:8px;
+    background:var(--ink-0);border:2px solid var(--red);border-radius:50%}
+  .log-item .d{font-family:var(--mono);font-size:11px;color:var(--faint)}
+  .log-item p{margin:2px 0 0;font-size:13.5px;color:var(--dim);max-width:82ch}
+  .log-item p b{color:var(--paper);font-weight:600}
+
+  footer{margin-top:64px;padding-top:18px;border-top:1px solid var(--line);
+    display:flex;flex-wrap:wrap;gap:8px 24px;justify-content:space-between;
+    font-family:var(--mono);font-size:11px;color:var(--faint)}
+  @media (prefers-reduced-motion: no-preference){
+    header{animation:rise .5s ease-out both}
+    @keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+  }
+</style>
+
+<div class="wrap">
+<header>
+  <p class="eyebrow">SH@W Labs · localtour.directory · consolidation &amp; monetization release</p>
+  <h1>Final Cut <span class="plain">—</span> the work page</h1>
+  <p class="masthead-sub">Every claim generated from data. Three money doors open. One engine, eight cities, one Vegas portal. This board tracks what's true on disk today and what stands between here and shipped.</p>
+  <div class="statusline">
+    <span class="chip live">phase <b>0 — COMPLETE, gates green</b></span>
+    <span class="chip run">work deploy <b>localtour-work.netlify.app</b></span>
+    <span class="chip">data <b>modular containers (final-cut pack)</b></span>
+    <span class="chip">session <b>Fable 5 + ultracode</b></span>
+    <span class="chip">updated <b>2026-07-07</b></span>
+  </div>
+</header>
+
+<section>
+  <div class="sec-head"><h2>The crown jewel, verified</h2><span class="tag">data layer · exact</span></div>
+  <p class="sec-note">Every count the brief claimed was re-derived from the eight <span class="mono">data.js</span> files, parsed read-only. All 32 per-city figures (businesses / deals / events / nodes × 8 cities) match <em>exactly</em>. The aggregate story the site tells is true — only the per-city retellings drift (see truth debt).</p>
+  <div class="numbers">
+    <div class="num"><div class="v gold">1,471</div><div class="k">businesses</div></div>
+    <div class="num"><div class="v">214</div><div class="k">concierge nodes</div></div>
+    <div class="num"><div class="v">212</div><div class="k">events</div></div>
+    <div class="num"><div class="v">128</div><div class="k">deals</div></div>
+    <div class="num"><div class="v">8</div><div class="k">cities live</div></div>
+    <div class="num"><div class="v">94–97%</div><div class="k">engine code identical</div></div>
+  </div>
+  <p class="verify-banner">32/32 claimed counts exact · <span style="color:var(--dim)">the mystery <span class="mono">se</span> field is resolved: it means <b style="color:var(--paper)">seasonal</b> — 69 non-empty values, every one a seasonal-operation note ("Open Mar–Nov", "King Cake: Jan–Feb")</span></p>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Truth debt</h2><span class="tag">defects on production today</span></div>
+  <div class="debt">
+    <div class="debt-row crit"><div class="stripe"></div><div class="sev">critical</div><div class="body">
+      <h3>Vegas portal force-redirects — the opposite of the WS6 spec</h3>
+      <p><span class="mono">/vegas/</span> is a 4-stage "trapdoor": fake city shell (~950ms, badged <em>Now Live · #9</em>) → cinematic fall → crossfade into the <em>exact dimmed photo SlotGenie's age gate uses</em> → <span class="mono">location.replace('https://slotgenie.bet')</span>. Plus a hidden pre-warming iframe. No tap-through, no choice, <b>zero UTM attribution</b>. The brief mandates "No auto-redirect — the traveler chooses."</p>
+      <div class="fix">fix in <b>WS6</b> — keep the animation language, add chosen tap-through + UTM + portal_slotgenie_click beacon</div>
+    </div></div>
+    <div class="debt-row crit"><div class="stripe"></div><div class="sev">critical</div><div class="body">
+      <h3>Service worker pins users to stale data forever</h3>
+      <p><span class="mono">CACHE_NAME = "localtour-directory-v1"</span> — static, never versioned — with cache-first for everything and every GET written back. HTML and <span class="mono">data.js</span> stay frozen at first visit. Unacceptable for a product selling fresh deals.</p>
+      <div class="fix">fix in <b>WS2</b> — build-hash cache name, network-first for HTML + data.json</div>
+    </div></div>
+    <div class="debt-row high"><div class="stripe"></div><div class="sev">high</div><div class="body">
+      <h3>All 8 per-city stats drift — rigged to sum correctly</h3>
+      <p>explore.html business counts: NYC shows <span class="mono drift-pos">312 (actual 190)</span>, Houston <span class="mono drift-neg">142 (actual 212)</span>, Smoky <span class="mono drift-neg">74 (actual 155)</span>, LA <span class="mono drift-pos">218 (actual 154)</span>… every city wrong, yet the shown values sum to exactly 1,471. Same pattern on concierge.html node counts (sum to exactly 214). The brief flagged 3 cities; it's all 8, twice over.</p>
+      <div class="fix">fix in <b>WS2</b> — every displayed number computed from data at build time; verify script fails on drift</div>
+    </div></div>
+    <div class="debt-row high"><div class="stripe"></div><div class="sev">high</div><div class="body">
+      <h3>Expired events render — 53 of 94 hard-dated events are past</h3>
+      <p>56% of ISO-dated events are already over (vs 2026-07-04). Confirmed FIFA bug: LA (<span class="mono">2026-06-12</span>) and SF (<span class="mono">2026-06-11</span>) encode the World Cup as single past dates — reading as expired <em>while the tournament is still running</em> — where NYC correctly uses the range <span class="mono">2026-06-13 to 2026-07-19</span>. The other 118 events are recurring free-text ("recurring: mid-July") — evergreen but unsortable.</p>
+      <div class="fix">fix in <b>WS2</b> — date-filter at render; verify script fails a city with &lt;3 upcoming events</div>
+    </div></div>
+    <div class="debt-row high"><div class="stripe"></div><div class="sev">high</div><div class="body">
+      <h3>Partners page promises what doesn't exist</h3>
+      <p>"Conversion analytics <b>baked in</b>" — nothing behind it. No tier names, no prices, no pricing.json anywhere. Creator track promises "server-side tracking, real-time analytics, CSV export" — none exists. All five CTAs are <span class="mono">mailto:</span> links. Zero fetch calls, zero forms, zero payment integration in the whole product.</p>
+      <div class="fix">fix in <b>WS3+WS4</b> — beacon + merchant stats make the claim true before the copy survives</div>
+    </div></div>
+    <div class="debt-row med"><div class="stripe"></div><div class="sev">medium</div><div class="body">
+      <h3>Category taxonomy drift across cities</h3>
+      <p>Chicago uses a legacy short taxonomy (<span class="mono">bars, coffee, outdoor, wellness</span>) vs the standard (<span class="mono">bars_nightlife, coffee_bakeries…</span>). Miami keeps legacy <span class="mono">wellness</span> and adds <span class="mono">boating_water</span>; SF adds <span class="mono">boating_water</span> too. Cross-city filtering would break today. Also: LA uses <span class="mono">""</span> where 7 cities use <span class="mono">null</span>; ratings are strings everywhere; deal fields <span class="mono">ex</span>/<span class="mono">rv</span> are 100% unused.</p>
+      <div class="fix">fix in <b>phase 0</b> — normalize during data.js → data.json migration, document in DATA_SCHEMA.md</div>
+    </div></div>
+    <div class="debt-row med"><div class="stripe"></div><div class="sev">medium</div><div class="body">
+      <h3>3 deals already expired · copy contradictions</h3>
+      <p>Joe's Stone Crab Takeout (exp 05-15), SFMOMA (04-17), SF Restaurant Week (04-19) still render. about.html says "one of seventeen," then "seventeen <em>more</em>," then "the other sixteen" — three different subsidiary counts on one page. Landing hand-types 8 / 1,471 / 0 (currently correct, but literals).</p>
+      <div class="fix">fix in <b>WS2</b> — respect exp; copy audit line by line</div>
+    </div></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Workstreams</h2><span class="tag">WS1–WS8 · none started · audit informs all</span></div>
+  <div class="ws-grid">
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS1</span><span class="pill next">unblocked</span></div>
+      <h3>Engine consolidation</h3>
+      <p>Audit verdict: <b style="color:var(--ok)">safe to collapse</b>. 8 apps are 94–97% byte-identical; core 1,080-line slice diffs 0–2 lines; zero forked business logic. The 8 arcade games are one state machine reskinned — parameterize as <span class="mono">&lt;TapGame&gt;</span>. Move PICKS + Feed editorial copy into data. Outlier: houston + nyc lack the rdProbeBackgrounds block.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS2</span><span class="pill todo">after ws1</span></div>
+      <h3>Truth pass</h3>
+      <p>Compute every stat from data; auto-expire events + deals; version the service worker; audit all copy. The drift inventory above is the punch list — locations pinned to file:line by the audit.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS3</span><span class="pill todo">phase 3</span></div>
+      <h3>Instrumentation</h3>
+      <p>The product merchants pay for. Beacon (sendBeacon → Netlify Function), Blobs storage, merchant stats page with magic tokens, Plausible site-wide. Nothing exists today — zero analytics, zero fetch calls.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS4</span><span class="pill gated">needs founder</span></div>
+      <h3>Three money doors</h3>
+      <p>Merchant: form + Stripe payment links + coupon clipper v1. DMO: /partners/cities/ pitch page + build-time PDF. Traveler: email capture + shareable ?plan= itineraries + PWA save-a-city. Blocked on pricing + Stripe (§7).</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS5</span><span class="pill gated">needs api key</span></div>
+      <h3>Concierge hybrid brain</h3>
+      <p>Today there are <em>two divergent matchers</em>: Feed does first-<span class="mono">includes</span>-wins with a node-0 fallback; Classic does length-weighted scoring. Unify into one tokenized L1 scorer + Anthropic-powered L2 grounded in the city graph. Model decision open — brief says "small fast model" with 3s timeout + budget cap.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS6</span><span class="pill todo">phase 6</span></div>
+      <h3>Vegas portal</h3>
+      <p>Keep the trapdoor's cinematic language — it's genuinely good — but make the handoff chosen: tap-through with UTM, beacon event, "from the SH@W Labs family" line, 9th explore tile "Served by SlotGenie ↗". Kill the auto-redirect and the #9 bait. Also: the landing fabricates "277 places" for Vegas, and its "Chance" sense links <span class="mono">shaw.casino</span> while the portal targets <span class="mono">slotgenie.bet</span> — one canonical URL needed.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS7</span><span class="pill todo">phase 7</span></div>
+      <h3>SEO &amp; performance</h3>
+      <p>Today crawlers see empty shells (everything renders through in-browser Babel). Build 1,471 static place pages with JSON-LD; sitemap; Lighthouse ≥90/95; media 108MB → &lt;30MB via AVIF/WebP pipeline.</p></div>
+    <div class="ws"><div class="ws-top"><span class="ws-id">WS8</span><span class="pill gated">needs sign-off</span></div>
+      <h3>America 250 layer</h3>
+      <p>One flagship trail per city — curated, narrated itineraries from the existing graph. Verify script fails if any stop doesn't resolve to a real listing. Campaign auto-sunsets to "Heritage Trails" via campaign.json. Founder reviews all 8 narratives.</p></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Phase rail</h2><span class="tag">strict order · site deployable at every commit</span></div>
+  <div class="phases">
+    <div class="phase active"><span class="no">0</span><span class="what"><b>Bootstrap</b> — Vite/TS repo, data.js → data.json + typed loader, verify-script skeleton, screenshot baseline</span><span class="gate">gate: lossless data round-trip · baseline archived</span></div>
+    <div class="phase"><span class="no">1</span><span class="what"><b>WS1</b> — one engine, both views, 8 cities, platform pages</span><span class="gate">gate: parity screenshots · single-fix propagates</span></div>
+    <div class="phase"><span class="no">2</span><span class="what"><b>WS2 + SW + images</b> — truth pass, versioned cache, media pipeline</span><span class="gate">gate: verify green · media &lt;30MB</span></div>
+    <div class="phase"><span class="no">3</span><span class="what"><b>WS3</b> — beacon, Blobs, merchant stats, Plausible</span><span class="gate">gate: coupon→stats demo, both views</span></div>
+    <div class="phase"><span class="no">4</span><span class="what"><b>WS4</b> — forms, Stripe, coupons, pitch page, share links, PWA</span><span class="gate">gate: the "stranger can…" list</span></div>
+    <div class="phase"><span class="no">5</span><span class="what"><b>WS5</b> — concierge L1 scoring + AI fallback</span><span class="gate">gate: 25-query eval × 8 cities · zero hallucinated venues</span></div>
+    <div class="phase"><span class="no">6</span><span class="what"><b>WS6 + WS8</b> — Vegas portal polish, America 250 trails</span><span class="gate">gate: tracked tap-through · 8 approved trails</span></div>
+    <div class="phase"><span class="no">7</span><span class="what"><b>WS7</b> — static place pages, Lighthouse budgets, launch QA matrix</span><span class="gate">gate: budgets met · checklist signed</span></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Codebase map</h2><span class="tag">who is what on this machine</span></div>
+  <div class="repo-grid">
+    <div class="repo"><div class="role">content source of truth</div>
+      <div class="path">~/Desktop/3ok 3/localtour.directory</div>
+      <p>The live static product. 8 cities × (data.js ≈ 94–143KB + 3,100-line inline-Babel index.html), platform + company pages, wall.html per city, the Vegas trapdoor, 108MB of images. Not a git repo.</p></div>
+    <div class="repo"><div class="role">target-stack scaffold + schema exemplar</div>
+      <div class="path">~/Downloads/localtour  ·  v0.2.0</div>
+      <p>Vite 6 + React 19 + TS + Tailwind skeleton with a near-empty src/. Its <span class="mono">michigan-city</span> example already defines the expanded target schema (6 JSON files, full field names — it literally ships <span class="mono">"seasonal"</span>, corroborating the <span class="mono">se</span> decode). Schema fixture, not shippable content. Unpacked copy, no .git; "localtour 2" is a duplicate.</p></div>
+    <div class="repo warn-card"><div class="role">final deploy — handle with care</div>
+      <div class="path">github.com/shaw-labs/localtour  ·  public</div>
+      <p>Per Aaron: the home-directory git repo (<span class="mono">/Users/aaronshaw/.git</span> → origin here) is the <b style="color:var(--paper)">final deploy</b> hookup. Standing rule: never run repo-wide git commands from under $HOME outside a nested repo — origin is public.</p></div>
+    <div class="repo"><div class="role">work build + dev deploy</div>
+      <div class="path">~/Desktop/localtour-work → localtour-work.netlify.app</div>
+      <p>Fresh clone of shaw-labs/localtour on <span class="mono">feat/phase-0-bootstrap</span>. Holds <span class="mono">cities-modular/</span> (the contract), the typed engine loader, verify gates, and the 43-shot baseline. Dev index computes every number from the containers at runtime; this board lives at <span class="mono">/work/</span>.</p></div>
+    <div class="repo"><div class="role">sister property</div>
+      <div class="path">~/Downloads/slotgenie.bet</div>
+      <p>Vegas is SlotGenie's turf. LocalTour ships only the portal handoff (WS6) — cross-property UTM attribution flows here.</p></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Phase 0 — executed</h2><span class="tag">all gates green · 2026-07-07</span></div>
+  <p class="sec-note">Build home: fresh clone at <span class="mono">~/Desktop/localtour-work</span> (branch <span class="mono">feat/phase-0-bootstrap</span>). Mid-phase, the founder delivered the <b style="color:var(--paper)">final-cut pack</b>: all 8 cities pre-migrated to the modular 7-file container format (<span class="mono">config / directory / events / deals / concierge / planner / trails</span>) with converter + validator. Per the pack README, <span class="mono">cities-modular/</span> was adopted as the data contract — superseding the interim single-data.json plan, whose lossless gate had already proven 8/8 before handoff. Provenance verified: converter output + the 26 documented cross-ref patches reproduce the delivered containers <em>exactly</em>.</p>
+  <div class="phases">
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Ingest</b> — 8 cities' <span class="mono">data.js</span> + images (98MB, gitignored pending WS7) into the clone; repo flattened (nested v0.2.0 copy hoisted, zip dropped)</span><span class="gate">done</span></div>
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Adopt containers</b> — <span class="mono">cities-modular/</span> (pack) is the on-disk format; interim byte-faithful data.json retired after its lossless gate proved 8/8</span><span class="gate">done · validator PASS 8/8</span></div>
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Typed loader</b> — <span class="mono">src/engine/data/</span> consumes the containers directly (code-split per file); <span class="mono">canonicalCategory()</span> is the deliberate display-side unification; selectors byName / grouped / sortedCats / filterByMode</span><span class="gate">done · tsc strict green</span></div>
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Provenance gate</b> — <span class="mono">verify-provenance.mjs</span> re-runs the converter on every build: output + the 26-patch log must reproduce <span class="mono">cities-modular/</span> exactly. Off-the-record edits fail the deploy</span><span class="gate">THE gate · 8/8 exact</span></div>
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Verify in CI</b> — contract (validate-cities) + counts (audit table) + provenance enforced inside <span class="mono">npm run build</span>; drift/expiry/links/media stubs staged for their phases</span><span class="gate">failed truth-check fails the deploy</span></div>
+    <div class="phase"><span class="no">✓</span><span class="what"><b>Screenshot baseline</b> — 43 shots (both views × 8 cities × 2 devices + 11 standalones incl. the Vegas trapdoor mid-animation, slotgenie redirect blocked) → <span class="mono">docs/baseline/</span></span><span class="gate">WS1's parity oracle · 13MB</span></div>
+    <div class="phase active"><span class="no">→</span><span class="what"><b>Close out</b> — commit series, push as shawlabs, PR with deploy preview. Then Phase 1 (WS1 engine) unblocks; batch-2 factory (7 new cities) waits on Phase 1's proof-of-render</span><span class="gate">in progress</span></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Founder inputs</h2><span class="tag">brief §7 · block early, ask once</span></div>
+  <div class="inputs">
+    <div class="input-row"><span class="st resolved">resolved</span><span class="desc"><b><span class="mono">se</span> field meaning</b> — it's "seasonal": free-text seasonal-operation notes, 69 values across 8 cities, 100% consistent. No founder call needed.</span></div>
+    <div class="input-row"><span class="st needed">needed</span><span class="desc"><b>Tier names + prices</b> for the merchant door. Site currently ships zero pricing anywhere — scaffold with pricing.json placeholders meanwhile.</span></div>
+    <div class="input-row"><span class="st needed">needed</span><span class="desc"><b>Stripe account + payment links</b> (or say the word and setup instructions get drafted).</span></div>
+    <div class="input-row"><span class="st needed">needed</span><span class="desc"><b>ANTHROPIC_API_KEY + daily budget cap</b> for the concierge function — plus the model call (Sonnet 5 vs Haiku-tiered is still open).</span></div>
+    <div class="input-row"><span class="st needed">needed</span><span class="desc"><b>SlotGenie UTM scheme + portal copy approval</b>. Urgent-adjacent: the portal already redirects today with zero attribution — every Vegas visitor is an unmeasured handoff.</span></div>
+    <div class="input-row"><span class="st later">later</span><span class="desc"><b>Plausible account</b> (or defer to phase 3) · <b>8 trail narratives sign-off</b> (WS8, single batch review doc).</span></div>
+  </div>
+</section>
+
+<section>
+  <div class="sec-head"><h2>Decision log</h2><span class="tag">what got decided, when</span></div>
+  <div class="log">
+    <div class="log-item"><span class="d">2026-07-07</span><p><b>Final-cut pack adopted.</b> Founder delivered cities-modular/ (8 cities pre-migrated, validator PASS, counts exact), converter + validator scripts, updated brief, and the batch-2 City Factory pack (Phoenix, SLC, Nashville, KC, Denver, Austin, Portland — end state 15 cities + the Vegas portal). Provenance proven: converter(data.js) + 26 logged patches == delivered containers, byte-exact. Validator extended into CI; interim data.json migration retired.</p></div>
+    <div class="log-item"><span class="d">2026-07-07</span><p><b>Phase 0 executed.</b> Fresh clone → localtour-work; Netlify work site created + deployed (production untouched); typed loader on the modular contract; verify green; 43-shot parity baseline. Founder answers: full Phase 0 ✓, fresh-clone build home ✓, se=seasonal ✓, inputs queued ✓.</p></div>
+    <div class="log-item"><span class="d">2026-07-04</span><p><b>Home-dir repo stays.</b> Flagged as a footgun; Aaron ruled it's the final-deploy hookup for shaw-labs/localtour. Standing caution recorded on the codebase map.</p></div>
+    <div class="log-item"><span class="d">2026-07-04</span><p><b>Session on Fable 5 + ultracode.</b> Build sessions run on the most capable model; the concierge's <em>runtime</em> model is a separate, still-open decision (3s timeout + budget cap point smaller).</p></div>
+    <div class="log-item"><span class="d">2026-07-04</span><p><b>Audit complete — 7 agents, ~570k tokens, 102 tool calls.</b> All 32 counts verified exact; engine collapse confirmed safe; <span class="mono">se</span> = seasonal (double-confirmed by michigan-city's schema); truth-debt pinned to file:line; Phase 0 plan of record produced (above). Open founder calls: session scope, build-home confirmation, input batching.</p></div>
+    <div class="log-item"><span class="d">2026-04-09</span><p><b>v0.2.0 scaffold pushed</b> to shaw-labs/localtour with the michigan-city JSON example — the target stack (Vite/React/TS) the Final Cut builds on.</p></div>
+  </div>
+</section>
+
+<footer>
+  <span>LocalTour · SH@W Labs — Final Cut work page</span>
+  <span>curated, not scraped · good answer first, revenue second</span>
+  <span>audit wf_908c6ef6 · 2026-07-04</span>
+</footer>
+</div>
+
+</html>
