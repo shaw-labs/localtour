@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc -b && vite build",
+    "migrate": "node scripts/migrate-data.mjs",
+    "verify": "node scripts/verify.mjs",
+    "build": "npm run verify && tsc -b && vite build",
     "preview": "vite preview",
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "baseline": "node scripts/baseline-screenshots.mjs"
   },
   "dependencies": {
     "react": "^19.0.0",
@@ -24,6 +27,7 @@
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.16",
     "globals": "^15.14.0",
+    "playwright": "^1.61.1",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
     "typescript": "~5.7.2",
