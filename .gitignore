@@ -6,3 +6,7 @@ dist
 *.log
 .DS_Store
 .vscode
+
+# raw city media — optimized via WS7 pipeline in Phase 2; not committed until then
+cities/*/images/
+.netlify/

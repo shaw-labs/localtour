@@ -1,0 +1,621 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hey",
+      "hi",
+      "help",
+      "menu",
+      "what should I do"
+    ],
+    "text": "Alright, lemme set you straight. This city runs on food, music, and vibes — and I know where to find the best of all three. Tell me what you're feelin' and I'll point you in the right direction. You here for the food? The music? A big night out? Or you just wanna wander and see what happens?",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best live music tonight",
+      "What's happening this week?",
+      "I need coffee NOW",
+      "Plan my perfect day",
+      "Best bars and nightlife"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "where to eat"
+    ],
+    "text": "Now we're talkin'. What's your vibe? You want a white-tablecloth experience where they flambe something at your table? Or a paper-plate-and-plastic-fork situation where the food is so good you don't care about the decor? Both exist here and both are world-class. Give me a direction.",
+    "businesses": [],
+    "chips": [
+      "Fine dining / special occasion",
+      "Best casual Creole",
+      "Cheap and amazing",
+      "Seafood, obviously",
+      "I want a po'boy",
+      "Surprise me with your favorite"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "special occasion",
+      "fancy",
+      "upscale",
+      "nice dinner"
+    ],
+    "text": "For a once-in-a-lifetime dinner, Emeril's just got two Michelin stars — E.J. Lagasse reimagined the whole menu and it's unreal. Saint-Germain in the Bywater does a 10-course tasting menu in a shotgun house that'll blow your mind. Commander's Palace is the classic — turtle soup, pecan-crusted fish, and the bread pudding soufflé. Brennan's on Royal Street invented Bananas Foster and still flambés it tableside. You can't go wrong with any of them.",
+    "businesses": [
+      "Emeril's",
+      "Saint-Germain",
+      "Commander's Palace",
+      "Brennan's"
+    ],
+    "chips": [
+      "Book Emeril's",
+      "Tell me about Commander's Palace",
+      "What about Galatoire's?",
+      "Best romantic dinner?",
+      "What's new that's hot?"
+    ]
+  },
+  {
+    "keys": [
+      "casual",
+      "creole",
+      "cajun",
+      "local food"
+    ],
+    "text": "Walk into Cochon on Tchoupitoulas and get the braised pork with turnips and cracklins. That's Donald Link's love letter to Cajun country and it hits every time. For old-school Creole, Dooky Chase's in the Tremé — Leah Chase fed presidents from that kitchen. The Friday lunch buffet is a pilgrimage. Jacques-Imo's Uptown for the alligator cheesecake — yeah, you heard me.",
+    "businesses": [
+      "Cochon",
+      "Dooky Chase's Restaurant",
+      "Jacques-Imo's"
+    ],
+    "chips": [
+      "What about seafood?",
+      "Best po'boy in town?",
+      "Where do locals eat breakfast?",
+      "Vietnamese food?"
+    ]
+  },
+  {
+    "keys": [
+      "cheap",
+      "budget",
+      "affordable",
+      "inexpensive"
+    ],
+    "text": "Willie Mae's Scotch House in the Tremé — James Beard Award for America's Classic. The fried chicken is the best in the world, not exaggerating, and it's under $15. Parkway Bakery for the roast beef debris po'boy. Café Du Monde — beignets and café au lait for $5. Central Grocery for the original muffuletta — a half feeds two. You'll eat like royalty for $30 a day.",
+    "businesses": [
+      "Willie Mae's Scotch House",
+      "Parkway Bakery & Tavern",
+      "Café Du Monde",
+      "Central Grocery"
+    ],
+    "chips": [
+      "Where's the best beignets?",
+      "Po'boy showdown",
+      "Cheap late-night food?",
+      "Street food?"
+    ]
+  },
+  {
+    "keys": [
+      "po'boy",
+      "poboy",
+      "po boy"
+    ],
+    "text": "Parkway Bakery on Hagan Ave — the roast beef debris, dressed, on Leidenheimer bread. That gravy dripping down your arm is a religious experience. Domilise's on Annunciation for the fried shrimp version — cash only, tiny Uptown shack, locals only vibe. Don't let anyone talk you into a po'boy on Bourbon Street. That ain't it.",
+    "businesses": [
+      "Parkway Bakery & Tavern",
+      "Domilise's Po-Boy & Bar"
+    ],
+    "chips": [
+      "What about muffulettas?",
+      "Best fried chicken?",
+      "Seafood spots?",
+      "What's a debris po'boy?"
+    ]
+  },
+  {
+    "keys": [
+      "seafood",
+      "oysters",
+      "shrimp",
+      "crawfish",
+      "fish"
+    ],
+    "text": "Pêche on Magazine — James Beard winner, whole fish on a wood-burning grill. For oysters, Drago's in the Hilton invented charbroiled oysters and nobody's topped them. Fives at Jackson Square is the new-school oyster bar with Gulf and East Coast selections. Acme Oyster House in the Quarter for the classic marble-bar shucking experience. If it's crawfish season (Feb-June), ask ANYONE where the nearest boil is.",
+    "businesses": [
+      "Pêche Seafood Grill",
+      "Drago's Seafood",
+      "Fives",
+      "Acme Oyster House"
+    ],
+    "chips": [
+      "Where's the crawfish boil?",
+      "Raw oysters vs chargrilled?",
+      "Best gumbo in town?",
+      "Seafood for a group?"
+    ]
+  },
+  {
+    "keys": [
+      "music",
+      "jazz",
+      "live music",
+      "bands",
+      "where to hear music"
+    ],
+    "text": "Frenchmen Street is ground zero — walk the strip and let your ears guide you. The Spotted Cat is the floor: no cover, incredible bands, everyone dancing, cash only. Preservation Hall is a pilgrimage — pure traditional jazz in a 250-year-old room, $25-50, line up early. Snug Harbor for serious sit-down jazz. Tipitina's Uptown for the best ticketed shows in town. But honestly? Just walk. You'll hear something amazing within two blocks.",
+    "businesses": [
+      "The Spotted Cat Music Club",
+      "Preservation Hall",
+      "Snug Harbor Jazz Bistro",
+      "Tipitina's"
+    ],
+    "chips": [
+      "Frenchmen Street guide",
+      "Best jazz club?",
+      "Live music with dinner?",
+      "Where do locals go?",
+      "What's playing tonight?"
+    ]
+  },
+  {
+    "keys": [
+      "bars",
+      "drinks",
+      "cocktails",
+      "nightlife",
+      "going out",
+      "bourbon street"
+    ],
+    "text": "Real talk: Bourbon Street is a party, but the good bars aren't on Bourbon. Carousel Bar at the Monteleone — the bar literally spins while you drink a Vieux Carré. Sazerac Bar at The Roosevelt for the definitive Sazerac in an Art Deco palace. Cure on Freret for James Beard-nominated cocktails in a former firehouse. Bar Tonique on Rampart for the bartenders' bar. The Elysian Bar in a converted church is the most beautiful bar in the city. One Bourbon exception: Lafitte's Blacksmith Shop, the oldest bar structure in America. That one's legit.",
+    "businesses": [
+      "The Carousel Bar & Lounge",
+      "Sazerac Bar",
+      "Cure",
+      "Bar Tonique",
+      "The Elysian Bar",
+      "Lafitte's Blacksmith Shop Bar"
+    ],
+    "chips": [
+      "Best cocktail in NOLA?",
+      "Dive bars?",
+      "Beer gardens?",
+      "Late night spots?",
+      "Wine bar?"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "morning coffee",
+      "espresso"
+    ],
+    "text": "Café Du Monde is the iconic move — beignets and chicory café au lait, open 24 hours. But if you want third-wave craft coffee, hit Spitfire Coffee on St. Charles or French Truck Coffee in the CBD. PJ's Coffee is the Louisiana-born chain that locals actually drink — way better than Starbucks. And Angelo Brocato's in Mid-City does Italian espresso alongside their legendary lemon ice.",
+    "businesses": [
+      "Café Du Monde",
+      "Angelo Brocato's"
+    ],
+    "chips": [
+      "Where are the beignets?",
+      "Best breakfast spot?",
+      "Coffee near Frenchmen?",
+      "I need food with my coffee"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "where to stay",
+      "lodging",
+      "accommodation",
+      "neighborhood"
+    ],
+    "text": "French Quarter: walkable to everything but Bourbon gets loud. Hotel Monteleone is the classic. CBD/Warehouse District: best for families — near the WWII Museum and streetcar. The Roosevelt is stunning. Marigny: Hotel Peter and Paul is the most beautiful boutique hotel in the city and you're steps from Frenchmen. Garden District: Uptown charm, ride the streetcar in. Bywater: artsy, quiet, great if you want neighborhood vibes.",
+    "businesses": [
+      "Hotel Monteleone",
+      "The Roosevelt New Orleans",
+      "Hotel Peter and Paul",
+      "Ace Hotel New Orleans"
+    ],
+    "chips": [
+      "Best value hotel?",
+      "Most romantic?",
+      "Where for a bachelor party?",
+      "Family-friendly area?"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family-friendly"
+    ],
+    "text": "National WWII Museum is the #1 attraction in the city and kids love it — plan 4-5 hours. Audubon Zoo has an incredible Louisiana Swamp exhibit. City Park has Storyland, paddleboating, and the free Sculpture Garden. Ride the St. Charles Streetcar the whole route ($1.25!). Café Du Monde for beignets is a family ritual. Swamp tours run about $30/kid and they'll see real alligators. Stay in the CBD — walking distance to everything, away from Bourbon craziness.",
+    "businesses": [
+      "The National WWII Museum",
+      "Audubon Park & Zoo",
+      "City Park",
+      "St. Charles Streetcar",
+      "Café Du Monde"
+    ],
+    "chips": [
+      "Best swamp tour?",
+      "Rainy day activities?",
+      "Kid-friendly restaurants?",
+      "How to ride the streetcar?"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "anniversary",
+      "couples",
+      "honeymoon"
+    ],
+    "text": "Bacchanal in the Bywater — wine, cheese, live jazz under twinkling lights in a garden. That's your date night locked. For dinner, Saint Claire across the river is stunning. The Elysian Bar in a converted church is gorgeous. Ride the streetcar through the Garden District at dusk. End at Preservation Hall — the intimacy of that room with your partner is magical. For a splurge, Emeril's or Commander's Palace.",
+    "businesses": [
+      "Bacchanal Fine Wine & Spirits",
+      "Saint Claire",
+      "The Elysian Bar",
+      "Preservation Hall",
+      "Commander's Palace"
+    ],
+    "chips": [
+      "Most romantic restaurant?",
+      "Sunset spots?",
+      "Couples things to do?",
+      "Where to propose?"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "transit",
+      "airport",
+      "how to get around",
+      "car",
+      "parking"
+    ],
+    "text": "Fly into MSY — 25-40 min to the Quarter. Taxi flat rate $36, rideshare $20-35. Do NOT rent a car. Parking in the Quarter is $40-65/night and the streets are brutal. The streetcar runs 24 hours ($1.25/ride, $3 day pass). Blue Bikes are great for Bywater and City Park. Uber/Lyft everywhere. Walk the Quarter and Frenchmen — everything's close. For the airport, book the shuttle ($24) or just Uber. Amtrak's new Mardi Gras Service connects to Biloxi and Mobile if you want Gulf Coast side trips.",
+    "businesses": [
+      "Blue Bikes NOLA"
+    ],
+    "chips": [
+      "Airport to hotel?",
+      "Do I need a car?",
+      "How does the streetcar work?",
+      "Day trips from NOLA?"
+    ]
+  },
+  {
+    "keys": [
+      "perfect day",
+      "one day",
+      "itinerary",
+      "day trip",
+      "what to do today"
+    ],
+    "text": "Here's your perfect day: Start with beignets and café au lait at Café Du Monde. Walk Jackson Square and St. Louis Cathedral. Stroll Royal Street for antiques and galleries. Lunch at Cochon or Willie Mae's. Ride the St. Charles Streetcar through the Garden District. Walk Magazine Street for shopping. Happy hour at Cure on Freret. Dinner at Pêche or Commander's Palace. After dinner, cab to Frenchmen Street. Start at The Spotted Cat, wander to d.b.a. and Blue Nile. End with a nightcap at Lafitte's Blacksmith Shop. Sleep when you're dead.",
+    "businesses": [
+      "Café Du Monde",
+      "Cochon",
+      "Willie Mae's Scotch House",
+      "Cure",
+      "Pêche Seafood Grill",
+      "Commander's Palace",
+      "The Spotted Cat Music Club",
+      "Lafitte's Blacksmith Shop Bar"
+    ],
+    "chips": [
+      "2-day itinerary?",
+      "What about brunch?",
+      "Rainy day plan?",
+      "Late-night moves?"
+    ]
+  },
+  {
+    "keys": [
+      "events",
+      "what's happening",
+      "festival",
+      "shows",
+      "calendar"
+    ],
+    "text": "NOLA always has something going on. Jazz Fest is April 23-May 3 this year — Eagles, Stevie Nicks, Lorde, Trombone Shorty. French Quarter Fest (April 16-19) is free and honestly might be better than Jazz Fest for pure local music and food. ESSENCE Festival is July 3-6. Second line parades roll most Sundays — check WWOZ.org for routes. And Frenchmen Street is live every single night, year-round. What month are you coming?",
+    "businesses": [],
+    "chips": [
+      "Jazz Fest 2026 lineup",
+      "Free events?",
+      "What's this weekend?",
+      "Mardi Gras dates?",
+      "Saints schedule?"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "brunch",
+      "morning",
+      "first meal"
+    ],
+    "text": "Willa Jean in the CBD — the cornbread with cane syrup butter is famous. Brennan's for a blowout brunch with tableside Bananas Foster. A Court of Two Sisters for a jazz brunch buffet in the courtyard. The Country Club in the Bywater for brunch by the pool. If you just need fuel, Café Du Monde is 24 hours and three beignets with a coffee is $5.",
+    "businesses": [
+      "Willa Jean",
+      "Brennan's",
+      "A Court of Two Sisters",
+      "The Country Club",
+      "Café Du Monde"
+    ],
+    "chips": [
+      "Best beignets?",
+      "Where for a boozy brunch?",
+      "Quick cheap breakfast?",
+      "Brunch with live music?"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "late food"
+    ],
+    "text": "Café Du Monde never closes — beignets at 3am is a local tradition. Dat Dog on Frenchmen serves gourmet sausages til 2am on weekends. Lafitte's Blacksmith Shop is open til 3am. Most Frenchmen Street clubs go til 2am or later. For real late-night food, Clover Grill in the Quarter is 24 hours and the burgers are cooked under a hubcap. Welcome to a city that doesn't believe in bedtime.",
+    "businesses": [
+      "Café Du Monde",
+      "Dat Dog",
+      "Lafitte's Blacksmith Shop Bar"
+    ],
+    "chips": [
+      "Best dive bar?",
+      "24-hour spots?",
+      "Safe areas at night?",
+      "Late music?"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "souvenirs",
+      "gifts",
+      "antiques"
+    ],
+    "text": "Magazine Street is six miles of boutiques — vintage at Funky Monkey, designer at Trashy Diva, home goods at Hazelnut. Royal Street in the Quarter is antiques and galleries. French Market has the flea market and local goods. Frenchmen Art Bazaar is nightly local art that's way better than Bourbon Street tourist shops. For edible souvenirs: hot sauce from the French Market, pralines from Loretta's, and coffee from Café Du Monde.",
+    "businesses": [
+      "Magazine Street",
+      "French Market",
+      "Frenchmen Art Bazaar"
+    ],
+    "chips": [
+      "Best local art?",
+      "Where to buy hot sauce?",
+      "Antique shopping?",
+      "Unique NOLA souvenirs?"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor",
+      "nature",
+      "park",
+      "swamp",
+      "bayou",
+      "walking"
+    ],
+    "text": "City Park is 1,300 acres of ancient live oaks and Spanish moss — bigger than Central Park and free. The Besthoff Sculpture Garden inside is world-class and free. Audubon Park Uptown is gorgeous for a jog under the oaks. For swamp tours, Cajun Encounters will pick you up and take you to see gators in the bayou. The Mississippi River Trail is great for biking. And honestly, just walking the Bywater and Garden District is an outdoor experience in itself.",
+    "businesses": [
+      "City Park",
+      "Audubon Park & Zoo",
+      "Cajun Encounters Swamp Tour"
+    ],
+    "chips": [
+      "Best swamp tour?",
+      "Can I bike around?",
+      "Best parks?",
+      "Anything on the river?"
+    ]
+  },
+  {
+    "keys": [
+      "vietnamese",
+      "pho",
+      "banh mi",
+      "vietnamese food"
+    ],
+    "text": "NOLA has one of the best Vietnamese food scenes in America — this goes back to the 1970s when a huge Vietnamese community settled in New Orleans East. Dong Phuong on Chef Menteur Highway is the anchor — James Beard Award-winning bakery that supplies bread for half the po'boy shops in the city. Their banh mi is devastating. Lilly's Café on Magazine for comforting pho. And here's the local secret: the banh mi and the po'boy are basically the same sandwich built on the same French colonial bread tradition. This city gets it.",
+    "businesses": [
+      "Dong Phuong Bakery & Restaurant",
+      "Lilly's Café"
+    ],
+    "chips": [
+      "Best banh mi?",
+      "Pho near the Quarter?",
+      "Other ethnic food?",
+      "Po'boy vs banh mi?"
+    ]
+  },
+  {
+    "keys": [
+      "mardi gras",
+      "carnival",
+      "fat tuesday",
+      "parades",
+      "king cake"
+    ],
+    "text": "Mardi Gras season starts January 6th (Twelfth Night) and builds to Fat Tuesday. Parades roll for about two weeks before the big day — catch them on St. Charles Ave for the best experience. Wear layers, comfortable shoes, bring a bag for beads, and eat before you go. The Uptown parades (Bacchus, Endymion, Zulu, Rex) are the major ones. For king cake: Dong Phuong's is legendary, Haydel's ships nationwide, and Bywater Bakery does a great one. Mardi Gras morning, get to the Zulu parade early — coconuts are the prize throw. Then walk to Rex on St. Charles. By afternoon, head to the Marigny for the locals' celebration.",
+    "businesses": [
+      "Dong Phuong Bakery & Restaurant",
+      "Haydel's Bakery"
+    ],
+    "chips": [
+      "Best parade routes?",
+      "Where to stand?",
+      "King cake ranking?",
+      "What to wear?",
+      "Family-friendly Mardi Gras?"
+    ]
+  },
+  {
+    "keys": [
+      "cemetery",
+      "cemeteries",
+      "tombs",
+      "above ground",
+      "cities of the dead"
+    ],
+    "text": "St. Louis Cemetery No. 1 is the most famous — it's the oldest cemetery in the city with above-ground tombs, Marie Laveau's grave, and Nicolas Cage's future pyramid tomb. You MUST go with a licensed tour guide — no unguided entry. Save Our Cemeteries and Two Chicks Walking Tours both run excellent ones. Lafayette Cemetery No. 1 in the Garden District is free to walk on your own and equally atmospheric. Go early morning for the best light and fewest crowds.",
+    "businesses": [
+      "St. Louis Cemetery No. 1"
+    ],
+    "chips": [
+      "Best cemetery tour company?",
+      "Why are tombs above ground?",
+      "Is it disrespectful to visit?",
+      "Lafayette Cemetery?"
+    ]
+  },
+  {
+    "keys": [
+      "voodoo",
+      "haunted",
+      "ghost",
+      "supernatural",
+      "vampire"
+    ],
+    "text": "Start at the Historic Voodoo Museum on Dumaine — small, quirky, packed with real artifacts. Then do a walking tour — Free Tours by Foot and Haunted History Tours are both good. Congo Square in Louis Armstrong Park is where enslaved people gathered on Sundays, preserving African spiritual traditions that became Voodoo. Marie Laveau's tomb is in St. Louis Cemetery No. 1 (guided tours only). Fair warning: most 'voodoo shops' in the Quarter are tourist traps. For real practitioners and supplies, Voodoo Authentica on Dumaine is legit.",
+    "businesses": [
+      "Historic Voodoo Museum"
+    ],
+    "chips": [
+      "Ghost tours?",
+      "Is voodoo real?",
+      "Marie Laveau's tomb?",
+      "Haunted hotels?"
+    ]
+  },
+  {
+    "keys": [
+      "lgbtq",
+      "gay",
+      "queer",
+      "drag",
+      "southern decadence",
+      "pride"
+    ],
+    "text": "New Orleans is one of the most LGBTQ+-friendly cities in the South, full stop. Southern Decadence (Labor Day weekend) is massive — one of the biggest LGBTQ+ celebrations in the country. The French Quarter and Marigny are the heart of the scene year-round. Good Friends Bar on Dauphine has a legendary Sunday tea dance. The Golden Lantern is an iconic Bourbon Street gay dive. The Maison on Frenchmen does a Wig Snatchers drag show every Friday and Saturday (no cover). Café Lafitte in Exile on Bourbon is the oldest continuously operating gay bar in America.",
+    "businesses": [
+      "The Maison"
+    ],
+    "chips": [
+      "Southern Decadence dates?",
+      "Best drag shows?",
+      "LGBTQ+ nightlife?",
+      "Pride events?"
+    ]
+  },
+  {
+    "keys": [
+      "bachelor",
+      "bachelorette",
+      "bachelor party",
+      "group",
+      "party"
+    ],
+    "text": "For a bachelor/bachelorette: Day 1 — brunch at The Country Club (pool + bottomless mimosas), then a walking tour or swamp tour. Evening: dinner at Cochon or Pêche, then Frenchmen Street crawl starting at Spotted Cat. Day 2 — Bourbon Street gets its moment (Pat O'Brien's, Lafitte's, Fritzel's), then late night at Republic NOLA or a drag show at The Maison. Keep your group to 10 or under for restaurant reservations. Book a private dining room at Herbsaint or Commander's Palace if you want to go upscale. Stay in the Quarter or Marigny for walkability.",
+    "businesses": [
+      "The Country Club",
+      "Cochon",
+      "Pêche Seafood Grill",
+      "The Spotted Cat Music Club",
+      "Pat O'Brien's",
+      "The Maison",
+      "Republic NOLA"
+    ],
+    "chips": [
+      "Best group restaurants?",
+      "VIP bottle service?",
+      "Day activities for groups?",
+      "Where to stay for a group?"
+    ]
+  },
+  {
+    "keys": [
+      "dog",
+      "pet",
+      "pet friendly",
+      "dog park",
+      "harry"
+    ],
+    "text": "NOLA is surprisingly dog-friendly. Crescent Park in the Bywater has a dedicated dog run with river views. City Park has off-leash areas. For dining with your dog, Bacchanal's courtyard is dog-friendly, most brewery patios welcome dogs (Urban South, Parleaux, Port Orleans), and Dat Dog on Frenchmen is obviously on-brand. Hotels: Ace Hotel, The Pontchartrain, and most Airbnbs in Bywater/Marigny are pet-friendly. Keep water on hand — the heat gets to dogs fast.",
+    "businesses": [
+      "Bacchanal Fine Wine & Spirits",
+      "Urban South Brewery",
+      "Parleaux Beer Lab",
+      "Dat Dog"
+    ],
+    "chips": [
+      "Dog-friendly patios?",
+      "Dog parks?",
+      "Pet-friendly hotels?",
+      "Vet near the Quarter?"
+    ]
+  },
+  {
+    "keys": [
+      "saints",
+      "football",
+      "game day",
+      "superdome",
+      "who dat"
+    ],
+    "text": "If the Saints are playing, you need to experience it even without tickets. Champion Square outside the Dome is a massive tailgate party. Walk of Champions starts 2 hours before kickoff. Inside the Dome is one of the loudest stadiums in football — the Who Dat chant shakes the building. If you can't get tickets, watch at Walk-On's (the original one on Poydras), Tracey's in the Irish Channel (legendary roast beef po'boys), or Finn McCool's in Mid-City. Wear black and gold. It's not optional.",
+    "businesses": [
+      "Harrah's New Orleans (Caesars)"
+    ],
+    "chips": [
+      "Saints ticket prices?",
+      "Best sports bars?",
+      "Tailgate guide?",
+      "What is Who Dat?"
+    ]
+  },
+  {
+    "keys": [
+      "rain",
+      "rainy day",
+      "weather",
+      "hot",
+      "humidity",
+      "what to do when it rains"
+    ],
+    "text": "Rain in NOLA is usually a quick afternoon thunderstorm — wait 30 minutes and it'll pass. If it's an all-day situation: WWII Museum is 4-5 hours indoors. Ogden Museum for art. Settle into a long lunch at Galatoire's or Antoine's — a 3-hour meal IS the activity. Bar crawl the cocktail palaces: Carousel Bar → Sazerac Bar → Cure. Preservation Hall doesn't have windows — rain doesn't exist in there. Escape My Room for something interactive. Or lean into it: spa day at the Ritz-Carlton or Windsor Court. This city was built for indoor pleasures.",
+    "businesses": [
+      "The National WWII Museum",
+      "Ogden Museum of Southern Art",
+      "Galatoire's",
+      "The Carousel Bar & Lounge",
+      "Sazerac Bar",
+      "Cure",
+      "Preservation Hall",
+      "Escape My Room",
+      "Spa Aria at the Ritz-Carlton"
+    ],
+    "chips": [
+      "Will it rain during my trip?",
+      "Indoor activities?",
+      "Best museum?",
+      "Spa recommendations?"
+    ]
+  }
+]

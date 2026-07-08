@@ -1,0 +1,317 @@
+{
+  "slug": "chicago",
+  "name": "Chicago",
+  "state": "Illinois",
+  "region": "Great Lakes / Midwest",
+  "tagline": "The City That Invented Itself Twice",
+  "description": "A lakefront colossus where world-class architecture meets a food scene spanning three Michelin stars to Italian beef counters that predate the Great Depression. Chicago is where deep-dish pizza, improv comedy, the blues, and house music were born — and where 26 miles of public shoreline make it the only major American city that kept its waterfront for the people.",
+  "coordinates": {
+    "lat": 41.88,
+    "lng": -87.63
+  },
+  "timezone": "America/Chicago",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Big-shouldered lakefront metropolis with blue-collar roots, a food obsession that borders on religion, and 77 distinct neighborhoods that make every trip feel like visiting ten different cities.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "food-scene",
+      "title": "Food & Dining",
+      "icon": "🍕",
+      "description": "From three Michelin stars to Maxwell Street hot dogs — Chicago's food identity IS the trip."
+    },
+    {
+      "id": "architecture-culture",
+      "title": "Architecture & Culture",
+      "icon": "🏛️",
+      "description": "River cruises, the Art Institute, Frank Lloyd Wright — the built environment IS the attraction."
+    },
+    {
+      "id": "entertainment-nightlife",
+      "title": "Entertainment & Nightlife",
+      "icon": "🎵",
+      "description": "Blues clubs, improv theaters, rooftop bars, and a live music scene seven nights a week."
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Music",
+      "icon": "🎵",
+      "description": "Blues clubs, rooftop bars, comedy"
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Music",
+      "icon": "🎵",
+      "description": "Blues clubs, rooftop bars, comedy"
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Music",
+      "icon": "🎵",
+      "description": "Blues clubs, rooftop bars, comedy"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍽️",
+      "description": "Michelin stars to street-level originals across 77 neighborhoods.",
+      "tags": [
+        "dining",
+        "fine_dining",
+        "casual",
+        "gastropub",
+        "mexican",
+        "asian",
+        "italian",
+        "seafood",
+        "breakfast",
+        "brunch",
+        "steakhouse",
+        "pizza",
+        "hot_dogs",
+        "soul_food",
+        "indian",
+        "middle_eastern",
+        "coffee",
+        "bakery"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture & Architecture",
+      "icon": "🏛️",
+      "description": "Museums, galleries, river cruises, and the greatest American skyline.",
+      "tags": [
+        "attractions",
+        "museums",
+        "galleries",
+        "theaters",
+        "landmarks",
+        "historic_sites",
+        "tours"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🎤",
+      "description": "Blues clubs, jazz bars, rooftop cocktails, improv comedy, and house music.",
+      "tags": [
+        "bars",
+        "cocktail_bars",
+        "live_music_venues",
+        "clubs",
+        "breweries",
+        "comedy",
+        "entertainment",
+        "rooftop_bars",
+        "dive_bars"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill & Lakefront",
+      "icon": "🌊",
+      "description": "Beach days, park walks, bike the lakefront, slow brunches, bookstores.",
+      "tags": [
+        "outdoor",
+        "beaches",
+        "parks",
+        "biking",
+        "coffee",
+        "brunch",
+        "wellness",
+        "bookstores"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Kid-friendly museums, Lincoln Park Zoo, Navy Pier, and pizza runs.",
+      "tags": [
+        "attractions",
+        "museums",
+        "amusement",
+        "parks",
+        "ice_cream",
+        "family"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure & Outdoor",
+      "icon": "🚴",
+      "description": "Kayak the river, bike the lakefront, paddleboard on the lake, explore neighborhoods.",
+      "tags": [
+        "outdoor",
+        "biking",
+        "water_sports",
+        "beaches",
+        "parks"
+      ]
+    },
+    {
+      "id": "sports",
+      "label": "Sports",
+      "icon": "🏟️",
+      "description": "Wrigley Field, Soldier Field, United Center — this is a sports town.",
+      "tags": [
+        "entertainment",
+        "sports_venues",
+        "sports_bars"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "💜",
+      "description": "Tasting menus, river walks, jazz clubs, thermal baths, and rooftop sunsets.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "wine_bars",
+        "wellness",
+        "boutique_hotels",
+        "rooftop_bars"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "CTA L train (8 lines) and bus covers the entire city — no car needed. Uber/Lyft available. Water taxis ($6). Divvy bike-share. Metra commuter rail for suburbs.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "Downtown accessible via I-90/94 from all directions. Parking $30-60/day downtown."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Amtrak hub at Union Station — Milwaukee (1.5 hr), Detroit (5 hr), St. Louis (5.5 hr). Red Cap baggage assistance available."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "O'Hare (ORD) — United/American hub, Blue Line to Loop ~45 min ($2.75). Midway (MDW) — Southwest hub, Orange Line to Loop ~25 min ($2.75)."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Galena, IL",
+      "distance": "2.5 hr drive / 165 miles",
+      "pitch": "Perfectly preserved 19th-century Main Street in the rolling hills of northwest Illinois. Ulysses S. Grant's home, 100+ shops and galleries, and some of the best B&Bs in the Midwest.",
+      "highlights": null
+    },
+    {
+      "name": "Indiana Dunes National Park",
+      "distance": "1 hr drive / 50 miles",
+      "pitch": "A national park an hour from downtown Chicago. Sand dunes, Lake Michigan beaches, and 50 miles of trails through forests, wetlands, and prairies.",
+      "highlights": null
+    },
+    {
+      "name": "Milwaukee, WI",
+      "distance": "1.5 hr drive / 92 miles (or Amtrak Hiawatha, 1.5 hr)",
+      "pitch": "Beer City, USA. The Milwaukee Art Museum's Calatrava-designed building, the Third Ward neighborhood, and a brewery scene that makes Chicago's look modest.",
+      "highlights": null
+    },
+    {
+      "name": "Starved Rock State Park",
+      "distance": "1.5 hr drive / 100 miles",
+      "pitch": "Dramatic sandstone canyons and 18 waterfalls along the Illinois River. The most popular state park in Illinois — especially stunning in spring (waterfalls peak) and fall (foliage).",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Dispatcher",
+    "greeting": "Welcome to Chicago. I've been running these streets since before they dyed the river green. What do you need — food, drinks, culture, or all three? I'll point you the right way.",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-lakefront-summer.jpg",
+    "story": [
+      "story-fire-rebuild.jpg",
+      "story-l-train.jpg",
+      "story-pilsen-mural.jpg",
+      "story-river-canyon.jpg"
+    ],
+    "wall": [
+      "wall-bean-selfie.jpg",
+      "wall-blues-club.jpg",
+      "wall-deep-dish.jpg",
+      "wall-kayak-river.jpg",
+      "wall-rooftop-drinks.jpg",
+      "wall-wrigley-bleachers.jpg"
+    ],
+    "categories": {
+      "dining": "dir-dining-tavern-pizza.jpg",
+      "bars_nightlife": "dir-bars-cocktailchi.jpg",
+      "bars": "dir-bars-cocktailchi.jpg",
+      "coffee_bakeries": "dir-coffee-morning2.jpg",
+      "coffee": "dir-coffee-morning2.jpg",
+      "attractions": "dir-attractions-bean.jpg",
+      "outdoor_adventure": "dir-outdoor-lakefront.jpg",
+      "outdoor": "dir-outdoor-lakefront.jpg",
+      "shopping": "dir-shopping-records.jpg",
+      "lodging": "dir-lodging-luxury2.jpg",
+      "entertainment": "dir-entertainment-wrigley.jpg"
+    },
+    "section_breaks": {
+      "outdoor": "break-lakefront-summer.jpg",
+      "dining": "break-deep-dish-closeup.jpg",
+      "nightlife": "break-blues-club.jpg",
+      "bars_nightlife": "break-blues-club.jpg",
+      "shopping": "break-wicker-park-street.jpg",
+      "neighborhoods": "break-dining-scene.jpg",
+      "family": "break-family-museum.jpg",
+      "boating": "break-riverwalk-kayak.jpg",
+      "transit": "break-skyline-sunset.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "Chicago — The Lake Is Calling",
+    "hero_sub": "Twenty-six miles of open shoreline, rooftop bars with skyline views, and a festival calendar that doesn't quit until Labor Day."
+  }
+}

@@ -1,0 +1,2987 @@
+[
+  {
+    "name": "Anakeesta",
+    "address": "576 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-2400",
+    "website": "https://www.anakeesta.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Mountaintop theme park accessed by chondola. Treewalk village, ziplines, Cliff Top bar, gem mining, and killer views. Feels more 'mountain experience' than theme park.",
+    "must_try": "Treetop Skywalk and the Cliff Top Bar sunset",
+    "hours": "Daily, hours vary seasonally",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dollywood Theme Park",
+    "address": "2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863",
+    "phone": "+1-800-365-5996",
+    "website": "https://www.dollywood.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "160 acres, 50+ rides, world-class entertainment, award-winning food. Lightning Rod is the world's fastest wooden coaster. NightFlight Expedition (Spring 2026) is a $50M hybrid coaster/river ride — first of its kind. 11 USA Today 10Best nominations in 2026.",
+    "must_try": "NightFlight Expedition (new 2026), Lightning Rod, Wildwood Grove, and the cinnamon bread",
+    "hours": "Seasonal — generally late March through early January",
+    "seasonal": "Open seasonally. Four major festivals: I Will Always Love You (spring), Summer Celebration, Harvest Festival (fall), Smoky Mountain Christmas (winter).",
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dollywood's Splash Country",
+    "address": "2700 Dollywood Parks Blvd, Pigeon Forge, TN 37863",
+    "phone": "+1-800-365-5996",
+    "website": "https://www.dollywood.com/splashcountry/",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "35-acre water park adjacent to Dollywood. Tennessee's first water coaster, wave pool, lazy river. New Neon Nights after-hours event in 2026.",
+    "must_try": "Firetower Falls and TailSpin Racer",
+    "hours": "May 16 - Sep 20, 2026",
+    "seasonal": "Summer only",
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ober Mountain Ski Area & Amusement Park",
+    "address": "1001 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-5423",
+    "website": "https://www.obermountain.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Ski area (small but it exists), aerial tramway, ice skating, alpine slide, wildlife encounter. Accessed from downtown Gatlinburg via the aerial tram.",
+    "must_try": "Aerial tramway and the alpine coaster",
+    "hours": "Daily, hours vary seasonally",
+    "seasonal": "Skiing Dec-Mar; rest of attractions year-round",
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Speedwerkz Exotic Car Experience",
+    "address": "709 Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.speedwerkz.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Drive or ride in exotic supercars on a controlled course. Lamborghinis, Ferraris, McLarens. Next door to Ole Red. Absolute blast for car people.",
+    "must_try": "The Lamborghini experience",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Island in Pigeon Forge",
+    "address": "131 The Island Dr, Pigeon Forge, TN 37863",
+    "phone": "+1-865-286-0119",
+    "website": "https://www.islandinpigeonforge.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "Free entry / rides vary",
+    "rating": "4.5",
+    "description": "Open-air entertainment complex with The Great Smoky Mountain Wheel (200 ft), rides, shops, restaurants, and a fountain show. Free to walk around. Guy Fieri's Flavortown is here.",
+    "must_try": "The Great Smoky Mountain Wheel at sunset and the fountain show",
+    "hours": "Daily 10AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlinburg SkyLift Park",
+    "address": "765 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4307",
+    "website": "https://www.gatlinburgskylift.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Chairlift to the top of Crockett Mountain. The SkyBridge — North America's longest pedestrian suspension bridge — is the draw. Glass floor panels. Terrifying and beautiful.",
+    "must_try": "Walk across the SkyBridge glass panels",
+    "hours": "Daily 9AM-9PM (varies seasonally)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ripley's Aquarium of the Smokies",
+    "address": "88 River Rd, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-8808",
+    "website": "https://www.ripleyaquariums.com/gatlinburg",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "One of the best aquariums in the Southeast. Shark tunnel with moving walkway, penguin encounters, touch tanks. Perfect rainy day backup.",
+    "must_try": "Shark Lagoon tunnel and the penguin playhouse",
+    "hours": "Daily 9AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Titanic Museum Attraction",
+    "address": "2134 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-800-381-7670",
+    "website": "https://www.titanicpigeonforge.com",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Half-scale Titanic replica housing 400+ artifacts. You get a boarding pass with a real passenger's name. Interactive galleries. Way better than it sounds.",
+    "must_try": "Touch the iceberg replica and check your passenger's fate",
+    "hours": "Daily 9AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bijou Theatre",
+    "address": "803 S Gay St, Knoxville, TN 37902",
+    "phone": "+1-865-522-0832",
+    "website": "https://www.knoxbijou.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "Varies",
+    "rating": "4.7",
+    "description": "Intimate 700-seat venue in a historic 1909 building. Live music from indie to bluegrass. Knoxville's best small-venue concert experience.",
+    "must_try": "Check the live music calendar",
+    "hours": "Show schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dolly Parton's Stampede",
+    "address": "3849 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-453-4400",
+    "website": "https://dpstampede.com",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Dinner show with horses, stunts, music, and a four-course feast you eat with your hands. Wildly over-the-top in the best possible way. Kids lose their minds.",
+    "must_try": "The whole experience — it's a package deal",
+    "hours": "Showtimes vary, typically 6PM and 8PM",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Great Smoky Mountain Murder Mystery Dinner Show",
+    "address": "2682 Teaster Ln, Pigeon Forge, TN 37863",
+    "phone": "+1-865-908-1050",
+    "website": "https://murdermystery-pigeonforge.com/",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Intimate, side-splitting comedy whodunit relying heavily on audience participation. Fantastic alternative to the massive arena dinner shows.",
+    "must_try": "The Moonshine Murders show",
+    "hours": "Showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hatfield & McCoy Dinner Feud",
+    "address": "119 Music Road, Pigeon Forge, TN 37863",
+    "phone": "+1-800-985-5494",
+    "website": "http://www.hatfieldmccoydinnerfeud.com/",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "High-energy, over-the-top hillbilly feud featuring diving dogs, stunts, and all-you-can-eat Southern comfort food. Pure Pigeon Forge spectacle.",
+    "must_try": "The creamy soup served with dinner",
+    "hours": "Showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pirates Voyage Dinner & Show",
+    "address": "2713 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-356-1891",
+    "website": "https://www.piratesvoyage.com/pigeon-forge",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Pirate-themed dinner show with a massive indoor lagoon, acrobatics, and a pirate ship battle. Another Dolly Parton production.",
+    "must_try": "Indoor lagoon pirate battle",
+    "hours": "Showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tennessee Theatre",
+    "address": "604 S Gay St, Knoxville, TN 37902",
+    "phone": "+1-865-684-1200",
+    "website": "https://www.tennesseetheatre.com",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "Varies",
+    "rating": "4.8",
+    "description": "1928 movie palace turned performance venue. The 'Jewel of the South.' Wurlitzer organ still plays before shows. Live music, comedy, film. Gorgeous interior.",
+    "must_try": "Any show — the architecture alone is worth the ticket",
+    "hours": "Show schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlinburg Brewing Company",
+    "address": "638 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-412-1060",
+    "website": "https://www.gatlinburgbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Craft beer, pizza, and live music/comedy. More polished than the typical Parkway spot. Good rotating tap list.",
+    "must_try": "Craft pizza and whatever's rotating on tap",
+    "hours": "Daily noon-10PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smoky Mountain Brewery - Gatlinburg",
+    "address": "1004 Parkway Suite 304, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4200",
+    "website": "https://www.smoky-mtn-brewery.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Original brewery in Gatlinburg with a deck overlooking the Smokies. Cherokee Red Ale and Mountain Light are the house staples. Live music Mon-Sat. Great sports bar energy.",
+    "must_try": "Beer sampler flight with Cherokee Red Ale",
+    "hours": "Daily 11:30AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tennessee Stud Cider",
+    "address": "635 Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.tennesseestudcider.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Hard cider tastings right on the Parkway. Apple pie, blueberry, pineapple flavors. Good stop if you're not a beer or moonshine person.",
+    "must_try": "Apple Pie hard cider",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cliff Top Bar & Grill at Anakeesta",
+    "address": "576 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-2400",
+    "website": "https://www.anakeesta.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Requires Anakeesta ticket to access. Take the chondola to the top of the mountain. The views make it worth the admission price alone.",
+    "must_try": "Cocktails with the 360-degree mountain view",
+    "hours": "Varies with Anakeesta hours",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "adventure",
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maple Hall",
+    "address": "414 S Gay St, Knoxville, TN 37902",
+    "phone": "+1-865-249-8454",
+    "website": "https://www.maplehallknox.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Upscale bowling alley + cocktail bar + restaurant on Gay Street. Boutique bowling lanes, craft drinks, live music. Sounds gimmicky but it's genuinely cool.",
+    "must_try": "Bowl a few frames with a craft cocktail",
+    "hours": "Mon-Thu 4PM-midnight, Fri-Sun noon-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Peter Kern Library",
+    "address": "407 Union Ave, Knoxville, TN 37902",
+    "phone": "+1-865-521-0050",
+    "website": "https://www.peterkernlibrary.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Speakeasy inside The Oliver Hotel. Look for the red light in the alley. Craft cocktails, intimate setting, literary theme. One of the best bars in Tennessee.",
+    "must_try": "Old Fashioned or the seasonal cocktail menu",
+    "hours": "Tue-Sat 5PM-midnight",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Casual Pint",
+    "address": "21 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-312-9600",
+    "website": "https://www.thecasualpint.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Huge craft beer selection in a chill taproom. Good place to try Tennessee craft beers without the noise of the bigger bars.",
+    "must_try": "Flight of Tennessee craft beers",
+    "hours": "Daily noon-midnight",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Doc Collier Moonshine Distillery",
+    "address": "829 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-1323",
+    "website": "https://www.doccollier.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Family recipe moonshine with English Mountain Spring Water. The Firecracker cinnamon shine and the 'shined cherries from Traverse City are the standouts.",
+    "must_try": "Firecracker cinnamon moonshine",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Junction 35 Spirits",
+    "address": "2655 Teaster Ln, Pigeon Forge, TN 37863",
+    "phone": null,
+    "website": "https://www.junction35spirits.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.4",
+    "description": "At The Mountain Mile in Pigeon Forge. Moonshine, gin, rum, bourbon — broader portfolio than most. Watermelon and Sour Gummy Worm moonshine for the adventurous.",
+    "must_try": "Sour Gummy Worm moonshine",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "King's Family Distillery",
+    "address": "2325 Winfield Dunn Pkwy, Sevierville, TN 37876",
+    "phone": null,
+    "website": "https://www.kingsfamilydistillery.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Husband-and-wife operation just outside Pigeon Forge. Most awarded bourbon in the Smoky Mountains. Premium small-batch feel.",
+    "must_try": "Award-winning bourbon",
+    "hours": "Mon-Sat 10AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Old Forge Distillery",
+    "address": "170 Old Mill Ave, Pigeon Forge, TN 37863",
+    "phone": "+1-865-908-5955",
+    "website": "https://www.oldforgedistillery.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "At the historic Old Mill. Uses grains from the actual grist mill. Small-batch with vapor infusion. 1830 Original Moonshine is the signature.",
+    "must_try": "1830 Original Moonshine",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ole Smoky Moonshine Distillery - The Holler",
+    "address": "903 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-6995",
+    "website": "https://olesmoky.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Most visited distillery in America. Free live music, working stills you can watch, $5 tastings of 20+ moonshine flavors. Apple Pie and White Lightnin' are the classics. Dogs welcome.",
+    "must_try": "Apple Pie moonshine and the free live music stage",
+    "hours": "Daily 10AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sugarlands Distilling Co.",
+    "address": "805 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-1355",
+    "website": "https://www.sugarlands.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Higher-end moonshine operation. $5 tasting of 12+ flavors. The back bar is the real gem — cocktails in a chill patio away from the Parkway chaos. Blueberry Muffin and Maple Bacon shine.",
+    "must_try": "Back bar cocktails and the Blueberry Muffin moonshine",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tennessee Shine Co.",
+    "address": "Multiple locations: Gatlinburg, Pigeon Forge, Sevierville",
+    "phone": null,
+    "website": "https://www.tennesseeshineco.com",
+    "category": "bars_nightlife",
+    "subcategory": "distilleries",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Family-owned operation with the wildest flavors — Blue Houdini, Choco Moo Shine, Dream Cream. Three locations across the strip.",
+    "must_try": "Blue Houdini and Choco Moo Shine",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Puckers Sports Grill",
+    "address": "903 Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.0",
+    "description": "All-you-can-eat wings on Mondays, drink specials through the week. Casual Parkway sports bar where you can actually catch a game.",
+    "must_try": "Monday wing deal",
+    "hours": "Daily 11AM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tom and Earl's Back Alley Grill",
+    "address": "909 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-8490",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The locals' escape from Parkway tourist madness. Would be a great neighborhood bar anywhere — here it's an absolute treasure. Cocktails, craft beer, solid food.",
+    "must_try": "Ask the bartender — they know their stuff",
+    "hours": "Daily 11AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Preservation Pub",
+    "address": "28 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-524-2224",
+    "website": "https://www.preservationpub.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Three floors, rooftop bar, live music almost every night. The heartbeat of Knoxville nightlife on Market Square.",
+    "must_try": "Rooftop drinks and whatever band is playing",
+    "hours": "Daily 11AM-3AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bootleggers Homemade Wine",
+    "address": "236 Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Two sisters making wine by hand in small batches. Free tastings. Muscadine blush and Scuppernong (a Southern staple) are the signatures. Can't always ship — buy in person.",
+    "must_try": "Homegrown Muscadine Blush",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sugarland Cellars",
+    "address": "512 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-1210",
+    "website": "https://www.sugarlandcellars.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Winery at the entrance to GSMNP. On the local wine trail. Hellbender is the winemaster's signature. Good patio, relaxed pace.",
+    "must_try": "Hellbender wine",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "moonshine"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Donut Friar",
+    "address": "634 Parkway Suite 12, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-7306",
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$",
+    "rating": "4.7",
+    "description": "A Gatlinburg institution since 1969. Handmade donuts, cinnamon bread, and bear claws. The line moves fast. Cash is king.",
+    "must_try": "Cinnamon bread loaf",
+    "hours": "Daily 5AM-noon (sell out early)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coffee & Chocolate",
+    "address": "17 Market Square, Knoxville, TN 37902",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Extraordinary chocolate truffles and seasonal macarons. Right next to the famous Downtown Knoxville mural.",
+    "must_try": "Chocolate truffles and seasonal macarons",
+    "hours": "Mon-Sat 8AM-9PM, Sun 10AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mahalo Coffee Roasters",
+    "address": "1317 East Emory Rd, Knoxville, TN 37918",
+    "phone": null,
+    "website": "https://www.mahalocoffeeroasters.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.9",
+    "description": "Surf-inspired specialty coffee roaster in Knoxville turning out some of the highest quality espresso in East Tennessee.",
+    "must_try": "Iced Vanilla Latte",
+    "hours": "Mon-Fri varies",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Towns End Coffee Co.",
+    "address": "7249 E Lamar Alexander Pkwy, Townsend, TN 37882",
+    "phone": "+1-865-336-2741",
+    "website": "http://townsendcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.8",
+    "description": "Excellent artisanal coffee shop on the peaceful side of the Smokies. Perfect pit stop before heading into Cades Cove.",
+    "must_try": "Locally roasted drip coffee and breakfast burritos",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kilwins Gatlinburg",
+    "address": "Gatlinburg Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.kilwins.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Premium sweets shop on the Parkway with Mackinac Island fudge and high-end chocolates made in front of you.",
+    "must_try": "Mackinac Island Fudge",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ole Smoky Candy Kitchen",
+    "address": "744 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4886",
+    "website": "https://olesmokycandykitchen.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$",
+    "rating": "4.8",
+    "description": "Gatlinburg institution since 1952. Watch them stretch taffy on vintage machines in the window, then buy a freshly packed box.",
+    "must_try": "Traditional Taffylogs",
+    "hours": "Daily 9:30AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fudgery at The Island",
+    "address": "131 Island Dr Suite 3106-B, Pigeon Forge, TN 37863",
+    "phone": "+1-865-774-7800",
+    "website": "https://fudgeryfudge.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Hand-paddled fudge with singing employees. Part treat shop, part show.",
+    "must_try": "Rocky Road Fudge",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cruze Farm Ice Cream",
+    "address": "Sevierville, TN (multiple locations)",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.9",
+    "description": "Locally sourced, ridiculously creamy soft-serve from their own dairy farm. The retro vibe is perfect for photos.",
+    "must_try": "Sweet Cream and Honey Lavender swirl",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kaizen",
+    "address": "127 S Central St, Knoxville, TN 37902",
+    "phone": "+1-865-409-4444",
+    "website": "https://www.knoxkaizen.com/",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Incredibly popular Japanese Izakaya pub in Knoxville's Old City. Small plates, creative Asian-fusion buns, and a packed house every weekend.",
+    "must_try": "Dry Spiced Pork Noodles and Steamed Buns",
+    "hours": "Mon-Sat 5-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lee's Fusion Cafe",
+    "address": "2528 McGill St, Pigeon Forge, TN 37863",
+    "phone": "+1-865-453-5587",
+    "website": "https://www.leesfusioncafe.com/",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Reliable Pan-Asian and Chinese takeout when you just want to eat in your cabin. The Malaysian fried rice is a local favorite.",
+    "must_try": "Orange Chicken and Malaysian Roti",
+    "hours": "Daily 11AM-9:30PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Thai Basil",
+    "address": "530 Winfield Dunn Pkwy, Sevierville, TN 37876",
+    "phone": "+1-865-453-9339",
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Family-owned staple near the interstate exit with scratch-made curries. When they say 'Thai Hot,' they absolutely mean it.",
+    "must_try": "Pad Thai with Tofu",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Thai Palace",
+    "address": "1811 Parkway #104, Sevierville, TN 37862",
+    "phone": "+1-865-365-1350",
+    "website": "https://mythaipalace.com/",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Unpretentious strip-mall gem beloved by locals for highly customizable spice levels and massive portions. Excellent for a quiet meal away from Parkway chaos.",
+    "must_try": "Drunken Noodles",
+    "hours": "Wed-Sun 12-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Baht",
+    "address": "611 Parkway Suite 1, Gatlinburg, TN 37738",
+    "phone": "+1-865-412-1570",
+    "website": "https://the-baht.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Authentic Thai cuisine in a modernized riverfront setting right on the Gatlinburg Parkway. A welcome alternative to the heavy Southern fare dominating the strip.",
+    "must_try": "Pad Kra Pao (Thai basil stir fry)",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Calhoun's Gatlinburg",
+    "address": "1004 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4100",
+    "website": "https://www.calhouns.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Mountain lodge BBQ spot. Ribs and pulled pork are what they're known for. Good for families and groups — casual enough for post-hike food.",
+    "must_try": "Hickory-smoked baby back ribs",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dead End BBQ",
+    "address": "3621 Sutherland Ave, Knoxville, TN 37919",
+    "phone": "+1-865-212-5655",
+    "website": "https://www.deadendbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Neighborhood Knoxville staple turning out competition-quality barbecue and inventive sides. Brisket burnt ends are phenomenal.",
+    "must_try": "Mac Attack with Brisket",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sweet P's BBQ and Soul House",
+    "address": "3029 Tazewell Pike, Knoxville, TN 37918",
+    "phone": "+1-865-437-3974",
+    "website": "https://sweetpbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Top-tier Tennessee barbecue with fantastic dry rubs and incredible soul food sides. The mac and cheese is genuinely legendary.",
+    "must_try": "Smoked Andouille Sausage and Pimento Cheese Dip",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "OliBea",
+    "address": "119 S Central St, Knoxville, TN 37902",
+    "phone": "+1-865-200-5450",
+    "website": "https://olibea.com/",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "The best breakfast in Knoxville's Old City. Locally sourced ingredients elevating classic Southern morning staples to an art form.",
+    "must_try": "Smash Potatoes and Chicken Biscuit",
+    "hours": "Daily 7AM-1PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pancake Pantry",
+    "address": "628 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4724",
+    "website": "https://www.pancakepantry.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The OG pancake house. Open since 1960 — first pancake specialty restaurant in Tennessee. The line is part of the experience. Don't overthink it, just go.",
+    "must_try": "Austrian apple-walnut pancakes",
+    "hours": "Daily 7AM-3PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Old Mill Restaurant",
+    "address": "164 Old Mill Ave, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-3463",
+    "website": "https://www.old-mill.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Historic 1830 water-powered grist mill with a restaurant attached. Southern comfort food with corn ground on-site. Corn chowder and fried chicken are legendary.",
+    "must_try": "Corn chowder and the fried chicken",
+    "hours": "Daily 8AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Split Rail Eats",
+    "address": "849 Glades Rd Suite 1B1, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-8445",
+    "website": "https://splitraileats.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Southern-style lunch and Sunday brunch. Uses Mahalo Coffee from Knoxville and Springer Mountain Farms chicken. The cheesesteak and brunch biscuits are the move.",
+    "must_try": "Cheesesteak on ciabatta or the brunch biscuits",
+    "hours": "Tue-Sat 11AM-3PM, Sun Brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tupelo Honey",
+    "address": "1 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-522-0004",
+    "website": "https://www.tupelohoneycafe.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Southern scratch kitchen right on Market Square. Brunch is the move — fried green tomatoes, shrimp and grits, and biscuits that hit different.",
+    "must_try": "Fried green tomatoes and shrimp and grits",
+    "hours": "Mon-Thu 11AM-9PM, Fri-Sun 9AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Moose Burgers & Wings",
+    "address": "Multiple Pigeon Forge / Gatlinburg locations",
+    "phone": null,
+    "website": "https://www.thebluemoose.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Local chain that does burgers and wings better than they need to. The moose burger is the signature. Solid craft beer selection.",
+    "must_try": "The Moose Burger and the zesty wings",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cafe 4",
+    "address": "4 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-544-4433",
+    "website": "https://www.cafe4knoxville.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Market Square staple. Lobster mac and cheese, truffle fries, pimento cheese dip. The patio is the best outdoor seating downtown.",
+    "must_try": "Lobster mac and cheese and the punchbowl cocktails",
+    "hours": "Daily 11AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Guy Fieri's Downtown Flavortown",
+    "address": "131 The Island Dr, Pigeon Forge, TN 37863",
+    "phone": "+1-865-286-0600",
+    "website": "https://www.downtownflavortown.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "43,000 sq ft of Guy Fieri energy at The Island. Part restaurant, part arcade, part bowling. Over-the-top in every way, which is the point.",
+    "must_try": "Trash Can Nachos",
+    "hours": "Daily 11AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Local Goat",
+    "address": "2167 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-3035",
+    "website": "https://www.local-goat.com/",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Wildly popular scratch kitchen specializing in locally sourced, modern American pub food. Parking is tough but the burgers are worth the wait.",
+    "must_try": "Deep-fried Deviled Eggs and the Elvis Burger",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Marble City Kitchen",
+    "address": "501 W Church Ave, Knoxville, TN 37902",
+    "phone": "+1-865-851-9201",
+    "website": "https://www.marblecitykitchen.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Southern comfort in the Hilton downtown. The Firefly bar next door has the only hand-selected George Dickel reserve barrel in Tennessee.",
+    "must_try": "Southern plates and Firefly's reserve George Dickel bourbon",
+    "hours": "Daily 6:30AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mel's Classic Diner",
+    "address": "2050 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-430-7625",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.4",
+    "description": "1950s diner straight out of a movie. Neon lights, jukebox, checkered floors. Burgers and milkshakes are the play. Kids love it.",
+    "must_try": "Classic cheeseburger and a milkshake",
+    "hours": "Daily 7AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Myrtle's Chicken + Beer",
+    "address": "33 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-312-5015",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Fried chicken and Southern comfort food on Market Square. No-nonsense. Cold beer, hot chicken.",
+    "must_try": "Fried chicken and the mac and cheese",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Southern Comfort - Westgate Resort",
+    "address": "915 Westgate Resort Rd, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Cajun and Creole meets Southern home cooking. Shrimp and grits, chicken and dumplings, and a mountain view. Open to non-resort guests.",
+    "must_try": "Shrimp and grits",
+    "hours": "Daily, varies",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tennessee Jed's",
+    "address": "631 Parkway Suite A8, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Newer spot on the Parkway doing creative food that actually stands out from the pancake-and-steak monotony. Small space, big flavors.",
+    "must_try": "Check the rotating specials",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yassin's Falafel House",
+    "address": "706 Walnut Street, Knoxville, TN 37902",
+    "phone": "+1-865-219-1462",
+    "website": "https://yassinsfalafelhouse.com/",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.9",
+    "description": "Beloved Knoxville institution serving incredibly fresh Mediterranean food with a welcoming message of community. Named 'Nicest Place in America' by Reader's Digest.",
+    "must_try": "Spicy Hummus and Falafel Pita",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cherokee Grill and Steakhouse",
+    "address": "1002 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4287",
+    "website": "https://www.cherokeegrill.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Mountain lodge atmosphere with Cherokee artifacts on the walls. Steaks, seafood, and rotisserie chicken done right. Across from the old Ober Gatlinburg entrance.",
+    "must_try": "Slow-roasted prime rib",
+    "hours": "Daily 4-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crystelle Creek Restaurant & Grill",
+    "address": "1654 E Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-1551",
+    "website": "https://crystellecreek.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Oak wood-fired steaks overlooking a creek. Nashville Prime Rib, blackened catfish, and a koi pond out back. Feels upscale without the attitude.",
+    "must_try": "Nashville Prime Rib",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ember & Elm at HeartSong Lodge",
+    "address": "2525 DreamMore Way, Pigeon Forge, TN 37863",
+    "phone": null,
+    "website": "https://www.dollywood.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Dollywood's HeartSong Lodge signature restaurant. Locally-sourced Appalachian cuisine done at a resort level. Open to non-guests.",
+    "must_try": "Seasonal tasting menu",
+    "hours": "Daily, hours vary seasonally",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gaucho Urbano Brazilian Steakhouse",
+    "address": "111 Valley Dr, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-1002",
+    "website": "https://gauchourbano.com/",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Elegant all-you-can-eat Brazilian steakhouse bringing high-end tableside carved meats to Pigeon Forge. Perfect for celebrations.",
+    "must_try": "The Chef's Harvest Table and Picanha",
+    "hours": "Daily 3-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "J.C. Holdway",
+    "address": "501 Union Ave, Knoxville, TN 37902",
+    "phone": "+1-865-312-9050",
+    "website": "https://www.jcholdway.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "James Beard Award-winning Chef Joseph Lenn's flagship. The best restaurant in the Knoxville metro, full stop. Southern ingredients with technical precision.",
+    "must_try": "Chef's tasting menu or the wood-fired dishes",
+    "hours": "Tue-Sat 5:30-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oliver Royale",
+    "address": "5 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-622-6434",
+    "website": "https://www.oliverknoxville.com/royale",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Inside The Oliver Hotel. Candlelit, ever-changing menu, creative cocktails. One of the most memorable dining experiences in Knoxville.",
+    "must_try": "Seasonal prix fixe",
+    "hours": "Tue-Sat 5-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Park Grill",
+    "address": "1110 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-2300",
+    "website": "https://www.parkgrillgatlinburg.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Right at the national park entrance. Hickory-grilled steaks, rainbow trout, and a vibe that says 'mountain lodge, not chain restaurant.' Solid wine list.",
+    "must_try": "Hickory-grilled rainbow trout",
+    "hours": "Daily 5-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Greenbrier Restaurant",
+    "address": "370 Newman Rd, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-6318",
+    "website": "https://www.greenbrierrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Tucked off the main drag in a converted mountain home. The seared duck breast is legendary. One of the few places in town that feels like a real restaurant, not a tourist trap.",
+    "must_try": "Seared duck breast",
+    "hours": "Daily 5-9PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Melting Pot - Gatlinburg",
+    "address": "903 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-8010",
+    "website": "https://www.meltingpot.com/gatlinburg-tn/",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Fondue date night in the mountains. Four-course experience — cheese, salad, entree, chocolate. Not for people in a hurry.",
+    "must_try": "The Big Night Out four-course experience",
+    "hours": "Mon-Thu 4-10PM, Fri-Sat 4-11PM, Sun 4-9PM",
+    "seasonal": null,
+    "modes": [
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Peddler Steakhouse",
+    "address": "820 River Rd, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-5794",
+    "website": "https://www.peddlergatlinburg.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The best steak in Gatlinburg, full stop. They cut your meat tableside from a rolling cart. Salad bar is surprisingly good. Sits right on the river.",
+    "must_try": "Custom-cut filet mignon with the French onion soup",
+    "hours": "Sun-Thu 4:30-9PM, Fri-Sat 4:30-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Abridged Beer Company",
+    "address": "100 Lockett Road, Knoxville, TN 37919",
+    "phone": "+1-865-200-8059",
+    "website": "https://www.abridgedbeer.com/",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Set in a 1950s auto garage, this brewpub serves some of the best pub fare and craft beer in Knoxville. Extremely family and dog-friendly.",
+    "must_try": "Abridged Burger and any seasonal sour beer",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Balter Beerworks",
+    "address": "100 S Broadway, Knoxville, TN 37902",
+    "phone": "+1-865-999-5015",
+    "website": "https://www.balterbeerworks.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Scratch kitchen brewpub downtown. House-brewed beers and elevated bar food. The pretzel with beer cheese is essential.",
+    "must_try": "Bavarian pretzel with beer cheese and a house IPA",
+    "hours": "Mon-Thu 11AM-10PM, Fri-Sat 11AM-11PM, Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stock & Barrel",
+    "address": "35 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-766-2075",
+    "website": "https://www.stockandbarrelknox.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Burger-and-bourbon spot on Market Square. The Billy (goat cheese, bourbon onions, tomato jam) is the order. Great patio seating.",
+    "must_try": "The Billy burger with bourbon onions",
+    "hours": "Daily 11AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emilia",
+    "address": "16 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-999-0325",
+    "website": "https://www.emiliaknox.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Homemade Italian on Market Square. Gnocchi, focaccia, butterscotch budino. Date-night caliber with a warm, modern vibe.",
+    "must_try": "Handmade gnocchi and the butterscotch budino",
+    "hours": "Tue-Sat 5-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Loco Burro Fresh Mex Cantina",
+    "address": "321 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-2755",
+    "website": "https://www.locoburro.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Rooftop bar with Parkway people-watching, massive margaritas, and a mechanical donkey inside. It's the fun-tourist stop that locals actually also like.",
+    "must_try": "Giant margarita on the rooftop",
+    "hours": "Daily 11AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Big Daddy's Pizzeria",
+    "address": "3053 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-7171",
+    "website": "https://www.bigdaddyspizzeria.net/",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Wood-fired brick oven pizza with incredibly fresh ingredients. They don't own a freezer — hand-pulled dough is the standard here.",
+    "must_try": "The Taco Pie or Big Kahuna",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nino's Pizzeria & Eatery",
+    "address": "105 Long Springs Rd, Sevierville, TN 37876",
+    "phone": "+1-865-365-4444",
+    "website": "https://ninospizzeriaandeatery.com/",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "True hidden local gem off the main drag with massive NY-style slices and authentic Italian entrees. Locals try to keep this one quiet.",
+    "must_try": "Pepperoni Knots and Cannolis",
+    "hours": "Tue-Sun 11AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pizza Rio - Gatlinburg",
+    "address": "373 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-280-0900",
+    "website": "https://pizza-rio.com/",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Perched above the river, same endless Brazilian pizza experience right on the Gatlinburg strip. Upscale feel for a pizza joint.",
+    "must_try": "Picanha Pizza",
+    "hours": "Daily 4-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pizza Rio - Pigeon Forge",
+    "address": "140 Showplace Blvd, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-9990",
+    "website": "https://pizza-rio.com/",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Brazilian rodizio-style pizzeria where servers continuously bring fresh slices to your table. All-you-can-eat marathon of savory and sweet pies.",
+    "must_try": "The continuous dessert pizza service",
+    "hours": "Daily 4-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chesapeake's Restaurant - Gatlinburg",
+    "address": "601 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-3727",
+    "website": "https://www.chesapeakes.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Fancy seafood in a mountain town sounds wrong but this place makes it work. Raw bar, blue-lit interiors, views of the river. Gatlinburg's best-kept upscale secret.",
+    "must_try": "Fresh Maine lobster and the raw bar",
+    "hours": "Daily 4:30-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crawdaddy's Restaurant & Oyster Bar",
+    "address": "762 Parkway #5, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-3755",
+    "website": "https://crawdaddysgatlinburg.com/",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Lively Cajun-style joint on the Parkway with a great balcony for people-watching. A loud slice of New Orleans in the mountains.",
+    "must_try": "Lobster & Shrimp Dip and Alligator Bites",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Harpoon Harry's Crab House",
+    "address": "112 Walden's Main St, Pigeon Forge, TN 37863",
+    "phone": "+1-865-428-2006",
+    "website": "https://harpoonharryscrabhouse.com/",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "Massive wood-timber restaurant blending coastal seafood with mountain aesthetics. Excellent fresh catches and a huge bar area.",
+    "must_try": "Spinach Crab & Artichoke Dip",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Huck Finn's Catfish",
+    "address": "3330 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-3353",
+    "website": "https://www.huckfinnscatfish.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$",
+    "rating": "4.5",
+    "description": "All-you-can-eat catfish that's genuinely great. Old-school Southern joint — no frills, just perfect fried fish. Huge portions, cheap prices.",
+    "must_try": "All-you-can-eat catfish dinner",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "STIR Knoxville",
+    "address": "129 S Central St, Knoxville, TN 37902",
+    "phone": "+1-865-247-0244",
+    "website": "https://www.stirknoxville.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Old City open-air concept with a heated patio. Craft cocktails over a dozen oysters. The date night spot for the Knoxville crowd.",
+    "must_try": "Oysters and a craft cocktail on the patio",
+    "hours": "Tue-Sat 4-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Brass Pearl",
+    "address": "37 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-999-5001",
+    "website": "https://www.thebrasspearlknox.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Raw oyster bar on Market Square. Fresh seafood, coastal vibes in a mountain city. Same owners as Stock & Barrel — they know what they're doing.",
+    "must_try": "Dozen oysters and the fish tacos",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MagiQuest",
+    "address": "2491 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-686-5586",
+    "website": "https://www.magiquestpf.com/",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Massive castle-themed complex with live-action role-playing using magic wands, plus blacklight pirate golf and a mirror maze.",
+    "must_try": "The interactive wand quests",
+    "hours": "Daily 9AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ripley's Believe It or Not! Odditorium",
+    "address": "800 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-5096",
+    "website": "https://www.ripleys.com/gatlinburg/believe-it-or-not/",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The classic Odditorium — three stories of bizarre artifacts, interactive exhibits, and pop-culture oddities.",
+    "must_try": "The shrunken heads exhibit",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ripley's Haunted Adventure",
+    "address": "908 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-9991",
+    "website": "https://www.ripleys.com/gatlinburg/haunted-adventure/",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Year-round multi-million dollar haunted house with live actors and animatronics. Genuinely spooky — great for thrill-seeking teens.",
+    "must_try": "The creepy elevator ride to start",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ripley's Mirror Maze",
+    "address": "623 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-1834",
+    "website": "https://www.ripleys.com/gatlinburg/mirror-maze/",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Disorienting LED-lit labyrinth of mirrors that's surprisingly tricky to navigate. Quick, fun Parkway stop.",
+    "must_try": "Navigating without using your hands",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "TopJump Trampoline & Extreme Arena",
+    "address": "3735 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-3400",
+    "website": "https://www.topjump.com/",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Indoor trampoline park and ninja course — absolute lifesaver on a rainy day when the kids need to burn off energy.",
+    "must_try": "Fire & Ice Ninja Course",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Illusionation: The Magic of Jason Hudy",
+    "address": "2135 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-245-4386",
+    "website": "https://www.illusionationmagicshow.com/",
+    "category": "entertainment",
+    "subcategory": "comedy_magic",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "High-energy blend of world-class illusions and comedy. Slick, well-produced show right on the main strip.",
+    "must_try": "Volunteer for an on-stage illusion",
+    "hours": "Showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steven Best's Smoky Mountain Theater",
+    "address": "157 E Wears Valley Rd #12, Pigeon Forge, TN 37863",
+    "phone": "+1-865-856-1117",
+    "website": "https://smokymtntheater.com/",
+    "category": "entertainment",
+    "subcategory": "comedy_magic",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Intimate, up-close magic and illusion show leaning heavily on audience participation. Great evening entertainment without the arena crowds.",
+    "must_try": "Unbelievable Magic Show",
+    "hours": "Showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlin's Escape Games",
+    "address": "716 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-412-8574",
+    "website": "https://www.gatlinsescapegames.com/",
+    "category": "entertainment",
+    "subcategory": "escape_rooms",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Top-tier escape rooms with fantastic local themes right in downtown Gatlinburg. Challenging but perfectly logical puzzles.",
+    "must_try": "Moonshine Hill Hootenanny",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Escape Game - Pigeon Forge",
+    "address": "131 The Island Dr Suite 9139, Pigeon Forge, TN 37863",
+    "phone": "+1-865-868-3400",
+    "website": "https://theescapegame.com/",
+    "category": "entertainment",
+    "subcategory": "escape_rooms",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "High-budget, incredibly immersive escape rooms at The Island. Production quality rivals major theme parks.",
+    "must_try": "The Prison Break room",
+    "hours": "Daily 8AM-11:45PM",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Track - Pigeon Forge",
+    "address": "2575 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-453-4777",
+    "website": "https://funatthetrack.com/",
+    "category": "entertainment",
+    "subcategory": "go_karts",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Classic all-in-one family fun center with multi-level wooden go-kart tracks, bumper boats, and a massive arcade.",
+    "must_try": "The Wild Woody elevated go-kart track",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Xtreme Racing Center",
+    "address": "3144 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-877-920-6294",
+    "website": "https://www.mypigeonforge.com/business/xtreme-racing-center-pigeon-forge/",
+    "category": "entertainment",
+    "subcategory": "go_karts",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Fastest professional-grade European Sodi karts in Pigeon Forge. Elevated and linear tracks provide serious adrenaline.",
+    "must_try": "The 3,500 linear foot Xtreme Track",
+    "hours": "Daily 12-8PM",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crave Golf Club",
+    "address": "2925 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-3403",
+    "website": "https://www.cravegolf.com/",
+    "category": "entertainment",
+    "subcategory": "mini_golf",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Wildly colorful candy-themed indoor and outdoor mini-golf complex. It literally smells like sugar when you walk in.",
+    "must_try": "The indoor rooftop course",
+    "hours": "Daily 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hillbilly Golf",
+    "address": "340 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-7470",
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "mini_golf",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Legendary Gatlinburg classic — ride an incline tram up the mountain to play 18 holes winding down a steep, heavily wooded hillside.",
+    "must_try": "The tram ride to the top",
+    "hours": "Daily 9AM-10PM",
+    "seasonal": "Seasonal — closed in winter",
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Oliver Hotel",
+    "address": "407 Union Ave, Knoxville, TN 37902",
+    "phone": "+1-865-521-0050",
+    "website": "https://www.theoliverhotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Boutique hotel in a restored 1876 building. Home to Peter Kern Library speakeasy and Oliver Royale restaurant. Steps from Market Square. Knoxville's best hotel.",
+    "must_try": "Stay here and hit Peter Kern Library downstairs",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Auntie Belham's Cabin Rentals",
+    "address": "1024 Charlotte's Court, Pigeon Forge, TN 37863",
+    "phone": "+1-877-369-9694",
+    "website": "https://www.auntiebelhams.com/",
+    "category": "lodging",
+    "subcategory": "cabins",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Long-standing, reliable cabin rental agency across the entire county. They provide excellent free attraction ticket packages at check-in.",
+    "must_try": "The free attraction tickets provided at check-in",
+    "hours": "Office 9AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cabins for YOU",
+    "address": "1441 Wiley Oakley Dr #1, Gatlinburg, TN 37738",
+    "phone": "+1-800-684-7865",
+    "website": "https://www.cabinsforyou.com/",
+    "category": "lodging",
+    "subcategory": "cabins",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "One of the largest property management companies in the Smokies. Everything from secluded romantic hideaways to massive corporate luxury lodges.",
+    "must_try": "Their pet-friendly secluded cabin options",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elk Springs Resort",
+    "address": "125 Silverbell Lane, Gatlinburg, TN 37738",
+    "phone": "+1-865-233-2390",
+    "website": "https://www.elkspringsresort.com/",
+    "category": "lodging",
+    "subcategory": "cabins",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Luxury cabin resort on 68 private acres bordering the National Park. Cabins feature high-end amenities including private indoor pools.",
+    "must_try": "Booking a cabin with an indoor heated pool",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlinburg Falls Resort",
+    "address": "645 Park Vista Way, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.cabinsofthesmokymountains.com/resorts/gatlinburg-falls-at-the-park.php",
+    "category": "lodging",
+    "subcategory": "cabins",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Sprawling resort community minutes from downtown Gatlinburg with massive multi-level cabins designed for large groups and family reunions.",
+    "must_try": "Cabins with arcade rooms and home theaters",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elkmont Campground",
+    "address": "434 Elkmont Rd, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.recreation.gov",
+    "category": "lodging",
+    "subcategory": "campgrounds",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Most popular campground in GSMNP. Along the Little River. Firefly viewing in June. Reserve way ahead. Where the synchronous firefly lottery happens.",
+    "must_try": "June synchronous firefly event (lottery required)",
+    "hours": "Mar-Nov",
+    "seasonal": "Seasonal",
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smokemont Campground",
+    "address": "253 Smokemont Campground Rd, Cherokee, NC 28719",
+    "phone": "+1-828-497-9270",
+    "website": "https://www.nps.gov/grsm/planyourvisit/smokemont-campground.htm",
+    "category": "lodging",
+    "subcategory": "campgrounds",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Beautiful, serene National Park campground with tent and RV sites right on the Oconaluftee River. Great basecamp for the North Carolina side of the Smokies.",
+    "must_try": "Wildlife viewing near the Oconaluftee River",
+    "hours": "24/7",
+    "seasonal": "Year-round (some sites seasonal)",
+    "modes": [
+      "adventure",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Black Fox Lodge - Tapestry Collection by Hilton",
+    "address": "3171 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-774-4000",
+    "website": "https://www.hilton.com/en/hotels/tysirup-black-fox-lodge-pigeon-forge/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Modern upscale lodge vibes right on the river in the middle of Pigeon Forge. Outdoor pool and waterslide.",
+    "must_try": "The outdoor pool and waterslide",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Edgewater Hotel & Conference Center",
+    "address": "402 River Road, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-4151",
+    "website": "https://edgewater-hotel.com/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Convenient hotel right on the river, steps from the Aquarium and downtown Gatlinburg shops. Indoor/outdoor pool and complimentary breakfast.",
+    "must_try": "Indoor/outdoor pool and complimentary breakfast",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Margaritaville Island Hotel",
+    "address": "131 The Island Dr, Pigeon Forge, TN 37863",
+    "phone": "+1-865-686-8500",
+    "website": "https://www.margaritavilleislandhotel.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Island attitude meets mountain latitude. Rooftop pool and Chill Bar at The Island complex. Walking distance to everything on the strip. Jimmy Buffett energy.",
+    "must_try": "Rooftop pool and margaritas at the Chill Bar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Inn at Christmas Place",
+    "address": "119 Christmas Tree Lane, Pigeon Forge, TN 37863",
+    "phone": "+1-888-465-9644",
+    "website": "https://innatchristmasplace.com/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "Bavarian-style hotel where it's Christmas 365 days a year. The attention to detail and holiday cheer is completely unmatched. Peak occupancy year-round.",
+    "must_try": "The Santa Suite and the Glockenspiel performances",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Park Vista - DoubleTree by Hilton",
+    "address": "705 Cherokee Orchard Road, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.parkvista.com/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Iconic circular high-rise perched on a mountain above Gatlinburg. Stunning panoramic views from private balconies. Trolley runs from the lobby to downtown.",
+    "must_try": "Riding the trolley from the lobby into downtown",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dollywood's DreamMore Resort and Spa",
+    "address": "2525 DreamMore Way, Pigeon Forge, TN 37863",
+    "phone": "+1-800-365-5996",
+    "website": "https://www.dollywood.com/resorts/dreammore",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Dollywood's flagship resort. Priority park access, complimentary TimeSaver passes, shuttle to parks. Spa, pool, Song & Hearth restaurant. Mountain luxury without pretension.",
+    "must_try": "Stay-and-play package for complimentary TimeSaver passes",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dollywood's HeartSong Lodge & Resort",
+    "address": "2525 DreamMore Way, Pigeon Forge, TN 37863",
+    "phone": "+1-800-365-5996",
+    "website": "https://www.dollywood.com/resorts/heartsong",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Newest Dollywood resort (opened 2023). Nature-inspired design, Ember & Elm restaurant, pool, spa. Same perks as DreamMore.",
+    "must_try": "Ember & Elm restaurant and the nature-inspired rooms",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fly Fishing the Smokies",
+    "address": "1420 Fighting Creek Gap Rd, Gatlinburg, TN 37738",
+    "phone": "+1-828-421-6378",
+    "website": "https://flyfishingthesmokies.net/",
+    "category": "outdoor_adventure",
+    "subcategory": "fishing",
+    "price": "$$$",
+    "rating": "5.0",
+    "description": "Award-winning, all-inclusive guide service teaching total beginners fly fishing in the pristine National Park streams.",
+    "must_try": "Hazel Creek Guided Day Trip",
+    "hours": "By appointment",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Smoky Mountain Angler",
+    "address": "Gatlinburg, TN",
+    "phone": null,
+    "website": "https://www.smokymountainangler.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "fishing",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Oldest authorized fishing guide service in the National Park. Wade trips and float trips for all skill levels.",
+    "must_try": "Smallmouth Bass Float Trip",
+    "hours": "By appointment",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlinburg Golf Course",
+    "address": "520 Dollywood Ln, Pigeon Forge, TN 37863",
+    "phone": "+1-865-453-3912",
+    "website": "https://www.gatlinburggolfcourse.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "golf",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Only public golf course in the Gatlinburg area. 18 holes designed by William Langford, carved into the foothills with mountain views on every hole.",
+    "must_try": "The signature par-3 12th hole with mountain backdrop",
+    "hours": "Dawn to dusk, seasonal",
+    "seasonal": "Mar-Nov",
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alum Cave Trail to Mt. LeConte",
+    "address": "Alum Cave Trailhead, Newfound Gap Rd",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "10.9 miles round trip to the summit, 4.6 miles to Alum Cave Bluffs. Geological formations, wildflowers, and LeConte Lodge at the top (reservations required, supplies delivered by llama). One of the best day hikes in the Eastern US.",
+    "must_try": "Hike to Alum Cave Bluffs at minimum, full LeConte if you're fit",
+    "hours": "Dawn to dusk",
+    "seasonal": "Year-round, icy in winter",
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chimney Tops Trail",
+    "address": "Chimney Tops Trailhead, Newfound Gap Rd",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "3.2 miles round trip, strenuous. Rock scrambles and exposed ridgelines. Panoramic summit views. One of the most rewarding short hikes in the park.",
+    "must_try": "The summit panorama",
+    "hours": "Dawn to dusk",
+    "seasonal": "Year-round, avoid after heavy rain",
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Laurel Falls Trail",
+    "address": "Fighting Creek Gap Rd, Gatlinburg, TN",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "2.6 miles round trip, paved, moderate. The most popular waterfall hike in the park. 80-foot falls. Gets crowded — go early or weekday.",
+    "must_try": "The falls view at the end",
+    "hours": "Dawn to dusk",
+    "seasonal": "Year-round",
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clingmans Dome",
+    "address": "Clingmans Dome Rd, Cherokee, NC",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Highest point in the park (6,643 ft). Observation tower with 360-degree views on clear days. 0.5-mile steep paved walk from parking lot. AT crosses through.",
+    "must_try": "Clear-day panoramic view from the tower",
+    "hours": "Road open Apr-Nov",
+    "seasonal": "Clingmans Dome Rd closed Dec-Mar",
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cades Cove",
+    "address": "Cades Cove Loop Rd, Townsend, TN",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm/planyourvisit/cadescove.htm",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free (parking pass)",
+    "rating": "4.8",
+    "description": "11-mile one-way loop road through a historic valley. Black bears, white-tailed deer, wild turkeys, and historic cabins. Best at sunrise before the traffic hits. Wednesday/Saturday mornings bikes-only until 10AM.",
+    "must_try": "Sunrise drive or the Wednesday bike-only morning",
+    "hours": "Dawn to dusk",
+    "seasonal": "Open year-round, loop road may close temporarily in winter",
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Great Smoky Mountains National Park",
+    "address": "107 Park Headquarters Rd, Gatlinburg, TN 37738",
+    "phone": "+1-865-436-1200",
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free (parking pass required)",
+    "rating": "4.9",
+    "description": "Most visited national park in the US — 12M+ annual visitors. 522,000 acres, 850+ miles of trails, 2,000+ species of plants, black bears, elk, synchronous fireflies. Free entry, $5/day parking pass required.",
+    "must_try": "Cades Cove loop, Clingmans Dome, Laurel Falls, the synchronous firefly event (lottery in June)",
+    "hours": "Open 24/7, some roads seasonal",
+    "seasonal": "Newfound Gap Rd open year-round; Clingmans Dome Rd closed Dec-Mar",
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ijams Nature Center",
+    "address": "2915 Island Home Ave, Knoxville, TN 37920",
+    "phone": "+1-865-577-4717",
+    "website": "https://www.ijams.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "315 acres of trails in South Knoxville. Mead's Quarry for kayaking, River Boardwalk with Tennessee River views, rock climbing. Free admission. Dogs on leash welcome.",
+    "must_try": "River Boardwalk Trail and kayaking at Mead's Quarry",
+    "hours": "Daily 8AM-dusk",
+    "seasonal": "Year-round",
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roaring Fork Motor Nature Trail",
+    "address": "Accessible from Historic Nature Trail, Gatlinburg",
+    "phone": null,
+    "website": "https://www.nps.gov/grsm",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free (parking pass)",
+    "rating": "4.6",
+    "description": "5.5-mile one-way loop drive starting in Gatlinburg. Old-growth forest, historic buildings, and trailheads for Grotto Falls and Rainbow Falls. Less crowded than Cades Cove.",
+    "must_try": "Grotto Falls trail (walk behind the waterfall)",
+    "hours": "Mar-Nov, dawn to dusk",
+    "seasonal": "Closed in winter",
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pink Jeep Tours Smoky Mountains",
+    "address": "131 The Island Dr #3105, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-2358",
+    "website": "https://www.pinkadventuretours.com",
+    "category": "outdoor_adventure",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Guided Jeep tours through the national park and surrounding areas. Multiple route options. Good for families and people who want the Smokies experience without the planning.",
+    "must_try": "Custom Smoky Mountain Tour",
+    "hours": "Daily, multiple departure times",
+    "seasonal": "Year-round",
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smoky Mountain Outdoors",
+    "address": "3299 Hartford Rd, Hartford, TN 37753",
+    "phone": "+1-800-771-7238",
+    "website": "https://www.smokymountainrafting.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Top-tier whitewater rafting on the Pigeon River. Guides are fantastic at making beginners feel completely safe.",
+    "must_try": "Upper River Trip (Class III-IV rapids)",
+    "hours": "Seasonal",
+    "seasonal": "Spring-Fall",
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smoky Mountain River Rat",
+    "address": "Townsend, TN",
+    "phone": "+1-865-448-8888",
+    "website": "https://smokymtnriverrat.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "The best outfitter for lazy afternoon tubing on the Little River or adrenaline-pumping whitewater rafting in Hartford.",
+    "must_try": "Renting a riverside cabana after tubing",
+    "hours": "Seasonal",
+    "seasonal": "Summer season (May-September)",
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CLIMB Works Smoky Mountains",
+    "address": "155 Branam Hollow Rd, Gatlinburg, TN 37738",
+    "phone": "+1-865-325-8116",
+    "website": "https://www.climbworks.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "World-class zipline canopy tour surrounded by the National Park. Your feet won't touch the ground for over two hours.",
+    "must_try": "The Mountaintop Zipline Tour",
+    "hours": "Year-round",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Legacy Mountain Ziplines",
+    "address": "2431 Upper Middle Creek Rd, Sevierville, TN 37876",
+    "phone": "+1-866-644-0653",
+    "website": "https://legacymountainziplines.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Longest ziplines on the East Coast with staggering 360-degree Smokies views while flying up to 50 mph.",
+    "must_try": "The 7-cable canopy tour",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Enterprise Rent-A-Car - McGhee Tyson Airport",
+    "address": "2055 Alcoa Hwy, Alcoa, TN 37701",
+    "phone": "+1-833-886-0851",
+    "website": "https://www.enterprise.com/",
+    "category": "services",
+    "subcategory": "car_rental",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Directly at the Knoxville airport. Most reliable option for picking up an SUV or AWD vehicle to handle steep cabin roads.",
+    "must_try": "Book an AWD vehicle for mountain driving",
+    "hours": "Daily 8AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shell - Last Gas Before the Park",
+    "address": "202 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-3688",
+    "website": null,
+    "category": "services",
+    "subcategory": "gas",
+    "price": "$",
+    "rating": "4.0",
+    "description": "The last reliable gas station before entering Great Smoky Mountains National Park. Do not skip this if driving to Clingmans Dome or Newfound Gap.",
+    "must_try": "Fill up completely before hitting Newfound Gap Road",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "NOC Gatlinburg (Nantahala Outdoor Center)",
+    "address": "1138 Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-277-8209",
+    "website": "https://noc.com/locations/gatlinburg-tn/",
+    "category": "services",
+    "subcategory": "gear_outfitter",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "18,000-square-foot outdoor superstore at the park entrance. Trail maps, bear spray, rain jackets, and guided excursion bookings. Talk to the master guides.",
+    "must_try": "Trail recommendations from the master guides",
+    "hours": "Daily 10AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Food City - Gatlinburg",
+    "address": "1219 East Parkway, Gatlinburg, TN 37738",
+    "phone": "+1-865-430-3116",
+    "website": null,
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.3",
+    "description": "The go-to grocery store for stocking your Gatlinburg cabin. Carries firewood, fresh produce, local meats, and Smoky Mountain branded products.",
+    "must_try": "Local Smoky Mountain branded products and firewood",
+    "hours": "Daily 6AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kroger - Pigeon Forge",
+    "address": "220 Wears Valley Rd, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-0874",
+    "website": null,
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Massive supermarket at the Wears Valley / Pigeon Forge intersection. Perfect for bulk cabin provisioning runs. Online curbside pickup available.",
+    "must_try": "Online curbside pickup to save time",
+    "hours": "Daily 7AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Publix - Pigeon Forge",
+    "address": "2656 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-774-2030",
+    "website": null,
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Immaculately clean grocery in Pigeon Forge. Grab high-quality deli meats, cheeses, and the famous Pub Subs for a trail picnic.",
+    "must_try": "Publix sub sandwich for a trail lunch",
+    "hours": "Daily 7AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smoky Dog Lodge",
+    "address": "1301 W Main St, Sevierville, TN 37862",
+    "phone": "+1-865-383-3334",
+    "website": "https://www.smokydoglodge.com/",
+    "category": "services",
+    "subcategory": "pet_boarding",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Cage-free daycare and boarding facility. Drop your dog here while you hit Dollywood or the National Park. They treat animals like royalty.",
+    "must_try": "The luxury cabana boarding suites",
+    "hours": "Daily 7AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CVS Pharmacy - Pigeon Forge",
+    "address": "2415 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-6410",
+    "website": null,
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.8",
+    "description": "Centrally located pharmacy on the Pigeon Forge strip. Essential for forgotten toiletries, first aid supplies, or allergy meds for mountain pollen.",
+    "must_try": "Over-the-counter allergy meds for mountain pollen",
+    "hours": "Daily 8AM-midnight",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walgreens - Pigeon Forge",
+    "address": "3071 Parkway, Pigeon Forge, TN 37863",
+    "phone": "+1-865-429-7127",
+    "website": null,
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "4.0",
+    "description": "24-hour store at a major Parkway intersection. Lifesaver for late-night essentials after attractions close.",
+    "must_try": "Quick photo printing for vacation memories",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urgent Care of the Smokies",
+    "address": "2656 Parkway Ste 4, Pigeon Forge, TN 37863",
+    "phone": "+1-865-366-3264",
+    "website": "https://urgentcareofthesmokies.com/",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "3.4",
+    "description": "Walk-in clinic next to Publix. Fast, friendly, and saves you from an overwhelmed ER for minor vacation injuries and illnesses.",
+    "must_try": "Online booking to hold your place in line",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Village Shops",
+    "address": "634 Parkway, Gatlinburg, TN 37738",
+    "phone": null,
+    "website": "https://www.thevillageshops.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "Varies",
+    "rating": "4.4",
+    "description": "European-style courtyard shopping. The Donut Friar, Pepper Palace, and a bunch of quirky shops. Been here since 1969.",
+    "must_try": "The Donut Friar inside the village",
+    "hours": "Daily 10AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Great Smoky Arts & Crafts Community",
+    "address": "Glades Rd / Buckhorn Rd / Birds Creek Rd, Gatlinburg, TN",
+    "phone": null,
+    "website": "https://www.gatlinburgcrafts.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "Varies",
+    "rating": "4.5",
+    "description": "8-mile loop road with 100+ independent artisans and craftspeople. Pottery, woodwork, leather, brooms, candles. Largest group of independent artisans in North America. The anti-Parkway experience.",
+    "must_try": "Drive or trolley the loop and stop wherever catches your eye",
+    "hours": "Most shops 10AM-5PM daily",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tanger Outlets Sevierville",
+    "address": "1645 Parkway Suite 960, Sevierville, TN 37862",
+    "phone": "+1-865-453-1053",
+    "website": "https://www.tangeroutlets.com/sevierville",
+    "category": "shopping",
+    "subcategory": "outlets",
+    "price": "Varies",
+    "rating": "4.3",
+    "description": "100+ outlet stores along the Parkway. Nike, Coach, Kate Spade, etc. Two separate locations (Sevierville 1 and 2). Good rainy-day plan.",
+    "must_try": "Smith Creek Moonshine has a tasting bar inside",
+    "hours": "Mon-Sat 10AM-9PM, Sun 10AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mast General Store - Knoxville",
+    "address": "402 S Gay St, Knoxville, TN 37902",
+    "phone": "+1-865-546-1336",
+    "website": "https://www.mastgeneralstore.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Old-fashioned general store on Gay Street. Candy counter, outdoor gear, Appalachian goods. A Knoxville institution.",
+    "must_try": "Old-fashioned candy by the pound",
+    "hours": "Mon-Sat 10AM-8PM, Sun 11AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Old Mill Square",
+    "address": "175 Old Mill Ave, Pigeon Forge, TN 37863",
+    "phone": null,
+    "website": "https://www.old-mill.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "Varies",
+    "rating": "4.5",
+    "description": "Historic water-powered grist mill from 1830 surrounded by shops, pottery, candy kitchen, and restaurants. Old Mill grits and cornmeal are legendary. The General Store has everything.",
+    "must_try": "Buy stone-ground cornmeal from the actual mill",
+    "hours": "Daily 9:30AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LeConte Wellness Center",
+    "address": "170 Community Center Dr, Pigeon Forge, TN 37863",
+    "phone": null,
+    "website": "https://www.covenanthealth.com/leconte/wellness-center/",
+    "category": "wellness_spa",
+    "subcategory": "fitness",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Inside the Pigeon Forge Community Center. Affordable drop-in workout, group fitness classes, and indoor walking track.",
+    "must_try": "Drop-in yoga or indoor walking track",
+    "hours": "Check facility hours",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smoky Mountain Massage Therapy",
+    "address": "2902 Veterans Blvd, Pigeon Forge, TN 37863",
+    "phone": "+1-865-908-7705",
+    "website": "https://smokymountainmassage.com/",
+    "category": "wellness_spa",
+    "subcategory": "massage",
+    "price": "$$",
+    "rating": "4.9",
+    "description": "Mobile massage therapists who bring the experience directly to your cabin deck. In-cabin couples massage is the signature move.",
+    "must_try": "In-cabin Couples Massage",
+    "hours": "By appointment",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Foxplace Salon & Spa",
+    "address": "Gatlinburg, TN",
+    "phone": null,
+    "website": "https://foxplacespa.com/",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Cozy boutique day spa in Gatlinburg known for incredible European steam facials and highly personalized therapeutic treatments.",
+    "must_try": "European Steam Facial",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Somewhere Spa at Margaritaville",
+    "address": "131 The Island Dr, Pigeon Forge, TN 37863",
+    "phone": null,
+    "website": null,
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Tropical-themed spa inside Margaritaville Island Hotel. High-end pedicures, massages, and a quiet chill room.",
+    "must_try": "Volcano Hot Stone Massage",
+    "hours": "Daily 9AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Spa at Oak Haven Resort",
+    "address": "1947 Old Knoxville Hwy, Sevierville, TN 37876",
+    "phone": "+1-800-652-2611",
+    "website": "https://oakhavenspa.com/",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Award-winning day spa tucked into a luxury cabin resort. The ultimate escape from Parkway neon and noise.",
+    "must_try": "80-minute Head to Toe Harmony experience",
+    "hours": "Daily 9AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wake Foot Sanctuary",
+    "address": "35 Market Square, Knoxville, TN 37902",
+    "phone": "+1-865-951-2828",
+    "website": "https://www.wakefootsanctuary.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Communal foot soaking sanctuary with wine/beer. Soak your feet in mineral baths while sipping cocktails. Strange concept, incredible execution. Market Square.",
+    "must_try": "Signature foot soak with a glass of wine",
+    "hours": "Mon-Thu noon-10PM, Fri-Sun 10AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mountain Zen Yoga",
+    "address": "Gatlinburg, TN (mobile)",
+    "phone": null,
+    "website": "https://www.mountainzenyogastudio.com/",
+    "category": "wellness_spa",
+    "subcategory": "yoga",
+    "price": "$$",
+    "rating": "5.0",
+    "description": "Mobile yoga service bringing mats, music, and certified instructors directly to your cabin or preferred outdoor setting. Great for bachelorette groups.",
+    "must_try": "Bachelorette group yoga session",
+    "hours": "By appointment",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  }
+]

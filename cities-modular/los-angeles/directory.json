@@ -1,0 +1,2950 @@
+[
+  {
+    "name": "Universal Studios Hollywood",
+    "address": "100 Universal City Plaza, Universal City, CA 91608",
+    "phone": "+1-800-864-8377",
+    "website": "https://universalstudioshollywood.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$$$ ($109-179)",
+    "rating": "4.5",
+    "description": "Theme park with Wizarding World, the studio tour, and new Fast & Furious: Hollywood Drift coaster opening 2026.",
+    "must_try": "Studio Tour backlot tram and the new coaster.",
+    "hours": "Daily, hours vary (typically 9am-8pm)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Olvera Street",
+    "address": "845 N Alameda St, Los Angeles, CA 90012",
+    "phone": null,
+    "website": "https://elparquedelapuebla.com",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "The birthplace of Los Angeles. A vibrant Mexican marketplace since 1930 — taquitos, shops, Dia de los Muertos celebrations.",
+    "must_try": "Cielito Lindo taquitos and the Avila Adobe (oldest house in LA).",
+    "hours": "Daily 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Griffith Observatory",
+    "address": "2800 E Observatory Rd, Los Angeles, CA 90027",
+    "phone": "+1-213-473-0800",
+    "website": "https://griffithobservatory.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free (planetarium $7)",
+    "rating": "4.8",
+    "description": "Free admission, insane views of the Hollywood Sign and downtown skyline. Come at sunset — non-negotiable.",
+    "must_try": "Sunset from the west terrace.",
+    "hours": "Tue-Fri 12-10pm, Sat-Sun 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hollywood Forever Cemetery",
+    "address": "6000 Santa Monica Blvd, Hollywood, CA 90038",
+    "phone": "+1-323-469-1181",
+    "website": "https://hollywoodforever.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free (Cinespia screenings $20+)",
+    "rating": "4.5",
+    "description": "Final resting place of Rudolph Valentino, Judy Garland, and more. Summer Cinespia movie screenings are essential.",
+    "must_try": "Cinespia outdoor movie screening (summer).",
+    "hours": "Daily 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Brea Tar Pits",
+    "address": "5801 Wilshire Blvd, Los Angeles, CA 90036",
+    "phone": "+1-213-763-3499",
+    "website": "https://tarpits.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free (museum extra)",
+    "rating": "4.3",
+    "description": "Active paleontological dig site in the middle of the city. Watch scientists excavate Ice Age fossils.",
+    "must_try": "Watch the ongoing excavation from the observation pit.",
+    "hours": "Daily 9:30am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Venice Canals",
+    "address": "Venice Canals, Venice, CA 90291",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Quiet, charming canals lined with eclectic homes. A world away from the boardwalk chaos just blocks over.",
+    "must_try": "Walk the bridges at golden hour.",
+    "hours": "24/7 (outdoor)",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walt Disney Concert Hall",
+    "address": "111 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "+1-213-972-7211",
+    "website": "https://laphil.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free (self-guided tour) / varies (performances)",
+    "rating": "4.8",
+    "description": "Frank Gehry's stainless steel masterpiece. Even if you skip the concert, walk the exterior and garden.",
+    "must_try": "Self-guided architecture tour (free).",
+    "hours": "Daily, self-guided tours 10am-2pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Watts Towers",
+    "address": "1727 E 107th St, Los Angeles, CA 90002",
+    "phone": "+1-213-847-4646",
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$7",
+    "rating": "4.5",
+    "description": "Simon Rodia spent 33 years building these 17 interconnected structures from found objects. A folk art masterpiece.",
+    "must_try": "Guided tour of the towers.",
+    "hours": "Thu-Sat 10am-4pm, Sun 12-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Academy Museum of Motion Pictures",
+    "address": "6067 Wilshire Blvd, Los Angeles, CA 90036",
+    "phone": "+1-323-930-3000",
+    "website": "https://academymuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$25",
+    "rating": "4.6",
+    "description": "The Oscars museum. Film history from silent era to Marvel, plus a stunning Renzo Piano sphere theater.",
+    "must_try": "The Spielberg Gallery and the dome theater.",
+    "hours": "Sun-Thu 10am-6pm, Fri-Sat 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "California Science Center",
+    "address": "700 Exposition Park Dr, Los Angeles, CA 90037",
+    "phone": "+1-323-724-3623",
+    "website": "https://californiasciencecenter.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free (special exhibits extra)",
+    "rating": "4.6",
+    "description": "Free admission — and you can see the actual Space Shuttle Endeavour. Incredible for families.",
+    "must_try": "Space Shuttle Endeavour exhibit.",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "DATALAND — Museum of AI Arts",
+    "address": "The Grand LA, 100 S Grand Ave, Los Angeles, CA 90012",
+    "phone": null,
+    "website": "https://dataland.la",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "TBD",
+    "rating": null,
+    "description": "Refik Anadol's world-first Museum of AI Arts. Five galleries, 25,000 sq ft of immersive digital art at Frank Gehry's Grand LA.",
+    "must_try": "The immersive main gallery.",
+    "hours": "Opening Spring 2026",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grammy Museum",
+    "address": "800 W Olympic Blvd, Los Angeles, CA 90015",
+    "phone": "+1-213-765-6800",
+    "website": "https://grammymuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$18",
+    "rating": "4.5",
+    "description": "Interactive music museum at LA Live. Record your own song, see iconic instruments and costumes.",
+    "must_try": "The interactive sound rooms.",
+    "hours": "Mon-Fri 10:30am-6:30pm, Sat-Sun 10am-6:30pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LACMA",
+    "address": "5905 Wilshire Blvd, Los Angeles, CA 90036",
+    "phone": "+1-323-857-6000",
+    "website": "https://lacma.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$20",
+    "rating": "4.7",
+    "description": "Largest art museum in the West. The new David Geffen Galleries opened April 2026 — a generational expansion.",
+    "must_try": "Chris Burden's Urban Light installation at dusk (free, outdoor).",
+    "hours": "Mon-Tue, Thu 11am-6pm; Fri 11am-8pm; Sat-Sun 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lucas Museum of Narrative Art",
+    "address": "Exposition Park, Los Angeles, CA 90037",
+    "phone": null,
+    "website": "https://lucasmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": null,
+    "description": "George Lucas's billion-dollar museum of visual storytelling opening 2026. Film, illustration, comics, digital art. Free admission.",
+    "must_try": "Opening exhibitions.",
+    "hours": "Opening September 2026",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Natural History Museum of LA",
+    "address": "900 W Exposition Blvd, Los Angeles, CA 90007",
+    "phone": "+1-213-763-3466",
+    "website": "https://nhm.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$15 (free first Tuesday)",
+    "rating": "4.6",
+    "description": "Dinosaurs, gems, nature gardens. Free first Tuesday of each month.",
+    "must_try": "Dinosaur Hall and the Nature Gardens.",
+    "hours": "Daily 9:30am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Petersen Automotive Museum",
+    "address": "6060 Wilshire Blvd, Los Angeles, CA 90036",
+    "phone": "+1-323-930-2277",
+    "website": "https://petersen.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$18",
+    "rating": "4.7",
+    "description": "Car culture is LA culture. Stunning building, incredible collection from classic to hypercar.",
+    "must_try": "The Vault tour (extra $) for the real gems.",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Broad",
+    "address": "221 S Grand Ave, Los Angeles, CA 90012",
+    "phone": "+1-213-232-6200",
+    "website": "https://thebroad.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free (special exhibits extra)",
+    "rating": "4.6",
+    "description": "Contemporary art museum — Koons, Basquiat, Warhol, and the Infinity Mirror Room. Free general admission.",
+    "must_try": "Yayoi Kusama's Infinity Mirror Room (timed tickets).",
+    "hours": "Tue-Sun 10am-5pm (Thu-Sat til 8pm)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Getty Center",
+    "address": "1200 Getty Center Dr, Los Angeles, CA 90049",
+    "phone": "+1-310-440-7300",
+    "website": "https://getty.edu",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free (parking $20)",
+    "rating": "4.8",
+    "description": "An architectural marvel perched above the 405. Stunning gardens, city views, and a world-class collection. Admission free.",
+    "must_try": "The Central Garden and Van Gogh's Irises.",
+    "hours": "Tue-Sun 10am-5:30pm (Sat til 8pm)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Getty Villa",
+    "address": "17985 Pacific Coast Hwy, Pacific Palisades, CA 90272",
+    "phone": "+1-310-440-7300",
+    "website": "https://getty.edu/villa",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free (parking $20, timed tickets)",
+    "rating": "4.7",
+    "description": "Roman villa recreation with Greek, Roman, and Etruscan antiquities. Gardens and architecture are stunning.",
+    "must_try": "Outer peristyle garden overlooking the Pacific.",
+    "hours": "Wed-Mon 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Warner Bros Studio Tour",
+    "address": "3400 Warner Blvd, Burbank, CA 91505",
+    "phone": "+1-818-977-8687",
+    "website": "https://wbstudiotour.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Walk the actual backlot, see the Friends set, and explore the DC Universe exhibit. More intimate than Universal.",
+    "must_try": "The backlot walking tour.",
+    "hours": "Daily 8:30am-3:30pm",
+    "seasonal": null,
+    "modes": [
+      "hollywood",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Highland Park Bowl",
+    "address": "5621 N Figueroa St, Los Angeles, CA 90042",
+    "phone": "+1-323-257-2695",
+    "website": "https://highlandparkbowl.com",
+    "category": "bars_nightlife",
+    "subcategory": "bowling",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Restored 1927 bowling alley turned cocktail bar. Live music, Italian food, and gorgeous Art Deco lanes.",
+    "must_try": "Bowl a game and grab a Negroni.",
+    "hours": "Mon-Thu 5pm-12am, Fri-Sun 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Angel City Brewery",
+    "address": "216 S Alameda St, Los Angeles, CA 90012",
+    "phone": "+1-213-622-1261",
+    "website": "https://angelcitybrewery.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Arts District brewery in a converted warehouse. Big outdoor patio, rotating food trucks, weekend events.",
+    "must_try": "Angel City IPA on the patio.",
+    "hours": "Mon-Thu 4-10pm, Fri-Sun 12-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Abbey",
+    "address": "692 N Robertson Blvd, West Hollywood, CA 90069",
+    "phone": "+1-310-289-8410",
+    "website": "https://theabbeyweho.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "WeHo's most famous LGBTQ+ venue. Multiple bars, dance floors, food, and brunch. An institution.",
+    "must_try": "Sunday brunch drag show.",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Death & Co",
+    "address": "300 S Santa Fe Ave, Los Angeles, CA 90013",
+    "phone": "+1-213-514-4545",
+    "website": "https://deathandcompany.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "NYC cocktail institution's LA outpost in the Arts District. Dark, moody, and impeccably made drinks.",
+    "must_try": "Oaxaca Old Fashioned.",
+    "hours": "Daily 6pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Good Times at Davey Wayne's",
+    "address": "1611 N El Centro Ave, Hollywood, CA 90028",
+    "phone": "+1-323-962-3804",
+    "website": "https://daveywaynes.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Enter through a fridge into a 70s garage-sale themed bar. Frozen drinks, yard games, and pure nostalgic chaos.",
+    "must_try": "Frozen Irish Coffee.",
+    "hours": "Thu-Sat 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "No Vacancy",
+    "address": "1727 N Hudson Ave, Hollywood, CA 90028",
+    "phone": "+1-323-465-1902",
+    "website": "https://novacancyla.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Speakeasy in a restored Victorian — enter through a bedroom, down a staircase. Live music, burlesque, strong cocktails.",
+    "must_try": "Absinthe cocktail and whatever show is on.",
+    "hours": "Wed-Sat 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Dresden",
+    "address": "1760 N Vermont Ave, Los Angeles, CA 90027",
+    "phone": "+1-323-665-4294",
+    "website": "https://thedresden.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Mid-century lounge made famous by Swingers. Marty & Elayne have been performing jazz/lounge here since 1982.",
+    "must_try": "Blood & Sand cocktail while Marty & Elayne play.",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Roger Room",
+    "address": "370 N La Cienega Blvd, West Hollywood, CA 90048",
+    "phone": "+1-310-854-1114",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Hidden speakeasy on La Cienega. Dark, intimate, excellent cocktails. No sign — look for the door.",
+    "must_try": "Dealer's choice — tell the bartender what you like.",
+    "hours": "Daily 6pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Groundlings Theatre",
+    "address": "7307 Melrose Ave, Los Angeles, CA 90046",
+    "phone": "+1-323-934-4747",
+    "website": "https://groundlings.com",
+    "category": "bars_nightlife",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "LA's legendary improv school and theater. Where Melissa McCarthy, Will Ferrell, and Kristen Wiig started.",
+    "must_try": "Sunday Company show.",
+    "hours": "Show nights, check schedule",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Comedy Store",
+    "address": "8433 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "+1-323-650-6268",
+    "website": "https://thecomedystore.com",
+    "category": "bars_nightlife",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Legendary Sunset Strip comedy club. Three rooms, shows nightly. Pryor, Chappelle, and whoever drops in tonight.",
+    "must_try": "The Original Room lineup — you never know who'll show up.",
+    "hours": "Nightly shows 7pm and 9:30pm+",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Laugh Factory",
+    "address": "8001 Sunset Blvd, Hollywood, CA 90046",
+    "phone": "+1-323-656-1336",
+    "website": "https://laughfactory.com",
+    "category": "bars_nightlife",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Sunset Strip comedy institution. Nightly lineups mix headliners and up-and-comers with regular celebrity drop-ins.",
+    "must_try": "Late show on a Friday.",
+    "hours": "Shows nightly 8pm, 10pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HMS Bounty",
+    "address": "3357 Wilshire Blvd, Los Angeles, CA 90010",
+    "phone": "+1-213-385-7275",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Dark, nautical-themed dive attached to the Gaylord hotel on Wilshire. Cheap stiff drinks and a cast of regulars since 1962.",
+    "must_try": "Whatever's cheapest — it's a dive.",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jumbo's Clown Room",
+    "address": "5153 Hollywood Blvd, Hollywood, CA 90027",
+    "phone": "+1-323-666-1187",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Burlesque dive bar where dancers perform to rock and hip-hop. Cash only, no photos, unforgettable.",
+    "must_try": "Cheap drinks, tip the dancers.",
+    "hours": "Daily 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tiki-Ti",
+    "address": "4427 Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "+1-323-669-9381",
+    "website": "https://tiki-ti.com",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Family-run since 1961 — 12 seats, 90 tropical drinks, and zero pretension. The smallest, most beloved bar in LA.",
+    "must_try": "Ray's Mistake.",
+    "hours": "Wed-Sat 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pharaoh Karaoke Lounge",
+    "address": "3680 Wilshire Blvd #B, Los Angeles, CA 90010",
+    "phone": "+1-213-738-0023",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "karaoke",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Koreatown noraebang institution. Private rooms, BYOB, massive Korean and English song libraries.",
+    "must_try": "Book a room, bring soju from the liquor store.",
+    "hours": "Daily 7pm-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Note LA",
+    "address": "6372 Sunset Blvd, Los Angeles, CA 90028",
+    "phone": null,
+    "website": "https://bluenotela.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The storied NYC jazz club opened on Sunset in 2025. World-class jazz, R&B, and soul in an intimate room.",
+    "must_try": "Any headline act — the room is incredible.",
+    "hours": "Show nights, check calendar",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Greek Theatre",
+    "address": "2700 N Vermont Ave, Los Angeles, CA 90027",
+    "phone": "+1-323-665-5857",
+    "website": "https://lagreektheatre.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$-$$$$",
+    "rating": "4.7",
+    "description": "5,900-seat amphitheater in Griffith Park. More intimate than the Bowl, every seat feels close.",
+    "must_try": "Hike Griffith Park before the show.",
+    "hours": "Seasonal Apr-Nov",
+    "seasonal": "April-November",
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Hollywood Bowl",
+    "address": "2301 N Highland Ave, Hollywood, CA 90068",
+    "phone": "+1-323-850-2000",
+    "website": "https://hollywoodbowl.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$-$$$$",
+    "rating": "4.8",
+    "description": "Most iconic outdoor music venue in America. Bring wine and a picnic. Summer season June-September.",
+    "must_try": "Any show — the experience transcends the performer.",
+    "hours": "Seasonal Jun-Sep",
+    "seasonal": "Summer season June-September",
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Troubadour",
+    "address": "9081 Santa Monica Blvd, West Hollywood, CA 90069",
+    "phone": "+1-310-276-6168",
+    "website": "https://troubadour.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Where Elton John played his US debut. Intimate 500-capacity room that still books the best indie and rock.",
+    "must_try": "Any show — the sound is perfect for the room.",
+    "hours": "Event nights",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Viper Room",
+    "address": "8852 W Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "+1-310-358-1881",
+    "website": "https://viperroom.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Legendary Sunset Strip rock club. Small, sweaty, loud — the way live music should be.",
+    "must_try": "Catch whoever's playing.",
+    "hours": "Event nights 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Whisky A Go Go",
+    "address": "8901 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "+1-310-652-4202",
+    "website": "https://whiskyagogo.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The Doors' residency venue. Where LA rock was born. Still books live acts nightly.",
+    "must_try": "Any live show — the history is in the walls.",
+    "hours": "Event nights 7pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Perch",
+    "address": "448 S Hill St, Los Angeles, CA 90013",
+    "phone": "+1-213-802-1770",
+    "website": "https://perchla.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "DTLA rooftop with stunning city views, French bistro food, and live jazz. The skyline at night is the real menu.",
+    "must_try": "Any cocktail with the view.",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Spire 73",
+    "address": "633 W 5th St, 73rd Floor, Los Angeles, CA 90071",
+    "phone": "+1-213-358-2273",
+    "website": "https://spire73.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Highest open-air bar in the Western Hemisphere. 73 floors up with 360° views of the LA basin.",
+    "must_try": "Any cocktail — the view is the real menu.",
+    "hours": "Daily 4pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bub & Grandma's",
+    "address": "5101 York Blvd, Los Angeles, CA 90042",
+    "phone": null,
+    "website": "https://bubandgrandmas.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Andy Kadin's sourdough bakery empire. Expanded to pizza in the former Town Pizza space. Excellent everything.",
+    "must_try": "Sourdough croissant and the pizza.",
+    "hours": "Wed-Sun 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clark Street Bread",
+    "address": "3101 Silver Lake Blvd, Los Angeles, CA 90039",
+    "phone": null,
+    "website": "https://clarkstreetbread.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Artisan bread and pastries in a tiny Silver Lake space. The country loaf is legendary among Eastside bread nerds.",
+    "must_try": "Country loaf and morning bun.",
+    "hours": "Wed-Sun 8am-2pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Proof Bakery",
+    "address": "3156 Glendale Blvd, Los Angeles, CA 90039",
+    "phone": "+1-323-664-8633",
+    "website": "https://proofbakeryatwater.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Atwater Village neighborhood bakery with the best croissants on the Eastside. Everything is baked fresh daily.",
+    "must_try": "Almond croissant and seasonal fruit galette.",
+    "hours": "Mon-Sat 7am-4pm, Sun 8am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dayglow Coffee",
+    "address": "7211 Melrose Ave, Los Angeles, CA 90046",
+    "phone": null,
+    "website": "https://dayglowcoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Light, bright Melrose coffee shop with some of the best filter coffee in the city. Minimalist design, maximum quality.",
+    "must_try": "Filter coffee flight.",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Go Get Em Tiger",
+    "address": "230 N Larchmont Blvd, Los Angeles, CA 90004",
+    "phone": "+1-323-380-5359",
+    "website": "https://gfreedman.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Larchmont's buzzy coffee bar. Excellent espresso and a signature macadamia milk latte.",
+    "must_try": "Macadamia milk latte.",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Intelligentsia Coffee",
+    "address": "3922 W Sunset Blvd, Los Angeles, CA 90029",
+    "phone": "+1-323-663-6173",
+    "website": "https://intelligentsia.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The Silver Lake flagship that helped launch third-wave coffee in LA. Still excellent.",
+    "must_try": "Black Cat espresso blend.",
+    "hours": "Daily 6am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Verve Coffee Roasters",
+    "address": "833 S Spring St, Los Angeles, CA 90014",
+    "phone": "+1-213-455-5991",
+    "website": "https://vervecoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Santa Cruz transplant with a gorgeous DTLA space. Bright, fruit-forward roasts and serious pour-overs.",
+    "must_try": "Single-origin pour-over.",
+    "hours": "Daily 7am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mashti Malone's",
+    "address": "1525 N La Brea Ave, Los Angeles, CA 90028",
+    "phone": "+1-323-874-4401",
+    "website": "https://mashtimalones.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Persian ice cream since 1980. Rosewater, saffron, orange blossom — flavors you won't find anywhere else.",
+    "must_try": "Rosewater and saffron pistachio.",
+    "hours": "Daily 10am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Salt & Straw",
+    "address": "240 N Larchmont Blvd, Los Angeles, CA 90004",
+    "phone": "+1-323-466-3133",
+    "website": "https://saltandstraw.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Portland ice cream institution with wild monthly rotating flavors. Lines are real but they let you sample everything.",
+    "must_try": "Sea salt with caramel ribbons, plus whatever the monthly special is.",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wanderlust Creamery",
+    "address": "3134 Glendale Blvd, Los Angeles, CA 90039",
+    "phone": "+1-323-741-1225",
+    "website": "https://wanderlustcreamery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Globally-inspired ice cream — ube malted crunch, sticky rice mango, Japanese milk bread. Wildly creative.",
+    "must_try": "Ube malted crunch.",
+    "hours": "Daily 12-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HomeState",
+    "address": "5510 N Figueroa St, Los Angeles, CA 90042",
+    "phone": "+1-323-906-1122",
+    "website": "https://myhomestate.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Texas-style breakfast tacos and queso that Highland Park is obsessed with. Simple, perfect.",
+    "must_try": "The Houston and queso.",
+    "hours": "Daily 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Republique",
+    "address": "624 S La Brea Ave, Los Angeles, CA 90036",
+    "phone": "+1-310-362-6115",
+    "website": "https://republiquela.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "All-day French-Californian in a gorgeous Charlie Chaplin-era building. The pastry case alone is worth the trip.",
+    "must_try": "Weekend brunch — short rib hash and any pastry.",
+    "hours": "Mon-Fri 8am-10pm, Sat-Sun 9am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sqirl",
+    "address": "720 N Virgil Ave #4, Los Angeles, CA 90029",
+    "phone": "+1-323-284-8147",
+    "website": "https://sqirlla.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Jessica Koslow's legendary jam shop and brunch spot now does dinner. The ricotta toast changed LA breakfast culture.",
+    "must_try": "Sorrel pesto rice bowl (daytime), smoked beet agnolotti (dinner).",
+    "hours": "Daily 8am-3pm; Dinner Wed-Sat 5:30-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bay Cities Italian Deli",
+    "address": "1517 Lincoln Blvd, Santa Monica, CA 90401",
+    "phone": "+1-310-395-8279",
+    "website": "https://baycitiesitaliandeli.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The Godmother sandwich has been voted best sandwich in LA for decades. Italian deli perfection since 1925.",
+    "must_try": "The Godmother — Italian meats, peppers, the works.",
+    "hours": "Tue-Sun 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Canter's Deli",
+    "address": "419 N Fairfax Ave, Los Angeles, CA 90036",
+    "phone": "+1-323-651-2030",
+    "website": "https://cantersdeli.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Open since 1931, 24/7. The quintessential LA Jewish deli — matzo ball soup at 2am after a show on Fairfax.",
+    "must_try": "Matzo ball soup and pastrami on rye.",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cassia",
+    "address": "1314 7th St, Santa Monica, CA 90401",
+    "phone": "+1-310-393-6699",
+    "website": "https://cassiarestaurant.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Southeast Asian brasserie in Santa Monica. The kaya toast and Vietnamese-style pot-au-feu are standouts.",
+    "must_try": "Kaya toast with a slow-cooked egg.",
+    "hours": "Daily 5-10pm, Brunch Sat-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gjelina",
+    "address": "1429 Abbot Kinney Blvd, Venice, CA 90291",
+    "phone": "+1-310-450-1429",
+    "website": "https://gjelina.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The Venice restaurant that defined Abbot Kinney. Seasonal, veggie-forward Californian with a legendary pizza program.",
+    "must_try": "Any seasonal pizza and roasted vegetables.",
+    "hours": "Daily 8am-12am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gjusta",
+    "address": "320 Sunset Ave, Venice, CA 90291",
+    "phone": "+1-310-314-0320",
+    "website": "https://gjusta.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Venice bakery-deli from the Gjelina team. Industrial-chic, always a line, always worth it. Pastries, sandwiches, smoked fish.",
+    "must_try": "Almond croissant and smoked salmon plate.",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hermon's",
+    "address": "5800 Monterey Rd, Los Angeles, CA 90042",
+    "phone": "+1-213-559-0924",
+    "website": "https://hermonsla.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Stunning neighborhood chophouse with Art Deco vibes between Highland Park and South Pasadena. From the Found Oyster team.",
+    "must_try": "Mushroom Bourguignon and the pull-apart garlic bread.",
+    "hours": "Wed-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Howlin' Ray's",
+    "address": "727 N Broadway #128, Los Angeles, CA 90012",
+    "phone": "+1-213-935-8399",
+    "website": "https://howlinrays.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Nashville hot chicken that made people wait 2+ hours in Chinatown. The spice levels are real.",
+    "must_try": "Howlin' heat level sandwich — only if you mean it.",
+    "hours": "Wed-Sun 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Howlin' Ray's (Pasadena)",
+    "address": "75 N Raymond Ave, Pasadena, CA 91103",
+    "phone": null,
+    "website": "https://howlinrays.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Second location — same Nashville hot chicken, shorter line than Chinatown.",
+    "must_try": "Medium heat sandwich.",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Langer's Delicatessen",
+    "address": "704 S Alvarado St, Los Angeles, CA 90057",
+    "phone": "+1-213-483-8050",
+    "website": "https://langersdeli.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Since 1947. Many argue the #19 pastrami sandwich is better than Katz's. Hot pastrami, Swiss, coleslaw, Russian dressing on double-baked rye.",
+    "must_try": "#19 pastrami sandwich.",
+    "hours": "Mon-Sat 8am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Max & Helen's",
+    "address": "127 N Larchmont Blvd, Los Angeles, CA 90004",
+    "phone": "+1-323-462-2241",
+    "website": "https://maxandhelens.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Phil Rosenthal and Nancy Silverton's old-school diner bringing elevated comfort food to Larchmont. Opened late 2025.",
+    "must_try": "The Larchmont Slam breakfast.",
+    "hours": "Daily 8am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Porto's Bakery & Cafe",
+    "address": "315 N Brand Blvd, Glendale, CA 91203",
+    "phone": "+1-818-956-5996",
+    "website": "https://portosbakery.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Cuban bakery institution with lines out the door daily. The cheese rolls and potato balls are cheap thrills Angelenos are addicted to.",
+    "must_try": "Cheese roll (refugiado) and guava strudel.",
+    "hours": "Daily 6am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wilde's",
+    "address": "1850 Hillhurst Ave, Los Angeles, CA 90027",
+    "phone": null,
+    "website": "https://wildesla.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "2026's toughest reservation. British comfort food meets Californian soul in Los Feliz. Daytime bakery with scones.",
+    "must_try": "The rotating daily meat pie.",
+    "hours": "Tue-Sat 5:30-10pm, bakery daily 9am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wurstküche",
+    "address": "800 E 3rd St, Los Angeles, CA 90013",
+    "phone": "+1-213-687-4444",
+    "website": "https://wurstkuche.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Exotic sausages (rattlesnake-rabbit, pheasant) with Belgian fries and craft beer in the Arts District.",
+    "must_try": "Rattlesnake-rabbit sausage with mango-habanero sauce.",
+    "hours": "Daily 11am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zankou Chicken",
+    "address": "5065 Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "+1-323-665-7842",
+    "website": "https://zankouchicken.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Armenian rotisserie chicken chain that's an LA essential. The garlic sauce is legendary and addictive.",
+    "must_try": "Half chicken with garlic sauce.",
+    "hours": "Daily 10am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Din Tai Fung",
+    "address": "1108 S Baldwin Ave, Arcadia, CA 91007",
+    "phone": "+1-626-574-7068",
+    "website": "https://dintaifungusa.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The OG US location of the Taiwanese soup dumpling empire. Still the benchmark for xiao long bao.",
+    "must_try": "Pork xiao long bao (soup dumplings).",
+    "hours": "Daily 11am-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lunasia Dim Sum House",
+    "address": "500 W Main St, Alhambra, CA 91801",
+    "phone": "+1-626-308-3222",
+    "website": "https://lunasiadimsum.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Massive, overflowing dim sum served all day. Some of the largest and most generous har gow and siu mai in the SGV.",
+    "must_try": "Jumbo pork siu mai and macadamia nut egg tarts.",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Newport Seafood",
+    "address": "518 W Las Tunas Dr, San Gabriel, CA 91776",
+    "phone": "+1-626-289-5998",
+    "website": null,
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Famous for the Special House Lobster — wok-fried with butter, garlic, and green onion. A SGV institution.",
+    "must_try": "Special House Lobster.",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pine & Crane",
+    "address": "1521 Griffith Park Blvd, Los Angeles, CA 90026",
+    "phone": "+1-323-668-1128",
+    "website": "https://pineandcrane.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Elevated Taiwanese in Silver Lake. The dan dan noodles and three-cup chicken are neighborhood staples.",
+    "must_try": "Dan dan noodles and mapo tofu.",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sea Harbour Seafood Restaurant",
+    "address": "3939 Rosemead Blvd, Rosemead, CA 91770",
+    "phone": "+1-626-288-3939",
+    "website": "https://seaharbour.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Heavyweight SGV dim sum. Forget the carts — everything is ordered off a menu and steamed fresh to order.",
+    "must_try": "Har gow (shrimp dumplings) and baked BBQ pork buns.",
+    "hours": "Daily 10am-2:30pm, 5-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Meals by Genet",
+    "address": "1053 S Fairfax Ave, Los Angeles, CA 90019",
+    "phone": "+1-323-938-9304",
+    "website": "https://mealsbygenet.com",
+    "category": "dining",
+    "subcategory": "ethiopian",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The crown jewel of Little Ethiopia. Chef Genet's vegetarian combination is one of the great meals in LA.",
+    "must_try": "Vegetarian combination platter.",
+    "hours": "Tue-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bavel",
+    "address": "500 Mateo St, Los Angeles, CA 90013",
+    "phone": "+1-213-232-4966",
+    "website": "https://baveldtla.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Middle Eastern fine dining from the Bestia team. The lamb neck shawarma is one of the best dishes in the city, full stop.",
+    "must_try": "Lamb neck shawarma with pomegranate and tahini.",
+    "hours": "Tue-Sat 5-10pm, Sun 5-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kato",
+    "address": "777 S Alameda St, Los Angeles, CA 90021",
+    "phone": "+1-213-797-5770",
+    "website": "https://katorestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Taiwanese-American tasting menu at ROW DTLA. Chef Jon Yao elevates SGV flavors to Michelin-level artistry. James Beard Best Chef California.",
+    "must_try": "Tapioca boba with brown butter and caviar.",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lielle",
+    "address": "9575 W Pico Blvd, Los Angeles, CA 90035",
+    "phone": "+1-213-376-6574",
+    "website": "https://lielle.la",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.9",
+    "description": "Swedish chef Marcus Jernmark's 2026 fine-dining debut. Four-course bistronomy menu changing every five weeks. Relaxed Scandinavian elegance.",
+    "must_try": "Aged striped jack with gooseberry.",
+    "hours": "Daily 5:30-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Musso & Frank Grill",
+    "address": "6667 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "+1-323-467-7788",
+    "website": "https://mussoandfrank.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Hollywood's oldest restaurant (1919). Red leather booths, martinis stirred by bartenders who've been here 40 years.",
+    "must_try": "Flannel cakes at lunch, martini anytime.",
+    "hours": "Tue-Sat 11am-11pm, Sun 4-9pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Providence",
+    "address": "5955 Melrose Ave, Los Angeles, CA 90038",
+    "phone": "+1-323-460-4170",
+    "website": "https://providencela.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Three-Michelin-star seafood tasting menu. Chef Michael Cimarusti's temple to sustainable seafood — one of only two three-stars in LA.",
+    "must_try": "Chef's tasting menu — let them drive.",
+    "hours": "Fri-Sat 5:30-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushi Ginza Onodera",
+    "address": "609 N La Cienega Blvd, West Hollywood, CA 90069",
+    "phone": "+1-323-655-0717",
+    "website": "https://sushiginzaonodera.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Omakase at the highest level — fish flown from Tsukiji, rice seasoned with red vinegar. Where sushi chefs eat on their night off.",
+    "must_try": "20+ course omakase — seasonal.",
+    "hours": "Tue-Sun, two seatings nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grand Central Market",
+    "address": "317 S Broadway, Los Angeles, CA 90013",
+    "phone": "+1-213-624-2378",
+    "website": "https://grandcentralmarket.com",
+    "category": "dining",
+    "subcategory": "food_halls",
+    "price": "$-$$",
+    "rating": "4.5",
+    "description": "Open since 1917. A DTLA food hall before food halls were a thing. 30+ vendors from tacos to Thai to egg sandwiches.",
+    "must_try": "Egg sandwich from Eggslut, tacos from Tacos Tumbras a Tomas.",
+    "hours": "Daily 8am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Petit Trois",
+    "address": "718 N Highland Ave, Los Angeles, CA 90038",
+    "phone": "+1-323-468-8916",
+    "website": "https://petittrois.com",
+    "category": "dining",
+    "subcategory": "french",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Ludo Lefebvre's no-reservations French bistro with a tiny counter. The omelette is deceptively simple and unforgettable.",
+    "must_try": "Bourguignon double cheeseburger and French omelette.",
+    "hours": "Daily 12-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Animal",
+    "address": "435 N Fairfax Ave, Los Angeles, CA 90036",
+    "phone": "+1-323-782-9225",
+    "website": "https://animalrestaurant.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Jon & Vinny's meat-forward original. Pork belly, foie gras, pig ear — this is where the Fairfax food strip started.",
+    "must_try": "Pork belly sliders and bacon chocolate crunch bar.",
+    "hours": "Sun-Thu 6-10pm, Fri-Sat 6-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Badmaash",
+    "address": "1604 Pacific Ave, Venice, CA 90291",
+    "phone": null,
+    "website": "https://badmaashla.com",
+    "category": "dining",
+    "subcategory": "indian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Modern Indian from the Mehendro brothers — third location opened in Venice 2026. Buttered chicken is cult-followed.",
+    "must_try": "Butter chicken and chicken tikka poutine.",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bad Roman",
+    "address": "267 N Canon Dr, Suite A7, Beverly Hills, CA 90210",
+    "phone": "+1-212-970-2033",
+    "website": "https://badromannyc.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "NYC's maximalist, playful Italian taking over the historic Palm Restaurant space. Loud decor, strong drinks, pure fun.",
+    "must_try": "The Bad Ombré cocktail and tiramisu ice cream cake.",
+    "hours": "Daily 11:30am-11pm",
+    "seasonal": null,
+    "modes": [
+      "hollywood",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BAR di Bello",
+    "address": "3300 W Sunset Blvd, Ste 110, Los Angeles, CA 90026",
+    "phone": null,
+    "website": "https://bardibello.la",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Milanese-inspired bar and restaurant bringing aperitivo culture and massive Negronis to Sunset Row in Silver Lake.",
+    "must_try": "Negroni di Basso and Penne di Bello.",
+    "hours": "Daily 5pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bestia",
+    "address": "2121 7th Pl, Los Angeles, CA 90021",
+    "phone": "+1-213-514-5724",
+    "website": "https://bestiala.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Industrial-chic Arts District Italian that's been the hardest reservation in LA for a decade. House-made pasta and wood-fired pizza are legit.",
+    "must_try": "Spaghetti Rustichella with Dungeness crab.",
+    "hours": "Sun-Thu 5-10pm, Fri-Sat 5-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cosa Buona",
+    "address": "2100 W Sunset Blvd, Los Angeles, CA 90026",
+    "phone": "+1-213-908-5211",
+    "website": "https://cosabuona.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Echo Park red-sauce Italian done right. NYC-style slices and perfect meatball subs.",
+    "must_try": "Meatball parm sub.",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Felix",
+    "address": "1023 Abbot Kinney Blvd, Venice, CA 90291",
+    "phone": "+1-424-387-8622",
+    "website": "https://felixla.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Evan Funke's handmade pasta temple on Abbot Kinney. Watch the pasta being rolled through the glass window.",
+    "must_try": "Cacio e pepe and any fresh pasta.",
+    "hours": "Daily 5:30-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jon & Vinny's",
+    "address": "412 N Fairfax Ave, Los Angeles, CA 90036",
+    "phone": "+1-323-334-3369",
+    "website": "https://jonandvinnys.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The casual sibling of Animal — Italian-American comfort food on Fairfax. All-day menu, always packed.",
+    "must_try": "Vodka pizza and garlic knots.",
+    "hours": "Daily 8am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Daikokuya",
+    "address": "327 E 1st St, Los Angeles, CA 90012",
+    "phone": "+1-213-626-1680",
+    "website": "https://daikoku-ya.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The ramen line that never dies. Rich tonkotsu broth in a tiny Little Tokyo shop. No substitutes.",
+    "must_try": "Original Daikokuya ramen with extra chashu.",
+    "hours": "Daily 11am-12am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Marugame Monzo",
+    "address": "329 E 1st St, Los Angeles, CA 90012",
+    "phone": "+1-213-346-9762",
+    "website": "https://marugamemonzo.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Handmade udon pulled fresh behind a glass window. The uni cream udon is outrageously good.",
+    "must_try": "Uni cream udon.",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Silverlake Ramen",
+    "address": "2927 Sunset Blvd, Los Angeles, CA 90026",
+    "phone": "+1-323-660-8100",
+    "website": "https://silverlakeramen.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The Eastside ramen spot. Rich tonkotsu in a hip Silver Lake space. Always a line, always worth it.",
+    "must_try": "Original Silverlake Ramen with extra egg.",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushi Gen",
+    "address": "422 E 2nd St, Los Angeles, CA 90012",
+    "phone": "+1-213-617-0552",
+    "website": null,
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Little Tokyo legend. The sashimi lunch special ($20 for a huge plate) has had a line since the 90s.",
+    "must_try": "Sashimi deluxe lunch special.",
+    "hours": "Tue-Sat 11:15am-2pm, 5:30-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushisamba",
+    "address": "639 N La Peer Dr, West Hollywood, CA 90069",
+    "phone": "+1-213-444-0424",
+    "website": "https://sushisamba.com/locations/los-angeles",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Massive 2026 opening in WeHo blending Japanese, Brazilian, and Peruvian cuisine on a sprawling rooftop with retractable roof.",
+    "must_try": "Robata grill selections and signature ceviche.",
+    "hours": "Sun-Wed 5pm-12am, Thu-Sat 5pm-1am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kang Ho-dong Baekjeong",
+    "address": "3465 W 6th St #20, Los Angeles, CA 90020",
+    "phone": "+1-213-384-9678",
+    "website": "https://baekjeongkbbq.com",
+    "category": "dining",
+    "subcategory": "korean",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Celebrity-chef KBBQ chain with a fun, energetic vibe. Known for thick-cut pork belly and corn cheese.",
+    "must_try": "Thick-cut pork belly and egg soufflé.",
+    "hours": "Mon-Sat 11:30am-12am, Sun 11:30am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Park's BBQ",
+    "address": "955 S Vermont Ave G, Los Angeles, CA 90006",
+    "phone": "+1-213-380-1717",
+    "website": "https://parksbbq.com",
+    "category": "dining",
+    "subcategory": "korean",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The gold standard for traditional KBBQ in Los Angeles. Unmatched meat quality and the best banchan spread in town.",
+    "must_try": "Galbi (marinated short rib).",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Quarters Korean BBQ",
+    "address": "3465 W 6th St #C-130, Los Angeles, CA 90020",
+    "phone": "+1-213-365-0920",
+    "website": "https://quarterskbbq.com",
+    "category": "dining",
+    "subcategory": "korean",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Loud, trendy, and incredibly popular. Tapas-style KBBQ approach in the bustling Chapman Plaza. Walk-in friendly.",
+    "must_try": "Korean cheese fondue to dip your meat.",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Broken Spanish Comedor",
+    "address": "12565 Washington Blvd, Los Angeles, CA 90066",
+    "phone": "+1-747-946-7118",
+    "website": "https://brokenspanishcomedor.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Chef Ray Garcia's triumphant 2026 return. Reimagining Alta California cuisine with modern Mexican soul. Best new opening in LA.",
+    "must_try": "Albondigas with duck and bacon, crispy chicharrón in garlic mojo.",
+    "hours": "Sun-Thu 4-9pm, Fri-Sat 4-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Guelaguetza",
+    "address": "3014 W Olympic Blvd, Los Angeles, CA 90006",
+    "phone": "+1-213-427-0608",
+    "website": "https://ilovemole.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "The absolute pinnacle of Oaxacan food in America. James Beard America's Classic award. Massive, lively space with live music.",
+    "must_try": "Festival de Moles and a michelada.",
+    "hours": "Mon-Thu 11am-9pm, Fri-Sun 9am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Guerrilla Tacos",
+    "address": "2000 E 7th St, Los Angeles, CA 90021",
+    "phone": "+1-213-375-3300",
+    "website": "https://guerrillatacos.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Chef Wes Avila turned a taco cart into an Arts District institution. Elevated street food with seasonal ingredients.",
+    "must_try": "Sweet potato taco with feta and almond chile.",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Guisados",
+    "address": "2100 E Cesar Chavez Ave, Los Angeles, CA 90033",
+    "phone": "+1-323-264-7201",
+    "website": "https://guisados.co",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Famous for thick, handmade tortillas loaded with slow-braised stews. The original Boyle Heights location is essential.",
+    "must_try": "Taco sampler plate (6 mini tacos).",
+    "hours": "Daily 10:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Raffi's Place",
+    "address": "211 E Broadway, Glendale, CA 91205",
+    "phone": "+1-818-240-7411",
+    "website": "https://raffisplace.com",
+    "category": "dining",
+    "subcategory": "persian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Glendale's Persian kebab institution. Massive portions of koobideh and joojeh over saffron rice.",
+    "must_try": "Sultani combo (koobideh + barg).",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Connie & Ted's",
+    "address": "8171 Santa Monica Blvd, West Hollywood, CA 90046",
+    "phone": "+1-323-848-2722",
+    "website": "https://connieandteds.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "New England-style raw bar and seafood house in WeHo. Whole lobsters, steamers, and a raw bar that rivals the East Coast.",
+    "must_try": "Lobster roll (hot butter) and raw bar platter.",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Marea Beverly Hills",
+    "address": "255 N Camden Dr, Beverly Hills, CA 90210",
+    "phone": "+1-310-300-5580",
+    "website": "https://marea-restaurant.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "NYC import — Italian seafood at the highest level. The fusilli with bone marrow and octopus is a signature.",
+    "must_try": "Fusilli with red wine braised octopus and bone marrow.",
+    "hours": "Daily 5:30-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nobu Malibu",
+    "address": "22706 Pacific Coast Hwy, Malibu, CA 90265",
+    "phone": "+1-310-317-9140",
+    "website": "https://noburestaurants.com/malibu",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "The OG oceanfront Nobu. Expensive, celebrity-heavy, but the black cod miso with the Pacific 30 feet away is genuinely special.",
+    "must_try": "Black cod miso.",
+    "hours": "Daily 12-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mariscos Jalisco",
+    "address": "3040 E Olympic Blvd, Los Angeles, CA 90023",
+    "phone": "+1-323-528-6701",
+    "website": null,
+    "category": "dining",
+    "subcategory": "taco_trucks",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Ground zero for crispy shrimp tacos dorados. Raul Ortega's truck put Boyle Heights on the food map.",
+    "must_try": "Shrimp tacos dorados — accept no substitutes.",
+    "hours": "Daily 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jitlada",
+    "address": "5233 Sunset Blvd, Los Angeles, CA 90027",
+    "phone": "+1-323-667-9809",
+    "website": "https://jitladala.com",
+    "category": "dining",
+    "subcategory": "thai",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Legendary Southern Thai in a Hollywood strip mall. Punishing, unapologetic heat and incredibly complex curries.",
+    "must_try": "Jazz Burger, Green Curry, and Morning Glory Salad.",
+    "hours": "Tue-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Night + Market Song",
+    "address": "3322 W Sunset Blvd, Los Angeles, CA 90026",
+    "phone": "+1-323-665-5899",
+    "website": "https://nightmarketla.com",
+    "category": "dining",
+    "subcategory": "thai",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Kris Yenbamroong's loud, funky Thai street food joint. The larb and pad see ew are essential.",
+    "must_try": "Startled Pig (fried pork jowl).",
+    "hours": "Daily 5-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sapp Coffee Shop",
+    "address": "5183 Hollywood Blvd, Los Angeles, CA 90027",
+    "phone": "+1-323-665-1035",
+    "website": null,
+    "category": "dining",
+    "subcategory": "thai",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Thai Town strip mall legend. The jade noodle and boat noodle soups are some of the best $10 meals in the city.",
+    "must_try": "Jade noodle soup.",
+    "hours": "Mon-Sat 8am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crossroads Kitchen",
+    "address": "8284 Melrose Ave, Los Angeles, CA 90046",
+    "phone": "+1-323-782-9245",
+    "website": "https://crossroadskitchen.com",
+    "category": "dining",
+    "subcategory": "vegan",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Celebrity-chef Tal Ronnen's upscale vegan Mediterranean. Even non-vegans are impressed.",
+    "must_try": "Artichoke oysters and truffle pasta.",
+    "hours": "Daily 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BMO Stadium",
+    "address": "3939 S Figueroa St, Los Angeles, CA 90037",
+    "phone": "+1-213-542-2800",
+    "website": "https://lafc.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$",
+    "rating": "4.7",
+    "description": "Home of LAFC. The most electric soccer atmosphere in the US — The 3252 supporters section is legendary.",
+    "must_try": "Stand in the supporters section if you can handle the energy.",
+    "hours": "Match days",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crypto.com Arena",
+    "address": "1111 S Figueroa St, Los Angeles, CA 90015",
+    "phone": "+1-213-742-7100",
+    "website": "https://cryptoarena.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$-$$$$",
+    "rating": "4.5",
+    "description": "Home of the Lakers, Kings, and Sparks. Also hosts major concerts year-round. Part of the LA Live complex.",
+    "must_try": "Lakers game if they're in town.",
+    "hours": "Event days",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dodger Stadium",
+    "address": "1000 Vin Scully Ave, Los Angeles, CA 90012",
+    "phone": "+1-866-363-4377",
+    "website": "https://dodgers.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$$",
+    "rating": "4.6",
+    "description": "Third-oldest MLB stadium, gorgeous Elysian Park setting. Dodger Dogs and the best sunset in baseball.",
+    "must_try": "Dodger Dog and a beer in the outfield pavilion with the sunset.",
+    "hours": "Game days, gates 2hrs before first pitch",
+    "seasonal": "MLB season Apr-Oct",
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Intuit Dome",
+    "address": "3939 W 102nd St, Inglewood, CA 90303",
+    "phone": null,
+    "website": "https://intuitdome.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$-$$$$",
+    "rating": "4.5",
+    "description": "Brand-new Clippers arena. Opened 2024 — most technologically advanced arena in the world. Hosted 2026 NBA All-Star.",
+    "must_try": "The Halo Board — 360° wraparound LED screen.",
+    "hours": "Event days",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SoFi Stadium",
+    "address": "1001 Stadium Dr, Inglewood, CA 90301",
+    "phone": "+1-424-541-9100",
+    "website": "https://sofistadium.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$-$$$$",
+    "rating": "4.8",
+    "description": "The most expensive stadium ever built. Hub for 2026 FIFA World Cup matches including US opener June 12.",
+    "must_try": "A stadium tour if you can't catch a game.",
+    "hours": "Event days",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hollywood Pantages Theatre",
+    "address": "6233 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "+1-323-468-1770",
+    "website": "https://broadwayinhollywood.com",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$-$$$$",
+    "rating": "4.7",
+    "description": "Art Deco theater hosting Broadway touring productions. Hamilton, Wicked, and whatever's next.",
+    "must_try": "Whatever Broadway touring show is running.",
+    "hours": "Show times vary",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Downtown LA Proper",
+    "address": "1100 S Broadway, Los Angeles, CA 90015",
+    "phone": "+1-213-806-1010",
+    "website": "https://properhotel.com/downtown-la",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Spectacularly designed by Kelly Wearstler. Two restaurants from Suzanne Goin and Caroline Styne, including a stunning rooftop.",
+    "must_try": "Sunset drinks at Cara Cara rooftop.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Freehand Los Angeles",
+    "address": "416 W 8th St, Los Angeles, CA 90014",
+    "phone": "+1-213-612-0021",
+    "website": "https://freehandhotels.com/los-angeles",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "DTLA boutique with private rooms and shared dorms. The rooftop bar (Broken Shaker) is one of the best in the city.",
+    "must_try": "Drinks at Broken Shaker rooftop.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Figueroa",
+    "address": "939 S Figueroa St, Los Angeles, CA 90015",
+    "phone": "+1-213-627-8971",
+    "website": "https://hotelfigueroa.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Historic 1926 hotel with a Moroccan-meets-California aesthetic. Pool courtyard is stunning.",
+    "must_try": "Poolside cocktails at the Veranda.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mama Shelter Los Angeles",
+    "address": "6500 Selma Ave, Hollywood, CA 90028",
+    "phone": "+1-323-785-6666",
+    "website": "https://mamashelter.com/los-angeles",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Fun, colorful boutique in Hollywood. Great rooftop bar and restaurant. Best value design hotel.",
+    "must_try": "Rooftop bar.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Santa Monica Proper",
+    "address": "700 Wilshire Blvd, Santa Monica, CA 90401",
+    "phone": "+1-310-620-9990",
+    "website": "https://properhotel.com/santa-monica",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Design-forward boutique steps from the beach. Rooftop pool, excellent restaurant (Calabra).",
+    "must_try": "Rooftop pool and Calabra for dinner.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chateau Marmont",
+    "address": "8221 Sunset Blvd, Hollywood, CA 90046",
+    "phone": "+1-323-656-1010",
+    "website": "https://chateaumarmont.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "The most storied hotel in Hollywood. Members-only now, but if you can get in, you're living in the myth.",
+    "must_try": "Dinner in the garden.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "hollywood",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hollywood Roosevelt",
+    "address": "7000 Hollywood Blvd, Hollywood, CA 90028",
+    "phone": "+1-323-856-1970",
+    "website": "https://thehollywoodroosevelt.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "Site of the first Academy Awards (1929). The pool and Tropicana bar are classic Hollywood scene.",
+    "must_try": "Tropicana Pool & Café.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "hollywood",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sunset Tower Hotel",
+    "address": "8358 Sunset Blvd, West Hollywood, CA 90069",
+    "phone": "+1-323-654-7100",
+    "website": "https://sunsettowerhotel.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "True Hollywood classic. Historic Art Deco building with understated glamour and an elite bar scene favored by industry.",
+    "must_try": "The Tower Bar for celebrity spotting.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "hollywood",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Beverly Hilton",
+    "address": "9876 Wilshire Blvd, Beverly Hills, CA 90210",
+    "phone": "+1-310-274-7777",
+    "website": "https://beverlyhilton.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "Home of the Golden Globes. Classic Beverly Hills luxury with the iconic pool.",
+    "must_try": "Pool day with cabana.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Waldorf Astoria Beverly Hills",
+    "address": "9850 Wilshire Blvd, Beverly Hills, CA 90210",
+    "phone": "+1-310-860-6666",
+    "website": "https://waldorfastoriabeverlyhills.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "The newest ultra-luxury in Beverly Hills. Rooftop pool, Baldi steakhouse (new 2026), and views of the Hollywood Hills.",
+    "must_try": "Baldi Tuscan steakhouse (Edo Baldi's 2026 opening).",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shutters on the Beach",
+    "address": "1 Pico Blvd, Santa Monica, CA 90405",
+    "phone": "+1-310-458-0030",
+    "website": "https://shuttersonthebeach.com",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "THE beachfront hotel in LA. Directly on Santa Monica Beach, white-washed luxury.",
+    "must_try": "Beach-facing room at sunrise.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Langham Huntington",
+    "address": "1401 S Oak Knoll Ave, Pasadena, CA 91106",
+    "phone": "+1-626-568-3900",
+    "website": "https://langhamhotels.com/en/the-langham/pasadena",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Grand Pasadena resort with Japanese garden, spa, and gorgeous grounds. A world away from LA's chaos.",
+    "must_try": "Afternoon tea and the Japanese Garden.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Matador State Beach",
+    "address": "32215 Pacific Coast Hwy, Malibu, CA 90265",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$8 parking",
+    "rating": "4.7",
+    "description": "Dramatic sea caves and rock formations. The most photogenic beach in LA — small, secluded, feels like another planet.",
+    "must_try": "Sunset through the sea caves.",
+    "hours": "8am-sunset",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Manhattan Beach",
+    "address": "Manhattan Beach, CA 90266",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Where locals go. Volleyball culture, the Strand bike path, and a charming downtown walkable from the sand.",
+    "must_try": "Walk the pier at sunset, then dinner on Manhattan Beach Blvd.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Santa Monica Beach & Pier",
+    "address": "200 Santa Monica Pier, Santa Monica, CA 90401",
+    "phone": "+1-310-458-8900",
+    "website": "https://santamonicapier.org",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free (rides extra)",
+    "rating": "4.4",
+    "description": "End of Route 66. Ferris wheel, roller coaster, arcade, street performers. Touristy but iconic — sunset from the pier is worth it.",
+    "must_try": "Ride the Pacific Wheel at sunset.",
+    "hours": "24/7 pier access; rides 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Venice Beach Boardwalk",
+    "address": "1800 Ocean Front Walk, Venice, CA 90291",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "The freak show boardwalk — street performers, Muscle Beach, skate park, drum circles at sunset.",
+    "must_try": "Sunday sunset drum circle.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Strand (Marvin Braude Bike Trail)",
+    "address": "Santa Monica to Torrance Beach",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "Free (bike rentals $10-25)",
+    "rating": "4.6",
+    "description": "22-mile paved coastal bike path. The quintessential LA ride — ocean on one side, beach culture on the other.",
+    "must_try": "Rent a cruiser in Santa Monica and ride to Manhattan Beach.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eaton Canyon Falls",
+    "address": "1750 N Altadena Dr, Pasadena, CA 91107",
+    "phone": "+1-626-398-5420",
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Easy 3.5-mile roundtrip hike to a 40-foot waterfall. Best after winter rains.",
+    "must_try": "Visit after rain for the best water flow.",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Runyon Canyon Park",
+    "address": "2000 N Fuller Ave, Los Angeles, CA 90046",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "THE LA hike. 3-mile loop with panoramic city views. Dog-friendly, social, bring water. Best at sunrise.",
+    "must_try": "Full loop to the top for the 360° view.",
+    "hours": "Daily dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Temescal Gateway Park",
+    "address": "15601 Sunset Blvd, Pacific Palisades, CA 90272",
+    "phone": "+1-310-454-1395",
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "$12 parking",
+    "rating": "4.5",
+    "description": "3.8-mile loop to a ridge with ocean views. Moderate difficulty, shaded sections.",
+    "must_try": "Full Temescal Ridge loop for canyon-to-ocean views.",
+    "hours": "Daily 8am-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Topanga State Park",
+    "address": "20828 Entrada Rd, Topanga, CA 90290",
+    "phone": "+1-310-455-2465",
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "$12 parking",
+    "rating": "4.6",
+    "description": "The largest state park within the boundaries of a city. Trails range from easy fire roads to rugged canyon hikes with ocean views.",
+    "must_try": "Los Liones Trail to Parker Mesa Overlook.",
+    "hours": "Daily 8am-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Griffith Park",
+    "address": "4730 Crystal Springs Dr, Los Angeles, CA 90027",
+    "phone": "+1-323-913-4688",
+    "website": "https://laparks.org/griffithpark",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "4,310 acres — one of the largest urban parks in North America. Trails to Hollywood Sign, Observatory, Zoo, and Autry Museum.",
+    "must_try": "Hike to the Hollywood Sign via Mt. Hollywood Trail.",
+    "hours": "Daily 5am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Surfrider Beach",
+    "address": "23050 Pacific Coast Hwy, Malibu, CA 90265",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "surfing",
+    "price": "Free (parking varies)",
+    "rating": "4.6",
+    "description": "World Surfing Reserve. First Point is where LA's surf culture was born. Watch from the pier or rent a board.",
+    "must_try": "Golden hour from the Malibu Pier.",
+    "hours": "Dawn to dusk",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Erewhon Market",
+    "address": "585 Venice Blvd, Venice, CA 90291",
+    "phone": "+1-310-362-3062",
+    "website": "https://erewhonmarket.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "LA's infamously expensive, immaculately curated health food store. Part grocery, part celebrity hangout, part tourist attraction.",
+    "must_try": "A celebrity collab smoothie and the hot bar.",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Trader Joe's",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://traderjoes.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.7",
+    "description": "LA-born grocery chain. Cheap wine, great snacks, best value grocery run for stocking a rental.",
+    "must_try": "Everything Bagel Seasoning and whatever seasonal item is trending.",
+    "hours": "Daily 8am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Healthy Spot",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://healthyspot.com",
+    "category": "services",
+    "subcategory": "pet_boarding",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "LA's dog care chain — daycare, grooming, and boutique. LA is extremely dog-friendly and this is the go-to.",
+    "must_try": "Day camp while you explore.",
+    "hours": "Daily 7am-8pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Abbot Kinney Boulevard",
+    "address": "Abbot Kinney Blvd, Venice, CA 90291",
+    "phone": null,
+    "website": "https://abbotkinneyblvd.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Dubbed the 'coolest block in America.' A mile of high-end boutiques, surf lifestyle shops, and top-tier restaurants.",
+    "must_try": "First Friday food truck events.",
+    "hours": "Most shops 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rodeo Drive",
+    "address": "Rodeo Dr, Beverly Hills, CA 90210",
+    "phone": null,
+    "website": "https://rodeodrive-bh.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "Luxury shopping strip — Chanel, Vuitton, Gucci. Even if you're not buying, the people-watching and architecture are worth a stroll.",
+    "must_try": "Window shopping and a photo at the iconic sign.",
+    "hours": "Mon-Sat 10am-6pm, Sun 11am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "hollywood"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Grove + Original Farmers Market",
+    "address": "189 The Grove Dr / 6333 W 3rd St, Los Angeles, CA 90036",
+    "phone": "+1-323-900-8080",
+    "website": "https://thegrovela.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$-$$$$",
+    "rating": "4.5",
+    "description": "Open-air shopping center next to the historic 1934 Farmers Market. Combine mainstream brands with Bob's Donuts and Du-par's.",
+    "must_try": "Original Farmers Market next door — 100+ vendors since 1934.",
+    "hours": "Mon-Thu 10am-9pm, Fri-Sat 10am-10pm, Sun 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Melrose Trading Post",
+    "address": "7850 Melrose Ave, Los Angeles, CA 90046",
+    "phone": "+1-323-655-0681",
+    "website": "https://melrosetradingpost.org",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Essential Sunday ritual. Open-air flea market with vintage clothing, antique furniture, local artisans, and live music.",
+    "must_try": "Vintage denim hunting.",
+    "hours": "Sun 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rose Bowl Flea Market",
+    "address": "1001 Rose Bowl Dr, Pasadena, CA 91103",
+    "phone": "+1-323-560-7469",
+    "website": "https://rgcshows.com/rosebowl",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$-$$",
+    "rating": "4.4",
+    "description": "2nd Sunday of every month — 2,500+ vendors. The best flea market on the West Coast.",
+    "must_try": "Get there at 5am for VIP early access ($25).",
+    "hours": "2nd Sunday, 5am-3pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Santee Alley",
+    "address": "210 E Olympic Blvd, Los Angeles, CA 90015",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$",
+    "rating": "4.1",
+    "description": "The heart of LA's Fashion District. Chaotic open-air market selling everything cheap — clothing, accessories, electronics. Bring cash.",
+    "must_try": "Haggle for deals on everything.",
+    "hours": "Daily 9:30am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Melrose Avenue (Fairfax to La Brea)",
+    "address": "Melrose Ave, Los Angeles, CA 90046",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "vintage",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Streetwear, vintage, and Instagram murals. Supreme, Round Two, and dozens of independent shops.",
+    "must_try": "Paul Smith's pink wall photo and vintage shopping at Round Two.",
+    "hours": "Most shops 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wi Spa",
+    "address": "2700 Wilshire Blvd, Los Angeles, CA 90057",
+    "phone": "+1-213-487-2700",
+    "website": "https://wispausa.com",
+    "category": "wellness_spa",
+    "subcategory": "korean_spa",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The most famous 24/7 co-ed Korean spa in LA. Multiple mineral saunas, open jjimjilbang, and a great café.",
+    "must_try": "The full body scrub (demata).",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The NOW Massage",
+    "address": "Multiple locations (Silver Lake, WeHo, Venice, Studio City)",
+    "phone": null,
+    "website": "https://thenowmassage.com",
+    "category": "wellness_spa",
+    "subcategory": "massage",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Drop-in massage boutique with Instagram-worthy interiors. 25/50/75-minute sessions, no membership.",
+    "must_try": "50-min custom massage.",
+    "hours": "Daily 9am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  }
+]

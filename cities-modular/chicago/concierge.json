@@ -1,0 +1,422 @@
+[
+  {
+    "keys": [
+      "help",
+      "menu",
+      "what can you do",
+      "start",
+      "hello",
+      "hi"
+    ],
+    "text": "I know every neighborhood, every kitchen, and every shortcut in this city. Ask me where to eat, drink, explore, or how to spend a perfect day. I have opinions and I'm not shy about them.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best bars tonight",
+      "What should I see first?",
+      "Plan my whole day",
+      "Family activities",
+      "Best pizza in Chicago"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "dinner",
+      "hungry",
+      "where to eat"
+    ],
+    "text": "That depends — what kind of hungry are you? If you want the life-changing meal, book Alinea or Smyth weeks out. For the real Chicago experience, get an Italian beef at Al's on Taylor Street — dipped, hot peppers. Fulton Market is the restaurant row — Girl & the Goat, The Publican, Au Cheval's cheeseburger. But honestly, you can eat incredible food in any neighborhood in this city.",
+    "businesses": [
+      "Alinea",
+      "Smyth",
+      "Al's #1 Italian Beef",
+      "Girl & the Goat",
+      "The Publican",
+      "Au Cheval"
+    ],
+    "chips": [
+      "Best deep dish pizza",
+      "Cheap eats under $15",
+      "Fine dining tonight",
+      "Best brunch spots",
+      "Mexican food",
+      "Asian food"
+    ]
+  },
+  {
+    "keys": [
+      "pizza",
+      "deep dish",
+      "deep-dish"
+    ],
+    "text": "This is a holy war and I'm going to settle it for you: Lou Malnati's for the classic butter crust deep dish — get the Malnati Classic with sausage patty. Pequod's if you want the caramelized cheese crust that'll ruin you for all other pizza. Giordano's is the tourist answer and it's fine but it's not the local move. And don't sleep on tavern-style thin crust — that's what actual Chicagoans eat most of the time. Pat's Pizza on Lincoln is the real thing.",
+    "businesses": [
+      "Lou Malnati's Pizzeria",
+      "Pequod's Pizza"
+    ],
+    "chips": [
+      "Best Italian beef",
+      "Where to eat in West Loop",
+      "Cheap eats",
+      "Late night food"
+    ]
+  },
+  {
+    "keys": [
+      "italian beef",
+      "beef sandwich",
+      "portillos"
+    ],
+    "text": "Al's #1 on Taylor Street invented the Italian beef in 1938. Stand up at the counter, order it dipped with hot giardiniera, and don't wear white. That's the pilgrimage. Portillo's is the fast-food version and it's legitimately great — the Ontario St location is the downtown spot. If you're near Wrigley, Johnnie's Beef in Elmwood Park is the suburban legend.",
+    "businesses": [
+      "Al's #1 Italian Beef",
+      "Portillo's"
+    ],
+    "chips": [
+      "Best hot dog",
+      "What's a Chicago dog?",
+      "Deep dish pizza",
+      "Where to eat near Wrigley"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "cocktail",
+      "nightlife",
+      "going out"
+    ],
+    "text": "What's your vibe? For craft cocktails, The Violet Hour in Wicker Park is James Beard-winning — no sign, just a door. Three Dots and a Dash is the underground tiki temple in River North. If you want blues, Kingston Mines on Halsted runs two stages until 4am. Green Mill in Uptown is the jazz club Al Capone used to frequent — it hasn't changed. For rooftop views, head to Cindy's at the Chicago Athletic Association.",
+    "businesses": [
+      "The Violet Hour",
+      "Three Dots and a Dash",
+      "Kingston Mines",
+      "Green Mill Cocktail Lounge"
+    ],
+    "chips": [
+      "Best blues clubs",
+      "Rooftop bars",
+      "Beer & breweries",
+      "Late night spots",
+      "Live music tonight"
+    ]
+  },
+  {
+    "keys": [
+      "blues",
+      "jazz",
+      "live music",
+      "music"
+    ],
+    "text": "You're in the Blues Capital of the World. Kingston Mines is two stages, live blues every night until 4am — the real deal. Buddy Guy's Legends in the South Loop is owned by the man himself and he still plays his January residency. For jazz, Green Mill in Uptown is the one — been there since 1907, Capone's booth is still roped off. SPACE in Evanston if you want to catch touring indie acts in a small room.",
+    "businesses": [
+      "Kingston Mines",
+      "Buddy Guy's Legends",
+      "Green Mill Cocktail Lounge"
+    ],
+    "chips": [
+      "Comedy shows",
+      "Cocktail bars",
+      "What's happening tonight",
+      "Cover charge info"
+    ]
+  },
+  {
+    "keys": [
+      "see",
+      "attraction",
+      "museum",
+      "what to do",
+      "sightseeing",
+      "culture",
+      "architecture"
+    ],
+    "text": "Start at Millennium Park — The Bean, Crown Fountain, Pritzker Pavilion. Walk south to the Art Institute — it's one of the best museums on the planet, not just the city. Then walk along the Riverwalk and take the Architecture Foundation river cruise. That 90-minute boat tour is the single best activity in Chicago, full stop. Museum Campus has the Field Museum, Shedd Aquarium, and Adler Planetarium if you're a museum person.",
+    "businesses": [
+      "Millennium Park",
+      "Art Institute of Chicago",
+      "Chicago Architecture Center River Cruise",
+      "Field Museum",
+      "Shedd Aquarium"
+    ],
+    "chips": [
+      "Book the river cruise",
+      "Museum Campus guide",
+      "Free things to do",
+      "Architecture tours",
+      "Best views of the skyline"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "kid-friendly"
+    ],
+    "text": "Lincoln Park Zoo is free and excellent — gorillas, lions, a nature boardwalk. Museum of Science and Industry in Hyde Park will blow kids' minds — U-505 submarine, tornado exhibit, coal mine ride. Navy Pier has the Ferris wheel and Children's Museum. Maggie Daley Park next to Millennium Park has a climbing wall, a skating ribbon in winter, and play gardens. Shedd Aquarium is another guaranteed win with little ones.",
+    "businesses": [
+      "Lincoln Park Zoo",
+      "Museum of Science and Industry",
+      "Navy Pier",
+      "Maggie Daley Park",
+      "Shedd Aquarium"
+    ],
+    "chips": [
+      "Best pizza for families",
+      "Free activities",
+      "Indoor activities for rainy days",
+      "Ice cream spots"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "anniversary",
+      "couples",
+      "date night"
+    ],
+    "text": "Architecture river cruise at golden hour — book the 6pm departure. Dinner at Bavette's — it's moody, jazz-age, candlelit, and the food is extraordinary. After dinner, cocktails at The Violet Hour or walk the Riverwalk with a glass of wine from City Winery. For a big splurge, AIRE Ancient Baths is a Roman-style thermal bath experience that'll reset your entire relationship. Sunrise walk along the lakefront before the city wakes up.",
+    "businesses": [
+      "Bavette's Bar & Boeuf",
+      "The Violet Hour",
+      "AIRE Ancient Baths",
+      "Chicago Architecture Center River Cruise"
+    ],
+    "chips": [
+      "Fine dining for two",
+      "Best hotel for anniversary",
+      "Rooftop bars",
+      "Sunset spots"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor",
+      "lake",
+      "beach",
+      "bike",
+      "nature",
+      "run",
+      "kayak"
+    ],
+    "text": "The Lakefront Trail is 18 miles of paved path along Lake Michigan — rent a Divvy bike and ride from Navy Pier to Museum Campus for the best stretch. North Avenue Beach is the main scene — volleyball, kayaks, full skyline backdrop. Urban Kayaks lets you paddle the Chicago River through the canyon of skyscrapers. Garfield Park Conservatory is a free tropical escape when you need a break from concrete. In fall, the Morton Arboretum colors are insane.",
+    "businesses": [
+      "North Avenue Beach",
+      "Lakefront Trail",
+      "Urban Kayaks",
+      "Garfield Park Conservatory"
+    ],
+    "chips": [
+      "Best beach",
+      "Rent a bike",
+      "Kayak the river",
+      "Parks and gardens",
+      "Running routes"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "morning",
+      "caffeine"
+    ],
+    "text": "Intelligentsia started the third-wave revolution here — the Millennium Park location is the tourist-friendly one. Metric Coffee in Fulton Market has an incredible roastery space. If you're in Logan Square, Gaslight Coffee Roasters is the neighborhood spot. For pastries with your coffee, Lost Larson in Andersonville does Scandinavian baked goods that'll wreck your morning plans.",
+    "businesses": [
+      "Intelligentsia Coffee",
+      "Metric Coffee"
+    ],
+    "chips": [
+      "Best brunch",
+      "Bakeries",
+      "Where to eat breakfast",
+      "Morning routine suggestions"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "where to stay",
+      "lodging",
+      "accommodation",
+      "stay"
+    ],
+    "text": "For luxury, The Langham is consistently the best hotel in the city — Mies van der Rohe building, river views, world-class spa. The Palmer House Hilton has the most jaw-dropping lobby in Chicago. For something boutique, Soho House Chicago in the West Loop or The Robey in Wicker Park. Budget-friendly: HI Chicago hostel is clean and social, or look at Airbnbs in Logan Square and Wicker Park for neighborhood character.",
+    "businesses": [
+      "The Langham Chicago",
+      "Palmer House Hilton"
+    ],
+    "chips": [
+      "Hotels downtown",
+      "Hotels near Wrigley",
+      "Budget options",
+      "Best hotel views"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "transit",
+      "transport",
+      "airport",
+      "train",
+      "how to get around"
+    ],
+    "text": "O'Hare is the big one — Blue Line L train runs direct to downtown for $5, takes about 45 minutes. Don't take a cab in rush hour. Midway is Southwest's hub — Orange Line to the Loop in 25 minutes. Once downtown, the L train and buses cover the whole city. You do NOT need a car. Uber and Lyft work fine for neighborhoods the L doesn't reach. Water taxis on the river are $6 and the best-kept transit secret in the city.",
+    "businesses": [],
+    "chips": [
+      "O'Hare to downtown",
+      "Do I need a car?",
+      "Best neighborhoods to explore",
+      "Parking downtown"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "brunch",
+      "morning food"
+    ],
+    "text": "Wildberry Pancakes on Randolph is the move if you're downtown — Berry Bliss pancakes, insane skillets, but expect a line on weekends. Yolk has multiple locations and does a solid creative brunch. For the local's brunch, Big Jones in Andersonville does Southern brunch that will change your life. Or keep it real — go to Lou Mitchell's near Union Station. They've been serving thick-cut French toast since 1923 and they hand you a donut hole while you wait in line.",
+    "businesses": [
+      "Wildberry Pancakes and Cafe",
+      "Yolk"
+    ],
+    "chips": [
+      "Best pancakes",
+      "Brunch with a view",
+      "Cheap breakfast",
+      "Coffee shops nearby"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "late"
+    ],
+    "text": "Chicago bars stay open until 2am, some until 4am or 5am on Saturdays (look for 'late night license' spots). Kingston Mines for blues until 4am. Au Cheval takes walk-ins late and that double cheeseburger hits different at midnight. Big Star stays open until 2am with tacos and margs. For a proper late-night cocktail, The Violet Hour or Lost Lake. Portillo's Ontario St is open until 11pm most nights for the post-bar Italian beef.",
+    "businesses": [
+      "Kingston Mines",
+      "Au Cheval",
+      "Big Star",
+      "The Violet Hour",
+      "Portillo's"
+    ],
+    "chips": [
+      "24-hour food",
+      "Late night bars",
+      "After-hours spots",
+      "Best late night pizza"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "buy",
+      "gifts",
+      "souvenirs"
+    ],
+    "text": "Magnificent Mile is the flagship corridor — every luxury brand, department stores, the whole deal. But for real shopping, go to Wicker Park and Bucktown — Damen Ave has indie boutiques, vintage shops, Reckless Records. Randolph Street Market does a monthly vintage flea market that's excellent. For Chicago-specific gifts, Transit Tees in Wicker Park has the best locally-designed merch.",
+    "businesses": [
+      "Magnificent Mile"
+    ],
+    "chips": [
+      "Best vintage shops",
+      "Bookstores",
+      "Chicago-made gifts",
+      "Markets and flea markets"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "improv",
+      "funny",
+      "show",
+      "second city"
+    ],
+    "text": "Second City is where it all started — Tina Fey, Bill Murray, Stephen Colbert. Mainstage shows are tight, written revues. For pure improv, hit iO Theater on Kingsbury. Zanies is the standup club if you want to see touring comedians. And in July 2026, John Mulaney is doing the first-ever comedy show at Wrigley Field. That's going to be a moment.",
+    "businesses": [
+      "Second City",
+      "iO Theater"
+    ],
+    "chips": [
+      "Book Second City tickets",
+      "What else is playing tonight",
+      "Stand-up comedy",
+      "Dinner before a show"
+    ]
+  },
+  {
+    "keys": [
+      "perfect day",
+      "itinerary",
+      "day plan",
+      "one day",
+      "24 hours"
+    ],
+    "text": "Here's your perfect Chicago day: Start with coffee at Intelligentsia, walk to Millennium Park and The Bean. Head to the Art Institute for 2 hours — Impressionist wing at minimum. Walk the Riverwalk for lunch. Take the 2pm Architecture River Cruise. Grab tacos and a marg at Big Star. Shower. Dinner at Girl & the Goat or Bavette's. After-dinner cocktails at The Violet Hour. End the night at Kingston Mines for blues until you can't keep your eyes open. That's Chicago in a day.",
+    "businesses": [
+      "Intelligentsia Coffee",
+      "Millennium Park",
+      "Art Institute of Chicago",
+      "Chicago Architecture Center River Cruise",
+      "Big Star",
+      "Girl & the Goat",
+      "Bavette's Bar & Boeuf",
+      "The Violet Hour",
+      "Kingston Mines"
+    ],
+    "chips": [
+      "Two-day plan",
+      "Three-day plan",
+      "Rainy day plan",
+      "Budget version of this day"
+    ]
+  },
+  {
+    "keys": [
+      "event",
+      "events",
+      "what's happening",
+      "calendar",
+      "festival"
+    ],
+    "text": "Chicago's calendar is stacked. Blues Fest in June (free), Taste of Chicago in July, Lollapalooza late July, Air & Water Show in August. In 2026 specifically: International Jazz Day in April, James Beard Awards in June, John Mulaney at Wrigley in July, WNBA All-Star Game in July, Presidents Cup golf in September, and Route 66 centennial events all year. Winter has Christkindlmarket at Daley Plaza.",
+    "businesses": [],
+    "chips": [
+      "Summer festivals",
+      "Free events",
+      "Events this weekend",
+      "Sports schedule"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "craft beer"
+    ],
+    "text": "Revolution Brewing is the biggest independent brewery in Illinois — the Logan Square brewpub has great food and the best tap list in the city. Half Acre in Lincoln Square has a chill taproom and excellent patio. Goose Island's original brewpub on Clybourn is where it all started (before AB InBev). For beer bars, Hopleaf in Andersonville has one of the deepest Belgian beer lists in America with incredible mussels.",
+    "businesses": [
+      "Revolution Brewing",
+      "Half Acre Beer Company"
+    ],
+    "chips": [
+      "Best beer bars",
+      "Brewery tours",
+      "Beer and food pairings",
+      "Outdoor beer gardens"
+    ]
+  }
+]

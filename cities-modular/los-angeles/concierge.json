@@ -1,0 +1,589 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "menu",
+      "start",
+      "what should I do"
+    ],
+    "text": "Welcome to LA — the real one, not the postcard. I can point you to the best food in any cuisine on earth, find you the right neighborhood, set up a perfect day, or save you from tourist traps. What's your vibe?",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best neighborhoods",
+      "Plan my perfect day",
+      "What's happening in 2026?",
+      "Beaches",
+      "Nightlife & bars"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "where to eat"
+    ],
+    "text": "LA is a food town first — fight me. Geography dictates dinner here, so where are you staying? I can do the deepest regional Chinese in the San Gabriel Valley, elite Oaxacan in K-Town, or high-end Californian in the Arts District.",
+    "businesses": [],
+    "chips": [
+      "Best tacos",
+      "Korean food",
+      "Fine dining splurge",
+      "SGV Chinese",
+      "Thai Town",
+      "Brunch spots"
+    ]
+  },
+  {
+    "keys": [
+      "taco",
+      "tacos",
+      "mexican",
+      "oaxacan",
+      "birria"
+    ],
+    "text": "Head to Boyle Heights. Mariscos Jalisco is legendary for deep-fried shrimp tacos. For sit-down Oaxacan, Guelaguetza on Olympic is untouchable — get the Festival de Moles. Something modern? Broken Spanish Comedor just opened in Culver City and it's Ray Garcia's best work yet.",
+    "businesses": [
+      "Mariscos Jalisco",
+      "Guelaguetza",
+      "Broken Spanish Comedor",
+      "Guisados",
+      "Guerrilla Tacos"
+    ],
+    "chips": [
+      "SGV Chinese food",
+      "Korean BBQ",
+      "Fine dining instead",
+      "Best brunch",
+      "Coffee near there"
+    ]
+  },
+  {
+    "keys": [
+      "korean",
+      "koreatown",
+      "ktown",
+      "kbbq",
+      "korean bbq"
+    ],
+    "text": "K-Town is a city within a city. For KBBQ, Park's BBQ on Vermont is the gold standard — unmatched meat quality. Quarters is walk-in friendly and open until 2am. After dinner, hit Pharaoh Karaoke for a private noraebang room. And end the night at Wi Spa — it's 24/7.",
+    "businesses": [
+      "Park's BBQ",
+      "Quarters Korean BBQ",
+      "Pharaoh Karaoke Lounge",
+      "Wi Spa",
+      "Guelaguetza"
+    ],
+    "chips": [
+      "Late night K-town",
+      "Korean spa tips",
+      "Best dessert nearby",
+      "What about Japanese?"
+    ]
+  },
+  {
+    "keys": [
+      "japanese",
+      "sushi",
+      "ramen",
+      "omakase",
+      "little tokyo"
+    ],
+    "text": "Little Tokyo is ramen central — Daikokuya has the line for a reason, and Marugame Monzo's uni cream udon is stupid good. For omakase, Sushi Ginza Onodera is as close to Tsukiji as this continent gets. Kato in the Arts District is a Michelin-starred Taiwanese-American tasting menu in a food hall — James Beard winner.",
+    "businesses": [
+      "Daikokuya",
+      "Marugame Monzo",
+      "Sushi Ginza Onodera",
+      "Kato",
+      "Sushi Gen"
+    ],
+    "chips": [
+      "Thai Town",
+      "SGV dim sum",
+      "Fine dining",
+      "Ramen specifically"
+    ]
+  },
+  {
+    "keys": [
+      "thai",
+      "thai town",
+      "thai food"
+    ],
+    "text": "Thai Town is a strip mall paradise. Jitlada is the legend — punishing Southern Thai heat and incredibly complex curries. Sapp Coffee Shop for $10 jade noodle soup. Night + Market Song in Silver Lake for a fun, loud vibe. Be prepared for real spice levels.",
+    "businesses": [
+      "Jitlada",
+      "Sapp Coffee Shop",
+      "Night + Market Song"
+    ],
+    "chips": [
+      "Korean food",
+      "SGV Chinese",
+      "Something mild",
+      "Coffee nearby"
+    ]
+  },
+  {
+    "keys": [
+      "chinese",
+      "sgv",
+      "san gabriel",
+      "dim sum",
+      "dumplings"
+    ],
+    "text": "Drive east. The San Gabriel Valley is the deepest Chinese food scene in America. Sea Harbour in Rosemead for dim sum — order off the menu, everything steamed to order. Din Tai Fung in Arcadia for soup dumplings. Newport Seafood in San Gabriel for the Special House Lobster. Lunasia in Alhambra for all-day dim sum.",
+    "businesses": [
+      "Sea Harbour Seafood Restaurant",
+      "Din Tai Fung",
+      "Newport Seafood",
+      "Lunasia Dim Sum House"
+    ],
+    "chips": [
+      "Best dim sum specifically",
+      "Korean instead",
+      "Closer to DTLA?",
+      "What's Taiwanese?"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "splurge",
+      "special occasion",
+      "michelin",
+      "tasting menu"
+    ],
+    "text": "Providence is our three-Michelin-star pinnacle for seafood. Bestia in the Arts District is the power reservation. Kato is a genius strip-mall tasting menu. And the 2026 hotness: Lielle by Marcus Jernmark on Pico — Scandinavian fine dining that changes monthly. Hermon's for the modern chophouse vibe.",
+    "businesses": [
+      "Providence",
+      "Bestia",
+      "Kato",
+      "Lielle",
+      "Hermon's"
+    ],
+    "chips": [
+      "Book a table",
+      "Something more casual",
+      "Best cocktails nearby",
+      "Date night plan"
+    ]
+  },
+  {
+    "keys": [
+      "brunch",
+      "breakfast",
+      "morning"
+    ],
+    "text": "Sqirl in Virgil Village is still the benchmark — ricotta toast plus they just launched dinner. Republique on La Brea has the best pastry case in the city. Max & Helen's in Larchmont is the Phil Rosenthal / Nancy Silverton diner collab. Porto's in Glendale for Cuban pastries, $5 and life-changing.",
+    "businesses": [
+      "Sqirl",
+      "Republique",
+      "Max & Helen's",
+      "Porto's Bakery & Cafe",
+      "Grand Central Market"
+    ],
+    "chips": [
+      "Best coffee spots",
+      "What's near the beach?",
+      "Cheap eats",
+      "Family-friendly brunch"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "cocktails",
+      "nightlife",
+      "going out"
+    ],
+    "text": "What's the vibe? Death & Co in the Arts District for dark, moody craft cocktails. No Vacancy in Hollywood — enter through a bedroom. The Dresden in Los Feliz for Marty & Elayne jazz since 1982. For live music, the Troubadour and Viper Room on the Sunset Strip are iconic. Late night? Jumbo's Clown Room or Tiki-Ti.",
+    "businesses": [
+      "Death & Co",
+      "No Vacancy",
+      "The Dresden",
+      "The Troubadour",
+      "Tiki-Ti",
+      "Jumbo's Clown Room"
+    ],
+    "chips": [
+      "Best rooftop bars",
+      "Live music tonight",
+      "Comedy shows",
+      "Late night food",
+      "Karaoke"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "comedy show",
+      "stand up",
+      "laugh"
+    ],
+    "text": "The Comedy Store on Sunset is the holy grail — three rooms, shows every night, and huge names drop in unannounced. Laugh Factory is right down the street. Groundlings on Melrose for improv (that's where Will Ferrell and Melissa McCarthy started). Check lineups day-of — the surprise drop-ins are the real show.",
+    "businesses": [
+      "The Comedy Store",
+      "The Laugh Factory",
+      "Groundlings Theatre"
+    ],
+    "chips": [
+      "Book tickets",
+      "Dinner before the show",
+      "What else on Sunset Strip?",
+      "Jazz clubs"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "art",
+      "culture",
+      "gallery",
+      "getty"
+    ],
+    "text": "We're having a massive museum renaissance in 2026. LACMA just opened the David Geffen Galleries. DATALAND is the world's first AI art museum. Lucas Museum opens September with free admission. But if you only do one — the Getty Center at sunset. Free admission, take the tram up, and the views will ruin every other museum for you.",
+    "businesses": [
+      "The Getty Center",
+      "LACMA",
+      "The Broad",
+      "DATALAND — Museum of AI Arts",
+      "Lucas Museum of Narrative Art",
+      "Academy Museum of Motion Pictures"
+    ],
+    "chips": [
+      "Free museums list",
+      "Best gallery walk",
+      "Family-friendly museums",
+      "Rainy day plan"
+    ]
+  },
+  {
+    "keys": [
+      "beach",
+      "beaches",
+      "ocean",
+      "surf",
+      "water",
+      "swim"
+    ],
+    "text": "Santa Monica is the classic — wide beach, the pier, good for families. Venice is the freakshow boardwalk and Sunday drum circles. The real move is up PCH to Malibu — Surfrider for surfing, El Matador for dramatic sea caves and the best sunset photos in LA. Locals skip the crowd and go to Manhattan Beach.",
+    "businesses": [
+      "Santa Monica Beach & Pier",
+      "Venice Beach Boardwalk",
+      "El Matador State Beach",
+      "Surfrider Beach",
+      "Manhattan Beach"
+    ],
+    "chips": [
+      "Surf lessons",
+      "Beach restaurant nearby",
+      "Bike The Strand",
+      "Malibu wine tasting"
+    ]
+  },
+  {
+    "keys": [
+      "hike",
+      "hiking",
+      "outdoor",
+      "nature",
+      "griffith",
+      "hollywood sign"
+    ],
+    "text": "Runyon Canyon is THE LA social hike — 3 miles, great views, dogs everywhere. For the Hollywood Sign, take the Mt. Hollywood Trail from the Observatory. Temescal Gateway in Pacific Palisades gives you ocean views. Topanga State Park feels like you left the city entirely. Go early in summer — it gets hot by 10am.",
+    "businesses": [
+      "Runyon Canyon Park",
+      "Griffith Park",
+      "Griffith Observatory",
+      "Temescal Gateway Park",
+      "Topanga State Park"
+    ],
+    "chips": [
+      "Hollywood Sign hike",
+      "Observatory info",
+      "Beach after the hike",
+      "Dog-friendly spots"
+    ]
+  },
+  {
+    "keys": [
+      "shop",
+      "shopping",
+      "buy",
+      "vintage",
+      "boutique",
+      "thrift"
+    ],
+    "text": "Abbot Kinney in Venice for independent boutiques — 'coolest block in America.' Melrose Ave for streetwear and vintage (Round Two, Jet Rag's $1 Sunday sale). Rose Bowl Flea Market on 2nd Sunday — 2,500 vendors, get there at dawn. Rodeo Drive for luxury window-shopping. Santee Alley downtown for cheap everything.",
+    "businesses": [
+      "Abbot Kinney Boulevard",
+      "Melrose Avenue (Fairfax to La Brea)",
+      "Rose Bowl Flea Market",
+      "Rodeo Drive",
+      "Santee Alley"
+    ],
+    "chips": [
+      "Luxury shopping",
+      "Vintage finds",
+      "When's the flea market?",
+      "Coffee while shopping"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "where to stay",
+      "lodging",
+      "sleep",
+      "neighborhood"
+    ],
+    "text": "Pick your neighborhood first — LA is huge. DTLA: Downtown Proper for design cool, Freehand for budget + rooftop bar. Santa Monica: Shutters for beachfront luxury. Beverly Hills: Waldorf Astoria for ultra-luxury, Beverly Hilton for classic. WeHo: Sunset Tower for old Hollywood glamour. Pro tip: staying in Santa Monica and doing Hollywood nightlife = an hour in traffic.",
+    "businesses": [
+      "Downtown LA Proper",
+      "Freehand Los Angeles",
+      "Shutters on the Beach",
+      "Sunset Tower Hotel",
+      "Waldorf Astoria Beverly Hills"
+    ],
+    "chips": [
+      "Best budget options",
+      "Beachfront hotels",
+      "DTLA hotels",
+      "Near nightlife"
+    ]
+  },
+  {
+    "keys": [
+      "transit",
+      "get around",
+      "car",
+      "uber",
+      "metro",
+      "getting here",
+      "airport",
+      "lax"
+    ],
+    "text": "Real talk: a car makes LA easier but it's not required anymore. The new LAX People Mover connects to Metro Rail. The E Line runs DTLA to Santa Monica. Day pass is $3.50 unlimited. For PCH and Malibu, you need a car — rent a convertible and make it the experience. Avoid the 405 between 4-7pm. That's survival, not a suggestion.",
+    "businesses": [],
+    "chips": [
+      "Car rental deals",
+      "Best PCH route",
+      "Metro map",
+      "Airport to hotel"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children"
+    ],
+    "text": "Universal Studios is the big one — new Fast & Furious coaster in 2026 hits 72 mph. Griffith Observatory is free and the planetarium is perfect for kids. California Science Center has the actual Space Shuttle Endeavour — free admission. Santa Monica Pier has a small amusement park. Natural History Museum for dinosaurs.",
+    "businesses": [
+      "Universal Studios Hollywood",
+      "Griffith Observatory",
+      "California Science Center",
+      "Santa Monica Beach & Pier",
+      "Natural History Museum of LA"
+    ],
+    "chips": [
+      "Theme park tips",
+      "Best family restaurants",
+      "Beach with kids",
+      "Rainy day activities"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "anniversary",
+      "date night",
+      "couple"
+    ],
+    "text": "Sunset at Griffith Observatory, then dinner at Bestia in the Arts District — that's the power move. El Matador Beach at sunset is otherworldly. Hollywood Bowl with a picnic and wine is peak romance. For the full send — Sushi Ginza Onodera omakase, then cocktails at Death & Co.",
+    "businesses": [
+      "Griffith Observatory",
+      "Bestia",
+      "El Matador State Beach",
+      "The Hollywood Bowl",
+      "Sushi Ginza Onodera",
+      "Death & Co"
+    ],
+    "chips": [
+      "Book a table",
+      "Best rooftop bars",
+      "Beach sunset spots",
+      "Live music date"
+    ]
+  },
+  {
+    "keys": [
+      "perfect day",
+      "itinerary",
+      "one day",
+      "day trip",
+      "what to do in a day"
+    ],
+    "text": "One-day LA: Coffee at Intelligentsia Silver Lake, brunch at Sqirl. Drive to Griffith Observatory. Head west to the Getty Center — free, stunning. Continue to Santa Monica for the beach and pier. Golden hour at El Matador in Malibu. Back to the Arts District for dinner at Bestia or Bavel. Drinks at Death & Co. That's LA done right.",
+    "businesses": [
+      "Intelligentsia Coffee",
+      "Sqirl",
+      "Griffith Observatory",
+      "The Getty Center",
+      "Santa Monica Beach & Pier",
+      "El Matador State Beach",
+      "Bestia",
+      "Bavel",
+      "Death & Co"
+    ],
+    "chips": [
+      "Two-day version",
+      "Food-focused day",
+      "Outdoor-focused day",
+      "Skip the car version"
+    ]
+  },
+  {
+    "keys": [
+      "event",
+      "events",
+      "what's happening",
+      "this week",
+      "tonight",
+      "2026"
+    ],
+    "text": "2026 is stacked. FIFA World Cup at SoFi this summer — US opener June 12. Three massive museum openings: LACMA's new galleries (April), DATALAND AI art museum (Spring), and Lucas Museum (September, free). Universal's new 72-mph coaster. Weekly: Smorgasburg Sundays, farmers markets Wed/Sat. Monthly: Rose Bowl Flea 2nd Sunday. And Hollywood Bowl season starts June.",
+    "businesses": [],
+    "chips": [
+      "FIFA World Cup info",
+      "Free events",
+      "Live music tonight",
+      "This weekend"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "caffeine"
+    ],
+    "text": "Intelligentsia in Silver Lake is the OG third-wave. Go Get Em Tiger in Larchmont for the macadamia latte. Verve in DTLA for bright single-origins. Dayglow on Melrose for filter coffee flights. And Gjusta in Venice if you want bakery plus coffee. Proof Bakery in Atwater for the best croissant on the Eastside.",
+    "businesses": [
+      "Intelligentsia Coffee",
+      "Go Get Em Tiger",
+      "Verve Coffee Roasters",
+      "Dayglow Coffee",
+      "Gjusta",
+      "Proof Bakery"
+    ],
+    "chips": [
+      "Best bakeries",
+      "Work-friendly cafes",
+      "Near the beach",
+      "Brunch spots"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "late"
+    ],
+    "text": "Canter's Deli on Fairfax is 24 hours — matzo ball soup at 2am is a rite of passage. Wi Spa in Koreatown is 24/7. Jumbo's Clown Room for late-night burlesque chaos. Quarters KBBQ is open until 2am. And taco trucks are everywhere after midnight — follow the longest line on Olympic.",
+    "businesses": [
+      "Canter's Deli",
+      "Wi Spa",
+      "Jumbo's Clown Room",
+      "Quarters Korean BBQ"
+    ],
+    "chips": [
+      "Best dive bars",
+      "24-hour spots",
+      "Food trucks near me",
+      "Safe neighborhoods late"
+    ]
+  },
+  {
+    "keys": [
+      "neighborhood",
+      "neighborhoods",
+      "where to go",
+      "which area",
+      "which part"
+    ],
+    "text": "DTLA/Arts District: museums, chef restaurants, rooftop bars. Silver Lake/Los Feliz/Echo Park: the hipster trifecta — wine bars, indie shops, Griffith Park. Santa Monica/Venice: beach life, Abbot Kinney, tourist-friendly. Koreatown: 24/7 food, KBBQ, spas. Hollywood/WeHo: Sunset Strip, comedy clubs, nightlife. Highland Park: neighborhood dining, Highland Park Bowl. Pasadena: Old Town charm, Rose Bowl.",
+    "businesses": [],
+    "chips": [
+      "Best for foodies?",
+      "Best for nightlife?",
+      "Best for families?",
+      "Where should I stay?"
+    ]
+  },
+  {
+    "keys": [
+      "traffic",
+      "405",
+      "driving",
+      "freeway",
+      "commute"
+    ],
+    "text": "Rule #1: cluster your activities geographically. Don't try Venice and Hollywood in the same afternoon. The 405 is a parking lot 4-7pm. The 10 is miserable 8-10am westbound. Use the Metro E Line for DTLA to Santa Monica. Waze over Google Maps. And weekend mornings before 10am? The city is yours.",
+    "businesses": [],
+    "chips": [
+      "Metro tips",
+      "Best neighborhoods to walk",
+      "When to drive PCH",
+      "Airport tricks"
+    ]
+  },
+  {
+    "keys": [
+      "celebrity",
+      "celebrities",
+      "famous",
+      "spotting",
+      "see stars"
+    ],
+    "text": "Honest answer: you're most likely to spot someone at Erewhon Market (Venice or WeHo location), the Tower Bar at Sunset Tower Hotel, or any restaurant on the Infatuation hit list on a Tuesday night. Craig's on Melrose is the paparazzi magnet. But the real secret? Grocery stores. Celebrities buy avocados too.",
+    "businesses": [
+      "Erewhon Market",
+      "Sunset Tower Hotel"
+    ],
+    "chips": [
+      "Best restaurants for the scene",
+      "Where NOT to go",
+      "Hollywood history tour"
+    ]
+  },
+  {
+    "keys": [
+      "tourist trap",
+      "skip",
+      "avoid",
+      "overrated",
+      "scam"
+    ],
+    "text": "Skip: Hollywood Walk of Fame (dirty, aggressive hustlers after dark). Hollywood Blvd in general after sunset. The star tour buses (waste of time). Madame Tussauds. Instead: Griffith Observatory (free, incredible), the actual movie studios (Warner Bros tour is great), and any neighborhood restaurant over any Hollywood Blvd restaurant.",
+    "businesses": [
+      "Griffith Observatory",
+      "Warner Bros Studio Tour"
+    ],
+    "chips": [
+      "What to do instead",
+      "Best free things",
+      "Local's favorite spots",
+      "Hidden gems"
+    ]
+  }
+]

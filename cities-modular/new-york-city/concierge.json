@@ -1,0 +1,599 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "menu",
+      "start",
+      "what can you do"
+    ],
+    "text": "I know every block from Inwood to Coney Island. Tell me what kind of trip this is — first time? Anniversary? Bachelor party? Or just hungry and need a direction? I've got opinions on all of it.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best neighborhoods to explore",
+      "I need a Broadway show",
+      "What's happening this week?",
+      "I'm here for the World Cup",
+      "Best pizza in the city"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "lunch",
+      "where to eat"
+    ],
+    "text": "Alright, what's the vibe? If you want the NYC bucket list, go to Katz's Deli on Houston for the pastrami, then walk to Russ & Daughters for a bagel and lox. If you want something that'll actually change your life, get a reservation at Tatiana at Lincoln Center — Kwame Onwuachi is cooking the best food in America right now. On a budget? Xi'an Famous Foods in Chinatown. Spicy cumin lamb noodles for $12. You'll dream about them.",
+    "businesses": [
+      "Katz's Delicatessen",
+      "Russ & Daughters",
+      "Tatiana by Kwame Onwuachi",
+      "Xi'an Famous Foods"
+    ],
+    "chips": [
+      "Best pizza",
+      "Fine dining",
+      "Cheap eats under $15",
+      "Where for brunch?",
+      "Best food by neighborhood",
+      "Late night food"
+    ]
+  },
+  {
+    "keys": [
+      "pizza",
+      "best pizza",
+      "slice"
+    ],
+    "text": "This is a religion here, so don't take it lightly. Joe's Pizza on Carmine Street for the perfect no-frills slice — fold it, eat it on the sidewalk, you're a New Yorker now. Lucali in Carroll Gardens for the best whole pie in the five boroughs — it's BYOB, cash only, line up before they open at 5. Di Fara in Midwood if you want to make a pilgrimage. And honestly? L'industrie Pizzeria in Williamsburg is quietly one of the best right now — the burrata slice is outrageous.",
+    "businesses": [
+      "Joe's Pizza",
+      "Lucali",
+      "Di Fara Pizza"
+    ],
+    "chips": [
+      "Best slice",
+      "Best whole pie",
+      "Pizza in Brooklyn",
+      "Cheap eats"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "cocktails",
+      "nightlife",
+      "going out",
+      "night out"
+    ],
+    "text": "Dead Rabbit in FiDi is one of the best cocktail bars on the planet — Irish pub downstairs, cocktail parlor upstairs. If you want old-money glamour, Bemelmans Bar at The Carlyle has live jazz and $30 martinis in a room with original Madeline murals. Speakeasy? PDT in the East Village — enter through a phone booth inside a hot dog shop. For a dive, McSorley's on 7th Street has been open since 1854 — Lincoln drank there. Two choices: light or dark.",
+    "businesses": [
+      "Dead Rabbit",
+      "Bemelmans Bar",
+      "Please Don't Tell (PDT)",
+      "McSorley's Old Ale House"
+    ],
+    "chips": [
+      "Best speakeasies",
+      "Rooftop bars",
+      "Live jazz",
+      "Dive bars",
+      "Best cocktails",
+      "Late night spots"
+    ]
+  },
+  {
+    "keys": [
+      "broadway",
+      "show",
+      "theater",
+      "musical",
+      "theatre",
+      "plays"
+    ],
+    "text": "Go to the TKTS booth in Times Square — you'll get 20-50% off same-day tickets. The line looks long but it moves. If you know what you want, TodayTix app is your best friend for last-minute seats. Hamilton, Wicked, and The Lion King are the evergreens. But ask me what's NEW and I'll tell you — the best show in town changes every season. Also: Off-Broadway is where the magic happens. Check out what's playing at St. Ann's Warehouse in DUMBO or the Public Theater on Lafayette.",
+    "businesses": [
+      "Broadway (Theater District)"
+    ],
+    "chips": [
+      "What's the best show right now?",
+      "Cheap Broadway tickets",
+      "Off-Broadway picks",
+      "Shows for kids",
+      "Comedy shows"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "museums",
+      "art",
+      "gallery",
+      "culture"
+    ],
+    "text": "The Met is the one museum you HAVE to see — it's endless, and the rooftop bar in summer has the best view in the city. MoMA is free on Friday evenings. The Guggenheim is worth it for the building alone. But here's your insider move: MoMA PS1 in Queens is free ALL of 2026 for its 50th anniversary. It's edgier, less crowded, and takes 15 minutes on the 7 train. Also, the Whitney's outdoor terraces overlooking the Hudson are spectacular even without the art.",
+    "businesses": [
+      "The Metropolitan Museum of Art",
+      "Museum of Modern Art (MoMA)",
+      "MoMA PS1",
+      "Solomon R. Guggenheim Museum",
+      "Whitney Museum of American Art"
+    ],
+    "chips": [
+      "Free museum days",
+      "Best for kids",
+      "Contemporary art",
+      "Photography galleries",
+      "Rainy day plan"
+    ]
+  },
+  {
+    "keys": [
+      "central park",
+      "park",
+      "outdoor",
+      "nature",
+      "walk",
+      "green space"
+    ],
+    "text": "Central Park is 843 acres — you could spend a whole day. Start at Bethesda Fountain, walk through the Ramble for a nature escape, hit Strawberry Fields if you're a Beatles fan, and rent a rowboat at the Loeb Boathouse. The High Line is a 1.45-mile elevated park on the west side — walk it north to south at sunset for Hudson River views. Brooklyn Bridge Park is underrated — great playgrounds, Jane's Carousel, and Manhattan views. And Governors Island opens in May — free ferry before noon on weekends.",
+    "businesses": [
+      "Central Park",
+      "The High Line",
+      "Governors Island",
+      "Brooklyn Botanic Garden"
+    ],
+    "chips": [
+      "Best running routes",
+      "Parks with skyline views",
+      "Where to picnic",
+      "Gardens and flowers",
+      "Brooklyn parks"
+    ]
+  },
+  {
+    "keys": [
+      "shop",
+      "shopping",
+      "buy",
+      "store",
+      "boutique"
+    ],
+    "text": "Fifth Avenue from 49th to 59th is the iconic stretch — Saks, Bergdorf, Tiffany. But SoHo on a weekday is where the real shopping happens — Prince Street and Mercer Street for the best mix of luxury flagships and indie boutiques. For vintage and flea markets, Brooklyn Flea in DUMBO on weekends. Chelsea Market is half food hall, half shopping — great for unique gifts. And if you want the full NYC experience, walk through the Diamond District on 47th Street — it's chaos and it's wonderful.",
+    "businesses": [
+      "Chelsea Market",
+      "Brooklyn Flea",
+      "Fifth Avenue Shopping",
+      "SoHo Shopping District"
+    ],
+    "chips": [
+      "Vintage clothing",
+      "Best bookstores",
+      "SoHo walk",
+      "Unique NYC gifts",
+      "Record stores"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "morning",
+      "work from"
+    ],
+    "text": "Devoción in Williamsburg is the most beautiful cafe in the city — Colombian single-origin in a greenhouse space. If you're in Manhattan, Abraço on 7th Street in the East Village makes the best cortado in town. For a work session, try Think Coffee (multiple locations, good wifi, no side-eye). And Levain Bakery on the Upper West Side isn't technically coffee, but those 6-ounce cookies pair perfectly with one.",
+    "businesses": [
+      "Devoción",
+      "Levain Bakery"
+    ],
+    "chips": [
+      "Best cortado",
+      "Cafes with wifi",
+      "Bakeries",
+      "Best donuts"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "sleep",
+      "lodging",
+      "where to stay",
+      "neighborhood"
+    ],
+    "text": "Where you stay IS your trip. West Village and SoHo for charm and walkability. Lower East Side for nightlife proximity. Williamsburg for Brooklyn cool. Midtown if you're doing Broadway and museums. Budget move: Pod Hotels have tiny rooms but great locations and rooftop bars. Mid-range: Arlo in NoMad or Williamsburg. Splurge: The Plaza if you want the fairy tale, or The Carlyle on the Upper East Side if you want old New York glamour.",
+    "businesses": [
+      "The Plaza Hotel",
+      "The Jane Hotel",
+      "Pod Hotels",
+      "Arlo Hotels"
+    ],
+    "chips": [
+      "Best neighborhoods to stay",
+      "Budget hotels",
+      "Boutique hotels",
+      "Hotels with rooftop bars"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "transit",
+      "subway",
+      "how to get around",
+      "airport",
+      "train"
+    ],
+    "text": "Fly into JFK or LaGuardia (both Queens) or Newark (NJ). From JFK, take the AirTrain to Jamaica then E train to Manhattan — cheapest option, about an hour. Uber/Lyft from JFK runs $60-90. LaGuardia is closer but no rail — Uber about $30-50. Once you're here, subway is king. $2.90 per ride, runs 24/7, goes almost everywhere. Get an OMNY-enabled card or just tap your phone. Do NOT rent a car in Manhattan.",
+    "businesses": [],
+    "chips": [
+      "Best way from JFK",
+      "How the subway works",
+      "Is Uber worth it?",
+      "Where to park (if I must)"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly"
+    ],
+    "text": "Central Park Zoo for the little ones — it's small and manageable. American Museum of Natural History for the dinosaurs (every kid loses their mind). Brooklyn Bridge Park has incredible playgrounds right on the waterfront. Governors Island in summer is car-free paradise for kids. For Broadway, Lion King is still the safest bet for all ages. And ride the Staten Island Ferry — it's free, it passes the Statue of Liberty, and kids love boats.",
+    "businesses": [
+      "American Museum of Natural History",
+      "Central Park",
+      "Governors Island"
+    ],
+    "chips": [
+      "Best playgrounds",
+      "Kid-friendly restaurants",
+      "Free activities for families",
+      "Rainy day with kids"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "anniversary",
+      "couple",
+      "date night"
+    ],
+    "text": "Walk the Brooklyn Bridge at sunset, end up at Time Out Market in DUMBO for drinks with the skyline behind you. Dinner at L'Artusi in the West Village — grab bar seats, share the spaghetti with crab. After dinner, jazz at Smalls in the basement — $20 cover, BYOB, the most intimate room in the city. Or go full luxury: cocktails at Bemelmans Bar, dinner at Le Bernardin, then a walk through Central Park at night. That's a New York love story.",
+    "businesses": [
+      "Brooklyn Bridge",
+      "L'Artusi",
+      "Smalls Jazz Club",
+      "Bemelmans Bar",
+      "Le Bernardin"
+    ],
+    "chips": [
+      "Best date restaurants",
+      "Sunset spots",
+      "Jazz clubs",
+      "Rooftop drinks"
+    ]
+  },
+  {
+    "keys": [
+      "perfect day",
+      "one day",
+      "itinerary",
+      "day trip",
+      "24 hours"
+    ],
+    "text": "Here's your one perfect day: Start with a bagel at Russ & Daughters on the Lower East Side. Walk across the Brooklyn Bridge to DUMBO. Grab coffee, take the skyline photo. Ferry to Governors Island or subway up to the Met (rooftop in summer). Late afternoon: walk the High Line from 14th to 30th St. Dinner: Joe's Pizza for the authentic slice, or L'Artusi if you want to sit down. Night: Comedy Cellar for a show, then drinks at Dead Rabbit in FiDi. Collapse. Repeat tomorrow.",
+    "businesses": [
+      "Russ & Daughters",
+      "Brooklyn Bridge",
+      "The Metropolitan Museum of Art",
+      "The High Line",
+      "Joe's Pizza",
+      "Comedy Cellar",
+      "Dead Rabbit"
+    ],
+    "chips": [
+      "Two-day itinerary",
+      "Rainy day plan",
+      "Brooklyn-only day",
+      "Uptown day"
+    ]
+  },
+  {
+    "keys": [
+      "event",
+      "events",
+      "what's happening",
+      "this week",
+      "festival"
+    ],
+    "text": "2026 is a MASSIVE year for NYC. FIFA World Cup matches at MetLife Stadium from June 13 through the Final on July 19. America 250 / Sail4th celebrations with the largest-ever ship flotilla into the harbor July 3-9. 9/11 Memorial 25th anniversary September 11. Beyond the big ones: SummerStage free concerts in Central Park all summer, Shakespeare in the Park (free), Smorgasburg every weekend, and MoMA PS1 is free all year for its 50th.",
+    "businesses": [],
+    "chips": [
+      "FIFA World Cup details",
+      "Free events",
+      "This month's highlights",
+      "Best summer events"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "brunch",
+      "morning food"
+    ],
+    "text": "Russ & Daughters for bagels and lox — that's the canonical NYC breakfast. Balthazar in SoHo for a proper sit-down brunch (get the French toast). If you're in Brooklyn, Egg in Williamsburg does Southern-meets-NYC breakfast right. For a cheap bodega move: bacon egg and cheese on a roll from literally any corner deli — ask for it on a Kaiser roll with salt pepper ketchup. That's the real NYC breakfast.",
+    "businesses": [
+      "Russ & Daughters",
+      "Balthazar"
+    ],
+    "chips": [
+      "Best bagels",
+      "Brunch with views",
+      "Cheap breakfast",
+      "Coffee and pastry spots"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "2am",
+      "late"
+    ],
+    "text": "This city doesn't close. Joe's Pizza is open until 5am. Katz's is open 24 hours on weekends. The Halal Guys cart on 53rd and 6th is peak at 2am. For bars, most close at 4am — that's last call in NYC. For late-night vibes, Ear Inn in SoHo (one of the oldest bars in the city, always open late) or any East Village dive. House of Yes in Bushwick for late-night party energy. The subway runs 24/7 — take the night train home like a real New Yorker.",
+    "businesses": [
+      "Joe's Pizza",
+      "Katz's Delicatessen",
+      "The Halal Guys",
+      "House of Yes"
+    ],
+    "chips": [
+      "Best 2am food",
+      "Late night bars",
+      "After-hours clubs",
+      "Night subway tips"
+    ]
+  },
+  {
+    "keys": [
+      "world cup",
+      "fifa",
+      "soccer",
+      "football",
+      "match"
+    ],
+    "text": "NYC/NJ is hosting eight World Cup matches including the Final on July 19 at MetLife Stadium (renamed NY/NJ Stadium for the tournament). Group stage matches on June 13, 16, 22, 25, and 26, plus knockout rounds. Fan festivals and official watch parties will be all over Manhattan — Rockefeller Center is hosting the NYNJ Fan Village. Get your match tickets through FIFA, and book your hotel NOW — this summer is going to be insane.",
+    "businesses": [],
+    "chips": [
+      "How to get match tickets",
+      "Best watch party spots",
+      "Where to stay for World Cup",
+      "Getting to MetLife Stadium"
+    ]
+  },
+  {
+    "keys": [
+      "view",
+      "skyline",
+      "observation",
+      "lookout",
+      "see the city"
+    ],
+    "text": "Top of the Rock beats the Empire State Building because you can actually SEE the Empire State from up there. Edge at Hudson Yards has the glass floor 1,100 feet up — terrifying and amazing. One World Observatory for the downtown view. But the free moves: walk the Brooklyn Bridge for the Manhattan skyline, take the Staten Island Ferry past the Statue of Liberty (free!), or go to the rooftop of the Met in summer. Best kept secret: the 230 Fifth rooftop bar has panoramic views and igloos in winter.",
+    "businesses": [
+      "Top of the Rock Observation Deck",
+      "Edge at Hudson Yards",
+      "One World Observatory",
+      "Brooklyn Bridge"
+    ],
+    "chips": [
+      "Free views",
+      "Best sunset spots",
+      "Rooftop bars with views",
+      "Observation deck comparison"
+    ]
+  },
+  {
+    "keys": [
+      "chinatown",
+      "dim sum",
+      "flushing",
+      "asian food",
+      "jackson heights",
+      "arthur ave"
+    ],
+    "text": "Skip the glossy spots and head to Nom Wah Tea Parlor on Doyers Street for the history, but if you want the real deal, take the 7 train to Flushing. Walk straight into the New World Mall food court — it's loud, overwhelming, and has the best hand-pulled noodles and dumplings on the East Coast. Jackson Heights on the 7 line has the best Indian and Colombian food in the city. Arthur Ave in the Bronx is the REAL Little Italy — Manhattan's is a tourist trap.",
+    "businesses": [
+      "Nom Wah Tea Parlor"
+    ],
+    "chips": [
+      "Best dim sum spots",
+      "How to get to Flushing",
+      "Jackson Heights food tour",
+      "Arthur Ave guide",
+      "Korean BBQ in K-Town",
+      "Best ramen"
+    ]
+  },
+  {
+    "keys": [
+      "bookstore",
+      "quiet spot",
+      "reading",
+      "library",
+      "hidden gardens"
+    ],
+    "text": "The Strand is mandatory — 18 miles of books and you will absolutely get lost in the stacks on Broadway. If you need somewhere quieter, head to Books Are Magic in Cobble Hill; grab a novel and sit by the waterfront in Brooklyn Bridge Park. The NYPL main branch on 42nd Street has a stunning reading room that feels like Hogwarts. For a hidden garden, the Conservatory Garden on the Upper East Side end of Central Park is the most peaceful place in Manhattan.",
+    "businesses": [
+      "Books Are Magic",
+      "McNally Jackson"
+    ],
+    "chips": [
+      "Coffee nearby?",
+      "More bookstores",
+      "Quiet parks",
+      "Best libraries",
+      "Indie bookshops in Brooklyn"
+    ]
+  },
+  {
+    "keys": [
+      "lgbtq",
+      "gay bar",
+      "pride",
+      "stonewall",
+      "queer nightlife",
+      "christopher street"
+    ],
+    "text": "You have to pay your respects at the Stonewall Inn on Christopher Street — it's living history. After that, walk over to Cubbyhole. It's tiny, covered in paper lanterns, heavily lesbian-leaning but universally welcoming, and practically requires you to sing along to the jukebox. Julius' Bar around the corner is the oldest gay bar in the city. Pride March is June 28 — Fifth Ave to the Village, millions of people, electric energy. The new American LGBTQ+ Museum at the New-York Historical Society is opening in 2026.",
+    "businesses": [
+      "Stonewall Inn",
+      "Cubbyhole",
+      "Julius'",
+      "Henrietta Hudson"
+    ],
+    "chips": [
+      "Pride 2026 events",
+      "Best drag shows",
+      "LGBTQ+ history spots",
+      "Gay bars in Brooklyn",
+      "Queer-friendly restaurants"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "knicks",
+      "yankees",
+      "mets",
+      "baseball",
+      "basketball",
+      "game",
+      "tickets"
+    ],
+    "text": "Catching a game at Madison Square Garden is legendary, but ticket prices are brutal — use SeatGeek or Gametime an hour before tip-off for last-minute deals. For a true summer experience, take the D train to Yankee Stadium, grab a chicken bucket, and sit in the bleachers — the crowd out there is ruthless and hilarious. Mets at Citi Field is more family-friendly. Barclays Center in Brooklyn for the Nets and concerts. Best sports bars: Standings on 7th Street (East Village) or Amity Hall near NYU.",
+    "businesses": [
+      "Madison Square Garden",
+      "Yankee Stadium",
+      "Citi Field",
+      "Barclays Center"
+    ],
+    "chips": [
+      "Cheap Knicks tickets",
+      "Getting to Yankee Stadium",
+      "Best sports bars",
+      "Mets vs Yankees?",
+      "Rangers or Islanders?",
+      "NYCFC matches"
+    ]
+  },
+  {
+    "keys": [
+      "instagram",
+      "photos",
+      "photography",
+      "views",
+      "dumbo",
+      "skyline",
+      "oculus",
+      "vessel",
+      "edge"
+    ],
+    "text": "Everyone takes the exact same photo on Washington Street in DUMBO with the Manhattan Bridge framing the Empire State Building. Do it, but then walk the Brooklyn Bridge Park greenway at sunset. Westlight's rooftop in Williamsburg has staggering skyline views from the 22nd floor. The Oculus at the World Trade Center is insane for architecture photos. Grand Central's main concourse under the painted ceiling. Top of the Rock at golden hour beats everything. And Washington Square Park with the arch framing the Empire State — the classic.",
+    "businesses": [
+      "Top of the Rock Observation Deck",
+      "Edge at Hudson Yards"
+    ],
+    "chips": [
+      "Best sunset spots",
+      "DUMBO photo walk",
+      "Rooftop bars with views",
+      "Hidden photo spots",
+      "Best skyline from Brooklyn",
+      "Night photography spots"
+    ]
+  },
+  {
+    "keys": [
+      "rainy day",
+      "indoor",
+      "weather",
+      "museums",
+      "escape room",
+      "chelsea galleries"
+    ],
+    "text": "When it pours, the big museums turn into zoos. Duck into the Tenement Museum on the Lower East Side for a brilliant, guided look at real NYC history. After that, escape the gloom inside the Russian & Turkish Baths — sweat it out in a scorching sauna while it rains outside. Chelsea has 300+ galleries between 10th and 11th Ave from 19th-28th St, all free, all walkable. Or do a speakeasy crawl: PDT in the East Village, Bathtub Gin in Chelsea, Employees Only in the West Village. Escape rooms: The Escape Game on West 46th is solid.",
+    "businesses": [
+      "Tenement Museum",
+      "Russian & Turkish Baths",
+      "David Zwirner",
+      "Pace Gallery",
+      "Please Don't Tell (PDT)"
+    ],
+    "chips": [
+      "Indoor activities",
+      "Cozy bars",
+      "Chelsea art galleries",
+      "Best escape rooms",
+      "Speakeasy crawl route",
+      "Rainy day with kids"
+    ]
+  },
+  {
+    "keys": [
+      "queens",
+      "bronx",
+      "outer boroughs",
+      "arthur ave",
+      "bronx zoo",
+      "flushing",
+      "wave hill"
+    ],
+    "text": "Manhattan's Little Italy is a tourist trap. If you want authentic red sauce and fresh mozzarella, you need to go to Arthur Avenue in the Bronx — Mike's Deli, Enzo's, and the Arthur Avenue Retail Market are the real deal. Flushing in Queens has the best Chinese food outside of China — take the 7 to the last stop. The Bronx Zoo is massive (plan a full day). Wave Hill in Riverdale is a hidden-gem public garden overlooking the Hudson. Astoria's Greek seafood scene on 30th Ave is flawless.",
+    "businesses": [],
+    "chips": [
+      "Getting to Arthur Ave",
+      "Flushing food guide",
+      "Bronx Zoo tips",
+      "Best of Astoria",
+      "Jackson Heights food crawl",
+      "Staten Island worth it?"
+    ]
+  },
+  {
+    "keys": [
+      "brooklyn day trip",
+      "williamsburg",
+      "dumbo to brooklyn heights",
+      "walking route",
+      "brooklyn walk"
+    ],
+    "text": "Start in Williamsburg at Sey Coffee, then walk south along the waterfront through Domino Park (great skyline views). Keep going to DUMBO — hit the Washington Street photo spot, grab a slice at Juliana's or skip the line and walk to Time Out Market. Cross under the Brooklyn Bridge to Brooklyn Heights Promenade — the most stunning Manhattan panorama in the city. If you've got energy, keep going to Red Hook for Steve's Key Lime Pie and the IKEA ferry back to Manhattan. Total walk: about 4 miles.",
+    "businesses": [
+      "Sey Coffee",
+      "Time Out Market New York",
+      "Brooklyn Bridge Park Greenway"
+    ],
+    "chips": [
+      "Best coffee in Williamsburg",
+      "DUMBO photo spots",
+      "Brooklyn Heights Promenade",
+      "Red Hook worth it?",
+      "Brooklyn brewery crawl",
+      "Prospect Park detour"
+    ]
+  }
+]

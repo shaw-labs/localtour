@@ -1,0 +1,691 @@
+{
+  "morning_starts": [
+    {
+      "title": "Jane and the Lion Bakehouse",
+      "note": "Whatever's fresh that morning. The croissants sell out.",
+      "business": "Jane and the Lion Bakehouse",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Common Bond Bistro & Bakery",
+      "note": "Twice-baked almond croissant and shakshuka.",
+      "business": "Common Bond Bistro & Bakery",
+      "website": "https://commonbondcafe.com",
+      "duration": null
+    },
+    {
+      "title": "Common Bond",
+      "note": "Twice-baked almond croissant.",
+      "business": "Common Bond",
+      "website": "https://commonbondcafe.com",
+      "duration": null
+    },
+    {
+      "title": "The Breakfast Klub",
+      "note": "Wings and waffles. That's the move. Period.",
+      "business": "The Breakfast Klub",
+      "website": "https://thebreakfastklub.com",
+      "duration": null
+    },
+    {
+      "title": "Baby Barnaby's",
+      "note": "Migas and any pancake special.",
+      "business": "Baby Barnaby's",
+      "website": "https://babybarnabys.com",
+      "duration": null
+    },
+    {
+      "title": "Three Brothers Bakery",
+      "note": "Pecan pie — award-winning.",
+      "business": "Three Brothers Bakery",
+      "website": "https://3brothersbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Toasted Yolk Café",
+      "note": "Churro donuts and a mimosa flight.",
+      "business": "Toasted Yolk Café",
+      "website": "https://thetoastedyolk.com",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Hermann Park",
+      "note": "Ride the Hermann Park Railroad ($3.75). Walk the Japanese Garden.",
+      "business": "Hermann Park",
+      "website": "https://hermannpark.org",
+      "duration": null
+    },
+    {
+      "title": "Buffalo Bayou Park",
+      "note": "Rent a kayak or stand-up paddleboard and paddle through downtown. Sunset runs along the trail.",
+      "business": "Buffalo Bayou Park",
+      "website": "https://buffalobayou.org",
+      "duration": null
+    },
+    {
+      "title": "Brazos Bend State Park",
+      "note": "Hike the Elm Lake trail for guaranteed alligator sightings. George Observatory on Saturday nights.",
+      "business": "Brazos Bend State Park",
+      "website": "https://tpwd.texas.gov/state-parks/brazos-bend",
+      "duration": null
+    },
+    {
+      "title": "Gerald D. Hines Waterwall Park",
+      "note": "Stand underneath and feel the mist. Great photo op.",
+      "business": "Gerald D. Hines Waterwall Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Memorial Park",
+      "note": "Morning run on the 3-mile loop, then coffee at nearby Onion Creek.",
+      "business": "Memorial Park",
+      "website": "https://memorialparkconservancy.org",
+      "duration": null
+    },
+    {
+      "title": "Discovery Green",
+      "note": "Free evening concerts in spring/fall. Ice skating in winter.",
+      "business": "Discovery Green",
+      "website": "https://discoverygreen.com",
+      "duration": null
+    },
+    {
+      "title": "Eleanor Tinsley Park",
+      "note": "Skyline photos at golden hour.",
+      "business": "Eleanor Tinsley Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Waugh Drive Bat Colony",
+      "note": "Arrive 30 min before sunset. Stand on the east side of the bridge.",
+      "business": "Waugh Drive Bat Colony",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Space Center Houston",
+      "note": "Level 9 Tour for behind-the-scenes NASA access ($199.95, advance booking required).",
+      "business": "Space Center Houston",
+      "website": "https://spacecenter.org",
+      "duration": null
+    },
+    {
+      "title": "Museum of Fine Arts, Houston",
+      "note": "Visit the Kinder Building, then walk across to Le Jardinier for lunch.",
+      "business": "Museum of Fine Arts, Houston",
+      "website": "https://mfah.org",
+      "duration": null
+    },
+    {
+      "title": "The Menil Collection",
+      "note": "The Menil + Rothko Chapel + Cy Twombly Gallery — all free, all walkable.",
+      "business": "The Menil Collection",
+      "website": "https://menil.org",
+      "duration": null
+    },
+    {
+      "title": "Holocaust Museum Houston",
+      "note": "The permanent Holocaust gallery with the German railcar.",
+      "business": "Holocaust Museum Houston",
+      "website": "https://hmh.org",
+      "duration": null
+    },
+    {
+      "title": "Houston Museum of Natural Science",
+      "note": "Cockrell Butterfly Center — walk through a three-story glass rainforest full of butterflies.",
+      "business": "Houston Museum of Natural Science",
+      "website": "https://hmns.org",
+      "duration": null
+    },
+    {
+      "title": "Bayou Bend Collection & Gardens",
+      "note": "Spring garden tour when the azaleas bloom.",
+      "business": "Bayou Bend Collection & Gardens",
+      "website": "https://mfah.org/visit/bayou-bend-collection-and-gardens",
+      "duration": null
+    },
+    {
+      "title": "Hobby Center for the Performing Arts",
+      "note": "Catch whatever Broadway touring show is in town.",
+      "business": "Hobby Center for the Performing Arts",
+      "website": "https://thehobbycenter.org",
+      "duration": null
+    },
+    {
+      "title": "Wortham Theater Center",
+      "note": "Houston Ballet performance — world-class company.",
+      "business": "Wortham Theater Center",
+      "website": "https://worthamcenter.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Hotel Saint Augustine",
+      "note": "Even if you don't stay here, drink at Augustine Lounge.",
+      "business": "Hotel Saint Augustine",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hotel Granduca Houston",
+      "note": "Breakfast at Ristorante Cavour.",
+      "business": "Hotel Granduca Houston",
+      "website": "https://granducahouston.com",
+      "duration": null
+    },
+    {
+      "title": "La Colombe d'Or Hotel",
+      "note": "The art collection and the restaurant.",
+      "business": "La Colombe d'Or Hotel",
+      "website": "https://lacolombedor.com",
+      "duration": null
+    },
+    {
+      "title": "Hotel ZaZa Museum District",
+      "note": "Concept suites if you're splurging. Z on 23 rooftop bar.",
+      "business": "Hotel ZaZa Museum District",
+      "website": "https://hotelzaza.com/houston",
+      "duration": null
+    },
+    {
+      "title": "River Oaks District",
+      "note": "Window shop if nothing else. Steak 48 is right here.",
+      "business": "River Oaks District",
+      "website": "https://riveroaksdistrict.com",
+      "duration": null
+    },
+    {
+      "title": "The Lancaster Hotel",
+      "note": "Pre-show dinner at the restaurant, walk to theater.",
+      "business": "The Lancaster Hotel",
+      "website": "https://thelancaster.com",
+      "duration": null
+    },
+    {
+      "title": "The Galleria",
+      "note": "Ice skate in the middle of a Texas summer. The irony is the fun.",
+      "business": "The Galleria",
+      "website": "https://galleriahouston.com",
+      "duration": null
+    },
+    {
+      "title": "Heights Mercantile",
+      "note": "Wander, then grab a drink at nearby Heights Bier Garten.",
+      "business": "Heights Mercantile",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Pho Binh",
+      "note": "Special combo pho — the broth has been perfected over decades.",
+      "business": "Pho Binh",
+      "website": "https://phobinh.com",
+      "duration": null
+    },
+    {
+      "title": "Boo's Burgers",
+      "note": "OG cheesy smashburger. The shroom sammie is the sleeper pick.",
+      "business": "Boo's Burgers",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Aladdin Mediterranean Cuisine",
+      "note": "Combo plate with falafel, hummus, and rice.",
+      "business": "Aladdin Mediterranean Cuisine",
+      "website": "https://aladdincuisine.com",
+      "duration": null
+    },
+    {
+      "title": "The Breakfast Klub",
+      "note": "Wings and waffles. That's the move. Period.",
+      "business": "The Breakfast Klub",
+      "website": "https://thebreakfastklub.com",
+      "duration": null
+    },
+    {
+      "title": "Teotihuacan Mexican Cafe",
+      "note": "Chilaquiles or huevos rancheros. Green salsa on everything.",
+      "business": "Teotihuacan Mexican Cafe",
+      "website": "https://teotihuacanmexicancafe.com",
+      "duration": null
+    },
+    {
+      "title": "Huynh Restaurant",
+      "note": "Vermicelli bowl with grilled pork.",
+      "business": "Huynh Restaurant",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "North China",
+      "note": "Hand-pulled noodles and Peking pork chops.",
+      "business": "North China",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Baby Barnaby's",
+      "note": "Migas and any pancake special.",
+      "business": "Baby Barnaby's",
+      "website": "https://babybarnabys.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Anvil Bar & Refuge",
+      "note": "Anything from the 100 List.",
+      "business": "Anvil Bar & Refuge",
+      "website": "https://www.anvilhouston.com",
+      "duration": null
+    },
+    {
+      "title": "Julep",
+      "note": "The classic Mint Julep.",
+      "business": "Julep",
+      "website": "https://julephouston.com",
+      "duration": null
+    },
+    {
+      "title": "Augustine Lounge",
+      "note": "Coyote Call cocktail.",
+      "business": "Augustine Lounge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lola's Depot",
+      "note": "Cold local beer in a koozie.",
+      "business": "Lola's Depot",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "8th Wonder Brewery",
+      "note": "Dome Foam cream ale or Wonder Water THC seltzer.",
+      "business": "8th Wonder Brewery",
+      "website": "https://8thwonder.com",
+      "duration": null
+    },
+    {
+      "title": "Saint Arnold Brewing Company",
+      "note": "Fancy Lawnmower kölsch. Christmas Ale if you're here in winter.",
+      "business": "Saint Arnold Brewing Company",
+      "website": "https://saintarnold.com",
+      "duration": null
+    },
+    {
+      "title": "Karbach Brewing Co.",
+      "note": "Hopadillo IPA and the Korean Fried Chicken ($18).",
+      "business": "Karbach Brewing Co.",
+      "website": "https://karbachbrewing.com",
+      "duration": null
+    },
+    {
+      "title": "Social Beer Garden HTX",
+      "note": "Whatever the seasonal cocktail is. Happy hour deals are legit.",
+      "business": "Social Beer Garden HTX",
+      "website": "https://socialbeergardenhtx.com",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Tatemó",
+      "note": "$155 tasting menu — the tostadas and tamales change with the season but always hit.",
+      "business": "Tatemó",
+      "website": "https://www.tatemo.com",
+      "duration": null
+    },
+    {
+      "title": "MARCH",
+      "note": "The tasting menu — let the kitchen and wine team take you through.",
+      "business": "MARCH",
+      "website": "https://marchhouston.com",
+      "duration": null
+    },
+    {
+      "title": "Squable",
+      "note": "French cheeseburger and freezer martinis.",
+      "business": "Squable",
+      "website": "https://squabletime.com",
+      "duration": null
+    },
+    {
+      "title": "Nancy's Hustle",
+      "note": "Nancy Cakes with whipped butter and roe.",
+      "business": "Nancy's Hustle",
+      "website": "https://nancyshustle.com",
+      "duration": null
+    },
+    {
+      "title": "Little's Oyster Bar",
+      "note": "Oysters on the half shell and caviar service.",
+      "business": "Little's Oyster Bar",
+      "website": "https://littlesoysterbar.com",
+      "duration": null
+    },
+    {
+      "title": "Agnes and Sherman",
+      "note": "French dip sandwich with Taiwanese beef broth. Or the Rangoon with wonton chips.",
+      "business": "Agnes and Sherman",
+      "website": "https://agnesandsherman.com",
+      "duration": null
+    },
+    {
+      "title": "Le Jardinier",
+      "note": "Seasonal tasting menu ($185) or Art Lover's Lunch ($45) for a steal.",
+      "business": "Le Jardinier",
+      "website": "https://lejardinier-houston.com",
+      "duration": null
+    },
+    {
+      "title": "Aga's Restaurant",
+      "note": "Goat chops and the lamb biryani. Go early or wait in line.",
+      "business": "Aga's Restaurant",
+      "website": "https://agasrestaurant.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Tatemó",
+      "note": "$155 tasting menu — the tostadas and tamales change with the season but always hit.",
+      "business": "Tatemó",
+      "website": "https://www.tatemo.com",
+      "duration": null
+    },
+    {
+      "title": "MARCH",
+      "note": "The tasting menu — let the kitchen and wine team take you through.",
+      "business": "MARCH",
+      "website": "https://marchhouston.com",
+      "duration": null
+    },
+    {
+      "title": "Nancy's Hustle",
+      "note": "Nancy Cakes with whipped butter and roe.",
+      "business": "Nancy's Hustle",
+      "website": "https://nancyshustle.com",
+      "duration": null
+    },
+    {
+      "title": "Little's Oyster Bar",
+      "note": "Oysters on the half shell and caviar service.",
+      "business": "Little's Oyster Bar",
+      "website": "https://littlesoysterbar.com",
+      "duration": null
+    },
+    {
+      "title": "Le Jardinier",
+      "note": "Seasonal tasting menu ($185) or Art Lover's Lunch ($45) for a steal.",
+      "business": "Le Jardinier",
+      "website": "https://lejardinier-houston.com",
+      "duration": null
+    },
+    {
+      "title": "Late August",
+      "note": "Fried squash blossom taco on nixtamalized heirloom corn tortilla.",
+      "business": "Late August",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Pappas Bros. Steakhouse",
+      "note": "Bone-in ribeye or porterhouse for two.",
+      "business": "Pappas Bros. Steakhouse",
+      "website": "https://pappasbros.com",
+      "duration": null
+    },
+    {
+      "title": "Musaafer",
+      "note": "Butter Chicken and the elaborate dessert presentations.",
+      "business": "Musaafer",
+      "website": "https://www.musaaferhouston.com",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Tatemó",
+      "note": "$155 tasting menu — the tostadas and tamales change with the season but always hit.",
+      "business": "Tatemó",
+      "website": "https://www.tatemo.com",
+      "duration": null
+    },
+    {
+      "title": "MARCH",
+      "note": "The tasting menu — let the kitchen and wine team take you through.",
+      "business": "MARCH",
+      "website": "https://marchhouston.com",
+      "duration": null
+    },
+    {
+      "title": "Trellis Spa",
+      "note": "Full day pass — outdoor pools, then lunch in your robe.",
+      "business": "Trellis Spa",
+      "website": "https://trellisspa.com",
+      "duration": null
+    },
+    {
+      "title": "Hotel Saint Augustine",
+      "note": "Even if you don't stay here, drink at Augustine Lounge.",
+      "business": "Hotel Saint Augustine",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Little's Oyster Bar",
+      "note": "Oysters on the half shell and caviar service.",
+      "business": "Little's Oyster Bar",
+      "website": "https://littlesoysterbar.com",
+      "duration": null
+    },
+    {
+      "title": "Anvil Bar & Refuge",
+      "note": "Anything from the 100 List.",
+      "business": "Anvil Bar & Refuge",
+      "website": "https://www.anvilhouston.com",
+      "duration": null
+    },
+    {
+      "title": "Julep",
+      "note": "The classic Mint Julep.",
+      "business": "Julep",
+      "website": "https://julephouston.com",
+      "duration": null
+    },
+    {
+      "title": "Le Jardinier",
+      "note": "Seasonal tasting menu ($185) or Art Lover's Lunch ($45) for a steal.",
+      "business": "Le Jardinier",
+      "website": "https://lejardinier-houston.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Continental Club Houston",
+      "note": "Check the calendar — shows almost every night.",
+      "business": "Continental Club Houston",
+      "website": "https://continentalclub.com/houston",
+      "duration": null
+    },
+    {
+      "title": "Last Concert Cafe",
+      "note": "Enchiladas and a Shiner while the band plays.",
+      "business": "Last Concert Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Secret Group",
+      "note": "Any stand-up night. Check calendar for touring headliners.",
+      "business": "The Secret Group",
+      "website": "https://thesecretgrouphtx.com",
+      "duration": null
+    },
+    {
+      "title": "713 Music Hall",
+      "note": "Check the calendar — this is Houston's best mid-size venue.",
+      "business": "713 Music Hall",
+      "website": "https://713musichall.com",
+      "duration": null
+    },
+    {
+      "title": "Scout Bar",
+      "note": "Pair with a Space Center visit — it's nearby.",
+      "business": "Scout Bar",
+      "website": "https://scoutbar.com",
+      "duration": null
+    },
+    {
+      "title": "White Oak Music Hall",
+      "note": "Check calendar for shows. The outdoor lawn shows in spring/fall are magic.",
+      "business": "White Oak Music Hall",
+      "website": "https://whiteoakmusichall.com",
+      "duration": null
+    },
+    {
+      "title": "House of Blues Houston",
+      "note": "Sunday Gospel Brunch — music, food, and soul.",
+      "business": "House of Blues Houston",
+      "website": "https://houseofblues.com/houston",
+      "duration": null
+    },
+    {
+      "title": "Warehouse Live",
+      "note": "See a show in the Ballroom — smaller stage, better sound.",
+      "business": "Warehouse Live",
+      "website": "https://warehouselive.com",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Buc-ee's (Katy)",
+      "note": "Brisket sandwich and Beaver Nuggets.",
+      "business": "Buc-ee's (Katy)",
+      "website": "https://buc-ees.com",
+      "duration": null
+    },
+    {
+      "title": "Aga's Restaurant",
+      "note": "Goat chops and the lamb biryani. Go early or wait in line.",
+      "business": "Aga's Restaurant",
+      "website": "https://agasrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Space Center Houston",
+      "note": "Level 9 Tour for behind-the-scenes NASA access ($199.95, advance booking required).",
+      "business": "Space Center Houston",
+      "website": "https://spacecenter.org",
+      "duration": null
+    },
+    {
+      "title": "Hermann Park",
+      "note": "Ride the Hermann Park Railroad ($3.75). Walk the Japanese Garden.",
+      "business": "Hermann Park",
+      "website": "https://hermannpark.org",
+      "duration": null
+    },
+    {
+      "title": "Buffalo Bayou Park",
+      "note": "Rent a kayak or stand-up paddleboard and paddle through downtown. Sunset runs along the trail.",
+      "business": "Buffalo Bayou Park",
+      "website": "https://buffalobayou.org",
+      "duration": null
+    },
+    {
+      "title": "H-E-B",
+      "note": "Bakery tortillas, store-brand chips and queso, Texas BBQ section.",
+      "business": "H-E-B",
+      "website": "https://heb.com",
+      "duration": null
+    },
+    {
+      "title": "Truth BBQ",
+      "note": "Brisket and corn pudding.",
+      "business": "Truth BBQ",
+      "website": "https://truthbbq.com",
+      "duration": null
+    },
+    {
+      "title": "Cidercade Houston",
+      "note": "Artisan thin-crust pizza while gaming.",
+      "business": "Cidercade Houston",
+      "website": "https://cidercade.com/houston",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Trellis Spa",
+      "note": "Full day pass — outdoor pools, then lunch in your robe.",
+      "business": "Trellis Spa",
+      "website": "https://trellisspa.com",
+      "duration": null
+    },
+    {
+      "title": "Space Center Houston",
+      "note": "Level 9 Tour for behind-the-scenes NASA access ($199.95, advance booking required).",
+      "business": "Space Center Houston",
+      "website": "https://spacecenter.org",
+      "duration": null
+    },
+    {
+      "title": "Museum of Fine Arts, Houston",
+      "note": "Visit the Kinder Building, then walk across to Le Jardinier for lunch.",
+      "business": "Museum of Fine Arts, Houston",
+      "website": "https://mfah.org",
+      "duration": null
+    },
+    {
+      "title": "The Menil Collection",
+      "note": "The Menil + Rothko Chapel + Cy Twombly Gallery — all free, all walkable.",
+      "business": "The Menil Collection",
+      "website": "https://menil.org",
+      "duration": null
+    },
+    {
+      "title": "Cidercade Houston",
+      "note": "Artisan thin-crust pizza while gaming.",
+      "business": "Cidercade Houston",
+      "website": "https://cidercade.com/houston",
+      "duration": null
+    },
+    {
+      "title": "Holocaust Museum Houston",
+      "note": "The permanent Holocaust gallery with the German railcar.",
+      "business": "Holocaust Museum Houston",
+      "website": "https://hmh.org",
+      "duration": null
+    },
+    {
+      "title": "Houston Museum of Natural Science",
+      "note": "Cockrell Butterfly Center — walk through a three-story glass rainforest full of butterflies.",
+      "business": "Houston Museum of Natural Science",
+      "website": "https://hmns.org",
+      "duration": null
+    },
+    {
+      "title": "Hiatus Spa + Retreat",
+      "note": "Couples massage package.",
+      "business": "Hiatus Spa + Retreat",
+      "website": "https://hiatusspa.com",
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,698 @@
+{
+  "morning_starts": [
+    {
+      "title": "Lost Larson",
+      "note": "Cardamom bun, morning bun",
+      "business": "Lost Larson",
+      "website": "https://www.lostlarson.com",
+      "duration": null
+    },
+    {
+      "title": "Hoosier Mama Pie Company",
+      "note": "Salted caramel apple pie",
+      "business": "Hoosier Mama Pie Company",
+      "website": "https://www.hoosiermamapie.com",
+      "duration": null
+    },
+    {
+      "title": "Wildberry Pancakes and Cafe",
+      "note": "Berry Bliss Pancakes, Khaleesi skillet",
+      "business": "Wildberry Pancakes and Cafe",
+      "website": "https://www.wildberrycafe.com",
+      "duration": null
+    },
+    {
+      "title": "Lou Mitchell's",
+      "note": "French toast, donut holes in line",
+      "business": "Lou Mitchell's",
+      "website": "https://www.loumitchellsrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Big Jones",
+      "note": "Southern brunch — biscuits, shrimp and grits",
+      "business": "Big Jones",
+      "website": "https://www.bigjones.com",
+      "duration": null
+    },
+    {
+      "title": "Metric Coffee",
+      "note": "Seasonal single origin pour-over",
+      "business": "Metric Coffee",
+      "website": "https://www.metriccoffee.com",
+      "duration": null
+    },
+    {
+      "title": "Sawada Coffee",
+      "note": "Military Latte",
+      "business": "Sawada Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Margie's Candies",
+      "note": "Giant sundae in the clamshell",
+      "business": "Margie's Candies",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Millennium Park",
+      "note": "Bean photo, free concert at Pritzker Pavilion",
+      "business": "Millennium Park",
+      "website": "https://www.chicago.gov/millenniumpark",
+      "duration": null
+    },
+    {
+      "title": "Garfield Park Conservatory",
+      "note": "Palm House, Fern Room",
+      "business": "Garfield Park Conservatory",
+      "website": "https://www.garfieldconservatory.org",
+      "duration": null
+    },
+    {
+      "title": "Lakefront Trail",
+      "note": "Bike from Navy Pier to Museum Campus",
+      "business": "Lakefront Trail",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Maggie Daley Park",
+      "note": "Skating Ribbon in winter, climbing wall in summer",
+      "business": "Maggie Daley Park",
+      "website": "https://www.maggiedaleypark.com",
+      "duration": null
+    },
+    {
+      "title": "North Avenue Beach",
+      "note": "Volleyball, sunset walk",
+      "business": "North Avenue Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The 606 / Bloomingdale Trail",
+      "note": "Walk or bike the full 2.7 miles at sunset",
+      "business": "The 606 / Bloomingdale Trail",
+      "website": "https://www.the606.org",
+      "duration": null
+    },
+    {
+      "title": "Oak Street Beach",
+      "note": "Morning swim with the skyline behind you",
+      "business": "Oak Street Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Montrose Beach",
+      "note": "Dog beach, Montrose Point bird sanctuary",
+      "business": "Montrose Beach",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Chicago Architecture Center River Cruise",
+      "note": "90-minute cruise, not the shorter version",
+      "business": "Chicago Architecture Center River Cruise",
+      "website": "https://www.architecture.org",
+      "duration": null
+    },
+    {
+      "title": "Art Institute of Chicago",
+      "note": "Impressionist galleries, Thorne Miniature Rooms",
+      "business": "Art Institute of Chicago",
+      "website": "https://www.artic.edu",
+      "duration": null
+    },
+    {
+      "title": "Millennium Park",
+      "note": "Bean photo, free concert at Pritzker Pavilion",
+      "business": "Millennium Park",
+      "website": "https://www.chicago.gov/millenniumpark",
+      "duration": null
+    },
+    {
+      "title": "Museum of Science and Industry",
+      "note": "U-505 submarine tour, Science Storms",
+      "business": "Museum of Science and Industry",
+      "website": "https://www.msichicago.org",
+      "duration": null
+    },
+    {
+      "title": "National Museum of Mexican Art",
+      "note": "Permanent collection, Day of the Dead (Oct)",
+      "business": "National Museum of Mexican Art",
+      "website": "https://www.nationalmuseumofmexicanart.org",
+      "duration": null
+    },
+    {
+      "title": "Garfield Park Conservatory",
+      "note": "Palm House, Fern Room",
+      "business": "Garfield Park Conservatory",
+      "website": "https://www.garfieldconservatory.org",
+      "duration": null
+    },
+    {
+      "title": "Field Museum",
+      "note": "SUE, Underground Adventure",
+      "business": "Field Museum",
+      "website": "https://www.fieldmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Driehaus Museum",
+      "note": "The stained glass collection, period rooms",
+      "business": "Driehaus Museum",
+      "website": "https://www.driehausmuseum.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Dusty Groove",
+      "note": "Rare jazz and funk vinyl section",
+      "business": "Dusty Groove",
+      "website": "https://www.dustygroove.com",
+      "duration": null
+    },
+    {
+      "title": "Seminary Co-op Bookstores",
+      "note": "Browse the philosophy and history sections",
+      "business": "Seminary Co-op Bookstores",
+      "website": "https://www.semcoop.com",
+      "duration": null
+    },
+    {
+      "title": "Women & Children First",
+      "note": "Author event calendar, curated staff picks",
+      "business": "Women & Children First",
+      "website": "https://www.womenandchildrenfirst.com",
+      "duration": null
+    },
+    {
+      "title": "Reckless Records",
+      "note": "Dig through the used bins",
+      "business": "Reckless Records",
+      "website": "https://www.reckless.com",
+      "duration": null
+    },
+    {
+      "title": "Myopic Books",
+      "note": "Wander all three floors",
+      "business": "Myopic Books",
+      "website": "https://www.myopicbookstore.com",
+      "duration": null
+    },
+    {
+      "title": "Green City Market",
+      "note": "Browse and buy seasonal produce",
+      "business": "Green City Market",
+      "website": "https://www.greencitymarket.org",
+      "duration": null
+    },
+    {
+      "title": "Quimby's Bookstore",
+      "note": "Zine section",
+      "business": "Quimby's Bookstore",
+      "website": "https://www.quimbys.com",
+      "duration": null
+    },
+    {
+      "title": "Chicago Athletic Association",
+      "note": "Drinks at Cindy's Rooftop, Drawing Room cocktails",
+      "business": "Chicago Athletic Association",
+      "website": "https://www.chicagoathletichotel.com",
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Vito & Nick's",
+      "note": "Sausage tavern-style, square cut",
+      "business": "Vito & Nick's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Johnnie's Beef",
+      "note": "Italian beef, dipped, hot peppers",
+      "business": "Johnnie's Beef",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Gene & Jude's",
+      "note": "Depression Dog with fries on top",
+      "business": "Gene & Jude's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Birrieria Zaragoza",
+      "note": "Birria tacos and consommé",
+      "business": "Birrieria Zaragoza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Taqueria Chingón",
+      "note": "Al pastor, duck carnitas tacos",
+      "business": "Taqueria Chingón",
+      "website": "https://www.taqueriachingon.com",
+      "duration": null
+    },
+    {
+      "title": "Pat's Pizza",
+      "note": "Sausage and onion, tavern cut",
+      "business": "Pat's Pizza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Al's #1 Italian Beef",
+      "note": "Italian beef combo — dipped, hot peppers",
+      "business": "Al's #1 Italian Beef",
+      "website": "https://www.alsbeef.com",
+      "duration": null
+    },
+    {
+      "title": "Superdawg Drive-In",
+      "note": "Superdawg with Superonion rings",
+      "business": "Superdawg Drive-In",
+      "website": "https://www.superdawg.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Rosa's Lounge",
+      "note": "Any weeknight show — small room, big sound",
+      "business": "Rosa's Lounge",
+      "website": "https://www.rosaslounge.com",
+      "duration": null
+    },
+    {
+      "title": "Green Mill Cocktail Lounge",
+      "note": "Sunday Poetry Slam, any weeknight jazz set",
+      "business": "Green Mill Cocktail Lounge",
+      "website": "https://www.greenmilljazz.com",
+      "duration": null
+    },
+    {
+      "title": "Kumiko",
+      "note": "Seasonal cocktail omakase",
+      "business": "Kumiko",
+      "website": "https://www.baborchicago.com/kumiko",
+      "duration": null
+    },
+    {
+      "title": "Dovetail Brewery",
+      "note": "Hefeweizen, Vienna Lager",
+      "business": "Dovetail Brewery",
+      "website": "https://www.dovetailbrewery.com",
+      "duration": null
+    },
+    {
+      "title": "Buddy Guy's Legends",
+      "note": "Catch Buddy Guy in January",
+      "business": "Buddy Guy's Legends",
+      "website": "https://www.buddyguy.com",
+      "duration": null
+    },
+    {
+      "title": "Winter's Jazz Club",
+      "note": "Any show — 50 seats means you're IN it",
+      "business": "Winter's Jazz Club",
+      "website": "https://www.wintersjazzclub.com",
+      "duration": null
+    },
+    {
+      "title": "The Violet Hour",
+      "note": "Seasonal cocktail menu",
+      "business": "The Violet Hour",
+      "website": "https://www.theviolethour.com",
+      "duration": null
+    },
+    {
+      "title": "Lost Lake",
+      "note": "Jungle Bird, Painkiller",
+      "business": "Lost Lake",
+      "website": "https://www.lostlaketiki.com",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Smyth",
+      "note": "Full tasting menu — changes with what the farm sends",
+      "business": "Smyth",
+      "website": "https://www.smythrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Alinea",
+      "note": "The full tasting — there is no à la carte",
+      "business": "Alinea",
+      "website": "https://www.alinearestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Ever",
+      "note": "Tasting menu",
+      "business": "Ever",
+      "website": "https://www.everrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Kasama",
+      "note": "Evening tasting menu (daytime is a bakery/brunch counter)",
+      "business": "Kasama",
+      "website": "https://www.kasamachicago.com",
+      "duration": null
+    },
+    {
+      "title": "Oriole",
+      "note": "Tasting menu",
+      "business": "Oriole",
+      "website": "https://www.oriolechicago.com",
+      "duration": null
+    },
+    {
+      "title": "Indienne",
+      "note": "Tasting menu",
+      "business": "Indienne",
+      "website": "https://www.indiennechicago.com",
+      "duration": null
+    },
+    {
+      "title": "El Ideas",
+      "note": "Full tasting — BYOB your best bottle",
+      "business": "El Ideas",
+      "website": "https://www.elideas.com",
+      "duration": null
+    },
+    {
+      "title": "Ciccio Mio",
+      "note": "Fresh pasta — whatever the special is",
+      "business": "Ciccio Mio",
+      "website": "https://www.cicciomio.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Smyth",
+      "note": "Full tasting menu — changes with what the farm sends",
+      "business": "Smyth",
+      "website": "https://www.smythrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Alinea",
+      "note": "The full tasting — there is no à la carte",
+      "business": "Alinea",
+      "website": "https://www.alinearestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Ever",
+      "note": "Tasting menu",
+      "business": "Ever",
+      "website": "https://www.everrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Kasama",
+      "note": "Evening tasting menu (daytime is a bakery/brunch counter)",
+      "business": "Kasama",
+      "website": "https://www.kasamachicago.com",
+      "duration": null
+    },
+    {
+      "title": "Oriole",
+      "note": "Tasting menu",
+      "business": "Oriole",
+      "website": "https://www.oriolechicago.com",
+      "duration": null
+    },
+    {
+      "title": "Indienne",
+      "note": "Tasting menu",
+      "business": "Indienne",
+      "website": "https://www.indiennechicago.com",
+      "duration": null
+    },
+    {
+      "title": "El Ideas",
+      "note": "Full tasting — BYOB your best bottle",
+      "business": "El Ideas",
+      "website": "https://www.elideas.com",
+      "duration": null
+    },
+    {
+      "title": "Ciccio Mio",
+      "note": "Fresh pasta — whatever the special is",
+      "business": "Ciccio Mio",
+      "website": "https://www.cicciomio.com",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Chicago Architecture Center River Cruise",
+      "note": "90-minute cruise, not the shorter version",
+      "business": "Chicago Architecture Center River Cruise",
+      "website": "https://www.architecture.org",
+      "duration": null
+    },
+    {
+      "title": "Smyth",
+      "note": "Full tasting menu — changes with what the farm sends",
+      "business": "Smyth",
+      "website": "https://www.smythrestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Alinea",
+      "note": "The full tasting — there is no à la carte",
+      "business": "Alinea",
+      "website": "https://www.alinearestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Art Institute of Chicago",
+      "note": "Impressionist galleries, Thorne Miniature Rooms",
+      "business": "Art Institute of Chicago",
+      "website": "https://www.artic.edu",
+      "duration": null
+    },
+    {
+      "title": "Millennium Park",
+      "note": "Bean photo, free concert at Pritzker Pavilion",
+      "business": "Millennium Park",
+      "website": "https://www.chicago.gov/millenniumpark",
+      "duration": null
+    },
+    {
+      "title": "The Langham Chicago",
+      "note": "Afternoon tea, Chuan Spa",
+      "business": "The Langham Chicago",
+      "website": "https://www.langhamhotels.com/chicago",
+      "duration": null
+    },
+    {
+      "title": "The Peninsula Chicago",
+      "note": "Peninsula Spa, Z Bar rooftop",
+      "business": "The Peninsula Chicago",
+      "website": "https://www.peninsula.com/en/chicago",
+      "duration": null
+    },
+    {
+      "title": "Ever",
+      "note": "Tasting menu",
+      "business": "Ever",
+      "website": "https://www.everrestaurant.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Second City",
+      "note": "Mainstage revue",
+      "business": "Second City",
+      "website": "https://www.secondcity.com",
+      "duration": null
+    },
+    {
+      "title": "Rosa's Lounge",
+      "note": "Any weeknight show — small room, big sound",
+      "business": "Rosa's Lounge",
+      "website": "https://www.rosaslounge.com",
+      "duration": null
+    },
+    {
+      "title": "Green Mill Cocktail Lounge",
+      "note": "Sunday Poetry Slam, any weeknight jazz set",
+      "business": "Green Mill Cocktail Lounge",
+      "website": "https://www.greenmilljazz.com",
+      "duration": null
+    },
+    {
+      "title": "Buddy Guy's Legends",
+      "note": "Catch Buddy Guy in January",
+      "business": "Buddy Guy's Legends",
+      "website": "https://www.buddyguy.com",
+      "duration": null
+    },
+    {
+      "title": "Winter's Jazz Club",
+      "note": "Any show — 50 seats means you're IN it",
+      "business": "Winter's Jazz Club",
+      "website": "https://www.wintersjazzclub.com",
+      "duration": null
+    },
+    {
+      "title": "Kingston Mines",
+      "note": "Just show up — the music is the thing",
+      "business": "Kingston Mines",
+      "website": "https://www.kingstonmines.com",
+      "duration": null
+    },
+    {
+      "title": "Jazz Showcase",
+      "note": "Sunday matinee (family-friendly)",
+      "business": "Jazz Showcase",
+      "website": "https://www.jazzshowcase.com",
+      "duration": null
+    },
+    {
+      "title": "Smartbar",
+      "note": "Late-night DJ set — this is where house was born",
+      "business": "Smartbar",
+      "website": "https://www.smartbarchicago.com",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Art Institute of Chicago",
+      "note": "Impressionist galleries, Thorne Miniature Rooms",
+      "business": "Art Institute of Chicago",
+      "website": "https://www.artic.edu",
+      "duration": null
+    },
+    {
+      "title": "Millennium Park",
+      "note": "Bean photo, free concert at Pritzker Pavilion",
+      "business": "Millennium Park",
+      "website": "https://www.chicago.gov/millenniumpark",
+      "duration": null
+    },
+    {
+      "title": "Museum of Science and Industry",
+      "note": "U-505 submarine tour, Science Storms",
+      "business": "Museum of Science and Industry",
+      "website": "https://www.msichicago.org",
+      "duration": null
+    },
+    {
+      "title": "National Museum of Mexican Art",
+      "note": "Permanent collection, Day of the Dead (Oct)",
+      "business": "National Museum of Mexican Art",
+      "website": "https://www.nationalmuseumofmexicanart.org",
+      "duration": null
+    },
+    {
+      "title": "Garfield Park Conservatory",
+      "note": "Palm House, Fern Room",
+      "business": "Garfield Park Conservatory",
+      "website": "https://www.garfieldconservatory.org",
+      "duration": null
+    },
+    {
+      "title": "Maggie Daley Park",
+      "note": "Skating Ribbon in winter, climbing wall in summer",
+      "business": "Maggie Daley Park",
+      "website": "https://www.maggiedaleypark.com",
+      "duration": null
+    },
+    {
+      "title": "Field Museum",
+      "note": "SUE, Underground Adventure",
+      "business": "Field Museum",
+      "website": "https://www.fieldmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Lou Malnati's Pizzeria",
+      "note": "The Malnati Chicago Classic",
+      "business": "Lou Malnati's Pizzeria",
+      "website": "https://www.loumalnatis.com",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Art Institute of Chicago",
+      "note": "Impressionist galleries, Thorne Miniature Rooms",
+      "business": "Art Institute of Chicago",
+      "website": "https://www.artic.edu",
+      "duration": null
+    },
+    {
+      "title": "Museum of Science and Industry",
+      "note": "U-505 submarine tour, Science Storms",
+      "business": "Museum of Science and Industry",
+      "website": "https://www.msichicago.org",
+      "duration": null
+    },
+    {
+      "title": "National Museum of Mexican Art",
+      "note": "Permanent collection, Day of the Dead (Oct)",
+      "business": "National Museum of Mexican Art",
+      "website": "https://www.nationalmuseumofmexicanart.org",
+      "duration": null
+    },
+    {
+      "title": "Seminary Co-op Bookstores",
+      "note": "Browse the philosophy and history sections",
+      "business": "Seminary Co-op Bookstores",
+      "website": "https://www.semcoop.com",
+      "duration": null
+    },
+    {
+      "title": "Women & Children First",
+      "note": "Author event calendar, curated staff picks",
+      "business": "Women & Children First",
+      "website": "https://www.womenandchildrenfirst.com",
+      "duration": null
+    },
+    {
+      "title": "AIRE Ancient Baths",
+      "note": "Thermal bath circuit",
+      "business": "AIRE Ancient Baths",
+      "website": "https://www.beaire.com/en/aire-ancient-baths-chicago",
+      "duration": null
+    },
+    {
+      "title": "Field Museum",
+      "note": "SUE, Underground Adventure",
+      "business": "Field Museum",
+      "website": "https://www.fieldmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Driehaus Museum",
+      "note": "The stained glass collection, period rooms",
+      "business": "Driehaus Museum",
+      "website": "https://www.driehausmuseum.org",
+      "duration": null
+    }
+  ]
+}

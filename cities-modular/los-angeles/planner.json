@@ -1,0 +1,684 @@
+{
+  "morning_starts": [
+    {
+      "title": "Proof Bakery",
+      "note": "Almond croissant and seasonal fruit galette.",
+      "business": "Proof Bakery",
+      "website": "https://proofbakeryatwater.com",
+      "duration": null
+    },
+    {
+      "title": "Bub & Grandma's",
+      "note": "Sourdough croissant and the pizza.",
+      "business": "Bub & Grandma's",
+      "website": "https://bubandgrandmas.com",
+      "duration": null
+    },
+    {
+      "title": "Clark Street Bread",
+      "note": "Country loaf and morning bun.",
+      "business": "Clark Street Bread",
+      "website": "https://clarkstreetbread.com",
+      "duration": null
+    },
+    {
+      "title": "HomeState",
+      "note": "The Houston and queso.",
+      "business": "HomeState",
+      "website": "https://myhomestate.com",
+      "duration": null
+    },
+    {
+      "title": "Republique",
+      "note": "Weekend brunch — short rib hash and any pastry.",
+      "business": "Republique",
+      "website": "https://republiquela.com",
+      "duration": null
+    },
+    {
+      "title": "Sqirl",
+      "note": "Sorrel pesto rice bowl (daytime), smoked beet agnolotti (dinner).",
+      "business": "Sqirl",
+      "website": "https://sqirlla.com",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "El Matador State Beach",
+      "note": "Sunset through the sea caves.",
+      "business": "El Matador State Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Manhattan Beach",
+      "note": "Walk the pier at sunset, then dinner on Manhattan Beach Blvd.",
+      "business": "Manhattan Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Griffith Park",
+      "note": "Hike to the Hollywood Sign via Mt. Hollywood Trail.",
+      "business": "Griffith Park",
+      "website": "https://laparks.org/griffithpark",
+      "duration": null
+    },
+    {
+      "title": "The Strand (Marvin Braude Bike Trail)",
+      "note": "Rent a cruiser in Santa Monica and ride to Manhattan Beach.",
+      "business": "The Strand (Marvin Braude Bike Trail)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Topanga State Park",
+      "note": "Los Liones Trail to Parker Mesa Overlook.",
+      "business": "Topanga State Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Surfrider Beach",
+      "note": "Golden hour from the Malibu Pier.",
+      "business": "Surfrider Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Runyon Canyon Park",
+      "note": "Full loop to the top for the 360° view.",
+      "business": "Runyon Canyon Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Temescal Gateway Park",
+      "note": "Full Temescal Ridge loop for canyon-to-ocean views.",
+      "business": "Temescal Gateway Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Griffith Observatory",
+      "note": "Sunset from the west terrace.",
+      "business": "Griffith Observatory",
+      "website": "https://griffithobservatory.org",
+      "duration": null
+    },
+    {
+      "title": "Walt Disney Concert Hall",
+      "note": "Self-guided architecture tour (free).",
+      "business": "Walt Disney Concert Hall",
+      "website": "https://laphil.com",
+      "duration": null
+    },
+    {
+      "title": "The Getty Center",
+      "note": "The Central Garden and Van Gogh's Irises.",
+      "business": "The Getty Center",
+      "website": "https://getty.edu",
+      "duration": null
+    },
+    {
+      "title": "LACMA",
+      "note": "Chris Burden's Urban Light installation at dusk (free, outdoor).",
+      "business": "LACMA",
+      "website": "https://lacma.org",
+      "duration": null
+    },
+    {
+      "title": "Petersen Automotive Museum",
+      "note": "The Vault tour (extra $) for the real gems.",
+      "business": "Petersen Automotive Museum",
+      "website": "https://petersen.org",
+      "duration": null
+    },
+    {
+      "title": "The Getty Villa",
+      "note": "Outer peristyle garden overlooking the Pacific.",
+      "business": "The Getty Villa",
+      "website": "https://getty.edu/villa",
+      "duration": null
+    },
+    {
+      "title": "Warner Bros Studio Tour",
+      "note": "The backlot walking tour.",
+      "business": "Warner Bros Studio Tour",
+      "website": "https://wbstudiotour.com",
+      "duration": null
+    },
+    {
+      "title": "Hollywood Pantages Theatre",
+      "note": "Whatever Broadway touring show is running.",
+      "business": "Hollywood Pantages Theatre",
+      "website": "https://broadwayinhollywood.com",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Downtown LA Proper",
+      "note": "Sunset drinks at Cara Cara rooftop.",
+      "business": "Downtown LA Proper",
+      "website": "https://properhotel.com/downtown-la",
+      "duration": null
+    },
+    {
+      "title": "Abbot Kinney Boulevard",
+      "note": "First Friday food truck events.",
+      "business": "Abbot Kinney Boulevard",
+      "website": "https://abbotkinneyblvd.com",
+      "duration": null
+    },
+    {
+      "title": "Melrose Trading Post",
+      "note": "Vintage denim hunting.",
+      "business": "Melrose Trading Post",
+      "website": "https://melrosetradingpost.org",
+      "duration": null
+    },
+    {
+      "title": "Santa Monica Proper",
+      "note": "Rooftop pool and Calabra for dinner.",
+      "business": "Santa Monica Proper",
+      "website": "https://properhotel.com/santa-monica",
+      "duration": null
+    },
+    {
+      "title": "The Grove + Original Farmers Market",
+      "note": "Original Farmers Market next door — 100+ vendors since 1934.",
+      "business": "The Grove + Original Farmers Market",
+      "website": "https://thegrovela.com",
+      "duration": null
+    },
+    {
+      "title": "Hotel Figueroa",
+      "note": "Poolside cocktails at the Veranda.",
+      "business": "Hotel Figueroa",
+      "website": "https://hotelfigueroa.com",
+      "duration": null
+    },
+    {
+      "title": "Rose Bowl Flea Market",
+      "note": "Get there at 5am for VIP early access ($25).",
+      "business": "Rose Bowl Flea Market",
+      "website": "https://rgcshows.com/rosebowl",
+      "duration": null
+    },
+    {
+      "title": "Freehand Los Angeles",
+      "note": "Drinks at Broken Shaker rooftop.",
+      "business": "Freehand Los Angeles",
+      "website": "https://freehandhotels.com/los-angeles",
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Bay Cities Italian Deli",
+      "note": "The Godmother — Italian meats, peppers, the works.",
+      "business": "Bay Cities Italian Deli",
+      "website": "https://baycitiesitaliandeli.com",
+      "duration": null
+    },
+    {
+      "title": "Porto's Bakery & Cafe",
+      "note": "Cheese roll (refugiado) and guava strudel.",
+      "business": "Porto's Bakery & Cafe",
+      "website": "https://portosbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Guisados",
+      "note": "Taco sampler plate (6 mini tacos).",
+      "business": "Guisados",
+      "website": "https://guisados.co",
+      "duration": null
+    },
+    {
+      "title": "Mariscos Jalisco",
+      "note": "Shrimp tacos dorados — accept no substitutes.",
+      "business": "Mariscos Jalisco",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Zankou Chicken",
+      "note": "Half chicken with garlic sauce.",
+      "business": "Zankou Chicken",
+      "website": "https://zankouchicken.com",
+      "duration": null
+    },
+    {
+      "title": "Sapp Coffee Shop",
+      "note": "Jade noodle soup.",
+      "business": "Sapp Coffee Shop",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "HomeState",
+      "note": "The Houston and queso.",
+      "business": "HomeState",
+      "website": "https://myhomestate.com",
+      "duration": null
+    },
+    {
+      "title": "Grand Central Market",
+      "note": "Egg sandwich from Eggslut, tacos from Tacos Tumbras a Tomas.",
+      "business": "Grand Central Market",
+      "website": "https://grandcentralmarket.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "The Hollywood Bowl",
+      "note": "Any show — the experience transcends the performer.",
+      "business": "The Hollywood Bowl",
+      "website": "https://hollywoodbowl.com",
+      "duration": null
+    },
+    {
+      "title": "Tiki-Ti",
+      "note": "Ray's Mistake.",
+      "business": "Tiki-Ti",
+      "website": "https://tiki-ti.com",
+      "duration": null
+    },
+    {
+      "title": "The Greek Theatre",
+      "note": "Hike Griffith Park before the show.",
+      "business": "The Greek Theatre",
+      "website": "https://lagreektheatre.com",
+      "duration": null
+    },
+    {
+      "title": "Death & Co",
+      "note": "Oaxaca Old Fashioned.",
+      "business": "Death & Co",
+      "website": "https://deathandcompany.com",
+      "duration": null
+    },
+    {
+      "title": "Groundlings Theatre",
+      "note": "Sunday Company show.",
+      "business": "Groundlings Theatre",
+      "website": "https://groundlings.com",
+      "duration": null
+    },
+    {
+      "title": "The Comedy Store",
+      "note": "The Original Room lineup — you never know who'll show up.",
+      "business": "The Comedy Store",
+      "website": "https://thecomedystore.com",
+      "duration": null
+    },
+    {
+      "title": "The Troubadour",
+      "note": "Any show — the sound is perfect for the room.",
+      "business": "The Troubadour",
+      "website": "https://troubadour.com",
+      "duration": null
+    },
+    {
+      "title": "The Roger Room",
+      "note": "Dealer's choice — tell the bartender what you like.",
+      "business": "The Roger Room",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Lielle",
+      "note": "Aged striped jack with gooseberry.",
+      "business": "Lielle",
+      "website": "https://lielle.la",
+      "duration": null
+    },
+    {
+      "title": "Wilde's",
+      "note": "The rotating daily meat pie.",
+      "business": "Wilde's",
+      "website": "https://wildesla.com",
+      "duration": null
+    },
+    {
+      "title": "Sea Harbour Seafood Restaurant",
+      "note": "Har gow (shrimp dumplings) and baked BBQ pork buns.",
+      "business": "Sea Harbour Seafood Restaurant",
+      "website": "https://seaharbour.com",
+      "duration": null
+    },
+    {
+      "title": "Kato",
+      "note": "Tapioca boba with brown butter and caviar.",
+      "business": "Kato",
+      "website": "https://katorestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Sushi Ginza Onodera",
+      "note": "20+ course omakase — seasonal.",
+      "business": "Sushi Ginza Onodera",
+      "website": "https://sushiginzaonodera.com",
+      "duration": null
+    },
+    {
+      "title": "Broken Spanish Comedor",
+      "note": "Albondigas with duck and bacon, crispy chicharrón in garlic mojo.",
+      "business": "Broken Spanish Comedor",
+      "website": "https://brokenspanishcomedor.com",
+      "duration": null
+    },
+    {
+      "title": "Guelaguetza",
+      "note": "Festival de Moles and a michelada.",
+      "business": "Guelaguetza",
+      "website": "https://ilovemole.com",
+      "duration": null
+    },
+    {
+      "title": "Hermon's",
+      "note": "Mushroom Bourguignon and the pull-apart garlic bread.",
+      "business": "Hermon's",
+      "website": "https://hermonsla.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Lielle",
+      "note": "Aged striped jack with gooseberry.",
+      "business": "Lielle",
+      "website": "https://lielle.la",
+      "duration": null
+    },
+    {
+      "title": "Wilde's",
+      "note": "The rotating daily meat pie.",
+      "business": "Wilde's",
+      "website": "https://wildesla.com",
+      "duration": null
+    },
+    {
+      "title": "Kato",
+      "note": "Tapioca boba with brown butter and caviar.",
+      "business": "Kato",
+      "website": "https://katorestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Sushi Ginza Onodera",
+      "note": "20+ course omakase — seasonal.",
+      "business": "Sushi Ginza Onodera",
+      "website": "https://sushiginzaonodera.com",
+      "duration": null
+    },
+    {
+      "title": "Hermon's",
+      "note": "Mushroom Bourguignon and the pull-apart garlic bread.",
+      "business": "Hermon's",
+      "website": "https://hermonsla.com",
+      "duration": null
+    },
+    {
+      "title": "Providence",
+      "note": "Chef's tasting menu — let them drive.",
+      "business": "Providence",
+      "website": "https://providencela.com",
+      "duration": null
+    },
+    {
+      "title": "BAR di Bello",
+      "note": "Negroni di Basso and Penne di Bello.",
+      "business": "BAR di Bello",
+      "website": "https://bardibello.la",
+      "duration": null
+    },
+    {
+      "title": "Sushi Gen",
+      "note": "Sashimi deluxe lunch special.",
+      "business": "Sushi Gen",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Lielle",
+      "note": "Aged striped jack with gooseberry.",
+      "business": "Lielle",
+      "website": "https://lielle.la",
+      "duration": null
+    },
+    {
+      "title": "Griffith Observatory",
+      "note": "Sunset from the west terrace.",
+      "business": "Griffith Observatory",
+      "website": "https://griffithobservatory.org",
+      "duration": null
+    },
+    {
+      "title": "Walt Disney Concert Hall",
+      "note": "Self-guided architecture tour (free).",
+      "business": "Walt Disney Concert Hall",
+      "website": "https://laphil.com",
+      "duration": null
+    },
+    {
+      "title": "The Getty Center",
+      "note": "The Central Garden and Van Gogh's Irises.",
+      "business": "The Getty Center",
+      "website": "https://getty.edu",
+      "duration": null
+    },
+    {
+      "title": "The Hollywood Bowl",
+      "note": "Any show — the experience transcends the performer.",
+      "business": "The Hollywood Bowl",
+      "website": "https://hollywoodbowl.com",
+      "duration": null
+    },
+    {
+      "title": "Wilde's",
+      "note": "The rotating daily meat pie.",
+      "business": "Wilde's",
+      "website": "https://wildesla.com",
+      "duration": null
+    },
+    {
+      "title": "Kato",
+      "note": "Tapioca boba with brown butter and caviar.",
+      "business": "Kato",
+      "website": "https://katorestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Sushi Ginza Onodera",
+      "note": "20+ course omakase — seasonal.",
+      "business": "Sushi Ginza Onodera",
+      "website": "https://sushiginzaonodera.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "The Hollywood Bowl",
+      "note": "Any show — the experience transcends the performer.",
+      "business": "The Hollywood Bowl",
+      "website": "https://hollywoodbowl.com",
+      "duration": null
+    },
+    {
+      "title": "The Greek Theatre",
+      "note": "Hike Griffith Park before the show.",
+      "business": "The Greek Theatre",
+      "website": "https://lagreektheatre.com",
+      "duration": null
+    },
+    {
+      "title": "Groundlings Theatre",
+      "note": "Sunday Company show.",
+      "business": "Groundlings Theatre",
+      "website": "https://groundlings.com",
+      "duration": null
+    },
+    {
+      "title": "The Comedy Store",
+      "note": "The Original Room lineup — you never know who'll show up.",
+      "business": "The Comedy Store",
+      "website": "https://thecomedystore.com",
+      "duration": null
+    },
+    {
+      "title": "The Troubadour",
+      "note": "Any show — the sound is perfect for the room.",
+      "business": "The Troubadour",
+      "website": "https://troubadour.com",
+      "duration": null
+    },
+    {
+      "title": "The Laugh Factory",
+      "note": "Late show on a Friday.",
+      "business": "The Laugh Factory",
+      "website": "https://laughfactory.com",
+      "duration": null
+    },
+    {
+      "title": "Blue Note LA",
+      "note": "Any headline act — the room is incredible.",
+      "business": "Blue Note LA",
+      "website": "https://bluenotela.com",
+      "duration": null
+    },
+    {
+      "title": "Whisky A Go Go",
+      "note": "Any live show — the history is in the walls.",
+      "business": "Whisky A Go Go",
+      "website": "https://whiskyagogo.com",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Griffith Observatory",
+      "note": "Sunset from the west terrace.",
+      "business": "Griffith Observatory",
+      "website": "https://griffithobservatory.org",
+      "duration": null
+    },
+    {
+      "title": "The Getty Center",
+      "note": "The Central Garden and Van Gogh's Irises.",
+      "business": "The Getty Center",
+      "website": "https://getty.edu",
+      "duration": null
+    },
+    {
+      "title": "The Hollywood Bowl",
+      "note": "Any show — the experience transcends the performer.",
+      "business": "The Hollywood Bowl",
+      "website": "https://hollywoodbowl.com",
+      "duration": null
+    },
+    {
+      "title": "Sea Harbour Seafood Restaurant",
+      "note": "Har gow (shrimp dumplings) and baked BBQ pork buns.",
+      "business": "Sea Harbour Seafood Restaurant",
+      "website": "https://seaharbour.com",
+      "duration": null
+    },
+    {
+      "title": "Guelaguetza",
+      "note": "Festival de Moles and a michelada.",
+      "business": "Guelaguetza",
+      "website": "https://ilovemole.com",
+      "duration": null
+    },
+    {
+      "title": "LACMA",
+      "note": "Chris Burden's Urban Light installation at dusk (free, outdoor).",
+      "business": "LACMA",
+      "website": "https://lacma.org",
+      "duration": null
+    },
+    {
+      "title": "Petersen Automotive Museum",
+      "note": "The Vault tour (extra $) for the real gems.",
+      "business": "Petersen Automotive Museum",
+      "website": "https://petersen.org",
+      "duration": null
+    },
+    {
+      "title": "Warner Bros Studio Tour",
+      "note": "The backlot walking tour.",
+      "business": "Warner Bros Studio Tour",
+      "website": "https://wbstudiotour.com",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "The Getty Center",
+      "note": "The Central Garden and Van Gogh's Irises.",
+      "business": "The Getty Center",
+      "website": "https://getty.edu",
+      "duration": null
+    },
+    {
+      "title": "LACMA",
+      "note": "Chris Burden's Urban Light installation at dusk (free, outdoor).",
+      "business": "LACMA",
+      "website": "https://lacma.org",
+      "duration": null
+    },
+    {
+      "title": "Petersen Automotive Museum",
+      "note": "The Vault tour (extra $) for the real gems.",
+      "business": "Petersen Automotive Museum",
+      "website": "https://petersen.org",
+      "duration": null
+    },
+    {
+      "title": "The Getty Villa",
+      "note": "Outer peristyle garden overlooking the Pacific.",
+      "business": "The Getty Villa",
+      "website": "https://getty.edu/villa",
+      "duration": null
+    },
+    {
+      "title": "Hollywood Pantages Theatre",
+      "note": "Whatever Broadway touring show is running.",
+      "business": "Hollywood Pantages Theatre",
+      "website": "https://broadwayinhollywood.com",
+      "duration": null
+    },
+    {
+      "title": "Academy Museum of Motion Pictures",
+      "note": "The Spielberg Gallery and the dome theater.",
+      "business": "Academy Museum of Motion Pictures",
+      "website": "https://academymuseum.org",
+      "duration": null
+    },
+    {
+      "title": "California Science Center",
+      "note": "Space Shuttle Endeavour exhibit.",
+      "business": "California Science Center",
+      "website": "https://californiasciencecenter.org",
+      "duration": null
+    },
+    {
+      "title": "Natural History Museum of LA",
+      "note": "Dinosaur Hall and the Nature Gardens.",
+      "business": "Natural History Museum of LA",
+      "website": "https://nhm.org",
+      "duration": null
+    }
+  ]
+}

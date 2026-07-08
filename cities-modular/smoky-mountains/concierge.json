@@ -1,0 +1,663 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "hey",
+      "menu",
+      "start"
+    ],
+    "text": "Welcome to the Smokies! I can point you to the best food, the right trails for your skill level, where to taste moonshine without getting trampled by tourists, what's happening this week, or where to stay. What are you in the mood for?",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best hike for me",
+      "Moonshine trail",
+      "What's happening today?",
+      "Where should I stay?",
+      "Things to do with kids"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "lunch"
+    ],
+    "text": "Depends what you're after. If you want the best steak in the area, walk into The Peddler on River Road in Gatlinburg — they cut the meat tableside and it's not even close. For something more creative, The Greenbrier is tucked off the main road and the duck breast will change your life. If you're in Knoxville, J.C. Holdway is James Beard-level and worth the drive. Or are you just wanting good casual food that won't break you?",
+    "businesses": [
+      "The Peddler Steakhouse",
+      "The Greenbrier Restaurant",
+      "J.C. Holdway"
+    ],
+    "chips": [
+      "Best casual food",
+      "Where for breakfast?",
+      "Knoxville restaurants",
+      "Best BBQ",
+      "Seafood options",
+      "Kid-friendly dining"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "pancakes",
+      "morning",
+      "brunch"
+    ],
+    "text": "Listen — the Pancake Pantry has been here since 1960 and there's a line for a reason. Austrian apple-walnut pancakes. That's the order. Don't let anyone talk you into one of the twenty knockoff pancake joints on the strip. If you want something less tourist-heavy, Split Rail Eats in Gatlinburg does Sunday brunch with biscuits that'll make you reconsider your whole life. In Knoxville, Tupelo Honey on Market Square does killer brunch — shrimp and grits, fried green tomatoes.",
+    "businesses": [
+      "Pancake Pantry",
+      "Split Rail Eats",
+      "Tupelo Honey"
+    ],
+    "chips": [
+      "Best donuts?",
+      "Coffee spots",
+      "Where to eat in Knoxville",
+      "Lunch recommendations"
+    ]
+  },
+  {
+    "keys": [
+      "casual",
+      "cheap",
+      "budget",
+      "quick"
+    ],
+    "text": "Huck Finn's Catfish in Pigeon Forge — all-you-can-eat fried catfish for practically nothing. The fish is perfect. Mel's Classic Diner is a 50s throwback with solid burgers and milkshakes that kids lose their minds over. Blue Moose does burgers and wings if you want something with craft beer. And The Donut Friar in The Village Shops — get there before they sell out. Cinnamon bread loaf. Trust me.",
+    "businesses": [
+      "Huck Finn's Catfish",
+      "Mel's Classic Diner",
+      "Blue Moose Burgers & Wings",
+      "The Donut Friar"
+    ],
+    "chips": [
+      "Best donuts?",
+      "Dinner options",
+      "Where's the moonshine?",
+      "Family dining"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "nightlife",
+      "going out"
+    ],
+    "text": "The moonshine distilleries are the main event — Ole Smoky and Sugarlands are the big two. But if you want a REAL bar, Tom and Earl's Back Alley Grill in Gatlinburg is where the locals actually go. Great cocktails, no tourist chaos. Loco Burro has rooftop margaritas and a mechanical donkey. For Knoxville nightlife: Peter Kern Library is a hidden speakeasy inside The Oliver Hotel (look for the red light), Preservation Pub has three floors and live music most nights, and Maple Hall is upscale bowling with craft cocktails.",
+    "businesses": [
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "Sugarlands Distilling Co.",
+      "Tom and Earl's Back Alley Grill",
+      "Loco Burro Fresh Mex Cantina",
+      "Peter Kern Library",
+      "Preservation Pub",
+      "Maple Hall"
+    ],
+    "chips": [
+      "Moonshine tasting",
+      "Best cocktails",
+      "Live music tonight",
+      "Wine options",
+      "Knoxville bars"
+    ]
+  },
+  {
+    "keys": [
+      "moonshine",
+      "distillery",
+      "tasting",
+      "shine"
+    ],
+    "text": "Here's the move: Start at Sugarlands Distilling Co. — the front is the standard $5 tasting of 12 flavors, but the BACK BAR is the secret. Cocktails on a patio away from the Parkway madness. Then hit Ole Smoky (the Holler) for the live music and the classic flavors — Apple Pie and White Lightnin'. Doc Collier uses spring water and has the best cinnamon moonshine (Firecracker). If you make it to Pigeon Forge, Old Forge Distillery at the Old Mill grinds their own grains. Junction 35 has the wildest flavors — Sour Gummy Worm moonshine is... an experience.",
+    "businesses": [
+      "Sugarlands Distilling Co.",
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "Doc Collier Moonshine Distillery",
+      "Old Forge Distillery",
+      "Junction 35 Spirits"
+    ],
+    "chips": [
+      "Wine trail?",
+      "Best bars",
+      "What about bourbon?",
+      "Can I ship moonshine home?"
+    ]
+  },
+  {
+    "keys": [
+      "hike",
+      "hiking",
+      "trail",
+      "trails",
+      "outdoor",
+      "nature",
+      "waterfall"
+    ],
+    "text": "Depends on your fitness level. Easy: Laurel Falls — 2.6 miles round trip, paved, ends at an 80-foot waterfall. Go early or weekday. Medium: Grotto Falls via Roaring Fork — you walk BEHIND the waterfall. Epic. Hard: Alum Cave Trail — 4.6 miles to the bluffs, 10.9 to the summit of Mt. LeConte where there's a lodge supplied by llamas. Chimney Tops is short but steep with panoramic summit views. And don't sleep on Clingmans Dome — highest point in the park, 360-degree views, just a half-mile paved walk from parking.",
+    "businesses": [
+      "Great Smoky Mountains National Park"
+    ],
+    "chips": [
+      "Easy hikes with kids",
+      "Best waterfall hike",
+      "Where to see bears",
+      "Cades Cove tips",
+      "Knoxville hiking"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "kid-friendly"
+    ],
+    "text": "Dollywood is the anchor — obviously. NightFlight Expedition is brand new for 2026 and it's the world's first hybrid coaster/river ride. Beyond that: Ripley's Aquarium is legitimately one of the best in the Southeast (shark tunnel is incredible). Anakeesta's treewalk village is a hit with kids. The Island in Pigeon Forge is free to walk around and the Great Smoky Mountain Wheel is the photo op. For dinner, Dolly Parton's Stampede — they eat with their hands while horses jump through fire. Kids will talk about it for years.",
+    "businesses": [
+      "Dollywood Theme Park",
+      "Ripley's Aquarium of the Smokies",
+      "Anakeesta",
+      "The Island in Pigeon Forge",
+      "Dolly Parton's Stampede"
+    ],
+    "chips": [
+      "Rainy day activities",
+      "Where to eat with kids",
+      "Best trails for families",
+      "Cabin rentals",
+      "Water park info"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "couples",
+      "anniversary"
+    ],
+    "text": "Start with dinner at The Greenbrier or Crystelle Creek for the creekside vibe. Book a cabin with a hot tub and mountain view — that IS the date. Anakeesta at sunset is gorgeous. In Knoxville, The Melting Pot does fondue date night, Peter Kern Library for speakeasy cocktails, and Wake Foot Sanctuary for a weird-but-wonderful foot soak with wine. If you're feeling fancy, J.C. Holdway or Oliver Royale.",
+    "businesses": [
+      "The Greenbrier Restaurant",
+      "Crystelle Creek Restaurant & Grill",
+      "Anakeesta",
+      "The Melting Pot - Gatlinburg",
+      "Peter Kern Library",
+      "Wake Foot Sanctuary",
+      "J.C. Holdway",
+      "Oliver Royale"
+    ],
+    "chips": [
+      "Best cabin for couples",
+      "Where to propose",
+      "Spa options",
+      "Sunset spots"
+    ]
+  },
+  {
+    "keys": [
+      "stay",
+      "hotel",
+      "cabin",
+      "lodge",
+      "lodging",
+      "where to sleep",
+      "accommodation"
+    ],
+    "text": "Cabins are the Smoky Mountain move. Hot tub, mountain view, game room — that's the standard. Dollywood's DreamMore and HeartSong resorts are top-tier if you want the resort experience with park perks (free TimeSaver passes alone save you 2+ hours of line waiting). The Oliver Hotel in downtown Knoxville is boutique perfection — speakeasy in the basement, Market Square out the front door. Margaritaville at The Island is fun and affordable with a rooftop pool.",
+    "businesses": [
+      "Dollywood's DreamMore Resort and Spa",
+      "Dollywood's HeartSong Lodge & Resort",
+      "The Oliver Hotel",
+      "Margaritaville Island Hotel"
+    ],
+    "chips": [
+      "Best cabin rentals",
+      "Pet-friendly stays",
+      "Budget options",
+      "Knoxville hotels",
+      "Camping in the park"
+    ]
+  },
+  {
+    "keys": [
+      "dollywood",
+      "theme park",
+      "rides",
+      "roller coaster"
+    ],
+    "text": "Dollywood is 160 acres of genuine fun. NightFlight Expedition (new 2026) is the headline — $50M, first-of-its-kind hybrid indoor coaster and river ride. Lightning Rod is the world's fastest wooden coaster. Wildwood Grove (Best Kids' Area 4 years running) keeps little ones busy. The cinnamon bread from the park bakery is mandatory. Pro tip: Go on a Tuesday or Wednesday and buy TimeSaver if it's summer. The Stay-and-Play resort packages include free TimeSaver — that alone is worth it.",
+    "businesses": [
+      "Dollywood Theme Park"
+    ],
+    "chips": [
+      "Dollywood tickets",
+      "Best time to visit",
+      "What's Splash Country like?",
+      "Dining at Dollywood",
+      "Season pass worth it?"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shops",
+      "crafts",
+      "souvenirs"
+    ],
+    "text": "Skip the cheap souvenir shops on the Parkway. The Great Smoky Arts & Crafts Community is an 8-mile loop of 100+ independent artisans — pottery, woodwork, leather. It's the largest independent artisan community in North America and it's the real deal. Old Mill Square in Pigeon Forge has the historic grist mill and General Store. Tanger Outlets in Sevierville if you need Nike or Coach. In Knoxville, Mast General Store on Gay Street for old-fashioned candy and Appalachian goods.",
+    "businesses": [
+      "Great Smoky Arts & Crafts Community",
+      "The Old Mill Square",
+      "Tanger Outlets Sevierville",
+      "Mast General Store - Knoxville"
+    ],
+    "chips": [
+      "Where to buy moonshine",
+      "Handmade gifts",
+      "Knoxville shopping",
+      "What about the Village Shops?"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe"
+    ],
+    "text": "Split Rail Eats uses Mahalo Coffee, a local Knoxville roaster — great cup. Coffee & Chocolate on Market Square in Knoxville has insane truffles and macarons. Towns End Coffee Co. in Gatlinburg just reopened if you want a real third-wave vibe.",
+    "businesses": [
+      "Split Rail Eats",
+      "Coffee & Chocolate"
+    ],
+    "chips": [
+      "Best breakfast spot",
+      "Where to eat downtown Knoxville",
+      "Bakeries and sweets"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "directions",
+      "airport",
+      "drive",
+      "transit"
+    ],
+    "text": "Fly into McGhee Tyson Airport (TYS) in Knoxville — 45 min to Pigeon Forge, about an hour to Gatlinburg. Allegiant, American, Delta, United, Frontier all serve it. Driving from Nashville is about 3.5 hours on I-40 East. From Atlanta, 3.5 hours on I-75 North. Once you're here, you need a car. The Parkway (US-441) connects everything but gets absolutely brutal in peak season — avoid Friday/Saturday mid-afternoon if you can. Gatlinburg has a free trolley that covers the downtown strip.",
+    "businesses": [],
+    "chips": [
+      "Parking tips",
+      "Best time to avoid traffic",
+      "Trolley info",
+      "How far is Knoxville from Gatlinburg?"
+    ]
+  },
+  {
+    "keys": [
+      "events",
+      "happening",
+      "today",
+      "this week",
+      "what's on"
+    ],
+    "text": "Depends on when you're here! Dollywood runs four major festivals: I Will Always Love You (spring), Flower & Food (late spring), Summer Celebration (summer with nightly fireworks), Harvest Festival (fall — the best one), and Smoky Mountain Christmas (winter — 6 million lights). In Knoxville, Market Square has farmers markets Wed/Sat, Jazz Tuesdays in summer, First Friday ArtWalk monthly, and Holidays on Ice skating in winter. New for 2026: Run Dollywood race weekend and Splash Country Neon Nights.",
+    "businesses": [
+      "Dollywood Theme Park"
+    ],
+    "chips": [
+      "Dollywood festivals",
+      "Knoxville events",
+      "Free events",
+      "Family events this week"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "open late"
+    ],
+    "text": "Gatlinburg keeps rolling after dark — Ole Smoky is open till 11PM with live music. Loco Burro and its rooftop bar goes till midnight. Puckers stays open late. In Knoxville, Preservation Pub goes till 3AM with three floors of action. Peter Kern Library is intimate late-night cocktails. The Island in Pigeon Forge stays lit till 11PM with the wheel and fountain show.",
+    "businesses": [
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "Loco Burro Fresh Mex Cantina",
+      "Preservation Pub",
+      "Peter Kern Library",
+      "The Island in Pigeon Forge"
+    ],
+    "chips": [
+      "Best bar crawl route",
+      "Live music tonight",
+      "Late-night food"
+    ]
+  },
+  {
+    "keys": [
+      "knoxville",
+      "downtown knoxville",
+      "market square"
+    ],
+    "text": "Knoxville is the sleeper hit of this trip. Market Square is the hub — Stock & Barrel for burgers, Emilia for Italian, Brass Pearl for oysters, Cafe 4 for the patio. Walk to Gay Street for Mast General Store and the Tennessee Theatre. Peter Kern Library for the speakeasy. Preservation Pub for live music. And the Urban Wilderness is 1,000 acres of trails right in the city — Ijams Nature Center is incredible. Most people skip Knoxville and go straight to the tourist strip. Don't be most people.",
+    "businesses": [
+      "Stock & Barrel",
+      "Emilia",
+      "The Brass Pearl",
+      "Cafe 4",
+      "Peter Kern Library",
+      "Preservation Pub",
+      "Ijams Nature Center",
+      "Mast General Store - Knoxville",
+      "Tennessee Theatre"
+    ],
+    "chips": [
+      "Best restaurant in Knoxville",
+      "Knoxville nightlife",
+      "Knoxville hiking",
+      "Worth a day trip?"
+    ]
+  },
+  {
+    "keys": [
+      "bear",
+      "bears",
+      "wildlife",
+      "animals"
+    ],
+    "text": "GSMNP has about 1,500 black bears. Cades Cove is the most reliable spot for sightings — early morning is best. Stay 50 yards away (that's about two bus lengths). Don't feed them. Don't approach them. Don't take a selfie with them. Seriously. Elk were reintroduced in the Cataloochee Valley area — beautiful to watch at dawn. Also keep your eyes open for wild turkeys, deer, and salamanders (the Smokies are the 'Salamander Capital of the World').",
+    "businesses": [],
+    "chips": [
+      "Cades Cove tips",
+      "Best time for wildlife",
+      "Is it safe?",
+      "Hiking with dogs"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "perfect day",
+      "itinerary",
+      "one day"
+    ],
+    "text": "Here's your perfect Smoky Mountain day: Wake up, hit Pancake Pantry early (be in line by 7:30AM). Drive Roaring Fork Motor Nature Trail — hike to Grotto Falls (walk behind the waterfall, 2.6 miles). Grab lunch at Crystelle Creek or Huck Finn's. Afternoon: moonshine crawl — Sugarlands back bar → Ole Smoky → Doc Collier. Dinner at The Peddler. After dark: stroll The Island in Pigeon Forge for the wheel and fountain show. Collapse into your cabin hot tub. That's a perfect day.",
+    "businesses": [
+      "Pancake Pantry",
+      "Crystelle Creek Restaurant & Grill",
+      "Huck Finn's Catfish",
+      "Sugarlands Distilling Co.",
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "Doc Collier Moonshine Distillery",
+      "The Peddler Steakhouse",
+      "The Island in Pigeon Forge"
+    ],
+    "chips": [
+      "Two-day itinerary",
+      "Rainy day plan",
+      "Best with kids",
+      "Romantic day plan"
+    ]
+  },
+  {
+    "keys": [
+      "rain",
+      "rainy",
+      "weather",
+      "indoor"
+    ],
+    "text": "If it's pouring, half the tourists will be sitting in Parkway traffic. Head to MagiQuest at 2491 Parkway in Pigeon Forge — it'll keep the kids running around a castle for hours. TopJump's trampoline park burns off energy. For adults, do the moonshine crawl (all indoor) or hit The Escape Game at The Island — production quality rivals Disney. If you want dinner AND entertainment, the Hatfield & McCoy Dinner Feud on Music Road is heavy food but guaranteed laughs.",
+    "businesses": [
+      "MagiQuest",
+      "TopJump Trampoline & Extreme Arena",
+      "The Escape Game - Pigeon Forge",
+      "Hatfield & McCoy Dinner Feud"
+    ],
+    "chips": [
+      "Best escape rooms",
+      "Indoor activities for kids",
+      "Rainy day dining",
+      "Arcade options"
+    ]
+  },
+  {
+    "keys": [
+      "view",
+      "photo",
+      "scenic",
+      "overlook",
+      "pictures",
+      "instagram"
+    ],
+    "text": "For the Instagram shot without an 8-mile hike: drive up to the Gatlinburg Overlook on the bypass — clean shot of the town framed by mountains. Ride up Anakeesta and climb the AnaVista Tower for 360-degree panoramas. The SkyBridge glass floor panels are terrifying but the photos are unbeatable. In Knoxville, Strong Alley has the famous Dolly Parton mural and rotating street art. For nature: Clingmans Dome observation tower on a clear day is the best view in the entire park.",
+    "businesses": [
+      "Anakeesta",
+      "Gatlinburg SkyLift Park",
+      "Clingmans Dome"
+    ],
+    "chips": [
+      "Sunset spots",
+      "Where to take family photos",
+      "Best fall foliage viewpoints",
+      "Knoxville murals"
+    ]
+  },
+  {
+    "keys": [
+      "propose",
+      "engagement",
+      "proposal",
+      "ring"
+    ],
+    "text": "Do it at Cades Cove in the early morning mist before traffic hits, right by the historical cabins. Or book the SkyBridge at SkyLift Park — they can reserve a private overlook. Anakeesta at sunset with cocktails at Cliff Top is another winner. If you want it intimate, rent a secluded cabin from Elk Springs with an indoor pool and mountain views and do it on the deck at sunrise. Whatever you do, don't do it in the middle of the Parkway chaos.",
+    "businesses": [
+      "Gatlinburg SkyLift Park",
+      "Anakeesta",
+      "Elk Springs Resort"
+    ],
+    "chips": [
+      "Romantic restaurants for after",
+      "Best cabin for couples",
+      "Photographer recommendations",
+      "Ring shopping?"
+    ]
+  },
+  {
+    "keys": [
+      "bachelor",
+      "bachelorette",
+      "party",
+      "girls trip",
+      "guys trip"
+    ],
+    "text": "Start with a private tasting at Sugarlands back bar in Gatlinburg. Then get the adrenaline fix at CLIMB Works — their zipline courses are world-class for groups. For the girls: Mountain Zen Yoga will bring instructors directly to your cabin for a group session. Recovery day: Smoky Mountain Massage Therapy does in-cabin couples and group massages. Nightlife: Loco Burro rooftop for margaritas, then Preservation Pub's three floors in Knoxville if you want to go hard.",
+    "businesses": [
+      "Sugarlands Distilling Co.",
+      "CLIMB Works Smoky Mountains",
+      "Mountain Zen Yoga",
+      "Smoky Mountain Massage Therapy",
+      "Loco Burro Fresh Mex Cantina",
+      "Preservation Pub"
+    ],
+    "chips": [
+      "Best cabin for groups",
+      "Moonshine crawl route",
+      "Spa options",
+      "Where to go dancing"
+    ]
+  },
+  {
+    "keys": [
+      "dog",
+      "pet",
+      "dog-friendly",
+      "harry"
+    ],
+    "text": "The National Park only allows dogs on two trails: Gatlinburg Trail and Oconaluftee River Trail. Don't plan on bringing Fido into the deep woods. For a Dollywood day, drop your dog at Smoky Dog Lodge in Sevierville on West Main — cage-free play, they treat them like royalty. Many cabins from Cabins for YOU are pet-friendly. Downtown Gatlinburg is dog-friendly for walking. Ole Smoky even allows dogs inside The Holler.",
+    "businesses": [
+      "Smoky Dog Lodge",
+      "Cabins for YOU",
+      "Ole Smoky Moonshine Distillery - The Holler"
+    ],
+    "chips": [
+      "Pet-friendly cabins",
+      "Dog-friendly restaurants",
+      "Can I take my dog hiking?",
+      "Pet boarding costs"
+    ]
+  },
+  {
+    "keys": [
+      "bbq",
+      "barbecue",
+      "brisket",
+      "ribs",
+      "smoked"
+    ],
+    "text": "Calhoun's on the Parkway does solid hickory-smoked baby back ribs — perfect post-hike fuel. But if you want competition-grade Tennessee barbecue, drive to Knoxville. Dead End BBQ on Sutherland Ave has brisket burnt ends that'll change your life. Sweet P's BBQ on Tazewell Pike does incredible dry rubs and the mac and cheese is genuinely legendary. In Pigeon Forge, Bennett's on the Parkway is the old-school classic.",
+    "businesses": [
+      "Calhoun's Gatlinburg",
+      "Dead End BBQ",
+      "Sweet P's BBQ and Soul House"
+    ],
+    "chips": [
+      "Best sides with BBQ",
+      "Knoxville food scene",
+      "Where to eat after hiking",
+      "Southern comfort food"
+    ]
+  },
+  {
+    "keys": [
+      "cheap",
+      "budget",
+      "free",
+      "save money",
+      "affordable"
+    ],
+    "text": "The National Park is FREE — just $5/day parking. Pack a lunch from Publix in Pigeon Forge and hit the trails. Moonshine tastings are $5 and the fee goes toward a purchase. Ole Smoky has free live music every night. The Island is free to walk around. Cades Cove on bike-only mornings (Wed/Sat before 10AM) is free. Gatlinburg trolley is $2. For cheap eats: Huck Finn's all-you-can-eat catfish, Mel's diner burgers, or Yassin's falafel in Knoxville ($8 pitas).",
+    "businesses": [
+      "Great Smoky Mountains National Park",
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "The Island in Pigeon Forge",
+      "Huck Finn's Catfish",
+      "Yassin's Falafel House"
+    ],
+    "chips": [
+      "Free events this week",
+      "Cheap cabin deals",
+      "Free trails",
+      "Student discounts"
+    ]
+  },
+  {
+    "keys": [
+      "live music",
+      "band",
+      "concert",
+      "music tonight"
+    ],
+    "text": "Ole Smoky's The Holler has free live music every single night on the Parkway stage — no cover. Smoky Mountain Brewery in Gatlinburg has local bands Mon-Sat plus open mic nights. In Knoxville, Preservation Pub runs live music on three floors most nights till 3AM. The Bijou Theatre on Gay Street books incredible intimate shows — check their calendar. And Dollywood itself has live bluegrass and gospel performances throughout the park all day.",
+    "businesses": [
+      "Ole Smoky Moonshine Distillery - The Holler",
+      "Smoky Mountain Brewery - Gatlinburg",
+      "Preservation Pub",
+      "Bijou Theatre",
+      "Dollywood Theme Park"
+    ],
+    "chips": [
+      "Bluegrass shows",
+      "Cover charge info",
+      "Knoxville music scene",
+      "Country music events"
+    ]
+  },
+  {
+    "keys": [
+      "souvenir",
+      "gift",
+      "present",
+      "not junk",
+      "authentic"
+    ],
+    "text": "Do NOT buy airbrushed t-shirts. The Great Smoky Arts & Crafts Community on Glades Road has 100+ real artisans — pottery, woodwork, blown glass, leather, handmade brooms. That's a real piece of the mountains. Ole Smoky Candy Kitchen has hand-pulled taffy made on vintage machines since 1952. Old Mill General Store sells stone-ground cornmeal from the actual 1830 grist mill. In Knoxville, Mast General Store for old-fashioned candy and Appalachian goods.",
+    "businesses": [
+      "Great Smoky Arts & Crafts Community",
+      "Ole Smoky Candy Kitchen",
+      "The Old Mill Square",
+      "Mast General Store - Knoxville"
+    ],
+    "chips": [
+      "Best handmade crafts",
+      "Where to buy moonshine to ship",
+      "Knoxville shopping",
+      "Gifts under $20"
+    ]
+  },
+  {
+    "keys": [
+      "snow",
+      "ski",
+      "winter",
+      "cold",
+      "ice"
+    ],
+    "text": "Make sure you've got AWD if renting a cabin in winter — those mountain roads get icy. Ober Mountain in Gatlinburg has skiing, snow tubing, and ice skating via the aerial tram from downtown. The Newfound Gap drive in snow is stunning but check the NPS Twitter/X for road closures. Dollywood's Smoky Mountain Christmas (Nov-Jan) has 6 million lights and is voted America's Best Christmas Event. Holidays on Ice skating rink on Market Square in Knoxville is pure Hallmark movie vibes.",
+    "businesses": [
+      "Ober Mountain Ski Area & Amusement Park",
+      "Dollywood Theme Park"
+    ],
+    "chips": [
+      "Winter cabin deals",
+      "Road conditions",
+      "Christmas events",
+      "Indoor activities"
+    ]
+  },
+  {
+    "keys": [
+      "drive",
+      "scenic drive",
+      "motor trail",
+      "road trip"
+    ],
+    "text": "Three must-do drives: Roaring Fork Motor Nature Trail is a narrow one-way loop right from Gatlinburg through old-growth forest — bears, waterfalls, historic cabins. Do NOT take an RV. Cades Cove 11-mile loop is the classic — get there at sunrise before it becomes a parking lot. Newfound Gap Road crosses the park over to Cherokee, NC — the views at the top are 5,000+ feet with 100-mile visibility on clear days. In fall, it's the most beautiful drive in the Eastern US.",
+    "businesses": [
+      "Roaring Fork Motor Nature Trail",
+      "Cades Cove",
+      "Clingmans Dome"
+    ],
+    "chips": [
+      "Best time to avoid traffic",
+      "Fall foliage drive",
+      "Can I bike Cades Cove?",
+      "Where to stop for photos"
+    ]
+  },
+  {
+    "keys": [
+      "fishing",
+      "trout",
+      "fly fishing",
+      "angler",
+      "fish"
+    ],
+    "text": "Some of the best wild trout streams in the country are right here. Don't go blindly casting — hook up with Fly Fishing the Smokies in Gatlinburg. They'll gear you up, teach you the ropes, and take you to secluded spots on the Little Pigeon River where fish are actually biting. The Smoky Mountain Angler is the oldest authorized guide service in the park. You need a Tennessee or North Carolina fishing license depending on which side of the park you're on — guides handle all of that.",
+    "businesses": [
+      "Fly Fishing the Smokies",
+      "The Smoky Mountain Angler"
+    ],
+    "chips": [
+      "Do I need a license?",
+      "Best fishing spots",
+      "Gear rental",
+      "Can kids fly fish?"
+    ]
+  }
+]

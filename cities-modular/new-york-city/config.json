@@ -1,0 +1,306 @@
+{
+  "slug": "new-york-city",
+  "name": "New York City",
+  "state": "New York",
+  "region": "Northeast / Mid-Atlantic",
+  "tagline": "The City That Never Stops",
+  "description": "Eight million people packed onto a handful of islands, producing the densest concentration of culture, food, nightlife, and ambition on the planet. Every neighborhood is its own city — come for the icons, stay because you found your block.",
+  "coordinates": {
+    "lat": 40.71,
+    "lng": -74.01
+  },
+  "timezone": "America/New_York",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Relentless, electric, impossibly diverse — a city that rewards curiosity and punishes hesitation.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "broadway-entertainment",
+      "title": "Broadway & Entertainment",
+      "icon": "🎭",
+      "description": "The theater district alone draws 15M+ visitors annually — the single biggest tourism magnet in the city."
+    },
+    {
+      "id": "food-scene",
+      "title": "World-Class Food Scene",
+      "icon": "🍕",
+      "description": "70+ Michelin-starred restaurants, legendary pizza, every global cuisine represented — NYC is the food capital of the Western Hemisphere."
+    },
+    {
+      "id": "museums-culture",
+      "title": "Museums & Culture",
+      "icon": "🏛️",
+      "description": "More world-class museums per square mile than anywhere on Earth — from the Met to hole-in-the-wall galleries in Chelsea."
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Comedy",
+      "icon": "🍸",
+      "description": "Speakeasies, rooftops, comedy clubs, jazz"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping",
+      "icon": "🛍️",
+      "description": "SoHo, vintage, Brooklyn markets"
+    },
+    {
+      "id": "plan",
+      "title": "Plan Your Trip",
+      "icon": "📋",
+      "description": "Subway guide, itinerary builder, lodging"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍕",
+      "description": "Every cuisine on Earth, from $1 pizza slices to three-Michelin-star tasting menus.",
+      "tags": [
+        "dining",
+        "brunch",
+        "casual",
+        "fine_dining",
+        "asian",
+        "italian",
+        "mexican",
+        "seafood",
+        "breakfast",
+        "markets"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture Vulture",
+      "icon": "🏛️",
+      "description": "World-class museums, Broadway, galleries, historic landmarks, and the stories behind every block.",
+      "tags": [
+        "museums",
+        "galleries",
+        "theaters",
+        "landmarks",
+        "historic_sites",
+        "tours"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Night Out",
+      "icon": "🍸",
+      "description": "Speakeasies, jazz clubs, comedy cellars, rooftop bars, and a 4am last call.",
+      "tags": [
+        "cocktail_bars",
+        "dive_bars",
+        "clubs",
+        "live_music_venues",
+        "comedy",
+        "breweries"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "💫",
+      "description": "Sunset bridge walks, candlelit restaurants, jazz in basement clubs, and skyline views.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "parks",
+        "landmarks",
+        "spas",
+        "boutique_hotels"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Dinosaurs at the museum, Central Park playgrounds, ferries, and Broadway matinees.",
+      "tags": [
+        "museums",
+        "parks",
+        "family",
+        "tours",
+        "amusement",
+        "ice_cream"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "icon": "🗽",
+      "description": "Climb skyscrapers, walk bridges, explore five boroughs, and chase the unexpected.",
+      "tags": [
+        "landmarks",
+        "tours",
+        "water_sports",
+        "hiking",
+        "biking"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "☕",
+      "description": "Coffee shops, park benches, bookstores, and the art of watching the city go by.",
+      "tags": [
+        "coffee",
+        "parks",
+        "bakery",
+        "markets",
+        "boutiques"
+      ]
+    },
+    {
+      "id": "budget",
+      "label": "NYC on a Budget",
+      "icon": "💰",
+      "description": "Free museums, dollar slices, park concerts, ferry rides, and the best things that cost nothing.",
+      "tags": [
+        "parks",
+        "casual",
+        "markets",
+        "free"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "Subway runs 24/7 and goes nearly everywhere — it's the move. Uber/Lyft plentiful but expensive in traffic. Citi Bike for short trips. NYC Ferry connects waterfront neighborhoods for $4. Walking is the default. Do not rent a car unless you're leaving the city.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "From anywhere — I-95 from the north/south, I-78/Holland Tunnel from NJ, I-495/Lincoln Tunnel from the west. Driving IN is easy. Parking is not."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Amtrak Northeast Regional and Acela to Penn Station from DC (3.5h), Boston (3.5h), Philadelphia (1.5h). NJ Transit, Metro-North, LIRR for regional connections."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "JFK International (Queens, ~1hr to Manhattan), LaGuardia (Queens, ~30-45min to Manhattan), Newark Liberty (NJ, ~1hr to Manhattan). JFK Terminal 6 Phase 1 reopening in 2026."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Hudson Valley",
+      "distance": "1.5-2 hours north by car or Metro-North",
+      "pitch": "The city's escape valve. River towns with farm-to-table restaurants, hiking trails, and fall foliage that looks like a painting.",
+      "highlights": null
+    },
+    {
+      "name": "Fire Island",
+      "distance": "2 hours east by LIRR + ferry (summer only)",
+      "pitch": "Car-free barrier island with pristine beaches, boardwalk communities, and a vibe that's half Provincetown, half summer camp.",
+      "highlights": null
+    },
+    {
+      "name": "Asbury Park, NJ",
+      "distance": "1.5 hours south by NJ Transit or car",
+      "pitch": "Bruce Springsteen's hometown, now a revitalized beach town with a killer food scene, indie shops, and live music venues.",
+      "highlights": null
+    },
+    {
+      "name": "The Hamptons / Montauk",
+      "distance": "2.5-3 hours east by LIRR or car",
+      "pitch": "The playground of Manhattan's elite — but Montauk at the tip feels more like a surf town than a socialite scene.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Doorman",
+    "greeting": "Welcome to the greatest city on Earth — and yeah, I've been everywhere else, and I'm still saying it. I'm The Doorman. I don't hold doors, I open them. What are you looking for?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-summer-brooklyn-bridge.jpg",
+    "story": [
+      "story-brownstone-street.jpg",
+      "story-grand-central.jpg",
+      "story-manhattan-bridge-night.jpg",
+      "story-statue-liberty-fog.jpg"
+    ],
+    "wall": [
+      "wall-bagel-counter.jpg",
+      "wall-broadway-marquee.jpg",
+      "wall-central-park-blanket.jpg",
+      "wall-dumbo-bridge.jpg",
+      "wall-ferry-statue.jpg",
+      "wall-pizza-sidewalk.jpg",
+      "wall-rooftop-sunset.jpg",
+      "wall-subway-selfie.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions-museum2.jpg",
+      "bars_nightlife": "dir-bars-rooftop.jpg",
+      "bars": "dir-bars-rooftop.jpg",
+      "coffee_bakeries": "dir-coffee.jpg",
+      "coffee": "dir-coffee.jpg",
+      "dining": "dir-dining-fine.jpg",
+      "entertainment": "dir-entertainment-comedy.jpg",
+      "lodging": "dir-lodging-boutique.jpg",
+      "outdoor_adventure": "dir-outdoor-park.jpg",
+      "outdoor": "dir-outdoor-park.jpg",
+      "shopping": "dir-shopping-vintage.jpg",
+      "wellness_spa": "dir-wellness-bath.jpg",
+      "wellness": "dir-wellness-bath.jpg"
+    },
+    "section_breaks": {
+      "broadway": "break-broadway-marquee.jpg",
+      "dumbo": "break-dumbo-waterfront.jpg",
+      "ferry": "break-ferry-skyline.jpg",
+      "high": "break-high-line-walkers.jpg",
+      "pizza": "break-pizza-slice.jpg",
+      "rooftop": "break-rooftop-bar.jpg",
+      "spa": "break-spa-wellness.jpg",
+      "subway": "break-subway-commuters.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "New York City — Rooftops, Parks, and Sidewalk Everything",
+    "hero_sub": "The city spills outside. Shakespeare in the Park, rooftop bars from Brooklyn to Midtown, and the best people-watching on Earth. In 2026, FIFA World Cup matches and America 250 celebrations make this a once-in-a-generation summer."
+  }
+}

@@ -1,0 +1,409 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "menu",
+      "what to do"
+    ],
+    "text": "You're in one of the greatest food cities on earth that happens to also have a giant orange bridge. Tell me — are you here to eat, explore, party, or all of the above? I've got opinions on all of it.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best bars tonight",
+      "What should I see first?",
+      "Perfect day itinerary",
+      "Family stuff",
+      "What's happening this week?"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "dinner",
+      "hungry",
+      "where to eat"
+    ],
+    "text": "Now we're talking. What's the vibe? If you want the tasting menu experience, Wolfsbane in Dogpatch is the most exciting thing in SF right now. For something more chill but equally serious, Side A on 16th Street has a vinyl collection, a killer burger, and Parisian gnocchi that haunts your dreams. On a budget? La Taqueria on Mission — no rice, just the perfect burrito.",
+    "businesses": [
+      "Wolfsbane",
+      "Side A",
+      "La Taqueria"
+    ],
+    "chips": [
+      "Best Asian food",
+      "Seafood spots",
+      "Fine dining splurge",
+      "Cheap eats",
+      "Romantic dinner",
+      "Breakfast spots"
+    ]
+  },
+  {
+    "keys": [
+      "asian",
+      "chinese",
+      "japanese",
+      "ramen",
+      "dim sum",
+      "sushi"
+    ],
+    "text": "SF's modern Chinese wave is real. Happy Crane on Gough has the Peking duck and dim sum nailed. Mister Jiu's in Chinatown is the OG — order the banquet. For Japanese, Rintaro is where every chef in the city eats after service. And if you just need a bowl of ramen, Marufuku in Japantown is the call.",
+    "businesses": [
+      "Happy Crane",
+      "Mister Jiu's",
+      "Rintaro",
+      "Marufuku Ramen"
+    ],
+    "chips": [
+      "Best ramen",
+      "Chinatown food tour",
+      "Omakase",
+      "Japantown guide"
+    ]
+  },
+  {
+    "keys": [
+      "seafood",
+      "oysters",
+      "crab",
+      "fish"
+    ],
+    "text": "Swan Oyster Depot on Polk — 18 seats, no reservations, cash only, open since 1912. Get there by 10:30 or plan to wait. If that's too intense, Hog Island at the Ferry Building has perfect oysters with a bay view. Tuesday happy hour there is the local move. During crab season (Nov-June), get a whole cracked Dungeness at Fisherman's Wharf — the sidewalk stands are legit.",
+    "businesses": [
+      "Swan Oyster Depot",
+      "Hog Island Oyster Co."
+    ],
+    "chips": [
+      "Ferry Building food",
+      "Fisherman's Wharf worth it?",
+      "Best brunch",
+      "Romantic seafood dinner"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "splurge",
+      "special occasion",
+      "tasting menu",
+      "michelin"
+    ],
+    "text": "For tasting menus, Wolfsbane is the hottest seat in town right now. Mijoté in the Mission is a James Beard nominee — $84 for four courses of French-Japanese perfection. Enclos out in Sonoma has two Michelin stars inside year one. And Bourbon Steak at the Westin St. Francis does tableside wagyu tomahawk if you want theatrics.",
+    "businesses": [
+      "Wolfsbane",
+      "Mijoté",
+      "Bourbon Steak"
+    ],
+    "chips": [
+      "Book Wolfsbane",
+      "Best wine pairings",
+      "Anniversary dinner",
+      "Under $100 tasting"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "cocktails",
+      "nightlife",
+      "going out"
+    ],
+    "text": "Smuggler's Cove — three floors of tiki perfection, 400+ rums, one of the best bars in the world. Period. For speakeasy vibes, The Felix has a hidden entrance through a picture frame. The Tonga Room at the Fairmont has an indoor lagoon and actual rainstorms. And if you want a proper dive, Zeitgeist's beer garden is the most San Francisco thing that exists.",
+    "businesses": [
+      "Smuggler's Cove",
+      "The Felix",
+      "Tonga Room & Hurricane Bar",
+      "Zeitgeist"
+    ],
+    "chips": [
+      "Best cocktail bars",
+      "Dive bars",
+      "Live music tonight",
+      "Late night spots",
+      "Wine bars"
+    ]
+  },
+  {
+    "keys": [
+      "see",
+      "attraction",
+      "sightseeing",
+      "tourist",
+      "landmark",
+      "first time"
+    ],
+    "text": "Do this: Alcatraz in the morning (book 90 days ahead!), then walk the Golden Gate in the afternoon. The next day, take the Powell-Hyde cable car to Lombard Street, walk down to Fisherman's Wharf, then cab to the Mission for tacos and Dolores Park. That's the greatest hits. After that, get off the beaten path — Filbert Steps, the Presidio, Ocean Beach at sunset.",
+    "businesses": [
+      "Alcatraz Island",
+      "Golden Gate Bridge",
+      "Cable Cars"
+    ],
+    "chips": [
+      "Book Alcatraz",
+      "Skip-the-line tips",
+      "Free things to do",
+      "Best viewpoints",
+      "Hidden gems"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor",
+      "hike",
+      "nature",
+      "park",
+      "bike",
+      "beach"
+    ],
+    "text": "Rent a bike at Blazing Saddles, ride across the Golden Gate to Sausalito, ferry back. Classic SF day. The Presidio has trails with bridge views and zero tourists. Golden Gate Park has a bison paddock, Japanese Tea Garden, and paddleboats. Crissy Field is the flat waterfront walk. Ocean Beach has surf but the water is freezing and the currents are serious.",
+    "businesses": [
+      "Blazing Saddles Bike Rentals",
+      "Presidio National Park",
+      "Golden Gate Park",
+      "Crissy Field"
+    ],
+    "chips": [
+      "Bike rental prices",
+      "Best hikes",
+      "Kid-friendly outdoor",
+      "Surfing in SF?"
+    ]
+  },
+  {
+    "keys": [
+      "shop",
+      "shopping",
+      "buy",
+      "souvenirs"
+    ],
+    "text": "Ferry Building Saturday market for artisan food finds. City Lights Bookstore in North Beach for the best bookstore in America. Valencia Street in the Mission for vintage, design shops, and indie boutiques. Skip the Wharf tourist shops — you don't need a Alcatraz snow globe.",
+    "businesses": [
+      "Ferry Building Marketplace",
+      "City Lights Bookstore"
+    ],
+    "chips": [
+      "Best bookstores",
+      "Vintage shopping",
+      "Local designer shops",
+      "Gift ideas"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "caffeine"
+    ],
+    "text": "Blue Bottle started here — the Mint Plaza flagship is still great for a pour-over. Philz in the Mission does the Mint Mojito Iced Coffee that'll change your life. For the vinyl-listener energy, Kissaten Hifi plays 1950s jazz while you sip. Tartine's morning bun with a coffee is a spiritual experience.",
+    "businesses": [
+      "Blue Bottle Coffee (Mint Plaza)",
+      "Philz Coffee (Mission)",
+      "Tartine Bakery"
+    ],
+    "chips": [
+      "Best pastries",
+      "Work-from-café spots",
+      "Japantown coffee",
+      "Tea houses"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "where to stay",
+      "lodging",
+      "sleep"
+    ],
+    "text": "Hotel Drisco in Pacific Heights is quietly the best hotel in the city — included breakfast, wine reception, neighborhood feel. The Fairmont on Nob Hill is grand-dame luxury with the Tonga Room in the basement. For budget with personality, Phoenix Hotel is a rock-and-roll motor lodge with a pool. The Lodge at the Presidio is charming if you want to walk to the bridge.",
+    "businesses": [
+      "Hotel Drisco Pacific Heights",
+      "Fairmont San Francisco",
+      "Phoenix Hotel",
+      "The Lodge at the Presidio"
+    ],
+    "chips": [
+      "Best boutique hotels",
+      "Budget options",
+      "Fisherman's Wharf hotels",
+      "Neighborhoods to stay"
+    ]
+  },
+  {
+    "keys": [
+      "transit",
+      "getting here",
+      "airport",
+      "bart",
+      "muni",
+      "uber",
+      "how to get around"
+    ],
+    "text": "BART from SFO airport to downtown is $9.65 and takes 30 min. Don't rent a car unless you're leaving the city — parking is $40-60/day and the hills will stress you out. MUNI buses cover everything. Cable cars are $8/ride or get the $24 day pass. Uber/Lyft work great. For the bridge ride, rent a bike.",
+    "businesses": [],
+    "chips": [
+      "Airport to downtown",
+      "Cable car tips",
+      "Day trips from SF",
+      "Parking in SF"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children"
+    ],
+    "text": "California Academy of Sciences is the slam dunk — aquarium, planetarium, and rainforest under one roof. The Exploratorium on Pier 15 is hands-on science that adults love too. Ride the cable car, see the sea lions at Pier 39, then head to Golden Gate Park for the playground and paddleboats. Oracle Park for a Giants game is great for kids.",
+    "businesses": [
+      "California Academy of Sciences",
+      "Exploratorium",
+      "Oracle Park",
+      "Golden Gate Park"
+    ],
+    "chips": [
+      "Rainy day with kids",
+      "Kid-friendly restaurants",
+      "Stroller-friendly walks",
+      "Teen activities"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "anniversary",
+      "couple"
+    ],
+    "text": "Mijoté for a candlelit French-Japanese dinner in the Mission. Walk the Golden Gate at sunset from Crissy Field. Cocktails at Smuggler's Cove, then late-night at The Felix. For a big splurge, Wolfsbane's tasting menu with wine pairings. The Lodge at the Presidio for a quiet, romantic stay.",
+    "businesses": [
+      "Mijoté",
+      "Smuggler's Cove",
+      "The Felix",
+      "Wolfsbane"
+    ],
+    "chips": [
+      "Romantic restaurants",
+      "Sunset spots",
+      "Couples' spa",
+      "Rooftop bars"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "perfect day",
+      "itinerary",
+      "one day"
+    ],
+    "text": "Perfect SF day: 8am Ferry Building Saturday market. 10am cable car to Lombard Street. 11am walk through North Beach — espresso at Caffe Trieste, browse City Lights. Noon lunch at Rintaro. 2pm bike across the Golden Gate to Sausalito, ferry back. 5pm Dolores Park sunset. 7pm dinner at Side A. 9pm Smuggler's Cove for a nightcap. You're welcome.",
+    "businesses": [
+      "Ferry Building Marketplace",
+      "City Lights Bookstore",
+      "Rintaro",
+      "Blazing Saddles Bike Rentals",
+      "Side A",
+      "Smuggler's Cove"
+    ],
+    "chips": [
+      "Two-day itinerary",
+      "Rainy day plan",
+      "Foodie day",
+      "Free activities day"
+    ]
+  },
+  {
+    "keys": [
+      "events",
+      "happening",
+      "this week",
+      "festival",
+      "concert"
+    ],
+    "text": "Check sf.funcheap.com — it's the local bible for free and cheap events. Stern Grove has free Sunday concerts all summer. NightLife Thursdays at the Academy of Sciences. After Dark Thursdays at the Exploratorium. And if you're here in October, Hardly Strictly Bluegrass is a free 3-day festival in Golden Gate Park that's pure magic.",
+    "businesses": [],
+    "chips": [
+      "Free events",
+      "Live music tonight",
+      "Weekend festivals",
+      "Family events"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "brunch",
+      "morning"
+    ],
+    "text": "Tartine morning bun. That's the answer. But also: the Saturday Ferry Building market for grazing. Plow on Potrero Hill for the lemon ricotta pancakes. And if you want dim sum for breakfast (you should), head to Chinatown before 10am when it's locals only.",
+    "businesses": [
+      "Tartine Bakery",
+      "Ferry Building Marketplace"
+    ],
+    "chips": [
+      "Best brunch spots",
+      "Cheap breakfast",
+      "Dim sum guide",
+      "Coffee first"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "2am"
+    ],
+    "text": "SF is not a late-night city — let's be honest. But: Zeitgeist's beer garden stays open. The Saloon in North Beach has live blues until 2am. Emporium Arcade Bar is packed until close. For late-night food, the taco trucks on Harrison in the Mission run past midnight.",
+    "businesses": [
+      "Zeitgeist",
+      "The Saloon",
+      "Emporium Arcade Bar"
+    ],
+    "chips": [
+      "Best dive bars",
+      "Late-night food",
+      "After-party spots",
+      "24-hour spots"
+    ]
+  },
+  {
+    "keys": [
+      "wine",
+      "napa",
+      "sonoma",
+      "wine country"
+    ],
+    "text": "Napa is 90 min north. Sonoma is more chill and often better value. But if you don't want to leave the city, Big Finish Wine Tavern in the Mission has affordable glasses. Key Klub on Bush Street is the natural wine spot. And the Ferry Building has tastings on Saturdays. For a proper day trip, book through one of the shuttle services from Fisherman's Wharf.",
+    "businesses": [],
+    "chips": [
+      "Napa day trip",
+      "Urban wine bars",
+      "Sonoma vs Napa",
+      "Wine tasting in the city"
+    ]
+  },
+  {
+    "keys": [
+      "fog",
+      "weather",
+      "cold",
+      "what to wear",
+      "karl"
+    ],
+    "text": "Layers. Always layers. The sun might be blazing in the Mission while it's 55°F and foggy at the bridge — that's a 15-degree swing in 3 miles. Bring a windbreaker. September-October is the real summer (locals call it Indian Summer). June-July are actually the foggiest months. Yes, we named the fog Karl.",
+    "businesses": [],
+    "chips": [
+      "Best time to visit",
+      "September weather",
+      "Foggy day activities",
+      "What to pack"
+    ]
+  }
+]

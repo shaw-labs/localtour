@@ -1,0 +1,298 @@
+{
+  "slug": "miami",
+  "name": "Miami",
+  "state": "Florida",
+  "region": "South Florida / Caribbean Gateway",
+  "tagline": "Where the Hustle Meets the Horizon",
+  "description": "Miami is a relentlessly electric metropolis driven by pan-Latin culture, high-stakes finance, and oceanic beauty. Visitors are drawn to its dual nature: a sun-drenched, architectural playground by day and a pulsating, neon-lit epicenter of global nightlife after dark.",
+  "coordinates": {
+    "lat": 25.76,
+    "lng": -80.19
+  },
+  "timezone": "America/New_York",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Neon-lit, bilingual, unapologetically glamorous — a tropical metropolis that runs on cafecito, bass drops, and ambition.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "beach-nightlife",
+      "title": "Beach & Nightlife",
+      "icon": "🌴",
+      "description": "South Beach, the mega-clubs, rooftop bars, and the see-and-be-seen dining scene — this is what most visitors organize their trip around."
+    },
+    {
+      "id": "food-culture",
+      "title": "Food & Culture",
+      "icon": "🍽️",
+      "description": "From ventanitas and stone crabs to Michelin-starred tasting menus and Wynwood gallery hops — Miami's food and culture scenes are inseparable."
+    },
+    {
+      "id": "water-adventure",
+      "title": "Water & Adventure",
+      "icon": "🚤",
+      "description": "Biscayne Bay boat tours, Everglades airboats, deep-sea fishing, jet skis, snorkeling the reef tract, and paddleboarding through mangroves."
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Clubs",
+      "icon": "🍸",
+      "description": "Rooftop bars, Latin clubs, speakeasies"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping & Design",
+      "icon": "🛍️",
+      "description": "Design District, Lincoln Road, Bal Harbour"
+    },
+    {
+      "id": "plan",
+      "title": "Plan Your Trip",
+      "icon": "📋",
+      "description": "Itinerary builder, transit, lodging"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "chill",
+      "label": "Beach & Chill",
+      "icon": "🏖️",
+      "description": "Sun, sand, and slow pace — the best beaches, parks, and low-key spots.",
+      "tags": [
+        "beaches",
+        "parks",
+        "waterfront",
+        "brunch",
+        "casual"
+      ]
+    },
+    {
+      "id": "foodie",
+      "label": "Foodie Mode",
+      "icon": "🍽️",
+      "description": "Cuban cafeterias to Michelin stars — the full spectrum of Miami's food scene.",
+      "tags": [
+        "dining",
+        "fine_dining",
+        "cuban",
+        "seafood",
+        "breakfast",
+        "casual",
+        "mexican",
+        "asian",
+        "italian"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🪩",
+      "description": "Mega-clubs, cocktail bars, rooftop lounges, and Latin dance floors.",
+      "tags": [
+        "clubs",
+        "cocktail_bars",
+        "dive_bars",
+        "live_music_venues",
+        "breweries"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Art & Culture",
+      "icon": "🎨",
+      "description": "Wynwood murals, world-class museums, Art Deco architecture, and Little Havana.",
+      "tags": [
+        "museums",
+        "galleries",
+        "historic_sites",
+        "landmarks",
+        "theaters"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "icon": "🚤",
+      "description": "Boat tours, Everglades airboats, snorkeling, kayaking, and jet skis.",
+      "tags": [
+        "water_sports",
+        "boat_rentals",
+        "charters",
+        "parks",
+        "beaches"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family Fun",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Zoo, aquarium, calm beaches, and kid-friendly restaurants.",
+      "tags": [
+        "amusement",
+        "museums",
+        "beaches",
+        "parks"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "💃",
+      "description": "Sunset dinners, cocktail bars, gardens, and private boat cruises.",
+      "tags": [
+        "fine_dining",
+        "waterfront",
+        "cocktail_bars",
+        "historic_sites",
+        "parks"
+      ]
+    },
+    {
+      "id": "latin",
+      "label": "Latin Miami",
+      "icon": "🇨🇺",
+      "description": "Cuban food, salsa clubs, Little Havana, and the soul of the city.",
+      "tags": [
+        "cuban",
+        "live_music_venues",
+        "culture"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "You need a car for most of Greater Miami. Uber/Lyft abundant. Metromover is free downtown. Metrorail connects airport to downtown/Brickell/Coconut Grove. Trolley loops are free in Brickell, Wynwood, Little Havana, Coral Gables, and Miami Beach. South Beach is walkable. Parking is expensive everywhere on the Beach.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "Fort Lauderdale is 30 miles north via I-95 (40 min without traffic, 75 min in rush hour). Orlando is 235 miles north via Florida's Turnpike (~3.5 hours)."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Brightline high-speed rail connects Miami Central to Fort Lauderdale (30 min, ~$15), West Palm Beach (60 min, ~$20), and Orlando (3.5 hours, ~$79). Amtrak Silver Service runs to Jacksonville, DC, and NYC."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "Miami International Airport (MIA) is a major global hub — direct flights to 160+ destinations. Fort Lauderdale-Hollywood International (FLL) is 30 min north and often cheaper for domestic flights."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Key West",
+      "distance": "3.5 hr drive / 160 miles via Overseas Highway",
+      "pitch": "The ultimate Florida road trip. Cross 42 bridges over open ocean to reach America's southernmost city — where Hemingway wrote and Key lime pie was born.",
+      "highlights": null
+    },
+    {
+      "name": "Fort Lauderdale",
+      "distance": "30 min drive / 30 miles, or 30 min on Brightline",
+      "pitch": "Miami's calmer, cleaner neighbor. Better beach for families, the Venice of America canals, and Las Olas Boulevard for dining and shopping.",
+      "highlights": null
+    },
+    {
+      "name": "The Florida Keys (Islamorada / Key Largo)",
+      "distance": "1-1.5 hr drive / 60-80 miles",
+      "pitch": "Skip all the way to Key West or stop midway for some of the best snorkeling and fishing in the US. Islamorada is the 'Sport Fishing Capital of the World.'",
+      "highlights": null
+    },
+    {
+      "name": "Bimini, Bahamas",
+      "distance": "2 hr fast ferry from Fort Lauderdale",
+      "pitch": "Day-trip to the Bahamas. Crystal-clear water, beach clubs, and that 'I left the country today' energy.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "La Ventanita",
+    "greeting": "¡Oye! Welcome to the 305. I'm La Ventanita — your plug for everything from Michelin-starred dinners to the best $2 colada in Hialeah. What's the vibe today? You looking to chill, eat, or party until the sun comes up?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-summer-southpointe.jpg",
+    "story": [
+      "story-freedom-tower.jpg",
+      "story-vizcaya.jpg",
+      "story-calle-ocho.jpg",
+      "story-aerial-coast.jpg"
+    ],
+    "wall": [
+      "wall-beach-dog.jpg",
+      "wall-boat-day.jpg",
+      "wall-cocktail-rooftop.jpg",
+      "wall-food-croquetas.jpg",
+      "wall-salsa-dancing.jpg",
+      "wall-sunrise-run.jpg",
+      "wall-sunset-sobe.jpg",
+      "wall-wynwood-selfie.jpg"
+    ],
+    "categories": {
+      "dining": "dir-dining-cuban.jpg",
+      "bars_nightlife": "dir-bars-brewery.jpg",
+      "coffee_bakeries": "dir-coffee-ventanita.jpg",
+      "attractions": "dir-attractions-museum.jpg",
+      "outdoor_adventure": "dir-outdoor-kayak.jpg",
+      "shopping": "dir-shopping-luxury.jpg",
+      "lodging": "dir-lodging-pool.jpg",
+      "entertainment": "dir-entertainment-stadium.jpg",
+      "wellness": "dir-wellness-spa.jpg",
+      "bars": "dir-bars-brewery.jpg",
+      "coffee": "dir-coffee-ventanita.jpg",
+      "outdoor": "dir-outdoor-kayak.jpg"
+    },
+    "section_breaks": {
+      "outdoor": "break-beach-lifestyle.jpg",
+      "culture": "break-cuban-coffee.jpg",
+      "nightlife": "break-nightlife-energy.jpg",
+      "dining": "break-food-closeup.jpg",
+      "neighborhoods": "break-brickell-skyline.jpg",
+      "boating": "break-boat-bay.jpg",
+      "shopping": "break-design-district.jpg",
+      "adventure": "break-everglades-airboat.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "Miami — Heat, Hurricanes & Half-Price Hotels",
+    "hero_sub": "Summer is local season. Fewer crowds, deep hotel discounts, and the best sunsets of the year over Biscayne Bay."
+  }
+}

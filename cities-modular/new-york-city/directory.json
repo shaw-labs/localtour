@@ -1,0 +1,3707 @@
+[
+  {
+    "name": "David Zwirner",
+    "address": "525 W 19th St, Chelsea, Manhattan",
+    "phone": "+1-212-727-2070",
+    "website": "https://davidzwirner.com",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "$free",
+    "rating": "4.6",
+    "description": "A monolithic blue-chip gallery in Chelsea known for staging blockbuster installations,  including frequent Yayoi Kusama infinity rooms.",
+    "must_try": "Current flagship exhibition",
+    "hours": "Tue-Sat 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pace Gallery",
+    "address": "540 W 25th St, Chelsea, Manhattan",
+    "phone": "+1-212-421-3292",
+    "website": "https://pacegallery.com",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "$free",
+    "rating": "4.6",
+    "description": "An eight-story mega-gallery dominating the Chelsea art district. The scale of the  exhibitions rivals major global museums.",
+    "must_try": "The outdoor sculpture terrace",
+    "hours": "Tue-Sat 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "9/11 Memorial & Museum",
+    "address": "180 Greenwich St, Financial District, Manhattan",
+    "phone": "+1-212-312-8800",
+    "website": "https://www.911memorial.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "The twin reflecting pools are powerful even before you go inside. The museum is emotionally intense — plan 2-3 hours. 25th anniversary in September 2026.",
+    "must_try": "Museum audio guide + memorial pools at dusk",
+    "hours": "Wed-Mon 9am-7pm (memorial open 8am-8pm daily)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Edge at Hudson Yards",
+    "address": "30 Hudson Yards, Midtown West, Manhattan",
+    "phone": "+1-332-204-8500",
+    "website": "https://www.edgenyc.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Outdoor sky deck with a glass floor 1,100 feet up. The highest outdoor observation deck in the Western Hemisphere. Not for the faint of heart.",
+    "must_try": "City Climb (outdoor climbing experience on the building's exterior)",
+    "hours": "10am-10pm daily",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "One World Observatory",
+    "address": "117 West St, Financial District, Manhattan",
+    "phone": "+1-844-696-1776",
+    "website": "https://www.oneworldobservatory.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "102 floors up in 47 seconds. The SkyPod elevator ride is an experience by itself. Views span all five boroughs and three states.",
+    "must_try": "Go at sunset for both daylight and city lights views",
+    "hours": "9am-9pm daily",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Statue of Liberty & Ellis Island",
+    "address": "Liberty Island, New York Harbor",
+    "phone": "+1-212-363-3200",
+    "website": "https://www.statueofliberty.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Book the crown access months in advance. Ellis Island immigration museum is the sleeper hit — most people rush through it. Ferry from Battery Park or Liberty State Park NJ.",
+    "must_try": "Crown access (book 3+ months ahead) + Ellis Island immigration records lookup",
+    "hours": "Ferries depart 8:30am-3:30pm (varies seasonally)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Top of the Rock Observation Deck",
+    "address": "30 Rockefeller Plaza, Midtown, Manhattan",
+    "phone": "+1-212-698-2000",
+    "website": "https://www.topoftherocknyc.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Better than the Empire State Building because you can SEE the Empire State Building. Three levels, open-air top deck, Central Park to the north, downtown to the south.",
+    "must_try": "Sunset timing for golden hour over the skyline",
+    "hours": "9am-12am daily",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "American Museum of Natural History",
+    "address": "200 Central Park West, Upper West Side, Manhattan",
+    "phone": "+1-212-769-5100",
+    "website": "https://www.amnh.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "The dinosaurs, the planetarium, the blue whale — you saw it in Night at the Museum and it's even better in person. The new Gilder Center wing is stunning.",
+    "must_try": "Fossil Halls + Hayden Planetarium space show",
+    "hours": "Wed-Sun 10am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Museum",
+    "address": "200 Eastern Pkwy, Prospect Heights, Brooklyn",
+    "phone": "+1-718-638-5000",
+    "website": "https://brooklynmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Massive, progressive, and far less crowded than its Manhattan rivals. Their First  Saturdays program is legendary in Brooklyn.",
+    "must_try": "The Dinner Party by Judy Chicago",
+    "hours": "Wed-Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cooper Hewitt, Smithsonian Design Museum",
+    "address": "2 E 91st St, Upper East Side, Manhattan",
+    "phone": "+1-212-849-8400",
+    "website": "https://cooperhewitt.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Housed in Andrew Carnegie's former mansion, this is the nation's only museum  dedicated to historic and contemporary design.",
+    "must_try": "The interactive pen provided upon entry",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MoMA PS1",
+    "address": "22-25 Jackson Ave, Long Island City, Queens",
+    "phone": "+1-718-784-2084",
+    "website": "https://www.momaps1.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.3",
+    "description": "MoMA's contemporary art outpost in a converted school building in Queens. Free admission all of 2026 for its 50th anniversary. Edgier and less crowded than the mothership.",
+    "must_try": "Whatever the current installation is — they rotate constantly",
+    "hours": "Thu-Mon 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Museum of Modern Art (MoMA)",
+    "address": "11 W 53rd St, Midtown, Manhattan",
+    "phone": "+1-212-708-9400",
+    "website": "https://www.moma.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Starry Night, Campbell's Soup Cans, Monet's Water Lilies — all here. The sculpture garden is a free oasis in Midtown. Free Friday evenings.",
+    "must_try": "5th floor permanent collection + sculpture garden",
+    "hours": "Sun-Fri 10:30am-5:30pm, Sat 10:30am-7pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Museum of the City of New York",
+    "address": "1220 5th Ave, East Harlem, Manhattan",
+    "phone": "+1-212-534-1672",
+    "website": "https://mcny.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Often overlooked by tourists, this is the definitive archive of NYC's evolution. The  ongoing 'New York at Its Core' exhibit is mandatory viewing.",
+    "must_try": "New York at Its Core exhibition",
+    "hours": "Thu-Mon 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Neue Galerie",
+    "address": "1048 5th Ave, Upper East Side, Manhattan",
+    "phone": "+1-212-628-6200",
+    "website": "https://neuegalerie.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "A gilded mansion dedicated exclusively to early 20th-century German and Austrian art.  Home to Klimt's famed 'Woman in Gold'.",
+    "must_try": "Gustav Klimt's Portrait of Adele Bloch-Bauer I",
+    "hours": "Thu-Mon 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "New Museum",
+    "address": "235 Bowery, Lower East Side, Manhattan",
+    "phone": "+1-212-219-1222",
+    "website": "https://newmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "A stack of asymmetrical silver boxes housing aggressive, boundary-pushing  contemporary art. Not for traditionalists.",
+    "must_try": "The panoramic view from the Sky Room",
+    "hours": "Tue-Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Solomon R. Guggenheim Museum",
+    "address": "1071 5th Ave, Upper East Side, Manhattan",
+    "phone": "+1-212-423-3500",
+    "website": "https://www.guggenheim.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Frank Lloyd Wright's spiral. Walk the ramp. The building IS the art. Whatever exhibition is on is secondary to the architecture.",
+    "must_try": "Walk the full spiral top to bottom",
+    "hours": "Sun-Fri 11am-6pm, Sat 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tenement Museum",
+    "address": "103 Orchard St, Lower East Side, Manhattan",
+    "phone": "+1-877-975-3786",
+    "website": "https://tenement.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Guided tours through meticulously restored immigrant apartments. An intensely  emotional and vital look into the working-class history of New York.",
+    "must_try": "Hard Times or Sweatshop Workers Tour",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Met Cloisters",
+    "address": "99 Margaret Corbin Dr, Fort Tryon Park, Manhattan",
+    "phone": "+1-212-923-3700",
+    "website": "https://metmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "A stunning reconstruction of European medieval abbeys perched on a hill overlooking  the Hudson River. Feels entirely detached from NYC.",
+    "must_try": "The Unicorn Tapestries",
+    "hours": "Thu-Tue 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Metropolitan Museum of Art",
+    "address": "1000 5th Ave, Upper East Side, Manhattan",
+    "phone": "+1-212-535-7710",
+    "website": "https://www.metmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "2 million works spanning 5,000 years. You could come every day for a year and not see it all. The rooftop garden in summer has the best view in Manhattan.",
+    "must_try": "Egyptian Temple of Dendur, then the rooftop bar in summer",
+    "hours": "Sun-Tue, Thu 10am-5pm; Fri-Sat 10am-9pm; closed Wed",
+    "seasonal": "Rooftop bar open spring–fall",
+    "modes": [
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Whitney Museum of American Art",
+    "address": "99 Gansevoort St, Meatpacking District, Manhattan",
+    "phone": "+1-212-570-3600",
+    "website": "https://whitney.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "American art from the 20th century forward in Renzo Piano's Meatpacking building. The terraces overlooking the Hudson are worth the admission alone.",
+    "must_try": "Outdoor terraces on every floor + Whitney Biennial years",
+    "hours": "Mon, Wed, Thu, Sun 10:30am-6pm; Fri-Sat 10:30am-10pm; closed Tue",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Broadway (Theater District)",
+    "address": "Times Square area, W 41st-54th St between 6th-8th Ave, Manhattan",
+    "phone": null,
+    "website": "https://www.broadway.com",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "41 professional theaters. The Lion King, Hamilton, Wicked, whatever is new — there's a reason this is the global capital of live theater. TKTS booth in Times Square for same-day discounted tickets.",
+    "must_try": "TKTS booth for 20-50% off same-day tickets",
+    "hours": "Most shows Tue-Sun, dark Monday",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Circle Line Sightseeing Cruises",
+    "address": "Pier 83, W 42nd St, Midtown West, Manhattan",
+    "phone": "+1-212-563-3200",
+    "website": "https://circleline.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The quintessential tourist boat. The 'Best of NYC' cruise circumnavigates the entire  island, offering unbeatable skyline views.",
+    "must_try": "Best of NYC 2.5-hour Cruise",
+    "hours": "Daily departures",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Manhattan by Sail",
+    "address": "Pier 17 or Battery Park, Manhattan",
+    "phone": null,
+    "website": "https://manhattanbysail.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Ditch the ferry fumes for a historic schooner. Sailing past the Statue of Liberty at sunset  with a cocktail is pure magic.",
+    "must_try": "Sunset Sail on the Clipper City",
+    "hours": "Varies (Summer)",
+    "seasonal": "Summer",
+    "modes": [
+      "chill",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Scott's Pizza Tours",
+    "address": "Varies (Citywide)",
+    "phone": null,
+    "website": "https://scottspizzatours.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "An obsessive, nerdy, and deeply delicious deep dive into the thermal dynamics and  history of NYC pizza. Highly educational.",
+    "must_try": "The Brooklyn Pizza Walk",
+    "hours": "Varies by tour",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Brewery",
+    "address": "79 N 11th St, Williamsburg, Brooklyn",
+    "phone": "+1-718-486-7422",
+    "website": "https://brooklynbrewery.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The flagship that helped put craft beer on the map in Brooklyn. Taproom with rotating drafts. Free tours on weekends.",
+    "must_try": "Brooklyn Lager on draft",
+    "hours": "Mon-Thu 5pm-10pm, Fri-Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "House of Yes",
+    "address": "2 Wyckoff Ave, Bushwick, Brooklyn",
+    "phone": null,
+    "website": "https://houseofyes.org",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bushwick performance venue / nightclub / circus. Themed parties, aerial performers, consent culture front and center. Dress up or don't bother.",
+    "must_try": "Any themed Saturday night event",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bemelmans Bar",
+    "address": "35 E 76th St (The Carlyle Hotel), Upper East Side, Manhattan",
+    "phone": "+1-212-744-1600",
+    "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Old-money cocktail bar inside The Carlyle with original Ludwig Bemelmans murals on the walls. Live jazz, $30 martinis, and the most glamorous room in the city.",
+    "must_try": "Classic martini while the jazz trio plays",
+    "hours": "5pm-1am Tue-Sat",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dead Rabbit",
+    "address": "30 Water St, Financial District, Manhattan",
+    "phone": "+1-646-422-7906",
+    "website": "https://www.deadrabbitnyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Multi-floor cocktail bar consistently ranked among the world's best. Irish pub downstairs, cocktail parlor upstairs. The menu reads like a novel.",
+    "must_try": "Any cocktail from the parlor menu (they rotate seasonally)",
+    "hours": "11am-2am daily",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Please Don't Tell (PDT)",
+    "address": "113 St Marks Pl, East Village, Manhattan",
+    "phone": "+1-212-614-0386",
+    "website": "https://www.pdtnyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Enter through a phone booth inside Crif Dogs hot dog shop. The OG speakeasy revival bar. Reservations at 3pm sharp, gone in seconds.",
+    "must_try": "Mezcal Mule (or whatever seasonal cocktail catches your eye)",
+    "hours": "5pm-2am daily",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "McSorley's Old Ale House",
+    "address": "15 E 7th St, East Village, Manhattan",
+    "phone": "+1-212-474-9148",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "NYC's oldest bar, open since 1854. Two choices: light or dark ale. Cash only. Sawdust on the floor. Lincoln drank here. So should you.",
+    "must_try": "Two mugs of dark ale (they always come in pairs)",
+    "hours": "Mon-Sat 11am-1am, Sun 1pm-1am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "King Cole Bar",
+    "address": "2 E 55th St (St. Regis), Midtown, Manhattan",
+    "phone": "+1-212-339-6721",
+    "website": "https://marriott.com",
+    "category": "bars_nightlife",
+    "subcategory": "hotel_bars",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "A staggeringly expensive, opulent hotel bar boasting a Maxfield Parrish mural. It claims  to have invented the Bloody Mary.",
+    "must_try": "Red Snapper (The original Bloody Mary)",
+    "hours": "Daily 4pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lobby Bar at The Bowery Hotel",
+    "address": "335 Bowery, East Village, Manhattan",
+    "phone": "+1-212-505-9100",
+    "website": "https://theboweryhotel.com",
+    "category": "bars_nightlife",
+    "subcategory": "hotel_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Oozing atmosphere with crimson velvet, antique sofas, and a roaring fireplace. Excellent  people-watching for downtown's fashion elite.",
+    "must_try": "The Bowery 75",
+    "hours": "Daily 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Campbell",
+    "address": "15 Vanderbilt Ave (Grand Central), Midtown, Manhattan",
+    "phone": "+1-212-297-5363",
+    "website": "https://thecampbellnyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "hotel_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Hidden inside Grand Central, this former tycoon's office feels like stepping into the  1920s. Dress well, as the ambiance demands it.",
+    "must_try": "Prohibition Punch",
+    "hours": "Daily 3pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cubbyhole",
+    "address": "281 W 12th St, West Village, Manhattan",
+    "phone": "+1-212-243-9041",
+    "website": "https://cubbyholebar.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq+_nightlife",
+    "price": "$",
+    "rating": "4.6",
+    "description": "A legendary, chaotic, and deeply lovable lesbian bar. The ceiling is covered in paper  lanterns and the jukebox is always blasting.",
+    "must_try": "Margaritas on Tuesday",
+    "hours": "Daily 2pm-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Henrietta Hudson",
+    "address": "438 Hudson St, West Village, Manhattan",
+    "phone": "+1-212-924-3347",
+    "website": "https://henriettahudson.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq+_nightlife",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A core anchor for queer women-centered nightlife since 1991. Expect strong drinks, a  packed dance floor, and a devoted community.",
+    "must_try": "Weekend DJ sets",
+    "hours": "Wed-Sun 4pm-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Julius'",
+    "address": "159 W 10th St, West Village, Manhattan",
+    "phone": "+1-212-243-1928",
+    "website": "https://juliusbarny.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq+_nightlife",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The oldest gay bar in NYC, predating Stonewall. Unpretentious, affordable, and famous  for its surprisingly great burgers.",
+    "must_try": "The Julius Burger",
+    "hours": "Daily 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stonewall Inn",
+    "address": "53 Christopher St, West Village, Manhattan",
+    "phone": "+1-212-488-2705",
+    "website": "https://thestonewallinnnyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq+_nightlife",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The birthplace of the modern gay rights movement. It functions beautifully as both a  living museum and a fiercely fun dive bar.",
+    "must_try": "Drag night upstairs",
+    "hours": "Daily 1pm-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bowery Ballroom",
+    "address": "6 Delancey St, Lower East Side, Manhattan",
+    "phone": "+1-212-533-2111",
+    "website": "https://mercuryeastpresents.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_beyond_jazz",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Arguably the best mid-sized live music venue in America. Impeccable acoustics, great  sightlines, and deep NYC indie history.",
+    "must_try": "Catch an indie band before they blow up",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Steel",
+    "address": "319 Frost St, East Williamsburg, Brooklyn",
+    "phone": "+1-888-929-7849",
+    "website": "https://bowerypresents.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_beyond_jazz",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A sprawling industrial venue retrofitted into a premier concert hall. It sounds incredible  and draws the biggest touring alternative acts.",
+    "must_try": "General Admission Floor",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Music Hall of Williamsburg",
+    "address": "66 N 6th St, Williamsburg, Brooklyn",
+    "phone": "+1-718-486-5400",
+    "website": "https://musichallofwilliamsburg.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_beyond_jazz",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The quintessential Brooklyn rock club. Intimate enough to feel close to the stage, large  enough to attract serious talent.",
+    "must_try": "Pre-show drinks in the basement lounge",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Webster Hall",
+    "address": "125 E 11th St, East Village, Manhattan",
+    "phone": "+1-212-353-1600",
+    "website": "https://websterhall.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_beyond_jazz",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A massive, multi-tiered historic ballroom. Renovated but retaining its grit, it hosts  everyone from hip-hop legends to massive EDM raves.",
+    "must_try": "Balcony view during a sold-out show",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Note Jazz Club",
+    "address": "131 W 3rd St, Greenwich Village, Manhattan",
+    "phone": "+1-212-475-8592",
+    "website": "https://www.bluenotejazz.com/nyc",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Legendary Greenwich Village jazz club. Two sets nightly featuring top-tier musicians. Intimate room, decent food, great cocktails.",
+    "must_try": "Late show (cheaper, looser energy)",
+    "hours": "Shows nightly, doors 6pm & 10:30pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smalls Jazz Club",
+    "address": "183 W 10th St, West Village, Manhattan",
+    "phone": "+1-646-476-4346",
+    "website": "https://www.smallslive.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Basement jazz club that feels like a 1950s after-hours session. $20 cover, BYOB, no drink minimum. The real deal.",
+    "must_try": "Late-night jam session (starts ~12:30am)",
+    "hours": "Shows from 7:30pm, late shows from 12:30am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "230 Fifth",
+    "address": "230 5th Ave, NoMad, Manhattan",
+    "phone": "+1-212-725-4300",
+    "website": "https://230-fifth.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "NYC's largest outdoor rooftop garden. It leans heavily tourist, but staring directly at the  Empire State Building from an outdoor igloo is undeniably fun.",
+    "must_try": "Hot Boozy Cider (Winter)",
+    "hours": "Daily 2pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mr. Purple",
+    "address": "180 Orchard St 15th Floor, Lower East Side, Manhattan",
+    "phone": "+1-212-237-1790",
+    "website": "https://mrpurplenyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.1",
+    "description": "A pulsating, chaotic rooftop bar with a pool. It captures the modern, aggressive nightlife  spirit of the Lower East Side perfectly.",
+    "must_try": "Mr. Purple Signature Cocktail",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "PHD Terrace",
+    "address": "210 W 55th St, Midtown, Manhattan",
+    "phone": "+1-646-625-4880",
+    "website": "https://phdterrace.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.0",
+    "description": "A glitzy midtown club masquerading as a terrace. Arrive early for the views, stay late if  you enjoy bottle service and loud music.",
+    "must_try": "Mega Mule",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Roof at PUBLIC",
+    "address": "215 Chrystie St, Lower East Side, Manhattan",
+    "phone": "+1-212-735-6000",
+    "website": "https://publichotels.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Ian Schrager’s ultra-sleek, sexy penthouse lounge. The 360-degree views are  phenomenal, and the crowd is aggressively fashionable.",
+    "must_try": "Espresso Martini",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Compagnie des Vins Surnaturels",
+    "address": "249 Centre St, Little Italy, Manhattan",
+    "phone": null,
+    "website": "https://compagniewinebar.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "A sophisticated French wine bar that refuses to take itself too seriously. Play 'mystery  wine' with the sommelier to win a free bottle.",
+    "must_try": "The Mystery Wine Flight",
+    "hours": "Daily 4pm-12am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ruffian",
+    "address": "125 E 7th St, East Village, Manhattan",
+    "phone": null,
+    "website": "https://ruffiannyc.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "A wildly creative Eastern European-influenced wine bar. The orange wine selection is  exhaustive and the food defies categorization.",
+    "must_try": "Orange Wine Flight",
+    "hours": "Tue-Sun 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wildair",
+    "address": "142 Orchard St, Lower East Side, Manhattan",
+    "phone": null,
+    "website": "https://wildair.nyc",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The epicenter of NYC's natural wine movement. Tiny, cramped, and serving some of the  most inventive bar food in the city.",
+    "must_try": "Beef Tartare and any Pét-Nat",
+    "hours": "Tue-Sat 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bibble & Sip",
+    "address": "253 W 51st St, Theater District, Manhattan",
+    "phone": "+1-646-649-5116",
+    "website": "https://bibbleandsip.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakeries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "An adorable Asian-French bakery famous for its massive cream puffs. A perfect  pre-theater sugar rush.",
+    "must_try": "Earl Grey Cream Puff",
+    "hours": "Daily 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Breads Bakery",
+    "address": "18 E 16th St, Union Square, Manhattan",
+    "phone": "+1-212-633-2253",
+    "website": "https://breadsbakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakeries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "An Israeli-leaning bakery pumping out the best chocolate babka in the United States,  bar none.",
+    "must_try": "Chocolate Babka",
+    "hours": "Daily 6:30am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dominique Ansel Bakery",
+    "address": "189 Spring St, SoHo, Manhattan",
+    "phone": "+1-212-219-2773",
+    "website": "https://dominiqueansel.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakeries",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The birthplace of the Cronut. The line wraps down Spring Street, but the inventive,  rotating pastry menu justifies the hype.",
+    "must_try": "The Cronut or DKA",
+    "hours": "Daily 8am-7pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mah-Ze-Dahr Bakery",
+    "address": "28 Greenwich Ave, West Village, Manhattan",
+    "phone": "+1-212-498-9810",
+    "website": "https://mahzedahrbakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakeries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A sophisticated, jewel-box bakery. Everything is pristine, rich, and culturally diverse,  backed by Tom Colicchio.",
+    "must_try": "Mah-Ze-Dahr Bar and Brioche Doughnut",
+    "hours": "Daily 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Levain Bakery",
+    "address": "167 W 74th St, Upper West Side, Manhattan (+ multiple locations)",
+    "phone": "+1-212-874-6080",
+    "website": "https://www.levainbakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "6-ounce cookies that are basically a meal. The chocolate chip walnut is the one. Line forms early on weekends.",
+    "must_try": "Chocolate chip walnut cookie",
+    "hours": "8am-8pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Devoción",
+    "address": "69 Grand St, Williamsburg, Brooklyn",
+    "phone": "+1-718-285-6180",
+    "website": "https://www.devocion.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Colombian single-origin coffee in a jaw-dropping greenhouse space. Beans go from farm to cup in ~10 days. One of the most beautiful cafes in the country.",
+    "must_try": "Cortado or any single-origin pour-over",
+    "hours": "7am-7pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ample Hills Creamery",
+    "address": "623 Vanderbilt Ave, Prospect Heights, Brooklyn",
+    "phone": null,
+    "website": "https://amplehills.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert_/_ice_cream",
+    "price": "$",
+    "rating": "4.6",
+    "description": "A beloved Brooklyn institution serving whimsical, mix-in heavy scoops. Perfect after a  walk through Prospect Park.",
+    "must_try": "Ooey Gooey Butter Cake Ice Cream",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Big Gay Ice Cream",
+    "address": "450 Washington St, Tribeca, Manhattan",
+    "phone": null,
+    "website": "https://biggayicecream.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert_/_ice_cream",
+    "price": "$",
+    "rating": "4.5",
+    "description": "What started as a food truck is now a legendary soft-serve empire. The concoctions are  salty, sweet, and wonderfully irreverent.",
+    "must_try": "The Salty Pimp",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Morgenstern's Finest Ice Cream",
+    "address": "2 Rivington St, Lower East Side, Manhattan",
+    "phone": "+1-212-209-7684",
+    "website": "https://morgensternsnyc.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert_/_ice_cream",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A clinical, retro-chic parlor serving aggressively creative flavors. You've never had black  coconut ash ice cream before, but you need to.",
+    "must_try": "Black Coconut Ash Ice Cream",
+    "hours": "Daily 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Van Leeuwen Ice Cream",
+    "address": "Multiple locations (original: 81 Bergen St, Boerum Hill, Brooklyn)",
+    "phone": null,
+    "website": "https://vanleeuwenicecream.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Started from a yellow truck, now a citywide empire. Honeycomb and Earl Grey flavors are cult favorites. Vegan options that actually taste good.",
+    "must_try": "Honeycomb or Planet Earth (vegan)",
+    "hours": "12pm-11pm daily (varies by location)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Black Fox Coffee",
+    "address": "70 Pine St, Financial District, Manhattan",
+    "phone": null,
+    "website": "https://blackfoxcoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "specialty_coffee",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A multi-roaster cafe bringing absolute precision to FiDi. It is serious coffee for people  who obsess over extraction yields.",
+    "must_try": "Filter Coffee Selection",
+    "hours": "Mon-Fri 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Partners Coffee",
+    "address": "125 N 6th St, Williamsburg, Brooklyn",
+    "phone": "+1-347-586-0063",
+    "website": "https://partnerscoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "specialty_coffee",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A bustling roastery in the heart of Williamsburg. You can watch the beans being roasted  while sipping a flawless flat white.",
+    "must_try": "Flat White",
+    "hours": "Daily 7am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sey Coffee",
+    "address": "18 Grattan St, Bushwick, Brooklyn",
+    "phone": null,
+    "website": "https://seycoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "specialty_coffee",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "A light-drenched, plant-filled warehouse pouring the most meticulously sourced  light-roast coffee in North America.",
+    "must_try": "Single Origin Pour Over",
+    "hours": "Mon-Fri 7am-5pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Xi'an Famous Foods",
+    "address": "Multiple locations (flagship: 67 Bayard St, Chinatown)",
+    "phone": "+1-212-786-2068",
+    "website": "https://www.xianfoods.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Hand-pulled noodles and cumin lamb from western China. Spicy, salty, addictive. Multiple locations — find your closest one.",
+    "must_try": "Spicy cumin lamb hand-ripped noodles (liang pi cold skin noodles too)",
+    "hours": "11am-9pm daily (varies by location)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ichiran",
+    "address": "132 W 31st St, Midtown, Manhattan",
+    "phone": "+1-212-465-1112",
+    "website": "https://ichiranusa.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Solo dining booths designed to eliminate human interaction. The ultimate introvert  paradise serving intensely rich tonkotsu broth.",
+    "must_try": "Classic Tonkotsu Ramen",
+    "hours": "Daily 11am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ippudo",
+    "address": "65 4th Ave, East Village, Manhattan",
+    "phone": "+1-212-388-0088",
+    "website": "https://ippudony.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The spot that ignited NYC's modern ramen obsession. The energy is deafening and the  pork buns are legendary.",
+    "must_try": "Akamaru Modern Ramen and Hirata Pork Buns",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jongro BBQ",
+    "address": "22 W 32nd St Fl 2, Koreatown, Manhattan",
+    "phone": "+1-212-473-2233",
+    "website": "https://jongrobbqny.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Hidden on the second floor of K-Town, this spot mimics old-school Seoul. The meat  quality is elite and the atmosphere is wonderfully chaotic.",
+    "must_try": "Beef Platter and Watermelon Soju",
+    "hours": "Daily 11:30am-1am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nom Wah Tea Parlor",
+    "address": "13 Doyers St, Chinatown, Manhattan",
+    "phone": "+1-212-962-6047",
+    "website": "https://nomwah.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "NYC's oldest dim sum parlor located on the infamous 'Bloody Angle'. Vintage diner  aesthetics meet made-to-order dumplings.",
+    "must_try": "The Original Egg Roll and Roast Pork Bun",
+    "hours": "Daily 10:30am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pig and Khao",
+    "address": "68 Clinton St, Lower East Side, Manhattan",
+    "phone": "+1-212-920-4485",
+    "website": "https://pigandkhao.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "An unapologetic, hip-hop blasting Filipino-Thai mashup. The sizzle plates and  bottomless brunch are Lower East Side institutions.",
+    "must_try": "Sizzling Sisig and Khao Soi",
+    "hours": "Tue-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Soothr",
+    "address": "204 E 13th St, East Village, Manhattan",
+    "phone": null,
+    "website": "https://soothrnyc.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Michelin-recognized Thai comfort food in a hyper-stylized space. The cocktails are  potent and the noodle dishes pack serious heat.",
+    "must_try": "Koong Karee (Shrimp Curry) and Duck Noodles",
+    "hours": "Daily 12pm-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushi Nakazawa",
+    "address": "23 Commerce St, West Village, Manhattan",
+    "phone": "+1-212-924-2212",
+    "website": "https://sushinakazawa.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "High-end omakase born from the Jiro lineage. It is precise, theatrical, and demands  your full attention—and a hefty budget.",
+    "must_try": "20-course Omakase",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushi Yasuda",
+    "address": "204 E 43rd St, Midtown, Manhattan",
+    "phone": "+1-212-972-1001",
+    "website": "https://sushiyasuda.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "A purist sanctuary in Midtown. There are no spicy mayo rolls here; it is an exercise in  austere, perfect fish sourcing.",
+    "must_try": "Chef's Omakase at the bar",
+    "hours": "Mon-Sat 12pm-2pm, 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tanoshi Sushi Sake Bar",
+    "address": "1372 York Ave, Upper East Side, Manhattan",
+    "phone": "+1-917-265-8254",
+    "website": "https://tanoshisushinyc.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "A hidden, rustic omakase counter far east on the UES. It's strictly BYOB and offers  incredible value for the quality of fish.",
+    "must_try": "The signature omakase progression",
+    "hours": "Tue-Sun 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Totto Ramen",
+    "address": "248 E 52nd St, Midtown East, Manhattan",
+    "phone": "+1-212-426-8765",
+    "website": "https://tottoramen.com",
+    "category": "dining",
+    "subcategory": "asian_beyond_xi'an",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A tiny, cash-only joint slinging incredible chicken-based paitan broth. You will leave  smelling like garlic and satisfaction.",
+    "must_try": "Chicken Paitan Ramen",
+    "hours": "Daily 11:30am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Absolute Bagels",
+    "address": "2788 Broadway, Upper West Side, Manhattan",
+    "phone": "+1-212-932-2052",
+    "website": null,
+    "category": "dining",
+    "subcategory": "bagel_shops",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Thai-owned, cash-only perfection on the UWS. You will smell the malt from down the  block, and the crust-to-chew ratio is unmatched.",
+    "must_try": "Hot Egg Bagel with Lox Spread",
+    "hours": "Daily 6am-6pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ess-a-Bagel",
+    "address": "831 3rd Ave, Midtown East, Manhattan",
+    "phone": "+1-212-980-1010",
+    "website": "https://ess-a-bagel.com",
+    "category": "dining",
+    "subcategory": "bagel_shops",
+    "price": "$",
+    "rating": "4.4",
+    "description": "These bagels are massive, doughy, and deeply satisfying. The line moves fast, but know  your order before you reach the counter.",
+    "must_try": "Everything Bagel with Scallion Cream Cheese",
+    "hours": "Daily 6am-5pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shelsky's Brooklyn Bagels",
+    "address": "141 Court St, Cobble Hill, Brooklyn",
+    "phone": "+1-718-855-2810",
+    "website": "https://shelskys.com",
+    "category": "dining",
+    "subcategory": "bagel_shops",
+    "price": "$",
+    "rating": "4.5",
+    "description": "An authentic Brooklyn appetizing shop that refuses to compromise on tradition while  serving brilliant combinations like the 'Brooklyn Native'.",
+    "must_try": "Sichuan Peppercorn Smoked Salmon on a Pumpernickel Bagel",
+    "hours": "Daily 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tompkins Square Bagels",
+    "address": "165 Avenue A, East Village, Manhattan",
+    "phone": "+1-646-351-6520",
+    "website": "https://tompkinssquarebagels.com",
+    "category": "dining",
+    "subcategory": "bagel_shops",
+    "price": "$",
+    "rating": "4.6",
+    "description": "A neighborhood anchor that treats bagel-making as serious craft. Expect outrageous  cream cheese flavors and a hipster crowd.",
+    "must_try": "French Toast Bagel with Birthday Cake Cream Cheese",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dinosaur Bar-B-Que",
+    "address": "700 W 125th St, Harlem, Manhattan",
+    "phone": "+1-212-694-1777",
+    "website": "https://dinosaurbarbque.com",
+    "category": "dining",
+    "subcategory": "bbq_/_smokehouse",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "An upstate legend that brought biker-bar energy to Harlem. Huge portions, loud blues  music, and highly dependable ribs.",
+    "must_try": "Pork Ribs and Mac & Cheese",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fette Sau",
+    "address": "354 Metropolitan Ave, Williamsburg, Brooklyn",
+    "phone": "+1-718-963-3404",
+    "website": "https://fettesau.nyc",
+    "category": "dining",
+    "subcategory": "bbq_/_smokehouse",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Dry-rubbed meats served by the pound in a converted auto-body shop. The whiskey list  is staggering and the communal tables are always packed.",
+    "must_try": "Black Angus Beef Brisket",
+    "hours": "Daily 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hometown Bar-B-Que",
+    "address": "454 Van Brunt St, Red Hook, Brooklyn",
+    "phone": "+1-347-294-4644",
+    "website": "https://hometownbbq.com",
+    "category": "dining",
+    "subcategory": "bbq_/_smokehouse",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The undisputed king of NYC BBQ. Hidden deep in Red Hook, the lines are brutal but the  massive beef ribs and Caribbean-spiced meats justify the trek.",
+    "must_try": "Jamaican Jerk Ribs and Brisket",
+    "hours": "Tue-Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mighty Quinn's Barbeque",
+    "address": "103 2nd Ave, East Village, Manhattan",
+    "phone": "+1-212-677-3733",
+    "website": "https://mightyquinnsbbq.com",
+    "category": "dining",
+    "subcategory": "bbq_/_smokehouse",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The operation that taught Manhattan what real smoke tastes like. It is fast, casual, and  the burnt ends melt instantly.",
+    "must_try": "Brisket and Burnt Ends",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Russ & Daughters",
+    "address": "179 E Houston St, Lower East Side, Manhattan",
+    "phone": "+1-212-475-4880",
+    "website": "https://www.russanddaughters.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Appetizing shop since 1914. Lox, bagels, cream cheese, and smoked fish that defines what a New York breakfast is supposed to be.",
+    "must_try": "Classic bagel with Nova Scotia lox and cream cheese",
+    "hours": "Mon-Fri 8am-6pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Balthazar",
+    "address": "80 Spring St, SoHo, Manhattan",
+    "phone": "+1-212-965-1414",
+    "website": "https://balthazarny.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Keith McNally's Parisian brasserie in SoHo. The brunch is iconic. The steak frites at dinner is just as good. Still packed after 25+ years.",
+    "must_try": "Weekend brunch (get the French toast)",
+    "hours": "7:30am-12am daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clinton St. Baking Company",
+    "address": "4 Clinton St, Lower East Side, Manhattan",
+    "phone": "+1-646-602-6263",
+    "website": "https://clintonstreetbaking.com",
+    "category": "dining",
+    "subcategory": "brunch_spots",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "You will wait two hours on a sidewalk for these pancakes, and you won't regret a single  minute of it once the maple butter hits the table.",
+    "must_try": "Wild Maine Blueberry Pancakes",
+    "hours": "Daily 9am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cookshop",
+    "address": "156 10th Ave, Chelsea, Manhattan",
+    "phone": "+1-212-924-4440",
+    "website": "https://cookshopny.com",
+    "category": "dining",
+    "subcategory": "brunch_spots",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "An absolute powerhouse for brunch near the High Line. Flawless farm-to-table eggs,  pastries, and bloody marys in a sun-drenched room.",
+    "must_try": "Huevos Rancheros and Beignets",
+    "hours": "Daily 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jack's Wife Freda",
+    "address": "226 Lafayette St, SoHo, Manhattan",
+    "phone": "+1-212-510-8550",
+    "website": "https://jackswifefreda.com",
+    "category": "dining",
+    "subcategory": "brunch_spots",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Mediterranean-American bistro that is essentially a SoHo fashion shoot come to life. The  green shakshuka is as beautiful as the crowd.",
+    "must_try": "Green Shakshuka and Rosewater Waffles",
+    "hours": "Daily 8:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sadelle's",
+    "address": "463 W Broadway, SoHo, Manhattan",
+    "phone": "+1-212-254-3000",
+    "website": "https://sadelles.com",
+    "category": "dining",
+    "subcategory": "brunch_spots",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "A theatrical ode to New York appetizing culture. Waiters in waistcoats deliver  multi-tiered towers of bagels and lox in a stunning brick dining room.",
+    "must_try": "The Sadelle's Tower (Bagels and Salmon)",
+    "hours": "Mon-Fri 8am-3pm, Sat-Sun 8am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sunday in Brooklyn",
+    "address": "348 Wythe Ave, Williamsburg, Brooklyn",
+    "phone": "+1-347-222-6722",
+    "website": "https://sundayinbrooklyn.com",
+    "category": "dining",
+    "subcategory": "brunch_spots",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A tri-level sanctuary of comfort food. The malted malt pancakes are ridiculously thick  and essentially double as dessert.",
+    "must_try": "Malted Pancakes with Hazelnut Praline",
+    "hours": "Daily 9:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Di Fara Pizza",
+    "address": "1424 Avenue J, Midwood, Brooklyn",
+    "phone": "+1-718-258-1367",
+    "website": "https://www.difara.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Legendary Brooklyn pizzeria. Every pie still made by hand, one at a time. The line is long and worth it.",
+    "must_try": "Square slice",
+    "hours": "Wed-Sun 12pm-8pm (varies, check ahead)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Joe's Pizza",
+    "address": "7 Carmine St, Greenwich Village, Manhattan",
+    "phone": "+1-212-366-1182",
+    "website": "https://www.joespizzanyc.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The default NYC slice. Thin, foldable, greasy in the right way. Cash only, eaten standing on the sidewalk, exactly as God intended.",
+    "must_try": "Classic cheese slice",
+    "hours": "10am–5am daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventure",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Katz's Delicatessen",
+    "address": "205 E Houston St, Lower East Side, Manhattan",
+    "phone": "+1-212-254-2246",
+    "website": "https://katzsdelicatessen.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Open since 1888. The pastrami sandwich is a religious experience. Don't lose your ticket.",
+    "must_try": "Hand-carved pastrami on rye",
+    "hours": "Mon-Wed 8am-10:45pm, Thu 8am-2:45am, Fri 8am-24hrs, Sat 24hrs, Sun close 10:45pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Halal Guys",
+    "address": "W 53rd St & 6th Ave (original cart), Midtown, Manhattan",
+    "phone": null,
+    "website": "https://thehalalguys.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.3",
+    "description": "The original street cart that launched an empire. Chicken and gyro over rice with white sauce and hot sauce. The line at 2am tells you everything.",
+    "must_try": "Combo platter with both sauces",
+    "hours": "11am-4am daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eleven Madison Park",
+    "address": "11 Madison Ave, Flatiron, Manhattan",
+    "phone": "+1-212-889-0905",
+    "website": "https://www.elevenmadisonpark.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Plant-based tasting menu from Daniel Humm in one of NYC's most stunning dining rooms. Controversial pivot, but the craft is undeniable.",
+    "must_try": "Full tasting menu",
+    "hours": "Dinner Tue-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Le Bernardin",
+    "address": "155 W 51st St, Midtown, Manhattan",
+    "phone": "+1-212-554-1515",
+    "website": "https://www.le-bernardin.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Eric Ripert's three-Michelin-star seafood temple. The tasting menu is a masterclass. This is a bucket-list restaurant and it earns it.",
+    "must_try": "Chef's tasting menu",
+    "hours": "Lunch Mon-Fri, Dinner Mon-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Peter Luger Steak House",
+    "address": "178 Broadway, Williamsburg, Brooklyn",
+    "phone": "+1-718-387-7400",
+    "website": "https://peterluger.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "Cash-only Brooklyn steakhouse open since 1887. The porterhouse for two is the only thing on the menu that matters. No-frills service, world-class beef.",
+    "must_try": "Porterhouse steak for two",
+    "hours": "Mon-Thu 11:45am-9:45pm, Fri-Sat 11:45am-10:45pm, Sun 12:45pm-9:45pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tatiana by Kwame Onwuachi",
+    "address": "10 Lincoln Center Plaza, Upper West Side, Manhattan",
+    "phone": "+1-212-776-2822",
+    "website": "https://www.tatiananyc.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Afro-Caribbean fine dining at Lincoln Center from Kwame Onwuachi. One of the hardest reservations in the city. The suya-spiced duck is transcendent.",
+    "must_try": "Suya-spiced duck breast",
+    "hours": "Dinner Tue-Sat, Brunch Sat-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "DeKalb Market Hall",
+    "address": "445 Albee Square W, Downtown Brooklyn, Brooklyn",
+    "phone": null,
+    "website": "https://dekalbmarkethall.com",
+    "category": "dining",
+    "subcategory": "food_halls",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A neon-lit subterranean maze of 40+ vendors. It hosts the only outer-borough outpost  of Katz's Deli and incredible Asian street food.",
+    "must_try": "Arepa Lady and Katz's Pastrami",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Time Out Market New York",
+    "address": "55 Water St, DUMBO, Brooklyn",
+    "phone": null,
+    "website": "https://timeoutmarket.com/newyork",
+    "category": "dining",
+    "subcategory": "food_halls",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A highly curated hall overlooking the East River. It compresses the best of NYC’s culinary  scene into one brick warehouse.",
+    "must_try": "Clinton St. Baking Co. Pancakes or Bark Barbecue",
+    "hours": "Daily 8am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urbanspace Vanderbilt",
+    "address": "230 Park Ave, Midtown, Manhattan",
+    "phone": null,
+    "website": "https://urbanspacenyc.com",
+    "category": "dining",
+    "subcategory": "food_halls",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "A godsend for Midtown commuters and tourists alike. Fast, varied, and infinitely better  than the surrounding corporate chains.",
+    "must_try": "Roberta's Pizza",
+    "hours": "Mon-Fri 7am-9pm, Sat-Sun 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Corner Bistro",
+    "address": "331 W 4th St, West Village, Manhattan",
+    "phone": "+1-212-242-9502",
+    "website": "https://cornerbistrony.com",
+    "category": "dining",
+    "subcategory": "gastropub_/_american",
+    "price": "$",
+    "rating": "4.4",
+    "description": "One of the last real dives in the West Village. Paper plates, cheap McSorley's on tap, and  a towering, messy bacon cheeseburger.",
+    "must_try": "Bistro Burger",
+    "hours": "Daily 11:30am-4am",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "JG Melon",
+    "address": "1291 3rd Ave, Upper East Side, Manhattan",
+    "phone": "+1-212-744-0585",
+    "website": "https://jgmelonnyc.com",
+    "category": "dining",
+    "subcategory": "gastropub_/_american",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "A cash-only Upper East Side institution. It's cramped, covered in watermelon decor, and  serves an unpretentious, flawless pub burger.",
+    "must_try": "Cheeseburger and Cottage Fries",
+    "hours": "Daily 11:30am-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Minetta Tavern",
+    "address": "113 MacDougal St, Greenwich Village, Manhattan",
+    "phone": "+1-212-475-3850",
+    "website": "https://minettatavernny.com",
+    "category": "dining",
+    "subcategory": "gastropub_/_american",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A Parisian steakhouse meets old-New York saloon. The Black Label Burger is a dry-aged  masterpiece that redefines the category.",
+    "must_try": "Black Label Burger",
+    "hours": "Daily 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Hook Tavern",
+    "address": "329 Van Brunt St, Red Hook, Brooklyn",
+    "phone": "+1-917-909-1142",
+    "website": "https://redhooktavern.com",
+    "category": "dining",
+    "subcategory": "gastropub_/_american",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "An homage to classic NYC taverns. The dry-aged burger here is thick, perfectly crusted,  and demands ordering a serious bottle of wine.",
+    "must_try": "Dry-Aged Burger",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "L'Artusi",
+    "address": "228 W 10th St, West Village, Manhattan",
+    "phone": "+1-212-255-5757",
+    "website": "https://www.lartusi.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Modern Italian in the West Village that locals swear by. The spaghetti with crab is legendary. Bar seating is first-come-first-served and a great move.",
+    "must_try": "Spaghetti with crab and chilies",
+    "hours": "5pm-11pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lucali",
+    "address": "575 Henry St, Carroll Gardens, Brooklyn",
+    "phone": "+1-718-858-4086",
+    "website": null,
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "BYOB pizza joint in Carroll Gardens. Cash only, no slices — whole pies only. The crust is the best in the city, full stop. Line up before they open.",
+    "must_try": "Margherita pizza with calzone on the side",
+    "hours": "Wed-Mon 5pm-10pm, closed Tue",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Carbone",
+    "address": "181 Thompson St, Greenwich Village, Manhattan",
+    "phone": null,
+    "website": "https://carbonenewyork.com",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Red-sauce Italian amplified to an absurd, cinematic luxury. Securing a table is a  bloodsport, but the spicy rigatoni is genuinely flawless.",
+    "must_try": "Spicy Rigatoni Vodka",
+    "hours": "Daily 5pm-11:30pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Don Angie",
+    "address": "103 Greenwich Ave, West Village, Manhattan",
+    "phone": "+1-212-889-8884",
+    "website": "https://donangie.com",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Modern Italian-American that commands legendary lines. The pinwheel lasagna for two  is visually stunning and functionally perfect.",
+    "must_try": "Lasagna for Two",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "I Sodi",
+    "address": "314 Bleecker St, West Village, Manhattan",
+    "phone": null,
+    "website": "https://isodinyc.com",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "A narrow, austere love letter to Tuscany. It has a cult following for its impossibly delicate,  multi-layered meat lasagna.",
+    "must_try": "Lasagna a Sugo",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lilia",
+    "address": "567 Union Ave, Williamsburg, Brooklyn",
+    "phone": "+1-718-576-3095",
+    "website": "https://lilianewyork.com",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Housed in a whitewashed former auto-body shop, Missy Robbins serves arguably the  best wood-fired seafood and pasta in Brooklyn.",
+    "must_try": "Sheep's Milk Cheese Filled Agnolotti",
+    "hours": "Daily 4pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rezdôra",
+    "address": "27 E 20th St, Flatiron, Manhattan",
+    "phone": "+1-646-692-9090",
+    "website": "https://rezdora.nyc",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Emilia-Romagna regional pasta executed with Michelin-starred precision. The regional  pasta tasting menu is an absolute triumph.",
+    "must_try": "Regional Pasta Tasting",
+    "hours": "Daily 11:30am-2:30pm, 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Via Carota",
+    "address": "51 Grove St, West Village, Manhattan",
+    "phone": null,
+    "website": "https://viacarota.com",
+    "category": "dining",
+    "subcategory": "italian_beyond_lucali/l'artusi",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The quintessential West Village gastroteca. The cacio e pepe is perfect and the garden  patio is the most charming outdoor dining in the Village.",
+    "must_try": "Cacio e Pepe and Insalata Verde",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Artichoke Basille's Pizza",
+    "address": "321 E 14th St, East Village, Manhattan",
+    "phone": "+1-212-228-2004",
+    "website": "https://artichokepizza.com",
+    "category": "dining",
+    "subcategory": "late_night_/_after-hours_food",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Slices the size of hubcaps covered in thick, creamy artichoke dip. Best consumed after  five beers.",
+    "must_try": "Artichoke Slice",
+    "hours": "Daily 11am-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mamoun's Falafel",
+    "address": "119 MacDougal St, Greenwich Village, Manhattan",
+    "phone": "+1-212-674-8685",
+    "website": "https://mamouns.com",
+    "category": "dining",
+    "subcategory": "late_night_/_after-hours_food",
+    "price": "$",
+    "rating": "4.6",
+    "description": "The oldest falafel shop in NYC. It is a tiny, standing-room-only legend where the hot  sauce is genuinely dangerous.",
+    "must_try": "Falafel Sandwich",
+    "hours": "Daily 11am-4am",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Veselka",
+    "address": "144 2nd Ave, East Village, Manhattan",
+    "phone": "+1-212-228-9682",
+    "website": "https://veselka.com",
+    "category": "dining",
+    "subcategory": "late_night_/_after-hours_food",
+    "price": "$",
+    "rating": "4.5",
+    "description": "A Ukrainian diner holding down the East Village since 1954. Eating a bowl of borscht and  hand-crimped pierogi at 3 AM here is therapeutic.",
+    "must_try": "Meat Pierogi and Borscht",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "budget",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wo Hop",
+    "address": "17 Mott St, Chinatown, Manhattan",
+    "phone": "+1-212-267-2536",
+    "website": "https://wohopchinese.com",
+    "category": "dining",
+    "subcategory": "late_night_/_after-hours_food",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Located entirely in a basement, this is old-school Chinese-American comfort food. It's  loud, cheap, and a savior after midnight.",
+    "must_try": "Beef Chow Fun",
+    "hours": "Daily 10:30am-4:30am",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Los Tacos No. 1",
+    "address": "75 9th Ave, Chelsea Market, Manhattan",
+    "phone": null,
+    "website": "https://www.lostacos1.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Tiny stall inside Chelsea Market turning out perfect adobo chicken and carne asada tacos on fresh corn tortillas. The line moves fast.",
+    "must_try": "Adobo chicken taco",
+    "hours": "11am-10pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cervo's",
+    "address": "43 Canal St, Lower East Side, Manhattan",
+    "phone": null,
+    "website": "https://cervosnyc.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "A narrow, natural-wine-fueled Iberian seafood joint. It is loud, unapologetically hip, and  serves some of the best shrimp heads in the city.",
+    "must_try": "Crispy Shrimp Heads and Mussels Escabeche",
+    "hours": "Daily 5:30pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cobble Fish",
+    "address": "89 South St Pier 16, Seaport District, Manhattan",
+    "phone": null,
+    "website": "https://cobblefish.net",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Casual, outdoor waterfront dining tucked between historic schooners. Feels more like a  nautical New England party than Manhattan.",
+    "must_try": "Lobster Roll and Dark & Stormy",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": "Summer",
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grand Central Oyster Bar",
+    "address": "89 E 42nd St (Grand Central Terminal), Midtown, Manhattan",
+    "phone": "+1-212-490-6650",
+    "website": "https://oysterbarny.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "An architectural and culinary institution. Sitting at the sweeping tiled counters with a  martini and local oysters is an NYC rite of passage.",
+    "must_try": "Blue Point Oysters and Maryland Crab Cakes",
+    "hours": "Mon-Fri 11:30am-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lobster Place",
+    "address": "75 9th Ave (Chelsea Market), Chelsea, Manhattan",
+    "phone": "+1-212-255-5672",
+    "website": "https://lobsterplace.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A chaotic, brilliant seafood counter inside Chelsea Market. Eat steamed lobster standing  up while navigating the tourist crowds.",
+    "must_try": "Fresh Steamed Lobster and Sushi",
+    "hours": "Daily 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mar's",
+    "address": "34-21 34th Ave, Astoria, Queens",
+    "phone": "+1-718-685-2480",
+    "website": "https://lifeatmars.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A glamorous, wood-paneled Astoria gem pulling Manhattanites to Queens for flawless  cocktails and pristine raw clams.",
+    "must_try": "Moules Frites and Raw Clams",
+    "hours": "Wed-Sun 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oceans",
+    "address": "233 Park Ave S, Flatiron, Manhattan",
+    "phone": "+1-212-433-1800",
+    "website": "https://oceansnewyork.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Sleek and highly refined global seafood. It pulls a corporate crowd but the execution of  the raw bar is undeniably flawless.",
+    "must_try": "Tuna Tartare and Lobster Mac and Cheese",
+    "hours": "Tue-Sat 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gallaghers Steakhouse",
+    "address": "228 W 52nd St, Theater District, Manhattan",
+    "phone": "+1-212-586-5000",
+    "website": "https://gallaghersnysteakhouse.com",
+    "category": "dining",
+    "subcategory": "steakhouse_beyond_luger",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "The only steakhouse in NYC still grilling over hickory coals. You can see the massive  dry-aging meat locker right from the sidewalk.",
+    "must_try": "Porterhouse and Hash Browns",
+    "hours": "Daily 11:45am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Keens Steakhouse",
+    "address": "72 W 36th St, Herald Square, Manhattan",
+    "phone": "+1-212-947-3636",
+    "website": "https://keens.com",
+    "category": "dining",
+    "subcategory": "steakhouse_beyond_luger",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "A living museum filled with tens of thousands of clay pipes. It is famously unpretentious  and serves a mutton chop that dwarfs standard steaks.",
+    "must_try": "The Legendary Mutton Chop",
+    "hours": "Mon-Sat 11:45am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Quality Meats",
+    "address": "57 W 58th St, Midtown, Manhattan",
+    "phone": "+1-212-371-7777",
+    "website": "https://qualitymeatsnyc.com",
+    "category": "dining",
+    "subcategory": "steakhouse_beyond_luger",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "A modern, industrial-chic take on the steakhouse format. The steak sauce is made  tableside and the bacon features peanut butter.",
+    "must_try": "Bone-in Ribeye and PB&J Bacon",
+    "hours": "Daily 5pm-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barcade",
+    "address": "388 Union Ave, Williamsburg, Brooklyn",
+    "phone": null,
+    "website": "https://barcade.com",
+    "category": "entertainment",
+    "subcategory": "bowling/arcade",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The original arcade bar. Dozens of vintage 1980s arcade cabinets paired with an  aggressively curated local craft beer list.",
+    "must_try": "Donkey Kong and a local IPA",
+    "hours": "Daily 2pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Bowl",
+    "address": "61 Wythe Ave, Williamsburg, Brooklyn",
+    "phone": "+1-718-963-3369",
+    "website": "https://brooklynbowl.com",
+    "category": "entertainment",
+    "subcategory": "bowling/arcade",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Bowling, fried chicken from Blue Ribbon, and live concerts. It is loud, messy, and the  perfect Williamsburg night out.",
+    "must_try": "Blue Ribbon Fried Chicken while bowling",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Gutter",
+    "address": "200 N 14th St, Williamsburg, Brooklyn",
+    "phone": "+1-718-387-3585",
+    "website": "https://thegutterbrooklyn.com",
+    "category": "entertainment",
+    "subcategory": "bowling/arcade",
+    "price": "$",
+    "rating": "4.4",
+    "description": "A dingy, beautiful retro bowling alley that refuses to modernize. It smells like cheap beer  and old wood, exactly as it should.",
+    "must_try": "Pitcher of cheap beer and lane 1",
+    "hours": "Daily 2pm-4am",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Comedy Cellar",
+    "address": "117 MacDougal St, Greenwich Village, Manhattan",
+    "phone": "+1-212-254-3480",
+    "website": "https://www.comedycellar.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The most famous comedy club in the world. A-listers drop in unannounced to test new material. Book online and pray for a surprise guest.",
+    "must_try": "Weekend late show (highest chance of drop-ins)",
+    "hours": "Shows nightly 7pm-11:30pm+",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Madison Square Garden",
+    "address": "4 Pennsylvania Plaza, Midtown, Manhattan",
+    "phone": "+1-212-465-6741",
+    "website": "https://www.msg.com",
+    "category": "entertainment",
+    "subcategory": "entertainment",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "The World's Most Famous Arena. Knicks, Rangers, concerts, boxing — the energy inside MSG on a big night is unmatched. Sits right on top of Penn Station.",
+    "must_try": "Any Knicks home game for the atmosphere",
+    "hours": "Event dependent",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barclays Center",
+    "address": "620 Atlantic Ave, Brooklyn",
+    "phone": null,
+    "website": "https://barclayscenter.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A rust-colored spaceship dropped in the middle of Brooklyn. Home to the Nets and  Liberty, boasting incredible sightlines and brutal ticket prices.",
+    "must_try": "NY Liberty Game",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Citi Field",
+    "address": "41 Seaver Way, Flushing, Queens",
+    "phone": null,
+    "website": "https://mlb.com/mets",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Home of the Mets. Arguably a better culinary experience than Yankee Stadium,  featuring Shake Shack and pastrami sandwiches.",
+    "must_try": "Pastrami Sandwich in Section 125",
+    "hours": "Varies by game",
+    "seasonal": "Spring/Summer",
+    "modes": [
+      "foodie",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yankee Stadium",
+    "address": "1 E 161 St, Bronx",
+    "phone": null,
+    "website": "https://mlb.com/yankees",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A monument to baseball imperialism. Take the D train up, grab a bucket of chicken, and  sit in the bleachers to hear the famous Roll Call.",
+    "must_try": "Bleacher Creature Roll Call in the 1st inning",
+    "hours": "Varies by game",
+    "seasonal": "Spring/Summer",
+    "modes": [
+      "family",
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arlo Hotels",
+    "address": "Multiple locations (NoMad, Midtown, SoHo, Williamsburg)",
+    "phone": "+1-212-342-7000",
+    "website": "https://www.arlohotels.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Compact rooms, great rooftops, and design-forward vibes. The Williamsburg and NoMad locations are strongest. Solid mid-range pick.",
+    "must_try": "Rooftop at Arlo NoMad at sunset",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Jane Hotel",
+    "address": "113 Jane St, West Village, Manhattan",
+    "phone": "+1-212-924-6700",
+    "website": "https://www.thejanenyc.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Tiny cabin-style rooms in a stunning West Village building. Budget boutique in one of the best neighborhoods in the city. The ballroom bar is gorgeous.",
+    "must_try": "The Ballroom lounge for a drink even if you're not a guest",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Freehand New York",
+    "address": "23 Lexington Ave, Flatiron, Manhattan",
+    "phone": "+1-212-475-1920",
+    "website": "https://freehandhotels.com",
+    "category": "lodging",
+    "subcategory": "budget",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Boutique hostel energy with exceptional cocktail programs on the roof. Perfect for  younger travelers prioritizing vibe over square footage.",
+    "must_try": "Drinks at Broken Shaker",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "budget"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HI NYC Hostel",
+    "address": "891 Amsterdam Ave, Upper West Side, Manhattan",
+    "phone": "+1-212-932-2300",
+    "website": "https://hiusa.org",
+    "category": "lodging",
+    "subcategory": "budget",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Clean, massive, and highly social. The biggest outdoor patio of any hostel in the city,  perfectly situated near Central Park.",
+    "must_try": "Book a local walking tour at the desk",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moxy Times Square",
+    "address": "485 7th Ave, Midtown, Manhattan",
+    "phone": "+1-212-967-6699",
+    "website": "https://moxytimessquare.com",
+    "category": "lodging",
+    "subcategory": "budget",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Tiny, hyper-efficient rooms designed so you spend all your time in their sprawling  rooftop bar, Magic Hour.",
+    "must_try": "Magic Hour Rooftop Bar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pod Hotels",
+    "address": "Multiple locations (Pod 51: 230 E 51st St; Pod 39: 145 E 39th St; Pod Times Square)",
+    "phone": "+1-212-355-0300",
+    "website": "https://www.thepodhotel.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Micro-hotel rooms with smart design. Not luxurious, but clean, well-located, and the rooftop bars are solid. Best budget option in Manhattan.",
+    "must_try": "Pod 39 rooftop bar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Plaza Hotel",
+    "address": "768 5th Ave, Midtown, Manhattan",
+    "phone": "+1-212-759-3000",
+    "website": "https://www.theplazany.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "The most famous hotel in America. Overlooking Central Park and Grand Army Plaza since 1907. Even if you don't stay, walk through the lobby and have tea at the Palm Court.",
+    "must_try": "Afternoon tea at The Palm Court",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "1 Hotel Brooklyn Bridge",
+    "address": "60 Furman St, DUMBO, Brooklyn",
+    "phone": "+1-347-696-2500",
+    "website": "https://1hotels.com",
+    "category": "lodging",
+    "subcategory": "luxury",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "A stunning eco-luxury fortress right on the waterfront. The rooftop pool looking at the  financial district is absurdly beautiful.",
+    "must_try": "Harriet's Rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Park Hyatt New York",
+    "address": "153 W 57th St, Midtown, Manhattan",
+    "phone": "+1-646-774-1234",
+    "website": "https://hyatt.com",
+    "category": "lodging",
+    "subcategory": "luxury",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Billionaire's Row opulence. The indoor pool plays classical music from Carnegie Hall  underwater through custom speakers.",
+    "must_try": "Spa Nalai and the underwater music pool",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Mark Hotel",
+    "address": "25 E 77th St, Upper East Side, Manhattan",
+    "phone": "+1-212-744-4300",
+    "website": "https://themarkhotel.com",
+    "category": "lodging",
+    "subcategory": "luxury",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "The epicenter of quiet Upper East Side luxury, famously where celebrities prepare for  the Met Gala. Jean-Georges handles the room service.",
+    "must_try": "The Mark Restaurant by Jean-Georges",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Standard, High Line",
+    "address": "848 Washington St, Meatpacking District, Manhattan",
+    "phone": "+1-212-645-4646",
+    "website": "https://standardhotels.com",
+    "category": "lodging",
+    "subcategory": "luxury",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Straddling the High Line, this hotel is a glass box of mid-century chic and uninhibited  voyeurism. The nightlife here is legendary.",
+    "must_try": "Dancing at Le Bain",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "EVEN Hotel Times Square South",
+    "address": "321 W 35th St, Midtown West, Manhattan",
+    "phone": "+1-212-354-2836",
+    "website": "https://ihg.com",
+    "category": "lodging",
+    "subcategory": "mid-range",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A hotel explicitly focused on wellness. Rooms come with in-room fitness zones, TRX  bands, and standing desks.",
+    "must_try": "In-room fitness station",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Graduate Roosevelt Island",
+    "address": "22 N Loop Rd, Roosevelt Island, Manhattan",
+    "phone": "+1-929-447-4700",
+    "website": "https://hilton.com",
+    "category": "lodging",
+    "subcategory": "mid-range",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "A bizarrely peaceful oasis accessed via aerial tram. The views of the East River and  Manhattan skyline from your bed are unbeatable.",
+    "must_try": "Panorama Room rooftop bar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Hoxton, Williamsburg",
+    "address": "97 Wythe Ave, Williamsburg, Brooklyn",
+    "phone": "+1-718-215-7100",
+    "website": "https://thehoxton.com",
+    "category": "lodging",
+    "subcategory": "mid-range",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "British boutique cool imported to Brooklyn. The lobby is a permanent co-working space  for locals, and Laser Wolf on the roof is phenomenal.",
+    "must_try": "Laser Wolf Israeli Skewers on the roof",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "citizenM New York Times Square",
+    "address": "218 W 50th St, Theater District, Manhattan",
+    "phone": null,
+    "website": "https://citizenm.com",
+    "category": "lodging",
+    "subcategory": "mid-range",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Micro-rooms controlled entirely by an iPad. What it lacks in space, it makes up for with a  stunning lobby and rooftop bar.",
+    "must_try": "cloudM rooftop bar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Collective Paper Factory",
+    "address": "37-06 36th St, Long Island City, Queens",
+    "phone": null,
+    "website": "https://paper-factory-hotel.hotels-innewyork.com",
+    "category": "lodging",
+    "subcategory": "outer_borough",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "A repurposed 100-year-old paper factory in Queens. It offers massive spaces, industrial  chic, and quick subway access to Manhattan.",
+    "must_try": "The courtyard garden",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wythe Hotel",
+    "address": "80 Wythe Ave, Williamsburg, Brooklyn",
+    "phone": "+1-718-460-8000",
+    "website": "https://wythehotel.com",
+    "category": "lodging",
+    "subcategory": "outer_borough",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "The pioneer of Brooklyn boutique hotels in a converted factory. Exposed brick, massive  windows, and incredible Manhattan views.",
+    "must_try": "Bar Blondeau on the roof",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brighton Beach",
+    "address": "Brighton Beach Ave, Brooklyn",
+    "phone": null,
+    "website": "https://nycgovparks.org",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$free",
+    "rating": "4.3",
+    "description": "Just down the boardwalk from Coney Island, offering a slightly quieter stretch of sand  backed by incredible Eastern European groceries and cafes.",
+    "must_try": "Vodka and pelmeni on the boardwalk",
+    "hours": "Lifeguards 10am-6pm (Summer)",
+    "seasonal": "Summer",
+    "modes": [
+      "budget",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coney Island",
+    "address": "Surf Avenue, Coney Island, Brooklyn",
+    "phone": null,
+    "website": "https://coneyisland.com",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$free",
+    "rating": "4.4",
+    "description": "An unapologetically kitschy, historic boardwalk. Come for the hot dogs, the rickedy  Cyclone roller coaster, and prime people-watching.",
+    "must_try": "Nathan's Famous Hot Dog and The Cyclone",
+    "hours": "Lifeguards 10am-6pm (Summer)",
+    "seasonal": "Summer",
+    "modes": [
+      "family",
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Bridge Park Greenway",
+    "address": "Pier 1 to Pier 6, DUMBO/Brooklyn Heights, Brooklyn",
+    "phone": null,
+    "website": "https://brooklynbridgepark.org",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "$free",
+    "rating": "4.9",
+    "description": "The most picturesque bike path in America. You ride directly under the bridges with the  lower Manhattan skyline looming across the water.",
+    "must_try": "Sunset ride from DUMBO to Red Hook",
+    "hours": "Daily 6am-1am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Central Park Loop",
+    "address": "Central Park, Manhattan",
+    "phone": null,
+    "website": "https://centralparknyc.org",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "$free",
+    "rating": "4.8",
+    "description": "A 6-mile, car-free circuit. It's the most efficient way to see the park, but watch out for  the aggressive Lycra-clad cyclists.",
+    "must_try": "Riding through the tree canopy in the northern end",
+    "hours": "Daily 6am-1am",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Citi Bike",
+    "address": "Stations citywide, NYC",
+    "phone": null,
+    "website": "https://citibikenyc.com",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "$",
+    "rating": "4.6",
+    "description": "The fastest way to traverse Manhattan avenues. The e-bikes flatten hills and make  conquering the bridges thrilling rather than exhausting.",
+    "must_try": "Day pass for greenway cruising",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Botanic Garden",
+    "address": "990 Washington Ave, Prospect Heights, Brooklyn",
+    "phone": "+1-718-623-7200",
+    "website": "https://www.bbg.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "52 acres of curated gardens. The Japanese Hill-and-Pond Garden is the jewel. Cherry blossom season (late April) is absolutely mobbed — go early on a weekday.",
+    "must_try": "Cherry Blossom Festival (Hanami) in late April/early May",
+    "hours": "Tue-Sun 10am-6pm (varies seasonally)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Bridge",
+    "address": "Brooklyn Bridge, Manhattan to Brooklyn",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "Walk from Manhattan to Brooklyn (or the other way). Go early morning or at sunset to avoid the crowds. End in DUMBO for the best skyline photo in the city.",
+    "must_try": "Walk Brooklyn→Manhattan at sunset, or Manhattan→Brooklyn and grab pizza at Juliana's",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Central Park",
+    "address": "59th St to 110th St, Manhattan",
+    "phone": null,
+    "website": "https://www.centralparknyc.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.9",
+    "description": "843 acres of green in the middle of Manhattan. Bethesda Fountain, the Ramble, Strawberry Fields, the Reservoir — each section is its own world. Free Shakespeare in the Park in summer.",
+    "must_try": "Row a boat at the Loeb Boathouse (or Bow Bridge at sunset)",
+    "hours": "6am-1am daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Governors Island",
+    "address": "Governors Island, New York Harbor (ferry from Battery Maritime Building or Pier 6 Brooklyn)",
+    "phone": "+1-212-440-2200",
+    "website": "https://www.govisland.com",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$Free (ferry $4 round trip)",
+    "rating": "4.5",
+    "description": "172-acre island in the harbor with hills, hammocks, art installations, and the best skyline views without paying for an observation deck. Free ferries on weekends before noon.",
+    "must_try": "The Hills (climb Outlook Hill for panoramic views)",
+    "hours": "Open May-Oct, ferries 10am-6pm",
+    "seasonal": "May through October only",
+    "modes": [
+      "chill",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The High Line",
+    "address": "Gansevoort St to 34th St, West Side, Manhattan",
+    "phone": null,
+    "website": "https://www.thehighline.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Elevated park on a former rail line running 1.45 miles along the west side. Public art, native plantings, and views of the Hudson. Start at the Gansevoort end near the Whitney.",
+    "must_try": "Walk north to south at sunset for Hudson River views",
+    "hours": "7am-10pm daily (varies seasonally)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Downtown Boathouse",
+    "address": "Pier 26 at N Moore St, Tribeca, Manhattan",
+    "phone": null,
+    "website": "https://downtownboathouse.org",
+    "category": "outdoor_adventure",
+    "subcategory": "water_activities",
+    "price": "$free",
+    "rating": "4.9",
+    "description": "Entirely volunteer-run, free kayaking on the Hudson. A bizarre and peaceful  juxtaposition against the towering skyscrapers behind you.",
+    "must_try": "20-minute paddle in the embayment",
+    "hours": "Weekends 10am-4:30pm (Summer)",
+    "seasonal": "Summer",
+    "modes": [
+      "budget",
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Manhattan Kayak",
+    "address": "Pier 84, W 44th St, Manhattan",
+    "phone": null,
+    "website": "https://manhattankayak.com",
+    "category": "outdoor_adventure",
+    "subcategory": "water_activities",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Guided kayak and SUP tours on the Hudson. Feeling the current of the river while  staring at skyscrapers is uniquely exhilarating.",
+    "must_try": "Sunset Kayak Tour",
+    "hours": "Varies by tide/tour",
+    "seasonal": "Summer",
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Staten Island Ferry",
+    "address": "Whitehall Terminal, 4 South St, Manhattan",
+    "phone": null,
+    "website": "https://siferry.com",
+    "category": "outdoor_adventure",
+    "subcategory": "water_activities",
+    "price": "$free",
+    "rating": "4.6",
+    "description": "The best free tour in New York. You get massive views of the Statue of Liberty and the  harbor without paying a dime.",
+    "must_try": "Grab a cheap beer from the concession and stand on the outer deck",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "NYC Ferry",
+    "address": "Multiple stops across all five boroughs",
+    "phone": null,
+    "website": "https://www.ferry.nyc",
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Six routes connecting Manhattan, Brooklyn, Queens, the Bronx, and Staten Island. $4 per ride, incredible skyline views. The commute that feels like a cruise.",
+    "must_try": "Rockaway route for beach access or Soundview route for Bronx waterfront",
+    "hours": "Varies by route, generally 6:30am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Trader Joe's Wine Shop",
+    "address": "138 E 14th St, Union Square, Manhattan",
+    "phone": "+1-212-529-6326",
+    "website": "https://www.traderjoes.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "The cheapest decent wine in Manhattan. Separate from the grocery store (NYC law). The $3.99 bottles are legitimately fine.",
+    "must_try": "Stock up before a BYOB dinner (Lucali, Smalls)",
+    "hours": "9am-9pm daily",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Whole Foods Market",
+    "address": "10 Columbus Circle, Manhattan",
+    "phone": "+1-212-823-9600",
+    "website": "https://wholefoodsmarket.com",
+    "category": "services",
+    "subcategory": "grocery_for_tourists",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A massive subterranean grocery store perfect for grabbing a high-quality picnic before  heading directly into Central Park.",
+    "must_try": "The hot food bar for a park picnic",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zabar's",
+    "address": "2245 Broadway, Upper West Side, Manhattan",
+    "phone": "+1-212-787-2000",
+    "website": "https://zabars.com",
+    "category": "services",
+    "subcategory": "grocery_for_tourists",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "An Upper West Side chaotic masterpiece. You come here to dodge aggressive  grandmothers and buy the best smoked fish and coffee beans in town.",
+    "must_try": "Nova Lox and Zabar's Blend Coffee",
+    "hours": "Daily 8am-7:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LuggageHero Columbus Circle",
+    "address": "Local shops near 59th St, Columbus Circle, Manhattan",
+    "phone": null,
+    "website": "https://luggagehero.com",
+    "category": "services",
+    "subcategory": "luggage_storage",
+    "price": "$",
+    "rating": "4.8",
+    "description": "An essential app-based network of local bodegas and shops that hold your bags safely  after you check out of your hotel.",
+    "must_try": "Hourly storage rates",
+    "hours": "Varies by shop",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Duane Reade (Times Square)",
+    "address": "1627 Broadway, Theater District, Manhattan",
+    "phone": null,
+    "website": "https://walgreens.com",
+    "category": "services",
+    "subcategory": "pharmacy/essentials",
+    "price": "$$",
+    "rating": "3.8",
+    "description": "The quintessential NYC convenience store. When you need blister pads, an umbrella,  and cheap water at 2 AM, this is where you go.",
+    "must_try": "Emergency umbrellas during a downpour",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CityMD",
+    "address": "Multiple locations across all boroughs",
+    "phone": null,
+    "website": "https://www.citymd.com",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Walk-in urgent care on practically every other block in Manhattan. No appointment needed. The NYC answer to 'I need a doctor now.'",
+    "must_try": null,
+    "hours": "Mon-Fri 8am-9pm, Sat-Sun 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Flea",
+    "address": "80 Pearl St, DUMBO, Brooklyn (+ seasonal locations)",
+    "phone": null,
+    "website": "https://brooklynflea.com",
+    "category": "shopping",
+    "subcategory": "antiques",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Vintage furniture, clothing, records, and crafts from 150+ vendors. The DUMBO location has Manhattan skyline views between the finds.",
+    "must_try": "Vintage leather jackets + skyline photos from the waterfront",
+    "hours": "Sat-Sun 10am-5pm",
+    "seasonal": "Year-round (indoor winter location)",
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Books Are Magic",
+    "address": "225 Smith St, Cobble Hill, Brooklyn",
+    "phone": "+1-718-246-2665",
+    "website": "https://booksaremagic.net",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Owned by author Emma Straub, this is Brooklyn's coziest, most community-driven  bookshop. Very high chance of spotting local authors.",
+    "must_try": "Attending an evening author reading",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "McNally Jackson",
+    "address": "52 Prince St, SoHo, Manhattan",
+    "phone": "+1-212-274-1160",
+    "website": "https://mcnallyjackson.com",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A sophisticated, beautifully curated independent bookstore. The literature sections are  arranged by nation of origin.",
+    "must_try": "Browsing the international fiction room",
+    "hours": "Daily 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fifth Avenue Shopping",
+    "address": "5th Ave from 49th-59th St, Midtown, Manhattan",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Saks, Bergdorf Goodman, Tiffany & Co., Louis Vuitton — the most famous shopping strip on Earth. Even window shopping is an experience.",
+    "must_try": "Bergdorf Goodman holiday windows (Nov-Jan)",
+    "hours": "Most stores 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SoHo Shopping District",
+    "address": "SoHo (Houston to Canal, Broadway to 6th Ave), Manhattan",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Cast-iron architecture lined with flagship stores, independent boutiques, and gallery-adjacent shops. The cobblestone streets are the backdrop.",
+    "must_try": "Walk Prince St and Mercer St for the best mix of indie and luxury",
+    "hours": "Most stores 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chelsea Market",
+    "address": "75 9th Ave, Chelsea, Manhattan",
+    "phone": null,
+    "website": "https://www.chelseamarket.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Indoor market in a former Nabisco factory. Food stalls, independent shops, and the entrance to the High Line. Lobster Place for seafood, Artists & Fleas for vintage.",
+    "must_try": "Los Tacos No. 1 + Doughnuttery mini donuts",
+    "hours": "Mon-Sat 7am-9pm, Sun 8am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smorgasburg",
+    "address": "Williamsburg (Sat) / Prospect Park (Sun), Brooklyn (locations vary seasonally)",
+    "phone": null,
+    "website": "https://www.smorgasburg.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Outdoor food market with 100+ vendors. Where NYC food trends are born. The raindrop cake started here. Go hungry.",
+    "must_try": "Whatever has the longest line (seriously)",
+    "hours": "Sat-Sun 11am-6pm (April-October)",
+    "seasonal": "Outdoor season April-October, indoor winter market",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "A1 Records",
+    "address": "439 E 6th St, East Village, Manhattan",
+    "phone": "+1-212-473-2870",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "record_stores",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A digger's paradise. Stacks of used hip-hop, soul, and jazz vinyl. It requires patience, but  the finds are unparalleled.",
+    "must_try": "Digging through the $5 crates",
+    "hours": "Daily 1pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Academy Records",
+    "address": "12 W 18th St, Flatiron, Manhattan",
+    "phone": "+1-212-242-3000",
+    "website": "https://academy-records.com",
+    "category": "shopping",
+    "subcategory": "record_stores",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The best spot in the city for classical, jazz, and rock CDs and LPs. Quiet, extremely  organized, and reasonably priced.",
+    "must_try": "The classical music vinyl section",
+    "hours": "Daily 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rough Trade NYC",
+    "address": "30 Rockefeller Plaza, Midtown, Manhattan",
+    "phone": null,
+    "website": "https://roughtrade.com",
+    "category": "shopping",
+    "subcategory": "record_stores",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The UK indie giant relocated to Rockefeller Center. It feels corporate on the outside, but  the vinyl selection remains impeccably curated.",
+    "must_try": "Exclusive vinyl pressing releases",
+    "hours": "Daily 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brooklyn Industries",
+    "address": "Varies (Citywide)",
+    "phone": null,
+    "website": "https://brooklynindustries.com",
+    "category": "shopping",
+    "subcategory": "specialty/unique",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "The quintessential Brooklyn streetwear brand. Better souvenirs than anything you'll find  in Times Square.",
+    "must_try": "Graphic skyline tees",
+    "hours": "Varies by store",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eataly NYC Flatiron",
+    "address": "200 5th Ave, Flatiron, Manhattan",
+    "phone": "+1-212-229-2560",
+    "website": "https://eataly.com",
+    "category": "shopping",
+    "subcategory": "specialty/unique",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "An overwhelming, multi-level Italian food emporium. Grab a glass of Barolo and wander  through aisles of imported prosciutto and fresh pasta.",
+    "must_try": "Fresh pasta counter and rooftop dining",
+    "hours": "Daily 9am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Economy Candy",
+    "address": "108 Rivington St, Lower East Side, Manhattan",
+    "phone": "+1-212-254-1531",
+    "website": "https://economycandy.com",
+    "category": "shopping",
+    "subcategory": "specialty/unique",
+    "price": "$",
+    "rating": "4.8",
+    "description": "A floor-to-ceiling sugar rush operating since 1937. A glorious, chaotic mess of nostalgia  and bulk chocolate.",
+    "must_try": "Vintage candy you forgot existed",
+    "hours": "Daily 12pm-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "budget",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Russian & Turkish Baths",
+    "address": "268 E 10th St, East Village, Manhattan",
+    "phone": "+1-212-674-9250",
+    "website": "https://russianturkishbaths.com",
+    "category": "wellness_spa",
+    "subcategory": "bathhouses",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "An unapologetic, gritty East Village institution since 1892. Do not expect luxury; expect  intense heat, eucalyptus, and a bizarrely loyal clientele.",
+    "must_try": "Platza Oak Leaf Massage",
+    "hours": "Wed-Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aire Ancient Baths",
+    "address": "88 Franklin St, Tribeca, Manhattan",
+    "phone": "+1-646-878-6174",
+    "website": "https://beaire.com/en/aire-ancient-baths-new-york",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Roman-style thermal baths in a restored Tribeca warehouse. Candlelit pools at different temperatures. Feels like you left the city entirely.",
+    "must_try": "Thermal bath experience + wine bath upgrade",
+    "hours": "Mon-Thu 10am-10pm, Fri-Sun 9am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Spa at Mandarin Oriental",
+    "address": "80 Columbus Circle, Midtown West, Manhattan",
+    "phone": "+1-212-805-8880",
+    "website": "https://www.mandarinoriental.com/en/new-york/",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Floor-to-ceiling Central Park views from the treatment rooms 35 floors up. The Oriental Essence massage is the signature. This is the splurge spa.",
+    "must_try": "Oriental Essence massage with Central Park views",
+    "hours": "9am-9pm daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sky Ting Yoga",
+    "address": "17 Allen St, Chinatown, Manhattan",
+    "phone": null,
+    "website": "https://skyting.com",
+    "category": "wellness_spa",
+    "subcategory": "yoga/fitness",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A bright, airy studio favoring a relaxed, unpretentious approach to yoga. You will leave  feeling stretched, calm, and incredibly hip.",
+    "must_try": "Signature Flow Class",
+    "hours": "Varies by class",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "TMPL Gym",
+    "address": "355 W 49th St, Hell's Kitchen, Manhattan",
+    "phone": null,
+    "website": "https://tmplclubs.com",
+    "category": "wellness_spa",
+    "subcategory": "yoga/fitness",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A luxury, neon-lit fitness club that feels like a nightclub. The saltwater pool and  immersive spin classes are top-tier.",
+    "must_try": "The TRIP Immersive Spin Class",
+    "hours": "Daily 5am-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Y7 Studio",
+    "address": "250 E Houston St, East Village, Manhattan",
+    "phone": null,
+    "website": "https://y7-studio.com",
+    "category": "wellness_spa",
+    "subcategory": "yoga/fitness",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Sweat-drenched, candlelit vinyasa yoga set to heavy hip-hop. It is dark, intense, and  aggressively modern.",
+    "must_try": "WeFlowHard Vinyasa",
+    "hours": "Varies by class",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  }
+]

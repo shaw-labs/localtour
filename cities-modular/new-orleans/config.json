@@ -1,0 +1,289 @@
+{
+  "slug": "new-orleans",
+  "name": "New Orleans",
+  "state": "Louisiana",
+  "region": "Gulf Coast / Deep South",
+  "tagline": "Where the Music Never Stops Playing",
+  "description": "The birthplace of jazz and the undisputed culinary capital of the American South, built on 300 years of French, Spanish, African, and Creole culture layered into every block. A city where brass bands lead funeral processions, strangers dance together on Frenchmen Street at midnight, and a Tuesday lunch at a century-old restaurant is treated as sacred.",
+  "coordinates": {
+    "lat": 29.95,
+    "lng": -90.07
+  },
+  "timezone": "America/Chicago",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "A 300-year-old party town with a Ph.D. in culture — equal parts hedonistic and deeply soulful, where every meal is an event and every night has a soundtrack.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "food-drink",
+      "title": "Food & Drink",
+      "icon": "🦞",
+      "description": "The single biggest reason people come to New Orleans — from century-old Creole institutions to James Beard-winning newcomers."
+    },
+    {
+      "id": "live-music",
+      "title": "Live Music & Nightlife",
+      "icon": "🎺",
+      "description": "The birthplace of jazz — Frenchmen Street, Preservation Hall, and 100+ venues where world-class music plays every single night, most of it free."
+    },
+    {
+      "id": "festivals-events",
+      "title": "Festivals & Events",
+      "icon": "🎭",
+      "description": "More festivals per capita than any American city — Mardi Gras, Jazz Fest, French Quarter Fest, ESSENCE, Voodoo, and a packed year-round calendar."
+    },
+    {
+      "id": "nightlife",
+      "title": "Live Music & Nightlife",
+      "icon": "🎵",
+      "description": "Jazz clubs, Frenchmen Street, Bourbon Street"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping & Markets",
+      "icon": "🛍️",
+      "description": "Magazine Street, French Market, antiques"
+    },
+    {
+      "id": "plan",
+      "title": "Plan Your Trip",
+      "icon": "📋",
+      "description": "Itinerary builder, streetcar routes, lodging"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🦞",
+      "description": "Creole, Cajun, Michelin-starred, and everything between — eat your way through the culinary capital of America.",
+      "tags": [
+        "dining",
+        "fine_dining",
+        "cajun_creole",
+        "seafood",
+        "casual",
+        "brunch",
+        "bakery"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🎺",
+      "description": "Frenchmen Street jazz, Bourbon Street chaos, cocktail palaces, and dive bars — all in a city that never closes.",
+      "tags": [
+        "bars_nightlife",
+        "live_music_venues",
+        "cocktail_bars",
+        "dive_bars",
+        "clubs"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture & History",
+      "icon": "⚜️",
+      "description": "300 years of French, Spanish, African, and Creole heritage — museums, architecture, jazz, cemeteries, and living traditions.",
+      "tags": [
+        "attractions",
+        "museums",
+        "landmarks",
+        "historic_sites",
+        "tours"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "🌙",
+      "description": "Candlelit courtyards, tasting menus, converted-church cocktail bars, and streetcar rides through the Garden District.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "wine_bars",
+        "boutique_hotels"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "The WWII Museum, Audubon Zoo, streetcar rides, beignets, and swamp tours — family-friendly New Orleans is incredible.",
+      "tags": [
+        "museums",
+        "parks",
+        "tours",
+        "casual",
+        "ice_cream"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "🌿",
+      "description": "City Park oaks, Bywater bike rides, wine gardens, po'boys by the river, and slow afternoons on a porch.",
+      "tags": [
+        "parks",
+        "wine_bars",
+        "casual",
+        "coffee"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure",
+      "icon": "🐊",
+      "description": "Swamp tours, kayaking, bike trails, and getting lost in neighborhoods most tourists never see.",
+      "tags": [
+        "outdoor_adventure",
+        "tours",
+        "water_sports",
+        "biking"
+      ]
+    },
+    {
+      "id": "festival",
+      "label": "Festival Mode",
+      "icon": "🎭",
+      "description": "Mardi Gras, Jazz Fest, French Quarter Fest, ESSENCE, Voodoo — the city with more festivals per capita than anywhere in America.",
+      "tags": [
+        "festivals",
+        "music",
+        "events"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "Highly walkable within the French Quarter, Marigny, and CBD. RTA streetcars ($1.25/ride, $3 Jazzy Pass daily) run the St. Charles line (Garden District/Uptown), Canal Street, and Riverfront. Uber/Lyft widely available. Blue Bikes bike-share ($8/24hrs). You do NOT need a car — parking in the Quarter is $40-65/night and streets are narrow. Streetcar + walking + rideshare covers everything.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "Baton Rouge: 80 mi via I-10 East (1 hr 15 min). Houston: 350 mi via I-10 West (5 hrs). Gulf Coast/Biloxi: 90 mi via I-10 East (1 hr 20 min)."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Amtrak serves Union Passenger Terminal downtown: City of New Orleans (Chicago), Crescent (New York/Atlanta), Sunset Limited (LA/Houston), and the new Mardi Gras Service (Mobile, AL via Gulf Coast). Station is walking distance to Superdome and streetcar."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "Louis Armstrong New Orleans International Airport (MSY) — 15 miles west of downtown, 25-40 min by car/rideshare. Direct flights from most major US cities. Airport shuttle $24/person, taxi flat rate $36 to French Quarter, rideshare $20-35."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Plantation Country (River Road)",
+      "distance": "30-60 min drive",
+      "pitch": "Drive River Road between New Orleans and Baton Rouge for a string of antebellum plantation houses. Whitney Plantation focuses specifically on enslaved people's stories — the only one that does.",
+      "highlights": null
+    },
+    {
+      "name": "Biloxi / Mississippi Gulf Coast",
+      "distance": "90 min drive or Amtrak Mardi Gras Service",
+      "pitch": "Casino-beach town with a completely different vibe. Take the new Amtrak route for a car-free day trip. Casinos, white sand beaches, and Gulf seafood.",
+      "highlights": null
+    },
+    {
+      "name": "Cajun Country (Lafayette)",
+      "distance": "2.5 hr drive via I-10",
+      "pitch": "The heart of Cajun culture — zydeco dance halls, boudin trail, crawfish farms, and a completely different Louisiana than New Orleans.",
+      "highlights": null
+    },
+    {
+      "name": "Bay St. Louis, Mississippi",
+      "distance": "60 min drive or Amtrak",
+      "pitch": "Charming Gulf Coast art town with galleries, great food, and a laid-back vibe. Easy Amtrak day trip on the new Mardi Gras Service.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Second Line",
+    "greeting": "Ayyyy, welcome to the Crescent City, baby! I'm your personal guide to everything New Orleans — the food that'll change your life, the music that'll keep you up past your bedtime, and the spots the locals don't want you to know about. But I'm feelin' generous. What you lookin' for?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-summer-mississippi-dusk.jpg",
+    "story": [
+      "story-congo-square-dusk.jpg",
+      "story-frenchmen-night-street.jpg",
+      "story-ironwork-balcony-detail.jpg",
+      "story-jackson-square-dawn.jpg"
+    ],
+    "wall": [
+      "wall-bluebike-bywater.jpg",
+      "wall-bourbon-hurricanes.jpg",
+      "wall-creole-table-overhead.jpg",
+      "wall-frenchmen-dancing-couple.jpg",
+      "wall-mardi-gras-group-costume.jpg",
+      "wall-streetcar-window-view.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions-shotgun-houses.jpg",
+      "bars_nightlife": "dir-bars-wine-courtyard.jpg",
+      "bars": "dir-bars-wine-courtyard.jpg",
+      "coffee_bakeries": "dir-coffee-beignets-table.jpg",
+      "coffee": "dir-coffee-beignets-table.jpg",
+      "dining": "dir-dining-poboy-crosssection.jpg",
+      "entertainment": "dir-entertainment-brass-band.jpg",
+      "lodging": "dir-lodging-courtyard-hotel.jpg",
+      "outdoor_adventure": "dir-outdoor-swamp-boardwalk.jpg",
+      "outdoor": "dir-outdoor-swamp-boardwalk.jpg",
+      "shopping": "dir-shopping-magazine-storefront.jpg"
+    },
+    "section_breaks": {
+      "creole": "break-creole-feast-table.jpg",
+      "frenchmen": "break-frenchmen-street-night.jpg",
+      "jazz": "break-jazz-club-interior.jpg",
+      "magazine": "break-magazine-street-shopping.jpg",
+      "second": "break-second-line-parade2.jpg",
+      "streetcar": "break-streetcar-garden-district.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "New Orleans — Hot Nights, Hotter Music",
+    "hero_sub": "ESSENCE Fest takes over the Superdome, Satchmo SummerFest fills the Quarter, and every restaurant cranks the A/C while you feast on crawfish and frozen daiquiris."
+  }
+}

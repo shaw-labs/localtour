@@ -1,0 +1,691 @@
+{
+  "morning_starts": [
+    {
+      "title": "Zak the Baker",
+      "note": "Babka and Sourdough Toast",
+      "business": "Zak the Baker",
+      "website": "https://zakthebaker.com",
+      "duration": null
+    },
+    {
+      "title": "Bachour",
+      "note": "Croissant Cubano and any pastry",
+      "business": "Bachour",
+      "website": "https://antoniobachour.com",
+      "duration": null
+    },
+    {
+      "title": "Flour & Weirdoughs",
+      "note": "Brisket B*tch Croissant, ricotta pancakes",
+      "business": "Flour & Weirdoughs",
+      "website": "https://flourandweirdoughs.com",
+      "duration": null
+    },
+    {
+      "title": "Yann Couvreur Cafe",
+      "note": "Any petit gateau, croissant, tartine",
+      "business": "Yann Couvreur Cafe",
+      "website": "https://yanncouvreur.com",
+      "duration": null
+    },
+    {
+      "title": "Caracas Bakery",
+      "note": "Ham cachito with a cafecito",
+      "business": "Caracas Bakery",
+      "website": "https://caracasbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Pinecrest Bakery",
+      "note": "Guava and Cheese Pastelito at 2 AM",
+      "business": "Pinecrest Bakery",
+      "website": "https://www.pinecrestbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Greenstreet Cafe",
+      "note": "Avocado Toast, people-watching from the patio",
+      "business": "Greenstreet Cafe",
+      "website": "https://greenstreetcafe.net",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "South Pointe Park",
+      "note": "Watch the cruise ships depart at sunset",
+      "business": "South Pointe Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bill Baggs Cape Florida State Park",
+      "note": "Lighthouse climb + Boater's Grill lunch on the beach",
+      "business": "Bill Baggs Cape Florida State Park",
+      "website": "https://www.floridastateparks.org/BillBaggs",
+      "duration": null
+    },
+    {
+      "title": "Miami Kiteboarding",
+      "note": "Beginner lesson (3 hours)",
+      "business": "Miami Kiteboarding",
+      "website": "https://miamikiteboarding.com",
+      "duration": null
+    },
+    {
+      "title": "Crandon Park Beach",
+      "note": "The sandbar at low tide, kayak rentals",
+      "business": "Crandon Park Beach",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Biscayne National Park",
+      "note": "Snorkeling at the reef, boat tour to Boca Chita Key",
+      "business": "Biscayne National Park",
+      "website": "https://www.nps.gov/bisc",
+      "duration": null
+    },
+    {
+      "title": "Fairchild Tropical Botanic Garden",
+      "note": "Walk all the way to the bay — mangrove forest is stunning",
+      "business": "Fairchild Tropical Botanic Garden",
+      "website": "https://fairchildgarden.org",
+      "duration": null
+    },
+    {
+      "title": "Surfside Beach",
+      "note": "Morning swim before the crowds",
+      "business": "Surfside Beach",
+      "website": "https://townofsurfside.com",
+      "duration": null
+    },
+    {
+      "title": "Rickenbacker Causeway Trail",
+      "note": "Sunrise ride across the bridge",
+      "business": "Rickenbacker Causeway Trail",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Cape Florida Lighthouse",
+      "note": "Climb the lighthouse, then beach it at Bill Baggs",
+      "business": "Cape Florida Lighthouse",
+      "website": "https://www.floridastateparks.org/BillBaggs",
+      "duration": null
+    },
+    {
+      "title": "Coral Gables Biltmore Hotel",
+      "note": "Free Sunday guided tour, brunch at Fontana",
+      "business": "Coral Gables Biltmore Hotel",
+      "website": "https://www.biltmorehotel.com",
+      "duration": null
+    },
+    {
+      "title": "Wynwood Walls",
+      "note": "Free street art in the surrounding blocks is just as good",
+      "business": "Wynwood Walls",
+      "website": "https://thewynwoodwalls.com",
+      "duration": null
+    },
+    {
+      "title": "Vizcaya Museum and Gardens",
+      "note": "The formal gardens and bay-facing terrace at golden hour",
+      "business": "Vizcaya Museum and Gardens",
+      "website": "https://vizcaya.org",
+      "duration": null
+    },
+    {
+      "title": "Adrienne Arsht Center for the Performing Arts",
+      "note": "Check the calendar — the programming is always strong",
+      "business": "Adrienne Arsht Center for the Performing Arts",
+      "website": "https://arshtcenter.org",
+      "duration": null
+    },
+    {
+      "title": "Rubell Museum",
+      "note": "The scale of the warehouse space alone is worth the visit",
+      "business": "Rubell Museum",
+      "website": "https://rubellmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "de la Cruz Collection",
+      "note": "Free admission always",
+      "business": "de la Cruz Collection",
+      "website": "https://www.delacruzcollection.org",
+      "duration": null
+    },
+    {
+      "title": "Miami Design Preservation League Tours",
+      "note": "90-minute Art Deco walking tour ($30)",
+      "business": "Miami Design Preservation League Tours",
+      "website": "https://mdpl.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Bal Harbour Shops",
+      "note": "Lunch at Makoto between boutiques",
+      "business": "Bal Harbour Shops",
+      "website": "https://balharbourshops.com",
+      "duration": null
+    },
+    {
+      "title": "EAST Miami",
+      "note": "Sunset drinks at Sugar",
+      "business": "EAST Miami",
+      "website": "https://easthotels.com",
+      "duration": null
+    },
+    {
+      "title": "Brickell City Centre",
+      "note": "Browsing before dinner at Casa Tua Cucina",
+      "business": "Brickell City Centre",
+      "website": "https://brickellcitycentre.com",
+      "duration": null
+    },
+    {
+      "title": "The Betsy",
+      "note": "Rooftop pool, on-site art collection",
+      "business": "The Betsy",
+      "website": "https://www.thebetsyhotel.com",
+      "duration": null
+    },
+    {
+      "title": "Mayfair House Hotel & Garden",
+      "note": "Cocktails at the Fountain Lounge",
+      "business": "Mayfair House Hotel & Garden",
+      "website": "https://www.mayfairhousemiami.com",
+      "duration": null
+    },
+    {
+      "title": "Kimpton EPIC Hotel",
+      "note": "Area 31 rooftop dinner at sunset",
+      "business": "Kimpton EPIC Hotel",
+      "website": "https://www.epichotel.com",
+      "duration": null
+    },
+    {
+      "title": "Esme Miami Beach",
+      "note": "Rooftop pool and dinner at The Drexel",
+      "business": "Esme Miami Beach",
+      "website": "https://www.esmehotel.com",
+      "duration": null
+    },
+    {
+      "title": "Miami Design District",
+      "note": "Window shop the luxury brands, eat at Cote or Cotoletta",
+      "business": "Miami Design District",
+      "website": "https://www.miamidesigndistrict.net",
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Enriqueta's Sandwich Shop",
+      "note": "Ham Croquetas",
+      "business": "Enriqueta's Sandwich Shop",
+      "website": "https://enriquetas.com",
+      "duration": null
+    },
+    {
+      "title": "Robert Is Here",
+      "note": "Key lime milkshake, mamey sapote milkshake",
+      "business": "Robert Is Here",
+      "website": "https://robertishere.com",
+      "duration": null
+    },
+    {
+      "title": "Sanguich de Miami",
+      "note": "Patria Sandwich",
+      "business": "Sanguich de Miami",
+      "website": "https://sanguich.com",
+      "duration": null
+    },
+    {
+      "title": "Islas Canarias",
+      "note": "Ham croquetas — the best in Miami, period",
+      "business": "Islas Canarias",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Caracas Bakery",
+      "note": "Ham cachito with a cafecito",
+      "business": "Caracas Bakery",
+      "website": "https://caracasbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Cheen Huaye",
+      "note": "Cochinita Pibil, Sopa de Lima",
+      "business": "Cheen Huaye",
+      "website": "https://cheenhuaye.com",
+      "duration": null
+    },
+    {
+      "title": "Steve's Pizza",
+      "note": "Plain slice at 2am after the club",
+      "business": "Steve's Pizza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Carreta",
+      "note": "Vaca Frita",
+      "business": "La Carreta",
+      "website": "https://www.lacarreta.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Gramps",
+      "note": "Rosemary's Baby cocktail",
+      "business": "Gramps",
+      "website": "https://gramps.com",
+      "duration": null
+    },
+    {
+      "title": "J Wakefield Brewing",
+      "note": "El Jefe Hefeweizen",
+      "business": "J Wakefield Brewing",
+      "website": "https://jwakefieldbrewing.com",
+      "duration": null
+    },
+    {
+      "title": "Tripping Animals Brewing",
+      "note": "Leisure Series fruited sour",
+      "business": "Tripping Animals Brewing",
+      "website": "https://trippinganimals.com",
+      "duration": null
+    },
+    {
+      "title": "Veza Sur Brewing Co.",
+      "note": "Mangolandia Mango Blonde Ale",
+      "business": "Veza Sur Brewing Co.",
+      "website": "https://vezasur.com",
+      "duration": null
+    },
+    {
+      "title": "Sweet Liberty",
+      "note": "Ask the bartender to make you something based on your mood",
+      "business": "Sweet Liberty",
+      "website": "https://mysweetliberty.com",
+      "duration": null
+    },
+    {
+      "title": "Palace Bar & Restaurant",
+      "note": "Bottomless Drag Brunch",
+      "business": "Palace Bar & Restaurant",
+      "website": "https://palacesouthbeach.com",
+      "duration": null
+    },
+    {
+      "title": "Better Days",
+      "note": "Japanese Old Fashioned",
+      "business": "Better Days",
+      "website": "https://betterdaysbar.com",
+      "duration": null
+    },
+    {
+      "title": "Lagniappe",
+      "note": "BYOB cheese board with their wine, live jazz on a weeknight",
+      "business": "Lagniappe",
+      "website": "https://lagniappehouse.com",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Shingo",
+      "note": "Chef's Omakase",
+      "business": "Shingo",
+      "website": "https://shingomiami.com",
+      "duration": null
+    },
+    {
+      "title": "Hiden",
+      "note": "Omakase tasting",
+      "business": "Hiden",
+      "website": "https://hidenmiami.com",
+      "duration": null
+    },
+    {
+      "title": "Ariete",
+      "note": "Canard à la Presse",
+      "business": "Ariete",
+      "website": "https://arietecoconutgrove.com",
+      "duration": null
+    },
+    {
+      "title": "Boia De",
+      "note": "Beef Tartare with crispy capers",
+      "business": "Boia De",
+      "website": "https://boiaderestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Ogawa",
+      "note": "Signature Omakase",
+      "business": "Ogawa",
+      "website": "https://ogawamiami.com",
+      "duration": null
+    },
+    {
+      "title": "Cafe La Trova",
+      "note": "Empanadas and the Daiquiri Clasico",
+      "business": "Cafe La Trova",
+      "website": "https://cafelatrova.com",
+      "duration": null
+    },
+    {
+      "title": "Sunny's Steakhouse",
+      "note": "Steak Tartare on sourdough",
+      "business": "Sunny's Steakhouse",
+      "website": "https://sunnysmia.com",
+      "duration": null
+    },
+    {
+      "title": "Cote Miami",
+      "note": "Butcher's Feast tasting, Steak Omakase",
+      "business": "Cote Miami",
+      "website": "https://cotemiami.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Shingo",
+      "note": "Chef's Omakase",
+      "business": "Shingo",
+      "website": "https://shingomiami.com",
+      "duration": null
+    },
+    {
+      "title": "Hiden",
+      "note": "Omakase tasting",
+      "business": "Hiden",
+      "website": "https://hidenmiami.com",
+      "duration": null
+    },
+    {
+      "title": "Ariete",
+      "note": "Canard à la Presse",
+      "business": "Ariete",
+      "website": "https://arietecoconutgrove.com",
+      "duration": null
+    },
+    {
+      "title": "Boia De",
+      "note": "Beef Tartare with crispy capers",
+      "business": "Boia De",
+      "website": "https://boiaderestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Ogawa",
+      "note": "Signature Omakase",
+      "business": "Ogawa",
+      "website": "https://ogawamiami.com",
+      "duration": null
+    },
+    {
+      "title": "Cafe La Trova",
+      "note": "Empanadas and the Daiquiri Clasico",
+      "business": "Cafe La Trova",
+      "website": "https://cafelatrova.com",
+      "duration": null
+    },
+    {
+      "title": "Sunny's Steakhouse",
+      "note": "Steak Tartare on sourdough",
+      "business": "Sunny's Steakhouse",
+      "website": "https://sunnysmia.com",
+      "duration": null
+    },
+    {
+      "title": "Cote Miami",
+      "note": "Butcher's Feast tasting, Steak Omakase",
+      "business": "Cote Miami",
+      "website": "https://cotemiami.com",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Shingo",
+      "note": "Chef's Omakase",
+      "business": "Shingo",
+      "website": "https://shingomiami.com",
+      "duration": null
+    },
+    {
+      "title": "The Surf Club Spa",
+      "note": "Inner Harmony Massage",
+      "business": "The Surf Club Spa",
+      "website": "https://fourseasons.com",
+      "duration": null
+    },
+    {
+      "title": "Hiden",
+      "note": "Omakase tasting",
+      "business": "Hiden",
+      "website": "https://hidenmiami.com",
+      "duration": null
+    },
+    {
+      "title": "Ariete",
+      "note": "Canard à la Presse",
+      "business": "Ariete",
+      "website": "https://arietecoconutgrove.com",
+      "duration": null
+    },
+    {
+      "title": "Boia De",
+      "note": "Beef Tartare with crispy capers",
+      "business": "Boia De",
+      "website": "https://boiaderestaurant.com",
+      "duration": null
+    },
+    {
+      "title": "Ogawa",
+      "note": "Signature Omakase",
+      "business": "Ogawa",
+      "website": "https://ogawamiami.com",
+      "duration": null
+    },
+    {
+      "title": "Sunny's Steakhouse",
+      "note": "Steak Tartare on sourdough",
+      "business": "Sunny's Steakhouse",
+      "website": "https://sunnysmia.com",
+      "duration": null
+    },
+    {
+      "title": "Cote Miami",
+      "note": "Butcher's Feast tasting, Steak Omakase",
+      "business": "Cote Miami",
+      "website": "https://cotemiami.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Floyd",
+      "note": "Melódie showcase monthly party",
+      "business": "Floyd",
+      "website": "https://clubspace.com",
+      "duration": null
+    },
+    {
+      "title": "Do Not Sit on the Furniture",
+      "note": "Any Saturday night resident set",
+      "business": "Do Not Sit on the Furniture",
+      "website": "https://donotsit.com",
+      "duration": null
+    },
+    {
+      "title": "Lagniappe",
+      "note": "BYOB cheese board with their wine, live jazz on a weeknight",
+      "business": "Lagniappe",
+      "website": "https://lagniappehouse.com",
+      "duration": null
+    },
+    {
+      "title": "Club Space",
+      "note": "Sunday morning terrace set — you'll understand when the sun comes up",
+      "business": "Club Space",
+      "website": "https://clubspace.com",
+      "duration": null
+    },
+    {
+      "title": "Ball & Chain",
+      "note": "Salsero Sundays on the outdoor Pineapple Stage",
+      "business": "Ball & Chain",
+      "website": "https://www.ballandchainmiami.com",
+      "duration": null
+    },
+    {
+      "title": "Miami Improv Comedy Club",
+      "note": "Weekend headliner show",
+      "business": "Miami Improv Comedy Club",
+      "website": "https://miamiimprov.com",
+      "duration": null
+    },
+    {
+      "title": "Treehouse",
+      "note": "Sunday night sets",
+      "business": "Treehouse",
+      "website": "https://treehousemiami.com",
+      "duration": null
+    },
+    {
+      "title": "LIV",
+      "note": "Table service if you can swing it — the bottle parade is the show",
+      "business": "LIV",
+      "website": "https://www.livnightclub.com",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "South Pointe Park",
+      "note": "Watch the cruise ships depart at sunset",
+      "business": "South Pointe Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bachour",
+      "note": "Croissant Cubano and any pastry",
+      "business": "Bachour",
+      "website": "https://antoniobachour.com",
+      "duration": null
+    },
+    {
+      "title": "Ghee Indian Kitchen",
+      "note": "Smoked Lamb Neck",
+      "business": "Ghee Indian Kitchen",
+      "website": "https://gheemiami.com",
+      "duration": null
+    },
+    {
+      "title": "Robert Is Here",
+      "note": "Key lime milkshake, mamey sapote milkshake",
+      "business": "Robert Is Here",
+      "website": "https://robertishere.com",
+      "duration": null
+    },
+    {
+      "title": "Azucar Ice Cream Company",
+      "note": "Abuela Maria flavor",
+      "business": "Azucar Ice Cream Company",
+      "website": "https://azucaricecream.com",
+      "duration": null
+    },
+    {
+      "title": "Wynwood Walls",
+      "note": "Free street art in the surrounding blocks is just as good",
+      "business": "Wynwood Walls",
+      "website": "https://thewynwoodwalls.com",
+      "duration": null
+    },
+    {
+      "title": "Vizcaya Museum and Gardens",
+      "note": "The formal gardens and bay-facing terrace at golden hour",
+      "business": "Vizcaya Museum and Gardens",
+      "website": "https://vizcaya.org",
+      "duration": null
+    },
+    {
+      "title": "Crandon Park Beach",
+      "note": "The sandbar at low tide, kayak rentals",
+      "business": "Crandon Park Beach",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "The Surf Club Spa",
+      "note": "Inner Harmony Massage",
+      "business": "The Surf Club Spa",
+      "website": "https://fourseasons.com",
+      "duration": null
+    },
+    {
+      "title": "Tierra Santa Healing House at Faena",
+      "note": "Hammam experience",
+      "business": "Tierra Santa Healing House at Faena",
+      "website": "https://www.faena.com/miami-beach/wellness",
+      "duration": null
+    },
+    {
+      "title": "Mandarin Oriental Spa",
+      "note": "Time Ritual facial, bayfront relaxation deck",
+      "business": "Mandarin Oriental Spa",
+      "website": "https://www.mandarinoriental.com/miami/spa",
+      "duration": null
+    },
+    {
+      "title": "Adrienne Arsht Center for the Performing Arts",
+      "note": "Check the calendar — the programming is always strong",
+      "business": "Adrienne Arsht Center for the Performing Arts",
+      "website": "https://arshtcenter.org",
+      "duration": null
+    },
+    {
+      "title": "Lapis Spa at Fontainebleau",
+      "note": "The Water Journey",
+      "business": "Lapis Spa at Fontainebleau",
+      "website": "https://fontainebleau.com",
+      "duration": null
+    },
+    {
+      "title": "Carillon Miami Wellness Resort",
+      "note": "Thermal hydrotherapy circuit",
+      "business": "Carillon Miami Wellness Resort",
+      "website": "https://www.carillonhotel.com",
+      "duration": null
+    },
+    {
+      "title": "Rubell Museum",
+      "note": "The scale of the warehouse space alone is worth the visit",
+      "business": "Rubell Museum",
+      "website": "https://rubellmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Pérez Art Museum Miami (PAMM)",
+      "note": "The hanging gardens, terrace bay views, rotating exhibitions",
+      "business": "Pérez Art Museum Miami (PAMM)",
+      "website": "https://www.pamm.org",
+      "duration": null
+    }
+  ]
+}
