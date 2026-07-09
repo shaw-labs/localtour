@@ -216,5 +216,20 @@
     "event_ticker": true,
     "seasonal_hero": true
   },
-  "images": {}
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "district-roosevelt-row.jpg",
+      "outdoors-papago-park.jpg",
+      "resort-golf-corridor.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {},
+    "section_breaks": {}
+  }
 }
