@@ -1,0 +1,342 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Privacy Policy · LocalTour</title>
+<meta name="description" content="How LocalTour and SH@W Labs collect, use, and protect your data." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a; --bg-2: #121212; --bg-3: #191919;
+    --text: #F5F0E6; --text-muted: #9a968f; --text-dim: #5a564f;
+    --accent: #dc2626; --accent-hot: #ef4444; --accent-soft: rgba(220, 38, 38, 0.12);
+    --border: rgba(245, 240, 230, 0.08); --border-strong: rgba(245, 240, 230, 0.16);
+    --serif: 'Playfair Display', Georgia, serif;
+    --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --mono: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.5; font-size: 16px; -webkit-font-smoothing: antialiased; overflow-x: hidden; position: relative; }
+  body::before { content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 1; opacity: 0.025; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); }
+  a { color: inherit; text-decoration: none; }
+
+  .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 18px 28px; display: flex; align-items: center; justify-content: space-between; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); background: rgba(10, 10, 10, 0.72); border-bottom: 1px solid var(--border); }
+  .nav-brand { display: flex; align-items: center; gap: 10px; font-family: var(--serif); font-weight: 700; font-size: 20px; letter-spacing: -0.01em; }
+  .nav-brand .lt-mark { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background: var(--accent); border-radius: 8px; color: #fff; font-family: var(--sans); font-weight: 700; font-size: 13px; letter-spacing: 0.02em; }
+  .nav-brand .tour { color: var(--accent); }
+  .nav-links { display: flex; align-items: center; gap: 28px; font-size: 14px; color: var(--text-muted); }
+  .nav-links a { transition: color 0.2s ease; }
+  .nav-links a:hover { color: var(--text); }
+  .nav-cta { display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; background: var(--accent); color: #fff; border-radius: 999px; font-weight: 500; font-size: 14px; transition: all 0.2s ease; }
+  .nav-cta:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  @media (max-width: 820px) { .nav { padding: 14px 18px; } .nav-links { display: none; } }
+
+  .container { max-width: 1200px; margin: 0 auto; padding: 0 28px; position: relative; z-index: 2; }
+  @media (max-width: 640px) { .container { padding: 0 20px; } }
+
+  /* HERO */
+  .hero { padding: 160px 0 60px; position: relative; border-bottom: 1px solid var(--border); }
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 28px; display: inline-flex; align-items: center; gap: 10px; }
+  .eyebrow::before { content: ''; width: 32px; height: 1px; background: var(--accent); }
+  .hero h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(44px, 7vw, 88px); line-height: 1; letter-spacing: -0.03em; max-width: 16ch; margin-bottom: 28px; }
+  .hero h1 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .hero-lede { font-size: 18px; line-height: 1.65; color: var(--text-muted); max-width: 64ch; margin-bottom: 28px; }
+  .hero-meta { display: flex; gap: 32px; flex-wrap: wrap; font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-dim); padding-top: 24px; border-top: 1px solid var(--border); }
+  .hero-meta .v { color: var(--text); }
+
+  /* DOC LAYOUT */
+  .doc { padding: 80px 0 120px; }
+  .doc-grid { display: grid; grid-template-columns: 240px 1fr; gap: 80px; align-items: start; }
+  @media (max-width: 900px) { .doc-grid { grid-template-columns: 1fr; gap: 40px; } }
+
+  /* SIDE NAV */
+  .toc { position: sticky; top: 100px; }
+  .toc .toc-lbl { font-family: var(--mono); font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-dim); padding-bottom: 14px; border-bottom: 1px solid var(--border); margin-bottom: 14px; }
+  .toc ol { list-style: none; counter-reset: toc; }
+  .toc ol li { counter-increment: toc; padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .toc ol li a { display: flex; gap: 10px; font-size: 13px; color: var(--text-muted); transition: color 0.2s ease; line-height: 1.3; }
+  .toc ol li a:hover { color: var(--text); }
+  .toc ol li a::before { content: counter(toc, decimal-leading-zero); font-family: var(--mono); font-size: 10px; color: var(--accent); letter-spacing: 0.1em; padding-top: 2px; }
+  @media (max-width: 900px) { .toc { position: static; } .toc ol { columns: 2; column-gap: 24px; } }
+  @media (max-width: 520px) { .toc ol { columns: 1; } }
+
+  /* CONTENT */
+  .doc-body { max-width: 68ch; }
+  .doc-body section { padding: 48px 0; border-top: 1px solid var(--border); }
+  .doc-body section:first-child { padding-top: 0; border-top: none; }
+  .doc-body section .s-num { font-family: var(--mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; display: block; }
+  .doc-body h2 { font-family: var(--serif); font-weight: 500; font-size: clamp(26px, 3vw, 34px); line-height: 1.15; letter-spacing: -0.02em; margin-bottom: 22px; }
+  .doc-body h2 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .doc-body p { font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 16px; }
+  .doc-body p strong { color: var(--text); font-weight: 500; }
+  .doc-body p:last-child { margin-bottom: 0; }
+  .doc-body h3 { font-family: var(--serif); font-weight: 500; font-size: 18px; line-height: 1.3; margin-top: 24px; margin-bottom: 12px; color: var(--text); }
+  .doc-body ul { list-style: none; margin: 14px 0 18px; padding-left: 0; }
+  .doc-body ul li { font-size: 15px; line-height: 1.65; color: var(--text-muted); padding: 6px 0 6px 24px; position: relative; }
+  .doc-body ul li::before { content: '→'; position: absolute; left: 0; color: var(--accent); }
+  .doc-body ul li strong { color: var(--text); font-weight: 500; }
+  .doc-body a.inline { color: var(--accent); border-bottom: 1px dotted var(--accent); transition: opacity 0.2s; }
+  .doc-body a.inline:hover { opacity: 0.7; }
+
+  /* CONTACT BLOCK */
+  .contact-block { margin-top: 32px; padding: 24px; background: var(--bg-2); border: 1px solid var(--border); border-left: 2px solid var(--accent); border-radius: 6px; }
+  .contact-block .c-lbl { font-family: var(--mono); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+  .contact-block .c-row { font-family: var(--mono); font-size: 13px; color: var(--text); padding: 4px 0; }
+  .contact-block .c-row .l { color: var(--text-dim); display: inline-block; width: 90px; }
+
+  /* FOOTER */
+  footer { padding: 80px 0 48px; border-top: 1px solid var(--border); font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em; color: var(--text-dim); background: var(--bg-2); }
+  .foot-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; text-transform: uppercase; }
+  .foot-row a { color: var(--text-muted); transition: color 0.2s; }
+  .foot-row a:hover { color: var(--text); }
+  .foot-row .fl { display: flex; gap: 20px; flex-wrap: wrap; }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="/" class="nav-brand">
+    <span class="lt-mark">LT</span>
+    <span>Local<span class="tour">Tour</span></span>
+  </a>
+  <div class="nav-links">
+    <a href="/platform/explore.html">Cities</a>
+    <a href="/platform/concierge.html">Concierge</a>
+    <a href="/platform/planner.html">Planner</a>
+    <a href="/platform/community.html">Wall</a>
+  </div>
+  <a href="/platform/explore.html" class="nav-cta">Explore</a>
+</nav>
+
+<main>
+
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow">Company · Legal</div>
+      <h1>Privacy <em>Policy</em>.</h1>
+      <p class="hero-lede">
+        LocalTour is a product of SH@W Labs. This policy describes what data we collect, how we use it, and the rights you have over it. We wrote it in plain English because legal should be readable.
+      </p>
+      <div class="hero-meta">
+        <div><span class="v">Version 1.0</span></div>
+        <div>Effective · <span class="v">April 17, 2026</span></div>
+        <div>Last updated · <span class="v">April 17, 2026</span></div>
+        <div>Governing law · <span class="v">Nevada, USA</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="doc">
+    <div class="container">
+      <div class="doc-grid">
+
+        <aside class="toc">
+          <div class="toc-lbl">On this page</div>
+          <ol>
+            <li><a href="#who">Who we are</a></li>
+            <li><a href="#what">What we collect</a></li>
+            <li><a href="#how">How we use it</a></li>
+            <li><a href="#concierge">AI Concierge data</a></li>
+            <li><a href="#wall">Community Wall content</a></li>
+            <li><a href="#cookies">Cookies &amp; analytics</a></li>
+            <li><a href="#affiliate">Affiliate tracking</a></li>
+            <li><a href="#vendors">Third parties</a></li>
+            <li><a href="#retention">Retention</a></li>
+            <li><a href="#rights">Your rights</a></li>
+            <li><a href="#children">Children</a></li>
+            <li><a href="#changes">Changes</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ol>
+        </aside>
+
+        <div class="doc-body">
+
+          <section id="who">
+            <span class="s-num">Section 01</span>
+            <h2>Who <em>we</em> are.</h2>
+            <p><strong>"LocalTour"</strong> refers to the LocalTour platform at localtour.us and its city sub-sites. <strong>"We," "us," and "our"</strong> refer to SH@W Labs, a sole proprietorship operating from Nevada, USA, which owns and operates LocalTour.</p>
+            <p>We can be reached at <a href="mailto:privacy@shaw-labs.com" class="inline">privacy@shaw-labs.com</a> for any question about this policy. A real person reads every email.</p>
+          </section>
+
+          <section id="what">
+            <span class="s-num">Section 02</span>
+            <h2>What we <em>collect</em>.</h2>
+            <p>We collect the minimum data required to operate the platform, support the features you use, and keep the service secure. Specifically:</p>
+            <h3>Information you give us directly</h3>
+            <ul>
+              <li><strong>Email address</strong> when you subscribe to our newsletter or contact us</li>
+              <li><strong>Messages</strong> you send to our AI Concierge</li>
+              <li><strong>Community Wall posts</strong> including text, images, and post metadata</li>
+              <li><strong>Partner inquiries</strong> when you email one of our partner addresses</li>
+              <li><strong>Coupon redemption data</strong> when you use a Coupon Clipper offer</li>
+            </ul>
+            <h3>Information collected automatically</h3>
+            <ul>
+              <li><strong>Device &amp; browser info</strong> (user agent, screen size, OS version)</li>
+              <li><strong>Approximate location</strong> derived from IP, used for city detection only — never stored at precision beyond city level</li>
+              <li><strong>Usage events</strong> (pages viewed, features used, scroll depth, installed-as-app status)</li>
+              <li><strong>Referral source</strong> if you arrived from a partner creator link</li>
+            </ul>
+            <p>We do <strong>not</strong> knowingly collect government IDs, payment card numbers (payments are processed by third-party providers), precise GPS coordinates, biometric data, or contents of your device outside of the LocalTour site.</p>
+          </section>
+
+          <section id="how">
+            <span class="s-num">Section 03</span>
+            <h2>How we <em>use</em> it.</h2>
+            <p>We use the data we collect to:</p>
+            <ul>
+              <li>Operate the LocalTour platform and deliver the features you asked for</li>
+              <li>Personalize concierge responses and itinerary suggestions</li>
+              <li>Send the newsletter you subscribed to (unsubscribe is one click)</li>
+              <li>Understand aggregate usage patterns to improve the product</li>
+              <li>Detect and prevent abuse, spam, and fraud</li>
+              <li>Comply with legal obligations and respond to lawful requests</li>
+            </ul>
+            <p>We do <strong>not</strong> sell your personal data. We do <strong>not</strong> share it with advertisers for retargeting. We do <strong>not</strong> trade it to data brokers.</p>
+          </section>
+
+          <section id="concierge">
+            <span class="s-num">Section 04</span>
+            <h2>AI Concierge <em>data handling</em>.</h2>
+            <p>When you chat with a city's AI Concierge, your message is processed to generate a response. Here's how that works:</p>
+            <ul>
+              <li>Messages are sent to our AI provider(s) to generate responses</li>
+              <li>Your messages are stored temporarily for up to <strong>30 days</strong> to improve concierge quality, then deleted or de-identified</li>
+              <li>Messages are <strong>not</strong> used to train third-party foundation models. Our AI provider contracts prohibit this</li>
+              <li>Aggregate, de-identified conversation patterns may be used to improve our own concierge node trees and business graph weighting</li>
+              <li>We do not attempt to re-identify de-identified data</li>
+            </ul>
+            <p>If you want your concierge conversation history deleted before the 30-day window, email us and we'll do it.</p>
+          </section>
+
+          <section id="wall">
+            <span class="s-num">Section 05</span>
+            <h2>Community Wall <em>content</em>.</h2>
+            <p>Content you post to a city's Community Wall is <strong>public by design</strong>. It appears on that city's wall, in concierge responses, and may be cited in our itinerary outputs.</p>
+            <p>When you post, we collect:</p>
+            <ul>
+              <li>The content itself (text, image, post type)</li>
+              <li>Approximate location used to verify you're in the city</li>
+              <li>Device signals for spam/abuse prevention</li>
+              <li>Engagement metrics (upvotes, shares, reply counts)</li>
+            </ul>
+            <p>You retain ownership of your content. You grant us a non-exclusive, worldwide, royalty-free license to display, distribute, and cite your post within LocalTour in perpetuity. If you delete your post, we remove it from the active wall within 24 hours, but cached versions may persist in search snapshots briefly.</p>
+          </section>
+
+          <section id="cookies">
+            <span class="s-num">Section 06</span>
+            <h2>Cookies &amp; <em>analytics</em>.</h2>
+            <p>We use a small set of cookies and similar technologies:</p>
+            <ul>
+              <li><strong>Strictly necessary</strong> — session state, theme preference (dark/light), dismissed prompts</li>
+              <li><strong>Analytics</strong> — aggregated usage metrics via privacy-friendly providers (we currently use Plausible-style analytics with no cross-site tracking)</li>
+              <li><strong>Affiliate attribution</strong> — a 30-day first-party cookie to credit creators who referred you</li>
+            </ul>
+            <p>We do <strong>not</strong> use advertising cookies, third-party retargeting pixels, or session replay tools. Your browser's Do Not Track signal is respected where technically possible.</p>
+          </section>
+
+          <section id="affiliate">
+            <span class="s-num">Section 07</span>
+            <h2>Affiliate <em>tracking</em> &amp; disclosures.</h2>
+            <p>LocalTour may earn commissions from certain merchant partnerships. This is disclosed at the point of recommendation where material, consistent with FTC guidance for affiliate content.</p>
+            <p>When you arrive from a creator's affiliate link, we set a first-party cookie to attribute any resulting conversion to that creator. This cookie does not track you across other websites. It expires after 30 days. If you clear it, the attribution is lost.</p>
+            <p>Affiliate status <strong>never</strong> overrides recommendation quality. The concierge is designed to surface the best answer first and prefer affiliate merchants only where the answer is otherwise equivalent.</p>
+          </section>
+
+          <section id="vendors">
+            <span class="s-num">Section 08</span>
+            <h2>Third-party <em>services</em>.</h2>
+            <p>We rely on a small number of vendors to operate the platform. Each receives only the data required to perform its function and is bound by a data processing agreement. Current processors include:</p>
+            <ul>
+              <li><strong>Hosting &amp; CDN</strong> — site delivery and caching</li>
+              <li><strong>AI provider(s)</strong> — concierge response generation</li>
+              <li><strong>Email delivery</strong> — newsletter and transactional email</li>
+              <li><strong>Analytics</strong> — privacy-friendly aggregate analytics</li>
+              <li><strong>Payment processor</strong> — for any paid merchant or partner transactions (we never see card numbers)</li>
+              <li><strong>Google Fonts</strong> — typography (served with privacy-friendly caching)</li>
+            </ul>
+            <p>The current list of processors is available on request.</p>
+          </section>
+
+          <section id="retention">
+            <span class="s-num">Section 09</span>
+            <h2>How long we <em>keep</em> data.</h2>
+            <p>We retain personal data only as long as needed to deliver the service or meet legal obligations:</p>
+            <ul>
+              <li><strong>Newsletter email</strong> — until you unsubscribe, then removed within 30 days</li>
+              <li><strong>Concierge conversations</strong> — 30 days, then deleted or de-identified</li>
+              <li><strong>Community Wall posts</strong> — until you delete them or your account is removed</li>
+              <li><strong>Analytics events</strong> — 13 months in aggregated form</li>
+              <li><strong>Affiliate attribution</strong> — 30-day cookie lifetime</li>
+              <li><strong>Partner &amp; merchant records</strong> — duration of the partnership plus 7 years for tax and audit purposes</li>
+            </ul>
+          </section>
+
+          <section id="rights">
+            <span class="s-num">Section 10</span>
+            <h2>Your <em>rights</em>.</h2>
+            <p>Depending on where you live, you may have the following rights regarding your personal data:</p>
+            <ul>
+              <li><strong>Access</strong> — request a copy of the personal data we hold about you</li>
+              <li><strong>Correct</strong> — ask us to fix data that's wrong</li>
+              <li><strong>Delete</strong> — ask us to remove your data, subject to legal exceptions</li>
+              <li><strong>Port</strong> — receive your data in a structured, machine-readable format</li>
+              <li><strong>Object</strong> — to certain processing activities</li>
+              <li><strong>Opt out</strong> — of the newsletter, analytics, or affiliate tracking at any time</li>
+            </ul>
+            <p>California residents have additional rights under the CCPA/CPRA. EU/UK residents have rights under GDPR. To exercise any right, email <a href="mailto:privacy@shaw-labs.com" class="inline">privacy@shaw-labs.com</a>. We'll respond within 30 days.</p>
+          </section>
+
+          <section id="children">
+            <span class="s-num">Section 11</span>
+            <h2><em>Children</em>.</h2>
+            <p>LocalTour is not directed at children under 13, and we do not knowingly collect personal data from anyone under 13. If we learn we've collected data from a child under 13, we'll delete it promptly. If you believe a child has submitted data to us, contact <a href="mailto:privacy@shaw-labs.com" class="inline">privacy@shaw-labs.com</a>.</p>
+          </section>
+
+          <section id="changes">
+            <span class="s-num">Section 12</span>
+            <h2>Changes to this <em>policy</em>.</h2>
+            <p>We may update this policy as LocalTour evolves. When we make material changes, we'll update the "Last updated" date at the top of this page and, where appropriate, notify newsletter subscribers by email. Continued use of LocalTour after changes constitutes acceptance of the updated policy.</p>
+          </section>
+
+          <section id="contact">
+            <span class="s-num">Section 13</span>
+            <h2><em>Contact</em>.</h2>
+            <p>Questions, requests, or complaints about this policy or our data practices can be sent to:</p>
+            <div class="contact-block">
+              <div class="c-lbl">Privacy Contact</div>
+              <div class="c-row"><span class="l">Entity</span>SH@W Labs</div>
+              <div class="c-row"><span class="l">Product</span>LocalTour</div>
+              <div class="c-row"><span class="l">Email</span>privacy@shaw-labs.com</div>
+              <div class="c-row"><span class="l">General</span>localtour@shaw-labs.com</div>
+              <div class="c-row"><span class="l">Response</span>Within 30 days</div>
+            </div>
+            <p style="margin-top:32px;">See also our <a href="/company/terms.html" class="inline">Terms of Service</a>.</p>
+          </section>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <div>© 2026 LocalTour · SH@W Labs</div>
+      <div class="fl">
+        <a href="/company/privacy.html">Privacy</a>
+        <a href="/company/terms.html">Terms</a>
+        <a href="mailto:localtour@shaw-labs.com">Contact</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
