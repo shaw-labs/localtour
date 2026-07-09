@@ -10,8 +10,15 @@ const citiesDir = path.join(ROOT, "cities");
 let copied = 0;
 for (const slug of readdirSync(citiesDir)) {
   const src = path.join(citiesDir, slug, "images");
-  if (!existsSync(src)) continue;
-  cpSync(src, path.join(ROOT, "dist", "cities", slug, "images"), { recursive: true });
-  copied += 1;
+  if (existsSync(src)) {
+    cpSync(src, path.join(ROOT, "dist", "cities", slug, "images"), { recursive: true });
+    copied += 1;
+  }
+  // legacy per-city wall page — URLs must keep resolving (brief Principle 3);
+  // ported into the engine later in Phase 1
+  const wall = path.join(citiesDir, slug, "wall.html");
+  if (existsSync(wall)) {
+    cpSync(wall, path.join(ROOT, "dist", "cities", slug, "wall.html"));
+  }
 }
 console.log(copied ? `✓ copied images for ${copied} cities into dist/` : "no local city images — skipped (fallback art will render)");

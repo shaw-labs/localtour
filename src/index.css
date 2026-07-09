@@ -7,7 +7,8 @@
   --color-text: #1c1917;
 }
 
+/* Scaffold/dev pages only — the engine views own body paint on /cities/* routes
+   (they set body styles in their mount effects, like the legacy inline apps did). */
 body {
-  @apply bg-stone-50 text-stone-900 antialiased;
-  font-family: system-ui, sans-serif;
+  @apply antialiased;
 }

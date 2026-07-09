@@ -60,6 +60,7 @@ export function adaptCity(city, editorial) {
   const CITY = {
     name: config.name,
     state: config.state,
+    region: config.region ?? config.state,
     slug,
     tagline: config.tagline,
     description: config.description,
@@ -101,9 +102,28 @@ export function adaptCity(city, editorial) {
     : defaultPicks(directory, sortedCats, grouped);
   const storyboard = editorial?.storyboard ?? defaultStoryboard(picks.length);
 
-  const breakSchedule = buildBreakSchedule(
-    [...Object.values(BREAKS), ...STORY_IMAGES, ...Object.values(CAT_IMAGES)].filter(Boolean),
-  );
+  // The raw flat break-image list (what the inline apps called breakImgsR) — kept
+  // alongside the schedule because buildBreakSchedule can drop a trailing image.
+  const breakImgsFlat = [
+    ...Object.values(BREAKS),
+    ...STORY_IMAGES,
+    ...Object.values(CAT_IMAGES),
+  ].filter(Boolean);
+  const breakSchedule = buildBreakSchedule(breakImgsFlat);
+
+  // City literals the Feed falls back to — data-derived when no editorial module
+  // exists, so factory cities never render another city's literals.
+  const fmtCoords = (c) =>
+    c && typeof c.lat === "number" && typeof c.lng === "number"
+      ? `${Math.abs(c.lat).toFixed(4)}°${c.lat >= 0 ? "N" : "S"} · ${Math.abs(c.lng).toFixed(4)}°${c.lng >= 0 ? "E" : "W"}`
+      : null;
+  const defaults = {
+    author:
+      editorial?.defaults?.author ??
+      ((config.concierge?.name ?? "").toLowerCase() || "the concierge"),
+    neighborhood: editorial?.defaults?.neighborhood ?? null,
+    coords: editorial?.defaults?.coords ?? fmtCoords(config.coordinates),
+  };
 
   return {
     slug,
@@ -129,6 +149,8 @@ export function adaptCity(city, editorial) {
     picks,
     storyboard,
     breakSchedule,
+    breakImgsFlat,
+    defaults,
     editorial: editorial ?? null,
     CAT_KICKERS,
     planner: city.planner,

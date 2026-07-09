@@ -4,7 +4,12 @@ import { useEffect, useState } from "react";
 import { CityModelProvider, useCityModel } from "./cityModel";
 import FeedView from "./views/feed/FeedView";
 import ClassicView from "./views/classic/ClassicView";
+import { installImgFallback } from "./imgFallback";
 import "./styles/engine.css";
+
+// Install the broken-image fallback handlers at module init (pre-first-render,
+// idempotent) — the inline apps ran this as a pre-React script.
+installImgFallback();
 
 function CityToggle({ view, setView, classic }) {
   const { CITY } = useCityModel();
