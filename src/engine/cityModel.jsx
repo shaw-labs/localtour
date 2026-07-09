@@ -57,6 +57,11 @@ export function adaptCity(city, editorial) {
   const { config, slug } = city;
   const IMG = (f) => (f ? `/cities/${slug}/images/${f}` : null);
 
+  // Absolute per-city wall URL. The inline apps used a relative "wall.html"
+  // (resolved against /cities/<slug>/index.html); under the engine's
+  // /cities/:slug route a relative link breaks, so links come from here.
+  const wallUrl = `/cities/${slug}/wall.html`;
+
   const CITY = {
     name: config.name,
     state: config.state,
@@ -128,6 +133,7 @@ export function adaptCity(city, editorial) {
   return {
     slug,
     CITY,
+    wallUrl,
     IMG,
     HERO,
     STORY_IMAGES,

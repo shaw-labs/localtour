@@ -13,7 +13,7 @@ export function R_Story() {
   return (
     <section id="story" className="story" ref={ref}>
       <div className="story-inner">
-        <R_Reveal><div className="eyebrow center">The R_Story</div></R_Reveal>
+        <R_Reveal><div className="eyebrow center">The Story</div></R_Reveal>
         <R_Reveal delay={0.1}>
           <h2>{CITY.tagline}</h2>
         </R_Reveal>

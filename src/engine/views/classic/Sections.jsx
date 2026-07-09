@@ -141,7 +141,7 @@ export function R_SideTrips() {
 
 /* ═══ FOOTER ═══ */
 export function R_Footer() {
-  const { CITY, directory } = useCityModel();
+  const { CITY, directory, wallUrl } = useCityModel();
   return (
     <footer>
       <a href="/" className="footer-brand">
@@ -152,7 +152,7 @@ export function R_Footer() {
       <div className="footer-links">
         <a href="/">All cities</a>
         <span>·</span>
-        <a href="./wall.html">The Wall</a>
+        <a href={wallUrl}>The Wall</a>
         <span>·</span>
         <a href="https://shaw-labs.com">SH@W Labs</a>
       </div>

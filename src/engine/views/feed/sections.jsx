@@ -8,9 +8,9 @@ import { Reveal } from "../../hooks";
 import { useCityModel } from "../../cityModel";
 import { ImgOrVisual, FeedChip } from "./cards";
 
-export function FeedHeader({onOpenConcierge}){return(<div style={{position:"sticky",top:0,zIndex:50,background:"rgba(10,10,11,.86)",backdropFilter:"blur(12px)",borderBottom:`1px solid ${FT.line}`,padding:"12px 20px 12px 180px",display:"flex",justifyContent:"flex-end",alignItems:"center",height:56}}>
+export function FeedHeader({onOpenConcierge}){const{wallUrl}=useCityModel();return(<div style={{position:"sticky",top:0,zIndex:50,background:"rgba(10,10,11,.86)",backdropFilter:"blur(12px)",borderBottom:`1px solid ${FT.line}`,padding:"12px 20px 12px 180px",display:"flex",justifyContent:"flex-end",alignItems:"center",height:56}}>
   <div style={{display:"flex",alignItems:"center",gap:12}}>
-    <a href="wall.html" style={{background:"transparent",border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".2em",color:FT.inkMid,textTransform:"uppercase",cursor:"pointer",textDecoration:"none"}}>Wall</a>
+    <a href={wallUrl} style={{background:"transparent",border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".2em",color:FT.inkMid,textTransform:"uppercase",cursor:"pointer",textDecoration:"none"}}>Wall</a>
     <button onClick={onOpenConcierge} style={{display:"flex",alignItems:"center",gap:6,background:"transparent",border:`1px solid ${FT.inkFaint}`,padding:"6px 10px",cursor:"pointer",fontFamily:FT.fm,fontSize:9,letterSpacing:".2em",color:FT.inkMid,textTransform:"uppercase"}}>
       <span style={{width:6,height:6,borderRadius:"50%",background:FT.green,boxShadow:`0 0 8px ${FT.green}`,animation:"pulse 2s infinite"}}/>
       Concierge
@@ -79,15 +79,15 @@ export function FeedDirectorySection({cat,businesses}){
   </section></Reveal>);
 }
 
-export function FeedWallSection(){const{WALL_IMAGES,IMG}=useCityModel();return(<Reveal><section style={{padding:"32px 24px",borderBottom:`1px solid ${FT.line}`}}>
+export function FeedWallSection(){const{WALL_IMAGES,IMG,wallUrl}=useCityModel();return(<Reveal><section style={{padding:"32px 24px",borderBottom:`1px solid ${FT.line}`}}>
   <div style={{fontFamily:FT.fm,fontSize:9,letterSpacing:".3em",color:FT.red,textTransform:"uppercase",marginBottom:8}}>The Wall</div>
   <h3 style={{fontFamily:FT.fd,fontSize:22,fontWeight:600,color:FT.ink,letterSpacing:"-.02em",marginBottom:16}}>What locals are posting</h3>
   <div style={{display:"grid",gridTemplateColumns:"repeat(3,1fr)",gap:6}}>
-    {(WALL_IMAGES||[]).slice(0,9).map((f,i)=><a key={i} href="wall.html" style={{position:"relative",aspectRatio:"1/1",overflow:"hidden",background:FT.surf,textDecoration:"none",display:"block"}}>
+    {(WALL_IMAGES||[]).slice(0,9).map((f,i)=><a key={i} href={wallUrl} style={{position:"relative",aspectRatio:"1/1",overflow:"hidden",background:FT.surf,textDecoration:"none",display:"block"}}>
       <img src={IMG(f)} alt="" loading="lazy" style={{width:"100%",height:"100%",objectFit:"cover"}} onError={e=>{e.target.style.display="none";e.target.parentElement.style.background=`linear-gradient(135deg,${["#1a1f2e","#2d1410","#1e4d6b","#1a0a2e","#3d1f0c","#2d4a5c","#0f2535","#3d2a4a","#1e3a5f"][i]} 0%,${FT.surf} 100%)`;}}/>
     </a>)}
   </div>
-  <a href="wall.html" style={{display:"inline-block",marginTop:16,padding:"10px 18px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".2em",textTransform:"uppercase",textDecoration:"none"}}>Open The Wall →</a>
+  <a href={wallUrl} style={{display:"inline-block",marginTop:16,padding:"10px 18px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".2em",textTransform:"uppercase",textDecoration:"none"}}>Open The Wall →</a>
 </section></Reveal>);}
 
 export function FeedTransitSection(){const{TRANSIT,LOCAL_TRANSPORT}=useCityModel();return(<Reveal><section style={{padding:"32px 24px",borderBottom:`1px solid ${FT.line}`,background:FT.surf}}>

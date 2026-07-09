@@ -4,7 +4,7 @@ import { useCityModel } from "../../cityModel";
 
 /* ═══ NAV + MENU ═══ */
 export function R_Nav({scrolled, onMenuToggle, menuOpen}) {
-  const { CITY } = useCityModel();
+  const { CITY, wallUrl } = useCityModel();
   return (
     <nav className={`nav ${scrolled ? 'scrolled' : ''}`}>
       <div className="nav-left">
@@ -21,7 +21,7 @@ export function R_Nav({scrolled, onMenuToggle, menuOpen}) {
         </a>
       </div>
       <div className="nav-right">
-        <a href="./wall.html" className="nav-link">The Wall</a>
+        <a href={wallUrl} className="nav-link">The Wall</a>
         <span className="city-badge">{CITY.name}</span>
       </div>
     </nav>
@@ -29,14 +29,14 @@ export function R_Nav({scrolled, onMenuToggle, menuOpen}) {
 }
 
 export function R_SideMenu({open, onClose, onOpenConcierge, onOpenPlanner}) {
-  const { CITY, sortedCats } = useCityModel();
+  const { CITY, sortedCats, wallUrl } = useCityModel();
   const items = [
     {id: 'hero', label: 'Top'},
-    {id: 'story', label: 'The R_Story'},
+    {id: 'story', label: 'The Story'},
     {id: 'explore', label: 'Where to Start'},
     {id: 'vibes', label: 'Filter by Vibe'},
     ...sortedCats.map(c => ({id: `dir-${c}`, label: CAT_LABELS_R[c] || c})),
-    {id: 'deals', label: 'R_Deals'},
+    {id: 'deals', label: 'Deals'},
     {id: 'wall', label: 'The Wall'},
     {id: 'planner', label: 'Trip Planner'},
     {id: 'transit', label: 'Getting Here'}
@@ -56,9 +56,9 @@ export function R_SideMenu({open, onClose, onOpenConcierge, onOpenPlanner}) {
         <div className="tag">{CITY.tagline}</div>
         <div className="quick">
           <button onClick={() => { onClose(); onOpenPlanner(); }}>📋 Plan</button>
-          <a href="./wall.html" onClick={onClose}>📸 Wall</a>
+          <a href={wallUrl} onClick={onClose}>📸 Wall</a>
           <button onClick={() => { onClose(); onOpenConcierge(); }}>💬 {CITY.concierge_name}</button>
-          <button onClick={() => scrollTo('deals')}>🎟 R_Deals</button>
+          <button onClick={() => scrollTo('deals')}>🎟 Deals</button>
         </div>
         <nav>
           {items.map(it => (

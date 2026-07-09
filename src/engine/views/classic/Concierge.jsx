@@ -82,12 +82,12 @@ export function R_Concierge({open, setOpen}) {
         {open ? '✕' : '💬'}
       </button>
       <div className={`chat-overlay ${open ? 'open' : ''}`} onClick={() => setOpen(false)} />
-      <div className={`chat ${open ? 'open' : ''}`} role="dialog" aria-label="R_Concierge chat">
+      <div className={`chat ${open ? 'open' : ''}`} role="dialog" aria-label="Concierge chat">
         <div className="chat-handle" />
         <div className="chat-head">
           <div className="chat-avatar">🪂</div>
           <div className="chat-meta">
-            <div className="n">{CITY.concierge_name || 'R_Concierge'}</div>
+            <div className="n">{CITY.concierge_name || 'Concierge'}</div>
             <div className="c">{CITY.name} · {nodes.length} topics</div>
           </div>
           <button className="chat-close" onClick={() => setOpen(false)} aria-label="Close">✕</button>
