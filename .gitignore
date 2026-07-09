@@ -11,3 +11,4 @@ dist
 cities/*/images/
 .netlify/
 tsconfig.tsbuildinfo
+parity-report/

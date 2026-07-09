@@ -22,3 +22,10 @@ for (const slug of readdirSync(citiesDir)) {
   }
 }
 console.log(copied ? `✓ copied images for ${copied} cities into dist/` : "no local city images — skipped (fallback art will render)");
+
+// parity report (regenerable, gitignored) — served at /parity/ when present locally
+const parity = path.join(ROOT, "parity-report");
+if (existsSync(path.join(parity, "index.html"))) {
+  cpSync(parity, path.join(ROOT, "dist", "parity"), { recursive: true });
+  console.log("✓ parity report → dist/parity/");
+}
