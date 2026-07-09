@@ -17,6 +17,7 @@ const CITIES=[
   {slug:"las-vegas",name:"Las Vegas",state:"NV",tagline:"What Happens Here, Stays Here",vibe:"641K people · 277 places",hero:"hero-strip-night.jpg",link:"/vegas/"},
   {slug:"los-angeles",name:"Los Angeles",state:"CA",tagline:"Creative Capital of the Pacific",vibe:"3.9M people · 154 places",hero:"hero-dtla-rain-glow.jpg",link:"/cities/los-angeles/"},
   {slug:"smoky-mountains",name:"Smoky Mountains",state:"TN",tagline:"Mountains Do the Talking",vibe:"155 places curated",hero:"hero-fall-foliage.jpg",link:"/cities/smoky-mountains/"},
+  {slug:"phoenix",name:"Phoenix",state:"AZ",tagline:"Where the Desert Keeps Its Own Hours",vibe:"93 places curated",hero:"hero.jpg",link:"/cities/phoenix"},
 ];
 const COMING_SOON=["Phoenix","Salt Lake City","Nashville","Kansas City","Denver","Austin","Portland"];
 const FEATURES: any[]=[

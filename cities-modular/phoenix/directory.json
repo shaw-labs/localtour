@@ -1,0 +1,1846 @@
+[
+  {
+    "name": "Vincent on Camelback",
+    "address": "3930 E. Camelback Rd, Phoenix, AZ 85018",
+    "phone": "602-224-0225",
+    "website": "https://vincentsoncamelback.com",
+    "category": "dining",
+    "subcategory": "French-Southwestern fine dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Forty years on, chef Vincent Guerithault is still the reason Arizona knows what a James Beard medal looks like — the first Valley chef to win one, back in '93, and he never left the stove. French technique, desert ingredients, tablecloths that mean it. This is where you take someone you're trying to marry or impress, in that order. Wednesday through Saturday only, so plan like the desert plans rain.",
+    "must_try": "The smoked duck tamale with Anaheim chile — the dish that made his name",
+    "hours": "Dinner Wed-Sat from 5pm",
+    "seasonal": "Peak-season (winter/spring) reservations go fast; book ahead",
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steak 44",
+    "address": "5101 N. 44th St, Phoenix, AZ 85018",
+    "phone": "602-271-4400",
+    "website": "https://www.steak44.com",
+    "category": "dining",
+    "subcategory": "Steakhouse",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The Mastro brothers' flagship, and the room where Phoenix money goes to eat beef. USDA Prime, domestic Wagyu, Japanese A5, seafood flown in like it owes somebody a favor — all under lighting engineered to make everyone look like they closed a deal. It's a scene as much as a steakhouse, and it earns the swagger. Valet's right off 44th; save your energy for the ribeye, not the parking lot in July.",
+    "must_try": "Japanese A5 Wagyu, or the bone-in ribeye if you want the classic",
+    "hours": "Mon-Thu 5-10pm, Fri-Sat 4-11pm, Sun 4-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buck & Rider",
+    "address": "4225 E. Camelback Rd, Phoenix, AZ 85018",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Seafood & steakhouse",
+    "price": "$$$",
+    "rating": null,
+    "description": "Fresh fish in the middle of a desert sounds like a dare, but Buck & Rider flies it in daily and hand-rolls the sushi to prove it wasn't a fluke. Add prime steaks, a stone fireplace, and a patio pointed at Camelback Mountain, and you've got the Arcadia crowd's default answer to 'where should we eat.' The oysters are the move. So is arriving before the patio bakes.",
+    "must_try": "Daily flown-in oysters and the wood-grilled catch of the day",
+    "hours": null,
+    "seasonal": "Camelback-view patio is a winter treasure and a summer test of will",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beckett's Table",
+    "address": "3717 E. Indian School Rd, Phoenix, AZ 85018",
+    "phone": null,
+    "website": "https://beckettstable.com",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chef Justin Beckett's Arcadia neighborhood room is what people mean when they say 'sophisticated comfort food' — a phrase that usually means nothing but here means short ribs you eat with a spoon and a wine list that punches above the zip code. Unpretentious, warm, the kind of place regulars treat like a second dining room. If the short ribs are on, that's the whole conversation.",
+    "must_try": "The fork-tender braised short ribs",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Gladly",
+    "address": "2201 E. Camelback Rd, Ste 106, Phoenix, AZ 85016",
+    "phone": "602-759-8132",
+    "website": "https://www.thegladly.com",
+    "category": "dining",
+    "subcategory": "New American gastropub & whiskey bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Home of The Original Chopped Salad — the one every other restaurant in town has quietly tried to copy and none has nailed. Beyond that famous pile of finely-diced everything, it's a bold New American menu, prime steaks, and a whiskey wall north of 300 labels for the nights you've earned it. Biltmore-adjacent, dependably good, and the salad really is worth the pilgrimage. Closed Sundays — the whiskey needs a day off too.",
+    "must_try": "The Original Chopped Salad",
+    "hours": "Mon-Thu 11am-9pm, Fri 11am-10pm, Sat 4-10pm, Sun closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Durant's",
+    "address": "2611 N. Central Ave, Phoenix, AZ 85004",
+    "phone": "602-264-5967",
+    "website": "https://www.durantsaz.com",
+    "category": "dining",
+    "subcategory": "Classic steakhouse",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A 1950 Phoenix institution where the tradition is to enter through the back door, straight past the kitchen line, like you own the place. Red leather, stiff martinis, aged steaks that haven't needed reinventing in seventy-five years. Closed a spell in '25 for a refresh and reopened that December still looking like the set of a good decade. Come for the ritual as much as the beef — both hold up.",
+    "must_try": "The bone-in filet mignon, entered via the famous back door",
+    "hours": "Mon-Thu 4-9:15pm, Fri 3:30-10pm, Sat-Sun 4-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Stockyards",
+    "address": "5009 E. Washington St, Phoenix, AZ 85034",
+    "phone": "602-273-7378",
+    "website": "https://stockyardssteakhouse.com",
+    "category": "dining",
+    "subcategory": "Historic steakhouse",
+    "price": "$$$",
+    "rating": null,
+    "description": "Arizona's Original Steakhouse, open since 1947 on the actual stockyards site — history you can taste before you're even seated, thanks to the basket of baking-soda biscuits and cornbread muffins they've handed out for three-quarters of a century. Aged steak, prime rib, and a saloon that remembers when this was cattle country and not a car dealership. A genuine Phoenix landmark, not a themed one.",
+    "must_try": "The prime rib, after the house biscuits and cornbread",
+    "hours": "Lunch Mon-Fri 11am-2pm; Dinner Mon-Fri 5-9pm, Sat 4-9pm, Sun 4-8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Different Pointe of View",
+    "address": "Pointe Hilton Tapatio Cliffs Resort, 11111 N. 7th St, Phoenix, AZ 85020",
+    "phone": "623-745-8485",
+    "website": "https://tapatiocliffshilton.com/dining/different-pointe-of-view/",
+    "category": "dining",
+    "subcategory": "Fine dining with a view",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Perched atop North Mountain with floor-to-ceiling windows and Arizona's longest consecutively-awarded AAA Four Diamond status — 40-plus years of not slipping, which in the restaurant business is basically immortality. Chef Anthony DeMuro's American cooking carries a Mediterranean accent, but the real headliner is the Valley spread out below you at sunset. Time your reservation for golden hour; the desert does dramatic light for free.",
+    "must_try": "The seasonal tasting menu, ideally at sunset",
+    "hours": null,
+    "seasonal": "Sunset seatings are the play year-round; winter nights on the terrace are sublime",
+    "modes": [
+      "romantic",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tratto",
+    "address": "4743 N. 20th St, Phoenix, AZ 85016",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Rustic Italian fine dining",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chris Bianco — yes, that Bianco — proving he can do more than the best pizza in America. Tratto is his tucked-away Italian room where a short, market-driven menu turns whatever's good that week into hand-cut pasta and quietly perfect plates. Understated, seasonal, and reservation-worthy. Shares a shopping-center corner with Pizzeria Bianco, so you can debate carbs versus carbs in one parking lot.",
+    "must_try": "Whatever hand-cut pasta is on the daily menu",
+    "hours": null,
+    "seasonal": "Menu shifts with the season — that's the whole idea",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Restaurant Progress",
+    "address": "702 W. Montecito Ave, Phoenix, AZ 85013",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Seasonal tasting menu",
+    "price": "$$$",
+    "rating": null,
+    "description": "A Melrose District sleeper that keeps landing on James Beard's radar — chef TJ Culp earned a 2026 semifinalist nod — for good reason. Seasonal, thoughtful, handmade pasta and a steak tartare people drive across town for, served in a room small enough to feel like a secret. This is the fine-dining Phoenix locals name-drop when they want to sound like they know something. They do.",
+    "must_try": "The steak tartare and the handmade pasta",
+    "hours": null,
+    "seasonal": "Tasting menu tracks the seasons",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Valentine",
+    "address": "4130 N. Seventh Ave, Phoenix, AZ 85013",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Farm-to-table Arizona / New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chef Nico Zades cooks Arizona on a plate — Sonoran wheat, desert produce, a menu that reads like a love letter to what actually grows out here instead of what got trucked in. The Melrose setting is easygoing, the ambition is not. That elote pasta has no business being as good as it is, and the Sonoran wheat pretzel is the sleeper opener. Proof the Valley has its own cuisine, not just imported ones.",
+    "must_try": "The elote pasta, with a Sonoran wheat pretzel to start",
+    "hours": null,
+    "seasonal": "Local, seasonal sourcing means the menu changes with the desert",
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "First & Last",
+    "address": "1001 N. Third Ave, Phoenix, AZ 85003",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Italian-American",
+    "price": "$$$",
+    "rating": null,
+    "description": "A downtown Italian-American arrival from Ashley and Robb Hammond, bringing buttery clams, brick chicken marsala, and a sourdough bolognese to the Roosevelt-adjacent stretch. Early word is strong and the pedigree's real. New enough that I'd confirm hours before you make the drive — but if the brick chicken lives up to the buzz, this one's got staying power.",
+    "must_try": "Brick chicken marsala, or the buttery clams to open",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Pizzeria Bianco",
+    "address": "623 E. Adams St, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://www.pizzeriabianco.com",
+    "category": "dining",
+    "subcategory": "Neapolitan pizza",
+    "price": "$$",
+    "rating": null,
+    "description": "Chris Bianco's downtown temple in a historic brick building on Heritage Square — the wood-fired pies that put Phoenix on the national food map and earned Bianco a James Beard medal, the first ever for a pizzaiolo. The Rosa (red onion, rosemary, pistachio, parmesan) is the one people fly in for. Expect a wait; it's been worth it for two decades and counting. Bring patience and an appetite.",
+    "must_try": "The Rosa pie, or the classic Margherita",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Matt's Big Breakfast",
+    "address": "825 N. 1st St, Phoenix, AZ 85004",
+    "phone": "602-254-1074",
+    "website": "https://mattsbigbreakfast.com",
+    "category": "dining",
+    "subcategory": "Breakfast & brunch",
+    "price": "$$",
+    "rating": null,
+    "description": "Twenty-plus years of Matt Pool and Ernie Lara doing the un-fancy thing flawlessly: thick-cut bacon, real eggs, griddle work that made a downtown breakfast counter a genuine destination. No foam, no reservations, just a line out the door full of people who know. Get there early — the wait is real and the desert sun is not forgiving on a sidewalk. The bacon alone justifies it.",
+    "must_try": "The Hog & Chick with a side of that thick-cut bacon",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bacanora",
+    "address": "1301 NW Grand Ave Unit 1, Phoenix, AZ 85007",
+    "phone": null,
+    "website": "https://www.bacanoraphx.com/",
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chef Rene Andrade's tiny wood-fired shrine on Grand Avenue is where Sonora meets an open mesquite flame, and it earned him a James Beard Best Chef: Southwest award in 2024. Book ahead, because these forty-odd seats fill faster than shade disappears at noon, and grab the counter facing the grill if you want the show.",
+    "must_try": "the mesquite-grilled carne asada with handmade flour tortillas",
+    "hours": "Mon-Sat 5:00pm-10:00pm; closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Huarachis Taqueria",
+    "address": "814 N Central Ave, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://www.huarachis.com/",
+    "category": "dining",
+    "subcategory": "taqueria",
+    "price": "$$",
+    "rating": null,
+    "description": "Bacanora's bigger, pinker, walk-in-welcome sibling, where Rene Andrade turns masa into crisp-edged huaraches under a ceiling of hubcaps and houseplants. USA Today named it a Restaurant of the Year for 2026, so the secret's out, but the crispy potato tacos still taste like a secret.",
+    "must_try": "the huarache topped with carne asada, and a crispy potato taco",
+    "hours": "Tue-Thu 11:00am-10:00pm; Fri-Sat 11:00am-11:00pm; Sun 11:00am-3:00pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tacos Chiwas",
+    "address": "1028 E Indian School Rd, Phoenix, AZ 85014",
+    "phone": "(602) 358-8830",
+    "website": "https://www.tacoschiwas.com/",
+    "category": "dining",
+    "subcategory": "taqueria",
+    "price": "$",
+    "rating": null,
+    "description": "This family kitchen brought Chihuahua-style comfort to Central Phoenix, and the pillowy gorditas split and stuffed to order are the reason folks line up before the lunch heat sets in. Guy Fieri found it, Netflix found it, and now you have too, so order two gorditas because one is never enough.",
+    "must_try": "the gordita de chicharrón en salsa verde",
+    "hours": "Mon-Sat 10:00am-9:00pm; Sun 10:00am-4:00pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Asadero Norte de Sonora",
+    "address": "122 N 16th St, Phoenix, AZ 85034",
+    "phone": "(602) 253-4010",
+    "website": null,
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$$",
+    "rating": null,
+    "description": "The carne asada anchor of the Calle 16 mural corridor, where northern-Sonora grilling means moist, smoky steak and a parrillada test-plate of three meats with tortillas made on-site. A Best Carne Asada winner that's stayed unpretentious and family-run for over a decade, right where the murals start.",
+    "must_try": "the carne asada plate, or the parrillada mixed grill",
+    "hours": "8:00am-8:00pm daily; closed Wed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nogales Hot Dogs",
+    "address": "1640 E Indian School Rd, Phoenix, AZ 85016",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$",
+    "rating": null,
+    "description": "Serving the bacon-wrapped Sonoran dog since 2001, this is late-night Phoenix in a cloud-soft bolillo bun that Eater argues is among the best in town. It doesn't open until the sun's off the pavement, which is exactly the right instinct in this town.",
+    "must_try": "the bacon-wrapped Sonoran hot dog, all the way",
+    "hours": "Mon-Thu 7:00pm-12:00am; Fri-Sat 7:00pm-1:00am; Sun 7:00pm-12:00am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gallo Blanco Cafe",
+    "address": "928 E Pierce St, Phoenix, AZ 85006",
+    "phone": "(602) 327-0880",
+    "website": "https://galloblancocafe.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "Doug Robson's Mexico City-rooted cafe in the historic Garfield District trades in bright street tacos, a serious weekend brunch, and a full bar of agave cocktails. The kind of easygoing patio spot where vegetarians eat as well as everyone else, and the misters keep the summer honest.",
+    "must_try": "the al pastor street tacos",
+    "hours": "Mon 11:00am-9:00pm; Tue-Fri 11:00am-10:00pm; Sat 8:00am-10:00pm; Sun 8:00am-9:00pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Los Reyes de la Torta",
+    "address": "9230 N 7th St, Phoenix, AZ 85020",
+    "phone": "(602) 870-2967",
+    "website": "https://losreyesaz.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": null,
+    "description": "The king of the Mexico City-style torta, famous enough for Man v. Food and generous enough that the towering Del Rey has to be skewered with a kebab stick just to hold its meats together. Come hungry, leave defeated in the best way.",
+    "must_try": "the Del Rey torta",
+    "hours": "10:00am-8:00pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Original Carolina's Mexican Food",
+    "address": "1202 E Mohave St, Phoenix, AZ 85034",
+    "phone": null,
+    "website": "https://carolinasmex.com/",
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$",
+    "rating": null,
+    "description": "A Phoenix institution born in 1968 from a dream that began with tortillas sold out of the back seat of a family car, and those paper-thin flour tortillas are still the whole point. Wrap one around anything, or just eat the burro; either way you're tasting the Valley's Mexican-American backbone.",
+    "must_try": "the homemade flour tortillas and a red chile burro",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fry Bread House",
+    "address": "4545 N 7th Ave, Phoenix, AZ 85013",
+    "phone": null,
+    "website": "https://www.frybreadhouseaz.com/",
+    "category": "dining",
+    "subcategory": "southwest",
+    "price": "$",
+    "rating": null,
+    "description": "Tohono O'odham-owned and a James Beard America's Classic, serving Indigenous Sonoran-desert cooking since 1992 on golden discs of fry bread. Go savory with green chili beef first, then sweet with honey or chocolate-and-butter; this is Native Southwest heritage you can eat with your hands.",
+    "must_try": "the green chili beef fry bread, then a chocolate-and-butter one for dessert",
+    "hours": "Mon-Sat 11:00am-8:00pm; closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Caprichoso Sonoran Hotdogs",
+    "address": "2826 N 35th Ave, Phoenix, AZ 85009",
+    "phone": "(602) 561-3723",
+    "website": "https://elcaprichosohotdogs.com/",
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$",
+    "rating": null,
+    "description": "One of the city's original Sonoran hot dog operations, running since around 1989 and named for the El Capri nightclub it once parked beside. A post-midnight ritual: bacon-wrapped dog, pinto beans, the works, at hours no reasonable person keeps but every Phoenician eventually does.",
+    "must_try": "the bacon-wrapped Sonoran hot dog",
+    "hours": "Tue-Thu 6:30pm-1:30am; Fri-Sat 6:30pm-3:00am; Sun 6:30pm-2:00am; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Restaurant Atoyac Estilo Oaxaca",
+    "address": "1830 W Glendale Ave, Phoenix, AZ 85021",
+    "phone": "(602) 246-1111",
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": null,
+    "description": "Rare, genuine Oaxacan cooking in Phoenix, where the tlayuda arrives like a dinner-plate-sized crackling tortilla piled with beans, cheese, and your choice of meat, and nothing tops eight dollars. Show up Friday or Saturday for the complex, slow-built mole; it's only there on weekends.",
+    "must_try": "the tlayuda, and the weekend mole",
+    "hours": "Wed-Thu 10:00am-9:00pm; Fri-Sat 10:00am-10:00pm; closed Mon-Tue",
+    "seasonal": "Mole served Fri-Sat only",
+    "modes": [
+      "foodie",
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Piñata Mexican Restaurant",
+    "address": "5521 N 7th Ave, Phoenix, AZ 85013",
+    "phone": "(602) 279-1763",
+    "website": "https://www.lapinatarestaurantaz.com/",
+    "category": "dining",
+    "subcategory": "sonoran",
+    "price": "$$",
+    "rating": null,
+    "description": "Opened by the Bugarin family in 1970 and self-proclaimed Home of the Chimichanga, credited with first crowning that deep-fried burro with sour cream, guac, and cheese. A red-sauce Sonoran classic that has outlasted trends the way a saguaro outlasts droughts.",
+    "must_try": "the chimichanga",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cocina Madrigal",
+    "address": "1523 E Wood St, Phoenix, AZ 85040",
+    "phone": "(602) 243-9000",
+    "website": "https://www.cocinamadrigal.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "Chef Leo Madrigal's South Phoenix kitchen was once crowned the No. 1 restaurant in the U.S. by Yelp before a 2024 fire; it's since been serving from a food-truck kitchen with a misted patio while the flagship on South 16th Street rebuilds. Call ahead, because this one's a moving target as they find their way home.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": "Operating from a temporary location after a 2024 fire; permanent 16th St flagship under repair",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Birrieria Obregon",
+    "address": "3134 W Van Buren St, Phoenix, AZ 85009",
+    "phone": null,
+    "website": "https://birrieriaobregon.com/",
+    "category": "dining",
+    "subcategory": "taqueria",
+    "price": "$",
+    "rating": null,
+    "description": "A morning-to-afternoon birria specialist where the quesabirria tacos come with a cup of rich consomme for dipping, alongside menudo for those who earned it the night before. Get there early; when the birria runs out, it runs out.",
+    "must_try": "the quesabirria tacos with a side of consomme",
+    "hours": "6:30am-5:00pm daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Testal Mexican Kitchen",
+    "address": "1325 Grand Ave, Phoenix, AZ 85007",
+    "phone": null,
+    "website": "https://testalphx.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "Named for the little masa dough-ball that becomes a tortilla, chef Fernando Hernandez's Grand Avenue spot presses flour tortillas fresh all day and wraps them into small, open-ended Chihuahua-style burritos. A James Beard Best Chef: Southwest semifinalist hiding in a sharp-angled glass box on the arts stretch.",
+    "must_try": "the open-ended handmade-tortilla burritos",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Otro Cafe",
+    "address": "6035 N 7th St, Phoenix, AZ 85014",
+    "phone": null,
+    "website": "https://otrocafe.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "Doug Robson's second act, a family-run Central Phoenix cafe grounded in Mexico City cooking with Oaxacan-fusion touches and locally sourced everything. A neighborhood room that does an unhurried brunch as gracefully as it does dinner, just north of Bethany Home on 7th Street.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bitter & Twisted Cocktail Parlour",
+    "address": "1 W Jefferson St, Phoenix, AZ 85003",
+    "phone": "(602) 340-1924",
+    "website": "https://bitterandtwistedaz.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked into the old Luhrs Building, which once housed Arizona's Prohibition enforcement headquarters, which is the kind of irony a bartender never lets you forget. The cocktail menu reads like a graphic novel and the kitchen turns out Asian-leaning bar snacks that pair better with a spirit than they have any right to. Downtown's most decorated room, and it wears it lightly.",
+    "must_try": null,
+    "hours": "Tue-Thu 4pm-12am, Fri-Sat 4pm-1am, closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little Rituals",
+    "address": "132 S Central Ave, Fl 4, Phoenix, AZ 85004",
+    "phone": "(602) 603-2050",
+    "website": "https://littleritualsbar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Four floors up on the Marriott/Residence Inn deck, and worth the elevator. This is the room that keeps winning national hardware, the sort of place where the bartender clarifies a batch two weeks before you order it. Come for sunset when the desert light does the heavy lifting, and remember the patio still bakes in July, so plant yourself where the misters reach.",
+    "must_try": null,
+    "hours": "Tue-Thu & Sun 5pm-12am, Fri-Sat 5pm-1am, closed Mon",
+    "seasonal": "Rooftop patio is glorious Oct-April; in summer stick to sunset or the indoor bar",
+    "modes": [
+      "romantic",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Valley Bar",
+    "address": "130 N Central Ave, Phoenix, AZ 85004",
+    "phone": "(602) 368-3121",
+    "website": "https://www.valleybarphx.com/",
+    "category": "bars_nightlife",
+    "subcategory": "underground music bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Down a nondescript alley off Central and Monroe, past a small neon sign, then down a steep staircase into a two-room basement that shouldn't exist in a desert. Billiards, board games, a proper music hall, and a secret room, all under downtown's feet. The kind of place that reminds you Phoenix has a subterranean streak when the pavement gets too honest.",
+    "must_try": "Catch a show in the Rose Room music hall",
+    "hours": "Daily 6pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "UnderTow",
+    "address": "3626 E Indian School Rd, Phoenix, AZ 85018",
+    "phone": "(602) 739-1388",
+    "website": "https://bartershake.com/undertow/",
+    "category": "bars_nightlife",
+    "subcategory": "tiki bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "An immersive tiki hull built into the Century Grand complex in Arcadia, where the portholes 'sail' and the rum list runs deep enough to drown in. Reservations matter, the drinks arrive on fire more often than not, and it is a blessed 30-degree escape from an August afternoon. Part of the Barter & Shake family that also runs a Pullman-car bar and a vintage apothecary next door.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": "A dark, cool indoor refuge, ideal for summer heat-dodging",
+    "modes": [
+      "nightlife",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Wren & Wolf",
+    "address": "2 N Central Ave, Ste 101, Phoenix, AZ 85004",
+    "phone": "(602) 562-3510",
+    "website": "https://www.wrenandwolf.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "A wood-fire steakhouse up front hiding a serious cocktail program, plus a speakeasy tucked behind if you know to ask. Downtown polish without the attitude, the sort of room built for a night that starts with a negroni and ends somewhere you didn't plan. Dress like you meant to be there.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wren House Brewing Company",
+    "address": "2125 N 24th St, Phoenix, AZ 85008",
+    "phone": "(602) 244-9184",
+    "website": "https://www.wrenhousebrewing.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "A 1930s bungalow in Green Gables with the brewhouse out back and some of the most quietly worshipped beer in the state pouring out front. Locals argue about the hazy IPAs the way other cities argue about barbecue. Bring the dog, grab a shaded picnic table, and understand this is neighborhood ritual, not tourism.",
+    "must_try": "Spellbinder hazy IPA",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arizona Wilderness DTPHX",
+    "address": "201 E Roosevelt St, Phoenix, AZ 85004",
+    "phone": "(480) 462-1836",
+    "website": "https://azwbeer.com/dtphx",
+    "category": "bars_nightlife",
+    "subcategory": "brewery beer garden",
+    "price": "$$",
+    "rating": null,
+    "description": "A sprawling Roosevelt Row beer garden that treats Arizona ingredients as gospel, right down to sourcing grain that saves water in a state that counts every drop. Big shaded patio, food worth ordering, and a rotating board that rewards curiosity. In summer aim for evening; the garden is generous but the sun is not.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": "Patio best after sundown May-September",
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lola Coffee",
+    "address": "1001 N 3rd Ave, #6, Phoenix, AZ 85003",
+    "phone": "(602) 252-2265",
+    "website": "https://lolacoffeebarphx.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A Roosevelt Row corner shop that roasts its own beans in a glassed-in room out back, run by a guy who started with a six-foot espresso cart downtown back in the early '90s. Family-owned, unhurried, the kind of espresso that makes you reconsider the drive-thru habit. A proper Phoenix morning anchor before the gallery crawl.",
+    "must_try": "House-roasted espresso",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Futuro",
+    "address": "909 N 1st St, Phoenix, AZ 85004",
+    "phone": "(602) 730-3227",
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "specialty coffee cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "Clean, gallery-white, and serious about the bean, pulling shots from SEY out of Brooklyn and rotating other top-shelf roasters through. Doubles as an art space and hosts tastings, which is a polite way of saying the crowd skews creative. Come for a pour-over, stay because nobody's rushing you out.",
+    "must_try": "A SEY single-origin pour-over",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dark Hall Coffee",
+    "address": "2243 N 12th St, Phoenix, AZ 85006",
+    "phone": null,
+    "website": "https://darkhallcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "vegan coffee bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "A 100% plant-based coffee shop and bakery in the Coronado Historic District, pouring Novela Roasters and baking everything from scratch daily, syrups and nut milks included. Two shaded patios planted with native trees, which tells you the owners actually understand this climate. You will not miss the dairy; don't argue, just try the pastry case.",
+    "must_try": "A from-scratch vegan pastry with a Novela-roasted latte",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Songbird Coffee & Tea House",
+    "address": "812 N 3rd St, Phoenix, AZ 85004",
+    "phone": "(602) 374-4192",
+    "website": "https://www.songbirdcoffeehouse.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee & tea house",
+    "price": "$$",
+    "rating": null,
+    "description": "A cozy converted house downtown where the tea list is as considered as the coffee, which in Phoenix makes it something of a unicorn. Quiet corners, a back patio, and the unhurried air of a place that would rather you linger than turn the table. A gentle antidote to the strip-mall grind.",
+    "must_try": null,
+    "hours": "Mon-Fri 6am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cartel Roasting Co.",
+    "address": "1 N 1st St, Phoenix, AZ 85004",
+    "phone": "(480) 621-6381",
+    "website": "https://cartelroasting.co/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster",
+    "price": "$$",
+    "rating": null,
+    "description": "One of Arizona's foundational specialty roasters, with a downtown cafe tucked into an office building that pulls precise shots and pour-overs for the suit-and-laptop crowd. No frills, no attitude, just coffee that helped teach the Valley what single-origin means. The reliable downtown default when you need the good stuff fast.",
+    "must_try": "A single-origin pour-over",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Purisima Bakery",
+    "address": "2318 E Indian School Rd, Phoenix, AZ 85016",
+    "phone": "(602) 957-2771",
+    "website": "https://www.purisimabakery.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "panaderia",
+    "price": "$",
+    "rating": null,
+    "description": "Grab a tray and tongs and work the racks yourself, the way a Mexican panaderia is meant to be run, filling up on conchas, cochinitos, and empanadas still warm from the back. Cheap, generous, and unpretentious, a corner of the city's deep Mexican-bakery lineage. Pair the pan dulce with a cafe de olla and skip the fancy espresso guilt.",
+    "must_try": "Conchas and pan dulce, straight from the racks",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Desert Botanical Garden",
+    "address": "1201 N. Galvin Parkway, Phoenix, AZ 85008",
+    "phone": null,
+    "website": "https://dbg.org",
+    "category": "attractions",
+    "subcategory": "botanical garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Fifty-five acres of the Sonoran Desert curated so even the cactus looks like it's posing. Come at opening or for a Flashlight Tour after dark, because between about 10 a.m. and 4 p.m. in summer this garden turns into a very scenic frying pan and I'd rather you saw the agaves than the inside of an ER.",
+    "must_try": "the Desert Wildflower Loop Trail; time a spring visit for the Butterfly Pavilion",
+    "hours": "Oct-Apr 8am-8pm; May-Sep 7am-8pm",
+    "seasonal": "Las Noches de las Luminarias holiday nights; spring Butterfly Pavilion; opens 7am in summer to beat the heat",
+    "modes": [
+      "chill",
+      "romantic",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Heard Museum",
+    "address": "2301 N. Central Ave, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://heard.org",
+    "category": "attractions",
+    "subcategory": "Native American art museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Since 1929 the Heard has been the Valley's finest window into Indigenous art of the Southwest, and it's the rare museum where the outdoor courtyard is as good as the galleries. Twelve galleries, a shaded cafe, and enough turquoise to make you rethink your whole wardrobe.",
+    "must_try": "the 'Home: Native People in the Southwest' gallery and the spring Guild Indian Fair & Market",
+    "hours": "Daily 10am-4pm; closed Mondays June-August",
+    "seasonal": "Guild Indian Fair & Market each spring",
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Musical Instrument Museum (MIM)",
+    "address": "4725 E. Mayo Blvd, Phoenix, AZ 85050",
+    "phone": "(480) 478-6000",
+    "website": "https://mim.org",
+    "category": "attractions",
+    "subcategory": "music museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Up in far north Phoenix sits the only global instrument museum on the planet: strap on the wireless headphones and every exhibit plays itself as you walk up. Save energy for the Experience Gallery, where they actually hand you the instruments; consider it the one place in the Valley where making noise is encouraged.",
+    "must_try": "the Artist Gallery and the hands-on Experience Gallery",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Phoenix Art Museum",
+    "address": "1625 N. Central Ave, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://phxart.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "The Southwest's largest art museum, and general admission is free, which around here counts as a small miracle. Wednesday afternoons are pay-what-you-wish, so you've got no excuse not to lose yourself in the Kusama mirror room while the pavement outside does its best impression of a griddle.",
+    "must_try": "Yayoi Kusama's 'You Who Are Getting Obliterated in the Dancing Swarm of Fireflies' infinity room",
+    "hours": "Wed-Fri 10am-8pm, Sat-Sun 10am-5pm; closed Mon-Tue",
+    "seasonal": "Pay-What-You-Wish Wednesdays 3-8pm",
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mortgage Matchup Center (formerly Footprint Center)",
+    "address": "201 E. Jefferson St, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://www.footprintcenter.com",
+    "category": "entertainment",
+    "subcategory": "sports & concert arena",
+    "price": "$$$",
+    "rating": null,
+    "description": "Home of the Suns and the Mercury, and yes, the naming rights changed again in late 2025, so don't be thrown when your ticket says Mortgage Matchup Center. Downtown location means you can roll in on the light rail and skip the parking rodeo entirely.",
+    "must_try": "a Suns game in the lower bowl",
+    "hours": null,
+    "seasonal": "NBA season Oct-Apr; WNBA (Mercury) May-Sep",
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chase Field",
+    "address": "401 E. Jefferson St, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://www.mlb.com/dbacks/ballpark",
+    "category": "entertainment",
+    "subcategory": "baseball stadium",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Diamondbacks' ballpark, and the retractable roof plus full air conditioning is the only reason baseball in a Phoenix July is a sane idea. Grab a Sonoran dog, and if the pool deck beyond the outfield is open, that's the most Arizona way ever invented to watch a ballgame.",
+    "must_try": "a Sonoran hot dog and, if you can swing it, the outfield pool-deck seats",
+    "hours": null,
+    "seasonal": "MLB season Apr-Sep; roof and A/C keep summer games comfortable",
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roosevelt Row Arts District",
+    "address": "Roosevelt St between 7th St & 7th Ave, Phoenix, AZ 85003",
+    "phone": null,
+    "website": "https://www.rooseveltrow.org",
+    "category": "attractions",
+    "subcategory": "arts district & murals",
+    "price": "$",
+    "rating": null,
+    "description": "'RoRo' is downtown's walkable arts heart: murals on every wall, galleries, patios, and taco joints stitched together. Come for First Friday, the first Friday of the month, when 70-plus spaces open their doors 6-10 p.m. and the whole neighborhood turns into one big self-guided art walk, best enjoyed once the sun's off the sidewalk.",
+    "must_try": "the 1½ Street Mural Project murals beside The Churchill; the First Friday art walk",
+    "hours": null,
+    "seasonal": "First Fridays year-round 6-10pm; most pleasant Oct-Apr evenings",
+    "modes": [
+      "culture",
+      "nightlife",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crescent Ballroom",
+    "address": "308 N. 2nd Ave, Phoenix, AZ 85003",
+    "phone": null,
+    "website": "https://www.crescentphx.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "The beating heart of downtown's music scene, an intimate room where touring indie acts and local heroes all cycle through. The front lounge does real food and stiff drinks, so you can eat, drink, and catch a show without ever moving your car.",
+    "must_try": "the Cocina 10 chips and guacamole before a set",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Van Buren",
+    "address": "401 W. Van Buren St, Phoenix, AZ 85003",
+    "phone": null,
+    "website": "https://www.thevanburenphx.com",
+    "category": "entertainment",
+    "subcategory": "concert hall",
+    "price": "$$$",
+    "rating": null,
+    "description": "A beautifully restored 1930s auto showroom turned mid-size concert hall, and one of the best-sounding rooms in the city. General-admission floor, big touring names, and just enough grit to feel like a real Phoenix night out.",
+    "must_try": "a general-admission spot on the floor for a touring act",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Orpheum Theatre",
+    "address": "203 W. Adams St, Phoenix, AZ 85003",
+    "phone": null,
+    "website": "https://www.orpheumphx.com",
+    "category": "entertainment",
+    "subcategory": "historic theatre",
+    "price": "$$$",
+    "rating": null,
+    "description": "A 1929 Spanish Baroque jewel the city spent 12 years and $14 million bringing back to life, now hosting Broadway tours, classic-film nights, and the occasional orchestra. Do yourself a favor and look up: the ceiling is painted to mimic drifting clouds and a desert twilight, no sunscreen required.",
+    "must_try": "catch the drifting-cloud ceiling effect during a show",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Herberger Theater Center",
+    "address": "222 E. Monroe St, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://herbergertheater.org",
+    "category": "entertainment",
+    "subcategory": "performing arts center",
+    "price": "$$$",
+    "rating": null,
+    "description": "Downtown's nonprofit stage hub, home base for a rotating cast of Valley theater and dance companies across three stages, plus a bar and a gallery. It's where you go when you want a proper night of live theater without leaving the city core.",
+    "must_try": "a Center Dance Ensemble or Arizona Theatre Company production",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arizona Science Center",
+    "address": "600 E. Washington St, Phoenix, AZ 85004",
+    "phone": "(602) 716-2000",
+    "website": "https://www.azscience.org",
+    "category": "attractions",
+    "subcategory": "science museum",
+    "price": "$$",
+    "rating": null,
+    "description": "More than 300 hands-on exhibits, a five-story IMAX, and the Dorrance Planetarium, all wrapped in air conditioning, which in July makes it less a museum and more a public service. Ideal landing spot when the family needs a break from the heat and the kids need to touch everything.",
+    "must_try": "a show in the Dorrance Planetarium and the five-story IMAX",
+    "hours": "Tue-Sun 10:30am-4pm; closed Mondays",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arizona Financial Theatre",
+    "address": "400 W. Washington St, Phoenix, AZ 85003",
+    "phone": "(602) 379-2800",
+    "website": "https://www.arizonafinancialtheatre.com",
+    "category": "entertainment",
+    "subcategory": "concert theatre",
+    "price": "$$$",
+    "rating": null,
+    "description": "The downtown mid-size concert barn you'll still hear called Comerica by cab drivers and GPS units alike. Reliable stop for national touring acts, and central enough to pair with dinner on the light rail line.",
+    "must_try": "a national touring concert",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stand Up Live",
+    "address": "50 W. Jefferson St, Phoenix, AZ 85003",
+    "phone": "(480) 719-6100",
+    "website": "https://phoenix.standuplive.com",
+    "category": "entertainment",
+    "subcategory": "comedy club",
+    "price": "$$",
+    "rating": null,
+    "description": "A 600-plus-seat comedy room inside CityScape, big enough to land real headliners and set up like a dinner theater so you can eat and drink through the punchlines. The kind of low-effort, high-payoff downtown night the desert was made for once the sun's gone down.",
+    "must_try": "a weekend headliner set with dinner served at your table",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "S'edav Va'aki Museum (formerly Pueblo Grande)",
+    "address": "4619 E. Washington St, Phoenix, AZ 85034",
+    "phone": null,
+    "website": "https://www.phoenix.gov/administration/departments/sedav-vaaki.html",
+    "category": "attractions",
+    "subcategory": "archaeological site & museum",
+    "price": "$",
+    "rating": null,
+    "description": "The largest preserved archaeological site inside the city, where the Ancestral Sonoran Desert People, the Hohokam, built a platform mound and ballcourt centuries before anyone thought to build a freeway over their canals. Renamed in 2023 to its O'odham name; walk the 2/3-mile trail early, because there's precious little shade out on that mound.",
+    "must_try": "the 2/3-mile outdoor trail past the Hohokam platform mound and ballcourt",
+    "hours": null,
+    "seasonal": "Best walked in cooler morning hours; little shade on the trail",
+    "modes": [
+      "culture",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rosson House Museum at Heritage Square",
+    "address": "113 N. 6th St, Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://thesquarephx.org",
+    "category": "attractions",
+    "subcategory": "historic house museum",
+    "price": "$",
+    "rating": null,
+    "description": "An 1895 Queen Anne Victorian, all turrets and gingerbread trim, restored by the city and open for guided tours in the heart of downtown's Heritage Square. A charming reminder that people lived in Phoenix long before central air, God rest them.",
+    "must_try": "the guided docent tour of the restored 1895 mansion",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "State Farm Stadium",
+    "address": "1 Cardinals Dr, Glendale, AZ 85305",
+    "phone": null,
+    "website": "https://www.statefarmstadium.com",
+    "category": "entertainment",
+    "subcategory": "football stadium",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Cardinals' home, out in Glendale in the West Valley, not Phoenix proper, so budget the drive. It's an engineering showpiece: retractable roof plus an entire natural-grass field that rolls out into the sun on a giant tray, then slides back inside for kickoff.",
+    "must_try": "a Cardinals home game under the retractable roof",
+    "hours": null,
+    "seasonal": "NFL season Sep-Jan; hosts major events like the College Football Playoff",
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Phoenix Symphony Hall",
+    "address": "75 N. 2nd St, Phoenix, AZ 85004",
+    "phone": "(602) 262-7272",
+    "website": "https://azopera.org/symphony-hall",
+    "category": "entertainment",
+    "subcategory": "concert hall",
+    "price": "$$$",
+    "rating": null,
+    "description": "The 2,300-seat downtown home of the Phoenix Symphony, Arizona Opera, and Ballet Arizona, a hulking 1970s Brutalist box that sounds far warmer inside than it looks from the curb. Your go-to for a dressed-up evening of orchestral music, opera, or ballet in the city center.",
+    "must_try": "a Phoenix Symphony or Arizona Opera performance",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Echo Canyon Trail (Camelback Mountain)",
+    "address": "4925 E McDonald Dr, Phoenix, AZ 85018",
+    "phone": null,
+    "website": "https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/camelback-mountain/camelback-trails.html",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking trail",
+    "price": "$",
+    "rating": null,
+    "description": "The postcard hike and the one everybody underestimates. Echo Canyon claws 1,200 feet up the camel's head in a hair over a mile, and yes, those handrails bolted into the rock are load-bearing for your dignity. It is rated extremely difficult and it means it. Go at sunrise, not because it's romantic (it is) but because by 9 a.m. this west-facing furnace has cooked more flatlanders than the county cares to count. Carry more water than you think you need, then carry more. Dogs are prohibited, and the lot fills before the sun clears the ridge.",
+    "must_try": "Summiting via the second boulder scramble where the handrails run out and you're using your hands",
+    "hours": "Sunrise to sunset daily",
+    "seasonal": "Peak season Nov-Apr. Summer: sunrise only; rangers close it in extreme-heat warnings and I'd let them.",
+    "modes": [
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cholla Trail (Camelback Mountain)",
+    "address": "5150 N Invergordon Rd, Phoenix, AZ 85253",
+    "phone": "602-495-5458",
+    "website": "https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/camelback-mountain/camelback-trails.html",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking trail",
+    "price": "$",
+    "rating": null,
+    "description": "Camelback's other summit route, and the one locals prefer when they'd rather not queue behind a cardio class. Cholla approaches from the east up the camel's back — a longer, gentler ridgeline for the first stretch that turns into an honest scramble near the top. It sat closed for years while the trailhead got relocated off Cholla Lane to Invergordon Road; it reopened in 2022 with a fresh tread, restrooms, and a drinking fountain. Same summit, same reward, roughly the same lung burn near the end. Park thoughtfully — the neighbors have long memories.",
+    "must_try": "The saddle viewpoint where the ridge narrows and the whole Valley opens up beneath you",
+    "hours": "Sunrise to sunset daily",
+    "seasonal": "Peak Nov-Apr. Summer sunrise starts only; the exposed ridge offers zero shade.",
+    "modes": [
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Piestewa Peak Summit Trail #300",
+    "address": "5994 E Piestewa Peak Dr, Phoenix, AZ 85018",
+    "phone": null,
+    "website": "https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/piestewa-peak-dreamy-draw/piestewa-trails.html",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking trail",
+    "price": "$",
+    "rating": null,
+    "description": "The Valley's second-favorite butt-kicker, and the one I send people to when Camelback's lot is a war zone. Trail #300 goes 1.2 miles and 1,200 feet of rock stairs to a summit smack in the middle of the Phoenix Mountains Preserve — 360 degrees of city and desert. It's steep and rocky but scramble-light compared to Echo Canyon, which is why it draws a crowd of regulars grinding out their morning laps. Restrooms, fountains, and shaded ramadas at the base. If the main lot's full there's overflow and street parking around 24th Place.",
+    "must_try": "Watching the sunrise light hit the downtown towers from the summit ramada",
+    "hours": "5 a.m. to 11 p.m.; parking lot entrance open until 9 p.m.",
+    "seasonal": "Year-round; summer belongs to the pre-7 a.m. crowd. Hydrate before you start, not halfway up.",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "South Mountain Park & Preserve",
+    "address": "10919 S Central Ave, Phoenix, AZ 85042",
+    "phone": "602-262-7393",
+    "website": "https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/south-mountain-parkpreserve.html",
+    "category": "outdoor_adventure",
+    "subcategory": "desert park",
+    "price": "$",
+    "rating": null,
+    "description": "One of the largest municipal parks in the country — 16,000-plus acres of Sonoran ridgeline on the city's south edge, laced with 50-odd miles of trail for hikers, bikers, and horses. The move for first-timers is the drive (or hard pedal) up Summit Road to Dobbins Lookout at 2,330 feet, where a WPA-era stone ramada frames the whole Valley. Serious legs take Pima Canyon or the National Trail traverse. It's big enough to lose the crowds, which in Phoenix is its own kind of luxury.",
+    "must_try": "Sunset from the Dobbins Lookout stone ramada, city lights flickering on below",
+    "hours": "Trailheads 5 a.m.-7 p.m. (gates close 7); trails open until 11 p.m.",
+    "seasonal": "Year-round. Pima Canyon lot runs extended hours (until 9 p.m.) June 1-Sept 30 for beat-the-heat starts.",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Papago Park & Hole-in-the-Rock",
+    "address": "625 N Galvin Pkwy, Phoenix, AZ 85008",
+    "phone": "602-495-5458",
+    "website": "https://www.phoenix.gov/administration/departments/parks/activities-facilities/trails/papago-park.html",
+    "category": "outdoor_adventure",
+    "subcategory": "desert park",
+    "price": "$",
+    "rating": null,
+    "description": "The gentle one, and don't let anyone shame you for loving it. Papago is a cluster of red sandstone buttes riddled with wind-carved pockets, sitting between the Desert Botanical Garden and the Phoenix Zoo. The signature is Hole-in-the-Rock — a 0.3-mile amble up to a natural sandstone chamber the Hohokam used to track the sun, now the best low-effort sunset seat in the city. Flat lagoon loops for the kids and the casual, real desert scenery for the photos. This is where you bring the out-of-town parents.",
+    "must_try": "Framing the downtown skyline through the Hole-in-the-Rock opening at golden hour",
+    "hours": "5 a.m.-7 p.m. parking; trails until 11 p.m.",
+    "seasonal": "Year-round; short and shaded-ish, but midday summer sandstone still radiates heat like a skillet.",
+    "modes": [
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hot Air Expeditions",
+    "address": "702 W Deer Valley Rd, Phoenix, AZ 85027",
+    "phone": "480-502-6999",
+    "website": "https://hotairexpeditions.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "hot air balloon tours",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Family-owned, Valley-based for over 30 years, and the outfit I'd trust to float me over the Sonoran Desert at first light. They launch out of the Deer Valley area north of the city, drifting over saguaro forest while the sun does its thing, then set you down for post-flight bubbly and a proper breakfast. Morning flights run year-round; afternoon flights only Nov 1-Mar 15, because nobody sane inflates a balloon over a July afternoon in Phoenix. Check-in and parking are at the Deer Valley Airport balloon lot.",
+    "must_try": "The sunrise ascent over the saguaro-studded desert floor, followed by the champagne toast",
+    "hours": null,
+    "seasonal": "Morning flights daily year-round; afternoon flights Nov 1-Mar 15 only (heat).",
+    "modes": [
+      "romantic",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Salt River Tubing",
+    "address": "9200 N Bush Hwy, Mesa, AZ 85215",
+    "phone": "480-984-3305",
+    "website": "https://www.saltrivertubing.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "river tubing",
+    "price": "$$",
+    "rating": null,
+    "description": "The Valley's summer religion. Rent a tube in the Tonto National Forest northeast of Mesa, catch the shuttle upriver, and float the Lower Salt back down at the pace of a lazy afternoon — cottonwood shade, cold water, and a decent chance of spotting the wild horses that graze the banks. It's the one outdoor thing Phoenicians actually do at high summer, and it's glorious. Bring a cooler strap, water shoes for the rocks, and reef-safe sunscreen; that river reflects sun straight up your nose. Last tube rents at 2 p.m., so don't dawdle.",
+    "must_try": "Drifting past a band of the Salt River wild horses cooling off in the shallows",
+    "hours": "Sat-Sun 8 a.m.-6 p.m., Mon-Fri 9 a.m.-6 p.m.; last tube rental 2 p.m.",
+    "seasonal": "2026 season Apr 25-Sept 30 only. This is a summer-only float.",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Desert Wolf Tours",
+    "address": "4220 W Opportunity Way, Ste 116, Phoenix, AZ 85086",
+    "phone": "877-613-9653",
+    "website": "https://desertwolftours.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "off-road desert tours",
+    "price": "$$$$",
+    "rating": null,
+    "description": "For the traveler who wants the desert with the throttle open. Since 2006 these folks have been running guided runs in military-grade Tomcar UTVs — think the Humvee of side-by-sides — through open Sonoran country at the base of the Bradshaw Mountains north of the city. Three to three-and-a-half hours of trail, you're the one driving, and they've collected a wall of tourism awards doing it. Options run from half-day desert loops to sunset runs. Dusty, loud, and grinning the whole way. Wear closed shoes and something you don't mind coating in fine desert powder.",
+    "must_try": "Piloting your own Tomcar through the desert washes on the sunset tour",
+    "hours": "Daily 8 a.m.-6 p.m. (office)",
+    "seasonal": "Year-round; summer tours run early or at sunset to dodge the peak heat.",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ponderosa Stables",
+    "address": "10215 S Central Ave, Phoenix, AZ 85042",
+    "phone": "602-268-1261",
+    "website": "https://www.facebook.com/PonderosaHorseStables/",
+    "category": "outdoor_adventure",
+    "subcategory": "horseback riding",
+    "price": "$$$",
+    "rating": null,
+    "description": "Saddle up right at the S. Central entrance to South Mountain Park and ride into the biggest municipal preserve in the country the old-fashioned way. Ponderosa runs guided trail rides year-round for all levels, plus the crowd-pleaser: a steak-cookout ride where the destination is dinner over a fire. It's about as authentic a Sonoran Desert experience as you'll book without owning boots. Go morning or evening — the horses appreciate you skipping the midday oven as much as you will. Wear long pants and closed shoes regardless of the forecast.",
+    "must_try": "The sunset trail ride into South Mountain that ends at a desert steak cookout",
+    "hours": "Daily 7 a.m.-6 p.m.",
+    "seasonal": "Year-round; morning and evening rides in summer to beat the heat.",
+    "modes": [
+      "family",
+      "romantic",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Riverbound Sports Paddle Co.",
+    "address": "1425 E University Dr, Ste B-102, Tempe, AZ 85281",
+    "phone": null,
+    "website": "https://www.riverboundsports.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak & paddleboard rentals",
+    "price": "$$",
+    "rating": null,
+    "description": "The Valley's go-to paddle shop and a licensed Tonto National Forest outfitter since 2013. They rent kayaks and paddleboards out of their Tempe shop and — this is the good part — run summer lakeside pickup right on the beach at Saguaro Lake and Canyon Lake, so you skip the roof-rack wrangling entirely. Guided tours too, on the Lower Salt, Saguaro, and Canyon Lake. Flat desert water ringed by cliffs, sometimes a wild horse or a bald eagle. They'll even sort your Tempe Town Lake permit if that's your water. Closed Sunday and Monday.",
+    "must_try": "The Saturday lakeside kayak pickup on the beach at Saguaro Lake",
+    "hours": "Tue-Sat 9 a.m.-6 p.m.; closed Sun-Mon",
+    "seasonal": "Rentals year-round; lakeside summer-Saturday beach pickup at Saguaro/Canyon Lake seasonal.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Papago Golf Club",
+    "address": "5595 E Moreland St, Phoenix, AZ 85008",
+    "phone": "602-275-8428",
+    "website": "https://www.papagogolfclub.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "public golf course",
+    "price": "$$$",
+    "rating": null,
+    "description": "The people's championship course. Owned by the City of Phoenix and managed by Troon, Papago is an 18-hole, 7,300-yard test that has hosted qualifiers and college championships, set against the red buttes of Papago Park with Camelback loitering on the horizon. It's the rare destination-grade layout you can actually get onto without a resort membership — book up to 60 days out, and Maricopa County residents can chase the city discount cards. Play it early in summer; that back nine is fully exposed and the desert doesn't do shade.",
+    "must_try": "The par-3 stretch framed by the Papago sandstone buttes",
+    "hours": null,
+    "seasonal": "Year-round; peak rates and packed tee sheets Nov-Apr. Summer means dawn tee times.",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arizona Biltmore, A Waldorf Astoria Resort",
+    "address": "2400 E Missouri Ave, Phoenix, AZ 85016",
+    "phone": "602-955-6600",
+    "website": "https://www.arizonabiltmore.com/",
+    "category": "lodging",
+    "subcategory": "luxury resort",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The grande dame of the corridor, open since 1929 and wearing Frank Lloyd Wright's fingerprints (those 'Biltmore Block' concrete tiles) like heirloom jewelry. Seven pools, a 65-foot waterslide, two golf courses next door, and enough presidential ghosts to fill a history book. It's Phoenix's toniest corner at 24th & Camelback, and it knows it. Come November through April when the Valley behaves; in July the pools are the whole point and the lobby AC is a religious experience. Check rates early for peak season — snowbirds book this one a year out.",
+    "must_try": "A negroni at the Wright Bar, then the tequila-brined chicken at Renata's Hearth",
+    "hours": null,
+    "seasonal": "Peak Nov-Apr (snowbird season); summer is pool-and-shade season with softer rates",
+    "modes": [
+      "romantic",
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Royal Palms Resort and Spa, part of Hyatt",
+    "address": "5200 E Camelback Rd, Phoenix, AZ 85018",
+    "phone": "602-283-1234",
+    "website": "https://royalpalmshotel.com/",
+    "category": "lodging",
+    "subcategory": "luxury resort",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A 1929 Mediterranean estate built by a Cunard executive who wanted a slice of the Amalfi Coast at the base of Camelback Mountain — and got it. Casitas draped in bougainvillea, courtyards, and those namesake royal palms that have been shading guests since Herbert Hoover was president. It's the corridor's most romantic address, hands down. The palms throw good shade, but the Arizona sun still finds you poolside, so respect the SPF. See availability for the casita rooms — they're the whole reason to come.",
+    "must_try": "Dinner under the stars at T. Cook's, then a nightcap by the courtyard fireplace",
+    "hours": null,
+    "seasonal": "Peak winter/spring; a honeymoon favorite year-round",
+    "modes": [
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Phoenician, A Luxury Collection Resort",
+    "address": "6000 E Camelback Rd, Scottsdale, AZ 85251",
+    "phone": null,
+    "website": "https://www.thephoenician.com/",
+    "category": "lodging",
+    "subcategory": "luxury resort",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Just over the Phoenix line into Scottsdale — I'll be honest with you, the good ones straddle that border — this 250-acre monument sits at the foot of Camelback Mountain with a nine-tiered pool complex, a Forbes Four-Star spa, and its own 18-hole course. It's the corridor at its most polished: marble, mountain views, and a cactus garden with 350-plus varieties if you want to learn your saguaro from your ocotillo. Check rates for the Canyon Suites if you want the quiet, grown-up wing. That desert sun off the white stone is no joke — hat up.",
+    "must_try": "A rooftop steak at J&G Steakhouse with the whole Valley glittering below",
+    "hours": null,
+    "seasonal": "Peak Nov-Apr; the tiered pools carry the summer",
+    "modes": [
+      "romantic",
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "JW Marriott Scottsdale Camelback Inn Resort & Spa",
+    "address": "5402 E Lincoln Dr, Scottsdale, AZ 85253",
+    "phone": null,
+    "website": "https://www.marriott.com/en-us/hotels/phxcb-jw-marriott-scottsdale-camelback-inn-resort-and-spa/overview/",
+    "category": "lodging",
+    "subcategory": "luxury resort",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Adobe casitas spread across 125 acres at the base of Mummy and Camelback Mountains, dating to 1936 — old enough that the phrase 'Where Time Stands Still' is literally carved into the place. Just across the Paradise Valley line, it pairs 36 holes of golf at Camelback Golf Club with a spa that got a $24 million reimagining in early 2026. This is desert luxury with a saddle-leather soul rather than a marble-and-mirrors one. See availability — the standalone casitas book fast in spring training season.",
+    "must_try": "The desert-inspired wellness circuit at the newly reimagined spa",
+    "hours": null,
+    "seasonal": "Peak winter/spring; Cactus League crowds Feb-Mar",
+    "modes": [
+      "romantic",
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hilton Phoenix Resort at the Peak",
+    "address": "7677 N 16th St, Phoenix, AZ 85020",
+    "phone": null,
+    "website": "https://www.hilton.com/en/hotels/phxsppr-hilton-phoenix-resort-at-the-peak/",
+    "category": "lodging",
+    "subcategory": "all-suite resort",
+    "price": "$$$",
+    "rating": null,
+    "description": "The corridor's family workhorse, tucked against Piestewa Peak on the Phoenix side — all-suite, so the kids get a door to close. The draw is the River Ranch water playground with its own lazy river and that 138-foot waterslide, which in a Phoenix July is worth more than any thread count. Not the most refined address on this list, and it doesn't pretend to be, but it's genuine resort acreage at a friendlier rate. Check rates for summer, when the water park earns its keep and the snowbirds have flown home.",
+    "must_try": "A float down the lazy river when the thermometer hits triple digits",
+    "hours": null,
+    "seasonal": "Water park shines in summer; suites fill in winter/spring",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Global Ambassador",
+    "address": "4360 E Camelback Rd, Phoenix, AZ 85018",
+    "phone": null,
+    "website": "https://www.globalambassadorhotel.com/",
+    "category": "lodging",
+    "subcategory": "boutique luxury hotel",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The corridor's newest jewel, restaurateur Sam Fox's 141-room Art Deco fever dream at 44th & Camelback — where Phoenix, Scottsdale and Paradise Valley all shake hands. Travel + Leisure readers voted it the best hotel in Arizona in the 2026 World's Best Awards, and the five restaurants make it a locals' hotspot, not just a guest amenity. There's a cryo chamber and IV therapy in the spa if you're the biohacking sort. See availability well ahead — it's small, buzzy, and firmly on the map. Rooftop dinners at théa catch the Camelback sunset just right.",
+    "must_try": "Sunset small plates at théa, Arizona's largest rooftop restaurant",
+    "hours": null,
+    "seasonal": "Buzzy year-round; peak demand winter/spring",
+    "modes": [
+      "romantic",
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mountain Shadows Resort Scottsdale",
+    "address": "5445 E Lincoln Dr, Paradise Valley, AZ 85253",
+    "phone": null,
+    "website": "https://mountainshadows.com/",
+    "category": "lodging",
+    "subcategory": "boutique resort",
+    "price": "$$$",
+    "rating": null,
+    "description": "A mid-century original reborn — clean lines, terrazzo, and a straight-on view of Camelback that'll stop you mid-sentence. Sits in Paradise Valley proper, ten minutes from Old Town Scottsdale, and it's the design-lover's pick on this stretch. The Short Course is 18 holes of par-3 golf that flatters the beginner and still tempts the scratch player — a rare thing. Smaller and hipper than the grande dames, with a rooftop bar that makes a good case for staying in. Check rates midweek; the pool deck is calmest then.",
+    "must_try": "Modern American fare and the wine list at Hearth '61",
+    "hours": null,
+    "seasonal": "Peak winter/spring; rooftop and pool scene in the warmer months",
+    "modes": [
+      "romantic",
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Christopher's at Wrigley Mansion",
+    "address": "2501 E Telawa Trail, Phoenix, AZ 85016",
+    "phone": null,
+    "website": "https://wrigleymansion.com/christophers",
+    "category": "dining",
+    "subcategory": "fine dining tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Perched in the 1932 Wrigley Mansion above the Biltmore, this is chef Christopher Gross's magnum opus — a James Beard winner who's cooked for three presidents, working a modern French tasting menu under a retractable roof with 180-degree Valley views. When the roof opens on a clear desert night, the city lights do half the plating for him. This is the corridor's special-occasion table, full stop. Reservations are non-negotiable and worth planning a trip around. Save room; the menu is a marathon, not a sprint.",
+    "must_try": "The signature tasting menu — and the roof open at dusk",
+    "hours": null,
+    "seasonal": "Year-round; books far ahead for holidays and spring",
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "T. Cook's at Royal Palms Resort and Spa",
+    "address": "5200 E Camelback Rd, Phoenix, AZ 85018",
+    "phone": null,
+    "website": "https://royalpalmshotel.com/eat-drink/t-cooks/",
+    "category": "dining",
+    "subcategory": "Mediterranean fine dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A Phoenix institution inside the Royal Palms, doing Mediterranean-leaning cuisine in a dining room warmed by an open hearth and framed by those century-old palms. It's the kind of place where anniversaries get made official and out-of-town parents get properly impressed. Live music Friday and Saturday nights adds to the romance. The patio is glorious October through May; in summer, take the table by the fire indoors and let the AC do its work. A corridor classic that has aged like the resort around it.",
+    "must_try": "Anything off the wood-fired hearth, with a courtyard nightcap after",
+    "hours": null,
+    "seasonal": "Patio season Oct-May; open year-round",
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "J&G Steakhouse at The Phoenician",
+    "address": "6000 E Camelback Rd, Scottsdale, AZ 85251",
+    "phone": null,
+    "website": "https://www.thephoenician.com/dine/jg-steakhouse/",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Jean-Georges Vongerichten's penthouse steakhouse atop The Phoenician, with a David Rockwell-designed room and floor-to-ceiling views that turn the desert dusk into dinner theater. Yes, it's on the Scottsdale side of the line — the best corridor tables often are — and yes, it earns the price with premium cuts, global seafood and worldly spice. Open Thursday through Monday, so plan around it. Ask for a window at sunset; the mountains go pink and the city switches on beneath you. A splurge with a view you'll actually remember.",
+    "must_try": "A dry-aged cut at a window table as the sun drops behind Camelback",
+    "hours": "Thu-Mon 5pm-9pm; closed Tue-Wed",
+    "seasonal": "Year-round; peak reservations in winter/spring",
+    "modes": [
+      "romantic",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tierra Luna Spa at Arizona Biltmore",
+    "address": "2400 E Missouri Ave, Phoenix, AZ 85016",
+    "phone": "602-955-6600",
+    "website": "https://www.arizonabiltmore.com/wellness/tierra-luna-spa/",
+    "category": "wellness_spa",
+    "subcategory": "destination resort spa",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A two-time Forbes Four-Star spa inside the Biltmore, with 12 treatment rooms each named for a zodiac sign, a standalone salt-therapy room, and the Sol Garden for outdoor soaking under the desert sky. The treatments lean into Sonoran botanicals — think agave, prickly pear, desert clay — so you leave smelling like the landscape rather than a hotel gift shop. It's the corridor's marquee day of rejuvenation, guest or not. Book the salt room and a massage, then let the Sol Garden do the rest. Hydrate first; the desert takes its cut whether you're hiking or horizontal.",
+    "must_try": "A Sonoran-botanical treatment followed by the salt therapy room",
+    "hours": null,
+    "seasonal": "Year-round; a summer refuge and a winter indulgence",
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Camelback Golf Club",
+    "address": "7847 N Mockingbird Ln, Scottsdale, AZ 85253",
+    "phone": "480-905-7902",
+    "website": "https://www.camelbackgolf.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "golf",
+    "price": "$$$",
+    "rating": null,
+    "description": "Thirty-six holes at the JW Marriott Camelback Inn, just over the Paradise Valley line: the muscular 7,225-yard Ambiente with its rolling elevation changes, and the Arthur Hills-designed Padre threading lakes and towering trees. This is destination desert golf without the pretense — playable, scenic, and a rite of passage for anyone doing a corridor golf trip. Check tee times ahead in high season; the snowbirds guard the good morning slots. And take the early tee — a Phoenix afternoon in summer is not where you want to be chasing par. Hat, water, sunscreen, repeat.",
+    "must_try": "A sunrise round on Ambiente before the heat wakes up",
+    "hours": null,
+    "seasonal": "Peak tee-time demand Nov-Apr; book dawn rounds in summer",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Changing Hands Bookstore + First Draft Book Bar",
+    "address": "300 W Camelback Rd, Phoenix, AZ 85013",
+    "phone": null,
+    "website": "https://changinghands.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "The Uptown outpost of a Valley institution running since 1974, and the rare bookstore where you can pull a novel off the shelf and chase it with a glass of wine, a cold beer, or a proper coffee at the attached First Draft Book Bar. Deep, opinionated shelves: indie fiction, queer stories, Southwest history, kids' books, the works. A cool, quiet refuge when the parking lot outside is trying to bake you like a tortilla.",
+    "must_try": "Pair a staff-pick paperback with a pour at First Draft Book Bar",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grassrootz Books & Juice Bar",
+    "address": "1145 E Washington St #200, Phoenix, AZ 85034",
+    "phone": null,
+    "website": "https://grassrootzbookstore.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Arizona's only Black-owned, worker-owned bookstore, tucked into the historic Eastlake Park district downtown. Shelves stacked with Black authors and the Black experience, plus a juice bar and a coworking corner that make it more community hub than shop. Founders Ali Nervis and Tremaine keep it a gathering place, not just a register. Come thirsty and curious.",
+    "must_try": "A book by a Black author and a cold-pressed juice from the bar",
+    "hours": "Mon, Wed-Sat 9am-5pm; Sun 9am-4pm; closed Tue",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palabras Bilingual Bookstore",
+    "address": "906 W Roosevelt St, Unit 2, Phoenix, AZ 85007",
+    "phone": null,
+    "website": "https://palabrasbookstore.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "A bilingual bookstore and cultural refuge that centers Black, Indigenous, and Latinx voices in Spanish and English both. Zines, poetry, small-press finds, and a rotating calendar of readings and workshops make it the literary cousin of the Calle 16 mural corridor a few blocks east. Small, fierce, and unmistakably Phoenix.",
+    "must_try": "A bilingual poetry chapbook or a locally made zine",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stinkweeds",
+    "address": "12 W Camelback Rd, Phoenix, AZ 85013",
+    "phone": "602-248-9461",
+    "website": "https://stinkweeds.com",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Independently spinning since 1987, this Uptown shop is the beating heart of Phoenix vinyl culture. New and used records, CDs, and cassettes across every genre, plus in-store performances and Record Store Day madness. Owner Kimber has forgotten more about music than most of us will ever know. Flip the bins slow; the good stuff hides.",
+    "must_try": "Dig the used vinyl bins for a local Arizona pressing",
+    "hours": "Open 7 days a week",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tracks in Wax",
+    "address": "4741 N Central Ave, Phoenix, AZ 85012",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Parked at the same Central Avenue spot since 1982, this is the crate-digger's confessional, the shop the hardcore vinyl junkies name first. Rare pressings, limited editions, and the kind of hand-to-hand knowledge you only get from a store that's outlasted four decades of format wars. Under newer ownership now, still buying and trading. Bring patience and a want list.",
+    "must_try": "Hunt the collector bins for a rare or out-of-print LP",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Retro Ranch",
+    "address": "4303 N 7th Ave, Phoenix, AZ 85013",
+    "phone": "602-297-1971",
+    "website": "https://retroranch.net",
+    "category": "shopping",
+    "subcategory": "vintage",
+    "price": "$$",
+    "rating": null,
+    "description": "A groovy anchor of the Melrose District's vintage stretch on 7th Avenue, decked out across decades: old posters, cable-knit sweaters, ceramic oddities, classic records, and board games nobody's made since your grandparents were young. Melrose between Camelback and Indian School is the Valley's vintage mecca, and this is a fine first stop. Park in the shade if you can find it.",
+    "must_try": "Mid-century decor or a vintage Western shirt",
+    "hours": "Tue-Sun 11am-6pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Biltmore Fashion Park",
+    "address": "2502 E Camelback Rd, Phoenix, AZ 85016",
+    "phone": null,
+    "website": "https://www.reddevelopment.com/biltmore-fashion-park",
+    "category": "shopping",
+    "subcategory": "shopping center",
+    "price": "$$$",
+    "rating": null,
+    "description": "The open-air upscale anchor of the Camelback corridor, 60-some specialty shops and restaurants threaded through garden courtyards and fountains, midcentury bones and all. Currently mid-glow-up under new ownership, with landscaping and placemaking upgrades rolling through 2026, so expect some shops in transition. Stroll the shaded paths at golden hour; the desert forgives you around then.",
+    "must_try": "An open-air loop through the garden courtyards between shops",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Downtown Phoenix Farmers Market",
+    "address": "455 N 3rd St (Arizona Center), Phoenix, AZ 85004",
+    "phone": null,
+    "website": "https://downtownphoenixfarmersmarket.org",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "The city's year-round Saturday-morning ritual, now gathered at the Arizona Center downtown: Sonoran-grown produce, local honey and bread, prepared food, and makers who actually make the thing. Open rain or shine, though 'rain' is more of a rumor most weeks. In summer they move the whole affair to a sunrise start so you shop before the pavement turns to lava.",
+    "must_try": "Local Sonoran-desert produce and a prepared-food breakfast",
+    "hours": "Sat 8am-1pm (mid-Oct to mid-May); Sat 7:30am-11:30am (summer)",
+    "seasonal": "Year-round Saturdays; earlier summer start to beat the heat",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Bike Barn",
+    "address": "4112 N 36th St, Phoenix, AZ 85018",
+    "phone": "602-956-3870",
+    "website": "https://www.bikebarnaz.com",
+    "category": "services",
+    "subcategory": "bike rental",
+    "price": "$$",
+    "rating": null,
+    "description": "A neighborhood bike shop that's been turning wrenches in the Valley since 1957, near the base of the Camelback and Arizona Canal riding country. Road, mountain, and city rentals for visitors who'd rather roll than drive. Grab a bike, hit the canal path early, and carry more water than you think you need. This is the desert; it doesn't negotiate.",
+    "must_try": "Rent a city or road bike for the shaded Arizona Canal path",
+    "hours": "Tue-Sat 9am-5pm; Sun 11am-4pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  }
+]

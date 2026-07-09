@@ -1,0 +1,49 @@
+[
+  {
+    "id": "the-250-trail-phoenix",
+    "title": "The 250 Trail: Phoenix",
+    "hook": "The street that answered a law with a paintbrush — then fed a whole food revolution. Walk Calle 16 and eat the Mexican-American Phoenix that painted its own name on the wall.",
+    "narrative": "Locals call it Calle 16 — the stretch of 16th Street where the murals started. In the summer of 2010, Barrio Cafe's chef Silvana Salcido Esparza stood outside her restaurant the year Arizona passed SB 1070 and decided the block deserved color instead of fear. She rallied Mexican-American artist Gennaro Garcia and Bolivia-born Hugo Medina, and by that fall roughly 150 neighbors — kids included — were painting the walls between Thomas and Roosevelt. The murals are still here, and so is the food lineage they announced: a Mexican-American Phoenix that pulls James Beard recognition without ever losing the torta counter. This trail walks that lineage. You'll eat Chihuahua-style guisados, Sonoran mesquite, pan dulce still warm in the case, and modern plates from chefs raised on both sides of the line. Pace yourself and drink water between stops — a Valley afternoon of taqueria-hopping is a longer walk than the map lets on, and the sun out here does not negotiate. Start hungry, end under the murals, and tip the neighborhood by actually spending in it. This is the Phoenix that wrote itself onto 16th Street and dared you to read it.",
+    "neighborhoods": [
+      "Calle 16 / 16th Street Corridor",
+      "Garfield",
+      "Roosevelt Row",
+      "Grand Avenue",
+      "South Mountain Village"
+    ],
+    "stops": [
+      {
+        "biz": "Cocina Madrigal",
+        "note": "Anchor the day on Calle 16 itself — Leo Madrigal's modern room sits right on 16th Street. Sit-down heart of the corridor before you go counter-hopping."
+      },
+      {
+        "biz": "Tacos Chiwas",
+        "note": "Chihuahua-style, not Sonoran — a distinction the Valley didn't have until this couple opened up. Order the deshebrada burrito and a guisado taco."
+      },
+      {
+        "biz": "La Purisima Bakery",
+        "note": "Mexican pan dulce done right, cafeteria-tray-and-tongs style. Grab a concha for the walk; the case turns over all morning."
+      },
+      {
+        "biz": "Gallo Blanco Cafe",
+        "note": "Chef Doug Robson's all-day Mexican in Garfield — the tacos al pastor and the machaca breakfast are the through-line from home cooking to the modern plate."
+      },
+      {
+        "biz": "Los Reyes de la Torta",
+        "note": "The torta as a serious sandwich. Overstuffed, unpretentious, the everyday backbone of Mexican-American Phoenix. Cash-comfort food between the fancier stops."
+      },
+      {
+        "biz": "Bacanora",
+        "note": "Wood-fire Sonoran on Grand Avenue and a James Beard-recognized peak of this whole lineage. Small, mesquite-driven, worth the reservation — the trail's dressed-up finish."
+      },
+      {
+        "biz": "Otro Cafe",
+        "note": "Robson's second act — Oaxacan-leaning, guacamole to esquites, a modern read on the same roots. Good midpoint reset with a margarita."
+      },
+      {
+        "biz": "Roosevelt Row Arts District",
+        "note": "End where 16th Street points: the mural culture that Calle 16 is family to. Walk the walls, First Fridays if you time it, and close the loop between food and paint."
+      }
+    ]
+  }
+]

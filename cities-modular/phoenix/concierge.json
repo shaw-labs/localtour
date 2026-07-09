@@ -1,0 +1,734 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "start",
+      "menu",
+      "howdy",
+      "begin"
+    ],
+    "text": "Well, look who wandered into the Valley of the Sun. I'm The Saguaro — been rooted here long enough to watch the snowbirds come and go and the asphalt shimmer in July. First rule of Phoenix: the sun is not your friend, it's your landlord. Hat, water, sunscreen. Now — what are we after? Tell me you're hungry, thirsty, itching for a trail, hunting art, chasing a ballgame, or looking to be pampered at a resort. I've got a spot for every one of those, and a story for most.",
+    "businesses": [],
+    "chips": [
+      "Where do I eat?",
+      "Best Mexican food",
+      "I need a drink",
+      "Take me hiking",
+      "Arts & museums",
+      "Resort & spa day"
+    ]
+  },
+  {
+    "keys": [
+      "food",
+      "eat",
+      "dining",
+      "hungry",
+      "where to eat",
+      "restaurants",
+      "dinner"
+    ],
+    "text": "Phoenix eats better than it gets credit for — folks fly in expecting cactus and leave dreaming about our kitchens. For a proper splurge, Vincent on Camelback has done French-Southwest since before it was cool, and Steak 44 is where the Valley goes to celebrate. Beckett's Table does warm, seasonal comfort with a wine list that behaves. Buck & Rider will sort you out if you're craving fish in the middle of the desert — an act of faith we reward here. Tell me your mood: fancy, Mexican, brunch, or street-food-crawl?",
+    "businesses": [
+      "Vincent on Camelback",
+      "Steak 44",
+      "Beckett's Table",
+      "Buck & Rider"
+    ],
+    "chips": [
+      "Fine dining night",
+      "Best Mexican food",
+      "Brunch spots",
+      "Street food & tacos"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "fancy",
+      "upscale",
+      "splurge",
+      "special occasion",
+      "best restaurant"
+    ],
+    "text": "Dressing up? Good — the Valley cleans up nice. Steak 44 is the marquee steakhouse; Vincent on Camelback is the elder statesman doing duck tamales and creme brulee that'll ruin you for others. Different Pointe of View earns its name — dinner with the city lights spilling out below, worth the drive up the hill. Tratto is Chris Bianco's soulful Italian, small and serious. And Durant's — walk in through the kitchen, order a martini and a wedge, and pretend it's 1965. Sun's down by then, so no hat required.",
+    "businesses": [
+      "Steak 44",
+      "Vincent on Camelback",
+      "Different Pointe of View",
+      "Tratto",
+      "Durant's"
+    ],
+    "chips": [
+      "Romantic dinner",
+      "Steakhouse classics",
+      "Resort restaurants",
+      "I need a cocktail"
+    ]
+  },
+  {
+    "keys": [
+      "mexican",
+      "calle 16",
+      "tacos",
+      "sonoran",
+      "barrio",
+      "authentic mexican"
+    ],
+    "text": "Now you're speaking my language. Phoenix Mexican food is the real reason to book the trip — and it runs deep. Bacanora out on Grand does live-fire Sonoran cooking that gets national ink. Cocina Madrigal and La Piñata Mexican Restaurant are neighborhood royalty. For Oaxaca on a plate, Restaurant Atoyac Estilo Oaxaca does moles that take days. And Gallo Blanco Cafe bridges the gap if your crew wants a lighter, brighter room. Follow the 16th Street corridor — 'Calle 16 y La Mesa' — and you'll eat past the murals the whole way down. Want tacos, tortas, or a full sit-down?",
+    "businesses": [
+      "Bacanora",
+      "Cocina Madrigal",
+      "La Piñata Mexican Restaurant",
+      "Restaurant Atoyac Estilo Oaxaca",
+      "Gallo Blanco Cafe"
+    ],
+    "chips": [
+      "Best tacos & street food",
+      "Sonoran hot dogs",
+      "Tortas & birria",
+      "Arts on Roosevelt Row"
+    ]
+  },
+  {
+    "keys": [
+      "street food",
+      "taco",
+      "taqueria",
+      "sonoran hot dog",
+      "carne asada",
+      "cheap eats"
+    ],
+    "text": "This is where I earn my keep. Tacos Chiwas does Chihuahua-style — the machaca is the move. Huarachis Taqueria and Asadero Norte de Sonora will handle your carne asada cravings the honest way, over mesquite. For the Sonoran hot dog — bacon-wrapped, pinto beans, the works — Nogales Hot Dogs and El Caprichoso Sonoran Hotdogs are the ones. Birrieria Obregon for the consomé-dunked birria everyone films for their phone, and Testal Mexican Kitchen for masa made fresh in front of you. Eat one standing up. That's the rule.",
+    "businesses": [
+      "Tacos Chiwas",
+      "Huarachis Taqueria",
+      "Asadero Norte de Sonora",
+      "Nogales Hot Dogs",
+      "El Caprichoso Sonoran Hotdogs",
+      "Birrieria Obregon",
+      "Testal Mexican Kitchen"
+    ],
+    "chips": [
+      "Tortas & birria",
+      "Sit-down Mexican",
+      "Best fry bread",
+      "I need a drink"
+    ]
+  },
+  {
+    "keys": [
+      "torta",
+      "birria",
+      "carolina",
+      "fry bread",
+      "los reyes",
+      "tortas"
+    ],
+    "text": "The deep cuts. Los Reyes de la Torta piles a torta so tall you'll question your jaw. The Original Carolina's Mexican Food has been rolling those thin flour tortillas since your grandparents were young — expect a line, join it happily. And The Fry Bread House is a James Beard classic honoring Tohono O'odham cooking — get the fry bread with honey and the green chile. It's Indigenous Phoenix on a plate, and it's essential. Otro Cafe rounds things out if you want a modern, patio-friendly take.",
+    "businesses": [
+      "Los Reyes de la Torta",
+      "The Original Carolina's Mexican Food",
+      "The Fry Bread House",
+      "Otro Cafe"
+    ],
+    "chips": [
+      "Best tacos",
+      "Brunch spots",
+      "Coffee & bakeries",
+      "Sit-down Mexican"
+    ]
+  },
+  {
+    "keys": [
+      "brunch",
+      "breakfast",
+      "morning",
+      "eggs",
+      "pancakes",
+      "brunch spots"
+    ],
+    "text": "Smart — eat early here, before the sun turns the sidewalk into a griddle. Matt's Big Breakfast is the institution; get there before the wait becomes a commitment. The Gladly does a lauded brunch and that Chopped Salad people whisper about. Otro Cafe on the Botanical Garden side is easy and bright. And First & Last will handle a leisurely late-morning plate if you slept in — no judgment, you're on vacation. Hydrate with the coffee. You'll thank me by noon.",
+    "businesses": [
+      "Matt's Big Breakfast",
+      "The Gladly",
+      "Otro Cafe",
+      "First & Last"
+    ],
+    "chips": [
+      "Coffee & bakeries",
+      "Best Mexican food",
+      "Morning hike first",
+      "Farmers market"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "bakery",
+      "espresso",
+      "pastry",
+      "tea"
+    ],
+    "text": "Coffee culture here is quietly excellent — and the shade of a good cafe is a survival tactic, not a luxury. Cartel Roasting Co. is the local roaster everyone cut their teeth on. Lola Coffee and Futuro are your Roosevelt Row fuel stops. Dark Hall Coffee bakes seriously good pastry with a moody streak, and Songbird Coffee & Tea House is the cozy downtown nook. For the sweet finish, La Purisima Bakery does conchas and Mexican pastry that'll pull you back tomorrow. Iced everything, May through October. Trust me.",
+    "businesses": [
+      "Cartel Roasting Co.",
+      "Lola Coffee",
+      "Futuro",
+      "Dark Hall Coffee",
+      "Songbird Coffee & Tea House",
+      "La Purisima Bakery"
+    ],
+    "chips": [
+      "Brunch spots",
+      "Arts on Roosevelt Row",
+      "Bookstores & records",
+      "Morning hike"
+    ]
+  },
+  {
+    "keys": [
+      "drink",
+      "cocktail",
+      "bar",
+      "bars",
+      "drinks",
+      "happy hour"
+    ],
+    "text": "The Valley pours above its weight after dark. Bitter & Twisted Cocktail Parlour lives in an old Prohibition-era building and has the menu the size of a novella. Little Rituals is a rooftop temple to the well-made drink. UnderTow is a below-deck tiki hideaway — book ahead, it's tiny and it's a voyage. Wren & Wolf blends steak and serious cocktails. And Valley Bar is literally underground, part speakeasy, part music venue. Pace yourself — desert air dehydrates you faster than the drinks do.",
+    "businesses": [
+      "Bitter & Twisted Cocktail Parlour",
+      "Little Rituals",
+      "UnderTow",
+      "Wren & Wolf",
+      "Valley Bar"
+    ],
+    "chips": [
+      "Live music & nightlife",
+      "Craft breweries",
+      "Late-night bites",
+      "Rooftop views"
+    ]
+  },
+  {
+    "keys": [
+      "nightlife",
+      "live music",
+      "concert",
+      "venue",
+      "band",
+      "dancing",
+      "shows"
+    ],
+    "text": "For a night out with a soundtrack: Crescent Ballroom is the beloved mid-size room — catch a band, eat a taco from the cafe, everybody's happy. The Van Buren is the glorious old auto showroom turned concert hall. Valley Bar hides live acts and comedy beneath the street. And when the touring names roll through, Arizona Financial Theatre downtown is the big indoor stage. Whatever you pick, the night air finally cools off after sundown — the Valley's apology for the afternoon.",
+    "businesses": [
+      "Crescent Ballroom",
+      "The Van Buren",
+      "Valley Bar",
+      "Arizona Financial Theatre"
+    ],
+    "chips": [
+      "Cocktail bars",
+      "Comedy show",
+      "Theater & symphony",
+      "Craft breweries"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "breweries",
+      "craft beer",
+      "taproom",
+      "ipa"
+    ],
+    "text": "Desert brewing is a stubborn, admirable craft — you're making cold beer where it's 110 out. Wren House Brewing Company is the local darling; the IPAs move fast for good reason. Arizona Wilderness DTPHX built a downtown beer hall on a sustainability ethic and pours a rotating board worth grazing. Both make excellent waypoints when the sun's still up and you're smart enough to be indoors. Grab a flight, hydrate between pours — altitude and heat conspire against you here.",
+    "businesses": [
+      "Wren House Brewing Company",
+      "Arizona Wilderness DTPHX"
+    ],
+    "chips": [
+      "Cocktail bars",
+      "Live music",
+      "Where to eat nearby",
+      "Farmers market"
+    ]
+  },
+  {
+    "keys": [
+      "hike",
+      "hiking",
+      "trail",
+      "trails",
+      "mountain",
+      "outdoors",
+      "hike safety",
+      "heat"
+    ],
+    "text": "Alright, listen up, because this is the sun-safety talk and I mean it. Phoenix hiking is spectacular and the desert does not care about your fitness tracker. Echo Canyon Trail up Camelback Mountain is the trophy climb — steep, exposed, no shade, humbling. Cholla Trail is the other Camelback route, a touch gentler. Piestewa Peak Summit Trail #300 is the local cardio pilgrimage. For something calmer, South Mountain Park & Preserve is vast, and Papago Park & Hole-in-the-Rock is an easy, iconic sunset scramble. Rules: hike at sunrise, carry more water than feels reasonable, turn back before the halfway point of your energy — not the trail. In summer, trailheads close when it's too hot. That's not a suggestion.",
+    "businesses": [
+      "Echo Canyon Trail (Camelback Mountain)",
+      "Cholla Trail (Camelback Mountain)",
+      "Piestewa Peak Summit Trail #300",
+      "South Mountain Park & Preserve",
+      "Papago Park & Hole-in-the-Rock"
+    ],
+    "chips": [
+      "Camelback details",
+      "Easy family hike",
+      "Desert Botanical Garden",
+      "Balloon & jeep tours"
+    ]
+  },
+  {
+    "keys": [
+      "camelback",
+      "echo canyon",
+      "cholla",
+      "camelback mountain"
+    ],
+    "text": "Camelback — the hump you keep seeing from every patio in town. Two ways up, both no joke. Echo Canyon Trail is shorter, steeper, and brutally exposed with handrail sections; it's a scramble, not a stroll. Cholla Trail is longer and slightly more forgiving on the knees. Neither has shade or water, so this is a sunrise-only affair for me — be off the mountain before the rock starts radiating heat back at you, which is roughly the time most tourists are lacing up. Do it right and the summit view of the whole Valley is the best free thing in Phoenix.",
+    "businesses": [
+      "Echo Canyon Trail (Camelback Mountain)",
+      "Cholla Trail (Camelback Mountain)"
+    ],
+    "chips": [
+      "Other hikes",
+      "Heat safety tips",
+      "Coffee after the hike",
+      "Resort at the base"
+    ]
+  },
+  {
+    "keys": [
+      "south mountain",
+      "papago",
+      "easy hike",
+      "family hike",
+      "hole in the rock",
+      "gentle trail"
+    ],
+    "text": "Want the desert without the leg-day punishment? South Mountain Park & Preserve is one of the largest municipal parks in the country — drive up to Dobbins Lookout for the view, or pick a mellow trail. Papago Park & Hole-in-the-Rock is the crowd-pleaser: a short walk to a natural sandstone window the Hohokam used to track the sun. Both are easier on kids and knees, and both still want a hat and a water bottle. Papago's also next door to the Botanical Garden — you can stack a whole morning there before it bakes.",
+    "businesses": [
+      "South Mountain Park & Preserve",
+      "Papago Park & Hole-in-the-Rock"
+    ],
+    "chips": [
+      "Desert Botanical Garden",
+      "Serious summit hikes",
+      "Family day plan",
+      "Balloon & jeep tours"
+    ]
+  },
+  {
+    "keys": [
+      "botanical",
+      "garden",
+      "desert botanical",
+      "nature",
+      "cactus",
+      "plants",
+      "zoo area"
+    ],
+    "text": "The Desert Botanical Garden in Papago Park is the single best way to understand this landscape without earning a sunburn on a switchback. Fifty-some acres of cactus and desert flora, gorgeous trails, and — if you time it — the luminaria nights and the seasonal art installations. Go early or go at dusk; midday it's a proving ground. Bring water, wear the hat, and give the cholla cactus a wide berth. They call it 'jumping cholla' for a reason your shins won't forget.",
+    "businesses": [
+      "Desert Botanical Garden",
+      "Papago Park & Hole-in-the-Rock"
+    ],
+    "chips": [
+      "Easy hikes nearby",
+      "Museums",
+      "Family day plan",
+      "Coffee & brunch"
+    ]
+  },
+  {
+    "keys": [
+      "art",
+      "arts",
+      "roosevelt row",
+      "roro",
+      "murals",
+      "galleries",
+      "first friday",
+      "culture"
+    ],
+    "text": "Roosevelt Row Arts District — 'RoRo' to the locals — is downtown's creative heartbeat: murals on every wall, galleries, boutiques, and the First Friday art walk that turns the streets into a party. The Roosevelt Row Arts District is walkable and best after the sun eases off. Stitch it together with a coffee at Futuro, a record dig, and dinner nearby. And if you want murals with a taco chaser, the 16th Street 'Calle 16' corridor is the other great open-air gallery in town — art and asada, my two food groups.",
+    "businesses": [
+      "Roosevelt Row Arts District",
+      "Futuro"
+    ],
+    "chips": [
+      "Museums",
+      "Bookstores & records",
+      "Best Mexican food",
+      "Live music"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "museums",
+      "heard",
+      "mim",
+      "art museum",
+      "history",
+      "instruments"
+    ],
+    "text": "Phoenix punches hard on museums — and blessedly, they're air-conditioned, which in July is its own attraction. The Heard Museum is world-class on Native American art and history; give it real time. The Musical Instrument Museum (MIM) is a genuine wonder — instruments from every country on earth, with headphones that play each as you walk up. Phoenix Art Museum anchors the fine-art scene, and the Arizona Science Center is the hands-on winner if you've got kids. For deeper local roots, S'edav Va'aki Museum sits on an actual ancestral Hohokam site.",
+    "businesses": [
+      "Heard Museum",
+      "Musical Instrument Museum (MIM)",
+      "Phoenix Art Museum",
+      "Arizona Science Center",
+      "S'edav Va'aki Museum (formerly Pueblo Grande)"
+    ],
+    "chips": [
+      "Historic Phoenix",
+      "Arts on Roosevelt Row",
+      "Family day plan",
+      "Theater & symphony"
+    ]
+  },
+  {
+    "keys": [
+      "history",
+      "historic",
+      "rosson house",
+      "heritage",
+      "old phoenix",
+      "pueblo grande",
+      "hohokam"
+    ],
+    "text": "For a city people assume was built last Tuesday, Phoenix has real history if you know where to look. Rosson House Museum at Heritage Square is a restored 1895 Victorian downtown — a tour there is a cool, shaded hour of the city's frontier era. And S'edav Va'aki Museum (you may know its old name, Pueblo Grande) preserves the Hohokam platform mound and canal ruins — the ancient irrigation engineering that made a city in the desert possible in the first place. We're farming this valley on their blueprint. Worth a humble hour.",
+    "businesses": [
+      "Rosson House Museum at Heritage Square",
+      "S'edav Va'aki Museum (formerly Pueblo Grande)"
+    ],
+    "chips": [
+      "Museums",
+      "Native art at the Heard",
+      "Arts district",
+      "Where to eat downtown"
+    ]
+  },
+  {
+    "keys": [
+      "theater",
+      "theatre",
+      "symphony",
+      "play",
+      "performing arts",
+      "orpheum",
+      "comedy",
+      "stand up"
+    ],
+    "text": "Curtain-up options abound, all mercifully indoors. The Orpheum Theatre is the stunning 1929 movie palace — Spanish Baroque, restored to the nines. Herberger Theater Center is the downtown home for resident stage companies, and Phoenix Symphony Hall is where the orchestra lives. Big touring productions land at Arizona Financial Theatre. And if you'd rather laugh than emote, Stand Up Live books national comedy headliners. A show plus a Bitter & Twisted nightcap is a proper Phoenix evening.",
+    "businesses": [
+      "Orpheum Theatre",
+      "Herberger Theater Center",
+      "Phoenix Symphony Hall",
+      "Arizona Financial Theatre",
+      "Stand Up Live"
+    ],
+    "chips": [
+      "Live music",
+      "Cocktail bars",
+      "Sports & games",
+      "Dinner before the show"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "suns",
+      "diamondbacks",
+      "dbacks",
+      "cardinals",
+      "basketball",
+      "baseball",
+      "football",
+      "stadium"
+    ],
+    "text": "Sports town, four seasons a year. The Suns play basketball at Mortgage Matchup Center downtown — you'll still hear locals call it Footprint. The Diamondbacks play baseball at Chase Field, which has a retractable roof and A/C, making a summer day game the most civilized outdoor sport in Arizona. Cardinals football happens out at State Farm Stadium in Glendale. Downtown games are the easy win — walk from dinner, walk to a bar after. If it's February or March, though, you want spring training — ask me.",
+    "businesses": [
+      "Mortgage Matchup Center (formerly Footprint Center)",
+      "Chase Field",
+      "State Farm Stadium"
+    ],
+    "chips": [
+      "Spring training",
+      "Bars near the arena",
+      "Where to eat downtown",
+      "Live music"
+    ]
+  },
+  {
+    "keys": [
+      "resort",
+      "spa",
+      "golf",
+      "pool",
+      "luxury",
+      "pampered",
+      "camelback corridor",
+      "biltmore"
+    ],
+    "text": "Ah — you've found the good life belt, the resort-spa-golf corridor tucked along Camelback and up toward the Biltmore. Arizona Biltmore, A Waldorf Astoria Resort is the grande dame, Frank Lloyd Wright-inspired and dripping history. Royal Palms Resort and Spa, part of Hyatt is the intimate, bougainvillea-draped charmer. The Phoenician, A Luxury Collection Resort sprawls with pools and a golf course, and up the hill JW Marriott Scottsdale Camelback Inn Resort & Spa is a classic. Newer and buzzy: The Global Ambassador and Mountain Shadows Resort Scottsdale. Even if you're not staying, you can book a spa treatment, a tee time, or just a very expensive poolside lemonade — the heat makes a pool day a legitimate itinerary.",
+    "businesses": [
+      "Arizona Biltmore, A Waldorf Astoria Resort",
+      "Royal Palms Resort and Spa, part of Hyatt",
+      "The Phoenician, A Luxury Collection Resort",
+      "JW Marriott Scottsdale Camelback Inn Resort & Spa",
+      "The Global Ambassador",
+      "Mountain Shadows Resort Scottsdale"
+    ],
+    "chips": [
+      "Resort restaurants",
+      "Spa day",
+      "Golf tee times",
+      "Romantic getaway"
+    ]
+  },
+  {
+    "keys": [
+      "resort dining",
+      "resort restaurant",
+      "fine dining resort",
+      "christopher",
+      "t cook",
+      "j&g",
+      "wrigley"
+    ],
+    "text": "The resorts hide some of the Valley's best tables, and you don't need a room key to book them. Christopher's at Wrigley Mansion sits in the old chewing-gum magnate's hilltop estate — dinner with a view and a wine cellar to match. T. Cook's at Royal Palms Resort and Spa does romantic Mediterranean under the palms. And J&G Steakhouse at The Phoenician is Jean-Georges' polished take on the steakhouse. All three are dress-up-a-little occasions — and all three are gloriously climate-controlled once the desert throws its evening tantrum of heat.",
+    "businesses": [
+      "Christopher's at Wrigley Mansion",
+      "T. Cook's at Royal Palms Resort and Spa",
+      "J&G Steakhouse at The Phoenician"
+    ],
+    "chips": [
+      "Resort & spa day",
+      "Romantic dinner",
+      "Golf tee times",
+      "Downtown fine dining"
+    ]
+  },
+  {
+    "keys": [
+      "spa",
+      "massage",
+      "wellness",
+      "relax",
+      "facial",
+      "pamper",
+      "hot springs",
+      "self care"
+    ],
+    "text": "Smart call — in this climate, self-preservation and self-indulgence are the same thing. Tierra Luna Spa at Arizona Biltmore is the marquee treatment temple, all desert botanicals and quiet. Royal Palms Resort and Spa, part of Hyatt runs an intimate, romantic spa under the palms, and the Alvadora rituals there are the stuff of repeat visits. Book a morning treatment, then park yourself poolside while the mercury climbs — let the resort handle the heat so you don't have to. That's the whole philosophy of a Phoenix summer, honestly.",
+    "businesses": [
+      "Tierra Luna Spa at Arizona Biltmore",
+      "Royal Palms Resort and Spa, part of Hyatt"
+    ],
+    "chips": [
+      "Resort day",
+      "Golf tee times",
+      "Romantic getaway",
+      "Resort restaurants"
+    ]
+  },
+  {
+    "keys": [
+      "golf",
+      "tee time",
+      "golfing",
+      "course",
+      "fairway",
+      "links"
+    ],
+    "text": "Golf is practically the Valley's second language — we've got more courses than we have rainy days, which is saying plenty. Papago Golf Club is the beloved municipal gem with Camelback and the Papago buttes framing your round, and it's the value play for real golfers. Camelback Golf Club offers two resort courses if you want the manicured, cart-girl-comes-around experience. Book the earliest tee time you can — by mid-morning in summer you're playing in an oven, and by afternoon you're playing in a broiler. Sunscreen on the back of your neck. Every time.",
+    "businesses": [
+      "Papago Golf Club",
+      "Camelback Golf Club"
+    ],
+    "chips": [
+      "Resort & spa day",
+      "Resort restaurants",
+      "Serious hikes",
+      "Where to eat after"
+    ]
+  },
+  {
+    "keys": [
+      "adventure",
+      "balloon",
+      "hot air",
+      "tubing",
+      "jeep",
+      "atv",
+      "kayak",
+      "paddle",
+      "horseback",
+      "salt river"
+    ],
+    "text": "For the adrenaline-and-scenery crowd, the desert delivers. Hot Air Expeditions floats you over the Sonoran at dawn — the only time the desert is both gorgeous and survivable in summer. Desert Wolf Tours runs Tomcar off-road desert adventures. Salt River Tubing is the summer rite of passage — a lazy float, a cooler, and wild horses on the banks; Riverbound Sports Paddle Co. rents you a paddleboard if you'd rather stand. And Ponderosa Stables gives you a horseback ride into South Mountain. Whatever you pick: water, hat, and reapply the sunscreen — the river reflects the sun right back at you.",
+    "businesses": [
+      "Hot Air Expeditions",
+      "Desert Wolf Tours",
+      "Salt River Tubing",
+      "Riverbound Sports Paddle Co.",
+      "Ponderosa Stables"
+    ],
+    "chips": [
+      "Hiking trails",
+      "Family day plan",
+      "Side trip to Sedona",
+      "Heat safety tips"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "things with kids",
+      "toddler"
+    ],
+    "text": "Bringing the crew? The Valley's got you, and half the wins are blessedly indoors. Arizona Science Center downtown is hands-on and can eat a whole hot afternoon. The Musical Instrument Museum (MIM) mesmerizes kids of every age. Get outside early at Papago Park & Hole-in-the-Rock — a short, scrambly walk they'll actually finish — or the Desert Botanical Garden before it bakes. And a Chase Field day game means baseball with the roof shut and the A/C blasting. Golden rule with kids in this heat: water bottles, sunscreen, and an indoor backup plan for 2 p.m.",
+    "businesses": [
+      "Arizona Science Center",
+      "Musical Instrument Museum (MIM)",
+      "Papago Park & Hole-in-the-Rock",
+      "Desert Botanical Garden",
+      "Chase Field"
+    ],
+    "chips": [
+      "Easy hikes",
+      "Museums",
+      "Ice cream & sweets",
+      "Science Center details"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "books",
+      "bookstore",
+      "records",
+      "vinyl",
+      "vintage",
+      "boutique",
+      "mall"
+    ],
+    "text": "Retail therapy, desert edition. Changing Hands Bookstore + First Draft Book Bar is the beloved indie where you can buy a novel and a cocktail in one stop — genius. Grassrootz Books & Juice Bar and Palabras Bilingual Bookstore are the soulful, community-rooted shops worth a detour. For vinyl, Stinkweeds and Tracks in Wax are the record-digger's temples, and Retro Ranch handles mid-century vintage. If you want it all under one climate-controlled roof, Biltmore Fashion Park is the upscale open-air mall. Just remember 'open-air' in July means dart between the shade.",
+    "businesses": [
+      "Changing Hands Bookstore + First Draft Book Bar",
+      "Grassrootz Books & Juice Bar",
+      "Palabras Bilingual Bookstore",
+      "Stinkweeds",
+      "Tracks in Wax",
+      "Retro Ranch",
+      "Biltmore Fashion Park"
+    ],
+    "chips": [
+      "Arts on Roosevelt Row",
+      "Coffee & bakeries",
+      "Farmers market",
+      "Resort shopping"
+    ]
+  },
+  {
+    "keys": [
+      "market",
+      "farmers market",
+      "local goods",
+      "produce",
+      "bike",
+      "biltmore fashion park"
+    ],
+    "text": "For local color you can carry home: the Downtown Phoenix Farmers Market is the Saturday-morning ritual — produce, tamales, makers, and a scene, all before the day heats up (which is the only sane time it runs in summer). Biltmore Fashion Park is your upscale shopping stop over on the Camelback corridor. And if you'd rather explore on two wheels, The Bike Barn can get you rolling. Morning is the move for all of it — by noon the sensible people of Phoenix have retreated indoors, and now you know why.",
+    "businesses": [
+      "Downtown Phoenix Farmers Market",
+      "Biltmore Fashion Park",
+      "The Bike Barn"
+    ],
+    "chips": [
+      "Coffee & brunch",
+      "Bookstores & records",
+      "Bike-friendly routes",
+      "Best Mexican food"
+    ]
+  },
+  {
+    "keys": [
+      "side trip",
+      "day trip",
+      "sedona",
+      "grand canyon",
+      "getaway",
+      "out of town",
+      "road trip"
+    ],
+    "text": "When you're ready to escape the Valley floor, two legends are within reach. Sedona is about two hours north — red-rock cathedrals, vortexes if you're into that, and 15-plus degrees cooler, which in summer feels like a religious experience. The Grand Canyon South Rim is roughly three and a half hours; leave at dawn, you can do it in a long day, though it deserves an overnight. Both are highway drives through changing desert — top off the gas, pack the cooler, and yes, still bring water. Elevation gives you a sunburn faster, not slower.",
+    "businesses": [],
+    "chips": [
+      "Desert adventures here",
+      "Balloon rides",
+      "Hiking in Phoenix",
+      "Back to food"
+    ]
+  },
+  {
+    "keys": [
+      "season",
+      "when to visit",
+      "spring training",
+      "cactus league",
+      "winter",
+      "summer",
+      "weather",
+      "best time"
+    ],
+    "text": "Let's talk timing, because in Phoenix it's everything. Winter and spring are peak — the snowbirds know what they're doing, and February-March means Cactus League spring training, when baseball's finest thaw out in the Valley and the whole town smells like sunscreen and optimism. Summer is honest brutality: 110-plus. But summer has its rhythm too — sunrise hikes, all-day pool culture at the resorts, and the museums and Chase Field to duck the afternoon. A summer Diamondbacks game under that closed roof is the smartest ticket in town. Whenever you come, the desert rewards the early riser and punishes the midday hero.",
+    "businesses": [
+      "Chase Field",
+      "Desert Botanical Garden"
+    ],
+    "chips": [
+      "Spring training baseball",
+      "Pool & resort day",
+      "Sunrise hikes",
+      "Indoor escapes"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "date night",
+      "anniversary",
+      "couples",
+      "honeymoon"
+    ],
+    "text": "Setting a romantic scene? The desert does drama well. Start with sunset — Different Pointe of View literally serves dinner above the city lights, and Christopher's at Wrigley Mansion pairs a hilltop mansion with a serious wine cellar. T. Cook's at Royal Palms Resort and Spa is candlelit Mediterranean under the palms, about as swoony as the Valley gets. For after, UnderTow is a tiny, dim tiki voyage of a cocktail bar — book it. And an overnight at the Royal Palms Resort and Spa, part of Hyatt seals the whole thing. Desert nights cool down beautifully — that's the Valley being generous, finally.",
+    "businesses": [
+      "Different Pointe of View",
+      "Christopher's at Wrigley Mansion",
+      "T. Cook's at Royal Palms Resort and Spa",
+      "UnderTow",
+      "Royal Palms Resort and Spa, part of Hyatt"
+    ],
+    "chips": [
+      "Spa day for two",
+      "Cocktail bars",
+      "Fine dining",
+      "Resort getaway"
+    ]
+  }
+]

@@ -6,7 +6,7 @@
 //   2. counts                 — audit-verified totals pinned in scripts/expected-counts.json
 //   3. provenance             — cities-modular == migrate-legacy(data.js) + documented patches
 // Warn-only stubs (enforced in their phase): stat drift, expired events, links, alt text, media budget.
-import { readFileSync } from "node:fs";
+import { readFileSync, readdirSync, existsSync } from "node:fs";
 import { execFileSync } from "node:child_process";
 import path from "node:path";
 import { ROOT, SLUGS } from "./lib/city-data.mjs";
@@ -21,7 +21,10 @@ try {
     [path.join(ROOT, "scripts", "validate-cities.mjs"), path.join(ROOT, "cities-modular")],
     { stdio: "pipe" },
   );
-  console.log("✓ data contract: validate-cities.mjs PASS (8/8 cities)");
+  const cityCount = readdirSync(path.join(ROOT, "cities-modular")).filter((d) =>
+    existsSync(path.join(ROOT, "cities-modular", d, "config.json")),
+  ).length;
+  console.log(`✓ data contract: validate-cities.mjs PASS (${cityCount} cities)`);
 } catch (err) {
   failures.push("validate-cities.mjs FAILED:\n" + String(err.stdout ?? err.message).slice(-800));
 }
