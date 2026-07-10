@@ -4,6 +4,7 @@
 // via useCityModel(). See docs/WS1_PORT_CONTRACTS.md.
 import { createContext, useContext } from "react";
 import { CAT_KICKERS, CAT_ORDER_ENGINE, buildBreakSchedule } from "./theme";
+import { isEventActive, isDealActive, todayISO } from "./dates";
 
 const CityModelContext = createContext(null);
 
@@ -90,8 +91,12 @@ export function adaptCity(city, editorial) {
   const SIDE_TRIPS = (config.side_trips ?? []).map((t) => ({ ...t, dist: t.distance }));
 
   const directory = city.directory;
-  const deals = city.deals;
-  const events = city.events;
+  // WS2 truth pass: auto-hide expired events + deals at render time (relative to the
+  // viewer's today). Every downstream surface (tickers, cards, counts) sees only
+  // what's actually still on. Recurring/undated events stay (evergreen).
+  const today = todayISO();
+  const events = city.events.filter((e) => isEventActive(e.date, today));
+  const deals = city.deals.filter((d) => isDealActive(d, today));
   const nodes = city.concierge;
 
   const byName = Object.fromEntries(directory.map((b) => [b.name, b]));

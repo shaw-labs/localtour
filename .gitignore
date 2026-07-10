@@ -16,3 +16,4 @@ parity-report/
 # landing videos (15MB) — CLI-deployed, optimized in WS7
 public/*.mp4
 public/videos/
+src/generated/

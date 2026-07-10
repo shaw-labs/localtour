@@ -1,5 +1,6 @@
 import React from "react";
 import { useState, useEffect, useRef, useCallback } from "react";
+import STATS from "../generated/stats.json"; // WS2: computed at build, never hand-typed
 import "./Landing.css";
 
 let deferredInstallPrompt: any=null;
@@ -14,7 +15,7 @@ const CITIES=[
   {slug:"chicago",name:"Chicago",state:"IL",tagline:"Invented Itself Twice",vibe:"2.7M people · 181 places",hero:"hero-green-river-spring.jpg",link:"/cities/chicago/"},
   {slug:"houston",name:"Houston",state:"TX",tagline:"Space City Runs on Flavor",vibe:"2.3M people · 212 places",hero:"hero-artcar-spring.jpg",link:"/cities/houston/"},
   {slug:"new-orleans",name:"New Orleans",state:"LA",tagline:"The Music Never Stops",vibe:"383K people · 176 places",hero:"hero-fall-stcharles-canopy.jpg",link:"/cities/new-orleans/"},
-  {slug:"las-vegas",name:"Las Vegas",state:"NV",tagline:"What Happens Here, Stays Here",vibe:"641K people · 277 places",hero:"hero-strip-night.jpg",link:"/vegas/"},
+  {slug:"las-vegas",name:"Las Vegas",state:"NV",tagline:"What Happens Here, Stays Here",vibe:"Served by SlotGenie ↗",hero:"hero-strip-night.jpg",link:"/vegas/"},
   {slug:"los-angeles",name:"Los Angeles",state:"CA",tagline:"Creative Capital of the Pacific",vibe:"3.9M people · 154 places",hero:"hero-dtla-rain-glow.jpg",link:"/cities/los-angeles/"},
   {slug:"smoky-mountains",name:"Smoky Mountains",state:"TN",tagline:"Mountains Do the Talking",vibe:"155 places curated",hero:"hero-fall-foliage.jpg",link:"/cities/smoky-mountains/"},
   {slug:"phoenix",name:"Phoenix",state:"AZ",tagline:"Where the Desert Keeps Its Own Hours",vibe:"93 places curated",hero:"hero-aerial.jpg",link:"/cities/phoenix"},
@@ -153,7 +154,7 @@ function MissionSection(){return(
     <Reveal delay={0.08}><h2 style={{fontFamily:T.fd,fontSize:"clamp(28px,4.5vw,48px)",fontWeight:700,color:T.text,lineHeight:1.12,marginTop:16,marginBottom:24}}>Make every trip <em style={{color:T.terra}}>safer</em>, <em style={{color:T.gold}}>smarter</em>, and <em style={{color:T.terraLight}}>unforgettable</em></h2></Reveal>
     <Reveal delay={0.16}><p style={{fontFamily:T.fb,fontSize:17,color:T.fog,lineHeight:1.8,maxWidth:600,margin:"0 auto"}}>Local knowledge shouldn't be locked behind paywalls or drowned in ads. AI-generated cinematics bring every city to life before you even arrive.</p></Reveal>
     <Reveal delay={0.24}><div className="stat-grid" style={{display:"grid",gridTemplateColumns:"repeat(3,1fr)",gap:20,marginTop:48}}>
-      {[{num:"8",label:"Cities Live",sub:"More launching monthly"},{num:"1,471",label:"Curated Places",sub:"Verified by real humans"},{num:"0",label:"Ads Served",sub:"Revenue from value"}].map(function(stat){return(
+      {[{num:String(STATS.cities),label:"Cities Live",sub:"More launching monthly"},{num:STATS.businesses.toLocaleString(),label:"Curated Places",sub:"Verified by real humans"},{num:"0",label:"Ads Served",sub:"Revenue from value"}].map(function(stat){return(
         <div key={stat.label} style={{background:T.card,borderRadius:T.r,padding:"28px 20px",border:"1px solid "+T.border}}>
           <div style={{fontFamily:T.fd,fontSize:36,fontWeight:800,color:T.terra}}>{stat.num}</div>
           <div style={{fontFamily:T.fb,fontSize:14,fontWeight:600,color:T.text,marginTop:6}}>{stat.label}</div>
