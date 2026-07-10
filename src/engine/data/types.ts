@@ -35,6 +35,9 @@ export interface Deal {
   redemption_type: string;
   /** empty until the merchant door (WS4) issues real codes — codeless by contract */
   redemption_value: string;
+  /** WS4 coupon clipper: build-generated code overlaid at load (gen-coupons.mjs);
+   *  never written to source containers (keeps provenance byte-exact). */
+  code?: string;
   /** "legacy-import" | factory provenance */
   source: string;
   is_exclusive: boolean;

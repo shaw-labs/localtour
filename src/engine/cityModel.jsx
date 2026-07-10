@@ -5,6 +5,9 @@
 import { createContext, useContext } from "react";
 import { CAT_KICKERS, CAT_ORDER_ENGINE, buildBreakSchedule } from "./theme";
 import { isEventActive, isDealActive, todayISO } from "./dates";
+// WS4 coupon overlay — build-generated per-deal codes (source containers stay
+// codeless by contract; see scripts/gen-coupons.mjs). Empty {} before first build.
+import COUPONS from "../generated/coupons.json";
 
 const CityModelContext = createContext(null);
 
@@ -95,7 +98,11 @@ export function adaptCity(city, editorial) {
   // what's actually still on. Recurring/undated events stay (evergreen).
   const today = todayISO();
   const events = city.events.filter((e) => isEventActive(e.date, today));
-  const deals = city.deals.filter((d) => isDealActive(d, today));
+  // WS4: overlay the build-generated coupon code onto each in-store deal.
+  const cityCoupons = COUPONS[slug] ?? {};
+  const deals = city.deals
+    .filter((d) => isDealActive(d, today))
+    .map((d) => (cityCoupons[d.id] ? { ...d, code: cityCoupons[d.id] } : d));
   const nodes = city.concierge;
 
   const byName = Object.fromEntries(directory.map((b) => [b.name, b]));
@@ -165,6 +172,11 @@ export function adaptCity(city, editorial) {
     CAT_KICKERS,
     planner: city.planner,
     trails: city.trails,
-    features: config.features ?? {},
+    // WS4: the clipper switches on for any city that has generated codes, without
+    // mutating the provenance-gated source config (coupon_clipper stays false there).
+    features: {
+      ...(config.features ?? {}),
+      coupon_clipper: (config.features?.coupon_clipper ?? false) || Object.keys(cityCoupons).length > 0,
+    },
   };
 }

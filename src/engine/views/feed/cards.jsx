@@ -33,11 +33,14 @@ export function dealRedemption(deal, features) {
   const rtype = deal.redemption_type;
   const isOutbound = rtype === "link" || rtype === "app";
   const value = deal.redemption_value;
+  // Code comes from the WS4 build overlay (deal.code); fall back to a legacy
+  // redemption_value if one ever ships in source.
+  const code = deal.code || (!isOutbound ? value : null) || null;
   return {
     isOutbound,
     url: isOutbound && /^https?:\/\//i.test(value || "") ? value : null,
-    code: !isOutbound ? value : null,
-    hasCode: Boolean(features?.coupon_clipper) && !isOutbound && Boolean(value),
+    code,
+    hasCode: Boolean(features?.coupon_clipper) && !isOutbound && Boolean(code),
   };
 }
 
