@@ -1,0 +1,236 @@
+{
+  "slug": "salt-lake-city",
+  "name": "Salt Lake City",
+  "state": "Utah",
+  "region": "Wasatch Front, Northern Utah",
+  "tagline": "Where the Greatest Snow on Earth meets a city that eats, brews, and roams with it.",
+  "description": "Cradled between the Wasatch Range and the Great Salt Lake, Salt Lake City is a high-desert basecamp where powder mornings, canyon trails, and a fast-rising global food scene share the same grid. Pioneer heritage radiates out from Temple Square while State Street's immigrant kitchens, Sugar House's craft dens, and a serious coffee culture write the next chapter. Four world-class resorts sit under an hour from downtown, and Antelope Island's bison herd is a short causeway drive away. It's a walkable, mile-high city that treats the mountains as its backyard.",
+  "coordinates": {
+    "lat": 40.7608,
+    "lng": -111.891
+  },
+  "timezone": "America/Denver",
+  "identity": {
+    "known_for": [
+      "The Greatest Snow on Earth and four resorts within an hour",
+      "Temple Square and pioneer heritage",
+      "a fast-rising global dining and craft-beer scene",
+      "canyon hiking and access to the Great Salt Lake"
+    ],
+    "vibe": "Mile-high mountain-town energy with big-city polish and outdoorsy, easygoing locals",
+    "best_season": "Winter for powder; summer for canyon hiking and Antelope Island",
+    "visitor_type": [
+      "skiers and snowboarders",
+      "outdoor adventurers",
+      "food and coffee travelers",
+      "culture and heritage seekers",
+      "families"
+    ]
+  },
+  "hero": {
+    "summer": "Alpine wildflowers blanket the canyons, Antelope Island's bison graze at golden hour, and the patios stay warm long past sundown.",
+    "fall": "Cottonwood maples ignite red and gold up the canyons while the valley air turns crisp and clear enough to see every ridgeline.",
+    "winter": "First chair drops into knee-deep powder before the city's even had its coffee — this is why we call it the Greatest Snow on Earth.",
+    "spring": "Ski the corn snow up top in the morning, then peel down to blossoming Sugar House and a sunny patio by afternoon."
+  },
+  "nexus": {
+    "type": "heritage_landmark_district",
+    "anchor": "Temple Square",
+    "anchor_url": "https://www.visitsaltlake.com/things-to-do/attractions/historic-sites/historic-temple-square/",
+    "radius": "1.5 miles around downtown and Temple Square",
+    "services": [
+      "free multilingual grounds tours",
+      "Tabernacle and Conference Center visits",
+      "Church History Museum",
+      "FamilySearch Library",
+      "TRAX light-rail free-fare zone downtown"
+    ],
+    "affiliate_density": "high",
+    "description": "Temple Square anchors downtown as Utah's most-visited destination — free to walk, ringed by hotels, restaurants, and TRAX stops, and the natural first bearing for any first-timer getting oriented in the valley."
+  },
+  "nexus_grid": [
+    {
+      "id": "temple-square",
+      "title": "Temple Square & Downtown",
+      "icon": "buildings",
+      "description": "Ten manicured acres of pioneer landmarks, the domed Tabernacle, and gardens — the historic heart, walkable and free."
+    },
+    {
+      "id": "canyons",
+      "title": "Cottonwood Canyons",
+      "icon": "mountain",
+      "description": "Big and Little Cottonwood climb to Alta, Snowbird, Brighton, and Solitude — powder in winter, wildflower trails in summer, all under an hour up."
+    },
+    {
+      "id": "sugar-house",
+      "title": "Sugar House",
+      "icon": "leaf",
+      "description": "The city's craft-and-coffee neighborhood — indie roasters, breweries, and a leafy park that anchors the east side."
+    },
+    {
+      "id": "state-street",
+      "title": "State Street Kitchens",
+      "icon": "fork",
+      "description": "The global spine of the valley — Vietnamese, Mexican, Himalayan, and Pacific Island kitchens run by the families who built them."
+    },
+    {
+      "id": "antelope-island",
+      "title": "Antelope Island",
+      "icon": "compass",
+      "description": "A causeway drive onto the Great Salt Lake to free-roaming bison, pronghorn, and some of the widest sunsets in the West."
+    },
+    {
+      "id": "university-district",
+      "title": "University District",
+      "icon": "book",
+      "description": "The U of U hillside — Natural History Museum, Red Butte Garden, and easy trailheads with the whole valley at your feet."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "fork",
+      "description": "From State Street's immigrant kitchens to award-winning downtown tasting menus — chase the flavors that are putting this valley on the map.",
+      "tags": [
+        "global cuisine",
+        "craft beer",
+        "farm-to-table",
+        "food halls"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "coffee",
+      "description": "Slow mornings over serious pour-overs, a book in Sugar House Park, and patios that make you forget you had a schedule.",
+      "tags": [
+        "coffee",
+        "parks",
+        "bakeries",
+        "low-key"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "heart",
+      "description": "Canyon overlooks at golden hour, candlelit tables downtown, and a soak under the stars — the Wasatch does date night right.",
+      "tags": [
+        "scenic views",
+        "fine dining",
+        "sunset",
+        "cozy"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "mountain",
+      "description": "First chair, alpine ridgelines, and trailheads minutes from your hotel — this is the city built for people who came for the mountains.",
+      "tags": [
+        "skiing",
+        "hiking",
+        "climbing",
+        "biking"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "landmark",
+      "description": "Pioneer history at Temple Square, world-class museums on the U hillside, and This Is the Place — the Crossroads of the West, then and now.",
+      "tags": [
+        "heritage",
+        "museums",
+        "history",
+        "architecture"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "cocktail",
+      "description": "Local breweries, hidden speakeasies, and live music downtown — the scene's smaller than you'd guess and better than you'd expect.",
+      "tags": [
+        "breweries",
+        "cocktail bars",
+        "live music",
+        "dive bars"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "family",
+      "description": "Bison on Antelope Island, dinosaurs at the Natural History Museum, and gentle canyon trails — big outdoors sized right for little legs.",
+      "tags": [
+        "kid-friendly",
+        "museums",
+        "wildlife",
+        "parks"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Salt Lake City International Airport (SLC) sits just 4 miles west of downtown — a 10-minute drive or a straight 20-minute ride on the TRAX Green Line to the city center.",
+    "local_transport": "UTA runs TRAX light rail (with a free-fare zone downtown), FrontRunner commuter rail up and down the Wasatch Front, and a bus network; ski-bus routes (UTA and Cottonwood Connect) climb to the resorts in winter. Downtown is very walkable, but a car earns its keep for the canyons and Antelope Island."
+  },
+  "side_trips": [
+    {
+      "name": "Park City",
+      "distance": "40 minutes east over Parley's Summit",
+      "pitch": "A former silver-mining town turned world-class ski hub, where a preserved Main Street of galleries and saloons sits at the base of two massive resorts.",
+      "highlights": [
+        "Park City Mountain and Deer Valley",
+        "historic Main Street",
+        "Sundance Film Festival in January",
+        "summer alpine coaster and mountain biking"
+      ]
+    },
+    {
+      "name": "Bonneville Salt Flats",
+      "distance": "1.5 hours west toward the Nevada line",
+      "pitch": "A blinding-white expanse of hard salt crust stretching to the horizon — the legendary land-speed course and one of the strangest, most photogenic landscapes in the West.",
+      "highlights": [
+        "mirror-flat salt horizon",
+        "land-speed racing history at Speed Week",
+        "sunset and night-sky photography",
+        "nearby Great Salt Lake overlooks"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Powder Hound",
+    "greeting": "Welcome to the valley — you made it to the Crossroads of the West. Take a breath, we're a mile up so the altitude's real, and let's figure out whether you're here to ski, eat, or roam.",
+    "personality": "First-chair energy and canyon-wise. Knows exactly when Little Cottonwood gates and which State Street kitchen the locals actually line up for. Gentle about the altitude, honest about the traffic, and always steering you toward the good snow and the better tacos.",
+    "sign_off": "Drink your water, respect the canyon, and I'll see you on the first chair. — The Powder Hound"
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "canyon-ski.jpg",
+      "district-sugar-house.jpg",
+      "downtown-temple-square.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {},
+    "section_breaks": {}
+  }
+}

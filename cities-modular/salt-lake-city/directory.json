@@ -1,0 +1,2030 @@
+[
+  {
+    "name": "Oquirrh",
+    "address": "368 E 100 S, Salt Lake City, UT 84111",
+    "phone": "(801) 359-0426",
+    "website": "https://oquirrhslc.com/",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tucked two blocks east of the Eccles Theater, this snug room is Chef Andrew Fuller's canvas — a three-time James Beard nominee who repaints the menu with whatever the season hands him. Book on Tock for two, and lean into the trust: the kitchen's precision is the kind of first-chair confidence I chase on a powder morning.",
+    "must_try": null,
+    "hours": "Mon-Fri 4:30pm-10pm; Sat-Sun 10am-2pm and 4:30pm-10pm",
+    "seasonal": "Menu rotates with the seasons; weekend brunch served 10am-2pm",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urban Hill",
+    "address": "510 S 300 W, Ste 100, Salt Lake City, UT 84101",
+    "phone": "(385) 295-4200",
+    "website": "https://www.urban-hill.com/",
+    "category": "dining",
+    "subcategory": "New American fine dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The anchor of the reborn Post District and the marquee room in town — Chef Nick Zocco is a James Beard Best Chef finalist (2024 & 2026) who threads New Mexican warmth through a wood-fired, oyster-bar menu. Start with the skillet rolls and churned butter; it's the kind of opening run that sets the tone for the whole descent.",
+    "must_try": "Skillet rolls with churned butter and sea salt",
+    "hours": "Dinner daily 5pm-9:30pm; Sat-Sun brunch 10am-2pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arlo",
+    "address": "271 N Center St, Salt Lake City, UT 84103",
+    "phone": "(385) 266-8845",
+    "website": "https://www.arlorestaurant.com/",
+    "category": "dining",
+    "subcategory": "Contemporary American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Perched in the quiet Marmalade blocks below the Capitol, Arlo is SLC native Chef Milo Carrier's globe-roaming, whole-animal-butchery labor of love — a 2026 James Beard semifinalist nod earned. The menu shifts constantly and the room feels like a locals' secret; grab counter seating and watch the line move.",
+    "must_try": null,
+    "hours": "Open Wed-Sun for dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Pearl",
+    "address": "917 S 200 W, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.thepearlslc.com/",
+    "category": "dining",
+    "subcategory": "Vietnamese kitchen & cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "In the food-forward Central 9th pocket, Chef Tommy Nguyen — a 2026 James Beard semifinalist who cut his teeth at Takashi — plates Vietnamese cooking born of family heritage alongside a serious cocktail program. It's proof of the State Street immigrant-kitchen story that makes this crossroads city sing after dark.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Table X",
+    "address": "1457 E 3350 S, Salt Lake City, UT 84106",
+    "phone": "(385) 528-3712",
+    "website": "https://tablexrestaurant.com/",
+    "category": "dining",
+    "subcategory": "New American tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A James Beard finalist kitchen where three chef-owners cook a seasonal tasting menu from their own garden and nearby farms. Reserve the full progression and let the day's harvest lead — and if you land early, the sourdough at Table X Bread downstairs is worth the detour before your climb.",
+    "must_try": "The seasonal chef's tasting menu",
+    "hours": "Wed-Sat 5pm-9pm; closed Sun-Tue (bakery Tue-Sat 8am-3pm)",
+    "seasonal": "Menu changes with what's picked that day",
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HSL",
+    "address": "418 E 200 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://www.hslrestaurant.com/",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chef Briar Handly's downtown sibling to Park City's Handle — a repeat James Beard Best Chef Mountain semifinalist. The rotating, handmade menu pairs with thoughtful wines and cocktails in a City Home Collective-designed room that feels effortlessly warm. A reliable first chair when you want the good stuff without the fuss.",
+    "must_try": null,
+    "hours": "Tue-Sat from 5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Log Haven",
+    "address": "6451 E Millcreek Canyon Rd, Salt Lake City, UT 84109",
+    "phone": "(801) 272-8255",
+    "website": "https://log-haven.com/",
+    "category": "dining",
+    "subcategory": "New American / romantic destination",
+    "price": "$$$",
+    "rating": null,
+    "description": "Twenty minutes up Millcreek Canyon and you're in a 1920s log mansion ringed by waterfalls and Wasatch pines — Utah's most-romantic table for a reason. The contemporary American menu leans organic and local. Mind the canyon drive after dark, and yes, the altitude is real up here; sip water between courses.",
+    "must_try": null,
+    "hours": "Mon-Fri 5pm-9pm; Sat 4:30pm-9pm; Sun 10am-2pm & 5:30pm-9pm",
+    "seasonal": "Canyon setting shines in summer; live music nightly",
+    "modes": [
+      "romantic",
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Manoli's",
+    "address": "402 E Harvey Milk Blvd (900 S), #2, Salt Lake City, UT 84111",
+    "phone": "(801) 532-3760",
+    "website": "https://www.manolison9th.com/",
+    "category": "dining",
+    "subcategory": "Modern Greek",
+    "price": "$$$",
+    "rating": null,
+    "description": "On the 9th & 9th corner, husband-and-wife team Manoli Katsanevas and Katrina Cutrubus reinterpret Greek cooking through a fresh, local, seasonal lens — every small plate made from scratch. Order broadly and share; it's the kind of table that turns a quiet night into a long, happy one.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": "Seasonally driven small plates",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brownstone 22",
+    "address": "22 E 100 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://www.brownstone22.com/",
+    "category": "dining",
+    "subcategory": "Seafood-forward New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Opened early 2026 inside the historic Utah Commercial & Savings Bank building from the James Beard-nominated Felt team — a seafood-and-martini stunner with Mountain West swagger. Raw towers, lobster linguine, even an uni cheeseburger, plus a martini list worth lingering over. Downtown's freshest first-chair energy.",
+    "must_try": "Lobster linguine (or the raw seafood tower)",
+    "hours": "Sun-Thu 5pm-11pm; Fri-Sat 5pm-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Monarca",
+    "address": "268 S State St, Suite 110, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://monarcaut.com/",
+    "category": "dining",
+    "subcategory": "Modern Mexican bistro",
+    "price": "$$$",
+    "rating": null,
+    "description": "A few blocks from Temple Square, this Best of State 2025 Mexican bistro plays an ever-changing hand of ceviches, enchiladas, and steaks, backed by a tequila-and-mezcal bar that took Best Restaurant Bar honors. The pollo en mole is the kind of dish you plan the trip around.",
+    "must_try": "Pollo en mole",
+    "hours": null,
+    "seasonal": "Chef's specials rotate frequently",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "VENETO Ristorante Italiano",
+    "address": "370 E 900 S, Salt Lake City, UT 84111",
+    "phone": "(801) 359-0708",
+    "website": "https://venetoslc.com/",
+    "category": "dining",
+    "subcategory": "Regional Italian fine dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Owners Marco and Amy Stevanoni run the most polished Italian room in the city — Veneto-region classics, tableside wine service, and 800-plus labels that have earned repeat Wine Spectator honors. Come for the housemade bigoli and stay for the ceremony; this is a special-occasion summit table.",
+    "must_try": "Housemade bigoli pasta",
+    "hours": "Tue-Sun 5:30pm-10pm; closed Mon",
+    "seasonal": "Year-round classics plus seasonal specialties",
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hub & Spoke Diner",
+    "address": "1291 S 1100 E, Salt Lake City, UT 84105",
+    "phone": null,
+    "website": "https://www.hubandspokediner.com/",
+    "category": "dining",
+    "subcategory": "Modern diner / brunch",
+    "price": "$$",
+    "rating": null,
+    "description": "Sugar House's all-day brunch clubhouse — locally sourced modern-diner cooking, breakfast served any hour, and famously boozy milkshakes to fuel the day. Bring the whole crew; it's easygoing, generous, and exactly the fuel you want before a Sugar House stroll or a canyon push.",
+    "must_try": "A boozy milkshake with the shrimp and grits",
+    "hours": "Open daily for breakfast, brunch, lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pago",
+    "address": "878 S 900 E, Salt Lake City, UT 84105",
+    "phone": "(801) 532-0777",
+    "website": "https://pagoslc.com/",
+    "category": "dining",
+    "subcategory": "Farm-to-table New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Scott Evans pioneered SLC's farm-to-table movement here in 2009, and this intimate 45-seat 9th & 9th room still sets the standard — every plate built on local growers and artisans. The Pago Burger (chuck, short rib, brisket, black garlic aioli) is a rite of passage. Small room, big loyalty.",
+    "must_try": "The Pago Burger",
+    "hours": "Dinner daily 5pm-9pm",
+    "seasonal": "Menu driven by seasonal local harvest",
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Franck's",
+    "address": "6263 S Holladay Blvd, Holladay, UT 84121",
+    "phone": "(801) 274-6264",
+    "website": "https://francksfood.com/",
+    "category": "dining",
+    "subcategory": "French-leaning New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "A hidden gem in Holladay's Knudsen Corners, set in a renovated old home with just 50 warm seats. Chef Franck Peissel — a Best of State and Salt Lake Magazine Best Chef honoree — plates true French dishes beside globe-trotting favorites. Worth the short drive south for a genuinely special evening.",
+    "must_try": null,
+    "hours": "Tue-Thu 5pm-9pm; Fri-Sat 5pm-9:30pm; closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Iguana",
+    "address": "736 W North Temple St, Salt Lake City, UT 84116",
+    "phone": "(801) 322-1489",
+    "website": "https://www.rediguana.com/",
+    "category": "dining",
+    "subcategory": "Mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "The most-awarded restaurant in Utah and the beating heart of the North Temple corridor, run by the Cardenas family since 1985. This is mole country: seven or eight complex sauces simmered from scratch, layered smoky-sweet-bitter over enchiladas and puntas. The wait can rival a powder-day lift line, so put your name in early or slip next door to Red Iguana 2. Order a horchata while you wait; the altitude will thank you.",
+    "must_try": "Mole Negro over enchiladas (ask for the sampler plate to taste all the moles)",
+    "hours": "Sun-Thu 11am-9pm, Fri-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mahider Ethiopian Restaurant & Market",
+    "address": "1465 S State St #7, Salt Lake City, UT 84115",
+    "phone": "(801) 975-1111",
+    "website": "https://mahiderethiopian.com/",
+    "category": "dining",
+    "subcategory": "Ethiopian",
+    "price": "$$",
+    "rating": null,
+    "description": "Right on State Street, this is the immigrant-kitchen soul of Salt Lake distilled into one spongy injera platter. Tear, scoop, and share your way through fiery doro wat and a garden of vegan lentil and cabbage stews, then browse the attached market for spices to smuggle home. No utensils, no rush, all hands, this is communal eating the way the Crossroads of the West does global.",
+    "must_try": "Doro wat (spiced chicken stew) with a veggie combo on injera",
+    "hours": "Tue-Sat 11am-9pm; closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mazza",
+    "address": "1515 S 1500 E, Salt Lake City, UT 84105",
+    "phone": "(385) 215-7289",
+    "website": "https://www.mazzacafe.com/",
+    "category": "dining",
+    "subcategory": "Middle Eastern / Lebanese",
+    "price": "$$",
+    "rating": null,
+    "description": "One of the oldest Middle Eastern kitchens in the valley, tucked into the leafy 9th & 9th neighborhood. Mazza does the mezze thing properly, silky baba ghanoush, bright fattoush, char-kissed lamb shawarma, plus a Utah liquor-law flex: one of the largest Middle Eastern beer and wine lists in the country. In this state that's a genuine miracle, so let them pour you an obscure Lebanese red.",
+    "must_try": "Lamb shawarma with a spread of mezze (get the muhammara)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chanon Thai Cafe",
+    "address": "278 E 900 S, Salt Lake City, UT 84111",
+    "phone": "(801) 532-1177",
+    "website": "https://chanonthaislc.com/",
+    "category": "dining",
+    "subcategory": "Thai",
+    "price": "$$",
+    "rating": null,
+    "description": "A tiny, family-run 9th South institution that locals guard jealously. The khao soi, a golden coconut-curry noodle bowl from northern Thailand, is the reason to cross town, but the drunken noodles and larb hold their own. Cash-friendly, unfussy, and honest, the kind of neighborhood spot that quietly outlasts every trend cycle in the city.",
+    "must_try": "Khao soi (northern Thai curry noodle soup)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Afghan Kitchen",
+    "address": "3142 S Main St, South Salt Lake, UT 84115",
+    "phone": "(385) 229-4155",
+    "website": "https://www.afghan-kitchen.com/",
+    "category": "dining",
+    "subcategory": "Afghan",
+    "price": "$$",
+    "rating": null,
+    "description": "Opened by Mohammad, who spent over a decade as a refugee in Peshawar before landing in Salt Lake, this Main Street gem serves the food he grew up eating. The Qabili Palau, Afghanistan's national dish, is a mountain of aromatic basmati crowned with caramelized carrots and raisins over tender lamb. Come hungry, come curious; this is the immigrant State Street story on a plate.",
+    "must_try": "Qabili Palau (Kabuli palaw) with lamb",
+    "hours": "Tue-Sun 4pm-9pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Laan Na Thai",
+    "address": "336 W 300 S, Salt Lake City, UT 84101",
+    "phone": "(801) 363-2717",
+    "website": null,
+    "category": "dining",
+    "subcategory": "Thai (Northern)",
+    "price": "$$",
+    "rating": null,
+    "description": "The first stand-alone restaurant to graduate from Salt Lake's Spice Kitchen Incubator, opened by chefs Yupin and Wichai in 2016 after they immigrated from northern Thailand. This is proof the refugee-kitchen pipeline works: authentic pumpkin curry, hung lay pork, and a khao soi that rivals anything downtown. A downtown gem with a genuinely good backstory.",
+    "must_try": "Khao soi or hung lay pork curry",
+    "hours": "Mon-Fri 11am-9pm, Sat 12pm-9pm; closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bhutan House Restaurant",
+    "address": "1241 E 8600 S, Sandy, UT 84094",
+    "phone": "(801) 679-0945",
+    "website": "https://www.bhutanhouserestaurant.com/",
+    "category": "dining",
+    "subcategory": "Bhutanese / Nepali / Indian",
+    "price": "$$",
+    "rating": null,
+    "description": "Worth the drive south to Sandy, this Spice Kitchen success story from Kamal, Geeta, and their daughters is the only kitchen in the valley serving all three of the countries they've called home: India, Bhutan, and Nepal. Order the ema datshi, the fiery Bhutanese chili-and-cheese national dish, alongside a steamer of hand-folded momos. A little culinary detour that pays off.",
+    "must_try": "Ema datshi (chili and cheese) with a plate of momos",
+    "hours": "Tue-Sat 4pm-9:30pm, Sun 4pm-9pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Takashi",
+    "address": "18 W Market St, Salt Lake City, UT 84101",
+    "phone": "(801) 519-9595",
+    "website": "https://www.takashisushi.com/",
+    "category": "dining",
+    "subcategory": "Japanese / Sushi",
+    "price": "$$$",
+    "rating": null,
+    "description": "The name locals drop when out-of-towners doubt that a landlocked mountain city can do world-class sushi. Chef Takashi Gibo runs a downtown room that's perpetually packed, pushing pristine nigiri, inventive small plates, and uni shooters. Most seats are walk-in, so arrive right at open or plan to wait; the omakase (reservation only, midweek) is the move for a special night.",
+    "must_try": "Omakase, or the uni shooter and black cod à la carte",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Copper Onion",
+    "address": "111 E Broadway (300 S) #170, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://www.thecopperonion.com/",
+    "category": "dining",
+    "subcategory": "New American (craft)",
+    "price": "$$$",
+    "rating": null,
+    "description": "Since 2010, the reliable downtown anchor of the modern Salt Lake table, sourcing local and regional produce for a menu that manages to feel both ambitious and welcoming. The wagyu beef stroganoff is the signature everyone orders, but the house-made ricotta and the burger have their own devotees. A safe bet that's never actually boring.",
+    "must_try": "Wagyu beef stroganoff",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Valter's Osteria",
+    "address": "173 W Broadway (300 S), Salt Lake City, UT 84101",
+    "phone": "(801) 521-4563",
+    "website": "https://www.valtersosteria.com/",
+    "category": "dining",
+    "subcategory": "Italian",
+    "price": "$$$",
+    "rating": null,
+    "description": "Owner Valter Nassi works the room like a maestro, and the theatrics are half the joy of this downtown osteria. The pappardelle alla Valter, ribbons of pasta in a rich veal-and-mushroom sugo, is the dish regulars order on autopilot, but the burrata and veal chop are worthy detours. Warm, loud, and unabashedly hospitable, this is old-country charm done right.",
+    "must_try": "Pappardelle alla Valter",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Water Witch",
+    "address": "163 W 900 S, Salt Lake City, UT 84101",
+    "phone": "(801) 462-0967",
+    "website": "https://waterwitchbar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "This snug Central 9th hideout is the reason SLC's cocktail scene finally gets national ink — a 2025 James Beard finalist for Outstanding Bar. Grab a stool early because the room fills fast once the après crowd trickles down from the canyons. Tell the bartender what you're feeling and let them improvise; the seasonal menu rotates faster than a storm front over Little Cottonwood.",
+    "must_try": "the Mai Tai or a mezcal old fashioned",
+    "hours": "Mon-Wed 3pm-1am, Thu-Sun 12pm-1am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bar X",
+    "address": "155 E 200 S, Salt Lake City, UT 84111",
+    "phone": "(801) 355-2287",
+    "website": "https://barxslc.com/",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail lounge",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Slip through the door of this 1933 post-Prohibition institution and you're in the low-lit church of the classic cocktail. It's connected internally to sister spot Beer Bar, so you can bounce between a stirred Manhattan and a proper pilsner without ever hitting the sidewalk. Bartenders here take their spirits seriously and pour a mean mocktail too, handy when you've got a dawn tram to catch.",
+    "must_try": null,
+    "hours": "Tue-Sat 4pm-1am, Sun-Mon 6pm-1am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Red Door",
+    "address": "57 W 200 S, Salt Lake City, UT 84101",
+    "phone": "(801) 363-6030",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "martini bar",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Behind the unmistakable crimson entrance, this downtown mainstay has been slinging martinis since 2002 and still feels like the sleekest room in the city. Red walls, Che Guevara staring you down, and a specialty list deep enough to keep you parked all night. It's a romantic first-date play or a low-key nightcap before the powder alarm goes off.",
+    "must_try": "the Dirty Girl Scout",
+    "hours": "Wed-Sat 6pm-1am, Sun 6pm-11:45pm (call to confirm early week)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Copper Common",
+    "address": "111 E Broadway Ste 190, Salt Lake City, UT 84111",
+    "phone": "(801) 355-0543",
+    "website": "https://coppercommon.com/",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail bar & kitchen",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Exposed brick, warm light, and a bar program that treats natural wine, amari, and seasonal cocktails with equal reverence. This is where you land when the day's turns are done and you want oysters and a well-built drink instead of another beer in ski socks. The kitchen holds its own, so settle in for the full evening.",
+    "must_try": "fresh oysters paired with a seasonal amaro cocktail",
+    "hours": "Sun-Thu 5pm-12am, Fri-Sat 5pm-1am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fisher Brewing Company",
+    "address": "320 W 800 S, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://fisherbrewing.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Founded in 1884 and revived in 2017 as an employee-owned, community-first taproom, Fisher is the Granary District's beating heart. No pretense, rotating food trucks out front, and a semi-covered patio built for lingering. Order a fresh draft, make friends with the folks at the next table, and let the afternoon melt like spring corn snow.",
+    "must_try": "a fresh house ale or lager poured in the taproom",
+    "hours": "Mon-Thu 11am-11pm, Fri-Sat 11am-12am, Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Templin Family Brewing (TF Brewing)",
+    "address": "936 S 300 W, Salt Lake City, UT 84101",
+    "phone": "(385) 270-5974",
+    "website": "https://tfbrewing.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Kevin Templin turned a former Granary auto shop into SLC's temple of traditional lager, and the payoff is a crisp, clean pour that goes down easy after a canyon day. The patio is dog-friendly and sprawling, with German pretzels from local baker Vosen's and a rotating food truck to soak it all up. Bring the pup, claim a table, watch the sun drop behind the Oquirrhs.",
+    "must_try": "a traditional German-style lager with a Vosen's pretzel",
+    "hours": "Mon-Thu 12pm-11pm, Fri-Sat 12pm-12am, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beer Bar",
+    "address": "161 E 200 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://beerbarslc.com/",
+    "category": "bars_nightlife",
+    "subcategory": "beer hall",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Long communal tables, a wall of taps poured into proper glassware, and house-made brats sizzling in the back — Beer Bar is the loud, happy cousin next door to Bar X. This is your spot for a big group after the resort empties out, when everybody wants something different and nobody wants to leave. Utah beer culture, done right and done casual.",
+    "must_try": "a house bratwurst with a Utah craft beer",
+    "hours": "Daily, hours vary — call to confirm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bar Nohm",
+    "address": "165 W 900 S, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "izakaya cocktail bar",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "One of the most talked-about openings in recent years, Bar Nohm fuses izakaya-style small plates with serious mixology right next to Water Witch in Central 9th. It's the move when you want your cocktails and your dinner to come from the same set of very capable hands. Intimate, buzzy, and just adventurous enough to feel like a discovery.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Publik Coffee Roasters",
+    "address": "975 S West Temple, Salt Lake City, UT 84101",
+    "phone": "(801) 355-3161",
+    "website": "https://publikcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent roaster & cafe",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Publik roasts under 65 solar panels in a light-flooded space that's part cafe, part community living room — the kind of place where you can nurse a pour-over and plot the day's ascent. Since 2012 they've grown to several locations, but the West Temple roastery is the mothership. High ceilings, good light, better beans; altitude's easier to shrug off with one of these in hand.",
+    "must_try": "a solar-roasted single-origin pour-over",
+    "hours": "Mon-Fri 7am-6pm, Sat-Sun 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Caffe D'Bolla",
+    "address": "299 S Main St Ste 130, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://caffedbolla.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "siphon coffee bar & micro-roaster",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "This is a pilgrimage, not a pit stop. Founded in 2004, master roaster John Piquet runs Utah's first siphon bar, brewing single origins one theatrical glass vacuum at a time. There's no rushing it and that's the point — sit, watch the ritual, and taste coffee treated like a fine spirit. Utah's original micro-roaster, and still the most obsessive.",
+    "must_try": "a siphon-brewed single-origin coffee",
+    "hours": "Mon-Sat 10am-2pm & 3pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Three Pines Coffee",
+    "address": "165 S Main St, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://www.threepinescoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "specialty espresso cafe",
+    "price": "$",
+    "rating": "4.4",
+    "description": "A minimalist downtown haven a short stroll from Temple Square, pulling shots from Portland's Heart Roasters with baristas who genuinely nerd out over the craft. The seasonal specials lean on local ingredients and the space stays bright and unfussy — exactly the caffeine launchpad you want before a day of exploring or a drive up the canyon.",
+    "must_try": "an espresso pulled with Heart Roasters beans",
+    "hours": "Mon-Fri 7am-5pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Barba Coffee",
+    "address": "155 E 900 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://labarbacoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent roaster & cafe",
+    "price": "$",
+    "rating": "4.4",
+    "description": "A beloved local roaster with a community heart, La Barba's Maven District cafe pairs house-roasted beans with an easy, unpretentious vibe. Come for a clean cortado, stay for the neighborhood rhythm — this is where SLC's coffee faithful start their mornings. Quality in the cup without any of the fuss.",
+    "must_try": "a house-roasted cortado",
+    "hours": "Mon-Fri 7am-2pm, Sat-Sun 8am-2pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Copper Coffee Room",
+    "address": "179 W 900 S, Salt Lake City, UT 84101",
+    "phone": "(385) 222-7046",
+    "website": "https://bluecopperslc.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "craft roaster & cafe",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Blue Copper roasts five days a week and leans light, chasing the bright, sweet, distinct notes that get single-origin geeks talking. The Central 9th room is calm and considered, a fine perch to plan your Antelope Island run or just watch the neighborhood wake up. Peak freshness, minimal noise, maximum flavor.",
+    "must_try": "a light-roast pour-over",
+    "hours": "Mon-Fri 8am-3pm, Sat-Sun 9am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tulie Bakery",
+    "address": "863 E 700 S, Salt Lake City, UT 84102",
+    "phone": "(801) 883-9741",
+    "website": "https://tuliebakery.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "artisan bakery & cafe",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Tulie keeps it simple and extraordinary — croissants that rank among the best in the state, plus lemon tarts and morning buns that vanish by mid-morning. The 700 South cafe is a warm, buttery-smelling reward whether you're carbo-loading before a hike or slowing down on a chill Sunday. Get there early; the good stuff goes fast.",
+    "must_try": "the almond croissant or a morning bun",
+    "hours": "Daily 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Salt Lake Roasting Co.",
+    "address": "820 E 400 S, Salt Lake City, UT 84102",
+    "phone": "(801) 363-7572",
+    "website": "https://roasting.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "pioneer roaster & cafe",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A defining force in Utah coffee since 1981, John Bolton's roasting house doubles as a full-service cafe sourcing single origins from the Americas, Africa, and the Pacific Rim. It's an institution — generations of Salt Lakers have done homework, first dates, and morning rituals here. Grab a drip, a slice of something sweet, and a table by the window.",
+    "must_try": "a single-origin pour-over with a house dessert",
+    "hours": "Mon-Sat 6:30am-7pm, Sun closed",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Natural History Museum of Utah",
+    "address": "301 Wakara Way, Salt Lake City, UT 84108",
+    "phone": null,
+    "website": "https://nhmu.utah.edu",
+    "category": "attractions",
+    "subcategory": "museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Cantilevered into the foothills like a copper-clad rock outcrop, the Rio Tinto Center is where I send anyone who wants Utah's deep story before hitting the trails. Five floors climb from Great Salt Lake ecology up to a full hall of homegrown dinosaurs, and the Sky terrace hands you the whole valley on a clear day. Easy on the altitude, big on payoff.",
+    "must_try": "The Past Worlds dinosaur hall packed with Utah-dug specimens, then the rooftop Sky terrace view",
+    "hours": "10am-5pm daily, open until 9pm Wednesdays",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Utah Museum of Fine Arts",
+    "address": "410 Campus Center Drive, Salt Lake City, UT 84112",
+    "phone": null,
+    "website": "https://umfa.utah.edu",
+    "category": "attractions",
+    "subcategory": "museum",
+    "price": "$$",
+    "rating": null,
+    "description": "The University of Utah's fine-art vault holds roughly 15,000 objects spanning 5,000 years, and it's the calm, cool antidote to a hot day in the valley. Wander from ancient Mediterranean marble to African, Japanese and Mesoamerican galleries without ever repeating yourself. A civilized culture stop before or after a campus-side hike.",
+    "must_try": "The Great Hall's monumental works and the ancient Mediterranean collection",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Utah Museum of Contemporary Art",
+    "address": "20 S West Temple, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://utahmoca.org",
+    "category": "attractions",
+    "subcategory": "museum",
+    "price": "$",
+    "rating": null,
+    "description": "Formerly the Salt Lake Art Center, UMOCA is downtown's pulse-check on what artists are making right now — rotating shows from local, national and international names in a bright, walkable space steps from Temple Square. Donation-friendly and never stuffy. My go-to when the powder's thin and the culture's calling.",
+    "must_try": "The rotating main gallery exhibition — it turns over often, so there's always something new",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Church History Museum",
+    "address": "45 N West Temple St, Salt Lake City, UT 84150",
+    "phone": null,
+    "website": "https://history.churchofjesuschrist.org/landing/museum",
+    "category": "attractions",
+    "subcategory": "historic site",
+    "price": "$",
+    "rating": null,
+    "description": "With the Salt Lake Temple itself wrapped in scaffolding through the renovation, this free museum is the best window into the pioneer saga that built the Crossroads of the West. Wagon-trail artifacts, folk art and the founding-story galleries sit just off Temple Square. Quiet, thoughtful, and a fine anchor for the downtown heritage orbit.",
+    "must_try": "The pioneer-era artifacts and the ground-floor exhibit on the Salt Lake Temple's construction",
+    "hours": "Mon 10am-6pm, Tue-Thu 10am-8pm, Fri-Sat 10am-6pm, closed Sun",
+    "seasonal": "Salt Lake Temple grounds under renovation through 2026; new Temple Square Visitors' Center opens May 2026",
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "This Is the Place Heritage Park",
+    "address": "2601 E Sunnyside Ave, Salt Lake City, UT 84108",
+    "phone": null,
+    "website": "https://www.thisistheplace.org",
+    "category": "attractions",
+    "subcategory": "historic site",
+    "price": "$$",
+    "rating": null,
+    "description": "This is where Brigham Young called the valley home, and 450 acres of restored village bring 1800s Utah back to life — costumed interpreters, blacksmiths, a petting zoo and a little train for the kids. It's the living-history bookend to Temple Square, tucked against the mouth of Emigration Canyon. Great family burn-off before the mountains.",
+    "must_try": "Wandering Deseret Village with the costumed interpreters, then the mini-train loop",
+    "hours": null,
+    "seasonal": "Open year-round except Thanksgiving, Christmas and New Year's Day; summer is peak with full village programming",
+    "modes": [
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Butte Garden and Arboretum",
+    "address": "300 Wakara Way, Salt Lake City, UT 84108",
+    "phone": null,
+    "website": "https://redbuttegarden.org",
+    "category": "attractions",
+    "subcategory": "garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Utah's largest botanical garden climbs the foothills above the University with waterwise beds, a fragrance garden and miles of easy paths that ease you into the altitude. Come summer, the amphitheater lawn becomes the city's dreamiest outdoor concert seat — bring a blanket and a bottle. Romantic, restorative, and framed by the Wasatch.",
+    "must_try": "A summer evening at the Red Butte Garden Outdoor Concert Series on the amphitheater lawn",
+    "hours": null,
+    "seasonal": "Peak bloom spring through summer; outdoor concert series runs summer evenings",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tracy Aviary",
+    "address": "589 E 1300 S, Salt Lake City, UT 84105",
+    "phone": null,
+    "website": "https://tracyaviary.org",
+    "category": "attractions",
+    "subcategory": "garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Nestled inside leafy Liberty Park, this is one of the oldest public bird parks in the country — condors, owls, flamingos and a chatty lineup of parrots across eight walkable acres. The daily bird shows are a genuine crowd-pleaser and the shade is a gift on a scorching valley afternoon. Low-key, family-perfect, and easy on tired legs.",
+    "must_try": "The free-flight bird show and the Andean condor encounter",
+    "hours": "9am-5pm daily",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clark Planetarium",
+    "address": "110 S 400 W, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://clarkplanetarium.org",
+    "category": "attractions",
+    "subcategory": "science museum",
+    "price": "$",
+    "rating": null,
+    "description": "Free hands-on space exhibits at The Gateway make this an easy downtown detour, but the reason to come is the Hansen Dome Theatre — a full-dome digital projection system that puts the cosmos right over your head. Buy a show ticket, tilt back, and let the kids' jaws drop. Ideal rainy-day or too-hot-to-hike backup.",
+    "must_try": "A full-dome show in the Hansen Dome Theatre",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Utah Olympic Park",
+    "address": "3419 Olympic Parkway, Park City, UT 84098",
+    "phone": null,
+    "website": "https://utaholympiclegacy.org/location/utah-olympic-park/",
+    "category": "attractions",
+    "subcategory": "olympic legacy site",
+    "price": "$$",
+    "rating": null,
+    "description": "Forty minutes up the canyon in Park City sits the 2002 Games legacy park — one of only four bobsled/luge tracks in North America, six Nordic ski jumps, and a free Olympic museum. Summer flips it into a thrill park with ziplines, alpine slides and a public bobsled run. A worthy side trip when you want adrenaline with your history.",
+    "must_try": "The public bobsled experience, then the free George Eccles 2002 Olympic Winter Games Museum",
+    "hours": null,
+    "seasonal": "Winter: ski jumping and sliding sports; summer: ziplines, alpine slide, bobsled and the weekend Flying Ace All Stars aerial show",
+    "modes": [
+      "adventurer",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Delta Center",
+    "address": "301 W South Temple, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.deltacenter.com",
+    "category": "entertainment",
+    "subcategory": "sports and concert arena",
+    "price": "$$$",
+    "rating": null,
+    "description": "The beating heart of downtown's sports scene since 1991 — home to the NBA's Utah Jazz and, since 2024, the NHL's Utah Mammoth, who just made their first-ever playoff run. Between hoops, hockey and arena tours, there's rarely a dark night. It's mid-renovation into a full entertainment district, so expect construction energy and first-chair crowds.",
+    "must_try": "A Utah Jazz game in season, or catch the Utah Mammoth on the ice",
+    "hours": null,
+    "seasonal": "Jazz (NBA) Oct-Apr; Mammoth (NHL) Oct-Apr; arena under renovation through 2027",
+    "modes": [
+      "nightlife",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "George S. and Dolores Doré Eccles Theater",
+    "address": "131 S Main St, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://live-at-the-eccles.com",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$",
+    "rating": null,
+    "description": "The glassy Main Street showpiece is where touring Broadway lands in Salt Lake — a soaring lobby, a 2,500-seat hall, and a marquee that's hosted everything from Harry Potter and the Cursed Child to comedy headliners. Dress it up, grab a pre-show cocktail nearby, and make a downtown night of it. The city's grandest room for a big night out.",
+    "must_try": "A Broadway at the Eccles production in the Delta Hall",
+    "hours": null,
+    "seasonal": "2026-27 Broadway season includes Harry Potter and the Cursed Child (Sept-Oct 2026) and Beauty and the Beast (Dec 2026)",
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Janet Quinney Lawson Capitol Theatre",
+    "address": "50 W 200 S, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.saltlakecountyarts.org/venues/capitol-theatre/",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$",
+    "rating": null,
+    "description": "A restored 1913 vaudeville-era jewel with gilded balconies, this is the resident house for Ballet West and Utah Opera. The winter run of The Nutcracker here is a Salt Lake institution — Ballet West staged the very first American Nutcracker back in 1944. Old-world glamour, world-class dancing, right downtown.",
+    "must_try": "Ballet West's The Nutcracker in the winter season",
+    "hours": null,
+    "seasonal": "Ballet West's The Nutcracker runs in December; opera and ballet seasons span fall through spring",
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maurice Abravanel Hall",
+    "address": "123 W South Temple, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.saltlakecountyarts.org/venues/abravanel-hall/",
+    "category": "entertainment",
+    "subcategory": "concert hall",
+    "price": "$$$",
+    "rating": null,
+    "description": "Home of the Utah Symphony and one of the most acoustically celebrated halls in the country — think gold leaf, Bohemian crystal chandeliers and a shoebox design engineered for warmth. It sits right beside Temple Square, so a symphony night pairs beautifully with a downtown stroll. Pure culture, zero altitude penalty.",
+    "must_try": "A Utah Symphony performance under the crystal chandeliers",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Depot",
+    "address": "13 N 400 W, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.depotslc.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "Downtown's mid-size touring room, a 1,200-capacity hall inside the historic Union Pacific depot building next to The Gateway. National acts across every genre roll through with a packed calendar. Great sightlines, full bars, and an easy walk from downtown hotels — my pick when a bigger name is in town but you still want to feel the stage.",
+    "must_try": "Whatever national touring act is on the marquee — the 2026 calendar stays stacked",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kilby Court",
+    "address": "741 S Kilby Ct, Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.kilbycourt.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Salt Lake's longest-running all-ages venue is a tiny garage-and-gravel-courtyard institution where countless bands played their first tour stop. String lights, a firepit vibe, and zero pretension. This is where the city's real music heart beats — go catch a rising indie act before they outgrow the room.",
+    "must_try": "An all-ages indie show in the string-lit gravel courtyard",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Urban Lounge",
+    "address": "241 S 500 E, Salt Lake City, UT 84102",
+    "phone": null,
+    "website": "https://theurbanloungeslc.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "The gritty, beloved club where Salt Lake's nightlife and touring indie/hip-hop/electronic acts collide — dark, loud, and exactly the right amount of divey. Strong drinks, late sets, and a booking calendar that punches well above the room's size. When you want the after-dark pulse of the city, this is the door to walk through.",
+    "must_try": "A late set from a touring indie or hip-hop act",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wiseguys Comedy",
+    "address": "194 S 400 W, Salt Lake City, UT 84101",
+    "phone": "(801) 532-5233",
+    "website": "https://www.wiseguyscomedy.com/utah/salt-lake-city",
+    "category": "entertainment",
+    "subcategory": "comedy club",
+    "price": "$$",
+    "rating": null,
+    "description": "Utah's flagship comedy club sits inside The Gateway with two rooms — The Showroom and The Cabaret — running touring headliners and local open-mic nights. Grab a table, order a drink, and let someone else do the heavy lifting after a day on the slopes. Reliable laughs, easy downtown parking, first-chair energy for the night crowd.",
+    "must_try": "A weekend headliner set in The Showroom",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Antelope Island State Park",
+    "address": "4528 W 1700 S, Syracuse, UT 84075 (entrance; 7-mile causeway to the island)",
+    "phone": null,
+    "website": "https://stateparks.utah.gov/parks/antelope-island/",
+    "category": "outdoor_adventure",
+    "subcategory": "state park / wildlife viewing",
+    "price": "$",
+    "rating": null,
+    "description": "The Powder Hound's go-to when the canyons are baking: a 40-minute run north and a causeway across the Great Salt Lake drops you onto an island roamed by 500-700 free-range bison, pronghorn, and bighorn. It's a certified Dark Sky park too, so stick around after the drive back for stargazing you won't get downtown. Fifteen bucks a carload gets you a dozen-plus trails from strolls to the 11-mile backcountry.",
+    "must_try": "Summiting Frary Peak for 360-degree views over the lake and the Wasatch",
+    "hours": null,
+    "seasonal": "Bison year-round with a famous fall roundup; spring wildflowers; summer runs hot with brine flies near the shore",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Donut Falls Trail",
+    "address": "Donut Falls Trailhead, Big Cottonwood Canyon Rd, Salt Lake City, UT 84121",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "waterfall day hike",
+    "price": "$",
+    "rating": null,
+    "description": "First-chair energy, family-sized: three-quarters of a mile and about 420 feet of gain to a waterfall that pours the creek clean through a hole in the rock. It's the canyon hike I hand to visitors with kids in tow. Heads up from the Powder Hound - Big Cottonwood is protected watershed, so leave the pup at home on this one.",
+    "must_try": "Scrambling to the 'donut hole' where the creek drops through the rock arch",
+    "hours": null,
+    "seasonal": "Best late spring through fall; snow-covered and access-limited in winter; parking fills early on summer weekends",
+    "modes": [
+      "family",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lake Blanche Trail",
+    "address": "Mill B South Trailhead, Big Cottonwood Canyon Rd, Salt Lake City, UT 84121",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "alpine day hike",
+    "price": "$",
+    "rating": null,
+    "description": "When you want the canyon to make you earn it, this is the classic - roughly 7 miles round trip and a lung-burning climb to a glacial tarn sitting under the fin of Sundial Peak. The Powder Hound rates it a proper Wasatch moderate-to-hard; start early, pace yourself for the altitude, and bring more water than you think. No dogs - it's watershed.",
+    "must_try": "The final push to Lake Blanche beneath the Sundial Peak reflection",
+    "hours": null,
+    "seasonal": "Summer and fall are prime; upper trail holds snow well into early summer",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ensign Peak Nature Park",
+    "address": "Ensign Vista Dr, Salt Lake City, UT 84103",
+    "phone": null,
+    "website": "https://www.slc.gov/parks/parks-division/ensign-peak-nature-park/",
+    "category": "outdoor_adventure",
+    "subcategory": "urban foothills hike",
+    "price": "$",
+    "rating": null,
+    "description": "The Powder Hound's favorite quick hit right above downtown: under a mile round trip and about 370 feet up to a monument overlook where Brigham Young's party first sized up the valley in 1847. Sunset is unbeatable - the whole grid lights up below you. Dogs welcome on leash, and it ties into the Bonneville Shoreline Trail if you want to keep going.",
+    "must_try": "The short sunset climb to the stone monument overlook above the city",
+    "hours": null,
+    "seasonal": "March through October is best; exposed and shadeless, so go early on hot summer days",
+    "modes": [
+      "chill",
+      "adventurer",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Millcreek Canyon",
+    "address": "3800 S Mill Creek Canyon Rd, Salt Lake City, UT 84109",
+    "phone": null,
+    "website": "https://www.saltlakecounty.gov/parks-recreation/parks-trails/millcreek-canyon/",
+    "category": "outdoor_adventure",
+    "subcategory": "canyon trails / dog-friendly",
+    "price": "$",
+    "rating": null,
+    "description": "The Powder Hound's answer to 'but where can my dog run?' - unlike Big and Little Cottonwood, Millcreek isn't watershed, so pups are welcome, and on odd-numbered days they're off-leash. Five bucks a car (card only) at the fee station on the way out. Trails run from the flat, shaded Pipeline to the switchbacking climb up to Dog Lake.",
+    "must_try": "An odd-day off-leash hike up the switchbacks to Dog Lake",
+    "hours": null,
+    "seasonal": "Upper canyon road gated in winter (great for snowshoeing/fat-biking); full access late spring through fall",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cecret Lake / Albion Basin",
+    "address": "Albion Basin, top of Little Cottonwood Canyon, Alta, UT 84092",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "alpine wildflower hike",
+    "price": "$",
+    "rating": null,
+    "description": "At 9,500 feet above Alta and Snowbird, this is the Powder Hound's summer secret (spelled 'Cecret,' locals will tell you). Come mid-July to early August the basin explodes with 120-plus wildflower species, and a short walk lands you at a crystal tarn under Devils Castle. Twelve-dollar summer road fee, and the lot fills by 7am - go early, bring bug spray, watch for moose.",
+    "must_try": "The peak-bloom wildflower loop through Albion Basin to the lake",
+    "hours": null,
+    "seasonal": "Summer road opens roughly July; wildflowers peak mid-July to early August; closed/snowbound the rest of the year",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jordan River Parkway Trail & Water Trail",
+    "address": "Jordan River Parkway, Salt Lake City, UT (Gadsby/North Temple boat access at ~1000 W North Temple)",
+    "phone": null,
+    "website": "https://www.slc.gov/parks/parks-division/jordan-river-parkway-trail/",
+    "category": "outdoor_adventure",
+    "subcategory": "urban river trail / paddling",
+    "price": "$",
+    "rating": null,
+    "description": "The longest paved urban trail in the country - 60-plus miles following the Jordan River from Utah Lake up to the Great Salt Lake, with the SLC stretch running 45 blocks. The Powder Hound's flat-day pick for a mellow bike or run, and there's a legit 8-mile non-motorized water trail for kayaks and paddleboards. Free official put-ins at North Temple and 1800 North.",
+    "must_try": "Paddling a quiet stretch of the Jordan River Water Trail",
+    "hours": null,
+    "seasonal": "Ridable/walkable year-round; paddle in higher water spring-fall and watch for downed-tree debris",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bonneville Salt Flats",
+    "address": "I-80 Exit 4 (Bonneville Speedway), Wendover, UT 84083",
+    "phone": null,
+    "website": "https://www.blm.gov/visit/bonneville-salt-flats",
+    "category": "outdoor_adventure",
+    "subcategory": "natural area / side trip",
+    "price": "$",
+    "rating": null,
+    "description": "Worth the roughly 1.5-hour I-80 run west: 30,000 acres of blinding-white salt crust stretching flat to the horizon, the same ground where land-speed records get set. The Powder Hound says walk out from the BLM rest-area path, don't drive on soft or wet salt, and bring sunglasses plus water - there's zero shade out there. No entrance fee on public land.",
+    "must_try": "Standing on the mirror-flat salt at the Bonneville Speedway portal",
+    "hours": null,
+    "seasonal": "Driest and firmest June-October; flooded and reflective in winter/spring; access limited during permitted racing events (roughly late June-early Sept)",
+    "modes": [
+      "adventurer",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "White Pine Touring",
+    "address": "1790 Bonanza Dr, Park City, UT 84060",
+    "phone": null,
+    "website": "https://whitepinetouring.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "guide service / gear rental",
+    "price": "$$$",
+    "rating": null,
+    "description": "About 40 minutes over the hill in Park City, this is the Powder Hound's trusted outfitter for going beyond the resort ropes: certified guides for backcountry and Nordic skiing, snowshoeing, fat-biking, rock climbing, and mountain biking across 450 miles of Park City trail and the neighboring Uintas. They rent the AT and telemark setups too, so you don't have to own the whole kit.",
+    "must_try": "A guided backcountry ski tour into the Western Uinta Mountains",
+    "hours": null,
+    "seasonal": "Backcountry/Nordic skiing and snowshoe tours in winter; guided hiking, climbing and biking in summer",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Utah Mountain Adventures",
+    "address": "Salt Lake City, UT (Wasatch Range guide service)",
+    "phone": null,
+    "website": "https://www.utahmountainadventures.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "mountain guide service / courses",
+    "price": "$$$",
+    "rating": null,
+    "description": "A full-spectrum Wasatch guide outfit running since 1993 - the Powder Hound points serious folks here for backcountry ski tours, avalanche education, rock and ice climbing, canyoneering, and mountaineering. Twenty-five-plus professional guides who actually live and ski these canyons. If you want to learn to read the snowpack before you chase powder off-piste, start with their avy course.",
+    "must_try": "An intro-to-backcountry ski tour or a Level 1 avalanche course",
+    "hours": null,
+    "seasonal": "Ski touring, snow climbing and avalanche courses in winter; rock climbing, canyoneering and mountaineering in summer",
+    "modes": [
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Snowbird Ski and Summer Resort",
+    "address": "9385 S Snowbird Center Dr, Snowbird, UT 84092 (Little Cottonwood Canyon)",
+    "phone": null,
+    "website": "https://www.snowbird.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "ski resort / mountain recreation",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The big red-and-blue tram is the Powder Hound's shorthand for Little Cottonwood: it climbs 2,900 vertical feet on a 1.6-mile cable to Hidden Peak at 11,000 feet, running for skiers in winter and foot passengers for the view the rest of the year. Summer stacks on a mountain coaster, alpine slide, ropes course, and chairlift rides. Mind canyon traffic and the altitude up top.",
+    "must_try": "The open-air Aerial Tram to Hidden Peak at 11,000 feet",
+    "hours": null,
+    "seasonal": "Deep-winter powder skiing; 15-plus summer activities (tram, coaster, alpine slide) - note lift-served skiing was paused for the 2025/26 season while the tram kept running",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alta Ski Area",
+    "address": "Alta, UT 84092 (top of Little Cottonwood Canyon)",
+    "phone": null,
+    "website": "https://www.alta.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "ski resort",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Holy ground for the Powder Hound - 546 inches of annual snowfall and a skiers-only ethos that keeps the lines honest (no snowboards, by tradition). Tucked at the very top of Little Cottonwood, Alta is a powder day pilgrimage. Book your parking reservation Friday-Sunday and holidays, check UDOT for canyon closures, and ride the bus when the snow really flies.",
+    "must_try": "A powder morning working the High Traverse",
+    "hours": null,
+    "seasonal": "Winter ski season; parking reservations required weekends/holidays; famed for late-season powder",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Round Valley Open Space",
+    "address": "Round Valley (Sunny Slopes Trailhead), Park City, UT 84060",
+    "phone": null,
+    "website": "https://parkcitytrails.org/pct-area/round-valley/",
+    "category": "outdoor_adventure",
+    "subcategory": "mountain biking / trail system",
+    "price": "$",
+    "rating": null,
+    "description": "Free, sprawling, and endlessly flowy - the Powder Hound sends beginner and intermediate riders to Round Valley for 30-plus miles of buttery singletrack and doubletrack just outside Park City. Soft-surface trails, gentle grades, and enough options to keep families and pedal-mashers alike happy. Six trailheads; Sunny Slopes is the easy in.",
+    "must_try": "Flowy singletrack laps out of the Sunny Slopes trailhead",
+    "hours": null,
+    "seasonal": "Biking/hiking late May through October; Nordic skiing on groomed sections in winter",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wilderness Trout Expeditions",
+    "address": "Salt Lake City, UT (guided trips on the Provo & Weber rivers)",
+    "phone": "801-915-9292",
+    "website": "https://flyfishingtripsutah.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "fly fishing guide / outfitter",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The Powder Hound trades ski poles for a fly rod come summer, and this year-round outfitter runs the blue-ribbon water within an hour of the city - the Middle and Lower Provo (3,500 wild browns per mile), the Weber, and hidden little streams. Full- and half-day wade trips include waders, boots, rods, reels, and flies, so you can show up with nothing but a fishing license.",
+    "must_try": "A wade trip on the Middle Provo's blue-ribbon brown trout water",
+    "hours": null,
+    "seasonal": "Year-round guiding; winter tailwater fishing on the Provo, prime hatches spring through fall",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Utah Outdoor Adventures (Park City Rafting)",
+    "address": "Weber River launch, Henefer, UT 84033 (about 1 hr from downtown SLC)",
+    "phone": null,
+    "website": "https://www.utahoutdooradventures.com/tour/park-city-rafting-trips/",
+    "category": "outdoor_adventure",
+    "subcategory": "whitewater rafting operator",
+    "price": "$$",
+    "rating": null,
+    "description": "For a warm-weather splash, the Powder Hound points you to the Weber River - Class II+ water that's playful enough for families and beginners but with a few honest rapids to keep it fun. This outfitter launches from Henefer, roughly an hour from downtown, for a 9.5-mile, two-hours-plus float. Around $80 an adult, $60 a kid.",
+    "must_try": "The Class II+ Weber River float through the Henefer canyon",
+    "hours": null,
+    "seasonal": "Summer rafting season (roughly late spring through late summer), water-level dependent",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cliff Lodge & Spa",
+    "address": "9320 S Cliff Lodge Dr, Snowbird, UT 84092",
+    "phone": "(801) 933-2222",
+    "website": "https://www.snowbird.com/lodging-amenities/lodging/cliff-lodge/",
+    "category": "lodging",
+    "subcategory": "ski_resort_hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "Snowbird's flagship: a slopeside monolith of glass and concrete where every room stares straight down glacier-carved Little Cottonwood. This is the ski-out/ski-in play at the base of the tram — when the canyon road interlocks and they close the gate for avalanche control, you're already home. Check rates early for powder weekends; the Cliff books first.",
+    "must_try": "A soak in the 10th-floor rooftop hot tub with the storm rolling over Hidden Peak",
+    "hours": null,
+    "seasonal": "Winter ski peak; the tram-side base also runs summer four-season stays",
+    "modes": [
+      "chill",
+      "romantic",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cliff Spa at Snowbird",
+    "address": "9320 S Cliff Lodge Dr (9th & 10th floors), Snowbird, UT 84092",
+    "phone": "(801) 933-2222",
+    "website": "https://www.snowbird.com/lodging-amenities/the-cliff-spa/spa-overview/",
+    "category": "wellness_spa",
+    "subcategory": "resort_spa",
+    "price": "$$$",
+    "rating": null,
+    "description": "Perched on the top two floors of the Cliff Lodge with 21 treatment rooms, a yoga studio, and a rooftop heated pool ringed by firepits. After a leg-burning day on Snowbird's steeps, this is where the Powder Hound sends you to loosen the quads — and altitude tip, book the deep-tissue and hydrate hard, the elevation up here bites first-timers. Book treatments ahead on holiday weeks.",
+    "must_try": "A massage followed by the rooftop hot tub as the canyon light goes alpenglow",
+    "hours": null,
+    "seasonal": "Year-round; busiest during winter ski peak",
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Snowbird Aerial Tram",
+    "address": "Snowbird Center, Little Cottonwood Canyon (UT-210), Snowbird, UT 84092",
+    "phone": "(801) 933-2222",
+    "website": "https://www.snowbird.com",
+    "category": "entertainment",
+    "subcategory": "scenic_tram",
+    "price": "$$",
+    "rating": null,
+    "description": "Since 1971 this red-and-blue box has hauled skiers 2,900 vertical feet up a 1.6-mile cable to the 11,000-foot crown of Hidden Peak in about ten minutes. Winter it's your express to Mineral Basin's untracked; summer it's the lazy way to a wildflower ridgeline and a view down the whole canyon. First-chair energy says ride it early — the line stacks up by mid-morning on a bluebird day.",
+    "must_try": "The ten-minute climb to Hidden Peak's summit deck at 11,000 feet",
+    "hours": null,
+    "seasonal": "Winter lift access; summer sightseeing and hiking access",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alta's Rustler Lodge",
+    "address": "Rustler Lodge, Little Cottonwood Canyon (UT-210), Alta, UT 84092",
+    "phone": null,
+    "website": "https://www.rustlerlodge.com/",
+    "category": "lodging",
+    "subcategory": "ski_resort_hotel",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Ranked Alta's #1 lodging on TripAdvisor for years running, the Rustler is the old-guard all-inclusive: ski-in/ski-out to Alta's lifts (and a short bump to Snowbird), daily breakfast and a genuinely serious four-course dinner from a chef who's been running the kitchen since the '80s. Skiers-only Alta means no boards — a purist's mountain. See availability well ahead; the canyon's top-of-road rooms move fast.",
+    "must_try": "The full-board gourmet dinner in the view-forward dining room after a powder day",
+    "hours": null,
+    "seasonal": "Winter ski season primary; check summer availability",
+    "modes": [
+      "romantic",
+      "chill",
+      "adventurer",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alta Lodge",
+    "address": "210 UT-210, Alta, UT 84092",
+    "phone": null,
+    "website": "https://www.altalodge.com/",
+    "category": "lodging",
+    "subcategory": "historic_ski_lodge",
+    "price": "$$$",
+    "rating": null,
+    "description": "The soul of the canyon: opened in 1940 as the first ski lodge in Little Cottonwood, still family-run since 1959, grown from 12 rooms to 57 with a Bauhaus-lineage East Wing. Winter stays fold in full breakfast, afternoon tea, and a four-course dinner with Mt. Superior filling the windows. Locals sneak up for the Sunday brunch with live jazz — that's the move the Powder Hound tips you off to.",
+    "must_try": "Sunday brunch with live jazz and a Mt. Superior view",
+    "hours": null,
+    "seasonal": "Winter lodging; summer weddings, retreats and lodging June-October",
+    "modes": [
+      "culture",
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Snowpine Lodge",
+    "address": "10420 Little Cottonwood Rd, Alta, UT 84092",
+    "phone": null,
+    "website": "https://www.snowpine.com/",
+    "category": "lodging",
+    "subcategory": "luxury_ski_lodge",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Alta's polished luxury option, rebuilt into a stone-and-timber showpiece with ski-in/ski-out to the Albion and Sunnyside lifts. Under one roof you've got Swen's fine dining, the live-music Gulch Pub, the Stillwell Spa with a waterfall-fed stone grotto, and a heated outdoor pool that steams against the snowbanks. When the canyon's on interlodge lockdown, this is a very comfortable place to be stuck. Check rates for ski-week packages.",
+    "must_try": "A soak in The Grotto, the stone-enclosed private jacuzzi with hydrotherapy jets",
+    "hours": null,
+    "seasonal": "Winter ski peak; open summer as a Wasatch basecamp",
+    "modes": [
+      "romantic",
+      "chill",
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brighton Resort",
+    "address": "12601 E Big Cottonwood Canyon Rd, Brighton, UT 84121",
+    "phone": null,
+    "website": "https://www.brightonresort.com/",
+    "category": "entertainment",
+    "subcategory": "ski_area_night_skiing",
+    "price": "$$",
+    "rating": null,
+    "description": "Big Cottonwood's beloved local hill, 35 minutes from downtown and famously the place Utahns learn to ride. Its ace is night skiing — 200-plus acres and 32 lighted runs glowing Tuesday through Saturday, early December into March, roughly 4 to 9 p.m. Ikon-friendly and unpretentious, with a genuine snowboarder soul. Ride the Cottonwood ski bus up on a snow day and skip the notorious canyon-road crawl.",
+    "must_try": "A few laps under the lights on the 32 lit runs after the day crowd clears out",
+    "hours": "Night skiing approx. 4-9 p.m. Tue-Sat, early Dec through March (seasonal)",
+    "seasonal": "Winter ski peak; night skiing is the signature season draw",
+    "modes": [
+      "adventurer",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brighton Lodge",
+    "address": "12601 E Big Cottonwood Canyon Rd, Brighton, UT 84121",
+    "phone": null,
+    "website": "https://www.brightonresort.com/",
+    "category": "lodging",
+    "subcategory": "ski_resort_lodge",
+    "price": "$$",
+    "rating": null,
+    "description": "The canyon's most wallet-friendly slopeside sleep: a compact 20-unit lodge running from bunk-style dorm rooms up to suites, steps from Brighton's lifts and the night-ski lights. This is the budget powder pilgrim's basecamp — no frills, all access, hot tub included. See availability early for storm cycles; twenty rooms don't go far when the Cottonwoods light up.",
+    "must_try": "Rolling out of a dorm room straight onto a first-chair powder lap",
+    "hours": null,
+    "seasonal": "Winter ski peak",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Molly Green's",
+    "address": "12601 E Big Cottonwood Canyon Rd, Brighton, UT 84121",
+    "phone": null,
+    "website": "https://www.brightonresort.com/mountain-dining/molly-greens",
+    "category": "bars_nightlife",
+    "subcategory": "apres_ski_bar",
+    "price": "$$",
+    "rating": null,
+    "description": "The A-frame's crown jewel and Big Cottonwood's classic apres den: taxidermy on the walls, a giant fireplace, big communal tables, and picture windows onto the runs. Family-friendly sit-down downstairs, adults-only bar up top. Peel off the boots, order something warm, and let the canyon traffic thin out before you point it downhill. Book a table on a busy Saturday.",
+    "must_try": "A warm-up drink by the fireplace on the second-floor adults-only bar after last chair",
+    "hours": null,
+    "seasonal": "Winter ski peak",
+    "modes": [
+      "nightlife",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Inn at Solitude",
+    "address": "12000 Big Cottonwood Canyon Rd, Solitude, UT 84121",
+    "phone": "(385) 282-7155",
+    "website": "https://www.solitudemountain.com/plan-your-trip/lodging/the-inn-at-solitude",
+    "category": "lodging",
+    "subcategory": "ski_village_hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The heart of Solitude's pedestrian village, and true to the name it's the quiet one — a car-free base where you ski to your door and dinner's a stroll across the plaza. St. Bernard's fireplace and the resort's après scene are right downstairs. Solitude tends to fly under the radar of the Little Cottonwood crowds, which is exactly why the Powder Hound loves sending you here. Check rates for midweek quiet.",
+    "must_try": "A ski-in return to the village followed by dinner steps from your room",
+    "hours": null,
+    "seasonal": "Winter ski peak; open year-round with summer village activity",
+    "modes": [
+      "romantic",
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Yurt at Solitude",
+    "address": "12000 Big Cottonwood Canyon Rd, Solitude, UT 84121",
+    "phone": "(385) 282-7155",
+    "website": "https://www.solitudemountain.com/mountain-and-village/dining/the-yurt",
+    "category": "dining",
+    "subcategory": "fine_dining_experience",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Utah's most theatrical on-mountain meal. You snowshoe a guided half-mile through the dark timber (or arrange a motorized ride) to a lantern-lit yurt for a four-course prix-fixe the chef decides that morning from local ingredients. Three-and-a-half hours, start to finish, leaving the village around 6 and back by 9:30. Book a table well ahead — it runs Thursday through Sunday in season and sells out.",
+    "must_try": "The daily four-course chef's prix fixe after the snowshoe in",
+    "hours": "Dinner Thu-Sun, approx. Dec 11-Apr 5 plus select holidays (seasonal)",
+    "seasonal": "Winter only — snowshoe-access dinner is the whole point",
+    "modes": [
+      "foodie",
+      "romantic",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Honeycomb Grill",
+    "address": "12000 Big Cottonwood Canyon Rd, Bldg 4, Solitude, UT 84121",
+    "phone": null,
+    "website": "https://www.solitudemountain.com/mountain-and-village/dining/honeycomb-grill",
+    "category": "dining",
+    "subcategory": "american_bistro",
+    "price": "$$",
+    "rating": null,
+    "description": "Solitude Village's only sit-down lunch and the easy midday call — casual contemporary American with locally sourced plates and big mountain windows. The move is the bison burger with a beer, boots still on, before you head back out. Steps from the lifts, so it doubles as the natural regroup spot when half your crew wants a break and the other half wants one more lap.",
+    "must_try": "The bison burger over epic mountain views",
+    "hours": null,
+    "seasonal": "Winter ski peak; check village hours off-season",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Bernard's",
+    "address": "12000 Big Cottonwood Canyon Rd (The Inn at Solitude), Solitude, UT 84121",
+    "phone": null,
+    "website": "https://www.solitudemountain.com/mountain-and-village/dining",
+    "category": "dining",
+    "subcategory": "european_alpine",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tucked inside The Inn at Solitude behind a roaring fireplace, St. Bernard's plays the Alpine card straight — wooden beams, vintage ski gear, and a European-leaning table where raclette and duck confit share the room with a Wine Spectator-awarded list. This is the grown-up dinner of the Big Cottonwood cluster. Book a table, especially on a holiday week when the village fills.",
+    "must_try": "The raclette — melted cheese over potatoes and cured meats by the fire",
+    "hours": null,
+    "seasonal": "Winter ski peak",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "UTA Ski Bus (Cottonwood Canyons Service)",
+    "address": "Cottonwood Canyons park-and-ride lots to Alta, Snowbird, Brighton & Solitude, Salt Lake County, UT",
+    "phone": null,
+    "website": "https://www.rideuta.com/Rider-Info/Ski-Service",
+    "category": "services",
+    "subcategory": "ski_shuttle_transit",
+    "price": "$",
+    "rating": null,
+    "description": "The Powder Hound's number-one canyon hack: park at a valley lot and let the ski bus take the wheel up the notorious Cottonwood grades. Five bucks one-way (many Ikon, Alta, Snowbird, Brighton and Solitude passes ride free), serving all four resorts, with buses every 15 minutes on the 3-6 p.m. downhill rush. On a powder morning the road is a parking lot and the gate can slam shut — the bus is how you actually get first chair.",
+    "must_try": "Skipping the canyon-road interlock line entirely on a storm morning",
+    "hours": "Peak return service every ~15 min 3-6 p.m.; 30-60 min otherwise (winter season)",
+    "seasonal": "Winter ski season only",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Powder House Ski Shop (Cottonwood)",
+    "address": "Little Cottonwood Canyon / Alta base area, Salt Lake City area, UT",
+    "phone": "(801) 742-2400",
+    "website": "https://www.powderhouseskishop.com/alta-ski-demos-and-rentals",
+    "category": "outdoor_adventure",
+    "subcategory": "ski_rental_demo",
+    "price": "$$",
+    "rating": null,
+    "description": "Billed as Utah's oldest ski shop, Powder House kits out the Cottonwood crowd with current-season demos and high-performance rentals — the right call when you're chasing Alta and Snowbird's deep days and want a fatter ski underfoot than your home quiver. Boot fitting is their craft. Reserve gear ahead of a powder cycle so you're clicked in and moving while everyone else waits in line.",
+    "must_try": "Demoing a current-season powder ski before a Little Cottonwood storm day",
+    "hours": null,
+    "seasonal": "Winter ski peak",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "The King's English Bookshop",
+    "address": "1511 S 1500 E, Salt Lake City, UT 84105",
+    "phone": "(801) 484-9100",
+    "website": "https://www.kingsenglish.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "A rambling warren of book-lined rooms at the cozy 15th & 15th corner, this SLC institution has been hand-selling since 1977. Locals stop in after a canyon day for a signed first edition and a staff pick you'd never find on an algorithm. Fair warning at altitude: you'll lose an hour in here easy.",
+    "must_try": "Grab a staff-recommended signed edition and browse the deep children's room",
+    "hours": "Mon-Sat 10am-6pm, Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Weller Book Works",
+    "address": "607 Trolley Sq, Salt Lake City, UT 84102",
+    "phone": "(801) 328-2586",
+    "website": "https://www.wellerbookworks.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Family-run since 1929 and tucked into the old Trolley Square barns, Weller's is the largest indie in town: new titles on the main floor, a mezzanine of rare and used treasure above. When a storm socks in the Cottonwoods, this is where the powder crowd waits it out with a smart novel.",
+    "must_try": "Head upstairs to the rare and antiquarian room",
+    "hours": "Mon-Thu 10am-8pm, Fri-Sat 10am-9pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ken Sanders Rare Books",
+    "address": "209 E 500 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://www.kensandersbooks.com/",
+    "category": "shopping",
+    "subcategory": "antiquarian bookstore",
+    "price": "$$$",
+    "rating": null,
+    "description": "Now nestled inside The Leonardo, Ken Sanders is the desert West's keeper of the strange and beautiful: old maps, ephemera, first editions, and a deep Edward Abbey/Everett Ruess canon. A Powder Hound favorite for the shelves that tell you how the Crossroads of the West got built, one broadside at a time.",
+    "must_try": "Hunt for vintage Utah maps and Edward Abbey ephemera",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Under the Umbrella Bookstore & Cafe",
+    "address": "511 W 200 S, Ste 120, Salt Lake City, UT 84101",
+    "phone": "(801) 922-0923",
+    "website": "https://www.undertheumbrellabookstore.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Utah's only queer bookstore, and one of the few in the whole country, this bright little downtown shop pairs shelves of LGBTQ+ voices with a cafe counter. It's a warm, welcoming basecamp for readers and community events alike, tucked into the Granary-adjacent west side.",
+    "must_try": "Pick up a local queer zine and settle in with a cafe drink",
+    "hours": "Tue-Fri 12pm-8pm, Sat-Sun 11am-6pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Central Book Exchange",
+    "address": "2017 S 1100 E, Salt Lake City, UT 84106",
+    "phone": "(801) 485-3913",
+    "website": "https://www.central-bookexchange.com/",
+    "category": "shopping",
+    "subcategory": "used bookstore",
+    "price": "$",
+    "rating": null,
+    "description": "Feeding Sugar House book nerds since 1968, this cheerful used shop packs 40,000-plus hand-curated titles onto its shelves. Best trick: trade in your finished paperbacks for store credit and walk out with a fresh stack for next to nothing. Perfect low-key stop on a rest day off the slopes.",
+    "must_try": "Bring books to trade for credit and dig the sci-fi and fiction stacks",
+    "hours": "Mon-Fri 10am-7pm, Sat 10am-5:30pm, Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Diabolical Records",
+    "address": "238 S Edison St, Salt Lake City, UT 84111",
+    "phone": "(801) 792-9204",
+    "website": "https://diabolicalrecords.com/",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "On sleepy Edison Street downtown, this fiercely independent shop is the beating heart of SLC's underground music scene: crates of punk, experimental, and local Utah pressings, plus intimate in-store shows. The owners live and breathe this stuff, so ask what's spinning and follow the thread.",
+    "must_try": "Flip through the local Utah punk 7-inches and catch an in-store set",
+    "hours": "Mon-Fri 12pm-6pm, Sat 12pm-3pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fountain Records",
+    "address": "202 E 500 S, Salt Lake City, UT 84111",
+    "phone": null,
+    "website": "https://fountainrecordsslc.com/",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A newer co-op-style spot that doubles as a hangout: thoughtfully curated vinyl and cassettes up front, synthesizers and gear in back, plus DJ nights, listening sessions, and release parties. Come for a record, stay for whatever's happening that evening on the downtown edge.",
+    "must_try": "Browse the synths and time your visit to a DJ or listening night",
+    "hours": "Tue-Fri 12pm-7pm, Sat 9am-6pm, Sun 9am-4pm, Mon 9am-3pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Randy's Records",
+    "address": "157 E 900 S, Salt Lake City, UT 84111",
+    "phone": "(801) 532-4413",
+    "website": "https://randysrecords.com/",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "Utah's longest-running independent vinyl dealer, slinging wax since 1978 with the state's biggest selection of new and used LPs. It's a proper crate-digger's cathedral just south of downtown, best explored slow with a coffee in hand. The jazz and rock bins reward patience.",
+    "must_try": "Dig the deep used jazz and rock bins for a sleeper find",
+    "hours": "Tue-Sun 12pm-6pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "iconoCLAD",
+    "address": "414 E 300 S, Salt Lake City, UT 84111",
+    "phone": "(385) 432-3600",
+    "website": "https://iconoclad.com/",
+    "category": "shopping",
+    "subcategory": "consignment boutique",
+    "price": "$$",
+    "rating": null,
+    "description": "Multiple-time winner of Best Boutique in Utah, this downtown consignment shop is where SLC style gets weird in the best way: festival and rave fits, goth and alt labels, vintage denim, and secondhand finds for all. Sellers keep 50% cash, and yes, there are shop cats.",
+    "must_try": "Score a festival or rave fit and say hi to the shop cats",
+    "hours": "Mon-Sat 11am-8pm, Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Decades Vintage Clothing",
+    "address": "627 S State St, Salt Lake City, UT 84111",
+    "phone": "(801) 537-1357",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "vintage clothing",
+    "price": "$$",
+    "rating": null,
+    "description": "A phantasmagoria of history and glam on State Street, Decades is hardcore-vintage territory: fishbowls of silk scarves, racks of well-preserved gowns, mid-century cashmere. Budget real time to sift. This is the immigrant-kitchen-lined State Street corridor's most stylish detour.",
+    "must_try": "Sift the mid-century cashmere and silk scarf fishbowls",
+    "hours": "Mon-Sat 11am-6pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hip & Humble",
+    "address": "1043 E 900 S, Salt Lake City, UT 84105",
+    "phone": "(801) 467-3130",
+    "website": "https://hipandhumble.com/",
+    "category": "shopping",
+    "subcategory": "gift and home boutique",
+    "price": "$$",
+    "rating": null,
+    "description": "The friendly anchor of the walkable 9th & 9th district, this locally owned boutique overflows with candles, jewelry, home decor, and the kind of thoughtful gifts you didn't plan to buy but absolutely will. An easy, cheerful browse between neighborhood coffee stops.",
+    "must_try": "Pick up a locally made candle or a small-batch gift find",
+    "hours": "Mon-Sat 10am-7pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Koo De Ker",
+    "address": "177 E 900 S, Ste B, Salt Lake City, UT 84111",
+    "phone": "(801) 359-4870",
+    "website": "https://www.koodeker.com/",
+    "category": "shopping",
+    "subcategory": "women's fashion boutique",
+    "price": "$$",
+    "rating": null,
+    "description": "A chic, long-running women's boutique in the Central Ninth pocket, Koo De Ker curates contemporary labels and accessories with a genuinely personal touch. Small enough that you'll get real styling help, dialed enough that you'll leave with something you keep for years.",
+    "must_try": "Ask the staff to pull a head-to-toe look from the contemporary racks",
+    "hours": "Mon-Sat 10am-6pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vantage",
+    "address": "774 E 800 S, Salt Lake City, UT 84102",
+    "phone": "(385) 315-1848",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "vintage clothing",
+    "price": "$$",
+    "rating": null,
+    "description": "In the walkable 9th & 9th grid, Vantage is the go-to for rugged, real-deal vintage: sun-bleached Carhartt, 50-year-old military fatigues, broken-in cowboy boots, and the perfect pair of vintage Levi's. Curated 80s and 90s pieces plus local handmade goods round it out.",
+    "must_try": "Track down a pair of vintage Levi's or a broken-in Carhartt jacket",
+    "hours": "Daily 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Downtown Farmers Market",
+    "address": "350 W 300 S (Historic Pioneer Park), Salt Lake City, UT 84101",
+    "phone": null,
+    "website": "https://www.slcfarmersmarket.org/",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "Saturday mornings at Pioneer Park, 250-plus vendors turn downtown into a summer ritual: Utah peaches and produce, hot-food stalls, makers, and live music, with roughly 10,000 neighbors milling through. Note the 2026 park revamp shifted most vendors to the southern edge, so wander in that direction.",
+    "must_try": "Load up on late-summer Utah peaches and hit the hot-food vendors",
+    "hours": "Saturdays 8am-2pm, June 6-October 24 (2026 season)",
+    "seasonal": "Summer/fall only, Jun-Oct; 2026 layout altered by Pioneer Park renovation",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wasatch Touring",
+    "address": "702 E 100 S, Salt Lake City, UT 84102",
+    "phone": "(801) 359-9361",
+    "website": "https://www.wasatchtouring.com/",
+    "category": "services",
+    "subcategory": "outdoor gear rental",
+    "price": "$$$",
+    "rating": null,
+    "description": "SLC's premier bike, kayak, and backcountry ski shop, outfitting locals since 1972. This is your basecamp for the real deal: skin up a Cottonwood skin track in winter, paddle or pedal in summer. The old-guard staff know every canyon and will steer you right on conditions.",
+    "must_try": "Rent a backcountry ski touring setup or a summer kayak",
+    "hours": null,
+    "seasonal": "Backcountry ski gear in winter; bike and kayak rentals in summer",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "evo Salt Lake",
+    "address": "660 S 400 W, Ste 300, Salt Lake City, UT 84101",
+    "phone": "(385) 379-3172",
+    "website": "https://www.evo.com/locations/salt-lake-city",
+    "category": "services",
+    "subcategory": "ski and bike rental",
+    "price": "$$$",
+    "rating": null,
+    "description": "Inside the revamped Campus warehouse in the Granary District, evo is a one-stop for the powder-and-pedal set: full-service ski/snowboard rentals and tuning in winter, a friendly bike shop and rentals in summer, all under one big roof. Easy grab-and-go on your way to the canyons.",
+    "must_try": "Book a demo ski/snowboard rental in winter or a mountain bike in summer",
+    "hours": "Mon-Thu 11am-7pm, Fri 10am-7pm, Sat 10am-6pm, Sun 10am-5pm",
+    "seasonal": "Ski and snowboard rentals in winter; bike rentals in summer",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  }
+]

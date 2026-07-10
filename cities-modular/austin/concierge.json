@@ -1,0 +1,888 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "start",
+      "menu",
+      "howdy",
+      "begin",
+      "yo"
+    ],
+    "text": "Well howdy — pull up a chair. Name's The Armadillo, same as the old World Headquarters that taught this town to keep it weird before weird was a bumper sticker. I've stood in enough brisket lines to have the patience of a saint and none of the pretension. Here's how I work: you tell me what you're chasing and I point you at the real thing, no velvet rope, no tourist trap. So — you hungry, thirsty, sweaty and needing water, hunting music, chasing art, or piling the family in the car? Say the word.",
+    "businesses": [],
+    "chips": [
+      "Where do I eat?",
+      "Best BBQ in town",
+      "I need a drink",
+      "Take me to the water",
+      "Live music tonight",
+      "Show me the bats"
+    ]
+  },
+  {
+    "keys": [
+      "food",
+      "eat",
+      "dining",
+      "hungry",
+      "where to eat",
+      "restaurants",
+      "dinner",
+      "best food"
+    ],
+    "text": "Austin eats way above its weight, and I mean that from the food-truck window to the white tablecloth. If you want the crown jewel, Uchi has been bending Texans toward Japanese fish since Tyson Cole opened it, and it's still the reservation everybody covets. For the new-Austin, farm-forward tasting crowd there's Emmer & Rye rolling its dim-sum carts, Barley Swine, and Odd Duck — all cut from the same live-fire, whole-animal cloth. But don't sleep on the everyday: brisket, breakfast tacos, and a Tex-Mex plate the size of a hubcap are just as much Austin as any tasting menu. What's the mood — barbecue, Tex-Mex, tacos, or a real fancy night?",
+    "businesses": [
+      "Uchi",
+      "Emmer & Rye",
+      "Barley Swine",
+      "Odd Duck"
+    ],
+    "chips": [
+      "Best BBQ in town",
+      "Tex-Mex please",
+      "Breakfast tacos",
+      "A fancy night out",
+      "Something on the East Side"
+    ]
+  },
+  {
+    "keys": [
+      "bbq",
+      "barbecue",
+      "brisket",
+      "smoke",
+      "franklin",
+      "meat",
+      "smoked meat",
+      "que"
+    ],
+    "text": "Now you're speaking my language. Barbecue here is a religion and the line is the pilgrimage. Franklin Barbecue is the cathedral — Aaron Franklin's brisket earned the nationwide hype, and yes, folks still line up before dawn (or order the pre-order these days). But this is a deep bench: la Barbecue slings some of the best brisket and beef ribs going, Micklethwait Craft Meats does a trailer-yard spread with killer sides, and Terry Black's is your reliable, no-reservation feast. Out north, InterStellar BBQ has become a destination on its own. Feeling adventurous? LeRoy and Lewis pushes 'new-school' cuts like beef cheeks, and Valentina's Tex Mex BBQ smokes a brisket taco on a handmade tortilla that'll ruin you for anyone else's.",
+    "businesses": [
+      "Franklin Barbecue",
+      "la Barbecue",
+      "Micklethwait Craft Meats",
+      "Terry Black's Barbecue",
+      "InterStellar BBQ",
+      "LeRoy and Lewis Barbecue",
+      "Valentina's Tex Mex BBQ"
+    ],
+    "chips": [
+      "Avoid the longest line",
+      "Brisket taco spot",
+      "BBQ with sides",
+      "Something near downtown",
+      "Now I need a beer"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "fancy",
+      "upscale",
+      "splurge",
+      "special occasion",
+      "tasting menu",
+      "best restaurant",
+      "nice dinner"
+    ],
+    "text": "When you want to put on the good boots, Austin delivers without the coastal attitude. Uchi is the special-occasion answer for fish. Jeffrey's is old-guard Clarksville elegance — the martini-and-steak crowd's temple — and its little sister-in-spirit around town keeps that classic flame. For the modern seasonal path there's Hestia with its towering wood-fired hearth, Barley Swine and Odd Duck for chef-driven Texas tasting, Emmer & Rye for grains and pasta, and Lutie's Garden Restaurant out at Commodore Perry, where the plates come from the estate garden itself. Canje brings live-fire Caribbean soul to the East Side if you want something with more spice and swagger.",
+    "businesses": [
+      "Uchi",
+      "Jeffrey's",
+      "Hestia",
+      "Barley Swine",
+      "Odd Duck",
+      "Emmer & Rye",
+      "Lutie's Garden Restaurant",
+      "Canje"
+    ],
+    "chips": [
+      "Romantic table for two",
+      "Wood-fire cooking",
+      "Caribbean flavors",
+      "A great cocktail first",
+      "Where should I stay?"
+    ]
+  },
+  {
+    "keys": [
+      "tacos",
+      "breakfast taco",
+      "taco",
+      "migas",
+      "taqueria",
+      "street food",
+      "al pastor"
+    ],
+    "text": "Rule one in Austin: breakfast is a taco, and arguing about the best one is a local sport. Veracruz All Natural started as a trailer and became legend on the migas taco alone — order it and thank me later. Cuantos Tacos does slinky little Mexico City-style plates on tiny tortillas, Nixta Taqueria married a duck carnitas taco to a beet 'tartare' tostada and won a national award doing it, and Discada builds its tacos off that big rolling discada plow-disc of stewed meats. For a sit-down East Side institution that's fed families for generations, Joe's Bakery & Coffee Shop is the real, unpolished heart of it. Güero's on South Congress is the crowd-pleaser patio if you want margaritas with your al pastor.",
+    "businesses": [
+      "Veracruz All Natural",
+      "Cuantos Tacos",
+      "Nixta Taqueria",
+      "Discada",
+      "Joe's Bakery & Coffee Shop",
+      "Güero's Taco Bar"
+    ],
+    "chips": [
+      "Sit-down Tex-Mex",
+      "East Austin heritage",
+      "Where's the pan dulce?",
+      "Margarita patio",
+      "Coffee to start"
+    ]
+  },
+  {
+    "keys": [
+      "tex-mex",
+      "mexican",
+      "enchiladas",
+      "queso",
+      "matt's",
+      "migas plate",
+      "fajitas"
+    ],
+    "text": "Tex-Mex isn't a lesser cuisine here, it's a birthright. Matt's El Rancho has been the Zilker-adjacent institution since 1952 — order the Bob Armstrong dip (queso with a heart of taco meat and guac) and understand a piece of Austin history. Güero's Taco Bar on South Congress is the converted-feed-store patio where the whole town people-watches over al pastor and a frozen margarita. And when you want the modern, chef-driven side of Mexico done with East Austin swagger, Suerte and Comedor are two of the best kitchens in the city, full stop — Suerte's suadero taco on hand-nixtamalized masa is a genuine pilgrimage.",
+    "businesses": [
+      "Matt's El Rancho",
+      "Güero's Taco Bar",
+      "Suerte",
+      "Comedor"
+    ],
+    "chips": [
+      "Best tacos",
+      "Upscale Mexican",
+      "Frozen margarita",
+      "The East Side food story",
+      "Now a cocktail"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "espresso",
+      "bakery",
+      "pastry",
+      "latte",
+      "pan dulce",
+      "croissant"
+    ],
+    "text": "Austin caffeinates seriously and unpretentiously. Cuvée Coffee helped pioneer nitro cold brew right here, Houndstooth and Merit are the polished, dialed-in third-wave anchors with multiple outposts, and Flat Track roasts inside a boot factory on the East Side — about as Austin as a cup gets. On the bakery front, Comadre Panadería reinvents Mexican pan dulce with real artistry, Rockman Coffee + Bakeshop pairs a proper flat white with laminated pastry, and Easy Tiger on South Lamar is your German-style bakehouse and beer garden all at once — pretzels, sourdough, and a pint by the creek.",
+    "businesses": [
+      "Cuvée Coffee",
+      "Houndstooth Coffee",
+      "Merit Coffee",
+      "Flat Track Coffee",
+      "Comadre Panadería",
+      "Rockman Coffee + Bakeshop",
+      "Easy Tiger (South Lamar)"
+    ],
+    "chips": [
+      "Best pan dulce",
+      "Cold brew",
+      "Bakery + beer garden",
+      "Breakfast tacos too",
+      "Take me hiking"
+    ]
+  },
+  {
+    "keys": [
+      "drink",
+      "cocktail",
+      "bar",
+      "bars",
+      "drinks",
+      "mixology",
+      "nightcap",
+      "wine bar"
+    ],
+    "text": "Whether you want a stirred-down Manhattan or a longneck on a gravel patio, I've got you. The Roosevelt Room is the serious cocktail den — a menu organized like a history lesson, poured by folks who take it seriously and themselves not at all. Small Victory is the intimate second-floor gem downtown for a quiet, well-made drink. Half Step on Rainey Street does classics on a leafy patio with a hand-carved ice program. And LoLo out east is the neighborhood wine bar where nobody's judging your glass. Want beer instead, or should I point you at live music with your whiskey?",
+    "businesses": [
+      "The Roosevelt Room",
+      "Small Victory",
+      "Half Step",
+      "LoLo"
+    ],
+    "chips": [
+      "Craft beer instead",
+      "A proper dive bar",
+      "Music with my whiskey",
+      "Wine on the East Side",
+      "Late-night bites"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "breweries",
+      "craft beer",
+      "beer garden",
+      "pint",
+      "taproom",
+      "abgb"
+    ],
+    "text": "Austin's beer scene runs on backyard sprawl and no snobbery. The Austin Beer Garden Brewing Company — everybody just says ABGB — is the gold standard: award-winning lagers, live music, picnic tables, pizza, dogs underfoot. Zilker Brewing over on East Sixth pours a clean lineup close to the bar action. And Banger's Sausage House & Beer Garden on Rainey stacks a hundred-plus taps against a wall of house-made sausages — a proper Austin gorge. For an old-school no-frills dive, Deep Eddy Cabaret near the pool has been slinging cheap cold ones since 1951.",
+    "businesses": [
+      "The Austin Beer Garden Brewing Company (ABGB)",
+      "Zilker Brewing Company",
+      "Banger's Sausage House & Beer Garden",
+      "Deep Eddy Cabaret"
+    ],
+    "chips": [
+      "Cocktails instead",
+      "Live music venues",
+      "Dive bars",
+      "Sausage and beer",
+      "Honky-tonk dancing"
+    ]
+  },
+  {
+    "keys": [
+      "dive",
+      "dive bar",
+      "cheap beer",
+      "no frills",
+      "mean eyed cat",
+      "local bar"
+    ],
+    "text": "God bless a good dive. Deep Eddy Cabaret has been the unpretentious neighborhood watering hole by Deep Eddy Pool since 1951 — wood-paneled, cash-friendly in spirit, exactly what a dive should be. The Mean Eyed Cat is a former chainsaw-repair shop turned Johnny Cash shrine, all tin walls and cold beer under a big live oak. Both are the antidote to anything that tries too hard, which is the most Austin thing I can recommend.",
+    "businesses": [
+      "Deep Eddy Cabaret",
+      "The Mean Eyed Cat"
+    ],
+    "chips": [
+      "Craft cocktails instead",
+      "Live music",
+      "Honky-tonk dancing",
+      "Beer gardens",
+      "Late-night tacos"
+    ]
+  },
+  {
+    "keys": [
+      "music",
+      "live music",
+      "concert",
+      "venue",
+      "bands",
+      "gig",
+      "see a show",
+      "nightlife"
+    ],
+    "text": "They call Austin the Live Music Capital of the World and it earns the badge nightly. Antone's Nightclub is the storied home of the blues — Stevie Ray Vaughan cut his teeth there. The Continental Club on South Congress is the classic roadhouse for rockabilly, country, and soul in a room dripping with history. Mohawk on Red River is the beloved indie-rock stage with that stacked outdoor deck. Stubb's Bar-B-Q is the two-in-one temple — barbecue and a legendary indoor stage downstairs, with its Waller Creek Amphitheater out back hosting the big touring names outdoors, a plate of brisket always in reach. And when you want a real room with real sound, ACL Live at the Moody Theater — home of the Austin City Limits TV tapings — is a bucket-list stage.",
+    "businesses": [
+      "Antone's Nightclub",
+      "The Continental Club",
+      "Mohawk",
+      "Stubb's Bar-B-Q",
+      "Stubb's Bar-B-Q (Waller Creek Amphitheater)",
+      "ACL Live at the Moody Theater"
+    ],
+    "chips": [
+      "Country & two-stepping",
+      "Blues history",
+      "Big arena shows",
+      "BBQ with my show",
+      "The East Side story"
+    ]
+  },
+  {
+    "keys": [
+      "honky-tonk",
+      "honky tonk",
+      "country",
+      "two step",
+      "dancing",
+      "broken spoke",
+      "western",
+      "white horse"
+    ],
+    "text": "If you want to two-step, put on boots and mean it. The Broken Spoke is the last of the true Texas dance halls — Willie played it, Dolly played it, and they'll still teach you the two-step on that worn wooden floor before the band kicks in. The White Horse out east is the younger, sweatier honky-tonk where the dancing goes late and the crowd's a beautiful mix. Either way, tip the band and don't be shy about asking a stranger to dance — that's the whole point.",
+    "businesses": [
+      "The Broken Spoke",
+      "The White Horse"
+    ],
+    "chips": [
+      "Where to buy boots",
+      "Blues & rock venues",
+      "A cold beer first",
+      "East Austin bars",
+      "Live music downtown"
+    ]
+  },
+  {
+    "keys": [
+      "water",
+      "swim",
+      "swimming",
+      "springs",
+      "barton springs",
+      "lake",
+      "cool off",
+      "hot",
+      "summer heat"
+    ],
+    "text": "First honest truth about an Austin summer: the heat is real and water is the answer, not an afterthought. Barton Springs Pool is the crown jewel — a spring-fed natural pool that holds a shivery 68-70 degrees year-round, three acres of cold green bliss in the middle of Zilker Park. Locals treat it like a house of worship. If you'd rather float than swim, Lady Bird Lake is right downtown for paddling, and the Congress bridge bats put on a free show at dusk. Want the big natural swimming holes out of town, or a paddle on the lake?",
+    "businesses": [
+      "Barton Springs Pool"
+    ],
+    "chips": [
+      "Natural swimming holes",
+      "Rent a kayak or SUP",
+      "Walk the lake trail",
+      "Show me the bats",
+      "Hike the Greenbelt"
+    ]
+  },
+  {
+    "keys": [
+      "hike",
+      "hiking",
+      "trail",
+      "trails",
+      "walk",
+      "greenbelt",
+      "nature walk",
+      "hike and bike"
+    ],
+    "text": "For a city, Austin gives you real dirt underfoot. The Barton Creek Greenbelt is the beloved backyard wilderness — miles of limestone trail, climbing walls, and swimming holes that fill up after a good rain (and go bone-dry in a drought, so check first). The Ann and Roy Butler Hike-and-Bike Trail & Boardwalk loops ten miles around Lady Bird Lake with that gorgeous over-the-water boardwalk and the skyline in full view — the definitive Austin walk or run. Want a summit view, a state park, or a hidden preserve? I've got those too.",
+    "businesses": [
+      "Barton Creek Greenbelt",
+      "Ann and Roy Butler Hike-and-Bike Trail & Boardwalk",
+      "Ann and Roy Butler Hike-and-Bike Trail"
+    ],
+    "chips": [
+      "A summit view",
+      "State parks nearby",
+      "Quiet nature preserve",
+      "Swimming holes",
+      "Rent a bike"
+    ]
+  },
+  {
+    "keys": [
+      "view",
+      "overlook",
+      "sunset",
+      "summit",
+      "mount bonnell",
+      "hilltop",
+      "scenic",
+      "best view"
+    ],
+    "text": "For the postcard, Mount Bonnell — officially Covert Park — is the highest point in town at about 780 feet, a short flight of stone steps up to a view of Lake Austin snaking through the hills. Go at golden hour, bring somebody you like, and watch the water light up. It's been Austin's favorite lookout since the 1850s, so you're in good, long company.",
+    "businesses": [
+      "Mount Bonnell (Covert Park)"
+    ],
+    "chips": [
+      "Sunset date ideas",
+      "Hike the Greenbelt",
+      "Paddle at sunset",
+      "Hill Country wine",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "swimming hole",
+      "waterfall",
+      "natural pool",
+      "hamilton pool",
+      "mckinney falls",
+      "pedernales",
+      "grotto"
+    ],
+    "text": "The Hill Country hides some stunners. Hamilton Pool Preserve is the jaw-dropper — a collapsed grotto with a waterfall spilling into a jade-green pool; it requires a reservation and the swimming depends on bacteria levels, so plan ahead, it's worth it. McKinney Falls State Park sits just 13 miles from downtown with upper and lower falls on Onion Creek, easy trails, and camping. Farther out, Pedernales Falls State Park spreads its wide staircase of tumbling limestone — great for a day of scrambling and cooling off. Note: water levels swing hard with drought and rain, so always check conditions before you drive.",
+    "businesses": [
+      "Hamilton Pool Preserve",
+      "McKinney Falls State Park",
+      "Pedernales Falls State Park"
+    ],
+    "chips": [
+      "Reserve Hamilton Pool",
+      "Barton Springs instead",
+      "State park camping",
+      "Big metro parks",
+      "Zipline adventure"
+    ]
+  },
+  {
+    "keys": [
+      "paddle",
+      "kayak",
+      "canoe",
+      "sup",
+      "paddleboard",
+      "boat",
+      "boat rental",
+      "row",
+      "kayaking"
+    ],
+    "text": "Getting out on Lady Bird Lake is the quintessential Austin morning — flat water, downtown skyline, turtles on the logs. Rowing Dock and the Texas Rowing Center both rent kayaks, canoes, and paddleboards right on the water and know the lake cold. Zilker Park Boat Rentals is the classic put-in near Barton Springs, and Live Love Paddle will set you up with a SUP too. Want the big open water instead? Keep Austin Wet Watercraft rents out on Lake Travis for the powerboat-and-cove crowd, and Lone Star Riverboat will paddle you around if you'd rather someone else do the work.",
+    "businesses": [
+      "Rowing Dock",
+      "Texas Rowing Center",
+      "Zilker Park Boat Rentals",
+      "Live Love Paddle",
+      "Keep Austin Wet Watercraft (Lake Travis)",
+      "Lone Star Riverboat"
+    ],
+    "chips": [
+      "Sunset bat cruise",
+      "Swim at Barton Springs",
+      "Walk the lake trail",
+      "Lake Travis day",
+      "Rent a bike"
+    ]
+  },
+  {
+    "keys": [
+      "bats",
+      "congress bats",
+      "congress bridge",
+      "bat colony",
+      "dusk show",
+      "free thing",
+      "free"
+    ],
+    "text": "Here's the best free show in Texas: from roughly March to early fall, up to 1.5 million Mexican free-tailed bats roost under the Congress Avenue Bridge and pour out in a great ribbon at dusk to go hunt bugs over the lake. Post up on the bridge, on the lawn at the Statesman Bat Observation Center below, or on the water with a boat — Lone Star Riverboat runs sunset bat cruises. Get there before sundown, be patient (it's on bat time, not yours), and watch a whole city stop to look up. Peak numbers are usually August.",
+    "businesses": [
+      "Congress Avenue Bridge Bats",
+      "Lone Star Riverboat"
+    ],
+    "chips": [
+      "Watch from a boat",
+      "Dinner nearby first",
+      "Walk the lake trail",
+      "Family-friendly picks",
+      "What else is free?"
+    ]
+  },
+  {
+    "keys": [
+      "art",
+      "arts",
+      "museum",
+      "museums",
+      "gallery",
+      "culture",
+      "paintings",
+      "sculpture"
+    ],
+    "text": "Austin's culture bench runs deeper than the guitars suggest. The Blanton Museum of Art at UT holds the largest university art collection in the state and Ellsworth Kelly's luminous 'Austin' chapel out front — go see the light. Mexic-Arte Museum downtown is the anchor for Mexican and Latino art and throws the city's beloved Day of the Dead celebration. The Contemporary Austin - Laguna Gloria pairs a lakeside Italianate villa with a sculpture park you can wander for hours, and the UMLAUF Sculpture Garden & Museum sets Charles Umlauf's bronzes in a shady garden by Zilker. Want history museums instead?",
+    "businesses": [
+      "Blanton Museum of Art",
+      "Mexic-Arte Museum",
+      "The Contemporary Austin - Laguna Gloria",
+      "UMLAUF Sculpture Garden & Museum"
+    ],
+    "chips": [
+      "Texas history museums",
+      "The Capitol tour",
+      "Botanical garden",
+      "Day of the Dead",
+      "Theater & comedy"
+    ]
+  },
+  {
+    "keys": [
+      "history",
+      "historic",
+      "texas history",
+      "capitol",
+      "lbj",
+      "bullock",
+      "presidential",
+      "government",
+      "heritage museum"
+    ],
+    "text": "For the Texas story told big, the Bullock Texas State History Museum walks you from Spanish colonial days to the space age across three floors — start with the giant star out front. The LBJ Presidential Library holds Lyndon Johnson's papers and a striking replica Oval Office, one of the best presidential libraries going. And the Texas State Capitol is worth the free walk-through — it's actually taller than the U.S. Capitol, all pink granite and sunlit rotunda, with grounds you can roam. Do the trio in a day and you'll understand this state a whole lot better.",
+    "businesses": [
+      "Bullock Texas State History Museum",
+      "LBJ Presidential Library",
+      "Texas State Capitol"
+    ],
+    "chips": [
+      "Art museums",
+      "The East Side heritage trail",
+      "Botanical garden",
+      "Where to eat downtown",
+      "Live music tonight"
+    ]
+  },
+  {
+    "keys": [
+      "garden",
+      "botanical",
+      "zilker garden",
+      "flowers",
+      "plants",
+      "japanese garden",
+      "green space"
+    ],
+    "text": "Zilker Botanical Garden is the calm green heart of Zilker Park — a Japanese garden with koi ponds, a prehistoric-themed dinosaur garden, rose beds, and shaded paths that make the summer bearable. It's a lovely, low-key couple of hours, and it pairs perfectly with a Barton Springs dip right next door. If you want sculpture with your greenery, the UMLAUF garden is a short hop away.",
+    "businesses": [
+      "Zilker Botanical Garden",
+      "UMLAUF Sculpture Garden & Museum"
+    ],
+    "chips": [
+      "Swim at Barton Springs",
+      "Sculpture garden",
+      "Family-friendly ideas",
+      "Laguna Gloria grounds",
+      "Farmers markets"
+    ]
+  },
+  {
+    "keys": [
+      "theater",
+      "theatre",
+      "comedy",
+      "play",
+      "show",
+      "paramount",
+      "esther's",
+      "stage",
+      "performing arts"
+    ],
+    "text": "The Paramount Theatre on Congress is the grand 1915 movie palace and stage — everything from touring plays to its legendary summer classic film series under a ceiling of gilt and red velvet. Right next door in spirit, Esther's Follies has been Austin's sketch-and-magic institution for decades, a riotous political-comedy revue performed in a window onto Sixth Street where passersby become part of the gag. Between the two you've got a proper night of old-Austin showmanship.",
+    "businesses": [
+      "Paramount Theatre",
+      "Esther's Follies"
+    ],
+    "chips": [
+      "Live music instead",
+      "Dinner before the show",
+      "Cocktail bars nearby",
+      "Family shows",
+      "Arts & museums"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "soccer",
+      "austin fc",
+      "q2",
+      "basketball",
+      "moody center",
+      "arena",
+      "match"
+    ],
+    "text": "Austin's a soccer town now, and it's electric. Q2 Stadium is the home of Austin FC — a loud, sold-out, verde-clad cathedral where the north end sings the whole match; catch a game and you'll get hoarse. For concerts and college hoops, the Moody Center is the slick newer arena on the UT campus hosting the Longhorns and the biggest touring acts. Grab a bite and a beer beforehand and make a night of it.",
+    "businesses": [
+      "Q2 Stadium (Austin FC)",
+      "Moody Center"
+    ],
+    "chips": [
+      "Pre-game food & beer",
+      "Big concerts",
+      "Family-friendly outings",
+      "Where to stay",
+      "Live music venues"
+    ]
+  },
+  {
+    "keys": [
+      "tour",
+      "tours",
+      "the nexus",
+      "affiliate",
+      "guided",
+      "wine tour",
+      "booze cruise",
+      "hill country tour",
+      "experience"
+    ],
+    "text": "When you'd rather be a passenger, a couple of local outfits do it right. Lone Star Riverboat runs relaxed Lady Bird Lake cruises — including the sunset bat trip, which is honestly the best seat in the house for that show. And the Austin Detours Hill Country Wine Shuttle handles the driving so you can actually enjoy the Hill Country wineries and Fredericksburg tasting rooms without drawing straws for a sober driver. Book ahead on weekends; these fill up, especially in spring and fall. Tell me if you want the wine day planned or the water covered.",
+    "businesses": [
+      "Lone Star Riverboat",
+      "Austin Detours Hill Country Wine Shuttle"
+    ],
+    "chips": [
+      "Plan a Hill Country wine day",
+      "Sunset bat cruise",
+      "Side trips out of town",
+      "Rent my own kayak",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "with kids",
+      "toddler",
+      "all ages"
+    ],
+    "text": "Austin's a great town for kids who like to be outside. Start the day cooling off at Barton Springs Pool (there's a shallow end for little ones), wander the dinosaur and koi gardens at Zilker Botanical Garden, then time dinner so you catch the Congress Avenue Bridge Bats streaming out at dusk — nothing beats a kid's face during that. Walnut Creek Metropolitan Park up north has swimming, miles of easy trails, and a big off-leash area, and the Ann and Roy Butler boardwalk is stroller-friendly with skyline views. Hungry crew? Home Slice Pizza on South Congress does proper New York slices everyone agrees on.",
+    "businesses": [
+      "Barton Springs Pool",
+      "Zilker Botanical Garden",
+      "Congress Avenue Bridge Bats",
+      "Walnut Creek Metropolitan Park",
+      "Ann and Roy Butler Hike-and-Bike Trail & Boardwalk",
+      "Home Slice Pizza"
+    ],
+    "chips": [
+      "Big parks with trails",
+      "Science & history museums",
+      "Rent a paddleboard",
+      "Where to stay with kids",
+      "Zipline adventure"
+    ]
+  },
+  {
+    "keys": [
+      "adventure",
+      "zipline",
+      "adrenaline",
+      "outdoors adventure",
+      "thrill",
+      "big parks",
+      "metro park"
+    ],
+    "text": "Want to work up a real sweat? Wimberley Zipline Adventures, about 45 minutes southwest in the Hill Country, sends you soaring across a canyon on ten lines with cypress-creek views. Closer in, Emma Long Metropolitan Park sprawls along Lake Austin with camping, a swimming beach, and gnarly off-road trails; Walnut Creek Metropolitan Park up north is the mountain-biker's playground with 15-plus miles of singletrack; and Wild Basin Wilderness Preserve tucks quiet canyon trails and a waterfall into the hills west of downtown. Pick your poison.",
+    "businesses": [
+      "Wimberley Zipline Adventures",
+      "Emma Long Metropolitan Park",
+      "Walnut Creek Metropolitan Park",
+      "Wild Basin Wilderness Preserve"
+    ],
+    "chips": [
+      "Swimming holes",
+      "Rent a kayak",
+      "Hike the Greenbelt",
+      "Hill Country day trip",
+      "Family-friendly picks"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "records",
+      "vinyl",
+      "bookstore",
+      "books",
+      "boots",
+      "vintage",
+      "souvenir",
+      "local goods"
+    ],
+    "text": "Austin shops weird and local, thank goodness. Waterloo Records is the beloved independent record store — in-store shows and deep stacks; End of an Ear and Antone's Record Shop round out the vinyl crawl. BookPeople is the mighty independent bookstore downtown, and BookWoman is the long-running feminist bookshop worth supporting. For threads: Allens Boots on South Congress is the wall-of-boots pilgrimage, Uncommon Objects is the gloriously curated antique-oddity emporium, and By George, STAG Provisions for Men, Feathers Boutique Vintage, and Take Heart cover everything from designer to vintage western to tidy little gift-shop finds.",
+    "businesses": [
+      "Waterloo Records",
+      "End of an Ear",
+      "Antone's Record Shop",
+      "BookPeople",
+      "BookWoman",
+      "Allens Boots",
+      "Uncommon Objects",
+      "By George",
+      "STAG Provisions for Men",
+      "Feathers Boutique Vintage",
+      "Take Heart"
+    ],
+    "chips": [
+      "Where to buy boots",
+      "Vinyl record crawl",
+      "Farmers markets",
+      "Bike shop",
+      "Honky-tonk dancing"
+    ]
+  },
+  {
+    "keys": [
+      "market",
+      "farmers market",
+      "produce",
+      "local",
+      "saturday market",
+      "vendors",
+      "fresh"
+    ],
+    "text": "Austin's weekend markets are half grocery run, half social hour. The SFC Farmers' Market Downtown runs Saturdays at Republic Square with a rich lineup of Hill Country growers, breakfast-taco stands, and live music. The Texas Farmers' Market at Mueller is the sprawling Sunday scene out east with prepared food and family stuff, and the Barton Creek Farmers Market on Saturdays draws a devoted crowd for its breakfast and produce on the south side. Bring cash, come hungry, and pet the dogs. Need wheels while you're at it? Mellow Johnny's Bike Shop downtown rents and sells.",
+    "businesses": [
+      "SFC Farmers' Market Downtown",
+      "Texas Farmers' Market at Mueller",
+      "Barton Creek Farmers Market",
+      "Mellow Johnny's Bike Shop"
+    ],
+    "chips": [
+      "Rent a bike",
+      "Coffee & pan dulce",
+      "Where to eat nearby",
+      "Local shops",
+      "Walk the lake trail"
+    ]
+  },
+  {
+    "keys": [
+      "stay",
+      "hotel",
+      "lodging",
+      "where to stay",
+      "accommodation",
+      "sleep",
+      "room",
+      "resort"
+    ],
+    "text": "Two very Austin ways to bed down. Hotel Van Zandt on Rainey Street is the music-soaked boutique pick — a rooftop pool, the excellent Geraldine's restaurant and bar with live music most nights, and you're steps from the Rainey bar district and the lake trail. For a proper splurge, The Loren at Lady Bird Lake is the sleek new luxury address right on the water downtown, with skyline-and-lake views and a rooftop that shows off the city. Both put you close to the action; tell me your budget and vibe and I'll steer you.",
+    "businesses": [
+      "Hotel Van Zandt",
+      "Geraldine's",
+      "The Loren at Lady Bird Lake"
+    ],
+    "chips": [
+      "Music-forward hotel",
+      "Luxury on the lake",
+      "Best neighborhoods",
+      "Where to eat nearby",
+      "Rooftop cocktails"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "date night",
+      "anniversary",
+      "couple",
+      "proposal",
+      "intimate"
+    ],
+    "text": "For romance, Austin knows how to set a scene. Climb Mount Bonnell at golden hour for the Lake Austin view, then dinner at Jeffrey's for old-Clarksville elegance or Este for gorgeous coastal Mexican seafood on the East Side. A quiet, well-made cocktail at Small Victory or LoLo's wine list keeps the night soft. Or flip the script entirely: a sunset paddle on Lady Bird Lake, the bats overhead, and tacos after. Want me to build the whole evening?",
+    "businesses": [
+      "Mount Bonnell (Covert Park)",
+      "Jeffrey's",
+      "Este",
+      "Small Victory",
+      "LoLo"
+    ],
+    "chips": [
+      "Build me a date night",
+      "Sunset paddle",
+      "Rooftop views",
+      "Wine bars",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "side trip",
+      "day trip",
+      "out of town",
+      "lockhart",
+      "fredericksburg",
+      "wine",
+      "wineries",
+      "hill country",
+      "road trip"
+    ],
+    "text": "Two classics, two directions. Lockhart, about 35 minutes southeast, is the official Barbecue Capital of Texas — a smoke-and-sawdust pilgrimage worth clearing an afternoon for. Northwest, Fredericksburg is 90 minutes into the German Hill Country: Main Street shops, peach stands in summer, and the heart of Texas Wine Country along US-290. If you'd rather not drive the wine road, the Austin Detours Hill Country Wine Shuttle handles it so everybody gets to taste. Closer to town, Pedernales Falls and Hamilton Pool make an easy nature-day pairing on the way out.",
+    "businesses": [
+      "Austin Detours Hill Country Wine Shuttle",
+      "Pedernales Falls State Park",
+      "Hamilton Pool Preserve"
+    ],
+    "chips": [
+      "Plan the wine day",
+      "Swimming holes en route",
+      "BBQ in town instead",
+      "Where to stay",
+      "Seasonal events"
+    ]
+  },
+  {
+    "keys": [
+      "season",
+      "when to visit",
+      "sxsw",
+      "acl",
+      "festival",
+      "best time",
+      "weather",
+      "spring",
+      "fall",
+      "october",
+      "march"
+    ],
+    "text": "Honest seasonal read: spring and fall are the sweet spots, and two festivals anchor the calendar. SXSW takes over in March — music, film, and tech flooding downtown; book lodging months out and expect the city to buzz. ACL (Austin City Limits Music Festival) fills Zilker Park across two October weekends of headliners in near-perfect weather. Summer is genuinely hot — triple digits are normal — so plan it water-first: Barton Springs Pool, the lake, swimming holes, and save the pavement for morning and dusk. Winter is mild and underrated, and the bats mostly clear out from about November to February, so time that show for warmer months.",
+    "businesses": [
+      "Barton Springs Pool",
+      "Congress Avenue Bridge Bats",
+      "Stubb's Bar-B-Q (Waller Creek Amphitheater)",
+      "ACL Live at the Moody Theater"
+    ],
+    "chips": [
+      "Beat the summer heat",
+      "Live music venues",
+      "Where to stay for SXSW",
+      "Side trips",
+      "Family-friendly ideas"
+    ]
+  },
+  {
+    "keys": [
+      "east side",
+      "east austin",
+      "heritage",
+      "black history",
+      "victory grill",
+      "chitlin circuit",
+      "east 11th",
+      "standards",
+      "trail"
+    ],
+    "text": "Let me walk you down my favorite thread — the East Side Standards. The Historic Victory Grill on East 11th opened in 1945 as a cornerstone of the Chitlin' Circuit, where B.B. King, Ike & Tina, and Billie Holiday played for Austin's Black community when segregation shut other doors; it still stands as a live-music landmark and a piece of American history. Blocks away, Joe's Bakery & Coffee Shop has anchored the Mexican-American East Side since 1962 with migas and pan dulce. That heritage runs straight into the Armadillo World Headquarters spirit and today's East Austin — where kitchens like Suerte, Comedor, Nixta Taqueria, and Canje are writing the next chapter with real reverence for what came before. Eat and listen your way down East 11th and 12th and you'll feel the whole story.",
+    "businesses": [
+      "The Historic Victory Grill",
+      "Joe's Bakery & Coffee Shop",
+      "Suerte",
+      "Comedor",
+      "Nixta Taqueria",
+      "Canje"
+    ],
+    "chips": [
+      "East Side food crawl",
+      "Live music history",
+      "Mexic-Arte Museum",
+      "Best tacos",
+      "East Austin bars"
+    ]
+  },
+  {
+    "keys": [
+      "hidden gem",
+      "local secret",
+      "offbeat",
+      "unique",
+      "weird",
+      "only in austin",
+      "dai due",
+      "birdie's",
+      "loro"
+    ],
+    "text": "Want the stuff that makes Austin Austin? Dai Due is a 'supper club' turned restaurant and butcher shop cooking hyper-local Texas game and produce over fire — an ethos-driven meal you won't find elsewhere. Birdie's is the counter-service-meets-fine-dining darling pairing seasonal pastas and natural wine in a breezy East Side room (and it earned national accolades doing it). Loro Asian Smokehouse & Bar is the Uchi-meets-Franklin mashup — Asian smokehouse plates and frozen gin-and-tonics on a big patio. And Bufalina turns out some of the best Neapolitan pizza in Texas with a wine list to match. That's the offbeat middle of Austin's food world, and it's glorious.",
+    "businesses": [
+      "Dai Due",
+      "Birdie's",
+      "Loro Asian Smokehouse & Bar",
+      "Bufalina"
+    ],
+    "chips": [
+      "More fine dining",
+      "Natural wine bars",
+      "Best BBQ",
+      "East Side heritage",
+      "Coffee & bakeries"
+    ]
+  }
+]

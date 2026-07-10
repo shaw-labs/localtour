@@ -1,0 +1,593 @@
+{
+  "morning_starts": [
+    {
+      "title": "Heart Coffee Roasters",
+      "business": "Heart Coffee Roasters",
+      "note": "Light-roast evangelists on Burnside; order it black and don't argue.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Coava Coffee Roasters",
+      "business": "Coava Coffee Roasters",
+      "note": "The bamboo-slat bar where I finally understood pour-over for the first time.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Stumptown Coffee Roasters (Division Street)",
+      "business": "Stumptown Coffee Roasters (Division Street)",
+      "note": "The one that started the whole Portland coffee arms race; still holds up.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ken's Artisan Bakery",
+      "business": "Ken's Artisan Bakery",
+      "note": "Get there before the morning buns sell out, because they will.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Little T American Baker",
+      "business": "Little T American Baker",
+      "note": "A proper croissant without the Ken's line out the door.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Water Avenue Coffee",
+      "business": "Water Avenue Coffee",
+      "note": "Industrial-eastside roaster where the breakfast sandwich earns the walk.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Nossa Familia Coffee",
+      "business": "Nossa Familia Coffee",
+      "note": "Family Brazilian roaster; the cafe's an easy, unhurried place to start.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Forest Park & the Wildwood Trail",
+      "business": "Forest Park & the Wildwood Trail",
+      "note": "Thirty miles of fern and Doug fir five minutes from downtown; this is why we tolerate the rain.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mount Tabor Park",
+      "business": "Mount Tabor Park",
+      "note": "An honest-to-god extinct volcano with a reservoir view; run the steps if you're feeling smug.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Sauvie Island Wildlife Area",
+      "business": "Sauvie Island Wildlife Area",
+      "note": "Beaches, berry U-pick, and sandhill cranes fifteen minutes north; leave your shoes in the car.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Multnomah Falls",
+      "business": "Multnomah Falls",
+      "note": "620 feet of waterfall postcard 45 minutes out; go early or fight the whole Gorge for parking.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hoyt Arboretum",
+      "business": "Hoyt Arboretum",
+      "note": "Twelve miles of trail through trees labeled so you can pretend you knew.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Springwater Corridor & Oaks Bottom Wildlife Refuge",
+      "business": "Springwater Corridor & Oaks Bottom Wildlife Refuge",
+      "note": "Flat riverside bike path past a heron rookery; the least dramatic, most repeatable outdoor day.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Powell Butte Nature Park",
+      "business": "Powell Butte Nature Park",
+      "note": "Meadow-topped butte with a Cascade lineup on the rare clear day; the locals' quiet one.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Portland Art Museum",
+      "business": "Portland Art Museum",
+      "note": "Oldest museum in the Northwest; the Native American wing alone is worth the ticket.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lan Su Chinese Garden",
+      "business": "Lan Su Chinese Garden",
+      "note": "A walled Ming-dynasty garden dropped into Old Town; get tea in the teahouse and slow down.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Japanese Garden",
+      "business": "Portland Japanese Garden",
+      "note": "Widely called the best outside Japan, and up in the West Hills it earns it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Pittock Mansion",
+      "business": "Pittock Mansion",
+      "note": "A lumber baron's chateau with the best standing view of the city and Mt. Hood.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oregon Historical Society Museum",
+      "business": "Oregon Historical Society Museum",
+      "note": "Where the whole strange Oregon story lives; it doesn't hide the exclusion laws.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Chinatown Museum",
+      "business": "Portland Chinatown Museum",
+      "note": "Small, sharp, and the right first stop before you eat your way through the pods.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Saturday Market",
+      "business": "Portland Saturday Market",
+      "note": "Under the Burnside Bridge since '74; the oldest continuous open-air market in the country.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Powell's City of Books",
+      "business": "Powell's City of Books",
+      "note": "A full city block of books; bring a map and cancel your afternoon plans.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Music Millennium",
+      "business": "Music Millennium",
+      "note": "Last of the great independent record stores; the staff picks are gospel.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tender Loving Empire",
+      "business": "Tender Loving Empire",
+      "note": "Local-made everything with a record label attached; the gift problem is solved here.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Movie Madness",
+      "business": "Movie Madness",
+      "note": "A working video store that's also a film-prop museum; yes, that's the actual knife.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mississippi Records",
+      "business": "Mississippi Records",
+      "note": "Cramped vinyl temple with a reissue label; dig and you'll find the record.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cargo",
+      "business": "Cargo",
+      "note": "A warehouse of imported oddities you didn't know you needed until now.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Beam & Anchor",
+      "business": "Beam & Anchor",
+      "note": "Handsome maker-goods shop over a working studio; browse slow, buy the one nice thing.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Nong's Khao Man Gai",
+      "business": "Nong's Khao Man Gai",
+      "note": "One dish, chicken and rice, done so right she built an empire on it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kim Jong Grillin'",
+      "business": "Kim Jong Grillin'",
+      "note": "Korean rice bowls out of a cart on Division; the kimchi does the heavy lifting.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Matt's BBQ",
+      "business": "Matt's BBQ",
+      "note": "Central-Texas brisket out of a trailer; go at noon or it's gone.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hawthorne Asylum",
+      "business": "Hawthorne Asylum",
+      "note": "A full cart pod with covered seating and a fire pit; everyone at the table gets what they want.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Screen Door Eastside",
+      "business": "Screen Door Eastside",
+      "note": "Southern comfort with the fried chicken everybody warned you about; worth the wait.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Eem",
+      "business": "Eem",
+      "note": "Thai barbecue from a cart-pod alumni team; the burnt-ends curry is the move.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Heist",
+      "business": "The Heist",
+      "note": "Solid cart pod when you want a covered seat and a beer with the meal.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Rum Club",
+      "business": "Rum Club",
+      "note": "Neighborhood tiki-adjacent bar; the Rum Club Daiquiri is the correct order.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Scotch Lodge",
+      "business": "Scotch Lodge",
+      "note": "Below-grade whisky den on Belmont; dim, plush, dangerously easy to stay in.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Wayfinder Beer",
+      "business": "Wayfinder Beer",
+      "note": "Big lager-forward brewpub near the bridge; the pilsner and the burger, done.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Angel Face",
+      "business": "Angel Face",
+      "note": "No menu — you name a spirit and a mood and trust the bartender.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Palomar",
+      "business": "Palomar",
+      "note": "Cuban-leaning cocktails on the eastside; the daiquiris and the crowd both hum.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Breakside Brewery",
+      "business": "Breakside Brewery",
+      "note": "The IPA people who keep winning medals; get the flagship and a pretzel.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Gado Gado",
+      "business": "Gado Gado",
+      "note": "Indonesian-American feast built for sharing; order too much on purpose.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Han Oak",
+      "business": "Han Oak",
+      "note": "Korean cooking in a converted courtyard home; the dumplings are family recipe.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Navarre",
+      "business": "Navarre",
+      "note": "Order-by-checklist small plates, part French, part farm; regulars just say 'bring us food.'",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kachka",
+      "business": "Kachka",
+      "note": "Russian zakuski and infused vodkas; loud, warm, and gloriously over-the-top.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Screen Door Eastside",
+      "business": "Screen Door Eastside",
+      "note": "Same Southern comfort, dinner edition, and the biscuits don't quit.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Eem",
+      "business": "Eem",
+      "note": "Thai barbecue and knockout cocktails; the room stays loud for a reason.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Higgins Restaurant & Bar",
+      "business": "Higgins Restaurant & Bar",
+      "note": "The farm-to-table original still doing it right; the bar menu is the low-key move.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Le Pigeon",
+      "business": "Le Pigeon",
+      "note": "Counter-seat fine dining; foie gras profiteroles and a beef cheek that made the reputation.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Nodoguro",
+      "business": "Nodoguro",
+      "note": "Intimate Japanese tasting menu; book ahead, show up hungry, ask no questions.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Langbaan",
+      "business": "Langbaan",
+      "note": "Hidden Thai tasting room behind a restaurant; the toughest reservation in town, and worth it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ox",
+      "business": "Ox",
+      "note": "Argentine wood-grill; the grilled-clam chowder alone justifies the whole meal.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "República",
+      "business": "República",
+      "note": "Modern Mexican tasting menu with masa milled in-house; ambitious, and it lands.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kann",
+      "business": "Kann",
+      "note": "Gregory Gourdet's live-fire Haitian; James Beard-anointed and it earns every bit.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Coquine",
+      "business": "Coquine",
+      "note": "Mount Tabor bistro that started as a pop-up; the smoked-chocolate chip cookie is the closer.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Jacqueline",
+      "business": "Jacqueline",
+      "note": "Candlelit seafood on the eastside; oysters, natural wine, and low lighting doing their job.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "St. Jack",
+      "business": "St. Jack",
+      "note": "Lyon-style bistro; steak frites, a Lyonnaise salad, and a booth for two.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Coquine",
+      "business": "Coquine",
+      "note": "",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kann",
+      "business": "Kann",
+      "note": "Wood-fire warmth and island spice; ask for a two-top away from the pass.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Angel Face",
+      "business": "Angel Face",
+      "note": "Tuck into the little Alberta bar, order two bespoke cocktails, and let the night unfold.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Le Pigeon",
+      "business": "Le Pigeon",
+      "note": "The communal counter sounds unromantic until the beef cheek arrives and you stop talking.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Crystal Ballroom",
+      "business": "Crystal Ballroom",
+      "note": "Historic dance floor — literally sprung — where the touring acts still play.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Roseland Theater",
+      "business": "Roseland Theater",
+      "note": "Downtown mid-size room; the bill's always heavier than the marquee suggests.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Sandy Hut",
+      "business": "The Sandy Hut",
+      "note": "Beloved dive on Sandy; strong pours, pinball, zero pretense.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Yamhill Pub",
+      "business": "The Yamhill Pub",
+      "note": "Grimy, cash-friendly downtown institution; you'll fit right in by the second round.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Revolution Hall",
+      "business": "Revolution Hall",
+      "note": "Old high-school auditorium turned venue; catch a show then hit the rooftop bar.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kachka",
+      "business": "Kachka",
+      "note": "Vodka flights until late; the party tends to find itself around midnight.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Oregon Museum of Science and Industry (OMSI)",
+      "business": "Oregon Museum of Science and Industry (OMSI)",
+      "note": "Hands-on science, a planetarium, and a real submarine docked out back; a whole day disappears here.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oregon Zoo",
+      "business": "Oregon Zoo",
+      "note": "Up in Washington Park off the MAX line; the elephants are the marquee, the train's the win.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Aerial Tram",
+      "business": "Portland Aerial Tram",
+      "note": "A three-minute cable-car ride up to OHSU with a Mt. Hood payoff; kids lose their minds.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+      "business": "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+      "note": "Rent a surrey-cycle and pedal the waterfront loop; peak wholesome.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Topaz Farm (formerly Kruger's Farm)",
+      "business": "Topaz Farm (formerly Kruger's Farm)",
+      "note": "Sauvie Island U-pick, animals, and weekend live music; bring a wagon.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Saturday Market",
+      "business": "Portland Saturday Market",
+      "note": "Buskers, food carts, and made-here crafts under the bridge; free to wander.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tryon Creek State Natural Area",
+      "business": "Tryon Creek State Natural Area",
+      "note": "Easy forested loops with a nature center; the trail your six-year-old can actually finish.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Powell's City of Books",
+      "business": "Powell's City of Books",
+      "note": "A city block of books with coffee built in; the definitive Portland rainy day, full stop.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Art Museum",
+      "business": "Portland Art Museum",
+      "note": "Warm, dry, and deep; give the Native American and Northwest galleries a slow hour.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oregon Museum of Science and Industry (OMSI)",
+      "business": "Oregon Museum of Science and Industry (OMSI)",
+      "note": "Planetarium, submarine, and enough hands-on exhibits to outlast any storm.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lan Su Chinese Garden",
+      "business": "Lan Su Chinese Garden",
+      "note": "Covered walkways ring the pond, so the rain becomes the whole point; tea in the teahouse seals it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Movie Madness",
+      "business": "Movie Madness",
+      "note": "20,000 titles and a film-prop museum; the browse itself is the entertainment, umbrella optional.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Portland Chinatown Museum",
+      "business": "Portland Chinatown Museum",
+      "note": "Small enough to duck into, sharp enough to reframe Old Town before your cart crawl.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oregon Historical Society Museum",
+      "business": "Oregon Historical Society Museum",
+      "note": "Downtown, cavernous, full of the state's strange history — the ideal place to dry off and read walls.",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

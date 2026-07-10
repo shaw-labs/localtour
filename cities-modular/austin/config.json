@@ -1,0 +1,251 @@
+{
+  "slug": "austin",
+  "name": "Austin",
+  "state": "Texas",
+  "region": "Central Texas / Hill Country",
+  "tagline": "Keep it weird, keep it easy",
+  "description": "A spring-fed, guitar-strung sprawl where the barbecue smoke, the swimming holes, and the live music never really quit. Come for the food-truck lines and the bat flights, stay because nobody here is in a hurry to be anything but themselves.",
+  "coordinates": {
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  "timezone": "America/Chicago",
+  "identity": {
+    "known_for": [
+      "live music",
+      "barbecue",
+      "Barton Springs & Lady Bird Lake",
+      "Congress Bridge bats",
+      "SXSW and ACL",
+      "food trucks",
+      "Hill Country wineries",
+      "East Austin murals"
+    ],
+    "vibe": "unpretentious, sun-baked, creative, keep-it-weird warm",
+    "best_season": "fall",
+    "visitor_type": [
+      "music lovers",
+      "foodies",
+      "outdoor swimmers",
+      "festival-goers",
+      "creatives",
+      "laid-back explorers"
+    ]
+  },
+  "hero": {
+    "summer": "Heat like a wet quilt — so we do what Austin's always done: slide into 68-degree Barton Springs, float the lake till dusk, and let the smoke rise cooler come nightfall.",
+    "fall": "The light goes gold, the patios fill, and ACL guitars drift clear across Zilker — this is the season Austin was built for, and everybody knows it.",
+    "winter": "Mild and easy, brisket steam curling into the cool, breakfast tacos steady, the trails and the bats-adjacent quiet all ours while the crowds thin out.",
+    "spring": "Bluebonnets on the Hill Country roadsides and the whole world showing up for SXSW — loud, kinetic, and gloriously overstuffed, the way we like it once a year."
+  },
+  "nexus": {
+    "type": "spring-fed swimming hole & riverfront greenbelt",
+    "anchor": "Barton Springs Pool & Lady Bird Lake",
+    "anchor_url": "https://www.austintexas.gov/department/barton-springs-pool",
+    "radius": "Zilker Park & the Lady Bird Lake hike-and-bike loop, roughly 3 miles of downtown-hugging waterfront",
+    "services": [
+      "swimming",
+      "paddleboard & kayak rental",
+      "hike-and-bike trail",
+      "picnicking",
+      "bat-watching at Congress Bridge",
+      "food trucks",
+      "festival grounds"
+    ],
+    "affiliate_density": "medium",
+    "description": "Everything in Austin bends back toward the water. Barton Springs is a 68-degree limestone-fed pool that never changes temperature, and Lady Bird Lake wraps the downtown skyline in a 10-mile loop of trail, paddlers, and — at dusk from March to fall — 1.5 million Mexican free-tailed bats pouring out from under Congress Avenue Bridge. Cool off first, then the barbecue, the bars, and the music all make sense."
+  },
+  "nexus_grid": [
+    {
+      "id": "barton-springs",
+      "title": "Barton Springs Pool",
+      "icon": "🏊",
+      "description": "Three acres of spring-fed limestone pool holding a steady 68 degrees year-round. The great equalizer — everybody floats here."
+    },
+    {
+      "id": "lady-bird-loop",
+      "title": "The Butler Trail",
+      "icon": "🚴",
+      "description": "The 10-mile hike-and-bike loop around Lady Bird Lake, skyline on one side, paddleboarders on the other. Free and always open."
+    },
+    {
+      "id": "congress-bats",
+      "title": "Congress Bridge Bats",
+      "icon": "🦇",
+      "description": "North America's largest urban bat colony spirals out at dusk from spring through fall. The best free show in town — bring patience and a spot on the bridge."
+    },
+    {
+      "id": "bbq-tier",
+      "title": "The Barbecue Tier",
+      "icon": "🍖",
+      "description": "The lines are the ritual. Post oak smoke, salt-and-pepper brisket, and a wait that's part of the meal. Show up early, stay humble."
+    },
+    {
+      "id": "east-austin",
+      "title": "East Austin Murals & Bars",
+      "icon": "🎨",
+      "description": "East of I-35, the walls talk — heritage murals, taco trucks, dive patios, and the deepest cultural roots in the city, from the Chitlin' Circuit onward."
+    },
+    {
+      "id": "hill-country",
+      "title": "Hill Country Wineries",
+      "icon": "🍷",
+      "description": "Roll west out of town into bluebonnet-and-limestone country for Texas wine, peach stands, and Fredericksburg's German main street."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍽️",
+      "description": "Chase the smoke. Brisket by the pound, breakfast tacos by the dozen, and food-truck courts where the best meal of your trip costs twelve bucks.",
+      "tags": [
+        "barbecue",
+        "tacos",
+        "food trucks",
+        "Tex-Mex",
+        "queso"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "🌿",
+      "description": "Austin's default speed. A float on the lake, a shady patio, a cold Topo Chico, and absolutely nowhere you need to be.",
+      "tags": [
+        "Barton Springs",
+        "patios",
+        "greenbelt",
+        "slow mornings",
+        "coffee"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "🌅",
+      "description": "Sunset paddle on the lake, a two-top on a candlelit East Side patio, and the skyline going pink over the water.",
+      "tags": [
+        "sunset",
+        "wine",
+        "rooftop",
+        "riverwalk",
+        "quiet dinner"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "🥾",
+      "description": "Barton Creek Greenbelt trails, cliff jumps into the springs, kayak the lake, then a day-trip into Hill Country canyon country.",
+      "tags": [
+        "greenbelt",
+        "kayak",
+        "hiking",
+        "swimming holes",
+        "day trips"
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "icon": "🎸",
+      "description": "The Live Music Capital earns it nightly. Red River clubs, South Congress stages, honky-tonks, and a heritage that runs from Victory Grill to Armadillo World HQ.",
+      "tags": [
+        "live music",
+        "honky-tonk",
+        "blues",
+        "ACL",
+        "SXSW"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🍸",
+      "description": "Rainey Street bungalow bars, Sixth Street chaos, East Side cocktail dens, and rooftops that don't call last round early.",
+      "tags": [
+        "Rainey Street",
+        "Sixth Street",
+        "cocktails",
+        "rooftops",
+        "dive bars"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧",
+      "description": "Splash pads and spring pools, the bat show, the Thinkery, Zilker's train and trails — Austin's easy on kids and easier on parents.",
+      "tags": [
+        "Zilker Park",
+        "splash pads",
+        "bats",
+        "museums",
+        "trains"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Austin-Bergstrom International Airport (AUS) sits about 8 miles southeast of downtown, roughly 15-25 minutes by car depending on traffic. The Capital Metro Rapid 20 bus and rideshare both run the airport-to-downtown corridor.",
+    "local_transport": "A car makes the sprawl and the Hill Country day-trips easy, but downtown, South Congress, Rainey, and the East Side are walkable and bike-friendly. CapMetro runs buses, the MetroRapid lines, and a single Red Line commuter rail; rideshare and rentable e-scooters/bikes fill the gaps. The Lady Bird Lake trail connects much of the central core on foot."
+  },
+  "side_trips": [
+    {
+      "name": "Lockhart",
+      "distance": "35 minutes south",
+      "pitch": "The Barbecue Capital of Texas, and it isn't close. Four legendary smokehouses in one small courthouse town — this is the pilgrimage serious eaters make.",
+      "highlights": [
+        "Kreuz Market",
+        "Smitty's Market",
+        "Black's Barbecue",
+        "Caldwell County Courthouse square"
+      ]
+    },
+    {
+      "name": "Fredericksburg",
+      "distance": "1.5 hours west",
+      "pitch": "German Hill Country roots, a walkable Main Street of biergartens and shops, and the gateway to Texas Wine Country's Highway 290 tasting corridor.",
+      "highlights": [
+        "Main Street shops & biergartens",
+        "Highway 290 wineries",
+        "Enchanted Rock State Natural Area",
+        "National Museum of the Pacific War",
+        "peach stands in summer"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Armadillo",
+    "greeting": "Well hey there, welcome to Austin — pull up, take a breath, you made it. I'm the Armadillo, named for the old World Headquarters where this town learned to be gloriously itself. Whatcha hungry for — brisket, a swim, or a little live music?",
+    "personality": "Keep-it-weird warm, patient as a food-truck line on a Saturday, zero pretension. Talks slow, points true, treats a first-timer and a fifth-gen local exactly the same. Knows the smoke's worth the wait and the water's worth the drive.",
+    "sign_off": "Now go get in the springs before it gets hot — I'll keep your spot in line. Stay weird out there."
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "bats-congress-bridge.jpg",
+      "district-east-austin.jpg",
+      "water-barton-springs.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {},
+    "section_breaks": {}
+  }
+}

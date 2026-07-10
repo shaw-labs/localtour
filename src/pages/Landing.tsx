@@ -17,7 +17,13 @@ const CITIES=[
   {slug:"las-vegas",name:"Las Vegas",state:"NV",tagline:"What Happens Here, Stays Here",vibe:"641K people · 277 places",hero:"hero-strip-night.jpg",link:"/vegas/"},
   {slug:"los-angeles",name:"Los Angeles",state:"CA",tagline:"Creative Capital of the Pacific",vibe:"3.9M people · 154 places",hero:"hero-dtla-rain-glow.jpg",link:"/cities/los-angeles/"},
   {slug:"smoky-mountains",name:"Smoky Mountains",state:"TN",tagline:"Mountains Do the Talking",vibe:"155 places curated",hero:"hero-fall-foliage.jpg",link:"/cities/smoky-mountains/"},
-  {slug:"phoenix",name:"Phoenix",state:"AZ",tagline:"Where the Desert Keeps Its Own Hours",vibe:"93 places curated",hero:"hero.jpg",link:"/cities/phoenix"},
+  {slug:"phoenix",name:"Phoenix",state:"AZ",tagline:"Where the Desert Keeps Its Own Hours",vibe:"93 places curated",hero:"hero-aerial.jpg",link:"/cities/phoenix"},
+  {slug:"salt-lake-city",name:"Salt Lake City",state:"UT",tagline:"Where the Greatest Snow on Earth Meets the City",vibe:"102 places curated",hero:"hero-aerial.jpg",link:"/cities/salt-lake-city"},
+  {slug:"nashville",name:"Nashville",state:"TN",tagline:"Every Street Is Somebody's Second Verse",vibe:"101 places curated",hero:"hero-aerial.jpg",link:"/cities/nashville"},
+  {slug:"kansas-city",name:"Kansas City",state:"MO",tagline:"Low and Slow, and Worth Every Minute",vibe:"97 places curated",hero:"hero-aerial.jpg",link:"/cities/kansas-city"},
+  {slug:"denver",name:"Denver",state:"CO",tagline:"Basecamp for a Mile-High Life",vibe:"98 places curated",hero:"hero-aerial.jpg",link:"/cities/denver"},
+  {slug:"austin",name:"Austin",state:"TX",tagline:"Keep It Weird, Keep It Easy",vibe:"105 places curated",hero:"hero-aerial.jpg",link:"/cities/austin"},
+  {slug:"portland",name:"Portland",state:"OR",tagline:"Keep It Weird, Keep It Covered",vibe:"104 places curated",hero:"hero-aerial.jpg",link:"/cities/portland"},
 ];
 const COMING_SOON=["Phoenix","Salt Lake City","Nashville","Kansas City","Denver","Austin","Portland"];
 const FEATURES: any[]=[

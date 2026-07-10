@@ -1,0 +1,48 @@
+[
+  {
+    "id": "crossroads-of-the-west-slc",
+    "title": "The 250 Trail: Salt Lake City",
+    "hook": "From a pioneer's-eye overlook to State Street's global kitchens — the Crossroads of the West doing what it's always done: taking in the world and feeding it well.",
+    "narrative": "Every powder day I tell flatlanders the same thing: this valley is a crossroads, and always has been. In July 1847 the first Latter-day Saint pioneers hauled up a modest knoll north of downtown and glassed the whole basin — that's Ensign Peak, still a short, steep climb for a huge view (take it slow, the altitude is real up here). Days earlier their wagons had rolled out of Emigration Canyon at the spot now marked by This Is the Place Heritage Park, where Brigham Young is said to have called the valley the right place. Downtown, the Church History Museum keeps that pioneer story in artifacts just west of Temple Square. But here's the part the guidebooks miss: the same crossroads that drew wagon trains now draws the planet. State Street and its side blocks have become one long immigrant kitchen. Fuel up at Salt Lake Roasting Co., pouring since 1981, then chase mole at Red Iguana, a Cardenas-family institution since 1985. Scoop injera by hand at Mahider, dig into hand-folded mantu at Afghan Kitchen, and finish over mezze at Mazza. Same valley, new caravans. That's the Crossroads of the West — heritage on the benches, the whole world on a dinner plate.",
+    "neighborhoods": [
+      "Capitol Hill / Ensign Peak",
+      "This Is the Place (East Bench)",
+      "Temple Square & Downtown",
+      "State Street corridor"
+    ],
+    "stops": [
+      {
+        "biz": "Ensign Peak Nature Park",
+        "note": "Start where the pioneers did: a short, lung-testing climb to the knoll they summited days after entering the valley in 1847. Best light is early morning before the canyon winds pick up — and yes, pace yourself, you're already above 4,300 feet."
+      },
+      {
+        "biz": "This Is the Place Heritage Park",
+        "note": "The mouth of Emigration Canyon, where the wagon trains rolled in and the 'right place' line entered local legend. Living-history village and a big monument mark the spot the whole city grew from."
+      },
+      {
+        "biz": "Church History Museum",
+        "note": "A block west of Temple Square, this is the artifact vault of the pioneer story — handcarts, quilts, and trail diaries. Free, air-conditioned, and a perfect midday reset between the benches and the dinner crawl."
+      },
+      {
+        "biz": "Salt Lake Roasting Co.",
+        "note": "Pouring since 1981 and still the town's grown-up caffeine anchor. Grab a pour-over and a pastry here before you point the truck toward State Street — you'll want the fuel."
+      },
+      {
+        "biz": "Red Iguana",
+        "note": "The Cardenas family has been ladling out killer mole since 1985. Get the mole sampler so you can taste all seven, and don't be shocked by the wait — it's part of the ritual."
+      },
+      {
+        "biz": "Mahider Ethiopian Restaurant & Market",
+        "note": "No forks needed — you scoop spongy injera by hand through spiced stews. Order the veggie combo for the full spread, then browse the attached market on your way out."
+      },
+      {
+        "biz": "Afghan Kitchen",
+        "note": "Hand-folded mantu (dumplings under yogurt and lentil sauce) and tender kabobs from one of the valley's refugee-community kitchens. Come hungry and share family-style — that's how it's meant to go."
+      },
+      {
+        "biz": "Mazza",
+        "note": "Close the loop over Middle Eastern mezze — muhammara, labneh, and slow-cooked lamb. A calm, wine-friendly finish to a day that started on a pioneer's overlook and ended at the planet's dinner table."
+      }
+    ]
+  }
+]

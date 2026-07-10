@@ -1,0 +1,47 @@
+[
+  {
+    "id": "250-trail-kansas-city",
+    "title": "The 250 Trail: Kansas City",
+    "hook": "Follow the smoke from the jazz clubs of 18th & Vine to the pits that same neighborhood built — one long, low-and-slow lineage of Black Kansas City genius.",
+    "narrative": "Some things you can't rush. A brisket takes all night, and so did this neighborhood's music — the two came up together, in the same blocks, off the same restless brilliance. In the 1920s and '30s, 18th & Vine was the beating heart of Black Kansas City: a jazz town where Count Basie and Charlie Parker cut their teeth, and where, by some counts, close to a hundred barbecue joints crowded the same streets. Henry Perry, a Tennessee man who came to town in 1907, sold smoked meat from a stand near 18th & Vine and later worked a trolley barn at 19th and Highland — earning the title Father of Kansas City barbecue. His apprentices carried the fire forward: Arthur and Charlie Bryant, and Arthur Pinkard, who first cooked for Gates. This trail runs that lineage low and slow. Start where the music lives — the American Jazz Museum, the Negro Leagues Baseball Museum next door, the after-hours jam at the Mutual Musicians Foundation, a union hall since 1917 and the oldest continuously running African-American club in the country. Then follow your nose to the pits. I won't tell you which burnt end wins; that's a debate best settled with a full plate and an open mind. Just come hungry, and come patient.",
+    "neighborhoods": [
+      "18th & Vine",
+      "East Side",
+      "Crossroads Arts District"
+    ],
+    "stops": [
+      {
+        "biz": "American Jazz Museum",
+        "note": "Start at the source. This is the story of the sound 18th & Vine sent out to the world — Basie, Parker, and the after-hours town that raised them. The pits and the horns grew up on the same blocks; understand one and you'll taste the other."
+      },
+      {
+        "biz": "Negro Leagues Baseball Museum",
+        "note": "Right next door under the same roof. The Kansas City Monarchs were as much a part of this neighborhood's pride as the music and the smoke. Same era, same streets, same genius pushed to the margins and shining anyway."
+      },
+      {
+        "biz": "The Blue Room",
+        "note": "Living jazz inside the museum complex — not a re-creation, a working club. Sit close, order a drink, and let the rhythm section warm you up the way a fire warms a pit: slow, steady, no hurry."
+      },
+      {
+        "biz": "Mutual Musicians Foundation",
+        "note": "A union hall since 1917 and a National Historic Landmark — the oldest continuously running African-American club in the country. The legendary jam sessions run Friday and Saturday from around 1:30 a.m. till dawn. Night owls only; this is where the town's soul stays up late."
+      },
+      {
+        "biz": "Arthur Bryant's Barbeque",
+        "note": "Now we chase the smoke. Charlie and Arthur Bryant learned the craft working for Henry Perry himself; Arthur took the place over in 1946. Get the burnt ends and a mountain of fries — this is the pit that made Kansas City a barbecue word."
+      },
+      {
+        "biz": "Gates Bar-B-Q",
+        "note": "The other half of the argument. Arthur Pinkard, another Perry apprentice, first fired the Gates pits — so the rivalry you're tasting is really two branches of the same family tree. 'Hi, may I help you?' Say yes."
+      },
+      {
+        "biz": "LC's Bar-B-Q",
+        "note": "An East Side pit for the purist — heavy smoke, generous hand, no frills. Order the burnt ends and the fries and understand why some KC folks will die on this hill. I'm not picking sides; I'm just eating well."
+      },
+      {
+        "biz": "Green Lady Lounge",
+        "note": "Close the loop where you began — with live jazz, seven nights, red-lit and low-ceilinged in the Crossroads. The music never stopped in this town; it just moved a few blocks. End the day full of smoke and swing, the way KC intends."
+      }
+    ]
+  }
+]

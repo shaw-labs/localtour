@@ -1,0 +1,110 @@
+[
+  {
+    "id": "deal-rum-club-happy-hour",
+    "business_name": "Rum Club",
+    "category": "bars_nightlife",
+    "offer_text": "Rum Club runs its happy hour Sunday through Thursday, 4-7pm, with rotating drink specials and $1 off menu bites at the bar. Grab a stool early, before the after-work crowd claims them.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-breakside-brewery-happy-hour",
+    "business_name": "Breakside Brewery",
+    "category": "bars_nightlife",
+    "offer_text": "Happy hour at Breakside runs Sunday through Thursday, 3-6pm: $1 off house-brewed pints plus $2 select sides, $4 apps, and a $6 cheeseburger or steamed mussels. There's a late-night repeat, too, if you keep odd hours.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-wayfinder-beer-happy-hour",
+    "business_name": "Wayfinder Beer",
+    "category": "bars_nightlife",
+    "offer_text": "Wayfinder pours happy hour Monday through Thursday, 3-5pm, and all day Sunday: $1 off house beers alongside wings, chicharrones, and jalapeno popper rangoons. The lagers are the ones locals argue about.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-st-jack-happy-hour",
+    "business_name": "St. Jack",
+    "category": "dining",
+    "offer_text": "St. Jack keeps a bar-only happy hour daily, 4-6pm, plus a late seating 10pm to close, with drink specials and a menu that lets you taste the French kitchen's greatest hits for a fraction of dinner prices.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-higgins-happy-hour",
+    "business_name": "Higgins Restaurant & Bar",
+    "category": "dining",
+    "offer_text": "Downtown's original beer bar runs happy hour daily, 3-6pm (and again evenings): 20% off drinks and $5-$7 bar snacks. It's the civilized way to sample a Portland institution without the white-tablecloth bill.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-screen-door-eastside-happy-hour",
+    "business_name": "Screen Door Eastside",
+    "category": "dining",
+    "offer_text": "Screen Door Eastside runs happy hour Monday through Friday, 4:30-5:30pm and 8pm to close: $2 off drafts, $5 house wine and wells, and Southern bar plates. Best odds of a seat without the legendary brunch line.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-palomar-happy-hour",
+    "business_name": "Palomar",
+    "category": "bars_nightlife",
+    "offer_text": "Palomar pours a daily happy hour with $6 frozen daiquiris, the house specialty. Croquetas, empanadas, and palm-tree wallpaper included; it's the closest thing to a Havana afternoon on NW 23rd.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-hey-love-happy-hour",
+    "business_name": "Hey Love",
+    "category": "bars_nightlife",
+    "offer_text": "Hey Love runs happy hour Monday through Friday, 3-5pm: $10 classic cocktails plus discounted apps, wine, and draft beer in the jungle-lush room off Burnside. Walk-in only, so come early and stay for the plants.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "deal-prost-marketplace-happy-hour",
+    "business_name": "Prost! Marketplace",
+    "category": "bars_nightlife",
+    "offer_text": "Prost! runs a weekday happy hour on its German drafts and steins, spilling out into the Mississippi Avenue beer garden and the food-cart pod behind it. Good prices, better pretzels, weather permitting.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_store",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  }
+]

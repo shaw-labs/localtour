@@ -1,0 +1,247 @@
+{
+  "slug": "portland",
+  "name": "Portland",
+  "state": "Oregon",
+  "region": "Pacific Northwest",
+  "tagline": "Keep it weird, keep it covered.",
+  "description": "A green, low-slung river city wedged between two mountains and a valley full of vineyards, where the coffee is taken seriously, the beer more so, and half the best meals in town come out of a converted trailer parked in a gravel lot. Portland runs on independent everything — bookstores the size of a city block, roasters that change hands and change the whole neighborhood's morning, food-cart pods where a dozen immigrant kitchens share a curb. Cross the river and Forest Park swallows you whole; cross the mountains and you hit the coast or the wine country in under two hours. Bring a rain shell and no expectations about pretense — this is a town that would rather be interesting than impressive, and mostly pulls it off.",
+  "coordinates": {
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  "timezone": "America/Los_Angeles",
+  "identity": {
+    "known_for": "Food-cart pods and immigrant foodways, Powell's City of Books and an independent-everything ethos, third-wave coffee and a legendary beer scene, Forest Park and the Japanese Garden, roses and the June Rose Festival, and the Willamette Valley wine country an hour south",
+    "vibe": "Green, unhurried, and cheerfully unpretentious — a rainy-season town that turned staying indoors into an art form and dry-season summers into a nine-week celebration, where quality is quiet and pretense gets side-eyed",
+    "best_season": "Summer (July through September), the dry-season peak of long golden evenings, patio weather, and wide-open mountain and coast access — though June's Rose Festival and the shoulder months have their own damp charm",
+    "visitor_type": "Food travelers working the cart pods, coffee and beer pilgrims, bookstore browsers and makers-market wanderers, hikers and garden-goers, wine-country day-trippers, and rainy-day culture-seekers who came prepared for the weather"
+  },
+  "hero": {
+    "summer": "Nine weeks of payoff — the rain clocks out around the Fourth, the evenings stretch long and gold, every patio and cart pod fills up, and the mountains and coast sit an easy drive in either direction. This is the Portland we spend the other ten months waiting for.",
+    "fall": "The rains ease back in gently, the vineyards down in the valley bring in the harvest, the light goes low and amber through the fir trees, and the whole town settles into sweater weather and the season's first excuse to linger over coffee.",
+    "winter": "Grey, wet, and honestly kind of great once you make peace with it — this is bookstore-and-bar season, the long-planner months when a covered cart pod, a corner booth, and a good roaster's back room are the whole point. Bring the rain shell, lose the umbrella like a local.",
+    "spring": "The rain's still around but the roses are plotting their June takeover, the cherry blossoms line the waterfront, and every dry afternoon feels stolen — so you take the walk in Forest Park while you can and duck into a cafe when the sky reconsiders."
+  },
+  "nexus": {
+    "type": "downtown-cultural-core",
+    "anchor": "Powell's City of Books",
+    "anchor_url": "https://www.powells.com/bookstore/powells-city-of-books",
+    "radius": "Downtown and the West End — roughly from Powell's at West Burnside and 10th through the Pearl District, down to Old Town Chinatown and the Waterfront, an easy walkable-and-streetcar spread of a couple dozen blocks",
+    "services": [
+      "independent bookstore",
+      "downtown & Pearl District dining",
+      "food-cart pods",
+      "craft breweries & coffee roasters",
+      "hotels & lodging",
+      "streetcar & transit hub"
+    ],
+    "affiliate_density": "high",
+    "description": "Downtown Portland's cultural core radiates out from Powell's City of Books — a full city block of new and used books that's open 365 days a year and doubles as the town's living room. From that corner it's a walkable, streetcar-linked spread through the gallery-and-restaurant Pearl District, the historic bones of Old Town Chinatown, and the hotels and cart pods of the West End. This is the concentrated belt where lodging, dining, and Portland's independent retail all sit within a few damp blocks of each other — the natural base camp whatever the weather's doing."
+  },
+  "nexus_grid": [
+    {
+      "id": "books",
+      "title": "The Bookstore",
+      "icon": "book-open",
+      "description": "Powell's City of Books fills a full block with over a million new and used titles across color-coded rooms, open 10 to 9 every single day of the year. Grab a coffee, get lost in the Rose Room, and give yourself more time than you think you need."
+    },
+    {
+      "id": "pods",
+      "title": "Cart Pods",
+      "icon": "utensils",
+      "description": "The food-cart pods are Portland's edible melting pot — a dozen immigrant kitchens sharing a gravel lot and a curb, from Thai to Georgian to Venezuelan. Many pods now roof and heat their common areas, which is exactly why they carry the rainy months."
+    },
+    {
+      "id": "pearl",
+      "title": "Pearl District",
+      "icon": "palette",
+      "description": "Old warehouse blocks turned galleries, breweries, and restaurants, tied together by the free-zone streetcar. First Thursday art walks fill the sidewalks; the rest of the month it's an easy graze from tasting room to tasting room."
+    },
+    {
+      "id": "coffee",
+      "title": "The Roasters",
+      "icon": "coffee",
+      "description": "Third-wave coffee is close to a civic religion here, and downtown's your entry point — roaster cafes where the pour-over is deliberate and someone behind the counter can tell you exactly which farm and which season is in the cup."
+    },
+    {
+      "id": "stay",
+      "title": "Downtown Stays",
+      "icon": "bed",
+      "description": "Boutique and historic hotels stacked through downtown and the Pearl, most within walking distance of Powell's, the Waterfront, and a light-rail line straight from the airport. The car stays parked; the city's on foot from here."
+    },
+    {
+      "id": "oldtown",
+      "title": "Old Town Chinatown",
+      "icon": "landmark",
+      "description": "The city's oldest quarter, home to the walled Lan Su Chinese Garden and the Portland Chinatown Museum — a quiet, layered start point for the immigrant foodways story that the cart pods carry forward a few blocks away."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "utensils",
+      "description": "Work the cart pods first — a dozen immigrant kitchens sharing a curb — then graduate to the chef-driven rooms, the doughnut lines, and a beer and coffee scene that both punch national. This is a food town that never got the memo about pretense.",
+      "tags": [
+        "food-carts",
+        "farm-to-table",
+        "james-beard",
+        "doughnuts",
+        "brunch"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "coffee",
+      "description": "A slow pour-over, a corner-booth afternoon, a bookstore you never quite finish, and a walk under the firs when the sky allows. Portland invented the low gear and perfected it for rainy days.",
+      "tags": [
+        "coffee",
+        "bookstores",
+        "cafes",
+        "slow",
+        "rainy-day"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "heart",
+      "description": "The Japanese Garden in a light mist, a Willamette Valley tasting room at golden hour, a candlelit table in a converted warehouse, and a coast sunset a couple hours west. Understated and unforgettable, like the town.",
+      "tags": [
+        "wine",
+        "gardens",
+        "date-night",
+        "scenic",
+        "coast"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "mountain",
+      "description": "Forest Park's 80-plus miles of trail start inside the city limits; from there it's the Columbia Gorge waterfalls, Mount Hood, and the coast, all inside a two-hour radius. Pack the rain shell and go.",
+      "tags": [
+        "hiking",
+        "forest-park",
+        "waterfalls",
+        "trails",
+        "coast"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "palette",
+      "description": "Powell's and the Pearl galleries, the Portland Art Museum, Lan Su Chinese Garden and the Chinatown Museum, and the maker booths of Saturday Market — plus the mural-and-vintage sprawl of the Hawthorne and Alberta arts districts.",
+      "tags": [
+        "bookstores",
+        "museums",
+        "galleries",
+        "saturday-market",
+        "arts-districts"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "moon",
+      "description": "Craft breweries and taprooms by the dozen, cocktail bars hidden behind unmarked doors, dive bars with actual character, and live music from jazz basements to indie rock rooms. Low-key by design, and all the better for it.",
+      "tags": [
+        "breweries",
+        "cocktails",
+        "dive-bars",
+        "live-music",
+        "taprooms"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "users",
+      "description": "OMSI's hands-on science floors, the Oregon Zoo, the vintage carousel and rides at Oaks Park, a Forest Park trail scaled to short legs, and a cart-pod dinner where everyone picks their own cuisine. Rain plans always at the ready.",
+      "tags": [
+        "omsi",
+        "zoo",
+        "parks",
+        "kid-friendly",
+        "carousel"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Portland International Airport (PDX) sits about 12 miles northeast of downtown, and the honest local move is the MAX Red Line light rail — it runs straight from the terminal to the city center in roughly 40 minutes for a couple of dollars, no rental car required. Rideshare and taxis reach downtown in 20 to 30 minutes depending on traffic across the river.",
+    "local_transport": "Downtown, the Pearl, and Old Town are genuinely walkable, and TriMet ties the region together — MAX light rail, the Portland Streetcar loop, and an extensive bus network, all on one fare (about $2.80 for 2.5 hours, day passes available). Bike infrastructure is among the best in the country. You'll want a car or a wine-tour shuttle for the Willamette Valley, the Gorge, and the coast, but inside the city a car is more parking hassle than help."
+  },
+  "side_trips": [
+    {
+      "name": "Willamette Valley Wine Country",
+      "distance": "About 45 minutes to 1 hour south",
+      "pitch": "Oregon's Pinot Noir heartland starts less than an hour south of downtown — the Dundee Hills and the Chehalem and Yamhill valleys, where small-lot tasting rooms and hillside vineyards make one of the world's great cool-climate wine regions feel refreshingly unstuffy.",
+      "highlights": [
+        "Dundee Hills Pinot Noir tasting rooms",
+        "Willamette Valley vineyard tours",
+        "Farm-to-table dining in Newberg and McMinnville",
+        "Hot-air ballooning over the vines",
+        "Fall harvest and crush season"
+      ]
+    },
+    {
+      "name": "Columbia River Gorge & Multnomah Falls",
+      "distance": "About 45 minutes east",
+      "pitch": "A 45-minute drive up the Historic Columbia River Highway delivers you to a canyon lined with waterfalls, crowned by the 620-foot, two-tier Multnomah Falls — the most-visited natural site in the Pacific Northwest and an easy, jaw-dropping half-day from the city.",
+      "highlights": [
+        "Multnomah Falls and its footbridge",
+        "Historic Columbia River Highway waterfall corridor",
+        "Vista House at Crown Point",
+        "Gorge day hikes (Wahkeena, Horsetail Falls)",
+        "Hood River and windsurfing"
+      ]
+    },
+    {
+      "name": "Cannon Beach & the Oregon Coast",
+      "distance": "About 1.5 hours west",
+      "pitch": "Ninety minutes west through the Coast Range puts you on the sand at Cannon Beach, where the 235-foot Haystack Rock rises straight out of the surf and the tidepools fill with sea stars — the quintessential moody, dramatic Oregon coastline.",
+      "highlights": [
+        "Haystack Rock and its tidepools",
+        "Cannon Beach's wide sand and art galleries",
+        "Ecola State Park viewpoints",
+        "Nearby Seaside promenade",
+        "Coastal seafood and clam chowder"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Regular",
+    "greeting": "Hey. Grab the counter seat, the one that wobbles — you get used to it. I'm the Regular. I've eaten at every pod in this town, watched three of my favorite roasters change hands, and I can tell you which ones still pour it right. Tell me what you're after and I'll steer you true. And yeah, it might rain. It's fine.",
+    "personality": "Dry PNW humor, deeply local, allergic to hype. Holds down a counter seat at three different cart pods and knows the staff by name. Will tell you when a place has slipped since the ownership changed, and when the tourist-famous spot is actually worth the line. Rain is never an excuse — it's a filter. Warm underneath the deadpan, and quietly proud of a city that would rather be interesting than impressive.",
+    "sign_off": "Lose the umbrella, keep the rain shell, and go see what's cooking in that gravel lot. — The Regular"
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "district-alberta.jpg",
+      "food-cart-pod.jpg",
+      "forest-park.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {},
+    "section_breaks": {}
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "morning_starts": [
+    {
+      "title": "Barista Parlor (East Nashville)",
+      "business": "Barista Parlor (East Nashville)",
+      "note": "Where East Side songwriters nurse a pour-over and pretend they're not eavesdropping on each other's lyrics.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Crema Coffee Roasters",
+      "business": "Crema Coffee Roasters",
+      "note": "A downtown roaster that's been fueling early studio calls since long before the tour buses found it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ugly Mugs Coffee and Tea",
+      "business": "Ugly Mugs Coffee and Tea",
+      "note": "The neighborhood living room on Woodland where half the room is scribbling verses in a notebook.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Dozen Bakery",
+      "business": "Dozen Bakery",
+      "note": "Start with the morning bun and a coffee here and you'll forgive the world its trespasses.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Five Daughters Bakery (12South)",
+      "business": "Five Daughters Bakery (12South)",
+      "note": "Grab a hundred-layer donut in 12South before the sidewalk fills up with the influencer crowd.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Elegy Coffee (East Nashville)",
+      "business": "Elegy Coffee (East Nashville)",
+      "note": "Quiet East Side espresso for the morning after a late writers' round runs long.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Radnor Lake State Natural Area",
+      "business": "Radnor Lake State Natural Area",
+      "note": "The city's front porch to nature — walk the lake loop and you'll swear the herons are keeping time.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Warner Parks (Percy & Edwin Warner)",
+      "business": "Warner Parks (Percy & Edwin Warner)",
+      "note": "Miles of shaded trails where I've hummed out more than one melody between the oaks.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Shelby Bottoms Greenway & Nature Center",
+      "business": "Shelby Bottoms Greenway & Nature Center",
+      "note": "The East Side's ribbon of green along the Cumberland — flat, easy, and full of morning birdsong.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Long Hunter State Park - Couchville Lake",
+      "business": "Long Hunter State Park - Couchville Lake",
+      "note": "A paved lake loop out at Percy Priest where the water's still and the crowds thin out.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Harpeth River State Park - Narrows of the Harpeth",
+      "business": "Harpeth River State Park - Narrows of the Harpeth",
+      "note": "Put a canoe on the Harpeth and let the current write the day's rhythm for you.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Nashville Paddle Company",
+      "business": "Nashville Paddle Company",
+      "note": "Stand-up paddleboard the reservoir at sunset — best cheap therapy in Middle Tennessee.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "National Museum of African American Music",
+      "business": "National Museum of African American Music",
+      "note": "The heart of Jefferson Street's story — where you learn every Nashville song owes its soul to this corridor.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fisk University Galleries (Carl Van Vechten & Aaron Douglas)",
+      "business": "Fisk University Galleries (Carl Van Vechten & Aaron Douglas)",
+      "note": "The Stieglitz collection on a historic Black campus — a hushed treasure most tourists never find.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Country Music Hall of Fame and Museum",
+      "business": "Country Music Hall of Fame and Museum",
+      "note": "Yes it's the big one, but stand before Hank's suit and you'll feel why we all moved here.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Historic RCA Studio B",
+      "business": "Historic RCA Studio B",
+      "note": "Elvis cut hits in this room — stand on the floor where the Nashville Sound was actually born.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Johnny Cash Museum",
+      "business": "The Johnny Cash Museum",
+      "note": "The most complete Cash collection anywhere, curated with real love rather than gift-shop gloss.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Parthenon",
+      "business": "The Parthenon",
+      "note": "A full-scale Greek temple in a city park — only in the Athens of the South, darlin'.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Third Man Records",
+      "business": "Third Man Records",
+      "note": "Jack White's yellow-and-black clubhouse — cut your own record in the booth if the spirit moves you.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Grimey's New & Preloved Music",
+      "business": "Grimey's New & Preloved Music",
+      "note": "The record store where working musicians actually shop — dig the used bins for a while.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hatch Show Print",
+      "business": "Hatch Show Print",
+      "note": "Letterpress posters carved for the Opry stars themselves — watch the presses roll and take one home.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Parnassus Books",
+      "business": "Parnassus Books",
+      "note": "Ann Patchett's indie shop, where the staff picks read like letters from a wiser friend.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fanny's House of Music",
+      "business": "Fanny's House of Music",
+      "note": "An East Side instrument shop run by folks who'll swap you a song for guitar-strap advice.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fatherland District (Shoppes on Fatherland)",
+      "business": "Fatherland District (Shoppes on Fatherland)",
+      "note": "A cluster of little East Nashville makers' shops — the anti-mall, and proud of it.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Hattie B's Hot Chicken",
+      "business": "Hattie B's Hot Chicken",
+      "note": "Start your hot chicken education here — order medium, and don't let anyone shame you.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Prince's Hot Chicken",
+      "business": "Prince's Hot Chicken",
+      "note": "The original, the source, the church of the whole tradition — respect the heat and the history.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arnold's Country Kitchen",
+      "business": "Arnold's Country Kitchen",
+      "note": "Meat-and-three done right in a cafeteria line — the roast beef is why locals stand in it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Butcher & Bee",
+      "business": "Butcher & Bee",
+      "note": "Mezze-style plates on the East Side for when you want lunch a little lighter and greener.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Silver Sands Cafe",
+      "business": "Silver Sands Cafe",
+      "note": "A tiny soul-food gem near the capitol — get there early before the fried green tomatoes vanish.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Mockingbird",
+      "business": "The Mockingbird",
+      "note": "A cheeky modern diner in the Gulch — comfort food with a wink and a good playlist.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Attaboy",
+      "business": "Attaboy",
+      "note": "No menu, no sign — just tell the bartender your mood and let them write you a cocktail.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Fox Bar & Cocktail Club",
+      "business": "The Fox Bar & Cocktail Club",
+      "note": "An East Side hideaway where the drinks are serious but nobody's taking themselves too seriously.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Southern Grist Brewing (East Nashville Taproom)",
+      "business": "Southern Grist Brewing (East Nashville Taproom)",
+      "note": "Wildly inventive small-batch beers in the neighborhood — go for the sours you won't find anywhere else.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bearded Iris Brewing",
+      "business": "Bearded Iris Brewing",
+      "note": "Hazy IPAs in Germantown that keep the local brewers honest — grab a patio seat.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Le Loup",
+      "business": "Le Loup",
+      "note": "A candlelit wine-and-cocktail nook for the golden hour before dinner runs the show.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Acme Feed & Seed",
+      "business": "Acme Feed & Seed",
+      "note": "Rooftop views over Broadway with a beer in hand — the honky-tonk chaos looks better from up here.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Lockeland Table",
+      "business": "Lockeland Table",
+      "note": "The East Nashville neighborhood restaurant — community hour cocktails, wood-fired pizza, and no pretense.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Folk",
+      "business": "Folk",
+      "note": "Wood-fired everything in a light-filled East Side room — the vegetables here sing louder than the meat.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hearts",
+      "business": "Hearts",
+      "note": "An easygoing spot where the plates are shareable and the vibe stays low-key all night.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Party Fowl",
+      "business": "Party Fowl",
+      "note": "Hot chicken meets full bar and NFL Sundays — loud, fun, and unapologetically Nashville.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Puckett's Grocery & Restaurant",
+      "business": "Puckett's Grocery & Restaurant",
+      "note": "Southern plates with a live picker in the corner — dinner and a show for the price of dinner.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Butcher & Bee",
+      "business": "Butcher & Bee",
+      "note": "Come back at night for the whipped feta and a table of small plates you'll fight over.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Bastion",
+      "business": "Bastion",
+      "note": "A 24-seat tasting room behind a bar — one of the hardest reservations in town, and worth every call.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Catbird Seat",
+      "business": "The Catbird Seat",
+      "note": "Front-row seats to the chefs at work — the closest thing to a writers' round in fine dining.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rolf and Daughters",
+      "business": "Rolf and Daughters",
+      "note": "Germantown's pasta temple — the garganelli has quietly defined Nashville dining for a decade.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "City House",
+      "business": "City House",
+      "note": "Tandy's belly-ham pizza in a converted studio — the chef's-night crowd knows to come Sunday.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Henrietta Red",
+      "business": "Henrietta Red",
+      "note": "The raw bar in Germantown — order a tower of oysters and a crisp glass, and settle in.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Peninsula",
+      "business": "Peninsula",
+      "note": "Iberian-inspired plates on the East Side that reward a long, wandering, wine-soaked evening.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Yolan",
+      "business": "Yolan",
+      "note": "Italian fine dining in Union Station's grandeur — the room alone is worth dressing up for.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Henry",
+      "business": "The Henry",
+      "note": "Dim, plush, and made for leaning in close over a shared plate and a second bottle.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Noko",
+      "business": "Noko",
+      "note": "Live-fire Asian cooking in a warm East Side glow — the open flame does half the flirting for you.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lyra",
+      "business": "Lyra",
+      "note": "Eastern Mediterranean plates and candlelight — spice, smoke, and a slow-burn kind of night.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bastion",
+      "business": "Bastion",
+      "note": "That tiny back room feels like a secret you're keeping together — book it for someone special.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Peninsula",
+      "business": "Peninsula",
+      "note": "Order the whole fish, split the natural wine, and let the East Side evening stretch out.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Robert's Western World",
+      "business": "Robert's Western World",
+      "note": "The one honky-tonk on Broadway a local will still walk into — real traditional country, cheap beer, a fried bologna sandwich.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Station Inn",
+      "business": "The Station Inn",
+      "note": "Bluegrass in a cinderblock room in the Gulch — the players here are the ones the stars call to sit in.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Santa's Pub",
+      "business": "Santa's Pub",
+      "note": "Karaoke in a Christmas-lit trailer run by a man in a Santa suit — pure, unfiltered Nashville, cash only.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tootsie's Orchid Lounge",
+      "business": "Tootsie's Orchid Lounge",
+      "note": "The purple room where Opry legends slipped in for a drink — history you can still hear through the walls.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Exit/In",
+      "business": "Exit/In",
+      "note": "The Rock Block's scrappy survivor — everybody from Etheridge to punk kids has played this stage.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Acme Feed & Seed",
+      "business": "Acme Feed & Seed",
+      "note": "Three floors of bands, food, and rooftop — the sane person's way to do lower Broadway at night.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "The Parthenon",
+      "business": "The Parthenon",
+      "note": "Kids gawk at the 42-foot golden Athena while you get your art fix in Centennial Park.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cheekwood Estate & Gardens",
+      "business": "Cheekwood Estate & Gardens",
+      "note": "Fifty-five acres of gardens and a mansion — room for the little ones to run and the grown-ups to breathe.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Grand Ole Opry House",
+      "business": "Grand Ole Opry House",
+      "note": "Take the whole family to the show that made country music a radio institution — a backstage tour if you can.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Centennial Park",
+      "business": "Centennial Park",
+      "note": "Duck pond, wide lawns, and the Parthenon backdrop — the city's easiest afternoon with kids in tow.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "General Jackson Showboat",
+      "business": "General Jackson Showboat",
+      "note": "A paddlewheel cruise down the Cumberland with a musical revue — hokey in the best possible way.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Adventureworks Nashville West",
+      "business": "Adventureworks Nashville West",
+      "note": "Ziplines and treetop courses for when the kids need to burn off their pancake breakfast.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Frist Art Museum",
+      "business": "Frist Art Museum",
+      "note": "A grand old post office turned art hall — rotating shows and a kids' studio to wait out the storm.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "National Museum of African American Music",
+      "business": "National Museum of African American Music",
+      "note": "Hours of interactive galleries downtown — you'll leave humming and stay dry doing it.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Country Music Hall of Fame and Museum",
+      "business": "Country Music Hall of Fame and Museum",
+      "note": "The rainy-day standby — you could lose a whole afternoon in here and not notice the clouds.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Belcourt Theatre",
+      "business": "The Belcourt Theatre",
+      "note": "Hillsboro Village's historic cinema — indie films and repertory classics with a real projector's glow.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Johnny Cash Museum",
+      "business": "The Johnny Cash Museum",
+      "note": "Small, dry, and deeply moving — the Man in Black's whole life in one downtown block.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Parnassus Books",
+      "business": "Parnassus Books",
+      "note": "Duck in, grab a novel and a staff recommendation, and let the rain be somebody else's problem.",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

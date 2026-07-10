@@ -1,0 +1,764 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "start",
+      "menu",
+      "help",
+      "what can you do",
+      "hey"
+    ],
+    "text": "Pull up a stool. I'm the regular here — the one who's held down a counter seat at every cart pod worth knowing, watched a dozen roasters change hands, and can tell you which line is worth standing in in the rain. Portland's not shy about its opinions and neither am I. Ask me where to eat, what to drink, where to walk it off, or how to kill a wet afternoon. That last one's my specialty.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best food carts",
+      "What to do on a rainy day",
+      "Plan my perfect day",
+      "Coffee that's actually good",
+      "Take me to the coast"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "dinner",
+      "hungry",
+      "where to eat"
+    ],
+    "text": "Depends what you're chasing. For the meal you'll talk about for a year, Kann — Gregory Gourdet's live-fire Haitian room won a James Beard and it earns it. Le Pigeon does the counter-seat tasting that made half this city's chefs. Coquine up on Mount Tabor is neighborhood-perfect. But Portland's real flex is that you can eat like a king out of a shipping container — get to the carts. Where's your appetite pointing?",
+    "businesses": [
+      "Kann",
+      "Le Pigeon",
+      "Coquine",
+      "Higgins Restaurant & Bar",
+      "Navarre",
+      "St. Jack"
+    ],
+    "chips": [
+      "Best food carts",
+      "International eats",
+      "Special occasion dinner",
+      "Southern brunch",
+      "Steak night",
+      "Where the chefs eat"
+    ]
+  },
+  {
+    "keys": [
+      "cart",
+      "carts",
+      "food cart",
+      "food carts",
+      "cart pod",
+      "pods",
+      "street food",
+      "cheap eats"
+    ],
+    "text": "This is the reason to come to Portland, full stop. The pods are our town square — a ring of carts around a covered seating area, each one somebody's whole heart in a kitchen the size of a closet. Cartopia on Hawthorne runs late and is where you end a night. Hawthorne Asylum is the big handsome one with the best spread. Prost Marketplace up on Mississippi pairs carts with a great German beer hall. Don't leave without a plate of Nong's Khao Man Gai — poached chicken and rice, one dish done perfectly, the sauce is the whole religion. Then Matt's BBQ for brisket and Kim Jong Grillin' for a Korean rice bowl.",
+    "businesses": [
+      "Cartopia",
+      "Hawthorne Asylum",
+      "Prost Marketplace",
+      "The Heist",
+      "Nong's Khao Man Gai",
+      "Matt's BBQ",
+      "Kim Jong Grillin'"
+    ],
+    "chips": [
+      "Late-night carts",
+      "Best BBQ",
+      "Thai chicken and rice",
+      "Cart tour with a guide",
+      "International sit-down",
+      "Coffee nearby"
+    ]
+  },
+  {
+    "keys": [
+      "international",
+      "cuisine",
+      "asian",
+      "korean",
+      "thai",
+      "russian",
+      "japanese",
+      "ethnic",
+      "world food"
+    ],
+    "text": "Portland punches absurdly above its weight on immigrant cooking, and it's the best of what we do. Han Oak is Korean, chef Peter Cho, done out of his own home courtyard — go for the dumplings. Langbaan is the hidden Thai tasting menu behind a bookcase, reservations only, worth the scheme. Kachka is Russian-Ukrainian, order the pelmeni and a frozen horseradish vodka and don't ask questions. Nodoguro does serious Japanese, Gado Gado riffs Indonesian, República is modern Chinese, and Eem is Thai-BBQ fusion that's genuinely one of the most fun tables in town.",
+    "businesses": [
+      "Han Oak",
+      "Langbaan",
+      "Kachka",
+      "Nodoguro",
+      "Gado Gado",
+      "República",
+      "Eem"
+    ],
+    "chips": [
+      "Book Langbaan",
+      "Special occasion dinner",
+      "Best food carts",
+      "Cocktails after",
+      "Southern brunch",
+      "Rainy day plan"
+    ]
+  },
+  {
+    "keys": [
+      "special",
+      "romantic",
+      "date",
+      "anniversary",
+      "fine dining",
+      "splurge",
+      "celebrate"
+    ],
+    "text": "For the big night: Kann is the show-stopper — live fire, Haitian, a room that hums. Le Pigeon's counter is the intimate move if you like watching the cooks work. Coquine feels like being fed by a very talented friend. Jacqueline over on the eastside if your person loves oysters and a raw bar. Ox does Argentine live-fire steak with a clam-chowder starter people cross town for. And Langbaan if you want the reservation you brag about. Book any of these ahead — Portland's tables are small and the good ones fill.",
+    "businesses": [
+      "Kann",
+      "Le Pigeon",
+      "Coquine",
+      "Jacqueline",
+      "Ox",
+      "Langbaan"
+    ],
+    "chips": [
+      "Cocktails first",
+      "Book a table",
+      "Wine country day",
+      "Where to stay",
+      "Best food carts",
+      "Late-night bite"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "bars",
+      "drinks",
+      "cocktail",
+      "cocktails",
+      "drink",
+      "dive"
+    ],
+    "text": "We take our drinks seriously and our bartenders even more so. Scotch Lodge is a cellar temple of whisky with a cocktail list that'll re-educate you. Rum Club is the industry hangout — get the Rum Club Daiquiri, it's on the pin for a reason. Angel Face has no menu; tell them a spirit and a mood and trust it. Palomar does Cuban-leaning tropical drinks with real joy. Hey Love is the jungle-plant date bar. And when you want to get honest, The Sandy Hut and The Yamhill Pub are the dives that keep this town's feet on the ground.",
+    "businesses": [
+      "Scotch Lodge",
+      "Rum Club",
+      "Angel Face",
+      "Palomar",
+      "Hey Love",
+      "The Sandy Hut",
+      "The Yamhill Pub"
+    ],
+    "chips": [
+      "Craft beer instead",
+      "Live music tonight",
+      "Late-night food",
+      "Dinner first",
+      "Rainy day plan",
+      "Comedy show"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "breweries",
+      "craft beer",
+      "ipa",
+      "pint"
+    ],
+    "text": "Portland has more breweries than any city its size and it isn't close. Breakside is the one that keeps winning medals — the Dekum Pub is the cozy original neighborhood room, the flagship IPA is a rite of passage. Wayfinder does clean German-style lagers in a big industrial hall on the eastside and it's my honest weeknight answer. And Prost Marketplace pairs a proper German beer hall with a cart pod, so nobody in your group has an excuse. Bring a coat; the patios are half the point even when it's spitting.",
+    "businesses": [
+      "Breakside Brewery (Dekum Pub)",
+      "Breakside Brewery",
+      "Wayfinder Beer",
+      "Prost Marketplace"
+    ],
+    "chips": [
+      "Brewery tour with a guide",
+      "Cocktails instead",
+      "Food carts nearby",
+      "Live music",
+      "Rainy day plan",
+      "Best coffee"
+    ]
+  },
+  {
+    "keys": [
+      "music",
+      "live music",
+      "concert",
+      "show",
+      "venue",
+      "band",
+      "nightlife",
+      "dancing"
+    ],
+    "text": "The Crystal Ballroom is the one you have to feel — a 1914 floating dance floor that literally bounces under a crowd, and everybody plays it. The Aladdin Theater is the gorgeous old seated room for songwriters. Roseland is the mid-size rock box downtown. Revolution Hall is a converted high-school auditorium with a rooftop bar, my favorite room in town for sound and sightlines. Check who's in town — on any given night one of these has something worth your evening.",
+    "businesses": [
+      "Crystal Ballroom",
+      "Aladdin Theater",
+      "Roseland Theater",
+      "Revolution Hall"
+    ],
+    "chips": [
+      "Comedy instead",
+      "Bars nearby",
+      "Late-night food",
+      "What's happening this week",
+      "Cocktails first",
+      "Rainy day plan"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "funny",
+      "standup",
+      "laugh",
+      "comedy club"
+    ],
+    "text": "Helium Comedy Club down on the eastside is the real deal — national touring headliners, tight rooms, two-drink minimum, the works. It's a solid rainy-night play when you want to sit somewhere dry and let someone else do the work. Grab dinner at a cart pod first, then roll in for a late show.",
+    "businesses": [
+      "Helium Comedy Club"
+    ],
+    "chips": [
+      "Live music instead",
+      "Bars nearby",
+      "Food carts",
+      "Rainy day plan",
+      "Late-night eats",
+      "Plan my night"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "morning",
+      "espresso",
+      "roaster",
+      "caffeine"
+    ],
+    "text": "Careful — asking a Portlander about coffee is like asking about religion, and I've watched three of these roasters change hands. Stumptown on Division is the OG that put us on the map; the cold brew is still the benchmark. Coava is the pour-over purist's pick, gorgeous bar. Heart does bright Nordic-style roasts. Water Avenue and Nossa Familia are the eastside workhorses I actually drink daily, Push x Pull is the small nerdy one, and Never Coffee makes weird flavored lattes that shouldn't work and completely do.",
+    "businesses": [
+      "Stumptown Coffee Roasters (Division Street)",
+      "Coava Coffee Roasters",
+      "Heart Coffee Roasters",
+      "Water Avenue Coffee",
+      "Nossa Familia Coffee",
+      "Push x Pull",
+      "Never Coffee"
+    ],
+    "chips": [
+      "Best bakeries",
+      "Breakfast spots",
+      "Rainy day plan",
+      "Bookstore nearby",
+      "Food carts",
+      "Plan my morning"
+    ]
+  },
+  {
+    "keys": [
+      "bakery",
+      "bakeries",
+      "pastry",
+      "croissant",
+      "bread",
+      "breakfast",
+      "brunch"
+    ],
+    "text": "Ken's Artisan Bakery is the standard-bearer — the kouign-amann and the morning croissant are as good as any I've had, and Ken Forkish wrote the book, literally. Little T American Baker does a killer seeded loaf and a ham-and-cheese roll that's ruined my diet more than once. For brunch proper, Screen Door Eastside is the line-out-the-door Southern spot — get the fried chicken and waffle, split it, you'll thank me. Pair any of it with a coffee from the roaster next door.",
+    "businesses": [
+      "Ken's Artisan Bakery",
+      "Little T American Baker",
+      "Screen Door Eastside"
+    ],
+    "chips": [
+      "Best coffee",
+      "Food carts",
+      "Rainy day plan",
+      "Bookstore nearby",
+      "Lunch ideas",
+      "Plan my morning"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor",
+      "outdoors",
+      "hike",
+      "hiking",
+      "nature",
+      "park",
+      "parks",
+      "walk",
+      "trail"
+    ],
+    "text": "We wear our rain like a badge and get outside anyway. Forest Park is the crown jewel — over 5,000 acres inside city limits, and the Wildwood Trail runs 30 miles through it; you can walk in from the neighborhood and be in deep woods in ten minutes. Mount Tabor is an actual extinct volcano turned park, best sunset in town. Hoyt Arboretum sits up top with labeled trails through trees from all over. Powell Butte and Tryon Creek round out the local green. Bring layers, expect mud, embrace it.",
+    "businesses": [
+      "Forest Park & the Wildwood Trail",
+      "Mount Tabor Park",
+      "Hoyt Arboretum",
+      "Powell Butte Nature Park",
+      "Tryon Creek State Natural Area"
+    ],
+    "chips": [
+      "Waterfalls day trip",
+      "Japanese Garden",
+      "River kayaking",
+      "Bike rentals",
+      "Rainy day plan",
+      "Guided hike"
+    ]
+  },
+  {
+    "keys": [
+      "garden",
+      "gardens",
+      "japanese garden",
+      "chinese garden",
+      "flowers",
+      "roses",
+      "peaceful",
+      "quiet"
+    ],
+    "text": "Two of the best gardens in North America, both worth planning around. The Portland Japanese Garden up in the West Hills is regularly called the most authentic outside Japan — go on a misty morning, it's transcendent, and the covered pavilions mean rain only makes it prettier. Lan Su Chinese Garden is a full walled Ming-dynasty garden tucked into Old Town Chinatown, with a tea house upstairs; it's my go-to when the sky opens up. Both are calm, both are indoor-ish enough for our weather.",
+    "businesses": [
+      "Portland Japanese Garden",
+      "Lan Su Chinese Garden",
+      "Hoyt Arboretum"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "Old Town food trail",
+      "Museums nearby",
+      "Tea and quiet",
+      "Forest Park hike",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "museums",
+      "art",
+      "see",
+      "attraction",
+      "sightseeing",
+      "culture",
+      "history"
+    ],
+    "text": "Rainy-day gold, all of it. The Portland Art Museum is the biggest in the region — strong Native American and Northwest collections. OMSI is the science museum on the eastside with a real submarine you can tour and a planetarium; it's a hit at any age. For the local story, the Oregon Historical Society Museum downtown and the small, sharp Portland Chinatown Museum in Old Town both punch above their size. And Pittock Mansion isn't just a French chateau up the hill — it's the best skyline-and-Mount-Hood view in the city.",
+    "businesses": [
+      "Portland Art Museum",
+      "Oregon Museum of Science and Industry (OMSI)",
+      "Oregon Historical Society Museum",
+      "Portland Chinatown Museum",
+      "Pittock Mansion"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "Gardens nearby",
+      "Old Town food trail",
+      "Family activities",
+      "Bookstore stop",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "basketball",
+      "soccer",
+      "blazers",
+      "timbers",
+      "stadium",
+      "arena"
+    ],
+    "text": "Portland is a two-team town and both are a genuinely great time. The Trail Blazers play at the Moda Center — loud building, real NBA history. But the ticket you want is a Timbers or Thorns match at Providence Park, one of the oldest stadiums in the country and the best atmosphere in American soccer, full stop. The Timbers Army in the north end sings the whole 90 minutes and there's a live chainsaw. I'm not making that up. Go.",
+    "businesses": [
+      "Moda Center",
+      "Providence Park"
+    ],
+    "chips": [
+      "Bars nearby",
+      "Food carts before",
+      "Live music instead",
+      "Where to stay",
+      "Plan my night",
+      "Rainy day plan"
+    ]
+  },
+  {
+    "keys": [
+      "tour",
+      "tours",
+      "guide",
+      "guided",
+      "nexus",
+      "experiences",
+      "affiliate",
+      "help me plan"
+    ],
+    "text": "Sometimes you want a local to do the driving and the standing-in-line for you, and there are a few outfits I'll actually vouch for. For the carts — where it's easy to get overwhelmed — Lost Plate, Forktown, and Portland Food Cart Tours all walk you through the pods and order the right things. City Brew Tours handles the breweries so nobody's the designated driver. For wine, A Great Oregon Wine Tour and Triangle Wine Country Tours run out to the Willamette Valley. And Sea to Summit, Wildwood Adventures, and the Waterfall Shuttle get you to the Gorge and the falls without renting a car.",
+    "businesses": [
+      "Lost Plate Food Tours",
+      "Forktown Food Tours",
+      "Portland Food Cart Tours",
+      "City Brew Tours Portland",
+      "A Great Oregon Wine Tour",
+      "Triangle Wine Country Tours",
+      "Sea to Summit Tours & Adventures",
+      "Wildwood Adventures",
+      "Waterfall Shuttle"
+    ],
+    "chips": [
+      "Wine country day",
+      "Waterfalls trip",
+      "Cart crawl",
+      "Brewery tour",
+      "Kayak the river",
+      "Plan my whole day"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "toddler",
+      "family friendly",
+      "with kids"
+    ],
+    "text": "Portland's an easy town with kids. OMSI is the sure thing — hands-on science, a planetarium, and a submarine, hours of it, and it's indoors for when it's pouring. The Oregon Zoo up in Washington Park is excellent and you ride there on the MAX. Right nearby, the Portland Aerial Tram is a cheap thrill — a gondola up to the hospital hill with a big view, kids love it. And Saturday Market down on the waterfront is free to wander, full of buskers and food carts. Topaz Farm out on Sauvie Island is the pumpkin-patch, pick-your-own move in season.",
+    "businesses": [
+      "Oregon Museum of Science and Industry (OMSI)",
+      "Oregon Zoo",
+      "Portland Aerial Tram",
+      "Portland Saturday Market",
+      "Topaz Farm (formerly Kruger's Farm)"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "Food carts",
+      "Outdoor adventures",
+      "Bookstore stop",
+      "Waterfalls trip",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "river",
+      "kayak",
+      "kayaking",
+      "rafting",
+      "boat",
+      "paddle",
+      "water",
+      "sauvie"
+    ],
+    "text": "Two rivers meet here and there's more water within reach than people expect. eNRG Kayaking runs trips on the Willamette and out on the Clackamas — flatwater paddles and lessons, very beginner-friendly. Oregon River Experiences does whitewater rafting on the Clackamas when you want the adrenaline version. Closer in, Kerr Bikes at Waterfront Park rents kayaks and surreys right downtown. And Sauvie Island — 15 minutes out — is beaches, birds, and berry fields; the Smith and Bybee Wetlands nearby is the quiet paddle-and-wildlife spot most visitors never find.",
+    "businesses": [
+      "eNRG Kayaking",
+      "Oregon River Experiences (Clackamas River Rafting)",
+      "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+      "Sauvie Island Wildlife Area",
+      "Smith and Bybee Wetlands Natural Area"
+    ],
+    "chips": [
+      "Bike rentals",
+      "Waterfalls trip",
+      "Forest Park hike",
+      "Guided adventure",
+      "Farm and pumpkins",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "bike",
+      "bikes",
+      "cycling",
+      "bike rental",
+      "bike tour",
+      "ride"
+    ],
+    "text": "Portland's a bike town — flat, gridded, and lousy with lanes. Everybody's Bike Rentals in the inner eastside is the neighborhood shop for a cheap day cruiser. Cycle Portland runs guided rides that string together the bridges, the parks, and a beer or two. Kerr Bikes at Waterfront Park is the downtown grab-and-go right on the river path. Easiest loop for a first-timer: rent, cross a bridge, ride the Springwater Corridor down past the Oaks Bottom Wildlife Refuge, and let the river carry you back.",
+    "businesses": [
+      "Everybody's Bike Rentals & Tours",
+      "Cycle Portland Bike Tours & Rentals",
+      "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+      "Springwater Corridor & Oaks Bottom Wildlife Refuge"
+    ],
+    "chips": [
+      "River kayaking",
+      "Forest Park hike",
+      "Food carts",
+      "Guided tour",
+      "Rainy day plan",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "buy",
+      "store",
+      "records",
+      "vinyl",
+      "books",
+      "bookstore",
+      "vintage"
+    ],
+    "text": "Start where everyone does: Powell's City of Books, an entire city block of new-and-used books, easy to lose an afternoon and a paycheck. For vinyl, Music Millennium is the last of the great old record shops and Mississippi Records is the cult crate-diggers' spot. Tender Loving Empire stocks local makers and its own record label. Movie Madness is a beloved video store that's basically a film museum. Next Adventure for used outdoor gear, Buffalo Exchange and Xtabay for vintage clothes, Beam & Anchor and Cargo for home goods, and Pistils Nursery if you leave with a plant like a true local.",
+    "businesses": [
+      "Powell's City of Books",
+      "Music Millennium",
+      "Mississippi Records",
+      "Tender Loving Empire",
+      "Movie Madness",
+      "Next Adventure",
+      "Buffalo Exchange (Hawthorne)",
+      "Xtabay Vintage",
+      "Beam & Anchor",
+      "Cargo",
+      "Pistils Nursery",
+      "Broadway Books"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "Best coffee nearby",
+      "Saturday Market",
+      "Food carts",
+      "Farmers market",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "market",
+      "farmers market",
+      "saturday market",
+      "local",
+      "makers",
+      "crafts"
+    ],
+    "text": "Two very different markets, both essential. Portland Saturday Market under the Burnside Bridge has run every weekend since 1974 — it's the largest continuously operating open-air arts-and-crafts market in the country, all local makers, with a cart row for lunch. Different animal: the Portland Farmers Market at PSU on Saturday mornings is the serious food one — Willamette Valley produce, cheese, hazelnuts, flowers, and breakfast on the go. Do the farmers market for the morning, the Saturday Market for the afternoon browse.",
+    "businesses": [
+      "Portland Saturday Market",
+      "Portland Farmers Market at PSU",
+      "Tender Loving Empire"
+    ],
+    "chips": [
+      "Old Town food trail",
+      "Best coffee",
+      "Food carts",
+      "Shopping ideas",
+      "Rainy day plan",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "rainy",
+      "rain",
+      "raining",
+      "wet",
+      "indoor",
+      "indoors",
+      "rainy day",
+      "bad weather"
+    ],
+    "text": "Here's where I earn my keep, because it rains eight months a year and I've got this down to a science. Open at Powell's — an entire block of books, no clock, no weather. Then Lan Su Chinese Garden a few blocks over, where the covered walkways and upstairs tea house make the drizzle part of the charm. Warm up with a pour-over at Coava. Afternoon, pick your museum: the Portland Art Museum for art, OMSI for the submarine-and-planetarium version. Duck into Movie Madness to browse the film-museum shelves. Then a whisky at the subterranean Scotch Lodge, dinner at Han Oak, and if you've still got legs, a late show at Helium. You will not notice the rain once. That's the whole trick — we don't fight it, we plan around it.",
+    "businesses": [
+      "Powell's City of Books",
+      "Lan Su Chinese Garden",
+      "Coava Coffee Roasters",
+      "Portland Art Museum",
+      "Oregon Museum of Science and Industry (OMSI)",
+      "Movie Madness",
+      "Scotch Lodge",
+      "Han Oak",
+      "Helium Comedy Club"
+    ],
+    "chips": [
+      "Old Town food trail",
+      "Best coffee",
+      "Museums deeper",
+      "Cocktail bars",
+      "Cart pods under cover",
+      "Plan my whole day"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "side trip",
+      "waterfall",
+      "waterfalls",
+      "gorge",
+      "multnomah",
+      "coast",
+      "cannon beach",
+      "beach"
+    ],
+    "text": "Two escapes, both under two hours, both worth the day. East: the Columbia River Gorge, 45 minutes out, where Multnomah Falls drops 620 feet right off the highway — get there early or grab a Waterfall Shuttle, because the parking lot fills. Ecola State Park and the whole waterfall corridor make a full loop. West: the coast at Cannon Beach, 90 minutes over the range, where Haystack Rock stands offshore in the tide pools and the town's all saltwater taffy and fog. Pack a rain shell for both; the coast makes its own weather and the Gorge is a wind tunnel by design.",
+    "businesses": [
+      "Multnomah Falls",
+      "Waterfall Shuttle",
+      "Ecola State Park",
+      "Sea to Summit Tours & Adventures"
+    ],
+    "chips": [
+      "Wine country instead",
+      "Guided Gorge tour",
+      "Forest Park hike",
+      "Kayak trip",
+      "Plan my day",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "wine",
+      "wine country",
+      "willamette",
+      "vineyard",
+      "pinot",
+      "tasting"
+    ],
+    "text": "The Willamette Valley is one of the great Pinot Noir regions on earth and it starts about 45 minutes southwest of downtown. Dundee Hills, Ribbon Ridge, Yamhill-Carlton — cool-climate Pinot that goes head to head with Burgundy and doesn't blink. Don't drive it yourself if you're tasting; let A Great Oregon Wine Tour or Triangle Wine Country Tours handle the wheel and the reservations. Summer and early fall are the sweet spot, though a rainy-season tasting by a fire has its own quiet magic.",
+    "businesses": [
+      "A Great Oregon Wine Tour",
+      "Triangle Wine Country Tours"
+    ],
+    "chips": [
+      "Book a wine tour",
+      "Waterfalls instead",
+      "Special occasion dinner",
+      "Where to stay",
+      "Best coffee",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "season",
+      "seasonal",
+      "when to visit",
+      "summer",
+      "rose festival",
+      "festival",
+      "weather",
+      "best time"
+    ],
+    "text": "Straight talk on our seasons: summer, roughly July through September, is the payoff — bone-dry, 80s, endless evenings, and the reason Portlanders forgive the other nine months. June brings the Rose Festival, our big civic party, with a waterfront carnival, dragon boats, and the Grand Floral Parade — this is the City of Roses, after all. Fall is gold and mushroom season. Winter and spring are wet and green and honestly kind of romantic if you lean in — which is exactly why I keep a rainy-day plan in my back pocket year-round.",
+    "businesses": [
+      "Portland Saturday Market",
+      "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+      "Topaz Farm (formerly Kruger's Farm)"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "Summer outdoor plan",
+      "Waterfalls trip",
+      "Wine country day",
+      "Food carts",
+      "Plan my day"
+    ]
+  },
+  {
+    "keys": [
+      "pods and portals",
+      "trail",
+      "itinerary",
+      "old town",
+      "chinatown",
+      "food trail",
+      "perfect day",
+      "plan my day"
+    ],
+    "text": "My signature walk — I call it Pods & Portals, and it threads the old immigrant heart of the city into the food it left us. Start in Old Town Chinatown at Lan Su Chinese Garden, a full walled Ming garden hidden behind a city wall — sit for tea upstairs. A block away, the small, sharp Portland Chinatown Museum tells the harder story of who built this neighborhood and what happened to them. Then walk it forward into the living version: the cart pods, where a new generation of immigrant cooks does the same thing in shipping containers. Nong's Khao Man Gai for Thai chicken and rice, República for modern Chinese, Han Oak for Korean out of a family courtyard. Portals to the past, pods for the present. That's Portland in one afternoon.",
+    "businesses": [
+      "Lan Su Chinese Garden",
+      "Portland Chinatown Museum",
+      "Nong's Khao Man Gai",
+      "República",
+      "Han Oak",
+      "Cartopia"
+    ],
+    "chips": [
+      "Rainy day plan",
+      "More food carts",
+      "Best coffee nearby",
+      "Museums deeper",
+      "Saturday Market",
+      "Cocktails after"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "hotels",
+      "stay",
+      "lodging",
+      "where to stay",
+      "sleep",
+      "accommodation"
+    ],
+    "text": "Three I'd send a friend to, depending on the trip. The Nines is the downtown luxury pick — top floors of a historic department store, right on the transit mall, walk to everything. Kimpton Hotel Vintage leans into the Oregon-wine theme with a free evening pour and it's a block from Powell's. And The Society Hotel in Old Town is the characterful budget-cool option — a former sailors' boarding house with bunk rooms and private rooms and a rooftop, right on the Pods & Portals route. All three put you in walking distance of the good stuff.",
+    "businesses": [
+      "The Nines, a Luxury Collection Hotel",
+      "Kimpton Hotel Vintage Portland",
+      "The Society Hotel"
+    ],
+    "chips": [
+      "Old Town food trail",
+      "Best coffee nearby",
+      "Rainy day plan",
+      "Cocktail bars",
+      "Plan my day",
+      "Wine country day"
+    ]
+  },
+  {
+    "keys": [
+      "makers",
+      "gifts",
+      "souvenir",
+      "local goods",
+      "home goods",
+      "plants",
+      "design"
+    ],
+    "text": "If you want to bring Portland home instead of a magnet, skip the airport shop. Tender Loving Empire is wall-to-wall local makers and its own indie record label — the best one-stop for gifts with a story. Beam & Anchor and Cargo do beautifully curated home goods, Cargo especially if you like a maximalist import-warehouse rummage. Pistils Nursery is where locals buy plants and the shop itself is worth the visit. Modhaus and WonderLove round out the design-y, well-made end of things. All inner-eastside, all easy to string together on a dry afternoon.",
+    "businesses": [
+      "Tender Loving Empire",
+      "Beam & Anchor",
+      "Cargo",
+      "Pistils Nursery",
+      "Modhaus",
+      "WonderLove"
+    ],
+    "chips": [
+      "Bookstore stop",
+      "Record shopping",
+      "Saturday Market",
+      "Best coffee",
+      "Rainy day plan",
+      "Plan my day"
+    ]
+  }
+]

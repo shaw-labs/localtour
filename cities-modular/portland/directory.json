@@ -1,0 +1,2081 @@
+[
+  {
+    "name": "Kann",
+    "address": "548 SE Ash St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://kannrestaurant.com/",
+    "category": "dining",
+    "subcategory": "Haitian live-fire fine dining",
+    "price": "$$$",
+    "rating": null,
+    "description": "Gregory Gourdet's live-fire Haitian room is the one out-of-towners ask me about by name, and for once the hype checks out. Everything comes off the hearth, the dining room hums, and it walked away with the James Beard Best New Restaurant medal in 2023 plus a spot on the World's 50 Best Discovery list. Get a Resy the second the window opens.",
+    "must_try": "Griyo, the twice-cooked pork shoulder off the fire",
+    "hours": "Wed-Sun 4pm to close",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Le Pigeon",
+    "address": "738 E Burnside St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://www.lepigeon.com/",
+    "category": "dining",
+    "subcategory": "French tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Gabriel Rucker's brick box on East Burnside has been quietly running this town's French conversation for years now, multiple Beard medals deep. Grab a seat at the chef's counter if you can stomach watching your dinner get built two feet away. It's a $140 tasting now, omnivore or vegetarian, no a la carte, no apologies.",
+    "must_try": "The foie gras profiteroles",
+    "hours": "Mon-Sat 5pm-10pm, Sun 4pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coquine",
+    "address": "6839 SE Belmont St, Portland, OR 97215",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Contemporary American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Up on the shoulder of Mt. Tabor, Katy Millard's little farm-worshipping room is the kind of place regulars get territorial about. It made the 2025 James Beard Outstanding Restaurant finalist cut, the wine list is nerdy in the best way, and yes, you can get the famous salted chocolate chip cookies to go if the tasting menu isn't in the cards.",
+    "must_try": "Roast duck with plum harissa, then the smoked-salt chocolate chip cookies",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nodoguro",
+    "address": "515 SW Broadway, Portland, OR 97205",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Japanese kaiseki / omakase",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Ryan Roadhouse moved his kaiseki temple downtown, and it's still the most serious sushi-adjacent seat in the city. Pick the 15-course sousaku track or, if you've cleared your evening, the 20-plus-course marathon. He's a 2026 Beard finalist for Best Chef: Northwest, and it shows in every knife stroke.",
+    "must_try": "Dungeness crab custard on the sousaku tasting",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gado Gado",
+    "address": "1801 NE César E. Chávez Blvd, Portland, OR 97232",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Indonesian-Chinese American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Thomas Pisha-Duffly cooks his Chinese-Indonesian heritage loud and generous up in Hollywood, and the room feels like a good party you got invited to by accident. He's a 2026 James Beard Best Chef: Northwest finalist, so book ahead of the crowd that news brought in.",
+    "must_try": "Scallop crudo with pandan cream",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Han Oak",
+    "address": "511 NE 24th Ave, Portland, OR 97232",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Korean American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Peter Cho runs an ever-changing preset menu of Korean cooking built on Oregon ingredients out of what's basically his family's courtyard in Kerns. Noodle and dumpling nights, the occasional karaoke, kids underfoot. It's minimalist and chic but it eats like somebody's home, which is the whole point.",
+    "must_try": "Coke-braised galbi-jjim short ribs",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kachka",
+    "address": "960 SE 11th Ave, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Pan-Soviet / Russian",
+    "price": "$$$",
+    "rating": null,
+    "description": "Bonnie Morales turned the food of the former Soviet republics into one of Portland's great nights out. The infused vodka flight is not optional in my book, and the zakuski spread keeps landing until you cry uncle. Loud, warm, and a little chaotic in exactly the right way.",
+    "must_try": "Siberian pelmeni dumplings with a horseradish vodka",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Langbaan",
+    "address": "1818 NW 23rd Pl, Portland, OR 97210",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Thai tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "A hidden tasting-menu counter behind a Northwest Thai restaurant, digging into historical and regional recipes most menus never touch. Seats are limited, the charcoal grill does serious work, and reservations vanish fast. This is culture-class Thai cooking, not your weeknight pad see ew.",
+    "must_try": "The seasonal charcoal-grilled course on the tasting menu",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ox",
+    "address": "2225 NE Martin Luther King Jr. Blvd, Portland, OR 97212",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Argentine-inspired steakhouse",
+    "price": "$$$",
+    "rating": null,
+    "description": "Wood-grilled Argentine-style cooking on lower MLK, and the smoke gets into everything in the best possible way. The clam and bone marrow chowder is the dish people write home about, but the wood-grilled meats are the reason to come hungry. Expect a wait; it's earned.",
+    "must_try": "Smoked bone marrow clam chowder",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eem",
+    "address": "3808 N Williams Ave, Portland, OR 97227",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Thai barbecue and curry",
+    "price": "$$",
+    "rating": null,
+    "description": "The mashup nobody knew they needed: Thai curries meet Texas-style smoked brisket on North Williams, with a cocktail program that punches well above the room. Come early or come patient, and get a frozen drink into your hand while you wait. Pure Portland in one plate.",
+    "must_try": "Burnt-ends brisket coconut curry",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "República",
+    "address": "100 NW 10th Ave, Portland, OR 97209",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Modern Mexican",
+    "price": "$$$",
+    "rating": null,
+    "description": "Nixtamal from scratch, complex moles, and an ambitious Mexican tasting approach in the Pearl. This is the fine-dining end of Portland's Mexican cooking, corn milled and pressed in-house, and it reads on the plate. Reserve and give yourself the evening.",
+    "must_try": "The house mole with fresh nixtamalized-corn tortillas",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Higgins Restaurant & Bar",
+    "address": "1239 SW Broadway, Portland, OR 97205",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Farm-to-table Pacific Northwest",
+    "price": "$$$",
+    "rating": null,
+    "description": "Greg Higgins was doing farm-to-table downtown before the phrase got tired, and this James Beard-winning stalwart near the Schnitzer is still the grown-up room in town. The bar side does one of the great pastrami sandwiches in the city if the white tablecloth isn't your speed tonight.",
+    "must_try": "Grass-fed beef brisket pastrami sandwich at the bar",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jacqueline",
+    "address": "2500 SE Clinton St, Portland, OR 97202",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Seafood",
+    "price": "$$$",
+    "rating": null,
+    "description": "A little seafood room on Clinton that treats oysters and crudo with the respect they deserve. Hamachi, a proper raw bar, and a Maine lobster bun that regulars order on autopilot. Cozy enough to feel like a secret, good enough that it isn't one anymore.",
+    "must_try": "Maine lobster bun",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Screen Door Eastside",
+    "address": "2337 E Burnside St, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Southern brunch",
+    "price": "$$",
+    "rating": null,
+    "description": "The line down East Burnside on a Sunday is a Portland institution, and no, there's no skipping it. Southern comfort brunch done at scale without losing the plot. Put your name in, walk get a coffee, and come back for the plate everybody's here for.",
+    "must_try": "Fried chicken and waffles",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Navarre",
+    "address": "10 NE 28th Ave, Portland, OR 97232",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Pacific Northwest small plates / brunch",
+    "price": "$$",
+    "rating": null,
+    "description": "A chalkboard-menu wine bar on 28th that's been quietly excellent for two decades, ordering by checklist card, small European-Northwest plates, minimal fuss. The brunch does eggs about ten different ways. It's the neighborhood spot every neighborhood wishes it had.",
+    "must_try": "Eggs done ten ways at brunch, plus whatever's chalked up that morning",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Jack",
+    "address": "1610 NW 23rd Ave, Portland, OR 97210",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "French bistro",
+    "price": "$$$",
+    "rating": null,
+    "description": "Classic Lyonnaise bistro on the NW 23rd strip, doing the greatest hits properly: gougeres, steak frites, oxtail bourguignon. When somebody wants French without the tasting-menu commitment, this is where I point them. Cozy, dependable, and genuinely romantic on a rainy night.",
+    "must_try": "Steak frites",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cartopia",
+    "address": "SE 12th Ave & SE Hawthorne Blvd, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "This is the one that started the whole late-night pod religion back in 2008, and it still runs the corner of 12th and Hawthorne like it owns it. Roughly eight carts under string lights and a tent, most of them slinging until 3am on weekends. Come at midnight, order across three different carts, eat standing up in the rain like a local who's stopped noticing the rain.",
+    "must_try": "Poutine from Potato Champion, hand-cut fries under gravy and cheese curds at an hour when you shouldn't",
+    "hours": null,
+    "seasonal": "Covered and heated, so it's a legitimate rainy-night play year-round; liveliest after 10pm",
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hawthorne Asylum",
+    "address": "1080 SE Madison St, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "Twenty-plus carts, indoor and covered seating, a bar, and enough range that a table of picky friends can each get exactly what they want and still eat together. This is where I send people who say 'I don't get the food cart thing' — an hour here fixes them. Vegan Southern, Thai, sushi, all in one lot.",
+    "must_try": "Dirty Lettuce's vegan Southern comfort plates — nobody believes it's vegan until they're two bites in",
+    "hours": null,
+    "seasonal": "Well-covered, one of the more comfortable pods to hit in a downpour",
+    "modes": [
+      "foodie",
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Prost Marketplace",
+    "address": "4233 N Mississippi Ave, Portland, OR 97217",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "The walkable Mississippi Avenue pod, anchored by the German beer hall Prost next door — grab a liter, wander the carts, sit in the shared beer garden. It's the civilized way to do carts: a proper pint in hand while you decide between barbecue, vegan bowls, and gluten-free Indian.",
+    "must_try": "Native Bowl's vegan rice bowls, then a beer at Prost to wash it down",
+    "hours": null,
+    "seasonal": "Beer garden shines on a dry summer evening; Mississippi's at its best June through September",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "The Heist",
+    "address": "4727 SE Woodstock Blvd, Portland, OR 97206",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "Woodstock's pod with the thing every Portlander secretly wants in winter: real indoor seating, covered outdoor tables, and a proper bar. Korean fried chicken, bulgogi, Guyanese bake — heavy hitters in one lot on the quieter southeast side. This is my cold-and-wet-February pod.",
+    "must_try": "Frybaby's Korean fried chicken, then a Kim Jong Grillin bibim box if you've still got room",
+    "hours": null,
+    "seasonal": "Indoor seating makes it a top rainy-day option; low-key year-round",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Matt's BBQ",
+    "address": "4233 N Mississippi Ave, Portland, OR 97217",
+    "phone": "(503) 504-0870",
+    "website": "https://mattsbbqpdx.com/",
+    "category": "dining",
+    "subcategory": "food_cart",
+    "price": "$$",
+    "rating": null,
+    "description": "Texas-style brisket out of a food cart behind Prost on Mississippi, and yes, it's as good as the line suggests. Matt Vicedomini's been running the offset smoker on oak since 2015, moving 800-plus pounds of brisket a week. Go early — they cook it daily and sell out, and 'sold out' is not a suggestion here.",
+    "must_try": "The fatty brisket, sliced to order, with pickles and the warm dip sauce",
+    "hours": "Daily 11:30am–9pm (or until sold out)",
+    "seasonal": "Get there before 1pm on summer weekends or the brisket's a memory",
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nong's Khao Man Gai",
+    "address": "609 SE Ankeny St, Ste C, Portland, OR 97214",
+    "phone": "(503) 740-2907",
+    "website": "https://khaomangai.com/",
+    "category": "dining",
+    "subcategory": "food_cart",
+    "price": "$",
+    "rating": null,
+    "description": "Nong Poonsukwattana started with one cart and one dish in 2009 and basically taught the whole city what khao man gai is. Poached chicken, rice cooked in the broth, and that sauce — fermented soybean, ginger, garlic, chili — that people buy by the bottle. It grew into brick-and-mortar but it's the same laser-focused plate. This is Portland cart-scene history you can eat.",
+    "must_try": "Khao man gai — poached chicken over broth-cooked rice, and do not skip the sauce",
+    "hours": "Daily 9am–9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kim Jong Grillin'",
+    "address": "4727 SE Woodstock Blvd, Portland, OR 97206",
+    "phone": null,
+    "website": "https://kimjonggrillin.com/",
+    "category": "dining",
+    "subcategory": "food_cart",
+    "price": "$",
+    "rating": null,
+    "description": "Han Ly Hwang's Korean cart, going since 2009 and now parked at The Heist in Woodstock. Bold, unfussy, generous — bibim boxes, kimchi fried rice, short rib. Another one of those carts that could've gone full restaurant years ago and just... didn't need to. The cart is the point.",
+    "must_try": "The KJG bibim box — grilled meat, vegetables, egg, and rice built to order",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stumptown Coffee Roasters (Division Street)",
+    "address": "4525 SE Division St, Portland, OR 97206",
+    "phone": null,
+    "website": "https://www.stumptowncoffee.com/",
+    "category": "dining",
+    "subcategory": "coffee_roaster",
+    "price": "$",
+    "rating": null,
+    "description": "The original. Opened on Division in 1999 in an old beauty parlor called Hair Bender — which is why the flagship espresso blend carries that name and the sign still hangs inside. Stumptown wrote the third-wave playbook everyone else photocopied: direct trade, obsessive sourcing, baristas treated like craft. Order a Hair Bender espresso at the flagship counter and you're drinking Portland coffee history.",
+    "must_try": "A Hair Bender espresso, pulled at the cafe where the blend was born",
+    "hours": "Weekdays 6:30am–5pm; weekends 7am–5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coava Coffee Roasters",
+    "address": "1300 SE Grand Ave, Unit A, Portland, OR 97214",
+    "phone": "(503) 894-8134",
+    "website": "https://coavacoffee.com/",
+    "category": "dining",
+    "subcategory": "coffee_roaster",
+    "price": "$",
+    "rating": null,
+    "description": "The roaster the locals are quietly loyal to — Coava's beans turn up in good cafes all over town, but the SE Grand roastery-cafe is where you drink it at the source. Airy, bamboo-and-concrete room, single-origin obsession, pour-overs done with the seriousness of a chemistry lab. If Stumptown is the famous one, Coava is the one your barista friend actually brews at home.",
+    "must_try": "A single-origin pour-over — ask what just came off the roaster",
+    "hours": "Mon–Fri 7am–6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Breakside Brewery (Dekum Pub)",
+    "address": "820 NE Dekum St, Portland, OR 97211",
+    "phone": "(503) 719-6475",
+    "website": "https://breakside.com/",
+    "category": "dining",
+    "subcategory": "brewpub",
+    "price": "$$",
+    "rating": null,
+    "description": "The Woodlawn flagship brewpub for one of Oregon's most decorated breweries — Breakside has taken Brewery of the Year at the Oregon Beer Awards repeatedly, including 2026. Hop-forward is the house language, and the Breakside IPA is the one you'll see in every Portland fridge. Industrial-style room with a patio, full bar, dog-friendly, all-ages — a proper neighborhood pub with serious beer behind the taps.",
+    "must_try": "The Breakside IPA, on tap at the source",
+    "hours": "Daily 11:30am–9pm",
+    "seasonal": "Patio's the play on a dry summer evening; cozy indoors when it's pouring",
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Scotch Lodge",
+    "address": "215 SE 9th Ave Ste 102, Portland, OR 97214",
+    "phone": null,
+    "website": "https://www.scotchlodge.com/",
+    "category": "bars_nightlife",
+    "subcategory": "whisky_cocktail_bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Down a flight of stairs into what feels like a warm cellar, this is where I take out-of-towners who think Portland can't do polished. Hundreds of whiskies behind the bar and a cocktail program that takes it all seriously without making you feel underdressed. Bring your reading glasses for the list.",
+    "must_try": "The Peated & Confused, or just let the bartender walk you through a Scotch flight",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rum Club",
+    "address": "720 SE Sandy Blvd, Portland, OR 97214",
+    "phone": null,
+    "website": "https://rumclubpdx.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft_cocktail_bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Serving well-made rum-forward drinks since 2011, and it hasn't lost a step. Snug, unpretentious, and the kind of place where the daiquiri comes out exactly right every single time. The regulars order the Rum Club Daiquiri and don't overthink it. Neither should you.",
+    "must_try": "The Rum Club Daiquiri",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hey Love",
+    "address": "920 E Burnside St, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "tropical_cocktail_bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Attached to the Jupiter NEXT hotel, this jungle-plant-filled room is where the city goes to pretend it isn't raining sideways outside. Tropical drinks, a good slushie when the sun does show up, and a crowd that skews younger and louder as the night goes.",
+    "must_try": "A frozen slushie cocktail on the patio during a rare dry evening",
+    "hours": null,
+    "seasonal": "Patio and slushies shine in the dry summer months",
+    "modes": [
+      "nightlife",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Angel Face",
+    "address": "14 NE 28th Ave, Portland, OR 97232",
+    "phone": null,
+    "website": "https://www.angelfaceportland.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft_cocktail_bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "No printed cocktail menu here on purpose. You tell the bartender your spirit and your mood, and they build you something on the spot. It's a small French-leaning jewel box on 28th's restaurant row, and the whole trust-fall is the point. Come hungry too, the food is real.",
+    "must_try": "A bartender's-choice cocktail built around your preferred spirit",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palomar",
+    "address": "1422 NW 23rd Ave, Portland, OR 97210",
+    "phone": null,
+    "website": "https://www.barpalomar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "cuban_cocktail_bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "A bright, loud ode to Havana that packed up its old Division Street room and reopened on NW 23rd in spring of 2025. Cuban cooking, daiquiris that mean business, and a bartender-owner who talks rum like a professor. This is the one I send friends to when they want fun over hushed reverence.",
+    "must_try": "The Floridita Daiquiri",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wayfinder Beer",
+    "address": "304 SE 2nd Ave, Portland, OR 97214",
+    "phone": null,
+    "website": "https://www.wayfinder.beer/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery_taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "Big industrial room under the bridges where Portland's lager renaissance basically lives. This is the birthplace of the Cold IPA, and brewmaster Kevin Davey's crisp, dry pours drink beautifully with the smoke-kissed pub food. When someone insists all Portland beer is hazy juice, I bring them here.",
+    "must_try": "A Cold IPA, the style they helped define",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Breakside Brewery",
+    "address": "820 NE Dekum St, Portland, OR 97211",
+    "phone": null,
+    "website": "https://breakside.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery_taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "The original Dekum pub in Woodlawn, where the medal-hauling IPAs started. Great American Beer Festival gold, a wall of World Beer Cup hardware, and still a neighborhood corner pub at heart. Order the flagship IPA on a patio afternoon and understand why the trophy case is so crowded.",
+    "must_try": "The Breakside IPA",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Sandy Hut",
+    "address": "1430 NE Sandy Blvd, Portland, OR 97232",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bar",
+    "price": "$",
+    "rating": null,
+    "description": "Open since 1923 and known to the faithful as the Handy Slut. Wood paneling, oddball vintage celebrity paintings, a back patio, and stiff well drinks poured by bartenders who actually like you. This is the friendly, welcoming end of the Portland dive spectrum. Cash in your pocket doesn't hurt.",
+    "must_try": "A strong well whiskey and a seat under the weird celebrity portraits",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Yamhill Pub",
+    "address": "223 SW Yamhill St, Portland, OR 97204",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bar",
+    "price": "$",
+    "rating": null,
+    "description": "Here since 1934 and gloriously unbothered by the century happening around it. This is downtown's diviest dive, a place that once moved more Pabst than anywhere in the country and has the plaques to prove it. Cheap beer, real characters, zero pretense. Come for the history, stay because your dollar goes far.",
+    "must_try": "A can of PBR, as tradition demands",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Heart Coffee Roasters",
+    "address": "2211 E Burnside St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://www.heartroasters.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "roaster_cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "The bright, white-tiled Burnside flagship that put Portland light-roast on the map back in 2009. Single-origins from Kenya, Ethiopia, and Latin America, pulled with Scandinavian precision. If you take your coffee black and take it seriously, this is the counter seat to claim.",
+    "must_try": "A single-origin espresso or a filter pour-over of the current Ethiopian",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Push x Pull",
+    "address": "821 SE Stark St, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "roaster_cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A small Stark Street roaster the coffee nerds guard a little jealously. They chase fruit-forward naturals and honey-process lots that taste more like a bowl of berries than a cup of coffee. If you think you don't like light roast, let them change your mind on a slow morning.",
+    "must_try": "A fruit-forward natural-process pour-over",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Water Avenue Coffee",
+    "address": "1028 SE Water Ave #145, Portland, OR 97214",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "roaster_cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked in the Central Eastside industrial district, this is the roaster for people who want a proper, comforting cup without a lecture. Direct-trade sourcing, dependable espresso, and a warehouse-adjacent room that fills with regulars on their way to work. Solid, unfussy, consistent.",
+    "must_try": "A cappuccino made with their house espresso blend",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nossa Familia Coffee",
+    "address": "1350 NW Lovejoy St, Portland, OR 97209",
+    "phone": null,
+    "website": "https://www.nossacoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "roaster_cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "Started in 2004 out of a family's own Brazilian coffee farms and grew into Oregon's first certified B Corp roaster. The Pearl District cafe is bright and welcoming, the sourcing story is genuinely direct-trade, and the espresso is dialed. Feel-good coffee that also happens to taste good.",
+    "must_try": "An espresso made with their Brazilian family-farm beans",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Never Coffee",
+    "address": "4243 SE Belmont St Ste 200, Portland, OR 97215",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "specialty_cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "Minimal monochrome cafe where the signature lattes go delightfully off-script. The Midnight Oil leans on licorice syrup and the Oregon latte hides hops and dulce de leche. Not the spot for purists, but if you want coffee that plays, the Belmont room is a treat.",
+    "must_try": "The Midnight Oil latte with licorice syrup",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ken's Artisan Bakery",
+    "address": "338 NW 21st Ave, Portland, OR 97209",
+    "phone": null,
+    "website": "https://kensartisan.com/bakery",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "Ken Forkish's Northwest Portland institution, and yes, that's the same Ken who wrote the book on flour, water, salt, and yeast. Organic country loaves, laminated pastry that shatters correctly, and morning lines that move because everyone knows exactly what they want. Get there before the good stuff runs.",
+    "must_try": "The seasonal Oregon berry croissant with hazelnut cream",
+    "hours": null,
+    "seasonal": "Berry pastries peak in summer fruit season",
+    "modes": [
+      "foodie",
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little T American Baker",
+    "address": "2600 SE Division St, Portland, OR 97202",
+    "phone": null,
+    "website": "http://littletbaker.com/division",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "The Division Street corner bakery locals folded into their weekly routine long ago and Travel + Leisure eventually caught onto. Excellent bread, honest pastries, and a light lunch counter that makes it a real morning-to-midday stop. Grab a loaf on the way out; you'll regret it if you don't.",
+    "must_try": "A fresh-baked loaf or the morning pastry of the day",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Art Museum",
+    "address": "1219 SW Park Ave, Portland, OR 97205",
+    "phone": null,
+    "website": "https://portlandartmuseum.org/",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$$",
+    "rating": null,
+    "description": "The Pacific Northwest's oldest art museum, and after the long Rothko Pavilion build-out it finally connects its two buildings without you dodging traffic on the sidewalk. Native American and Asian galleries anchor a collection that punches above a city this size. I duck in on a gray afternoon and pretend I understand the Rothko.",
+    "must_try": "Standing with the Monet 'Water Lilies' canvas in the European galleries",
+    "hours": "Tue-Sun 10am-5pm, closed Monday",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oregon Museum of Science and Industry (OMSI)",
+    "address": "1945 SE Water Ave, Portland, OR 97214",
+    "phone": null,
+    "website": "https://omsi.edu/",
+    "category": "attractions",
+    "subcategory": "science museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Six acres of hands-on science on the east bank of the Willamette, with a planetarium, a real submarine tied up out front, and enough buttons to occupy a kid for a full rainy Saturday. Last Wednesday of the month it goes 21+ for OMSI After Dark, which is science class with a beer in your hand.",
+    "must_try": "Touring the USS Blueback submarine docked in the river",
+    "hours": "Mon 9:30am-7pm, Tue-Sun 9:30am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lan Su Chinese Garden",
+    "address": "239 NW Everett St, Portland, OR 97209",
+    "phone": null,
+    "website": "https://lansugarden.org/",
+    "category": "attractions",
+    "subcategory": "garden",
+    "price": "$$",
+    "rating": null,
+    "description": "A full walled Ming-dynasty scholar's garden dropped into a single Old Town block, hand-built by Suzhou artisans. Come through the moon gate and the traffic noise just stops. This is where the Pods & Portals story really starts, right at the heart of the neighborhood that fed Portland's immigrant cooking.",
+    "must_try": "Tea in the Tower of Cosmic Reflections teahouse over Lake Zither",
+    "hours": "Mar-Oct 10am-5:30pm (last entry 5pm); Oct-Mar 10am-4:30pm (last entry 4pm)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Japanese Garden",
+    "address": "611 SW Kingston Ave, Portland, OR 97205",
+    "phone": null,
+    "website": "https://japanesegarden.org/",
+    "category": "attractions",
+    "subcategory": "garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Up in the Washington Park hills, eight garden styles arranged with a precision that makes my apartment feel like a crime scene. Widely called the most authentic Japanese garden outside Japan. Locals know the secret: come when it's drizzling and half-empty, the moss glows, and you get the maples nearly to yourself.",
+    "must_try": "The raked Flat Garden view from the Cultural Village veranda",
+    "hours": "Wed-Mon 10am-6pm, closed Tuesday",
+    "seasonal": "Peak in fall for maple color and spring for blossoms",
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pittock Mansion",
+    "address": "3229 NW Pittock Dr, Portland, OR 97210",
+    "phone": "503-823-3623",
+    "website": "https://pittockmansion.org/",
+    "category": "attractions",
+    "subcategory": "historic house museum",
+    "price": "$$",
+    "rating": null,
+    "description": "A 1914 French Renaissance chateau the city rescued from the wrecking ball in 1964, built by the newspaper man who founded The Oregonian. Tour the period rooms, but the real draw is the east lawn: on a clear day the whole city lines up under Mount Hood like a postcard nobody had to Photoshop.",
+    "must_try": "The downtown-and-Mount-Hood panorama from the east lawn",
+    "hours": "Daily 10am-4pm (Tue opens noon); seasonal and holiday closures",
+    "seasonal": "Closed for maintenance part of January",
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Chinatown Museum",
+    "address": "127 NW 3rd Ave, Portland, OR 97209",
+    "phone": null,
+    "website": "https://www.portlandchinatownmuseum.org/",
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$",
+    "rating": null,
+    "description": "A small, sharp museum in the bones of Old Town Chinatown telling the story most walking tours skip: the Chinese immigrant community that helped build this city and the neighborhood it made. Pair it with Lan Su a block away and you've got the whole Pods & Portals throughline before you ever taste a dumpling.",
+    "must_try": "The 'Beyond the Gate' permanent exhibit on Portland's Chinatown history",
+    "hours": "Thu-Sun 11am-3pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oregon Historical Society Museum",
+    "address": "1200 SW Park Ave, Portland, OR 97205",
+    "phone": "503-222-1741",
+    "website": "https://www.ohs.org/museum/",
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Across the South Park Blocks from the art museum, this is the state's memory bank: Oregon Trail artifacts, the messy real history, and the eight-story trompe-l'oeil murals on the outside wall that fool tourists every single day. Free for Multnomah County residents, which is the kind of civic detail a Regular appreciates.",
+    "must_try": "The 'Experience Oregon' permanent exhibition",
+    "hours": "Mon-Sat 10am-5pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oregon Zoo",
+    "address": "4001 SW Canyon Rd, Portland, OR 97221",
+    "phone": null,
+    "website": "https://www.oregonzoo.org/",
+    "category": "attractions",
+    "subcategory": "zoo",
+    "price": "$$",
+    "rating": null,
+    "description": "Up in Washington Park and reachable by MAX light rail, which is the move on a summer day when parking turns feral. Known for its elephants and its Pacific Northwest habitats, plus summer concerts on the lawn. Bring a rain shell year-round; the animals are used to the weather and so should you be.",
+    "must_try": "The Elephant Lands habitat",
+    "hours": "Open daily; hours vary seasonally",
+    "seasonal": "Summer concert series on the lawn; ZooLights in winter",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Saturday Market",
+    "address": "2 SW Naito Pkwy, Portland, OR 97204",
+    "phone": null,
+    "website": "https://www.portlandsaturdaymarket.com/",
+    "category": "attractions",
+    "subcategory": "public arts market",
+    "price": "$",
+    "rating": null,
+    "description": "The largest continuously operating outdoor arts-and-crafts market in the country, running weekends under the Burnside Bridge in Old Town since 1974. Everything is made by the person selling it, which keeps it honest. Free to wander, and a straight shot from Lan Su and the Chinatown museum on the Pods & Portals loop.",
+    "must_try": "An Elephant Ear fried-dough while browsing the maker booths riverside",
+    "hours": "Saturdays 10am-5pm",
+    "seasonal": "Open March through December only",
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crystal Ballroom",
+    "address": "1332 W Burnside St, Portland, OR 97209",
+    "phone": "503-225-0047",
+    "website": "https://www.crystalballroompdx.com/",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "A 1914 dance hall with a genuinely bouncing floating floor, mounted on ball-bearing rockers so the whole room moves when the crowd does. It has hosted everyone from James Brown to the current indie bill. First time you feel the floor ripple under a packed show you'll think you're dizzy. You're not. That's just the building.",
+    "must_try": "Dancing on the mechanical floating ballroom floor at a sold-out show",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moda Center",
+    "address": "1 N Center Court St, Portland, OR 97227",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "arena / pro sports",
+    "price": "$$$",
+    "rating": null,
+    "description": "The biggest arena in Oregon and home of the NBA's Trail Blazers over in the Rose Quarter, a short MAX hop across the river. It's the loud, communal heart of Portland sports even as the city argues about renovating it. Catch a Blazers night when the fast break gets rolling and 19,000 people lose their minds at once.",
+    "must_try": "A Trail Blazers game with the Rose Quarter crowd on a fast break",
+    "hours": "Varies by event",
+    "seasonal": "NBA season runs fall through spring",
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Providence Park",
+    "address": "1844 SW Morrison St, Portland, OR 97205",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "stadium / pro sports",
+    "price": "$$$",
+    "rating": null,
+    "description": "A century-old stadium wedged into the downtown grid, home to the MLS Timbers and NWSL Thorns and one of the most fervent supporter cultures in American soccer. The Timbers Army in the north end sings for ninety straight minutes. When Portland scores, Timber Joey fires up a chainsaw and cuts a slab off a log. It makes sense once you're there.",
+    "must_try": "Standing in the Timbers Army north end for the log-slab goal celebration",
+    "hours": "Varies by event",
+    "seasonal": "MLS and NWSL seasons run spring through fall",
+    "modes": [
+      "family",
+      "adventurer",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Helium Comedy Club",
+    "address": "1510 SE 9th Ave, Portland, OR 97214",
+    "phone": "888-643-8669",
+    "website": "https://portland.heliumcomedy.com/",
+    "category": "entertainment",
+    "subcategory": "comedy club",
+    "price": "$$",
+    "rating": null,
+    "description": "Portland's serious stand-up room on the inner east side, pulling national headliners into an intimate space where you're never more than 60 feet from the mic. Full food and drink menu, so you can heckle responsibly. Weekend shows sell out; the Portland's Funniest heats are worth catching before someone's famous.",
+    "must_try": "A weekend headliner set from a table near the stage",
+    "hours": "Tue-Thu 5pm-11pm, Fri-Sat 5pm-2am, closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aladdin Theater",
+    "address": "3017 SE Milwaukie Ave, Portland, OR 97202",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "music theater",
+    "price": "$$",
+    "rating": null,
+    "description": "A restored 1927 movie house in Brooklyn-neighborhood southeast, now a 600-seat listening room with the kind of acoustics that reward a singer-songwriter and a hushed crowd. Seated, respectful, no talking through the quiet songs. It's where you go when you actually want to hear the show, not the guy behind you.",
+    "must_try": "A seated singer-songwriter show in the restored 1927 house",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roseland Theater",
+    "address": "8 NW 6th Ave, Portland, OR 97209",
+    "phone": null,
+    "website": "https://roselandpdx.com/",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "A two-level Old Town standby that has been feeding Portland general-admission rock, hip-hop, and metal for decades, from small local bills to touring names. No frills, good sightlines, sticky floors that have earned it. Right in the Pods & Portals corridor if you want a show after your Chinatown wander.",
+    "must_try": "A general-admission floor show at the Old Town mainstay",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Revolution Hall",
+    "address": "1300 SE Stark St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://www.revolutionhall.com/",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "The old Washington High School auditorium in Buckman, reborn as one of the city's best-sounding mid-size rooms, seated or standing depending on the act. Come early for a drink on Martha's, the rooftop bar with a downtown view. It's a short walk off Hawthorne, so you can make a whole east-side night of it.",
+    "must_try": "A show in the old high-school auditorium, then a drink on the rooftop Martha's bar",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Forest Park & the Wildwood Trail",
+    "address": "Lower Macleay trailhead, NW 29th Ave & Upshur St, Portland, OR 97210",
+    "phone": null,
+    "website": "https://www.portland.gov/parks/forest-park",
+    "category": "outdoor_adventure",
+    "subcategory": "urban forest / hiking trails",
+    "price": "$",
+    "rating": null,
+    "description": "Five thousand-plus acres of second-growth Doug fir stacked against the West Hills, and the 30-mile Wildwood Trail threading the whole length of it. This is the one I send everyone to first: you can be on a counter stool with a cortado downtown and, twenty minutes later, be alone in the ferns listening to a Swainson's thrush. Park free at Lower Macleay, walk up the creek to the Stone House ruin, and keep climbing to Pittock Mansion if your legs are honest about it.",
+    "must_try": "The Lower Macleay to Pittock Mansion climb via the Wildwood Trail for the downtown-and-Mount-Hood payoff",
+    "hours": "5am-10pm daily",
+    "seasonal": "Best in the dry May-October window; trails get greasy and root-slick after PNW rains, so wear tread. Free summer Express Shuttle serves trailheads.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hoyt Arboretum",
+    "address": "4000 SW Fairview Blvd, Portland, OR 97221",
+    "phone": null,
+    "website": "https://www.hoytarboretum.org/",
+    "category": "outdoor_adventure",
+    "subcategory": "arboretum / trails",
+    "price": "$",
+    "rating": null,
+    "description": "Portland's museum of living trees: 2,300-some species spread over 12 miles of trail up in Washington Park. Locals treat it as the civilized way into the Wildwood system, redwoods and monkey puzzles and a Winter Garden that actually earns its name in January. The trails are free; only the parking meters have opinions. Grab a map at the visitor center and let the Overlook or Redwood loops set the pace.",
+    "must_try": "The Redwood Trail through the towering coast redwood grove, then the Garden Connector down to the Rose Garden",
+    "hours": "Trails dawn-dusk daily; visitor center 9am-4pm",
+    "seasonal": "Year-round, but the conifer collection makes it one of the rare gardens worth walking in the grey months.",
+    "modes": [
+      "chill",
+      "family",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mount Tabor Park",
+    "address": "SE 60th Ave & Salmon St, Portland, OR 97215",
+    "phone": null,
+    "website": "https://www.portland.gov/parks/mt-tabor-park",
+    "category": "outdoor_adventure",
+    "subcategory": "city park / extinct volcano",
+    "price": "$",
+    "rating": null,
+    "description": "One of only a handful of American cities with an extinct volcano inside the line, and ours is a 636-foot cinder cone on the east side turned into a 176-acre park. It's where the Southeast comes to jog, walk the reservoirs, and pretend the Wednesday car-free road closure is a spiritual practice. Clear evenings from the summit you get downtown, the West Hills, and Mount Hood lined up like a postcard nobody staged.",
+    "must_try": "Sunset from the summit viewpoint above the historic open reservoirs",
+    "hours": "5am-midnight daily",
+    "seasonal": "Open year-round. Note: the picnic shelter and two nearby paths are closed May-August 2026 for a rebuild; the rest of the park stays open.",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sauvie Island Wildlife Area",
+    "address": "18330 NW Sauvie Island Rd, Portland, OR 97231",
+    "phone": null,
+    "website": "https://myodfw.com/sauvie-island-wildlife-area-visitors-guide",
+    "category": "outdoor_adventure",
+    "subcategory": "wildlife area / beaches & birding",
+    "price": "$",
+    "rating": null,
+    "description": "A Manhattan-sized river island fifteen minutes north where Portland goes to remember it lives on a floodplain. Flat, easy trails like the Wapato Greenway loop, sandy Willamette beaches for a summer float, and a birding scene that turns serious every fall when the sandhill cranes and geese pour in. The beaches want a $10 parking permit on summer weekends, and the far end rewards a long walk with Warrior Rock Lighthouse, Oregon's smallest.",
+    "must_try": "The hike out to Warrior Rock Lighthouse, or fall raptor-and-crane birding from the Oak Island loop",
+    "hours": "Daylight hours; check seasonal hunting-season access",
+    "seasonal": "Beaches and swimming are a summer thing (permit required weekends); birding peaks in fall and winter. Parts of the wildlife area close for waterfowl hunting seasons.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Topaz Farm (formerly Kruger's Farm)",
+    "address": "17100 NW Sauvie Island Rd, Portland, OR 97231",
+    "phone": null,
+    "website": "https://topazfarm.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "u-pick farm / seasonal harvest",
+    "price": "$",
+    "rating": null,
+    "description": "If you grew up here you spent a few October afternoons at Kruger's; it sold, it's Topaz now, and honestly the experience survived the name change intact. Working farm on Sauvie, twelve miles out: U-pick fields, a big corn maze, farm stand, live-music nights in summer, and the fall harvest circus with the petting barn. It's the family-outing default for a reason, even if the reason is mostly cider donuts.",
+    "must_try": "U-pick flowers and berries in summer; the corn maze and pumpkin fields at the Fall Harvest Festival",
+    "hours": "Seasonal; roughly June through early November, daily in season",
+    "seasonal": "June-early November operation. Berries and flowers in summer, pumpkins and corn maze through fall harvest; closed the deep winter.",
+    "modes": [
+      "family",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Multnomah Falls",
+    "address": "53000 E Historic Columbia River Hwy, Bridal Veil, OR 97010",
+    "phone": null,
+    "website": "https://www.fs.usda.gov/r06/columbiarivergorge/recreation/multnomah-falls",
+    "category": "outdoor_adventure",
+    "subcategory": "waterfall / gorge day trip",
+    "price": "$",
+    "rating": null,
+    "description": "The 620-foot two-tiered showstopper in the Columbia Gorge, 45 minutes east and worth every one of the tour buses it draws. Walk the paved switchbacks up to Benson Bridge for the classic shot, then keep climbing to the top viewpoint if you want to earn the crowd-free part. Yes it's the postcard, but standing in the mist plume on a hot July afternoon reminds you why the postcard exists.",
+    "must_try": "The 1.2-mile paved climb from Benson Bridge to the top-of-falls viewpoint",
+    "hours": "Daylight; lodge and visitor center hours vary",
+    "seasonal": "A $2 timed-use parking permit is required 9am-6pm daily, May 22-Sep 7, 2026 (book at Recreation.gov; it doesn't guarantee a spot). No permit needed if you bike, transit, or hike in, or visit off-season.",
+    "modes": [
+      "adventurer",
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "eNRG Kayaking",
+    "address": "1701 Clackamette Dr, Oregon City, OR 97045",
+    "phone": null,
+    "website": "https://enrgkayaking.com/portland-kayaking-and-paddleboarding/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak & SUP rental / river tours",
+    "price": "$$",
+    "rating": null,
+    "description": "Straight talk: Portland Kayak Company retired and closed, so the easiest on-water option near town is now eNRG, sitting on a floating dock a mile below Willamette Falls in Oregon City. You walk off the rental counter straight onto the boat. Kayaks, SUPs, and canoes for self-guided paddles, plus guided tours up to the falls and the historic locks. They also run the Upper Clackamas whitewater in season.",
+    "must_try": "The guided paddle up to the base of Willamette Falls and the historic locks",
+    "hours": "Daily in season; seasonal hours vary",
+    "seasonal": "Flatwater rentals and tours run the warm months; Upper Clackamas rafting trips run roughly April through Labor Day depending on flows.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Triangle Wine Country Tours",
+    "address": "Hotel pickup in Portland; tours run the Willamette Valley, OR",
+    "phone": null,
+    "website": "https://trianglewinecountry.com/wine-tours/",
+    "category": "outdoor_adventure",
+    "subcategory": "wine country day tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Willamette Valley is the whole reason people put up with Oregon Pinot prices, and the civilized way to do it is to let someone else drive. This woman-owned outfit runs small-group seven-hour tours with a certified wine pro, three wineries, lunch and snacks included, pickup from your Portland hotel. You get the vineyard views, the inside baseball on who's making what, and no argument about who's the designated driver.",
+    "must_try": "A small-group Pinot Noir flight tour through the Dundee Hills with lunch included",
+    "hours": "By reservation; roughly 7-hour daytime tours",
+    "seasonal": "Runs year-round; summer and fall harvest are the peak season and book up. Reservations required.",
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kerr Bikes (Wheel Fun Rentals) at Waterfront Park",
+    "address": "1020 SW Naito Pkwy, Portland, OR 97204",
+    "phone": null,
+    "website": "https://wheelfunrentals.com/or/portland/tom-mccall-waterfront-park/rentals/",
+    "category": "outdoor_adventure",
+    "subcategory": "bike & specialty cycle rental",
+    "price": "$",
+    "rating": null,
+    "description": "Right on Tom McCall Waterfront Park, this is the grab-a-bike-and-go spot for the car-free riverfront loop. Standard bikes, e-bikes, tandems, and the goofy four-wheeled surreys if you're traveling with kids who won't pedal. The nice part: Kerr Bikes proceeds benefit Albertina Kerr, a local nonprofit for kids and adults with developmental disabilities, so the tourist surrey money does some good.",
+    "must_try": "Renting a bike for the flat car-free loop along the Willamette across the Tilikum Crossing and back",
+    "hours": "Seasonal daytime hours; check ahead",
+    "seasonal": "Busiest and most reliably open spring through fall; winter hours are limited and weather-dependent.",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Aerial Tram",
+    "address": "3303 SW Bond Ave, Portland, OR 97239",
+    "phone": null,
+    "website": "https://www.gobytram.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "aerial tramway / city viewpoint",
+    "price": "$",
+    "rating": null,
+    "description": "Technically it's OHSU's commuter tram, but for the price of a general-admission ticket you get a three-minute climb from the South Waterfront up to Marquam Hill with the whole city, the river, and on a clear day Mount Hood and Mount St. Helens hanging in the window. It's the cheapest big view in town and the anchor of the local 4T loop (trail, tram, trolley, train) if you want to make a day of it.",
+    "must_try": "A round trip at dusk for the Willamette-and-volcanoes panorama from the upper terminal",
+    "hours": "Mon-Fri 5:30am-9:30pm, Sat 9am-5pm; closed Sundays (until May) and major holidays",
+    "seasonal": "Runs year-round; clearest mountain views come on dry-season afternoons. Closed on Independence Day, Memorial Day, and Labor Day.",
+    "modes": [
+      "family",
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tryon Creek State Natural Area",
+    "address": "11321 SW Terwilliger Blvd, Portland, OR 97219",
+    "phone": null,
+    "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=103",
+    "category": "outdoor_adventure",
+    "subcategory": "state natural area / forest trails",
+    "price": "$",
+    "rating": null,
+    "description": "The only Oregon state park inside a major city, tucked in the ravine between Southwest Portland and Lake Oswego. Miles of soft trail through second-growth forest, eight bridges and a wetland boardwalk, and a nature center that runs a free family walk every Saturday morning. It's quieter and flatter than Forest Park, which makes it the pick when you want trees without a thigh workout. Trillium carpet the ground in early spring.",
+    "must_try": "The Trillium Trail loop in March when the namesake wildflowers bloom",
+    "hours": "Park dawn-dusk; nature center hours vary",
+    "seasonal": "Year-round, muddy in the wet months (boardwalks help). Early-spring trillium bloom is the marquee event; free guided family walks Saturdays 10-11am.",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Powell Butte Nature Park",
+    "address": "16160 SE Powell Blvd, Portland, OR 97236",
+    "phone": null,
+    "website": "https://www.portland.gov/parks/powell-butte-nature-park",
+    "category": "outdoor_adventure",
+    "subcategory": "nature park / meadow summit",
+    "price": "$",
+    "rating": null,
+    "description": "An extinct cinder cone on the far east side, 600-plus acres of wildflower meadow and forest with the best in-city look at Mount Hood. The paved Mountain View Trail climbs gently to a summit with a 'Mountain Finder' panel that names the Cascade peaks lined up in front of you, and the wilder Wild Horse loops keep the mountain bikers happy. Underrated because it's a hike from downtown, which is exactly why the meadows stay this open.",
+    "must_try": "The Mountain View Trail to the summit 'Mountain Finder' with Mount Hood dead ahead",
+    "hours": "5am-midnight daily",
+    "seasonal": "Open year-round; the meadow wildflowers peak late spring into summer and the exposed summit is glorious on a clear dry-season day.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Springwater Corridor & Oaks Bottom Wildlife Refuge",
+    "address": "Oaks Bottom trailhead, SE Milwaukie Ave & SE Mitchell St, Portland, OR 97202",
+    "phone": null,
+    "website": "https://www.portland.gov/parks/oaks-bottom-wildlife-refuge",
+    "category": "outdoor_adventure",
+    "subcategory": "rail-trail / urban wildlife refuge",
+    "price": "$",
+    "rating": null,
+    "description": "A 21-mile paved rail-trail that runs from the east bank of the Willamette out to Boring, and the stretch that matters most cuts right through Oaks Bottom, Portland's first designated urban wildlife refuge. Bike or walk it and you'll pass beavers, river otters, herons, and the giant painted mural on the wastewater plant that everyone photographs. Flat, car-free, and the local go-to for a long ride that never leaves the city.",
+    "must_try": "Biking the Springwater from the waterfront through Oaks Bottom to the Sellwood bluff",
+    "hours": "5am-midnight (trail); refuge dawn-dusk",
+    "seasonal": "Rideable year-round; bird activity in the wetland peaks in spring and fall migration. Bikes stay on the paved corridor, not the refuge dirt trails.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oregon River Experiences (Clackamas River Rafting)",
+    "address": "Upper Clackamas River put-in near Estacada, OR (about 45 min from Portland)",
+    "phone": null,
+    "website": "https://oregonriver.com/trips/clackamas-river-rafting/",
+    "category": "outdoor_adventure",
+    "subcategory": "whitewater rafting outfitter",
+    "price": "$$",
+    "rating": null,
+    "description": "The Wild & Scenic Upper Clackamas is the closest real whitewater to town, a 45-minute drive east, and this outfitter has been running Oregon rivers for 35-plus years. Class II through III+ day trips depending on how much you want the cold water in your face, guides who know the lines, and the kind of scenery that makes you forget you're this close to a metro area. The most accessible splash-and-giggle-to-genuine-thrills river Portland has.",
+    "must_try": "A guided Class III+ day trip on the Upper Clackamas during spring snowmelt",
+    "hours": "By reservation; day trips in season",
+    "seasonal": "Rafting season runs roughly April through Labor Day, flow-dependent; spring snowmelt brings the bigger, colder water. Reservations required.",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smith and Bybee Wetlands Natural Area",
+    "address": "5300 N Marine Dr, Portland, OR 97203",
+    "phone": null,
+    "website": "https://www.oregonmetro.gov/places/smith-and-bybee-wetlands-natural-area",
+    "category": "outdoor_adventure",
+    "subcategory": "wetlands / flatwater paddling & birding",
+    "price": "$",
+    "rating": null,
+    "description": "Two thousand acres of freshwater wetland wedged between the Columbia Slough and the river out in North Portland, one of the largest urban wetlands in the country and one nobody expects to find behind the port terminals. Paddle a canoe or kayak among the lakes in the high-water months and you're sharing the place with beavers, river otters, painted turtles, osprey, and bald eagles. The paved interpretive trail handles the dry season when the lakes drop.",
+    "must_try": "A winter-to-spring canoe paddle across the lakes when water levels are up",
+    "hours": "Sunrise to sunset daily",
+    "seasonal": "Paddling window is roughly December through May when water levels are high; summer draws the lakes down to mudflats, so switch to the interpretive trail and boardwalk. Free parking, no fee.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ecola State Park",
+    "address": "84318 Ecola Park Rd, Cannon Beach, OR 97110",
+    "phone": null,
+    "website": "https://stateparks.oregon.gov/index.cfm?do=park.profile&parkId=131",
+    "category": "outdoor_adventure",
+    "subcategory": "coastal state park / side trip",
+    "price": "$",
+    "rating": null,
+    "description": "The big-day side trip, about 90 minutes west at Cannon Beach, and the single best headland view on the north coast. Paved paths at Ecola Point put Haystack Rock, the offshore Tillamook Rock Lighthouse, and miles of coastline in one frame; the Clatsop Loop and Tillamook Head trails follow the ground Lewis and Clark walked. Come for the viewpoint, stay for the tide pools at Indian Beach, and time it for the gray whale migration if you can.",
+    "must_try": "The Clatsop Loop hike to the Tillamook Head viewpoint over 'Terrible Tilly' lighthouse",
+    "hours": "Day-use, dawn to dusk",
+    "seasonal": "Open year-round; $10 day-use parking fee (or Oregon State Parks pass). Gray whale watching peaks in December-January and March-April; summer parking fills fast and lines form June-September.",
+    "modes": [
+      "adventurer",
+      "romantic",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cartopia Food Carts",
+    "address": "1207 SE Hawthorne Blvd, Portland, OR 97214",
+    "phone": null,
+    "website": "https://cartopiafoodcarts.com/",
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "The one that started the late-night thing. Cartopia has anchored SE 12th and Hawthorne since 2008, and it's still where you end up at 11pm with a beer from the covered garden and a decision to make between poutine and a wood-fired pie. Fire pit's real, the regulars are real, and nobody's rushing you out.",
+    "must_try": "Poutine from Potato Champion",
+    "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm",
+    "seasonal": "Covered seating and fire pit make it a genuine year-round rainy-day option, not just a summer pod",
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Prost! Marketplace",
+    "address": "4233 N Mississippi Ave, Portland, OR 97217",
+    "phone": null,
+    "website": "https://www.prostportland.com/",
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "The pod on Mississippi that figured out the community-beer-garden model back in 2009, when the rest of the city was still treating carts as a lunch afterthought. Order a German bier from Prost proper, carry it into the marketplace, and let the carts sort out dinner. It's the blueprint half the newer pods are working from.",
+    "must_try": "A liter of German bier from Prost paired with a smashburger from the pod",
+    "hours": null,
+    "seasonal": "Covered bier garden keeps it going through the wet months",
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Modhaus",
+    "address": "3829 SE Division St, Portland, OR 97202",
+    "phone": null,
+    "website": "https://modhauspdx.com/",
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$",
+    "rating": null,
+    "description": "The new kid on Division, opened just this year as a bar-and-cafe built around a cart pod. The lineup is doing the immigrant-foodways thing Portland does best: Makulit slinging Filipino mash-ups, Desi PDX's cardamom-chai fried chicken, Hawker Station's Cantonese, Chick & Pig on Thai. Bar's proper, so you can sit and settle in rather than eat-and-run.",
+    "must_try": "Desi PDX's fried cardamom-chai chicken",
+    "hours": null,
+    "seasonal": "Indoor bar and cafe make it a comfortable cold-weather sit",
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "WonderLove",
+    "address": "262 SE Main St, Portland, OR 97214",
+    "phone": "+1 503-308-8369",
+    "website": "https://wonderlovepdx.com/",
+    "category": "dining",
+    "subcategory": "food_cart_pod",
+    "price": "$$",
+    "rating": null,
+    "description": "The maximalist pod: three-story bar, live-music stages, public art, and a rooftop patio with a downtown skyline view that makes it feel more venue than parking lot. Opened in 2024 down at 2nd and Main. Come for the carts, stay because there's a band and a cocktail and you can't quite find the exit. During the World Cup they were showing USMNT matches on the turf.",
+    "must_try": "A craft cocktail on the rooftop patio at golden hour with cart food in hand",
+    "hours": null,
+    "seasonal": "Rooftop shines in dry-season summer; indoor levels and covered tent carry the rain months",
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lost Plate Food Tours",
+    "address": "Portland, OR 97204",
+    "phone": "(503) 409-5593",
+    "website": "https://lostplate.com/portland-food-tours/",
+    "category": "entertainment",
+    "subcategory": "food_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Small groups of four to ten, actual Portlanders as guides, and a three-hour walking route through the cart scene where the food and drinks are all folded into the price. They bill it as the city's only walking food-cart tour and back it up with owner stories you wouldn't get eating solo. There's also a wine-tasting version and a coffee-and-donut morning if carts aren't your speed.",
+    "must_try": "The walking food cart tour; let the guide order the dishes tourists never find",
+    "hours": null,
+    "seasonal": "Runs year-round; book the covered-pod-heavy route in the rainy months",
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Forktown Food Tours",
+    "address": "Portland, OR",
+    "phone": null,
+    "website": "https://forktown.com/",
+    "category": "entertainment",
+    "subcategory": "food_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "The elder statesman, running tours since 2010, which in Portland food-tour years is roughly forever. Three neighborhood routes to pick from: Downtown for the classics, Mississippi Avenue for the artsy east-side sprawl, and Division Street for the global-and-wine crawl. Small groups, two-ish hours, seven-ish stops, minimal walking, maximal eating.",
+    "must_try": "The Division Street tour for its wine bar, micro cart pods, and Indian street snacks",
+    "hours": "Tours generally run Tue-Fri",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Food Cart Tours",
+    "address": "Portland, OR",
+    "phone": "503-896-2771",
+    "website": "https://www.foodcartsportland.com/",
+    "category": "entertainment",
+    "subcategory": "food_tour",
+    "price": "$$",
+    "rating": null,
+    "description": "Led by Brett Burmeister, the managing editor of FoodCartsPortland, which is about as close to a walking encyclopedia of the pod scene as you'll get. Ninety minutes, four carts, and a running narration on why the whole cart thing works here and nowhere else quite the same. This is the history-and-context tour for people who want to understand the pods, not just eat at them.",
+    "must_try": "The downtown cart-history walk; you're paying for Brett's institutional memory as much as the food",
+    "hours": "Tours start around noon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City Brew Tours Portland",
+    "address": "Portland, OR",
+    "phone": "(503) 729-6804",
+    "website": "https://www.citybrewtours.com/portland/",
+    "category": "entertainment",
+    "subcategory": "brewery_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Used to be Brewvana, now flies the City Brew Tours flag, but the Portland team and routes stayed local, which is the part that matters. Flagship public tour hits three or four breweries with multiple pours at each, a gourmet snack break, and a guide who knows the brewers by name and steers the route by whatever's interesting in Portland beer that week. Van gets you between stops, so nobody's driving.",
+    "must_try": "The flagship public brewery tour with the guided tasting flights",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "A Great Oregon Wine Tour",
+    "address": "Portland, OR",
+    "phone": null,
+    "website": "https://agreatoregonwinetour.com/",
+    "category": "entertainment",
+    "subcategory": "wine_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Full-day, small-group runs from Portland out into the Willamette Valley, three or four hand-picked vineyards, a picnic-style lunch, and door-to-door service so the pinot noir isn't a designated-driver problem. Every tour's custom and the guides lean educational, which suits both the wine nerd and the person who just learned Oregon does world-class pinot.",
+    "must_try": "The full-day Willamette Valley pinot noir circuit with the wine-country picnic lunch",
+    "hours": null,
+    "seasonal": "Valley is gorgeous late summer through fall harvest; tastings run year-round",
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sea to Summit Tours & Adventures",
+    "address": "9710 NW Skyline Blvd, Portland, OR 97231",
+    "phone": "(503) 286-9333",
+    "website": "https://seatosummit.net/",
+    "category": "outdoor_adventure",
+    "subcategory": "gorge_wine_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Portland guides who've been at this since 2001 and will happily bury you in geology and history between stops. The menu is deep: Willamette Valley wine, the Columbia River Gorge and Multnomah Falls, a Hood River wine run, brewery tours. Book direct and it's usually cheaper than the third-party platforms, which is the kind of tip a regular passes along.",
+    "must_try": "The Columbia Gorge and Multnomah Falls tour with the roadside geology lesson",
+    "hours": null,
+    "seasonal": "Gorge waterfalls run hardest in spring snowmelt; summer is prime dry-season touring",
+    "modes": [
+      "adventurer",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wildwood Adventures",
+    "address": "900 SW Taylor St, Portland, OR 97205",
+    "phone": "(503) 396-3929",
+    "website": "https://wildwoodtours.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "gorge_wine_tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Small-group half- and full-day trips in late-model vans with the big panoramic windows, which sounds like a small thing until you're watching Multnomah Falls slide past in the rain. They do the Mt. Hood and Columbia Gorge waterfall loop with a stop at the 1925 Multnomah Falls Lodge, plus Willamette Valley wine tastings. Downtown pickup, no logistics on you.",
+    "must_try": "The Columbia Gorge waterfalls tour with the stop at the historic Multnomah Falls Lodge",
+    "hours": "Mon-Sun 9am-4:30pm",
+    "seasonal": "Waterfalls thunder in spring; wineries best in fall harvest",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Waterfall Shuttle",
+    "address": "Director Park, 815 SW Park Ave, Portland, OR 97205",
+    "phone": null,
+    "website": "https://waterfallshuttle.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "waterfall_tour",
+    "price": "$$",
+    "rating": null,
+    "description": "Founded in 2020 to solve the very Portland problem of Multnomah Falls being gorgeous and impossible to park at. Runs seven days a week, morning, noon, and night, from Director Park downtown, hitting five big Gorge waterfalls with short walks at each for the photo. Wheelchair-accessible, hotel pickups, and it quietly moved 20,000 people its first year for a reason.",
+    "must_try": "The half-day five-waterfall Gorge run, or the sunset tour for the light",
+    "hours": "Daily, morning/noon/night departures",
+    "seasonal": "Spring snowmelt is peak waterfall volume; year-round operation",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Society Hotel",
+    "address": "203 NW 3rd Ave, Portland, OR 97209",
+    "phone": "(503) 445-0444",
+    "website": "https://portland.thesocietyhotel.com/",
+    "category": "lodging",
+    "subcategory": "boutique_hotel",
+    "price": "$$",
+    "rating": null,
+    "description": "A boutique-hostel hybrid in a restored 1881 building right in Old Town Chinatown, which puts you a short walk from Lan Su Chinese Garden and the whole Pods-and-Portals corridor. Bunk-room beds if you're counting dollars, private rooms if you're not, and a rooftop deck for the skyline. The best base in the city for eating your way through the immigrant foodways downtown.",
+    "must_try": "A morning coffee on the rooftop deck before walking to Lan Su Chinese Garden",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Nines, a Luxury Collection Hotel",
+    "address": "525 SW Morrison St, Portland, OR 97204",
+    "phone": null,
+    "website": "https://www.thenines.com/",
+    "category": "lodging",
+    "subcategory": "luxury_hotel",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The grande dame, stacked into the top floors of the historic Meier & Frank building steps from Pioneer Square and Powell's. Two restaurants worth the elevator ride: Departure for modern Asian with a downtown view, and Urban Farmer for a local-sourced steakhouse take. If you want to sleep above the culinary action rather than beside it, check rates here.",
+    "must_try": "Dinner at Departure for the modern Asian menu and the skyline view",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kimpton Hotel Vintage Portland",
+    "address": "422 SW Broadway, Portland, OR 97205",
+    "phone": null,
+    "website": "https://www.hotelvintage-portland.com/",
+    "category": "lodging",
+    "subcategory": "boutique_hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "A wine-themed Kimpton in the heart of downtown, rooms named for local wineries and a complimentary evening wine hour that's basically a soft launch for your Willamette Valley tour the next morning. Bacchus Bar downstairs handles the craft cocktails. Well placed for Powell's, the Schnitzer, and a cart lunch, and it leans romantic without trying too hard.",
+    "must_try": "The complimentary evening wine hour pouring Oregon labels",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Powell's City of Books",
+    "address": "1005 W Burnside St, Portland, OR 97209",
+    "phone": null,
+    "website": "https://www.powells.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "The one everybody means when they say they're going to Powell's. A full city block, new and used shelved side by side, color-coded rooms so you can pretend you won't get lost (you will). I still tell first-timers to start in the Blue Room and just surrender the afternoon.",
+    "must_try": "Climbing to the third-floor Rare Book Room, then finding a used copy shelved next to the new one downstairs",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Music Millennium",
+    "address": "3158 E Burnside St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://musicmillennium.com",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "The Pacific Northwest's oldest surviving record store, open since 1969, and yes, Terry's looking for a successor now that he's 70, so shop it while it's still Terry's. Best year they've ever had, which tells you vinyl in this town never actually died. Free in-store sets if you time it right.",
+    "must_try": "Flipping the new-arrivals vinyl bins and catching a free in-store performance",
+    "hours": "Mon-Sat 10am-10pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tender Loving Empire",
+    "address": "412 SW 10th Ave, Portland, OR 97205",
+    "phone": null,
+    "website": "https://tenderlovingempire.com",
+    "category": "shopping",
+    "subcategory": "local goods & gift shop",
+    "price": "$$",
+    "rating": null,
+    "description": "Part gift shop, part record label, all Portland since 2007, stocking 700-odd small makers. The downtown flagship a block off the transit mall is the one to hit. Where else does the jam sit next to a vinyl release from the store's own label.",
+    "must_try": "A record from their in-house label tucked in beside the handmade jewelry and local jam",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portland Farmers Market at PSU",
+    "address": "1803 SW Park Ave, Portland, OR 97201",
+    "phone": null,
+    "website": "https://www.portlandfarmersmarket.org",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "The flagship Saturday market, 150-plus vendors strung down the South Park Blocks under the elms, up to 13,000 people weekly. Year-round, rain or shine, which in this town is a promise and a warning. Come hungry and bring a tote.",
+    "must_try": "Hood strawberries in June, chanterelles come fall",
+    "hours": "Sat 8:30am-2pm (Apr-Oct), 9am-2pm (Nov-Mar)",
+    "seasonal": "Open Saturdays year-round; peak bounty June through October",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Movie Madness",
+    "address": "4320 SE Belmont St, Portland, OR 97215",
+    "phone": "(503) 234-4363",
+    "website": "https://www.moviemadness.org",
+    "category": "shopping",
+    "subcategory": "video rental & film museum",
+    "price": "$",
+    "rating": null,
+    "description": "A nonprofit video store with 80,000-plus titles in a streaming world, which is exactly the kind of stubborn Portland only makes sense of. Now run by the Hollywood Theatre. The back room is a free props museum, and the VHS players come courtesy of Free Geek. Deep cuts, cult rarities, an LGBTQ section that puts the chains to shame.",
+    "must_try": "The free film-props museum in back, home to the actual knife from Psycho's shower scene",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Next Adventure",
+    "address": "426 SE Grand Ave, Portland, OR 97214",
+    "phone": "(503) 233-0706",
+    "website": "https://nextadventure.net",
+    "category": "shopping",
+    "subcategory": "outdoor gear shop",
+    "price": "$$",
+    "rating": null,
+    "description": "Three floors of hiking, camping, paddle and snow gear on Grand Ave, locally owned since 1997, and it nearly closed this year before the founders un-retired to keep it that way. The soul of the place is the Bargain Basement, where used gear goes to find a second summit. Skip REI, come here.",
+    "must_try": "Digging through the Bargain Basement for used tents, boots, and paddles",
+    "hours": "Mon-Fri 10am-7pm, Sat 10am-6pm, Sun 11am-5pm",
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cargo",
+    "address": "81 SE Yamhill St, Portland, OR 97214",
+    "phone": null,
+    "website": "https://cargoinc.com",
+    "category": "shopping",
+    "subcategory": "import & home goods",
+    "price": "$$",
+    "rating": null,
+    "description": "Twenty thousand square feet of restored brick warehouse in the Central Eastside, packed floor to rafters with direct-imported furniture, temple salvage, paper lanterns, tin toys, and party goods you didn't know you needed. Free parking out back, which in this district is its own small miracle. Budget more time than you think.",
+    "must_try": "Getting happily lost among the paper lanterns, tin toys, and architectural salvage",
+    "hours": "Daily 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mississippi Records",
+    "address": "5202 N Albina Ave, Portland, OR 97217",
+    "phone": "(503) 282-2990",
+    "website": "https://www.mississippirecords.net",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "Named for the street it left, which is the most Portland thing about it. Record store, label, repair shop, and cafe, with the tiny Portland Museum of Modern Art tucked in the basement. Heavy on rock and pop but real depth in jazz, soul, funk, and international. Open every day, noon to seven.",
+    "must_try": "A Mississippi Records label reissue, then the PMOMA in the basement",
+    "hours": "Daily 12pm-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Broadway Books",
+    "address": "1714 NE Broadway St, Portland, OR 97232",
+    "phone": "(503) 284-1726",
+    "website": "https://broadwaybooks.net",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Locally owned indie on NE Broadway since 1992, heavy on literary fiction, history, and memoir. Small enough that the staff actually read what they shelve, and the handwritten picks prove it. Free gift wrap, happy to special-order, closed Mondays.",
+    "must_try": "Whatever's talked up on the handwritten staff-picks shelf",
+    "hours": "Tue-Fri 10am-6pm, Sat 10am-5pm, Sun 11am-5pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cycle Portland Bike Tours & Rentals",
+    "address": "180 NW 3rd Ave, Portland, OR 97209",
+    "phone": "(844) 739-2453",
+    "website": "https://portlandbicycletours.com",
+    "category": "services",
+    "subcategory": "bike rental & tours",
+    "price": "$$",
+    "rating": null,
+    "description": "Old Town shop that'll get you rolling for eighteen bucks, lock, helmet, and route map included, no ceremony. Guided tours too, from the Essential loop through Old Town and the waterfront to a Brews Cruise you shouldn't schedule before anything important. Reserve ahead in summer.",
+    "must_try": "The Essential Portland tour looping Old Town and the waterfront esplanade",
+    "hours": "Daily 10am-6pm",
+    "seasonal": "Open March 1 through December 23",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buffalo Exchange (Hawthorne)",
+    "address": "1420 SE 37th Ave, Portland, OR 97214",
+    "phone": "(503) 234-1302",
+    "website": "https://buffaloexchange.com",
+    "category": "shopping",
+    "subcategory": "vintage & resale clothing",
+    "price": "$",
+    "rating": null,
+    "description": "The Hawthorne resale landmark, a block off the strip and steps from the Bagdad. Buy, sell, or trade a bag of your closet for cash or credit any day they're open, no appointment. The more current your taste, the better your odds at the counter. Comb the sale rack, everyone does.",
+    "must_try": "Trading a bag from your closet for store credit, then working the clearance rack",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Xtabay Vintage",
+    "address": "2515 SE Clinton St, Portland, OR 97202",
+    "phone": "(503) 230-2899",
+    "website": "https://shopxtabay.com",
+    "category": "shopping",
+    "subcategory": "vintage clothing boutique",
+    "price": "$$$",
+    "rating": null,
+    "description": "Not thrift, curation. Since 2001 this Clinton Street boutique has dealt in pristine women's vintage from Edwardian through the mid-1980s, with the later racks tipping into designer and couture. The place people quietly come to for the one-of-a-kind wedding or prom dress. Weekends only, so plan for it.",
+    "must_try": "Trying on a museum-grade Edwardian-to-1950s gown you'll find nowhere else",
+    "hours": "Sat-Sun 11am-5pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beam & Anchor",
+    "address": "2710 N Interstate Ave, Portland, OR 97227",
+    "phone": null,
+    "website": "https://beamandanchor.com",
+    "category": "shopping",
+    "subcategory": "makers goods & home store",
+    "price": "$$$",
+    "rating": null,
+    "description": "A restored 7,000-square-foot warehouse where the retail floor sits under a working maker studio, which is about as Portland as a retail concept gets. Vintage and refurbished furniture, studio ceramics, organic fragrance, small-batch everything. Weekends and by appointment, so don't just wander up on a Tuesday expecting an open door.",
+    "must_try": "A piece of hand-thrown pottery made in the studio upstairs",
+    "hours": "Fri-Sun 12pm-5pm, or by appointment",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pistils Nursery",
+    "address": "3811 N Mississippi Ave, Portland, OR 97227",
+    "phone": null,
+    "website": "https://pistilsnursery.com",
+    "category": "shopping",
+    "subcategory": "plant nursery & mercantile",
+    "price": "$$",
+    "rating": null,
+    "description": "The Mississippi District flagship, going on twenty-plus years of talking Portlanders into just one more houseplant. Tropicals, cacti, air plants, hand-thrown pots, and urban-farm supply, curated by people who clearly can't stop either. Dangerous on a slow Sunday.",
+    "must_try": "An oddball rare houseplant paired with a hand-thrown pot to match",
+    "hours": "Mon-Fri 11am-7pm, Sat-Sun 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Everybody's Bike Rentals & Tours",
+    "address": "4810 NE Garfield Ave, Portland, OR 97211",
+    "phone": "(503) 358-0152",
+    "website": "https://www.pdxbikerentals.com",
+    "category": "services",
+    "subcategory": "bike rental & tours",
+    "price": "$$",
+    "rating": null,
+    "description": "The northside answer to a downtown rental shop, running refurbished vintage cruisers and modern bikes since 2012, a few pedal strokes from Alberta, Mississippi, and the Williams corridor. Each bike gets fitted to you and sent off with lights, lock, helmet, map, and a stack of local tips. This is how you do the arts districts.",
+    "must_try": "Renting a refurbished vintage cruiser to roll the Alberta Arts District",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  }
+]

@@ -1,0 +1,49 @@
+[
+  {
+    "id": "the-250-trail-nashville",
+    "title": "The 250 Trail: Nashville",
+    "hook": "Before Music Row had a sound, Jefferson Street had the song. Follow the R&B corridor and the writers' rooms as one long verse.",
+    "narrative": "Start where the labels won't tell you the story began: Jefferson Street. Before Music Row, this corridor by Fisk, Meharry, and TSU held clubs — the Del Morocco, Club Baron — where a young Jimi Hendrix played guitar in a house band before Interstate 40 cut the neighborhood's heart out in the late 1960s. We follow what survived. At the National Museum of African American Music, opened downtown in 2021, you trace fifty-plus genres — spirituals to hip-hop — back to their makers. Up the hill, Fisk's Jubilee Singers carried Black spirituals around the world beginning in 1871, their proceeds funding the university; the same campus is where Aaron Douglas built the art program and painted his murals. Then eat where the movement ate: Swett's has ladled soul food since 1954. Chase the burn at Prince's, the family credited with inventing hot chicken. From there, the writers' rooms — Historic RCA Studio B, where Chet Atkins and Elvis cut the Nashville Sound; the Ryman, the Mother Church, where a hush still falls mid-song; the Bluebird, where the song, not the singer, runs the room; and the Station Inn, keeping bluegrass's all-night vigil. Same city, one unbroken line.",
+    "neighborhoods": [
+      "Jefferson Street / North Nashville",
+      "Downtown / SoBro",
+      "Music Row",
+      "Green Hills",
+      "The Gulch"
+    ],
+    "stops": [
+      {
+        "biz": "National Museum of African American Music",
+        "note": "The downtown anchor at Fifth and Broadway, opened January 2021 — the only museum tracing the 50-plus genres, from spirituals to hip-hop, shaped by African American musicians. Come here first for the map of everything the rest of the trail makes real."
+      },
+      {
+        "biz": "Fisk University Galleries (Carl Van Vechten & Aaron Douglas)",
+        "note": "Walk the campus whose Jubilee Singers carried spirituals to the world starting in 1871, funding the university itself. Aaron Douglas founded the art program and left his murals here; the Van Vechten Gallery holds the Stieglitz collection gifted by Georgia O'Keeffe."
+      },
+      {
+        "biz": "Swett's Restaurant",
+        "note": "North Nashville's soul-food institution since 1954 — a meat-and-three that fed civil rights organizers and sports legends alike. Load a cafeteria tray with fried chicken, greens, cornbread, and peach cobbler; this is where the neighborhood's musicians ate between sets."
+      },
+      {
+        "biz": "Prince's Hot Chicken",
+        "note": "The family credited with inventing Nashville hot chicken. Order carefully and respect the heat — this is the origin point of a dish the whole city now claims, and everything on the hot chicken trail traces back to this counter."
+      },
+      {
+        "biz": "Historic RCA Studio B",
+        "note": "The Music Row room where Chet Atkins helped build the Nashville Sound and Elvis cut dozens of sides. Stand where the corridor's raw talent got translated onto tape — the pivot from the street's clubs to the industry's studios."
+      },
+      {
+        "biz": "Ryman Auditorium",
+        "note": "The Mother Church of Country Music, the tabernacle-turned-stage where a genuine hush still falls between verses. Catch a show if you can; the pews and the acoustics do half the singing for you."
+      },
+      {
+        "biz": "The Bluebird Cafe",
+        "note": "The Green Hills strip-mall room where the writers' round was perfected — songwriters in the center, audience shushed, the song running the room instead of the star. Reserve ahead; the in-the-round shows are the real thing."
+      },
+      {
+        "biz": "The Station Inn",
+        "note": "The Gulch's cinder-block bluegrass shrine, keeping the all-night pickers' tradition alive amid the glass towers that grew up around it. End the night here, where the playing never really stopped and the tourists rarely find the good seats."
+      }
+    ]
+  }
+]

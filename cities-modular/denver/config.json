@@ -1,0 +1,254 @@
+{
+  "slug": "denver",
+  "name": "Denver",
+  "state": "Colorado",
+  "region": "Front Range / Rocky Mountains",
+  "tagline": "Basecamp for a mile-high life.",
+  "description": "A city that treats the whole Front Range as its backyard — 300 days of sun, a skyline that ends in fourteeners, and neighborhoods that reward the curious. From the jazz ghosts of Welton Street to RiNo's mural-wrapped taprooms, Union Station's restored halls to the trailheads an hour west, Denver is where you drop your bag, check the weather window, and launch. It runs on craft beer, green chile, altitude, and the itch to get outside before the afternoon storms roll in.",
+  "coordinates": {
+    "lat": 39.7392,
+    "lng": -104.9903
+  },
+  "timezone": "America/Denver",
+  "identity": {
+    "known_for": [
+      "craft breweries",
+      "Red Rocks Amphitheatre",
+      "ski-country gateway",
+      "RiNo street art",
+      "300 days of sunshine",
+      "mile-high altitude"
+    ],
+    "vibe": "Outdoorsy, unpretentious, and perpetually caffeinated — a working city with a mountaineer's heart and a brewer's patience.",
+    "best_season": "summer",
+    "visitor_type": [
+      "adventurers",
+      "foodies",
+      "festival-goers",
+      "families",
+      "culture seekers"
+    ]
+  },
+  "hero": {
+    "summer": "The sun's out 300 days a year and it means it today — Red Rocks has a show tonight, the patios are full, and the mountains are close enough to touch before the afternoon thunderheads build.",
+    "fall": "Aspens are turning gold up in the high country, the air goes crisp and clean, and Denver's patios stretch one last golden hour before the first snow dusts the peaks.",
+    "winter": "Blue-sky cold and the ski shuttle idling at Union Station — this is the launchpad, where you fuel up on green chile and coffee before the I-70 climb into powder country.",
+    "spring": "Snow up high, blossoms down in Wash Park, and a weather app you'll check twice — Denver in spring hands you both seasons in a single afternoon, so layer up and chase the good hours."
+  },
+  "nexus": {
+    "type": "transit_hub",
+    "anchor": "Denver Union Station",
+    "anchor_url": "https://www.denverunionstation.com/",
+    "radius": "0.5 miles",
+    "services": [
+      "light rail & commuter rail (RTD)",
+      "A Line train to the airport",
+      "Amtrak",
+      "regional & mountain buses",
+      "Crawford Hotel lodging",
+      "restaurants & bars",
+      "bike and pedestrian access"
+    ],
+    "affiliate_density": "high",
+    "description": "The restored 1914 landmark at 1701 Wynkoop in LoDo — Denver's living room and its launchpad. Trains to the airport, rail to the suburbs, buses to the mountains, and a great hall ringed with bars, restaurants, and the Crawford Hotel. If you're figuring out where to start, start here: drop the bag, grab a coffee, and let the whole Front Range open up around you."
+  },
+  "nexus_grid": [
+    {
+      "id": "arrive",
+      "title": "Arrive & Orient",
+      "icon": "train",
+      "description": "Step off the A Line from the airport straight into the Great Hall — 37 minutes, no rental car needed. This is your orientation point."
+    },
+    {
+      "id": "fuel",
+      "title": "Fuel Up",
+      "icon": "coffee",
+      "description": "Coffee, pastries, and green chile within a block. Altitude burns you faster than you think — caffeinate and hydrate before you roam."
+    },
+    {
+      "id": "rino",
+      "title": "Walk to RiNo",
+      "icon": "spray-can",
+      "description": "Ten minutes northeast puts you in the River North Art District — murals, taprooms, and the mural economy that grew out of Five Points."
+    },
+    {
+      "id": "lodo",
+      "title": "LoDo Nightlife",
+      "icon": "beer",
+      "description": "The oldest blocks in the city sit right outside the doors: rooftop bars, ballpark energy, and Larimer Square's string lights."
+    },
+    {
+      "id": "mountains",
+      "title": "Mountain Shuttle",
+      "icon": "mountain",
+      "description": "Bustang and ski shuttles stage from here. Idaho Springs in 45 minutes, Estes Park and RMNP in 90 — the trailheads come to you."
+    },
+    {
+      "id": "stay",
+      "title": "Rest Your Head",
+      "icon": "bed",
+      "description": "The Crawford Hotel is built into the station itself — sleep above the platforms and roll out the door onto a train."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "utensils",
+      "description": "Green chile smothered everything, James Beard tables, and the food-hall boom — Denver eats better than it lets on. Chase the chile and the char.",
+      "tags": [
+        "green chile",
+        "food halls",
+        "farm-to-table",
+        "brunch"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "sun",
+      "description": "Wash Park picnics, patio pints, and slow coffee under a big blue sky. Denver rewards the unhurried — find a bench, watch the peaks.",
+      "tags": [
+        "parks",
+        "patios",
+        "coffee",
+        "slow mornings"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "heart",
+      "description": "Sunset at Red Rocks, a candlelit LoDo table, aspens in the high country. The mountain light does half the work for you.",
+      "tags": [
+        "sunset",
+        "wine bars",
+        "scenic drives",
+        "date night"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "mountain",
+      "description": "This is the launchpad. Trailheads, fourteeners, powder days, and whitewater — all within a weather window and a short drive.",
+      "tags": [
+        "hiking",
+        "skiing",
+        "climbing",
+        "rafting"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "landmark",
+      "description": "The DAM's Indigenous collections, Five Points jazz history, and RiNo's murals — Denver's story runs from Welton Street to the west's frontier art.",
+      "tags": [
+        "museums",
+        "street art",
+        "jazz history",
+        "galleries"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "moon",
+      "description": "Taprooms that never quit, LoDo rooftops, Red Rocks under the stars, and dance floors in RiNo warehouses. The mile-high buzz is real.",
+      "tags": [
+        "breweries",
+        "live music",
+        "rooftops",
+        "concerts"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "users",
+      "description": "Dinosaurs at the Nature & Science museum, the zoo, splash pads in the parks, and a train ride that kids treat like a theme park.",
+      "tags": [
+        "museums",
+        "zoo",
+        "parks",
+        "kid-friendly"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Denver International Airport (DEN) sits 25 miles northeast of downtown. Skip the rental line: the RTD A Line commuter train runs from the airport straight to Union Station in about 37 minutes for a few dollars, trains every 15 minutes.",
+    "local_transport": "Downtown, RiNo, LoDo, and the Highlands are walkable and bike-friendly (Lime and e-bikes everywhere). RTD light rail and buses radiate from Union Station; the free MallRide shuttle runs the length of the 16th Street Mall. Rideshare is easy, but for anything past the metro — Golden, Idaho Springs, the ski resorts — a car or a Bustang mountain bus is your friend."
+  },
+  "side_trips": [
+    {
+      "name": "Rocky Mountain National Park & Estes Park",
+      "distance": "1.5 hours (65 miles) northwest",
+      "pitch": "The headliner. Trail Ridge Road climbs above 12,000 feet, elk bugle in the meadows, and Estes Park anchors it all with a haunted-hotel legend and fudge-shop charm.",
+      "highlights": [
+        "Trail Ridge Road",
+        "Bear Lake trailheads",
+        "elk viewing at dusk",
+        "The Stanley Hotel",
+        "alpine tundra hikes"
+      ]
+    },
+    {
+      "name": "Idaho Springs",
+      "distance": "45 minutes (35 miles) west on I-70",
+      "pitch": "The quickest hit of real mountain-town air — a Gold Rush settlement turned basecamp for hot springs, mine tours, and a legendary pizza pit stop on the way to the resorts.",
+      "highlights": [
+        "Indian Hot Springs",
+        "Argo Mill & Tunnel tour",
+        "Beau Jo's mountain pie",
+        "Mount Blue Sky Scenic Byway",
+        "St. Mary's Glacier hike"
+      ]
+    },
+    {
+      "name": "Golden",
+      "distance": "25 minutes (15 miles) west",
+      "pitch": "Where the plains crash into the foothills — a walkable historic main street on Clear Creek, the Coors brewery, and trailheads that start right in town.",
+      "highlights": [
+        "Clear Creek tubing",
+        "Coors Brewery tour",
+        "Lookout Mountain & Buffalo Bill's grave",
+        "Colorado School of Mines",
+        "North Table Mountain trails"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Trailhead",
+    "greeting": "Welcome to the mile-high mark. I'm your Trailhead — I know the weather window, the altitude tricks, and which way to point you before the afternoon storms build. Where are we headed today?",
+    "personality": "A weathered, easygoing basecamp guide with local knowledge in his boots. Practical about altitude and weather, generous with the good stuff, allergic to tourist traps. Talks like someone who's watched the sun rise over the peaks a thousand times and still means it.",
+    "sign_off": "Drink your water, layer up, and catch the good hours. The mountains aren't going anywhere — but the weather window is. See you back at the station."
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "district-rino.jpg",
+      "landmark-union-station.jpg",
+      "red-rocks-evening.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {},
+    "section_breaks": {}
+  }
+}

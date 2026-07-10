@@ -1,0 +1,1942 @@
+[
+  {
+    "name": "Yuan Wonton",
+    "address": "2878 Fairfax St, Denver, CO 80207",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "Modern Chinese / Dumplings",
+    "price": "$$",
+    "rating": null,
+    "description": "Park Hill's crown jewel and one of the best reasons to leave downtown. Chef Penelope Wong graduated her cult food truck into a brick-and-mortar and, in June 2026, became the first Asian woman from Colorado to win a James Beard Award (Best Chef, Mountain). The menu leans Chinese and Thai, hand-folded and served with real heart. Reservations vanish fast up here at altitude, so plan ahead.",
+    "must_try": "The chili-oil wontons that put the truck on the New York Times' Best New Restaurants map",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tavernetta",
+    "address": "1889 16th St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.tavernettadenver.com/",
+    "category": "dining",
+    "subcategory": "Italian",
+    "price": "$$$",
+    "rating": null,
+    "description": "Your la-dolce-vita basecamp steps from Union Station. Tavernetta brings northern-Italian polish to the LoDo bustle, handmade pasta and a serious wine list, and it holds a spot on the Michelin Guide. Perfect for the night your train pulls in and you want to feel like you've landed somewhere that matters. Book the patio in summer while the sun's still up past eight.",
+    "must_try": "House-made pasta with a bottle off the Italian-forward list",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mercantile Dining & Provision",
+    "address": "1701 Wynkoop St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.mercantiledenver.com/",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Set right inside historic Union Station, this is James Beard-winning chef Alex Seidel's ode to Colorado's larder, part market, part restaurant, all farm-to-table intention. Grab a coffee and provisions on your way to the platform, or settle in for a proper dinner celebrating local producers. A dependable first or last meal for anyone using the station as their trailhead.",
+    "must_try": "The seasonal prix fixe built around Colorado producers",
+    "hours": "Mon-Sat 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rioja",
+    "address": "1431 Larimer St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.riojadenver.com/",
+    "category": "dining",
+    "subcategory": "Mediterranean / New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "On historic Larimer Square, Rioja is where Jennifer Jasinski, the first Denver chef to win a James Beard Award (Best Chef Southwest, 2013), has fired out rustic Mediterranean cooking for two decades. Handmade pasta, smoky grilled octopus, an open kitchen humming through the night. This is old-guard Denver excellence that never coasted.",
+    "must_try": "Handmade pasta or the grilled octopus",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sáp Súa",
+    "address": "2550 E Colfax Ave, Denver, CO 80206",
+    "phone": "(303) 736-2303",
+    "website": "https://www.sapsua.com/",
+    "category": "dining",
+    "subcategory": "Modern Vietnamese",
+    "price": "$$$",
+    "rating": null,
+    "description": "Anna and Ni Nguyen's non-traditional Vietnamese room on East Colfax is one of the most talked-about tables in the city, a James Beard semifinalist for Best New Restaurant and a fixture on national up-and-comer lists. Refined, personal cooking that treats Vietnamese flavors as a living language rather than a template. Congress Park's proof that Colfax is having a moment.",
+    "must_try": "The tasting-driven modern Vietnamese menu that earned the James Beard nod",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Wolf's Tailor",
+    "address": "4058 Tejon St, Denver, CO 80211",
+    "phone": "(720) 456-6705",
+    "website": "https://www.thewolfstailor.com/",
+    "category": "dining",
+    "subcategory": "New American Tasting Menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "In quiet Sunnyside, chef Kelly Whitaker's flagship earned two Michelin stars plus a Green Star for its whole-product, hyper-seasonal ethos. An intimate tasting-menu experience where handmade noodles, hearth cooking, and a fermentation program meet Colorado terroir. This is the splurge night, the one you build a trip around.",
+    "must_try": "The seasonal tasting menu with the house's hand-milled noodles",
+    "hours": "Tue-Sun 5:00pm-8:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sushi Den",
+    "address": "1487 S Pearl St, Denver, CO 80210",
+    "phone": "(303) 777-0826",
+    "website": "https://www.sushiden.net/",
+    "category": "dining",
+    "subcategory": "Japanese / Sushi",
+    "price": "$$$",
+    "rating": null,
+    "description": "A Denver institution since 1985 on Old South Pearl Street, Sushi Den flies fish from Japan's Nagahama market and has anchored Platt Park's dining strip for four decades. Sister spot Izakaya Den sits right next door for the tapas-and-sake overflow. On a Saturday night the wait tells you everything, this is still the standard-bearer.",
+    "must_try": "Nigiri from the daily Nagahama market fish selection",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Annette",
+    "address": "2501 Dallas St, Aurora, CO 80010",
+    "phone": null,
+    "website": "https://www.annettescratchtotable.com/",
+    "category": "dining",
+    "subcategory": "Wood-Fired New American",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tucked inside the Stanley Marketplace just over the Aurora line, Annette is chef Caroline Glover's warm, wood-fired scratch kitchen, and her 2022 James Beard Award (Best Chef, Mountain) is no accident. Everything comes off the hearth with a producer's name attached. An easy, joyful detour from central Denver that rewards the extra ten minutes.",
+    "must_try": "Whatever's roasting over the wood fire that week",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Safta",
+    "address": "3330 Brighton Blvd, Suite 201, Denver, CO 80216",
+    "phone": "(720) 408-2444",
+    "website": "https://www.eatwithsafta.com/",
+    "category": "dining",
+    "subcategory": "Modern Israeli / Middle Eastern",
+    "price": "$$$",
+    "rating": null,
+    "description": "In the heart of RiNo inside the Source Hotel, chef Alon Shaya's Safta brought modern Israeli cooking to Denver, blistered pita straight from the oven, mezze built for the table, hummus you'll think about later. It sits at the center of RiNo's brewery-and-mural sprawl, so make it the anchor of a street-art afternoon.",
+    "must_try": "Wood-fired pita with the hummus and mezze spread",
+    "hours": "Mon-Thu 11am-2pm & 5-9pm; Fri 11am-2pm & 5-10pm; Sat-Sun 10am-2:30pm & 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Margot",
+    "address": "1551 S Pearl St, Denver, CO 80210",
+    "phone": null,
+    "website": "https://www.margotdenver.com/",
+    "category": "dining",
+    "subcategory": "New American Tasting Menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Chef Justin Fulton earned a Michelin star just three months after opening this tiny Platt Park room in June 2025, an eight-seat chef's counter running a twelve-course tasting out of a kitchen the size of a galley. Walk-ins can still catch the à la carte sharing menu in the main room. With Sushi Den down the block, South Pearl is now a genuine Michelin destination.",
+    "must_try": "The twelve-course chef's-counter tasting menu",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barolo Grill",
+    "address": "3030 E 6th Ave, Denver, CO 80206",
+    "phone": "(303) 393-1040",
+    "website": "https://www.barologrilldenver.com/",
+    "category": "dining",
+    "subcategory": "Northern Italian",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Cherry Creek's long-running temple to northern-Italian fine dining, famous for its braised duck and a Barolo-heavy cellar the staff actually travels to Piedmont to study. This is white-tablecloth Denver at its most polished, the anniversary-dinner move. Dress the part and let the sommelier lead.",
+    "must_try": "The signature braised duck",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Five",
+    "address": "2930 Umatilla St, Denver, CO 80211",
+    "phone": "(303) 524-9193",
+    "website": "https://ediblebeats.com/restaurants/el-five/",
+    "category": "dining",
+    "subcategory": "Mediterranean Tapas",
+    "price": "$$$",
+    "rating": null,
+    "description": "Perched on the fifth floor above LoHi with a wide-open patio and an unobstructed downtown skyline view, El Five pairs eastern-Mediterranean small plates, Spain, North Africa, the Middle East, with one of the best sunset seats in the city. Time your reservation for golden hour and let those 300 days of sun do the work.",
+    "must_try": "Shared small plates at sunset with the skyline in front of you",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Potager",
+    "address": "1109 Ogden St, Denver, CO 80218",
+    "phone": "(303) 832-5788",
+    "website": "http://www.potagerrestaurant.com/",
+    "category": "dining",
+    "subcategory": "New American / Farm-to-Table",
+    "price": "$$$",
+    "rating": null,
+    "description": "A Capitol Hill farm-to-table pioneer since 1997, Potager rewrites its menu with the seasons and the farmers, no printed specials because the whole thing is the special. Candlelit, unhurried, and quietly beloved by locals who've watched it stay true through an ownership change. The kind of neighborhood room every city wishes it had.",
+    "must_try": "Whatever the hand-written seasonal menu is running that night",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stowaway Kitchen",
+    "address": "2528 Walnut St, Denver, CO 80205",
+    "phone": "(720) 583-5481",
+    "website": "https://www.stowawaydenver.com/",
+    "category": "dining",
+    "subcategory": "Brunch / Breakfast",
+    "price": "$$",
+    "rating": null,
+    "description": "An owner-run RiNo cafe that makes brunch feel considered rather than obligatory, globally-minded breakfast and lunch that punches well above its counter-service format. Fuel up here before a morning of murals and breweries; the district is best walked on a full stomach. Closed Tuesday and Wednesday, so aim your weekend right.",
+    "must_try": "The Peach Meringue Waffle",
+    "hours": "Thu-Mon 8:00am-2:00pm; closed Tue-Wed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brutø",
+    "address": "1801 Blake St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.brutodenver.com/",
+    "category": "dining",
+    "subcategory": "New American Tasting Menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Tucked into the Dairy Block's Free Market downtown, Brutø is chef Byron Gomez's Michelin-starred (and Green-starred) chef's-counter tasting menu from Kelly Whitaker's Id Est group. Hearth cooking, a deep fermentation program, and Japanese-Nordic accents build a tightly-narrated meal, think kombu-cured scallop with fermented crabapple. An intimate LoDo splurge with a conscience.",
+    "must_try": "The hearth-driven tasting menu with its fermentation-program courses",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "El Taco de Mexico",
+    "address": "714 Santa Fe Dr, Denver, CO 80204",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "green chile / Mexican taqueria",
+    "price": "$",
+    "rating": null,
+    "description": "Basecamp rule number one: this counter-service Santa Fe Drive institution is the green-chile summit everyone else is climbing toward. Founded by Maria Luisa Zanabria and crowned a James Beard America's Classic in 2020 (a first for Colorado), it slings earthy, pork-laced chile from a well-worn counter with zero pretense. Come hungry, come humble.",
+    "must_try": "the smothered pork burrito drowned in green chile",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Loma",
+    "address": "1601 19th St, Ste 180, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.lalomarestaurants.com/",
+    "category": "dining",
+    "subcategory": "green chile / Tex-Mex",
+    "price": "$$",
+    "rating": null,
+    "description": "A Denver green-chile dynasty since 1973, now anchored at McGregor Square steps from Coors Field. The family recipe runs thick, earthy and slightly sweet, the Colorado-style pour that locals measure all others against. Great pre-Rockies fuel before you head into the summer sun.",
+    "must_try": "Colorado-style green chile over anything",
+    "hours": null,
+    "seasonal": "handy for Rockies home games at neighboring Coors Field (Apr-Sep)",
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sam's No. 3",
+    "address": "1500 Curtis St, Denver, CO 80202",
+    "phone": "303-534-1927",
+    "website": "https://samsno3.com/",
+    "category": "dining",
+    "subcategory": "green chile / classic diner",
+    "price": "$$",
+    "rating": null,
+    "description": "A downtown diner running since 1927 that treats green chili as a food group. Seven ways to order it, all-day breakfast, red vinyl booths and a Greek-Tex-Mex sprawl of a menu. This is where altitude-lagged newcomers get grounded over a smothered burrito the size of a forearm.",
+    "must_try": "the supreme breakfast burrito smothered in Kickin' Pork green chili",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brewery Bar II",
+    "address": "150 Kalamath St, Denver, CO 80223",
+    "phone": "303-893-0971",
+    "website": null,
+    "category": "dining",
+    "subcategory": "green chile / Mexican",
+    "price": "$",
+    "rating": null,
+    "description": "Part honky-tonk, part sports bar, all green chile since 1954. This family-run West Denver holdout pours a tomato-heavy, chunky chile that has won cookoffs up and down the Front Range. Unfussy, hearty, and exactly the kind of local secret a good trailhead hands you.",
+    "must_try": "chiles rellenos smothered in green chili",
+    "hours": "Mon-Thu 11am-8pm, Fri-Sat 11am-8:30pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Root Down",
+    "address": "1600 W 33rd Ave, Denver, CO 80211",
+    "phone": "303-993-4200",
+    "website": "https://ediblebeats.com/restaurants/root-down/",
+    "category": "dining",
+    "subcategory": "Mountain West New American / farm-to-table",
+    "price": "$$$",
+    "rating": null,
+    "description": "Justin Cucci's 2009 game-changer, built inside an old Highland service station, that helped define Denver's field-to-fork identity. Seasonal, locally sourced, globally curious plates in a gloriously eclectic room. The weekend brunch is a Denver rite of passage.",
+    "must_try": "the seasonal, produce-driven small plates at brunch",
+    "hours": "Mon-Thu 4pm-9pm, Fri 4pm-9:30pm, Sat 9:30am-2pm & 5pm-9:30pm, Sun 9:30am-2pm & 5pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Work & Class",
+    "address": "2500 Larimer St, Ste 101, Denver, CO 80205",
+    "phone": "303-292-0700",
+    "website": "https://www.workandclassdenver.com/",
+    "category": "dining",
+    "subcategory": "Mountain West New American / Latin-American",
+    "price": "$$$",
+    "rating": null,
+    "description": "A RiNo cornerstone in a shipping-container building where American comfort meets Latin soul, meat sold by the weight, and stiff half-and-full pours from the bar. Loud, warm and reservation-optional-tricky, it captures the neighborhood's swagger better than almost anywhere.",
+    "must_try": "rotisserie meats ordered by the quarter- or half-pound",
+    "hours": "Wed-Sun 5pm-close, closed Mon & Tue",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beckon",
+    "address": "2843 Larimer St, Denver, CO 80205",
+    "phone": "303-749-0020",
+    "website": "https://www.beckon-denver.com/",
+    "category": "dining",
+    "subcategory": "Mountain West New American / chef's counter",
+    "price": "$$$$",
+    "rating": null,
+    "description": "An intimate 18-seat, Michelin-starred chef's counter in the heart of RiNo from Chef Duncan Holmes. Watch a seasonal tasting menu built plate by plate right in front of you, its casual sibling Call sits next door. The most refined seat on Larimer Street.",
+    "must_try": "the seasonal chef's counter tasting menu",
+    "hours": "Wed-Sun 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ratio Beerworks",
+    "address": "2920 Larimer St, Denver, CO 80205",
+    "phone": "303-997-8288",
+    "website": "https://ratiobeerworks.com/",
+    "category": "dining",
+    "subcategory": "RiNo brewery / taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "A decade-deep RiNo mainstay with punk-rock roots, a huge sunny patio and a rotating cast of food trucks. Consistently ranked at the top of the district's brewery hop, it's the ideal first anchor on a Larimer Street mural-and-beer crawl. Hydrate, you're a mile high.",
+    "must_try": "Dear You French Saison",
+    "hours": "Mon-Wed 12pm-11pm, Thu-Fri 12pm-12am, Sat 11am-12am, Sun 11am-11pm",
+    "seasonal": "prime patio weather May-Sep during Denver's 300-days-of-sun stretch",
+    "modes": [
+      "chill",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bierstadt Lagerhaus",
+    "address": "2875 Blake St, Denver, CO 80205",
+    "phone": "720-372-3791",
+    "website": "https://www.bierstadtlager.com/",
+    "category": "dining",
+    "subcategory": "RiNo brewery / lager hall",
+    "price": "$$",
+    "rating": null,
+    "description": "A German-style, lager-only brewpub that became a national mecca for the style. The five-minute Slow Pour Pils is a ritual worth the wait, best enjoyed at a long communal table with the adjacent Rackhouse Pub kitchen handling the food. Precision brewing in a RiNo warehouse.",
+    "must_try": "the Slow Pour Pils (yes, the full five-minute pour)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Our Mutual Friend Brewing",
+    "address": "2810 Larimer St, Denver, CO 80205",
+    "phone": "303-296-3441",
+    "website": "https://www.buyomfbeer.com/",
+    "category": "dining",
+    "subcategory": "RiNo brewery / taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "A colorful, community-minded RiNo brewery with a spacious patio and a local-ingredient ethos, right in the walkable heart of the Larimer brewery cluster. Inclusive vibe, Insta-worthy space and beers built on Colorado malt. An easy next stop on the mural-economy stroll.",
+    "must_try": null,
+    "hours": null,
+    "seasonal": "patio season and street-art strolls shine May-Sep",
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Death & Co Denver",
+    "address": "1280 25th St, Denver, CO 80205",
+    "phone": "(720) 996-6300",
+    "website": "https://www.deathandcompany.com/location/death-and-company-denver/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "The RiNo basecamp for serious cocktail pilgrims — the legendary NYC bar's first outpost, tucked into the lobby of The Ramble Hotel. Come at altitude-adjustment pace: the high-desert air hits harder up here, so let the meticulous ice program and a bartender who actually asks about your mood do the work. Full-table service, a lush seasonal mezzanine garden, and a tasting-menu speakeasy (Suite 6a) upstairs for the deep-divers.",
+    "must_try": "a dealer's-choice cocktail — name your spirit and mood, let the bar build it",
+    "hours": null,
+    "seasonal": "The Garden mezzanine patio opens seasonally in the warm months",
+    "modes": [
+      "romantic",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cruise Room",
+    "address": "1600 17th St (inside The Oxford Hotel), Denver, CO 80202",
+    "phone": "(303) 825-1107",
+    "website": "https://www.theoxfordhotel.com/eat-drink/the-cruise-room",
+    "category": "bars_nightlife",
+    "subcategory": "historic bar / martini lounge",
+    "price": "$$",
+    "rating": null,
+    "description": "Denver's longest-running bar, pouring since the day after Prohibition's repeal in 1933, glowing an Art Deco red inside the Oxford Hotel a two-minute walk from Union Station. This is your after-a-mountain-day reset: no reservations, walk-ins welcomed, order the martini and let the room do the rest. A living piece of LoDo history that still knows how to make a cold drink cold.",
+    "must_try": "a classic dry martini under the red neon glow",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "My Brother's Bar",
+    "address": "2376 15th St, Denver, CO 80202",
+    "phone": "(303) 455-9991",
+    "website": "https://www.mybrothersbar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "dive institution",
+    "price": "$$",
+    "rating": null,
+    "description": "The oldest continuously operating saloon in Denver — serving since 1873 on the corner of 15th and Platte, a short stroll from the Confluence Park trailhead. No TVs, no sign out front, classical music instead of a jukebox, and burgers that pull a line out the door on weekend afternoons. This is the real LoHi, the one that survived Prohibition and everything the neighborhood became around it. Come hungry, come thirsty, leave your phone in your pocket.",
+    "must_try": "a burger dressed from the table's relish tray",
+    "hours": "Mon-Thu 11am-midnight; Fri-Sat 11am-2am; Sun 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Historians Ale House",
+    "address": "24 Broadway, Ste 102, Denver, CO 80203",
+    "phone": "(720) 479-8505",
+    "website": "https://historiansalehouse.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft beer gastropub",
+    "price": "$$",
+    "rating": null,
+    "description": "A long Boston-style bar backed by a never-ending line of taps — 40 of them, most poured from Colorado breweries — with a rooftop patio that hands you a straight shot of the downtown skyline and the Front Range beyond. Head up top when the sun's out (and it usually is — 300 days a year). The weekday lunch deal is one of the best in town; the brunch cocktails on weekends earn their keep.",
+    "must_try": "the $7.95 weekday cheeseburger, fries and a beer, taken on the rooftop",
+    "hours": null,
+    "seasonal": "Rooftop patio is the play in warm months for Front Range views",
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Our Mutual Friend Brewing Company",
+    "address": "2810 Larimer St, Denver, CO 80205",
+    "phone": null,
+    "website": "https://www.omfbeer.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery",
+    "price": "$$",
+    "rating": null,
+    "description": "A longstanding RiNo fixture that ranges from clean lagers and IPAs to the phenol-heavy smoked beers and saisons most breweries won't touch. Nights and weekends feel like a house party in the cozy taproom — and because they don't book bachelor parties or pedal-crawl mobs, it stays a place locals actually want to hang. Two doors down from Ratio, so build the crawl.",
+    "must_try": "a house lager or one of their aggressive smoked saisons",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Honey Elixir Bar",
+    "address": "2636 Walnut St, Denver, CO 80205",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "A RiNo apothecary-meets-cocktail-lounge where the drinks are built to nourish as much as delight — house-made jun, herbal 'potions,' and beautifully composed cocktails in a dim, artful, incense-warm room. This is the slow, restorative end of the RiNo bar spectrum: a good landing spot after a day at altitude when you want intention over volume.",
+    "must_try": "a house jun-based herbal 'potion' cocktail",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beacon RiNo",
+    "address": "2854 Larimer St, Denver, CO 80205",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail lounge",
+    "price": "$$",
+    "rating": null,
+    "description": "An immersive cocktail lounge on Larimer that feels like a pocket-sized festival — interactive art installations, a dance floor, and highly creative mixology, all threaded straight into RiNo's mural economy. The right pick when 'chill drink' isn't the assignment and you want the night to have some texture. Sits within stumbling distance of Ratio and OMF for a full Larimer arc.",
+    "must_try": "a creative cocktail amid the interactive art installations",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Postino Broadway",
+    "address": "145 N Broadway, Denver, CO 80203",
+    "phone": null,
+    "website": "https://www.postinowinecafe.com/",
+    "category": "bars_nightlife",
+    "subcategory": "wine bar",
+    "price": "$$",
+    "rating": null,
+    "description": "A wide, sunny wine cafe in the Baker/SoBo corridor where the by-the-glass list stays refreshingly affordable and the bruschetta boards are the whole point. Easygoing, generous, and low-pressure — the kind of place you plant for a couple hours with friends when the day's plans stay loose. Good value in a city that doesn't always hand it out.",
+    "must_try": "a bruschetta board with a glass off the accessible by-the-glass list",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Huckleberry Roasters",
+    "address": "4301 Pecos St, Denver, CO 80211",
+    "phone": null,
+    "website": "https://www.huckleberryroasters.com/locations/pecos",
+    "category": "coffee_bakeries",
+    "subcategory": "independent roaster",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The Sunnyside flagship of one of Denver's most respected roasters — and host venue for the 2026 U.S. Barista Championship, which tells you where the bar sits. The sourcing goes after single-origin lots most local roasters skip, and the seasonal pour-overs reward anyone who cares which region and process is in the cup. A proper fuel-up before a Tennyson Street or Highlands wander.",
+    "must_try": "a seasonal single-origin pour-over",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Corvus Coffee Roasters",
+    "address": "1740 S Broadway, Denver, CO 80210",
+    "phone": "(303) 715-1740",
+    "website": "https://www.corvuscoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent roaster",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Years of serious direct-trade sourcing with real farm relationships, poured in a moody, industrial SoBo roastery where you can watch the operation while you drink your espresso. Consistently on national best-of lists and a favorite of Denver coffee nerds — this is the destination stop if you want to taste what the city's specialty scene is actually capable of.",
+    "must_try": "a direct-trade single-origin espresso",
+    "hours": "Daily 6:30am-6:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little Owl Coffee",
+    "address": "1555 Blake St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.littleowlcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "cafe",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A tucked-away LoDo counter with a cult-level reputation for dialing shots in exactly right — the walkable-from-Union-Station stop for a clean cortado before you point yourself at the mountains or a museum. Small, focused, and consistently rated among the best cups in the city.",
+    "must_try": "a cortado at the Blake Street counter",
+    "hours": "Mon-Fri 7am-4pm; Sat 8am-4pm; Sun 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pablo's Coffee",
+    "address": "630 E 6th Ave, Denver, CO 80203",
+    "phone": null,
+    "website": "https://www.pabloscoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent roaster / cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A Capitol Hill fixture since the 1990s — the kind of neighborhood roaster that's been dialing in this corner of the city for three decades. The range runs from light single origins to traditional espresso, roasted in-house and shipped nationally. Unpretentious, local, and load-bearing to the Cap Hill morning.",
+    "must_try": "a house espresso in the Cap Hill original",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fifth Coffee House",
+    "address": "710 E 26th Ave, Denver, CO 80205",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A Black-owned coffee house on the corner of 26th and Welton, named twice over — for the historic Five Points neighborhood and for founder Torrance 'Pines' Green's fifth local venture. This is the living present of the Welton Street corridor, the 'Harlem of the West,' where the jazz history and the Black-owned business economy arc straight into RiNo's murals just to the north. Start your Five Points trail here, cup in hand.",
+    "must_try": "a latte on the Welton Street corner of historic Five Points",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bakery Four",
+    "address": "4150 Tennyson St, Denver, CO 80212",
+    "phone": null,
+    "website": "https://www.bakeryfour.com/location",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "The Tennyson Street bakery helping put Colorado on the national pastry map — a rotating lineup of naturally leavened breads, pastries and sandwiches worth the wait that inevitably forms. Come early, expect a line, and don't overthink it: the brioche au sucre and the chewy chocolate chunk cookie are why you're here. A perfect first stop on a Berkeley/Highlands stroll.",
+    "must_try": "the brioche au sucre or the chewy chocolate chunk cookie",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elemental Bakery & Coffeehouse",
+    "address": "3875 Steele St, Ste 1143, Denver, CO 80205",
+    "phone": null,
+    "website": "https://elementalbakeryandcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery / coffeehouse",
+    "price": "$$",
+    "rating": null,
+    "description": "A James Beard-recognized bakery-and-coffeehouse in the York Street Yards, running an ever-changing lineup of laminated breakfast and savory pastries alongside a proper coffee program — the rare spot where both halves earn their billing. Their classic croissant took the people's-choice crown at Denver's laminated-dough competition, which is exactly the credential you want in a croissant.",
+    "must_try": "the award-winning classic croissant",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Denver Art Museum",
+    "address": "100 W. 14th Ave. Pkwy., Denver, CO 80204",
+    "phone": "(720) 865-5000",
+    "website": "https://www.denverartmuseum.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Basecamp's cultural anchor in the Golden Triangle: two architecturally wild buildings (the Gio Ponti tower and Libeskind's titanium Hamilton wing) holding one of the country's deepest Indigenous Arts of North America collections. When the weather window slams shut or the altitude has you moving slow, this is your all-day indoor refuge. First Saturday of every month is free general admission.",
+    "must_try": "The Indigenous Arts of North America galleries on Level 3",
+    "hours": "Mon 10a-5p, Tue 10a-9p, Wed-Sun 10a-5p",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Denver Museum of Nature & Science",
+    "address": "2001 Colorado Blvd., Denver, CO 80205",
+    "phone": "(303) 370-6000",
+    "website": "https://www.dmns.org",
+    "category": "attractions",
+    "subcategory": "science museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Perched on the east edge of City Park with the Front Range framed in its picture windows, this is the family play you make on a smoke-day or a too-hot afternoon. Towering dinosaur skeletons, an Egyptian mummy, a Gates Planetarium, and an Infinity Theater. Time the visit for late afternoon and you'll walk out to one of Denver's best mountain-sunset views off the museum steps.",
+    "must_try": "Prehistoric Journey dinosaur hall, then a Gates Planetarium dome show",
+    "hours": "Sat-Thu 9a-5p, Fri 9a-9p",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Denver Botanic Gardens",
+    "address": "1007 York St., Denver, CO 80206",
+    "phone": null,
+    "website": "https://www.botanicgardens.org",
+    "category": "attractions",
+    "subcategory": "botanical garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Twenty-three acres and 45 distinct gardens tucked into Cheesman Park's flank: a Japanese garden, an alpine rock garden that mirrors the peaks you came for, and a top-ten conservatory. This is the 300-days-of-sun through-line made literal. Come high summer it hosts the beloved outdoor concert series on the lawn, so pack a layer for when the mile-high evening turns cool.",
+    "must_try": "The Rock Alpine Garden and the Japanese Garden (Shofu-en)",
+    "hours": null,
+    "seasonal": "Summer outdoor concert series on the UMB Bank Amphitheater lawn; Blossoms of Light holiday display in winter",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Meow Wolf Denver | Convergence Station",
+    "address": "1338 1st St., Denver, CO 80204",
+    "phone": null,
+    "website": "https://meowwolf.com/visit/denver",
+    "category": "attractions",
+    "subcategory": "immersive art experience",
+    "price": "$$$",
+    "rating": null,
+    "description": "Ninety thousand square feet of interdimensional fever dream built by 110-plus local artists, wedged between downtown and Empower Field. You buy a 'Q-Pass' and lose yourself across four alien worlds. Open seven days a week and gloriously weather-proof, it's the move when a spring squall or January cold snap shuts down the trailheads. Give yourself three hours minimum.",
+    "must_try": "Chasing the story threads across all four worlds (C Street, Eemia, Ossuary, Numina)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clyfford Still Museum",
+    "address": "1250 Bannock St., Denver, CO 80204",
+    "phone": null,
+    "website": "https://clyffordstillmuseum.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$$",
+    "rating": null,
+    "description": "A quiet, single-artist jewel box next door to the Denver Art Museum, holding roughly 95% of everything Abstract Expressionist pioneer Clyfford Still ever made, a collection sealed from the world until this museum opened. It's a 60-to-90-minute contemplative counterpoint to the big institutions, and it pairs perfectly with a Golden Triangle gallery stroll on a sunny afternoon.",
+    "must_try": "The top-floor skylit galleries of large-scale color-field canvases",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Molly Brown House Museum",
+    "address": "1340 Pennsylvania St., Denver, CO 80203",
+    "phone": null,
+    "website": "https://mollybrown.org",
+    "category": "attractions",
+    "subcategory": "historic house museum",
+    "price": "$$",
+    "rating": null,
+    "description": "The 1889 Richardsonian Romanesque home of the 'Unsinkable' Margaret Brown, Titanic survivor and Denver activist, preserved in Capitol Hill by the very citizens who saved it from the wrecking ball in 1970. Guided tours walk you through paint-chip-accurate rooms restored from 1910 photographs. An easy, walkable culture stop between downtown and Cheesman Park.",
+    "must_try": "The guided house tour through the restored 1910-era parlor",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Rocks Park & Amphitheatre",
+    "address": "18300 W. Alameda Pkwy., Morrison, CO 80465",
+    "phone": null,
+    "website": "https://www.redrocksonline.com",
+    "category": "entertainment",
+    "subcategory": "live music amphitheater",
+    "price": "$$$",
+    "rating": null,
+    "description": "The reason 'Denver in summer' is a bucket-list phrase. A natural sandstone amphitheater 15 miles west of the city where the acoustics and sightlines are carved by 300-million-year-old rock. The 2026 concert season runs April through November; by day it's a free public park with a legendary stair workout. Altitude tip: it sits at 6,450 feet, so hydrate hard and pack a warm layer, mountain nights drop fast even in July.",
+    "must_try": "Any headliner under the stars, or a sunrise Yoga on the Rocks session",
+    "hours": null,
+    "seasonal": "Concert season April-November; Film on the Rocks and Yoga on the Rocks run through summer",
+    "modes": [
+      "adventurer",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ogden Theatre",
+    "address": "935 E. Colfax Ave., Denver, CO 80218",
+    "phone": null,
+    "website": "https://www.ogdentheatre.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "A 1917 Colfax landmark, roughly 1,600 capacity, where you catch the act that's one album away from arenas, close enough to read the setlist taped to the stage. This is the beating heart of the Colfax corridor's music mile. Standing-room general admission, so wear the boots you hiked in and get there early for the rail.",
+    "must_try": "A sold-out general-admission floor show from the front rail",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ophelia's Electric Soapbox",
+    "address": "1215 20th St., Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.opheliasdenver.com",
+    "category": "entertainment",
+    "subcategory": "live music venue & restaurant",
+    "price": "$$",
+    "rating": null,
+    "description": "A former brothel turned two-story 'gastro-brothel' on the edge of LoDo, where you can catch a brunch band from a balcony table or lose the night on the dance floor below. It's the rare Denver room that does dinner, cocktails, and live music equally well, which makes it a low-commitment first move after you drop your pack at a Union Station hotel.",
+    "must_try": "A late set on the dance floor after dinner upstairs",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "The Roxy Theatre",
+    "address": "2549 Welton St., Denver, CO 80205",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Living history on the Welton Strip: the Roxy opened in 1934 as Denver's only Black-owned movie house, a stage that hosted Louis Armstrong and Billie Holiday when Five Points was the 'Harlem of the West.' Today it's a roughly 500-capacity room still booking live music, the throughline from the neighborhood's jazz-mecca past into its present. Start your Five Points walk here and let Welton pull you toward RiNo's murals.",
+    "must_try": "A live show under the historic marquee on Welton Street",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cervantes' Masterpiece Ballroom",
+    "address": "2637 Welton St., Denver, CO 80205",
+    "phone": null,
+    "website": "https://www.cervantesmasterpiece.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Two connected rooms, the Ballroom and the Other Side, in a Five Points building that has been a music hall since the 1920s. It's the neighborhood's living jazz-funk-and-jam engine on historic Welton Street, a direct descendant of the district's Rossonian-era heyday. Late-night shows here are as Denver as it gets, and you're a short walk from the light rail back downtown.",
+    "must_try": "A late funk or jam-band set in the Ballroom",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Comedy Works Downtown",
+    "address": "1226 15th St., Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.comedyworks.com",
+    "category": "entertainment",
+    "subcategory": "comedy club",
+    "price": "$$",
+    "rating": null,
+    "description": "The intimate LoDo basement room that touring comics rank among the best clubs in the country, where big names drop in unannounced to work out new material. Low ceilings, tight tables, two-item minimum, exactly the room where standup is supposed to happen. Reserve ahead for weekend headliners; it's steps from Larimer Square when you want a nightcap after.",
+    "must_try": "A weekend headliner set in the downstairs club",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Denver Center for the Performing Arts",
+    "address": "1101 13th St., Denver, CO 80204",
+    "phone": null,
+    "website": "https://www.denvercenter.org",
+    "category": "entertainment",
+    "subcategory": "performing arts complex",
+    "price": "$$$",
+    "rating": null,
+    "description": "The nonprofit theater giant of downtown's Arts Complex: official home of Broadway touring productions and the Tony-winning Denver Center Theatre Company's own work, all under one glass-roofed galleria. This is the dress-a-little-nicer night in your Denver run, and it's an easy walk from the Union Station and 16th Street hotels.",
+    "must_try": "A Broadway touring production in the Buell Theatre",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ball Arena",
+    "address": "1000 Chopper Cir., Denver, CO 80204",
+    "phone": null,
+    "website": "https://www.ballarena.com",
+    "category": "entertainment",
+    "subcategory": "sports & concert arena",
+    "price": "$$$",
+    "rating": null,
+    "description": "The 20,000-seat downtown house of the NBA's Nuggets and the NHL's Avalanche, a rare arena where you can catch two pro franchises plus major touring concerts. Steps from Union Station and wired straight into the RTD light rail, so you can go from mountain trailhead to courtside without ever touching a parking garage. Both the Nuggets and Avs run their 2026 seasons here.",
+    "must_try": "A Nuggets game night with the downtown crowd",
+    "hours": null,
+    "seasonal": "NBA Nuggets and NHL Avalanche seasons run fall through spring",
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coors Field",
+    "address": "2001 Blake St., Denver, CO 80205",
+    "phone": null,
+    "website": "https://www.mlb.com/rockies/ballpark",
+    "category": "entertainment",
+    "subcategory": "baseball stadium",
+    "price": "$$",
+    "rating": null,
+    "description": "The Colorado Rockies' classic downtown ballpark since 1995, sitting right in LoDo with the Front Range on the horizon past the outfield. Find the purple row of seats marking exactly one mile above sea level, then post up on the Rooftop deck where the beer and the mountain views both flow. Summer day games are one of Denver's great cheap pleasures, just wear sunscreen; that mile-high sun is stronger than it feels.",
+    "must_try": "A Rooftop-deck seat and the row of purple mile-high seats in the upper deck",
+    "hours": null,
+    "seasonal": "MLB Rockies home season runs April through September",
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Empower Field at Mile High",
+    "address": "1701 Bryant St., Denver, CO 80204",
+    "phone": null,
+    "website": "https://www.empowerfieldatmilehigh.com",
+    "category": "entertainment",
+    "subcategory": "football stadium",
+    "price": "$$$",
+    "rating": null,
+    "description": "The NFL Broncos' cathedral, literally a mile high at 5,280 feet, with Rocky Mountain views off the upper bowl that visiting teams swear steals their breath (sometimes literally, the altitude is a real home-field weapon). Fall Sundays here are the loudest room in Colorado. Ride-share or take the light rail in; game-day traffic on I-25 is its own contact sport.",
+    "must_try": "A Broncos home game in the south stands with the mountain backdrop",
+    "hours": null,
+    "seasonal": "NFL Broncos home season runs September through January",
+    "modes": [
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Rocks Park & Trading Post Trail",
+    "address": "17900 Trading Post Rd, Morrison, CO 80465",
+    "phone": null,
+    "website": "https://www.redrocksonline.com/plan-your-visit/getting-here/",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking trail / geologic park",
+    "price": "$",
+    "rating": null,
+    "description": "Basecamp truth: the amphitheatre gets the fame, but the free Trading Post Trail is the hike locals actually walk. A 1.4-mile loop threads the 300-million-year-old Fountain and Lyons formations — those tilted crimson slabs — right below the stage. At 6,400 ft the sun bites, so I send folks out early with a windbreaker in the pack.",
+    "must_try": "The 1.4-mile Trading Post Trail loop weaving between the towering red-rock fins",
+    "hours": "Park open 1 hour before sunrise to 1 hour after sunset; Visitor Center May–Sep 8am–7pm, Oct–Apr 9am–4pm",
+    "seasonal": "Free year-round. On summer concert days the lots fill by afternoon — hike the trail before noon. Afternoon thunderstorms build fast; be off the rocks by early afternoon.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rocky Mountain Arsenal National Wildlife Refuge",
+    "address": "6550 Gateway Rd, Commerce City, CO 80022",
+    "phone": "(303) 289-0930",
+    "website": "https://www.fws.gov/refuge/rocky-mountain-arsenal",
+    "category": "outdoor_adventure",
+    "subcategory": "wildlife refuge",
+    "price": "$",
+    "rating": null,
+    "description": "A 15,000-acre prairie sanctuary ten miles from downtown, where a herd of American bison actually roams. This is my go-to for a first day in town: it's flat, it's low, and the 11-mile Wildlife Drive lets your lungs adjust to a mile of altitude while you scan for deer, raptors, and waterfowl.",
+    "must_try": "The Lake Ladora Loop and the 11-mile Wildlife Drive to find the resident bison herd",
+    "hours": "Refuge sunrise–sunset (open to 8pm May 1–Aug 1); Visitor Center Wed–Sun 9am–4pm, closed federal holidays",
+    "seasonal": "Free entry. Bison show best at dawn; winter brings bald eagles to the lakes. A gentle, altitude-friendly outing.",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roxborough State Park",
+    "address": "4751 Roxborough Dr, Littleton, CO 80125",
+    "phone": "(303) 973-3959",
+    "website": "https://cpw.state.co.us/state-parks/roxborough-state-park",
+    "category": "outdoor_adventure",
+    "subcategory": "state park / hiking",
+    "price": "$",
+    "rating": null,
+    "description": "A National Natural Landmark of dramatic upthrust red rock — think Red Rocks without the crowds or the stage. Seven trails fan out from the visitor center; the South Rim Loop is the one that stops you in your tracks. Quiet, protected, and gloriously uncommercial.",
+    "must_try": "The South Rim Loop past the tilted scarlet spires of the Fountain Formation",
+    "hours": "Summer roughly 7am–9pm, winter 8am–5pm (seasonal, day-use only)",
+    "seasonal": "$10 daily vehicle pass or Colorado State Parks pass. No dogs permitted anywhere, ever. Gambel oak turns gold in fall; arrive early on weekends as the lot is small.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chatfield State Park",
+    "address": "11500 N Roxborough Park Rd, Littleton, CO 80125 (main entrance 9700 S Wadsworth Blvd, Littleton, CO 80128)",
+    "phone": "(303) 791-7275",
+    "website": "https://cpw.state.co.us/state-parks/chatfield-state-park",
+    "category": "outdoor_adventure",
+    "subcategory": "state park / reservoir boating",
+    "price": "$",
+    "rating": null,
+    "description": "Denver's southwest water playground at the foot of the Front Range. A full-service marina rents everything from pontoons to paddleboards, and hot-air balloons drift up from the fields at dawn. Map your route to the street address, not the park name — the app will send you the wrong way otherwise.",
+    "must_try": "Renting a pontoon or SUP at the full-service marina and paddling the reservoir",
+    "hours": "Boating Mar 1–Nov 30 (ice permitting); swim beach Memorial Day–Labor Day, sunrise–sunset",
+    "seasonal": "$10–14 daily vehicle pass. Reservoir warms by June. No lifeguards at the swim beach. Marina: (303) 791-5555.",
+    "modes": [
+      "family",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cherry Creek State Park",
+    "address": "4201 S Parker Rd, Aurora, CO 80014",
+    "phone": "(303) 690-1166",
+    "website": "https://cpw.state.co.us/state-parks/cherry-creek-state-park",
+    "category": "outdoor_adventure",
+    "subcategory": "state park / reservoir recreation",
+    "price": "$",
+    "rating": null,
+    "description": "The metro's most-used state park — a big warm-water reservoir ringed by prairie, with a swim beach, water-ski lanes, a marina, and one of the region's best off-leash dog areas. Suburban-convenient, but the sunset over the water still earns its keep.",
+    "must_try": "The swim beach on a warm afternoon, or a rental out on the water-ski lanes",
+    "hours": "Sunrise–sunset; Visitor Center/office hours seasonal (May–Sep Mon–Fri 8am–8pm)",
+    "seasonal": "$10–15 daily vehicle pass. Summer weekends the beach packs early. West-side off-leash dog area is a local institution.",
+    "modes": [
+      "family",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Clear Creek Whitewater Park (Golden)",
+    "address": "304 10th St, Golden, CO 80401 (Clear Creek lot / Vanover Park)",
+    "phone": null,
+    "website": "https://www.visitgolden.com/plan-your-visit/creek-info/",
+    "category": "outdoor_adventure",
+    "subcategory": "whitewater park / tubing",
+    "price": "$",
+    "rating": null,
+    "description": "Downtown Golden's snowmelt luge. Engineered Class II–III drops run right through town, and on a hot afternoon half the city is bobbing down them on tubes. Free to access; grab a tube from a rental stand and float from the Highway 6 bridge to Vanover Park in 30–60 minutes.",
+    "must_try": "Floating the engineered chutes from the Route 6 bridge down to Vanover Park",
+    "hours": "Creek open dawn–dusk; tube/e-bike rental stands seasonal (summer)",
+    "seasonal": "Peak runoff in May–June runs fast, high, and snow-cold — the City of Golden now REQUIRES life jackets for all tubers, and a helmet is strongly advised. Prime tubing is mid-July through August as flows mellow.",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mount Falcon Park",
+    "address": "3852 Vine St, Morrison, CO 80465 (Morrison/east trailhead)",
+    "phone": null,
+    "website": "https://www.jeffco.us/1332/Mount-Falcon-Park",
+    "category": "outdoor_adventure",
+    "subcategory": "open-space park / hiking",
+    "price": "$",
+    "rating": null,
+    "description": "A Jefferson County Open Space gem with history baked in: the Castle Trail leads to the stone ruins of John Brisben Walker's burned-out mansion and the foundation of a never-built 'Summer White House.' Free, dog-friendly, and stacked with Front Range views.",
+    "must_try": "The Castle Trail out to the ivy-clung stone ruins of the Walker mansion",
+    "hours": "Sunrise–sunset daily",
+    "seasonal": "Free. The Morrison (east) trailhead is a steep, sun-exposed 1,700-ft climb — carry water. The west trailhead off Parmalee Gulch Road is the shady, mellow way to the ruins.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Colorado Adventure Center (Idaho Springs)",
+    "address": "2697 Stanley Rd, Idaho Springs, CO 80452",
+    "phone": null,
+    "website": "https://www.raftingcolorado.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline & whitewater outfitter",
+    "price": "$$$",
+    "rating": null,
+    "description": "Twenty miles up I-70, this is the one-stop adrenaline shop — eight ziplines strung across the alpine treetops with 65-ft towers and 40-mph runs, plus guided Clear Creek whitewater. A perfect half-day escape from the city into the high country.",
+    "must_try": "The 8-line zipline course soaring over the alpine canopy",
+    "hours": "Seasonal; reservations required (book ahead in summer)",
+    "seasonal": "Rafting runs with the snowmelt May–August; ziplining operates through much of the year. It's 45 minutes and 2,000+ ft up from Denver — dress one layer warmer than downtown.",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rocky Mountain National Park",
+    "address": "1000 US Hwy 36, Estes Park, CO 80517 (Beaver Meadows Visitor Center)",
+    "phone": "(970) 586-1206",
+    "website": "https://www.nps.gov/romo",
+    "category": "outdoor_adventure",
+    "subcategory": "national park",
+    "price": "$$",
+    "rating": null,
+    "description": "The crown jewel side trip — 90 minutes northwest via Estes Park. Alpine lakes, tundra above the tree line, elk bugling in the meadows, and Trail Ridge Road cresting 12,000 ft. It rewards the early riser: Bear Lake at sunrise is Colorado distilled.",
+    "must_try": "Bear Lake at sunrise, then the drive up Trail Ridge Road above the tree line",
+    "hours": "Open 24/7; timed-entry permit required (general 9am–2pm; Bear Lake corridor 5am–6pm) May 22–Oct 2026",
+    "seasonal": "A 1.5-hr side trip. Reserve timed-entry permits on Recreation.gov well ahead, plus a park pass/entrance fee. Trail Ridge Road typically closes by mid-October; high trails hold snow into July.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "romantic",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Adventure Hub at Washington Park Boathouse",
+    "address": "701 S Franklin St, Denver, CO 80209",
+    "phone": "(720) 913-0700",
+    "website": "https://www.denvergov.org/Government/Agencies-Departments-Offices/Agencies-Departments-Offices-Directory/Parks-Recreation/Recreation-Centers-Pools/Adventure-Hub-Bike-and-Boat-Rentals",
+    "category": "outdoor_adventure",
+    "subcategory": "urban park / bike & boat rentals",
+    "price": "$",
+    "rating": null,
+    "description": "Wash Park is Denver's beating green heart, and the Adventure Hub by the historic boathouse rents the gear to enjoy it — beach cruisers, six-seat surreys, kayaks, and SUPs for the lakes. At 5,280 ft on flat ground, it's the gentlest way to feel like a local.",
+    "must_try": "A surrey cruise around the two lakes, or a paddleboard on Smith Lake",
+    "hours": "Seasonal spring through fall (reopens ~early March)",
+    "seasonal": "Rentals run spring–fall. The 2.6-mile perimeter loop is the city's classic run/skate. Altitude-gentle — good for acclimatizing legs.",
+    "modes": [
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mount Blue Sky Scenic Byway",
+    "address": "Mount Blue Sky Rd (Hwy 5), off Hwy 103 near Echo Lake, Idaho Springs, CO 80452",
+    "phone": null,
+    "website": "https://www.fs.usda.gov/r02/arp/recreation/mount-blue-sky-recreation-area-scenic-byway",
+    "category": "outdoor_adventure",
+    "subcategory": "scenic byway / alpine drive",
+    "price": "$",
+    "rating": null,
+    "description": "The highest paved road in North America, climbing to 14,130 ft on the flanks of a fourteener. You'll pass bristlecone pines older than Rome, mountain goats and bighorn sheep, and burst above the tree line into raw alpine tundra — all without leaving your car if you choose.",
+    "must_try": "Driving to the 14,130-ft summit parking area for a walk-up fourteener view",
+    "hours": "Road opens ~Memorial Day weekend, closes early fall (weather dependent); timed reservation required",
+    "seasonal": "Reserve a $20 vehicle timed ticket on Recreation.gov; 2026 season opens Memorial Day weekend. You gain nearly 9,000 ft of elevation — hydrate hard and descend if you feel altitude sickness. Hikers and cyclists don't need a reservation.",
+    "modes": [
+      "adventurer",
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Mary's Glacier Trailhead",
+    "address": "St. Mary's Glacier Trailhead, Fall River Rd, Idaho Springs, CO 80452",
+    "phone": null,
+    "website": "https://visitclearcreek.com/st-marys-glacier/",
+    "category": "outdoor_adventure",
+    "subcategory": "alpine hike / snowfield",
+    "price": "$",
+    "rating": null,
+    "description": "The fastest ticket to high-alpine scenery near Denver — a short, rocky 1.8-mile out-and-back to a permanent snowfield and a glassy alpine lake. Skiers and snowboarders hike up to earn summer turns; everyone else just gawks at the peaks.",
+    "must_try": "The 1.8-mile hike to the year-round snowfield above St. Mary's Lake",
+    "hours": "Daylight hours; paid parking lots",
+    "seasonal": "Two paid lots ($10–20/day) — no roadside parking, it's ticketed. Snow lingers on the glacier all summer, so bring microspikes if you go up. Best April–October.",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bear Creek Lake Park",
+    "address": "15600 W Morrison Rd, Lakewood, CO 80228",
+    "phone": null,
+    "website": "https://www.lakewoodco.gov/Local-Government/Departments/Community-Resources/Parks-Forestry-and-Open-Space/A-to-Z-Park-List/Bear-Creek-Lake-Park",
+    "category": "outdoor_adventure",
+    "subcategory": "regional park / paddling",
+    "price": "$",
+    "rating": null,
+    "description": "A 2,600-acre Lakewood park with two lakes doing two jobs — one for swimming and paddleboarding, one for fishing and boating — plus miles of trail and a summer campground close enough to feel like cheating. Soda Lakes Marina is the paddle hub.",
+    "must_try": "Renting a paddleboard or kayak at Soda Lakes Marina",
+    "hours": "May–Sep 6am–10pm; Mar, Apr, Oct 7am–8pm",
+    "seasonal": "$10 vehicle entrance fee. Soda Lakes Marina (paddle rentals) runs Memorial Day–Labor Day; swimming and boating are split across the two lakes.",
+    "modes": [
+      "family",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Confluence Kayak & Ski",
+    "address": "2301 7th St, Denver, CO 80211",
+    "phone": "(303) 433-3676",
+    "website": "https://www.confluencekayaks.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "paddle outfitter / gear rentals",
+    "price": "$$",
+    "rating": null,
+    "description": "The trusty outfitter steps from the South Platte, kitting out paddlers since long before it was cool. Rent a tube, kayak, or SUP and walk it straight to the river, or grab lessons before you take on the downtown wave. A genuine four-season shop — paddles in summer, skis in winter.",
+    "must_try": "Renting a tube or kayak to run the whitewater wave at nearby Confluence Park",
+    "hours": "Mon–Fri 10am–7pm, Sat 10am–6pm, Sun 12pm–5pm",
+    "seasonal": "Water-gear rentals spring–summer; ski and snowboard gear in winter. Book paddle rentals ahead on hot summer weekends.",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Confluence Park",
+    "address": "2250 15th St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.uncovercolorado.com/public-parks/confluence-park-denver/",
+    "category": "outdoor_adventure",
+    "subcategory": "urban river park / whitewater play",
+    "price": "$",
+    "rating": null,
+    "description": "The spot where Denver was born — where Cherry Creek pours into the South Platte and the city's paved trail arteries meet. In summer it's a downtown beach: kayakers surf the engineered chute, tubers bob past, and everyone else sprawls on the grassy steps by REI to watch. Pure basecamp energy.",
+    "must_try": "Watching (or riding) the whitewater chute at the Cherry Creek–South Platte confluence",
+    "hours": "Dawn–dusk daily",
+    "seasonal": "Free. Flows run high and cold in June snowmelt; the play wave is at its friendliest mid-summer. Grassy tiered banks make it a prime sunset hang.",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer",
+      "romantic"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Aspire Tours",
+    "address": "1626 Wazee St, Suite 2A, Denver, CO 80202",
+    "phone": "(720) 583-0654",
+    "website": "https://www.aspire-tours.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "guided day tours",
+    "price": "$$$",
+    "rating": null,
+    "description": "This is your LoDo-based launchpad for a mountain day when you don't want to white-knuckle I-70 yourself. Aspire runs small-group getaways from downtown Denver out to Red Rocks, up into Rocky Mountain National Park, and along the Mount Blue Sky alpine summit road. Let the guide handle the switchbacks while you watch for elk. Altitude note: you'll gain serious elevation fast on the Blue Sky run, so hydrate hard the night before and go easy on the coffee. Check rates and see availability online.",
+    "must_try": "The Mount Blue Sky Alpine Summit & Red Rocks tour up the highest paved road in North America",
+    "hours": null,
+    "seasonal": "RMNP and Blue Sky tours are strongest late spring through fall; the Blue Sky byway is snow-gated in winter",
+    "modes": [
+      "adventurer",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Colorado Sightseer",
+    "address": "600 S Holly St, Suite 200, Denver, CO 80246",
+    "phone": "(303) 423-8200",
+    "website": "https://coloradosightseer.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "guided day tours",
+    "price": "$$$",
+    "rating": null,
+    "description": "When you want a guide who actually gets you out of the van and onto a trail, this is the outfit. Colorado Sightseer keeps groups to 9-12 so you're not herded, running daily departures from Denver to Rocky Mountain National Park, Mount Blue Sky, Pikes Peak, and a Gold Rush mine tour up in the high country. Their whole pitch is active sightseeing over drive-by photo stops. First-timers from sea level: the Continental Divide overlooks sit above 12,000 feet, so a slow pace and water are your friends. Book a tour on their site.",
+    "must_try": "The Rocky Mountain National Park tour with a guided alpine hike above timberline",
+    "hours": null,
+    "seasonal": "RMNP summer-fall itinerary swaps to a winter-spring route; snow-tubing and hot-springs trips run in winter",
+    "modes": [
+      "adventurer",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Epic Mountain Express",
+    "address": "434 Edwards Access Rd, Edwards, CO 81632",
+    "phone": "(970) 754-7433",
+    "website": "https://www.epicmountainexpress.com/",
+    "category": "services",
+    "subcategory": "ski shuttle",
+    "price": "$$",
+    "rating": null,
+    "description": "The workhorse of the Denver-to-slopes run. Epic Mountain Express does door-to-door shared shuttles and private SUVs from Denver International out to Breckenridge, Vail, Keystone, and Beaver Creek, with a downtown Denver pickup option too. Their drivers are trained for I-70 in a whiteout, which is exactly who you want behind the wheel when the Eisenhower Tunnel is socked in. Basecamp tip: book early, they run 2026/27 winter early-bird savings, and Epic Pass holders get a standing discount. Reserve online and see availability.",
+    "must_try": "A door-to-door shared shuttle from downtown Denver to Breckenridge, roughly a 2-hour run",
+    "hours": null,
+    "seasonal": "Runs year-round but built for ski season; winter is peak and books up on powder weekends",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Peak 1 Express",
+    "address": "116 Huron Road, Suite 2, Breckenridge, CO 80424",
+    "phone": "(970) 423-7033",
+    "website": "https://www.mountainshuttle.com/",
+    "category": "services",
+    "subcategory": "ski shuttle",
+    "price": "$$",
+    "rating": null,
+    "description": "Your other reliable ticket to the summit county resorts. Peak 1 Express runs professional door-to-door shuttles from Denver International out to Breckenridge, Vail, Keystone, and Copper Mountain, operating year-round and through the winter storms with drivers who know the mountain roads. Shared seats start around $44, and they'll do private charters and group runs if you're rolling deep. Trailhead tip: the DEN-to-Breck haul is about 2 to 2.5 hours, so grab a bathroom stop before you leave the airport. Check rates and book online.",
+    "must_try": "A shared-shuttle seat from Denver International up to Copper Mountain",
+    "hours": null,
+    "seasonal": "Year-round service with a heavy winter ski-season lean",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Amtrak Winter Park Express",
+    "address": "Denver Union Station, 1701 Wynkoop St, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.amtrak.com/winter-park-express",
+    "category": "entertainment",
+    "subcategory": "ski train",
+    "price": "$",
+    "rating": null,
+    "description": "The most romantic way to reach a ski resort in Colorado, hands down. The Winter Park Express rolls straight out of Denver Union Station, climbs through the Moffat Tunnel, and drops you at the base of Winter Park Resort in about three hours, no rental car, no chains, no parking scramble. Skis ride as free carry-on. It departs downtown at 7:00 am and gets you back around 7:05 pm. Basecamp move: this is the antidote to I-70 traffic, and at fares starting near $9 one-way it's almost too cheap to believe. See the schedule and book on Amtrak.",
+    "must_try": "The morning departure from Union Station up through the Moffat Tunnel with your skis onboard",
+    "hours": null,
+    "seasonal": "Winter only — 2025/26 service runs Dec 19 through late March, Thursday through Sunday",
+    "modes": [
+      "adventurer",
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Denver Microbrew Tour",
+    "address": "Lower Downtown (LoDo) & RiNo Arts District, Denver, CO 80202",
+    "phone": "(303) 578-9548",
+    "website": "https://www.denvermicrobrewtour.com/",
+    "category": "entertainment",
+    "subcategory": "brewery walking tour",
+    "price": "$$",
+    "rating": null,
+    "description": "The best way to drink your way through Denver's brewery capital without anyone needing to drive. This TripAdvisor Certificate of Excellence outfit runs guided walking tours through LoDo's historic core and out into the RiNo Arts District, where you'll pour into breweries and a cidery while your guide unpacks local history and the mural economy stamped across the neighborhood walls. Two and a half hours, 10-plus tastings, all on foot. Altitude reality check: beer hits harder at a mile high, so pace yourself and drink water between stops. Book online.",
+    "must_try": "The RiNo Beer and Graffiti Tour weaving three breweries and a cidery through the street-art district",
+    "hours": "LoDo tour: Fri 3:15pm, Sat 12pm & 3:15pm, Sun 3:15pm. RiNo tour: Mon-Thu 3pm, Fri 12:15pm, Sat 11:45am, Sun 12:15pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "eTuk Ride Denver",
+    "address": "3860 Blake St, Denver, CO 80205",
+    "phone": "(720) 593-8857",
+    "website": "https://etukride.com/denver/",
+    "category": "entertainment",
+    "subcategory": "city tour",
+    "price": "$$",
+    "rating": null,
+    "description": "Half sightseeing, half brewery crawl, all open-air fun. eTuk runs 100% electric three-wheeled tuk tuks out of the heart of RiNo, buzzing you between the district's murals and taprooms or looping the city's downtown highlights. It's the low-effort, high-charm way to cover ground when the 300-days-of-sun weather window is open and you'd rather feel the breeze than sit in a van. Trailhead tip: RiNo afternoons can swing from sunny to a fast-moving thunderstorm in summer, so bring a light layer. Book your ride online.",
+    "must_try": "The RiNo brewery crawl by open-air electric tuk tuk",
+    "hours": "Daily 7:30am-11:00pm",
+    "seasonal": "Best in the warm-weather months; open-air rides are less appealing in deep winter",
+    "modes": [
+      "nightlife",
+      "adventurer",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fort",
+    "address": "19192 Hwy 8, Morrison, CO 80465",
+    "phone": "(720) 689-9894",
+    "website": "https://www.thefort.com/",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The pre-concert dinner that turns a Red Rocks night into an occasion. Set in an adobe replica of Bent's Old Fort and ringed by the same red sandstone as the amphitheatre, this 1963 landmark serves more bison than any independent restaurant in the country, alongside elk, quail, and game rooted in American Indian and Mountain Man cooking. It's minutes from the venue, so book an early table and roll into the show fed and happy. Trailhead tip: reservations are essential on show nights, the whole front range eats here before Red Rocks. Reserve a table.",
+    "must_try": "The Buffalo (bison) steak — they serve over 80,000 buffalo entrees a year",
+    "hours": "Mon-Thu 5:00pm-7:30pm, Fri-Sat 5:00pm-8:30pm, Sun 11:00am-6:00pm",
+    "seasonal": "Busiest during Red Rocks concert season (spring through fall); book far ahead on show nights",
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Crawford Hotel",
+    "address": "1701 Wynkoop St, Denver, CO 80202",
+    "phone": "(720) 460-3700",
+    "website": "https://www.thecrawfordhotel.com/",
+    "category": "lodging",
+    "subcategory": "boutique hotel",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The single best basecamp in the city, full stop. The Crawford lives inside historic Denver Union Station, which means you can step from your room to the Winter Park ski train, the RMNP tour vans that stage at the station, and a hall full of acclaimed restaurants and bars without ever touching a car. 112 rooms, suites, and lofts under 65-foot ceilings and vintage chandeliers. This is Denver as basecamp, not waiting room. Trailhead tip: request a Pullman-style loft for the full railway-hotel effect. Check rates and see availability.",
+    "must_try": "A nightcap in the Great Hall after your train or tour rolls back into Union Station",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Origin Red Rocks, a Wyndham Hotel",
+    "address": "18485 W Colfax Ave, Golden, CO 80401",
+    "phone": null,
+    "website": "https://www.originhotel.com/hotels/red-rocks",
+    "category": "lodging",
+    "subcategory": "hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The preferred hotel of Red Rocks Amphitheatre and the smart play for a concert night. Sitting in the old gold-rush town of Golden just a few miles north of the venue, Origin runs shuttle service to the amphitheatre so you can enjoy the show without negotiating the post-encore parking exodus. 124 modern rooms and suites make an easy front-range basecamp between the mountains and the city. Trailhead tip: Golden puts you within striking distance of both Red Rocks and the I-70 mountain corridor. Check rates and book the shuttle package.",
+    "must_try": "The post-show Red Rocks shuttle back to the hotel after a summer concert",
+    "hours": null,
+    "seasonal": "Books out fast during summer Red Rocks concert season",
+    "modes": [
+      "romantic",
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Red Hotel",
+    "address": "205 Bear Creek Ave, Morrison, CO 80465",
+    "phone": null,
+    "website": "https://redhotelredrocks.com/",
+    "category": "lodging",
+    "subcategory": "boutique hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "Morrison's only boutique hotel, and about as close as you can sleep to Red Rocks. This small hotel-plus-coffee-house sits right on Bear Creek Avenue, walking distance to Morrison's main-street restaurants and shops and minutes from the amphitheatre and its canyon trails. It doubles as a community gathering space with an espresso bar, so your morning after the show starts with a proper coffee. Trailhead tip: mornings in the canyon are cool and quiet, perfect for a pre-crowd hike before the summer heat builds. See availability on their site.",
+    "must_try": "An espresso from the in-house coffee house before a morning hike in the Red Rocks canyons",
+    "hours": null,
+    "seasonal": "Highest demand during summer Red Rocks concert season",
+    "modes": [
+      "romantic",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Indian Hot Springs",
+    "address": "302 Soda Creek Rd, Idaho Springs, CO 80452",
+    "phone": "(303) 989-6666",
+    "website": "https://indianhotsprings.com/",
+    "category": "wellness_spa",
+    "subcategory": "hot springs",
+    "price": "$$",
+    "rating": null,
+    "description": "The perfect soak to bookend a mountain day, and an easy side trip 45 minutes up I-70 in the Gold Rush town of Idaho Springs. Indian Hot Springs has been drawing soakers for over a century with its geo-thermal cave baths, private outdoor jacuzzis, an enclosed tropical mineral pool, and a full menu of massage and mud-bath spa services. Come down off a fourteener, then let the geothermal water work the altitude ache out of your legs. Trailhead tip: pair it with a stroll along Clear Creek and a bite in town on your way back to Denver. Book a soak online.",
+    "must_try": "The historic geo-thermal cave baths carved into the rock",
+    "hours": "Mon-Fri 8:30am-9:00pm, Sat-Sun 8:00am-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tattered Cover Book Store — Union Station",
+    "address": "1701 Wynkoop St, Ste 145, Denver, CO 80202",
+    "phone": null,
+    "website": "https://www.tatteredcover.com/",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Basecamp reading room. Denver's landmark bookseller anchors the historic Union Station great hall, so you can grab an altitude read and a coffee steps from the light rail that brought you in. It changed hands to Barnes & Noble in 2024 but still carries the local author calendar and deep Colorado shelf. Ideal for a low-key afternoon when the weather window slams shut.",
+    "must_try": "Browse the Colorado & Mountain West section, then read on a bench in the Union Station great hall",
+    "hours": "Daily 10:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Capitol Hill Books",
+    "address": "300 E Colfax Ave, Denver, CO 80203",
+    "phone": "303-837-0700",
+    "website": "http://capitolhillbooks.com/",
+    "category": "shopping",
+    "subcategory": "used bookstore",
+    "price": "$",
+    "rating": null,
+    "description": "A forty-year Denver institution for cheap, deep, secondhand reads, planted at the corner of Colfax and Grant across from the Capitol. This is where you dig for a dog-eared paperback before a long train day to Estes or a snowed-in afternoon. Cash-friendly, cluttered in the best way, and priced for locals.",
+    "must_try": "Hunt the trade-credit shelves for a used Colorado history or hiking title",
+    "hours": "Daily 10:00 AM - 6:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Shop at MATTER",
+    "address": "2114 Market St, Denver, CO 80205",
+    "phone": "303-893-0330",
+    "website": "https://www.shopatmatter.com/",
+    "category": "shopping",
+    "subcategory": "art & design bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "A Black- and woman-owned independent bookshop on the Ballpark edge of RiNo, stocked for designers, revolutionaries, and other thinking persons. Independently published titles, BIPOC authors, and a serious art-book wall make this the smartest browse before you walk the RiNo murals. Small footprint, sharp curation.",
+    "must_try": "The independently published art and design monographs, plus BIPOC author picks up front",
+    "hours": "Mon-Sun 11:00 AM - 6:00 PM (Thu until 8:00 PM)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Twist and Shout Records",
+    "address": "2508 E Colfax Ave, Denver, CO 80206",
+    "phone": "303-722-1943",
+    "website": "https://twistandshout.com/",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "One of the great American record stores, full stop, and a 30-plus-year Colfax fixture on the edge of Congress Park. Cavernous floor running from new-release vinyl to rare imports, CDs, and staff who actually know the racks. Pair it with a Bluebird Theater show two blocks down for a proper East Colfax night.",
+    "must_try": "Flip the local Colorado artists section, then hit the used vinyl bins for a rare import",
+    "hours": "Mon-Sat 10:00 AM - 7:00 PM; Sun 10:00 AM - 6:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wax Trax Records",
+    "address": "638 E 13th Ave, Denver, CO 80203",
+    "phone": "303-831-7246",
+    "website": "https://www.waxtraxrecords.com/",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "The oldest record shop in Colorado and the beating heart of Capitol Hill's underground scene since 1978. The new-releases store sits at 638 East 13th with a separate used shop across the street, so give yourself two stops. Come for the crate-dig, stay for the wall of used vinyl that regulars have been mining for decades.",
+    "must_try": "Cross the street to the dedicated used-vinyl store and dig the dollar bins",
+    "hours": "Mon-Thu 11:00 AM - 7:00 PM; Fri-Sat 10:00 AM - 9:00 PM; Sun 11:00 AM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Recollect Records",
+    "address": "1255 Delaware St, Denver, CO 80204",
+    "phone": "720-542-8785",
+    "website": "https://www.recollectrecords.com/",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "A specialist crate-digger's shop in the Santa Fe Arts District, deep in funk, soul, hip-hop, breaks, and deep-catalog Black music. Strong on 12-inch singles and disco/R&B rarities. Time your visit to a First Friday art walk and you can hit galleries, cocktails, and vinyl in one loop.",
+    "must_try": "The 12-inch single bins — funk, soul, and old-school hip-hop breaks",
+    "hours": "Thu-Sun 12:00 PM - 5:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Union Station Farmers Market",
+    "address": "1701 Wynkoop St (Union Station plaza), Denver, CO 80202",
+    "phone": null,
+    "website": "https://unionstationfarmersmarket.com/",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "Saturday mornings the historic Union Station plaza fills with Front Range growers, ranchers, and makers — peak-season Palisade peaches, Olathe corn, local honey, and prepared bites. The best warm-weather morning move in LoDo: fuel up here, then walk it off along the Cherry Creek or Platte River trails. Runs the first Saturday in May through the fall harvest.",
+    "must_try": "Palisade peaches and Olathe sweet corn at the height of Colorado summer",
+    "hours": "Saturdays 9:00 AM - 2:00 PM (June-Nov); seasonal",
+    "seasonal": "Outdoor market runs first Saturday of May through late fall; peak stone fruit and corn arrive mid-to-late summer",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "REI Denver Flagship",
+    "address": "1416 Platte St, Denver, CO 80202",
+    "phone": "303-756-3100",
+    "website": "https://www.rei.com/stores/denver",
+    "category": "services",
+    "subcategory": "outdoor gear rental & retail",
+    "price": "$$$",
+    "rating": null,
+    "description": "Your literal trailhead outfitter, housed in the restored 1901 Denver Tramway powerhouse on the Platte River. Ninety-five thousand square feet of gear plus a rental counter that arms you for the mountains: skis, snowboards, and snowshoes in winter; tents, packs, sleeping bags, and paddling kit in summer. Rent here before you point the car at RMNP or Idaho Springs.",
+    "must_try": "Rent snowshoes or a ski setup in winter, or a tent-and-pack kit for a summer RMNP overnight",
+    "hours": "Mon-Sat 9:00 AM - 9:00 PM; Sun 9:00 AM - 7:00 PM",
+    "seasonal": "Ski, snowboard, and snowshoe rentals in winter; tents, packs, and paddling gear in summer",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Topo Designs Flagship Store",
+    "address": "2500 Larimer St, Denver, CO 80205",
+    "phone": null,
+    "website": "https://topodesigns.com/pages/topo-designs-denver-flagship-store",
+    "category": "shopping",
+    "subcategory": "outdoor apparel & bags",
+    "price": "$$$",
+    "rating": null,
+    "description": "The homegrown Colorado gear brand's flagship, built into RiNo's reclaimed shipping-container development on Larimer. Durable packs, mountain-town apparel, and that instantly recognizable Topo colorway — the local answer to looking the part on any Front Range trail. A quick, stylish stop while you're circling the RiNo murals and breweries.",
+    "must_try": "A Topo Rover Pack or Mountain jacket in the signature retro colorblocking",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fancy Tiger Crafts Co-op",
+    "address": "59 Broadway, Denver, CO 80203",
+    "phone": "303-733-3855",
+    "website": "https://fancytigercrafts.com/",
+    "category": "shopping",
+    "subcategory": "craft & yarn shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A beloved, now co-op-owned craft haven in the hip Broadway (SoBo) shopping strip a mile south of downtown. Locally dyed yarn, fabric, and enough project supplies to fill a snowed-in weekend, plus classes if you want to make your own Colorado wool souvenir. A rainy-day, altitude-headache-friendly kind of browse.",
+    "must_try": "Colorado-dyed local wool yarn for a mountain-weather knitting project",
+    "hours": "Mon 11:00 AM-6:00 PM; Tue 11:00 AM-8:00 PM; Wed-Fri 11:00 AM-6:00 PM; Sat 10:00 AM-6:00 PM; Sun 10:00 AM-5:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "TeaLee's Tea House & Bookstore",
+    "address": "611 22nd St, Denver, CO 80205",
+    "phone": "303-593-2013",
+    "website": "https://www.tealeesdenverteahouse.com/",
+    "category": "shopping",
+    "subcategory": "bookshop & tea house",
+    "price": "$$",
+    "rating": null,
+    "description": "A Black-owned bookshop-meets-teahouse in historic Five Points, the heart of the 'Harlem of the West.' Afrocentric titles, high tea, finger sandwiches, and soul music make this the perfect first stop on a Welton Street walk before the neighborhood's murals arc into RiNo. Let the conversation simmer — that's the whole point here.",
+    "must_try": "High tea with finger sandwiches while browsing the Afrocentric bookshelves",
+    "hours": "Wed 10:00 AM-3:00 PM; Thu-Sat 9:00 AM-6:00 PM; Sun 10:00 AM-3:00 PM; closed Mon-Tue",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "I Heart Denver Store",
+    "address": "500 16th St #264, Denver, CO 80202",
+    "phone": "720-317-2328",
+    "website": "https://iheartdenverstore.com/",
+    "category": "shopping",
+    "subcategory": "local makers & gifts",
+    "price": "$$",
+    "rating": null,
+    "description": "The one-stop souvenir move that skips the airport tat: 200-plus Colorado artists, designers, and makers under one roof on Level Two of Denver Pavilions, right on the 16th Street pedestrian spine downtown. Locally made apparel, art, and gifts, all keeping the money in the state. Central, walkable, and open late.",
+    "must_try": "A Colorado-made screenprinted tee or local artist print as your only souvenir stop",
+    "hours": "Mon-Sat 10:00 AM - 8:00 PM; Sun 11:00 AM - 6:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "evo Denver",
+    "address": "860 Broadway, Denver, CO 80203",
+    "phone": null,
+    "website": "https://www.evo.com/locations/denver",
+    "category": "services",
+    "subcategory": "ski, snowboard & bike rental",
+    "price": "$$$",
+    "rating": null,
+    "description": "A full-service ski, snowboard, mountain bike, skate, and surf shop on Broadway with a rental and tune counter that makes it a genuine gateway stop. Grab a board and get it tuned before a Loveland or Idaho Springs run, or rent a bike for the river trails. Style-forward gear with a shop crew that rides.",
+    "must_try": "A snowboard rental and same-day tune before hitting the ski-gateway I-70 resorts",
+    "hours": null,
+    "seasonal": "Ski and snowboard rentals and tunes in winter; mountain-bike rentals in the warm season",
+    "modes": [
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stay Golden Mercantile",
+    "address": "1106 Washington Ave, Ste 102, Golden, CO 80401",
+    "phone": "303-697-8916",
+    "website": "https://staygoldenmercantile.com/",
+    "category": "shopping",
+    "subcategory": "gift shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A charm-forward gift shop tucked beneath the iconic 'Howdy Folks! Welcome to Golden' arch on Washington Avenue — the perfect small-town browse on a Golden side trip. Curated for nostalgia and joy: cards, candles, small-batch goods, and mountain-town keepsakes. Pair it with a Clear Creek stroll and a Coors tour a few blocks over.",
+    "must_try": "A Colorado-nostalgia keepsake or candle picked up under the Golden arch",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cherry Creek North",
+    "address": "2nd & 3rd Avenues between University Blvd & Steele St, Denver, CO 80206",
+    "phone": null,
+    "website": "https://cherrycreeknorth.com/",
+    "category": "shopping",
+    "subcategory": "shopping district",
+    "price": "$$$",
+    "rating": null,
+    "description": "Denver's most walkable retail district — 16 tree-lined blocks of boutiques, jewelers, home-goods shops, galleries, and patio restaurants. This is the polished, leisurely counterpoint to gritty RiNo: think local names like Max and Garbarini alongside national flagships. In July it hosts the Cherry Creek Arts Festival, one of the country's top juried art shows.",
+    "must_try": "Boutique-hop the tree-lined blocks, then catch the July Cherry Creek Arts Festival",
+    "hours": null,
+    "seasonal": "Cherry Creek Arts Festival takes over the district each July; peak patio-and-stroll weather runs late spring through early fall",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  }
+]
