@@ -14,12 +14,19 @@ const citiesDir = path.join(ROOT, "cities");
 const distCities = path.join(ROOT, "dist", "cities");
 if (!existsSync(path.join(ROOT, "dist"))) throw new Error("run after vite build (dist/ missing)");
 
+// sharp's AVIF default effort (4) is 5–10× slower than effort 3 for a few % more
+// bytes — and we downscale-to-budget anyway, so trade the bytes for build time.
+sharp.concurrency(0); // 0 = one libvips thread per CPU core
 const LARGE = 1440, SMALL = 720, BUDGET_KB = 120;
+const AVIF_EFFORT = 3, WEBP_EFFORT = 4;
 const isImg = (f) => /\.(jpe?g|png)$/i.test(f);
+// scaffold/example cities that never render — no reason to spend encode time on them
+const SKIP_SLUGS = new Set(["michigan-city"]);
 
 // gather every source image
 const jobs = [];
 for (const slug of readdirSync(citiesDir)) {
+  if (SKIP_SLUGS.has(slug)) continue;
   const src = path.join(citiesDir, slug, "images");
   if (!existsSync(src)) continue;
   const out = path.join(distCities, slug, "images");
@@ -34,7 +41,9 @@ import { writeFileSync as wf } from "node:fs";
 async function encodeUnderBudget(resized, fmt, startQ, budgetKB = BUDGET_KB, floorQ = 30) {
   let q = startQ;
   for (;;) {
-    const opts = fmt === "jpeg" ? { quality: q, mozjpeg: true } : { quality: q };
+    const opts = fmt === "jpeg" ? { quality: q, mozjpeg: true }
+      : fmt === "avif" ? { quality: q, effort: AVIF_EFFORT }
+      : { quality: q, effort: WEBP_EFFORT }; // webp
     const buf = await resized.clone()[fmt](opts).toBuffer();
     if (buf.length / 1024 <= budgetKB || q <= floorQ) return buf;
     q -= 8;
