@@ -2,6 +2,12 @@
   command = "npm run build"
   publish = "dist"
 
+# WS3 telemetry/stats/redeem Functions. They self-route via each file's
+# config.path (e.g. "/api/beacon") — no [[redirects]] to /api are needed here.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+
 # WS2 truth pass: the legacy static platform pages carried hand-typed, now-drifted
 # stats (e.g. "1,471" at 15 cities). They're superseded by the engine — redirect
 # them to the live equivalents (force = override the static file).

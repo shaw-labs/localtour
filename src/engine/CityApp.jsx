@@ -2,6 +2,7 @@
 // WS1 — sessionStorage in the legacy apps) + the Feed/Classic switch.
 import { useEffect, useState } from "react";
 import { CityModelProvider, useCityModel } from "./cityModel";
+import { track } from "./beacon";
 import FeedView from "./views/feed/FeedView";
 import ClassicView from "./views/classic/ClassicView";
 import { installImgFallback } from "./imgFallback";
@@ -42,6 +43,7 @@ function CityToggle({ view, setView, classic }) {
 }
 
 function CityAppInner() {
+  const { slug } = useCityModel();
   const [view, setView] = useState(() => {
     try {
       return localStorage.getItem("lt_view") || "feed";
@@ -60,9 +62,12 @@ function CityAppInner() {
     } catch {
       /* private mode */
     }
+    // WS3: one pageview_city per city mount + on every view switch, tagged with
+    // the ACTIVE view (feed|classic). beacon.ts self-suppresses under DNT/GPC.
+    track.pageviewCity(slug, view);
     setConciergeOpen(false);
     window.scrollTo(0, 0);
-  }, [view]);
+  }, [view, slug]);
 
   return (
     <>

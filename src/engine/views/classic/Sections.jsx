@@ -1,9 +1,61 @@
 // Classic view — deals, wall mosaic, planner CTA, transit, side trips, footer
 // (ported verbatim; chicago index.html ~2194–2323 and ~2617–2635).
+import { useState } from "react";
 import { R_Reveal } from "./scroll";
 import { useCityModel } from "../../cityModel";
+import { track } from "../../beacon";
+// Shared WS3 coupon helpers — same code path as the feed deal card, so the two
+// views stay symmetric for coupon_reveal / outbound_click / coupon_redeem.
+import { confirmRedeem, dealRedemption } from "../feed/cards";
 
 /* ═══ DEALS ═══ */
+// One deal card. Mirrors feed's FeedPromotedCard behavior exactly.
+function R_DealCard({ deal }) {
+  const { slug, features } = useCityModel();
+  const view = "classic";
+  const [revealed, setRevealed] = useState(false);
+  const [redeemed, setRedeemed] = useState(false);
+  const { isOutbound, url, code, hasCode } = dealRedemption(deal, features);
+  const label =
+    deal.redemption_type === "app" ? "Get in app" :
+    deal.redemption_type === "link" ? "Claim online" : "Show in-store";
+  const onCta = () => {
+    // The tap on the offer CTA IS the coupon reveal — fire it in every branch.
+    track.couponReveal(slug, deal.business_name, view);
+    if (isOutbound) {                                  // link/app deals leave the site
+      track.outboundClick(slug, deal.business_name, view);
+      if (url) window.open(url, "_blank", "noopener");
+      return;
+    }
+    if (hasCode) setRevealed(true);                    // clipper on + real code → show it
+    // else: clipper off / no code → couponReveal already recorded; no code screen
+  };
+  const onRedeem = () => {
+    if (redeemed) return;
+    // coupon_redeem is recorded server-side by /api/redeem (idempotent per code+sid).
+    confirmRedeem(slug, deal.business_name, code);
+    setRedeemed(true);
+  };
+  return (
+    <div className="deal-card">
+      {deal.is_exclusive && <span className="deal-exclusive">Exclusive</span>}
+      <div className="deal-biz">{deal.business_name}</div>
+      <div className="deal-offer">{deal.offer_text}</div>
+      {revealed && hasCode ? (
+        <div style={{ marginTop: 16, border: "1px dashed rgba(212,168,83,.6)", borderRadius: 12, padding: "12px 14px" }}>
+          <div style={{ fontSize: 11, letterSpacing: ".16em", textTransform: "uppercase", opacity: 0.65, marginBottom: 6 }}>Your code · show in-store</div>
+          <div style={{ fontSize: 20, letterSpacing: ".06em", fontWeight: 700, color: "#d4a853", marginBottom: 12 }}>{code}</div>
+          <button className="btn btn-primary" onClick={onRedeem} disabled={redeemed}>
+            {redeemed ? "Redeemed ✓" : "Mark as redeemed"}
+          </button>
+        </div>
+      ) : (
+        <button className="btn btn-primary" style={{ marginTop: 16 }} onClick={onCta}>{label}</button>
+      )}
+    </div>
+  );
+}
+
 export function R_Deals() {
   const { CITY, deals } = useCityModel();
   if (!deals.length) return null;
@@ -19,11 +71,7 @@ export function R_Deals() {
         <div className="deals-grid">
           {deals.map((d, i) => (
             <R_Reveal key={i} delay={i * 0.04}>
-              <div className="deal-card">
-                {d.is_exclusive && <span className="deal-exclusive">Exclusive</span>}
-                <div className="deal-biz">{d.business_name}</div>
-                <div className="deal-offer">{d.offer_text}</div>
-              </div>
+              <R_DealCard deal={d} />
             </R_Reveal>
           ))}
         </div>

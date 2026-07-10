@@ -6,6 +6,7 @@ import { useState } from "react";
 import { FT, CAT_LABELS_PLAIN } from "../../theme";
 import { Reveal } from "../../hooks";
 import { useCityModel } from "../../cityModel";
+import { track } from "../../beacon";
 import { ImgOrVisual, FeedChip } from "./cards";
 
 export function FeedHeader({onOpenConcierge}){const{wallUrl}=useCityModel();return(<div style={{position:"sticky",top:0,zIndex:50,background:"rgba(10,10,11,.86)",backdropFilter:"blur(12px)",borderBottom:`1px solid ${FT.line}`,padding:"12px 20px 12px 180px",display:"flex",justifyContent:"flex-end",alignItems:"center",height:56}}>
@@ -53,6 +54,7 @@ export function FeedModeChips({activeMode,setActiveMode}){const{MODES}=useCityMo
 </div>);}
 
 export function FeedDirectorySection({cat,businesses}){
+  const{slug}=useCityModel();
   const[expanded,setExpanded]=useState(false);
   const label=CAT_LABELS_PLAIN[cat]||cat;
   const show=expanded?businesses:businesses.slice(0,3);
@@ -66,7 +68,7 @@ export function FeedDirectorySection({cat,businesses}){
       <span style={{fontFamily:FT.fm,fontSize:10,color:FT.inkDim,letterSpacing:".15em"}}>{businesses.length}</span>
     </div>
     <div style={{display:"flex",flexDirection:"column",gap:0}}>
-      {show.map((b,i)=><a key={b.name} href={b.website||`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(b.address+" "+b.name)}`} target="_blank" rel="noopener" style={{display:"block",padding:"14px 0",borderTop:i===0?"none":`1px solid ${FT.line}`,textDecoration:"none"}}>
+      {show.map((b,i)=><a key={b.name} onClick={()=>track.outboundClick(slug,b.name,"feed")} href={b.website||`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(b.address+" "+b.name)}`} target="_blank" rel="noopener" style={{display:"block",padding:"14px 0",borderTop:i===0?"none":`1px solid ${FT.line}`,textDecoration:"none"}}>
         <div style={{display:"flex",justifyContent:"space-between",alignItems:"baseline",gap:12,marginBottom:4}}>
           <span style={{fontFamily:FT.fd,fontSize:17,fontWeight:500,color:FT.ink,letterSpacing:"-.01em"}}>{b.name}</span>
           <span style={{fontFamily:FT.fm,fontSize:10,color:FT.gold,letterSpacing:".1em",flexShrink:0}}>{b.rating?`★ ${b.rating}`:""} {b.price||""}</span>

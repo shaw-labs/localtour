@@ -4,6 +4,8 @@ import { useState } from "react";
 import { CAT_LABELS_R } from "../../theme";
 import { R_Reveal } from "./scroll";
 import { useCityModel } from "../../cityModel";
+import { track } from "../../beacon";
+import { useImpression } from "../../useImpression";
 
 /* ═══ MODE FILTER ═══ */
 export function R_Modes({activeMode, setActiveMode}) {
@@ -45,9 +47,19 @@ export function R_Modes({activeMode, setActiveMode}) {
 
 /* ═══ BUSINESS CARD ═══ */
 export function R_BizCard({biz}) {
+  const { slug } = useCityModel();
   const [open, setOpen] = useState(false);
+  const impRef = useImpression(slug, biz.name, "classic");
   return (
-    <div className="biz" onClick={() => setOpen(!open)}>
+    <div
+      ref={impRef}
+      className="biz"
+      onClick={() => setOpen(o => {
+        // biz_click = a detail open (not a close); only fire on the open edge.
+        if (!o) track.bizClick(slug, biz.name, "classic");
+        return !o;
+      })}
+    >
       <div className="biz-top">
         <div style={{flex: 1, minWidth: 0}}>
           <div className="biz-name">{biz.name}</div>
@@ -68,17 +80,17 @@ export function R_BizCard({biz}) {
             <a
               href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(biz.name + ' ' + biz.address)}`}
               target="_blank" rel="noopener noreferrer"
-              onClick={e => e.stopPropagation()}
+              onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}
             >📍 {biz.address}</a>
           )}
           {biz.phone && (
-            <a href={`tel:${biz.phone.replace(/[^+0-9]/g, '')}`} onClick={e => e.stopPropagation()}>
+            <a href={`tel:${biz.phone.replace(/[^+0-9]/g, '')}`} onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}>
               📞 {biz.phone}
             </a>
           )}
           {biz.hours && <p>🕐 {biz.hours}</p>}
           {biz.website && (
-            <a href={biz.website} target="_blank" rel="noopener noreferrer" onClick={e => e.stopPropagation()}>
+            <a href={biz.website} target="_blank" rel="noopener noreferrer" onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}>
               🔗 Visit website →
             </a>
           )}

@@ -6,6 +6,40 @@ import { useState, useMemo } from "react";
 import { FT } from "../../theme";
 import { Reveal } from "../../hooks";
 import { useCityModel } from "../../cityModel";
+import { track, bizId } from "../../beacon";
+import { useImpression } from "../../useImpression";
+
+// WS3 coupon redeem confirm (feed + classic share this): after a code is revealed
+// the shopper can confirm redemption → GET /api/redeem, which records a single
+// coupon_redeem per (code, sid). We reuse beacon's anonymous session id (lt_sid);
+// if it's absent (DNT/GPC opt-out, private mode) we reveal only and never call out.
+export function confirmRedeem(city, businessName, code) {
+  if (!code) return;
+  let sid = null;
+  try { sid = sessionStorage.getItem("lt_sid"); } catch { /* storage blocked */ }
+  if (!sid) return; // no anonymous session (opted out) — do not mint one just to redeem
+  const qs = new URLSearchParams({
+    c: String(code).toLowerCase(),   // redeem endpoint accepts [a-z0-9-] only
+    sid,
+    city,
+    biz: bizId(businessName),
+  });
+  try { void fetch(`/api/redeem?${qs.toString()}`).catch(() => {}); } catch { /* never break UI */ }
+}
+
+// Classify a deal's redemption: link/app open a URL (outbound), everything else
+// (qr/code/in-store) is an in-store coupon code we can reveal via the clipper.
+export function dealRedemption(deal, features) {
+  const rtype = deal.redemption_type;
+  const isOutbound = rtype === "link" || rtype === "app";
+  const value = deal.redemption_value;
+  return {
+    isOutbound,
+    url: isOutbound && /^https?:\/\//i.test(value || "") ? value : null,
+    code: !isOutbound ? value : null,
+    hasCode: Boolean(features?.coupon_clipper) && !isOutbound && Boolean(value),
+  };
+}
 
 export function EmptyGameSlot({title}){return(<div style={{width:"100%",height:300,background:"repeating-linear-gradient(45deg,#0f0f10 0 8px,#111113 8px 16px)",border:`1px dashed ${FT.inkFaint}`,display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:10}}>
   <div style={{fontFamily:FT.fm,fontSize:10,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase"}}>Game Slot · {title}</div>
@@ -51,7 +85,8 @@ export function FeedConciergeLine({text,author}){const{defaults}=useCityModel();
 export function FeedChip({active,onClick,children}){return(<button onClick={onClick} style={{padding:"8px 14px",background:active?FT.ink:"transparent",color:active?FT.bg:FT.inkMid,border:`1px solid ${active?FT.ink:FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",cursor:"pointer",whiteSpace:"nowrap",transition:"all .2s"}}>{children}</button>);}
 
 export function FeedBusinessCard({biz,kicker,override,imageKey}){
-  const{IMG,CAT_IMAGES,CAT_KICKERS}=useCityModel();
+  const{slug,IMG,CAT_IMAGES,CAT_KICKERS}=useCityModel();
+  const impRef=useImpression(slug,biz.name,"feed");
   const cat=biz.category,neighborhood=biz.address?biz.address.split(",")[1]?.trim():null;
   const imgFile=override?.image||CAT_IMAGES[cat];
   const kick=override?.kicker||kicker||CAT_KICKERS[cat]||cat;
@@ -59,7 +94,7 @@ export function FeedBusinessCard({biz,kicker,override,imageKey}){
   const body=override?.body||biz.description;
   const stars=biz.rating?`★ ${biz.rating}`:"";
   const price=biz.price||"";
-  return(<Reveal><article style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg}}>
+  return(<Reveal><article ref={impRef} style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg}}>
     <ImgOrVisual src={IMG(imgFile)} fallbackSeed={imageKey||cat} label={biz.name} aspect="4/5"/>
     <div style={{padding:"20px 24px 26px"}}>
       <div style={{display:"flex",justifyContent:"space-between",marginBottom:10,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase",gap:12}}>
@@ -75,9 +110,9 @@ export function FeedBusinessCard({biz,kicker,override,imageKey}){
         {biz.hours&&<span style={{color:FT.inkDim,textTransform:"none",letterSpacing:".08em",fontSize:11}}>{biz.hours.length>40?biz.hours.slice(0,40)+"…":biz.hours}</span>}
       </div>
       <div style={{display:"flex",gap:10,marginTop:14,flexWrap:"wrap"}}>
-        {biz.address&&<a href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(biz.address+" "+biz.name)}`} target="_blank" rel="noopener" style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Map</a>}
-        {biz.phone&&<a href={`tel:${biz.phone.replace(/[^+0-9]/g,"")}`} style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Call</a>}
-        {biz.website&&<a href={biz.website} target="_blank" rel="noopener" style={{padding:"8px 14px",background:FT.ink,color:FT.bg,border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Book →</a>}
+        {biz.address&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(biz.address+" "+biz.name)}`} target="_blank" rel="noopener" style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Map</a>}
+        {biz.phone&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={`tel:${biz.phone.replace(/[^+0-9]/g,"")}`} style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Call</a>}
+        {biz.website&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={biz.website} target="_blank" rel="noopener" style={{padding:"8px 14px",background:FT.ink,color:FT.bg,border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Book →</a>}
       </div>
     </div>
   </article></Reveal>);
@@ -125,14 +160,48 @@ export function FeedBlackBookCard({variant,name,neighborhood,preview,venue,date}
   </div>
 </article></Reveal>);}
 
-export function FeedPromotedCard({deal}){const{byName,IMG,CAT_IMAGES}=useCityModel();const biz=byName[deal.business_name];return(<Reveal><article style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg,position:"relative"}}>
+export function FeedPromotedCard({deal}){
+  const{slug,byName,IMG,CAT_IMAGES,features}=useCityModel();
+  const biz=byName[deal.business_name];
+  const view="feed";
+  const[revealed,setRevealed]=useState(false);
+  const[redeemed,setRedeemed]=useState(false);
+  const{isOutbound,url,code,hasCode}=dealRedemption(deal,features);
+  const label=deal.redemption_type==="app"?"Get in App":deal.redemption_type==="link"?"Claim Online":"Show In-Store";
+  const onCta=()=>{
+    // The tap on the offer CTA IS the coupon reveal — fire it in every branch.
+    track.couponReveal(slug,deal.business_name,view);
+    if(isOutbound){                                   // link/app deals leave the site
+      track.outboundClick(slug,deal.business_name,view);
+      if(url)window.open(url,"_blank","noopener");
+      return;
+    }
+    if(hasCode)setRevealed(true);                     // clipper on + real code → show it
+    // else: clipper off / no code → couponReveal already recorded; no code screen
+  };
+  const onRedeem=()=>{
+    if(redeemed)return;
+    // coupon_redeem is recorded server-side by /api/redeem (idempotent per code+sid);
+    // do NOT also emit it via beacon or it double-counts.
+    confirmRedeem(slug,deal.business_name,code);
+    setRedeemed(true);
+  };
+  return(<Reveal><article style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg,position:"relative"}}>
   <div style={{position:"absolute",top:14,right:14,zIndex:10,padding:"4px 10px",background:"rgba(200,155,60,.15)",border:`1px solid #8a6a2a`,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.gold,textTransform:"uppercase"}}>{deal.is_exclusive?"Exclusive":"Promoted"}</div>
   <ImgOrVisual src={biz?IMG(CAT_IMAGES[biz.category]):null} fallbackSeed="warm" label={deal.business_name} aspect="16/10"/>
   <div style={{padding:"20px 24px 26px"}}>
     <div style={{fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase",marginBottom:10}}>{deal.category}</div>
     <h2 style={{fontFamily:FT.fd,fontSize:22,fontWeight:500,color:FT.ink,margin:"0 0 10px",letterSpacing:"-.015em"}}>{deal.business_name}</h2>
     <p style={{fontFamily:FT.fb,fontSize:14,color:FT.inkMid,lineHeight:1.55,margin:"0 0 16px"}}>{deal.offer_text}</p>
-    <button style={{padding:"10px 20px",background:FT.ink,color:FT.bg,border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".24em",textTransform:"uppercase",cursor:"pointer"}}>{deal.redemption_type==="app"?"Get in App":deal.redemption_type==="link"?"Claim Online":"Show In-Store"}</button>
+    {revealed&&hasCode?(
+      <div style={{border:`1px dashed ${FT.gold}`,background:"rgba(200,155,60,.08)",padding:"14px 16px"}}>
+        <div style={{fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase",marginBottom:6}}>Your code · show in-store</div>
+        <div style={{fontFamily:FT.fm,fontSize:20,letterSpacing:".08em",color:FT.gold,marginBottom:12}}>{code}</div>
+        <button onClick={onRedeem} disabled={redeemed} style={{padding:"10px 20px",background:redeemed?"transparent":FT.ink,color:redeemed?FT.gold:FT.bg,border:redeemed?`1px solid ${FT.gold}`:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".24em",textTransform:"uppercase",cursor:redeemed?"default":"pointer"}}>{redeemed?"Redeemed ✓":"Mark as redeemed"}</button>
+      </div>
+    ):(
+      <button onClick={onCta} style={{padding:"10px 20px",background:FT.ink,color:FT.bg,border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".24em",textTransform:"uppercase",cursor:"pointer"}}>{label}</button>
+    )}
   </div>
 </article></Reveal>);}
 
