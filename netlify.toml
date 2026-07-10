@@ -2,6 +2,31 @@
   command = "npm run build"
   publish = "dist"
 
+# WS2 truth pass: the legacy static platform pages carried hand-typed, now-drifted
+# stats (e.g. "1,471" at 15 cities). They're superseded by the engine — redirect
+# them to the live equivalents (force = override the static file).
+[[redirects]]
+  from = "/platform/explore.html"
+  to = "/#cities"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/community.html"
+  to = "/#wall"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/concierge.html"
+  to = "/#features"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/planner.html"
+  to = "/#features"
+  status = 301
+  force = true
+
+# SPA fallback (must stay last)
 [[redirects]]
   from = "/*"
   to = "/index.html"
