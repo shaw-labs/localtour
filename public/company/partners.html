@@ -140,6 +140,58 @@
   .foot-row a { color: var(--text-muted); transition: color 0.2s; }
   .foot-row a:hover { color: var(--text); }
 
+  /* MERCHANT INTAKE FORM */
+  .merchant-form { margin-top: 36px; }
+  .mf-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .mf-field { display: flex; flex-direction: column; gap: 8px; }
+  .mf-field.mf-span { grid-column: 1 / -1; }
+  .mf-field label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-muted); }
+  .mf-field .mf-opt { color: var(--text-dim); text-transform: none; letter-spacing: 0.04em; }
+  .mf-field input, .mf-field select, .mf-field textarea {
+    width: 100%; background: var(--bg-3); border: 1px solid var(--border-strong); border-radius: 10px;
+    padding: 12px 14px; color: var(--text); font-family: var(--sans); font-size: 15px; line-height: 1.4;
+    transition: border-color 0.2s ease, background 0.2s ease; -webkit-appearance: none; appearance: none;
+  }
+  .mf-field textarea { resize: vertical; min-height: 64px; }
+  .mf-field input::placeholder, .mf-field textarea::placeholder { color: var(--text-dim); }
+  .mf-field input:focus, .mf-field select:focus, .mf-field textarea:focus { outline: none; border-color: var(--accent); background: var(--bg-2); }
+  .mf-field select {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%238f8a82' stroke-width='1.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 14px center; padding-right: 38px; cursor: pointer;
+  }
+  .mf-actions { margin-top: 26px; }
+  .mf-submit { border: none; cursor: pointer; font-family: var(--sans); }
+  .mf-submit:disabled { opacity: 0.55; cursor: default; transform: none; }
+  .mf-status { margin-top: 20px; font-size: 15px; line-height: 1.6; color: var(--text-muted); }
+  .mf-status.ok { color: var(--text); font-family: var(--serif); font-style: italic; font-size: 22px; line-height: 1.4; max-width: 40ch; }
+  .mf-status.err { color: var(--accent-hot); }
+  @media (max-width: 560px) { .mf-grid { grid-template-columns: 1fr; } }
+
+  /* MERCHANT TIERS */
+  .pricing { border-top: 1px solid var(--border); }
+  .tier-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: stretch; }
+  .tier-card { display: flex; flex-direction: column; background: var(--bg-2); border: 1px solid var(--border); border-radius: 16px; padding: 32px 28px; transition: border-color 0.2s ease, transform 0.2s ease; }
+  .tier-card:hover { border-color: var(--border-strong); transform: translateY(-2px); }
+  .tier-card.tier-feat { border-color: var(--accent); }
+  .tier-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+  .tier-name { font-family: var(--serif); font-weight: 500; font-size: 26px; letter-spacing: -0.01em; }
+  .tier-badge { font-family: var(--mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+  .tier-price { display: flex; align-items: baseline; gap: 8px; margin-bottom: 10px; }
+  .tier-price .tp-amt { font-family: var(--serif); font-size: 44px; font-weight: 500; letter-spacing: -0.02em; }
+  .tier-price .tp-free { font-family: var(--serif); font-size: 44px; font-weight: 500; letter-spacing: -0.02em; color: var(--gold); }
+  .tier-price .tp-cadence { font-family: var(--mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim); }
+  .tier-tag { font-size: 15px; color: var(--text-muted); line-height: 1.5; margin-bottom: 24px; }
+  .tier-feats { list-style: none; margin: 0 0 28px; padding: 0; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+  .tier-feats li { position: relative; padding-left: 24px; font-size: 14px; line-height: 1.5; color: var(--text); }
+  .tier-feats li::before { content: ''; position: absolute; left: 2px; top: 4px; width: 9px; height: 5px; border-left: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(-45deg); }
+  .tier-cta { display: inline-flex; align-items: center; justify-content: center; gap: 8px; width: 100%; padding: 14px 20px; border-radius: 999px; font-family: var(--sans); font-size: 14px; font-weight: 500; cursor: pointer; transition: all 0.2s ease; background: var(--accent); color: #fff; border: 1px solid var(--accent); }
+  .tier-cta:hover { background: var(--accent-hot); border-color: var(--accent-hot); transform: translateY(-1px); }
+  .tier-cta-soft { background: transparent; color: var(--text); border-color: var(--border-strong); }
+  .tier-cta-soft:hover { background: var(--bg-3); border-color: var(--text-muted); }
+  .tier-note { margin-top: 28px; font-family: var(--mono); font-size: 11px; letter-spacing: 0.05em; color: var(--text-dim); max-width: 66ch; line-height: 1.7; }
+  .tier-fallback { color: var(--text-muted); font-size: 15px; }
+  @media (max-width: 900px) { .tier-grid { grid-template-columns: 1fr; } }
+
   .reveal { opacity: 0; transform: translateY(30px); transition: opacity 0.8s cubic-bezier(.2,.7,.2,1), transform 0.8s cubic-bezier(.2,.7,.2,1); }
   .reveal.in { opacity: 1; transform: translateY(0); }
   .reveal[data-delay="1"] { transition-delay: 0.08s; }
@@ -294,12 +346,91 @@
             </div>
           </div>
 
-          <a href="mailto:merchants@shaw-labs.com?subject=LocalTour%20Merchant%20Listing" class="track-cta">
-            List your business
-            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
-          </a>
+          <form name="merchant-intake" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="merchant-form" id="merchant-intake">
+            <input type="hidden" name="form-name" value="merchant-intake" />
+            <p hidden><label>Leave this empty: <input name="bot-field" /></label></p>
+
+            <div class="mf-grid">
+              <div class="mf-field">
+                <label for="mf-biz">Business name</label>
+                <input id="mf-biz" name="business" type="text" required autocomplete="organization" placeholder="e.g. Franklin Barbecue" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-city">City</label>
+                <select id="mf-city" name="city" required>
+                  <option value="" disabled selected>Pick your city</option>
+                  <option>Austin</option>
+                  <option>Chicago</option>
+                  <option>Denver</option>
+                  <option>Houston</option>
+                  <option>Kansas City</option>
+                  <option>Los Angeles</option>
+                  <option>Miami</option>
+                  <option>Nashville</option>
+                  <option>New Orleans</option>
+                  <option>New York City</option>
+                  <option>Phoenix</option>
+                  <option>Portland</option>
+                  <option>Salt Lake City</option>
+                  <option>San Francisco</option>
+                  <option>Smoky Mountains</option>
+                  <option>Another city (we're expanding)</option>
+                </select>
+              </div>
+              <div class="mf-field">
+                <label for="mf-category">Category</label>
+                <input id="mf-category" name="category" type="text" required placeholder="Restaurant · Bar · Shop · Hotel · Tour" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-email">Contact email</label>
+                <input id="mf-email" name="email" type="email" required autocomplete="email" placeholder="you@yourbusiness.com" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-hours">Hours <span class="mf-opt">optional</span></label>
+                <input id="mf-hours" name="hours" type="text" placeholder="Tue–Sun, 11a–10p" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-website">Website <span class="mf-opt">optional</span></label>
+                <input id="mf-website" name="website" type="url" autocomplete="url" placeholder="https://…" />
+              </div>
+              <div class="mf-field mf-span">
+                <label for="mf-offer">Offer / deal <span class="mf-opt">optional</span></label>
+                <textarea id="mf-offer" name="offer" rows="2" placeholder="A coupon you'd run for LocalTour visitors — e.g. free app with two entrées, 10% off the check."></textarea>
+              </div>
+              <div class="mf-field">
+                <label for="mf-tier">Tier interest</label>
+                <select id="mf-tier" name="tier" required>
+                  <option value="" disabled selected>Which door?</option>
+                  <option value="Curated">Curated — earn the free listing</option>
+                  <option value="Partner">Partner — priority + tracked coupons</option>
+                  <option value="Anchor">Anchor — top of category</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="mf-actions">
+              <button type="submit" class="track-cta mf-submit">
+                List your business
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+              </button>
+            </div>
+            <p class="mf-status" role="status" aria-live="polite"></p>
+          </form>
         </div>
       </div>
+    </div>
+  </section>
+
+  <!-- MERCHANT LISTING TIERS (rendered from /pricing.json — prices are data, not copy) -->
+  <section class="track pricing" id="tiers">
+    <div class="container">
+      <div class="track-head reveal">
+        <div class="track-num">◆</div>
+        <div class="track-kind">Merchant listing tiers</div>
+        <h2>Pick your <em>door</em>.</h2>
+      </div>
+      <div class="tier-grid reveal" id="tier-grid" data-delay="1"></div>
+      <p class="tier-note" id="tier-note"></p>
     </div>
   </section>
 
@@ -489,6 +620,61 @@
     entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
   }, { threshold: 0.12, rootMargin: '0px 0px -60px 0px' });
   document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+
+  // --- Merchant intake: AJAX submit → in-voice confirmation (Netlify Forms) ---
+  const mform = document.getElementById('merchant-intake');
+  if (mform) {
+    mform.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const status = mform.querySelector('.mf-status');
+      const btn = mform.querySelector('.mf-submit');
+      const body = new URLSearchParams(new FormData(mform)).toString();
+      if (btn) btn.disabled = true;
+      try {
+        await fetch('/api/lead', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body });
+        mform.querySelectorAll('.mf-grid, .mf-actions').forEach(el => el.style.display = 'none');
+        if (status) status.textContent = "You're in the queue. We read every one — expect a note from a human, not a bot.";
+      } catch (err) {
+        if (btn) btn.disabled = false;
+        if (status) status.textContent = "Something hiccuped — email merchants@shaw-labs.com and we'll sort it.";
+      }
+    });
+  }
+
+  // --- Listing tiers, rendered from /pricing.json (prices are data, not copy) ---
+  (async () => {
+    const grid = document.getElementById('tier-grid');
+    if (!grid) return;
+    try {
+      const data = await (await fetch('/pricing.json', { cache: 'no-store' })).json();
+      grid.innerHTML = (data.tiers || []).map((t) => {
+        const price = t.price === 0
+          ? `<span class="tp-free">Free</span><span class="tp-cadence">${t.cadence || ''}</span>`
+          : `<span class="tp-amt">$${t.price}</span><span class="tp-cadence">/ ${t.cadence || 'mo'}</span>`;
+        const feats = (t.features || []).map((f) => `<li>${f}</li>`).join('');
+        const real = typeof t.stripe_url === 'string' && /^https?:\/\//.test(t.stripe_url);
+        const cta = t.price === 0
+          ? `<a class="tier-cta tier-cta-soft" href="#merchant-intake">${t.cta || 'Apply'}</a>`
+          : real
+            ? `<a class="tier-cta" href="${t.stripe_url}">${t.cta || 'Choose'} &rarr;</a>`
+            : `<button class="tier-cta tier-cta-soft" data-scroll="merchant-intake">Coming soon &mdash; contact us</button>`;
+        return `<div class="tier-card${t.badge === 'Anchor' ? ' tier-feat' : ''}">
+          <div class="tier-top"><span class="tier-name">${t.name}</span>${t.badge ? `<span class="tier-badge">${t.badge}</span>` : ''}</div>
+          <div class="tier-price">${price}</div>
+          <p class="tier-tag">${t.tagline || ''}</p>
+          <ul class="tier-feats">${feats}</ul>
+          ${cta}</div>`;
+      }).join('');
+      grid.querySelectorAll('[data-scroll]').forEach((b) => b.addEventListener('click', () => {
+        const el = document.getElementById(b.getAttribute('data-scroll'));
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }));
+      const note = document.getElementById('tier-note');
+      if (note && /placeholder/i.test(data.note || '')) note.textContent = 'Founding-merchant pricing is still being finalized — tiers shown are indicative.';
+    } catch (err) {
+      grid.innerHTML = '<p class="tier-fallback">Use the form above and tell us which door — we\'ll send current pricing.</p>';
+    }
+  })();
 </script>
 
 </body>

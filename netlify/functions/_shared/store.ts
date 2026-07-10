@@ -246,3 +246,47 @@ export async function markRedeemed(code: string, sid: string): Promise<boolean> 
   await store.set(key, "1");
   return true;
 }
+
+// ---------------------------------------------------------------------------
+// Leads (merchant intake, DMO city inquiries, newsletter). UNLIKE events, leads
+// INTENTIONALLY hold contact info (the whole point of an opt-in form) — separate
+// store, founder-exportable via scripts/export-leads.mjs.
+// ---------------------------------------------------------------------------
+
+export interface Lead {
+  form: string;
+  ts: number;
+  fields: Record<string, string>;
+}
+
+function leadsStore() {
+  return getStore({ name: "lt-leads", consistency: "strong" });
+}
+
+/** Persist one lead: lt-leads/<form>/<date>/<ts>-<rand6>. */
+export async function putLead(l: Lead): Promise<void> {
+  const store = leadsStore();
+  const form = sanitizeKeySegment(l.form);
+  const date = isoDate(l.ts);
+  await store.set(`${form}/${date}/${l.ts}-${rand6()}`, JSON.stringify(l));
+}
+
+/** All leads for a form name (founder export). */
+export async function listLeads(form: string): Promise<Lead[]> {
+  const store = leadsStore();
+  const out: Lead[] = [];
+  try {
+    const listed = await store.list({ prefix: `${sanitizeKeySegment(form)}/` });
+    for (const blob of listed.blobs) {
+      try {
+        const raw = await store.get(blob.key);
+        if (raw) out.push(JSON.parse(raw) as Lead);
+      } catch {
+        /* skip corrupt */
+      }
+    }
+  } catch {
+    /* store unavailable */
+  }
+  return out.sort((a, b) => a.ts - b.ts);
+}

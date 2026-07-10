@@ -8,6 +8,7 @@ import { Reveal } from "../../hooks";
 import { useCityModel } from "../../cityModel";
 import { track } from "../../beacon";
 import { ImgOrVisual, FeedChip } from "./cards";
+import { NewsletterSignup } from "../../NewsletterSignup";
 
 export function FeedHeader({onOpenConcierge}){const{wallUrl}=useCityModel();return(<div style={{position:"sticky",top:0,zIndex:50,background:"rgba(10,10,11,.86)",backdropFilter:"blur(12px)",borderBottom:`1px solid ${FT.line}`,padding:"12px 20px 12px 180px",display:"flex",justifyContent:"flex-end",alignItems:"center",height:56}}>
   <div style={{display:"flex",alignItems:"center",gap:12}}>
@@ -113,6 +114,7 @@ export function FeedFooter(){const{CITY,directory,deals,events}=useCityModel();r
     <span style={{fontFamily:FT.fd,fontSize:16,fontWeight:500,color:FT.ink}}>LocalTour <span style={{color:FT.red}}>{CITY.name}</span></span>
   </div>
   <p style={{fontFamily:FT.fb,fontSize:13,color:FT.inkMid,marginBottom:20}}>{directory.length} curated places · {deals.length} deals · {events.length} events</p>
+  <div style={{display:"flex",justifyContent:"center",marginBottom:22}}><NewsletterSignup accent={FT.red} fg={FT.ink} muted={FT.inkMid} border={FT.line} bg={FT.bg}/></div>
   <div style={{display:"flex",justifyContent:"center",gap:18,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase"}}>
     <a href="/" style={{color:FT.inkDim,textDecoration:"none"}}>All Cities</a>
     <span style={{opacity:.3}}>·</span>

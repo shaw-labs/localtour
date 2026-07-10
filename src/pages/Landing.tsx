@@ -1,5 +1,6 @@
 import React from "react";
 import { useState, useEffect, useRef, useCallback } from "react";
+import { subscribeNewsletter, EMAIL_RE } from "../engine/NewsletterSignup";
 import STATS from "../generated/stats.json"; // WS2: computed at build, never hand-typed
 import "./Landing.css";
 
@@ -332,14 +333,14 @@ function AppSetupSection(){return(
   </div>
 </section>)}
 
-function Footer(){var em=useState("");var email=em[0];var setEmail=em[1];return(
+function Footer(){var em=useState("");var email=em[0];var setEmail=em[1];var dn=useState(false);var done=dn[0];var setDone=dn[1];var submit=async function(e: any){e.preventDefault();if(!EMAIL_RE.test(email))return;try{await subscribeNewsletter(email)}catch(_e){}setDone(true)};return(
 <footer style={{background:T.surface,padding:"64px clamp(24px,6vw,80px) 32px",borderTop:"1px solid "+T.border}}>
   <div style={{maxWidth:1100,margin:"0 auto"}}>
     <div className="foot-grid" style={{display:"grid",gridTemplateColumns:"1.5fr 1fr 1fr 1.5fr",gap:40,paddingBottom:40,borderBottom:"1px solid "+T.border}}>
       <div><div style={{display:"flex",alignItems:"center",gap:8,marginBottom:14}}><div style={{width:28,height:28,borderRadius:8,background:T.terra,display:"flex",alignItems:"center",justifyContent:"center",fontSize:12,fontWeight:800,color:"white"}}>LT</div><span style={{fontFamily:T.fd,fontSize:18,fontWeight:700,color:T.text}}>Local<span style={{color:T.terra}}>Tour</span></span></div><p style={{fontFamily:T.fb,fontSize:13,color:T.dim,lineHeight:1.6,maxWidth:240}}>A SH@W Labs product. Config-driven city intelligence.</p></div>
       <div><h4 style={{fontFamily:T.fb,fontSize:11,fontWeight:700,color:T.fog,letterSpacing:"0.1em",textTransform:"uppercase",marginBottom:14}}>Platform</h4>{[{l:"Explore Cities",h:"/#cities"},{l:"AI Concierge",h:"/#features"},{l:"Trip Planner",h:"/#features"},{l:"Community Wall",h:"/#wall"}].map(function(item){return React.createElement("a",{key:item.l,href:item.h,style:{display:"block",fontFamily:T.fb,fontSize:13,color:T.dim,textDecoration:"none",marginBottom:8}},item.l)})}</div>
       <div><h4 style={{fontFamily:T.fb,fontSize:11,fontWeight:700,color:T.fog,letterSpacing:"0.1em",textTransform:"uppercase",marginBottom:14}}>Company</h4>{[{l:"About SH@W Labs",h:"/company/about.html"},{l:"Six Senses",h:"#senses"},{l:"Book the Trip",h:"#book"},{l:"Partner With Us",h:"/company/partners.html"},{l:"Privacy",h:"/company/privacy.html"},{l:"Terms",h:"/company/terms.html"}].map(function(item){return React.createElement("a",{key:item.l,href:item.h,style:{display:"block",fontFamily:T.fb,fontSize:13,color:T.dim,textDecoration:"none",marginBottom:8}},item.l)})}</div>
-      <div><h4 style={{fontFamily:T.fb,fontSize:11,fontWeight:700,color:T.fog,letterSpacing:"0.1em",textTransform:"uppercase",marginBottom:14}}>Stay Updated</h4><p style={{fontFamily:T.fb,fontSize:13,color:T.dim,lineHeight:1.5,marginBottom:12}}>New cities. New cinematics.</p><div style={{display:"flex",gap:8}}><input type="email" placeholder="your@email.com" value={email} onChange={function(e){setEmail(e.target.value)}} style={{flex:1,background:T.card,border:"1px solid "+T.border,borderRadius:10,padding:"10px 14px",fontFamily:T.fb,fontSize:13,color:T.text,outline:"none"}}/><button style={{background:T.terra,color:"white",border:"none",borderRadius:10,padding:"10px 18px",fontFamily:T.fb,fontSize:13,fontWeight:700,cursor:"pointer"}}>&rarr;</button></div></div>
+      <div><h4 style={{fontFamily:T.fb,fontSize:11,fontWeight:700,color:T.fog,letterSpacing:"0.1em",textTransform:"uppercase",marginBottom:14}}>Stay Updated</h4><p style={{fontFamily:T.fb,fontSize:13,color:T.dim,lineHeight:1.5,marginBottom:12}}>New cities. New cinematics.</p>{done?<p style={{fontFamily:T.fb,fontSize:13,color:T.terra,lineHeight:1.5,margin:0}}>You&rsquo;re on the list. New city drops + the weekly deal sheet.</p>:<form onSubmit={submit} style={{display:"flex",gap:8}}><input type="email" required placeholder="your@email.com" value={email} onChange={function(e){setEmail(e.target.value)}} style={{flex:1,background:T.card,border:"1px solid "+T.border,borderRadius:10,padding:"10px 14px",fontFamily:T.fb,fontSize:13,color:T.text,outline:"none"}}/><button type="submit" style={{background:T.terra,color:"white",border:"none",borderRadius:10,padding:"10px 18px",fontFamily:T.fb,fontSize:13,fontWeight:700,cursor:"pointer"}}>&rarr;</button></form>}</div>
     </div>
     <div style={{paddingTop:20}}><span style={{fontFamily:T.fb,fontSize:12,color:T.dim,opacity:0.5}}>&copy; 2026 LocalTour &middot; SH@W Labs &middot; localtour@shaw-labs.com</span></div>
   </div>

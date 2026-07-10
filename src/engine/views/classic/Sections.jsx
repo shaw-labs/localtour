@@ -7,6 +7,7 @@ import { track } from "../../beacon";
 // Shared WS3 coupon helpers — same code path as the feed deal card, so the two
 // views stay symmetric for coupon_reveal / outbound_click / coupon_redeem.
 import { confirmRedeem, dealRedemption } from "../feed/cards";
+import { NewsletterSignup } from "../../NewsletterSignup";
 
 /* ═══ DEALS ═══ */
 // One deal card. Mirrors feed's FeedPromotedCard behavior exactly.
@@ -197,6 +198,7 @@ export function R_Footer() {
         <span className="brand-text">Local<span className="t">Tour</span></span>
       </a>
       <p>{CITY.name} — {directory.length} curated places</p>
+      <div style={{ display: "flex", justifyContent: "center", margin: "6px 0 22px" }}><NewsletterSignup /></div>
       <div className="footer-links">
         <a href="/">All cities</a>
         <span>·</span>

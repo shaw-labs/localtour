@@ -7,11 +7,12 @@
     "dev": "vite",
     "migrate": "node scripts/migrate-data.mjs",
     "verify": "node scripts/verify.mjs",
-    "build": "npm run verify && node scripts/gen-stats.mjs && node scripts/gen-walls.mjs && node scripts/gen-coupons.mjs && tsc -b && vite build && node scripts/copy-city-images.mjs && node scripts/optimize-images.mjs && node scripts/gen-sw.mjs",
+    "build": "npm run verify && node scripts/gen-stats.mjs && node scripts/gen-walls.mjs && node scripts/gen-coupons.mjs && tsc -b && vite build && node scripts/copy-city-images.mjs && node scripts/optimize-images.mjs && node scripts/gen-sw.mjs && node scripts/gen-onepager.mjs",
     "preview": "vite preview",
     "lint": "eslint .",
     "baseline": "node scripts/baseline-screenshots.mjs",
-    "issue-token": "node scripts/issue-token.mjs"
+    "issue-token": "node scripts/issue-token.mjs",
+    "export-leads": "node scripts/export-leads.mjs"
   },
   "dependencies": {
     "@netlify/blobs": "^8.1.0",

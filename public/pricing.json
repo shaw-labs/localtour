@@ -1,0 +1,54 @@
+{
+  "note": "PLACEHOLDER pricing. Final tier names, prices, and Stripe Payment Link URLs are founder-supplied (WS4 §7 input #1/#2). Swap the `price` values and replace each `stripe_url` REPLACE_WITH_STRIPE_PAYMENT_LINK with a real Stripe Payment Link — no code change needed; the partners page renders this file as data.",
+  "currency": "USD",
+  "updated": "2026-07-10",
+  "tiers": [
+    {
+      "id": "curated",
+      "name": "Curated",
+      "price": 0,
+      "cadence": "earned",
+      "tagline": "Earn your place in the graph.",
+      "badge": null,
+      "features": [
+        "Editorial listing when you meet the bar",
+        "Surfaced in the AI concierge's answers",
+        "No ads — ever"
+      ],
+      "stripe_url": null,
+      "cta": "How curation works"
+    },
+    {
+      "id": "partner",
+      "name": "Partner",
+      "price": 49,
+      "cadence": "month",
+      "tagline": "Priority placement and your deals, tracked.",
+      "badge": "Partner",
+      "features": [
+        "Priority within your category section",
+        "Publish redeemable coupons (the clipper)",
+        "30-day conversion stats: views, click-outs, reveals, redemptions",
+        "Private magic-link dashboard, CSV export"
+      ],
+      "stripe_url": "REPLACE_WITH_STRIPE_PAYMENT_LINK",
+      "cta": "Become a Partner"
+    },
+    {
+      "id": "anchor",
+      "name": "Anchor",
+      "price": 199,
+      "cadence": "month",
+      "tagline": "Anchor your category. Maximum reach.",
+      "badge": "Anchor",
+      "features": [
+        "Top of your category — bounded, never above a better organic result",
+        "Everything in Partner",
+        "Featured in the city's editorial feed",
+        "Commission-aware concierge weighting (never ad-driven)"
+      ],
+      "stripe_url": "REPLACE_WITH_STRIPE_PAYMENT_LINK",
+      "cta": "Become an Anchor"
+    }
+  ]
+}

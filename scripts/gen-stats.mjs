@@ -46,4 +46,8 @@ const stats = {
 const outDir = path.join(ROOT, "src", "generated");
 mkdirSync(outDir, { recursive: true });
 writeFileSync(path.join(outDir, "stats.json"), JSON.stringify(stats, null, 2) + "\n");
-console.log(`✓ stats: ${stats.cities} cities · ${businesses.toLocaleString()} businesses · ${nodes} nodes → src/generated/stats.json`);
+// Also expose a served copy at /stats.json so static pages (WS4 DMO pitch page,
+// the build-time one-pager PDF) can read the same computed numbers — never drifts.
+const pubDir = path.join(ROOT, "public");
+if (existsSync(pubDir)) writeFileSync(path.join(pubDir, "stats.json"), JSON.stringify(stats, null, 2) + "\n");
+console.log(`✓ stats: ${stats.cities} cities · ${businesses.toLocaleString()} businesses · ${nodes} nodes → src/generated/stats.json (+ public/stats.json)`);
