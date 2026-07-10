@@ -58,10 +58,9 @@ export function adaptCity(city, editorial) {
   const { config, slug } = city;
   const IMG = (f) => (f ? `/cities/${slug}/images/${f}` : null);
 
-  // Absolute per-city wall URL. The inline apps used a relative "wall.html"
-  // (resolved against /cities/<slug>/index.html); under the engine's
-  // /cities/:slug route a relative link breaks, so links come from here.
-  const wallUrl = `/cities/${slug}/wall.html`;
+  // Per-city wall URL → the native engine wall route (/cities/<slug>/wall),
+  // consistent across all 15 cities (replaces the legacy per-city Babel wall.html).
+  const wallUrl = `/cities/${slug}/wall`;
 
   const CITY = {
     name: config.name,

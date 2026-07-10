@@ -19,21 +19,25 @@ function CityToggle({ view, setView, classic }) {
     ? { bg: "rgba(12,27,42,0.85)", fg: "#f0ebe4", dim: "#94a3b8", accent: "#dc2626", border: "rgba(255,255,255,0.1)", fd: "'Playfair Display',Georgia,serif" }
     : { bg: "rgba(10,10,11,0.85)", fg: "#f5f2ec", dim: "#a09a90", accent: "#b3131f", border: "#1c1a17", fd: "'Fraunces',Georgia,serif" };
   return (
-    <button
-      onClick={() => setView(next)}
-      title={`Switch to ${next} view`}
-      style={{ position: "fixed", top: 14, left: classic ? 64 : 16, zIndex: 250, background: s.bg, backdropFilter: "blur(12px)", border: `1px solid ${s.border}`, padding: "7px 12px", cursor: "pointer", display: "flex", alignItems: "center", gap: 10, borderRadius: 999, transition: "all .25s" }}
+    <div
+      style={{ position: "fixed", top: 14, left: classic ? 64 : 16, zIndex: 250, background: s.bg, backdropFilter: "blur(12px)", border: `1px solid ${s.border}`, padding: "7px 12px", display: "flex", alignItems: "center", gap: 10, borderRadius: 999, transition: "all .25s" }}
     >
-      <span style={{ display: "inline-flex", alignItems: "center", gap: 6 }}>
+      {/* LT logo + city name → homepage */}
+      <a href="/" title="LocalTour home" style={{ display: "inline-flex", alignItems: "center", gap: 6, textDecoration: "none", cursor: "pointer" }}>
         <span style={{ width: 18, height: 18, borderRadius: 5, background: s.accent, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 8, fontWeight: 800, color: "#fff", fontFamily: s.fd }}>LT</span>
         <span style={{ fontFamily: s.fd, fontSize: 14, fontWeight: 600, color: s.fg, letterSpacing: "-.005em" }}>{CITY.name}</span>
-      </span>
+      </a>
       <span style={{ width: 1, height: 14, background: s.border }} />
-      <span style={{ fontFamily: "'IBM Plex Mono',monospace", fontSize: 9, letterSpacing: ".18em", color: s.dim, textTransform: "uppercase", display: "inline-flex", alignItems: "center", gap: 4 }}>
+      {/* FEED ⇄ CLASSIC view toggle */}
+      <button
+        onClick={() => setView(next)}
+        title={`Switch to ${next} view`}
+        style={{ background: "transparent", border: "none", padding: 0, cursor: "pointer", fontFamily: "'IBM Plex Mono',monospace", fontSize: 9, letterSpacing: ".18em", color: s.dim, textTransform: "uppercase", display: "inline-flex", alignItems: "center", gap: 4 }}
+      >
         {current}
         <span style={{ opacity: 0.6 }}>⇄</span>
-      </span>
-    </button>
+      </button>
+    </div>
   );
 }
 

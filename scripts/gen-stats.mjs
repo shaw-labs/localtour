@@ -10,8 +10,10 @@ const modular = path.join(ROOT, "cities-modular");
 const slugs = readdirSync(modular).filter((d) => existsSync(path.join(modular, d, "config.json")));
 
 const perCity = {};
+const walls = []; // combined-wall manifest for the homepage travel wall
 let businesses = 0, deals = 0, events = 0, nodes = 0;
 for (const slug of slugs) {
+  const cfg = JSON.parse(readFileSync(path.join(modular, slug, "config.json"), "utf8"));
   const n = (f) => JSON.parse(readFileSync(path.join(modular, slug, `${f}.json`), "utf8")).length;
   const b = n("directory");
   perCity[slug] = b;
@@ -19,6 +21,15 @@ for (const slug of slugs) {
   deals += n("deals");
   events += n("events");
   nodes += n("concierge");
+
+  const img = cfg.images ?? {};
+  const files = [img.hero, ...(img.wall ?? []), ...(img.story ?? [])].filter(Boolean);
+  walls.push({
+    slug,
+    name: cfg.name,
+    // a few travel photos per city, as absolute engine paths
+    photos: [...new Set(files)].slice(0, 5).map((f) => `/cities/${slug}/images/${f}`),
+  });
 }
 
 const stats = {
@@ -29,6 +40,7 @@ const stats = {
   events,
   nodes,
   perCity,
+  walls,
 };
 
 const outDir = path.join(ROOT, "src", "generated");

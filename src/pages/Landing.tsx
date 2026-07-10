@@ -26,7 +26,7 @@ const CITIES=[
   {slug:"austin",name:"Austin",state:"TX",tagline:"Keep It Weird, Keep It Easy",vibe:"105 places curated",hero:"hero-aerial.jpg",link:"/cities/austin"},
   {slug:"portland",name:"Portland",state:"OR",tagline:"Keep It Weird, Keep It Covered",vibe:"104 places curated",hero:"hero-aerial.jpg",link:"/cities/portland"},
 ];
-const COMING_SOON=["Phoenix","Salt Lake City","Nashville","Kansas City","Denver","Austin","Portland"];
+const COMING_SOON: string[]=[]; // all batch-2 cities now live
 const FEATURES: any[]=[
   {id:"concierge",title:"AI Concierge",desc:"Every city gets a personality. Ask questions, get answers that sound like a local — not a search engine.",icon:"\u{1F4AC}",video:"/videos/concierge.mp4"},
   {id:"directory",title:"Curated Directory",desc:"Handpicked restaurants, bars, attractions, and hidden gems. Filtered by vibe, not by ad spend.",icon:"\u{1F4CD}"},
@@ -345,6 +345,34 @@ function Footer(){var em=useState("");var email=em[0];var setEmail=em[1];return(
   </div>
 </footer>)}
 
+// Combined travel-photo wall — interleaves a few photos from every city; each tile
+// links through to that city's wall page (/cities/<slug>/wall).
+function WallSection(){
+  const walls: any[] = (STATS as any).walls || [];
+  const rounds = walls.reduce((m: number, w: any)=>Math.max(m, w.photos.length), 0);
+  const tiles: any[] = [];
+  for(let r=0;r<rounds;r++) for(const w of walls) if(w.photos[r]) tiles.push({src:w.photos[r],slug:w.slug,name:w.name});
+  return (
+    <section id="wall" style={{padding:"80px clamp(24px,6vw,80px)",background:T.surface}}>
+      <Reveal>
+        <div style={{textAlign:"center",marginBottom:40}}>
+          <span style={{fontFamily:T.fb,fontSize:13,fontWeight:700,color:T.terra,letterSpacing:"0.12em",textTransform:"uppercase"}}>The Wall</span>
+          <h2 style={{fontFamily:T.fd,fontSize:"clamp(28px,4.5vw,48px)",fontWeight:700,color:T.text,marginTop:10}}>Every city, <em style={{color:T.terra}}>in the wild.</em></h2>
+          <p style={{fontFamily:T.fb,fontSize:16,color:T.fog,maxWidth:560,margin:"10px auto 0"}}>Travel photos from across the map. Tap any shot to open that city&rsquo;s wall.</p>
+        </div>
+      </Reveal>
+      <div style={{maxWidth:1200,margin:"0 auto",columns:"4 220px",columnGap:12}}>
+        {tiles.map((t,i)=>(
+          <a key={i} href={`/cities/${t.slug}/wall`} title={`${t.name} — open the wall`} style={{breakInside:"avoid",display:"block",marginBottom:12,position:"relative",borderRadius:T.r,overflow:"hidden",textDecoration:"none"}}>
+            <img src={t.src} alt={t.name} loading="lazy" style={{width:"100%",display:"block"}} onError={(e:any)=>{e.currentTarget.parentElement.style.display="none"}}/>
+            <span style={{position:"absolute",left:10,bottom:10,fontFamily:T.fb,fontSize:12,fontWeight:700,color:"#fff",textShadow:"0 1px 6px rgba(0,0,0,.6)"}}>{t.name}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+  );
+}
+
 export default function Landing(){
   var sv=useState(0);var scrollY=sv[0];var setScrollY=sv[1];
   var dv=useState(false);var isDark=dv[0];var setIsDark=dv[1];
@@ -361,7 +389,7 @@ React.createElement("div",{className:"lt-landing",style:{background:T.bg,fontFam
     ),
     React.createElement("div",{style:{display:"flex",alignItems:"center",gap:16}},
       React.createElement("button",{onClick:function(){setIsDark(!isDark)},style:{background:isDark?"rgba(255,255,255,0.06)":"rgba(0,0,0,0.03)",border:"1px solid "+T.border,borderRadius:T.rp,padding:"6px 14px",cursor:"pointer",display:"flex",alignItems:"center",gap:6,fontSize:13,color:T.fog,fontFamily:T.fb}},isDark?"☀️ Light":"\u{1F319} Dark"),
-      React.createElement("a",{href:"/platform/community.html",style:{color:T.fog,fontSize:13,fontWeight:500,textDecoration:"none",fontFamily:T.fb}},"The Wall"),React.createElement("a",{href:"#senses",style:{color:T.fog,fontSize:13,fontWeight:500,textDecoration:"none",fontFamily:T.fb}},"Senses"),React.createElement("a",{href:"#cities",style:{background:T.terra,color:"white",padding:"8px 20px",borderRadius:T.rp,fontSize:13,fontWeight:700,textDecoration:"none",fontFamily:T.fb}},"Explore")
+      React.createElement("a",{href:"#wall",style:{color:T.fog,fontSize:13,fontWeight:500,textDecoration:"none",fontFamily:T.fb}},"The Wall"),React.createElement("a",{href:"#senses",style:{color:T.fog,fontSize:13,fontWeight:500,textDecoration:"none",fontFamily:T.fb}},"Senses"),React.createElement("a",{href:"#cities",style:{background:T.terra,color:"white",padding:"8px 20px",borderRadius:T.rp,fontSize:13,fontWeight:700,textDecoration:"none",fontFamily:T.fb}},"Explore")
     )
   ),
   React.createElement(Hero,null),
@@ -381,6 +409,7 @@ React.createElement("div",{className:"lt-landing",style:{background:T.bg,fontFam
       ))})
     )
   ),
+  React.createElement(WallSection,null),
   React.createElement(FeaturesSection,null),
   React.createElement(AffiliateSection,null),
   React.createElement(PipelineSection,null),
