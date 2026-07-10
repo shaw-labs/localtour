@@ -26,6 +26,15 @@
   status = 301
   force = true
 
+# The native SPA route /cities/<slug>/wall replaces every legacy per-city
+# wall.html. wall.html is no longer shipped to dist (it would shadow the SPA
+# route via Netlify's implicit .html resolution). Preserve old .html bookmarks.
+[[redirects]]
+  from = "/cities/:city/wall.html"
+  to = "/cities/:city/wall"
+  status = 301
+  force = true
+
 # SPA fallback (must stay last)
 [[redirects]]
   from = "/*"

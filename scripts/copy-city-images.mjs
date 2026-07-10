@@ -1,18 +1,13 @@
-// Post-build: copy the legacy per-city wall.html into dist (URL preservation).
-// City IMAGES are handled by scripts/optimize-images.mjs (WS7 pipeline), which
-// writes responsive avif/webp/jpg variants — not the raw copy that used to live here.
+// Post-build helper. NOTE: the legacy per-city wall.html is intentionally NOT
+// copied into dist anymore — the native SPA route /cities/<slug>/wall (CityWall.tsx)
+// is its replacement, and shipping wall.html would shadow that route because
+// Netlify resolves /cities/<slug>/wall to the static wall.html file. Old
+// /cities/<slug>/wall.html bookmarks are 301'd to /wall in netlify.toml.
+// gen-walls.mjs still READS cities/<slug>/wall.html (source) to build wall.json.
+// City IMAGES are handled by scripts/optimize-images.mjs (WS7 pipeline).
 import { cpSync, existsSync } from "node:fs";
 import path from "node:path";
-import { readdirSync } from "node:fs";
 import { ROOT } from "./lib/city-data.mjs";
-
-const citiesDir = path.join(ROOT, "cities");
-for (const slug of readdirSync(citiesDir)) {
-  const wall = path.join(citiesDir, slug, "wall.html");
-  if (existsSync(wall)) {
-    cpSync(wall, path.join(ROOT, "dist", "cities", slug, "wall.html"));
-  }
-}
 
 // parity report (regenerable, gitignored) — served at /parity/ when present locally
 const parity = path.join(ROOT, "parity-report");
