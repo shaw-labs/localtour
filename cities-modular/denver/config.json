@@ -248,7 +248,18 @@
       "seasonal-summer.jpg",
       "seasonal-winter.jpg"
     ],
-    "categories": {},
+    "categories": {
+      "attractions": "dir-attractions.jpg",
+      "bars_nightlife": "dir-bars_nightlife.jpg",
+      "coffee_bakeries": "dir-coffee_bakeries.jpg",
+      "dining": "dir-dining.jpg",
+      "entertainment": "dir-entertainment.jpg",
+      "lodging": "dir-lodging.jpg",
+      "outdoor_adventure": "dir-outdoor_adventure.jpg",
+      "services": "dir-services.jpg",
+      "shopping": "dir-shopping.jpg",
+      "wellness_spa": "dir-wellness_spa.jpg"
+    },
     "section_breaks": {}
   }
 }
