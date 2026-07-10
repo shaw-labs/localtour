@@ -8,6 +8,10 @@ import { isEventActive, isDealActive, todayISO } from "./dates";
 // WS4 coupon overlay — build-generated per-deal codes (source containers stay
 // codeless by contract; see scripts/gen-coupons.mjs). Empty {} before first build.
 import COUPONS from "../generated/coupons.json";
+// WS4 tier ranking — merchant promotions (who paid) drive a bounded, Principle-6
+// boost within each category and a subtle badge. Empty {} = no promotions.
+import { tierOf, applyTierBoost } from "./ranking";
+import PROMOTIONS from "../../data/promotions.json";
 
 const CityModelContext = createContext(null);
 
@@ -92,7 +96,12 @@ export function adaptCity(city, editorial) {
   // legacy components read t.dist — keep both spellings
   const SIDE_TRIPS = (config.side_trips ?? []).map((t) => ({ ...t, dist: t.distance }));
 
-  const directory = city.directory;
+  // WS4: tag each business with its paid tier (partner/anchor) so cards can badge
+  // it. Copy the object (never mutate the imported JSON) and only add .tier when set.
+  const directory = city.directory.map((b) => {
+    const tier = tierOf(slug, b.name, PROMOTIONS);
+    return tier ? { ...b, tier } : b;
+  });
   // WS2 truth pass: auto-hide expired events + deals at render time (relative to the
   // viewer's today). Every downstream surface (tickers, cards, counts) sees only
   // what's actually still on. Recurring/undated events stay (evergreen).
@@ -107,6 +116,9 @@ export function adaptCity(city, editorial) {
 
   const byName = Object.fromEntries(directory.map((b) => [b.name, b]));
   const grouped = groupBy(directory, (b) => b.category);
+  // WS4: bounded promoted boost WITHIN each category (Principle 6 — an organically
+  // higher-rated place is never displaced from slot 1). Purely a reorder.
+  for (const cat of Object.keys(grouped)) grouped[cat] = applyTierBoost(grouped[cat], slug, PROMOTIONS);
   const sortedCats = Object.keys(grouped).sort((a, b) => {
     const ai = CAT_ORDER_ENGINE.indexOf(a),
       bi = CAT_ORDER_ENGINE.indexOf(b);

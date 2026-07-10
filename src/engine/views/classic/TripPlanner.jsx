@@ -1,13 +1,26 @@
 // Classic view — trip planner overlay (ported verbatim; chicago index.html ~2451–2615).
 import { useState } from "react";
 import { useCityModel } from "../../cityModel";
+import { track } from "../../beacon";
+import { planParam } from "../../planShare";
 
 /* ═══ TRIP PLANNER OVERLAY ═══ */
 export function R_TripPlanner({onClose}) {
-  const { CITY, directory, MODES } = useCityModel();
+  const { CITY, directory, MODES, slug } = useCityModel();
   const [step, setStep] = useState(0);
   const [prefs, setPrefs] = useState({days: 2, crew: 'couple', vibes: []});
   const [itinerary, setItinerary] = useState(null);
+  const [shared, setShared] = useState(false);
+
+  // Build a shareable URL for the current plan, copy it (best-effort), and log the
+  // share via the beacon. Does not mutate the itinerary or touch generate().
+  function share() {
+    const shareUrl = window.location.pathname + planParam(prefs, itinerary);
+    try { navigator.clipboard.writeText(shareUrl); } catch { /* clipboard blocked — non-fatal */ }
+    track.shareCreated(slug, "classic");
+    setShared(true);
+    setTimeout(() => setShared(false), 2500);
+  }
 
   function pick(arr, n) {
     return [...arr].sort(() => Math.random() - 0.5).slice(0, n);
@@ -137,6 +150,7 @@ export function R_TripPlanner({onClose}) {
               <h3 style={{marginBottom: 0}}>Your {CITY.name} itinerary</h3>
               <div style={{display: 'flex', gap: 10}}>
                 <button className="btn btn-ghost" onClick={generate}>🔀 Shuffle</button>
+                <button className="btn btn-ghost" onClick={share}>{shared ? 'Link copied' : '🔗 Share this plan'}</button>
                 <button className="btn btn-ghost" onClick={() => { setStep(0); setItinerary(null); }}>Start over</button>
               </div>
             </div>

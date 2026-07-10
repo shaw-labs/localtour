@@ -87,6 +87,16 @@ export function FeedConciergeLine({text,author}){const{defaults}=useCityModel();
 
 export function FeedChip({active,onClick,children}){return(<button onClick={onClick} style={{padding:"8px 14px",background:active?FT.ink:"transparent",color:active?FT.bg:FT.inkMid,border:`1px solid ${active?FT.ink:FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",cursor:"pointer",whiteSpace:"nowrap",transition:"all .2s"}}>{children}</button>);}
 
+// Subtle merchant-tier badge (WS4). Renders only when biz.tier is "partner" or
+// "anchor" (set upstream by the model via tierOf). Understated on purpose — a
+// quiet label, not a loud ad. Anchor gets a faint gold wash; partner stays ghost.
+function FeedTierBadge({tier}){
+  if(tier!=="partner"&&tier!=="anchor")return null;
+  const isAnchor=tier==="anchor";
+  const label=isAnchor?"Anchor":"Partner";
+  return(<span title={`${label} merchant`} style={{display:"inline-flex",alignItems:"center",padding:"2px 7px",borderRadius:2,border:`1px solid ${isAnchor?"rgba(200,155,60,.28)":FT.inkFaint}`,background:isAnchor?"rgba(200,155,60,.06)":"transparent",fontFamily:FT.fm,fontSize:8,letterSpacing:".16em",lineHeight:1.5,color:isAnchor?FT.gold:FT.inkMid,textTransform:"uppercase"}}>{label}</span>);
+}
+
 export function FeedBusinessCard({biz,kicker,override,imageKey}){
   const{slug,IMG,CAT_IMAGES,CAT_KICKERS}=useCityModel();
   const impRef=useImpression(slug,biz.name,"feed");
@@ -100,8 +110,8 @@ export function FeedBusinessCard({biz,kicker,override,imageKey}){
   return(<Reveal><article ref={impRef} style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg}}>
     <ImgOrVisual src={IMG(imgFile)} fallbackSeed={imageKey||cat} label={biz.name} aspect="4/5"/>
     <div style={{padding:"20px 24px 26px"}}>
-      <div style={{display:"flex",justifyContent:"space-between",marginBottom:10,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase",gap:12}}>
-        <span>{kick}</span>
+      <div style={{display:"flex",justifyContent:"space-between",alignItems:"center",marginBottom:10,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.inkDim,textTransform:"uppercase",gap:12}}>
+        <span style={{display:"inline-flex",alignItems:"center",gap:8}}>{kick}{biz.tier&&<FeedTierBadge tier={biz.tier}/>}</span>
         <span style={{textAlign:"right",maxWidth:"60%",overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>{neighborhood}</span>
       </div>
       <h2 style={{fontFamily:FT.fd,fontSize:24,fontWeight:500,color:FT.ink,margin:"0 0 10px",lineHeight:1.15,letterSpacing:"-.015em"}}>{title}</h2>

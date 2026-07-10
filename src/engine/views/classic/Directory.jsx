@@ -45,6 +45,36 @@ export function R_Modes({activeMode, setActiveMode}) {
   );
 }
 
+/* Subtle merchant-tier badge (WS4). Renders only when biz.tier is "partner" or
+   "anchor" (set upstream by the model via tierOf). Inline styles keyed to the
+   classic theme CSS vars so it tracks light/dark. Understated — a quiet label. */
+function R_TierBadge({tier}) {
+  if (tier !== "partner" && tier !== "anchor") return null;
+  const isAnchor = tier === "anchor";
+  const label = isAnchor ? "Anchor" : "Partner";
+  return (
+    <span
+      title={`${label} merchant`}
+      style={{
+        display: "inline-block",
+        marginLeft: 8,
+        verticalAlign: "middle",
+        fontFamily: "var(--mono)",
+        fontSize: 9,
+        letterSpacing: "0.14em",
+        textTransform: "uppercase",
+        padding: "2px 7px",
+        borderRadius: 6,
+        color: isAnchor ? "var(--gold)" : "var(--text-dim)",
+        border: `1px solid ${isAnchor ? "rgba(212,168,83,0.28)" : "var(--border)"}`,
+        background: isAnchor ? "rgba(212,168,83,0.08)" : "transparent",
+      }}
+    >
+      {label}
+    </span>
+  );
+}
+
 /* ═══ BUSINESS CARD ═══ */
 export function R_BizCard({biz}) {
   const { slug } = useCityModel();
@@ -63,7 +93,10 @@ export function R_BizCard({biz}) {
       <div className="biz-top">
         <div style={{flex: 1, minWidth: 0}}>
           <div className="biz-name">{biz.name}</div>
-          <div className="biz-sub">{(biz.subcategory || '').replace(/_/g, ' ')}</div>
+          <div className="biz-sub">
+            {(biz.subcategory || '').replace(/_/g, ' ')}
+            {biz.tier && <R_TierBadge tier={biz.tier} />}
+          </div>
         </div>
         <div className="biz-meta">
           {biz.price && <span className="biz-price">{biz.price}</span>}

@@ -1,10 +1,13 @@
 // LocalTour engine — per-city app shell: view toggle (persisted in localStorage per
 // WS1 — sessionStorage in the legacy apps) + the Feed/Classic switch.
-import { useEffect, useState } from "react";
+import { useEffect, useState, useMemo } from "react";
 import { CityModelProvider, useCityModel } from "./cityModel";
 import { track } from "./beacon";
 import FeedView from "./views/feed/FeedView";
 import ClassicView from "./views/classic/ClassicView";
+import { decodePlan } from "./planShare";
+import { PlanView } from "./views/classic/PlanView";
+import { SaveCity } from "./SaveCity";
 import { installImgFallback } from "./imgFallback";
 import "./styles/engine.css";
 
@@ -43,7 +46,7 @@ function CityToggle({ view, setView, classic }) {
 }
 
 function CityAppInner() {
-  const { slug } = useCityModel();
+  const { slug, byName, CITY, IMG, CAT_IMAGES } = useCityModel();
   const [view, setView] = useState(() => {
     try {
       return localStorage.getItem("lt_view") || "feed";
@@ -55,6 +58,31 @@ function CityAppInner() {
   const [conciergeOpen, setConciergeOpen] = useState(false);
   const [plannerOpen, setPlannerOpen] = useState(false);
   const [isDark, setIsDark] = useState(true);
+
+  // WS4 shareable itinerary: a /cities/<slug>/?plan=<token> URL renders the plan
+  // read-only. Decode once on mount; null (absent/malformed/foreign city) → normal view.
+  const [plan, setPlan] = useState(() => {
+    try {
+      const p = new URLSearchParams(window.location.search).get("plan");
+      return p ? decodePlan(p, byName) : null;
+    } catch {
+      return null;
+    }
+  });
+
+  // WS4 PWA save-a-city: a small asset list (this page + the city's category
+  // images in .jpg/.avif) the service worker pins for airplane-mode use.
+  const saveAssets = useMemo(() => {
+    const urls = [window.location.pathname];
+    for (const f of Object.values(CAT_IMAGES || {})) {
+      const full = IMG(f);
+      if (!full) continue;
+      const base = full.replace(/\.[^.]+$/, "");
+      urls.push(base + ".jpg", base + ".avif");
+    }
+    return [...new Set(urls)];
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug]);
 
   useEffect(() => {
     try {
@@ -68,6 +96,24 @@ function CityAppInner() {
     setConciergeOpen(false);
     window.scrollTo(0, 0);
   }, [view, slug]);
+
+  // A shared ?plan= URL renders the itinerary read-only; "Remix" strips the param
+  // and opens the live planner in classic.
+  if (plan) {
+    return (
+      <PlanView
+        prefs={plan.prefs}
+        itinerary={plan.itinerary}
+        cityName={CITY.name}
+        onRemix={() => {
+          try { window.history.replaceState(null, "", window.location.pathname); } catch { /* ignore */ }
+          setPlan(null);
+          setView("classic");
+          setPlannerOpen(true);
+        }}
+      />
+    );
+  }
 
   return (
     <>
@@ -91,6 +137,9 @@ function CityAppInner() {
           setIsDark={setIsDark}
         />
       )}
+      <div style={{ position: "fixed", left: 16, bottom: 16, zIndex: 40 }}>
+        <SaveCity assets={saveAssets} cityName={CITY.name} dark={view === "feed"} />
+      </div>
     </>
   );
 }
