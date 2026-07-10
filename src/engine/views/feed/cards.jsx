@@ -31,8 +31,14 @@ export function ImgOrVisual({src,fallbackSeed,label,aspect="4/5"}){
       <div style={{fontFamily:FT.fm,fontSize:8,letterSpacing:".24em",color:p[3],opacity:.7,textTransform:"uppercase",writingMode:"vertical-rl",transform:"rotate(180deg)"}}>{coords}</div>
     </div>
   </div>);
+  const base=src.replace(/\.[^.]+$/,""); // WS7: avif→webp→jpg responsive variants (optimize-images.mjs)
+  const sizes="(max-width:600px) 100vw, 560px";
   return(<div style={{position:"relative",width:"100%",aspectRatio:aspect,background:FT.surf,overflow:"hidden"}}>
-    <img src={src} alt={label||""} loading="lazy" onError={()=>setErr(true)} style={{width:"100%",height:"100%",objectFit:"cover"}}/>
+    <picture>
+      <source type="image/avif" srcSet={`${base}-sm.avif 720w, ${base}.avif 1440w`} sizes={sizes}/>
+      <source type="image/webp" srcSet={`${base}-sm.webp 720w, ${base}.webp 1440w`} sizes={sizes}/>
+      <img src={`${base}.jpg`} alt={label||""} loading="lazy" onError={()=>setErr(true)} style={{width:"100%",height:"100%",objectFit:"cover"}}/>
+    </picture>
     <div style={{position:"absolute",inset:0,background:"linear-gradient(180deg,transparent 50%,rgba(10,10,11,.55) 100%)",pointerEvents:"none"}}/>
   </div>);
 }
