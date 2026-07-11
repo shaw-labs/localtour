@@ -1,7 +1,7 @@
 {
-  "note": "PLACEHOLDER pricing. Final tier names, prices, and Stripe Payment Link URLs are founder-supplied (WS4 §7 input #1/#2). Swap the `price` values and replace each `stripe_url` REPLACE_WITH_STRIPE_PAYMENT_LINK with a real Stripe Payment Link — no code change needed; the partners page renders this file as data.",
+  "note": "Launch pricing ($29 Partner / $99 Anchor). stripe_url values are Stripe TEST-mode Payment Links (buy.stripe.com/test_...) — fine for staging; swap for Live-mode links before charging real merchants on production. The partners page renders this file as data; no code change to update.",
   "currency": "USD",
-  "updated": "2026-07-10",
+  "updated": "2026-07-11",
   "tiers": [
     {
       "id": "curated",
@@ -21,7 +21,7 @@
     {
       "id": "partner",
       "name": "Partner",
-      "price": 49,
+      "price": 29,
       "cadence": "month",
       "tagline": "Priority placement and your deals, tracked.",
       "badge": "Partner",
@@ -31,13 +31,13 @@
         "30-day conversion stats: views, click-outs, reveals, redemptions",
         "Private magic-link dashboard, CSV export"
       ],
-      "stripe_url": "REPLACE_WITH_STRIPE_PAYMENT_LINK",
+      "stripe_url": "https://buy.stripe.com/test_6oU7sNfJhg15dlW5rK67S00",
       "cta": "Become a Partner"
     },
     {
       "id": "anchor",
       "name": "Anchor",
-      "price": 199,
+      "price": 99,
       "cadence": "month",
       "tagline": "Anchor your category. Maximum reach.",
       "badge": "Anchor",
@@ -47,7 +47,7 @@
         "Featured in the city's editorial feed",
         "Commission-aware concierge weighting (never ad-driven)"
       ],
-      "stripe_url": "REPLACE_WITH_STRIPE_PAYMENT_LINK",
+      "stripe_url": "https://buy.stripe.com/test_9B6eVfaoXeX1bdO7zS67S01",
       "cta": "Become an Anchor"
     }
   ]
