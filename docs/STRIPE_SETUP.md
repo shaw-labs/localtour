@@ -79,13 +79,13 @@ changes.** Until you paste real links, the buttons render as
 
 ## 6. The full merchant loop (how a stranger becomes a paying, tracked merchant)
 
-1. Merchant submits the **intake form** on the partners page (Netlify Form —
-   you get an email + it's in Netlify → Forms).
+1. Merchant submits the **intake form** on the partners page (captured to the
+   `lt-leads` store; export anytime with `npm run export-leads -- --form merchant-intake`).
 2. Merchant clicks **Become a Partner/Anchor** → pays via the Stripe Payment Link.
    You get the Stripe payment + their email.
 3. You issue their **stats dashboard** magic link (WS3):
    ```
-   export NETLIFY_SITE_ID=307ea660-1618-4355-9520-1e23dda757f7
+   export NETLIFY_SITE_ID=4ca64564-dd18-4b9f-8b5a-0e7e8c83cd91
    export NETLIFY_API_TOKEN=<your Netlify personal access token>
    npm run issue-token -- --city <slug> --biz "<Business Name>"
    ```

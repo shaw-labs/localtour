@@ -122,7 +122,10 @@ const rec = {
 const store = getStore({ name: "lt-tokens", siteID, token: apiToken });
 await store.set(token, JSON.stringify(rec));
 
-const url = `https://localtour-work.netlify.app/partners/stats?k=${token}`;
+// Public site base for the magic link. Defaults to production; override with
+// LT_SITE_URL=https://localtour-work.netlify.app when issuing against the work site.
+const siteUrl = process.env.LT_SITE_URL || "https://localtour.directory";
+const url = `${siteUrl}/partners/stats?k=${token}`;
 
 console.log("Merchant token issued.");
 console.log(`  city:   ${rec.city}`);
