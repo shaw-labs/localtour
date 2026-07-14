@@ -25,6 +25,7 @@ const ALLOWED_EVENTS = new Set<string>([
   "coupon_redeem",
   "planner_generated",
   "share_created",
+  "portal_slotgenie_click", // WS6 — chosen tap-through from the Vegas portal
 ]);
 
 // view is a closed set per the canonical schema.

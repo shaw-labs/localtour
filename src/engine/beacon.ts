@@ -23,7 +23,8 @@ export type BeaconEventName =
   | "coupon_reveal"
   | "coupon_redeem"
   | "planner_generated"
-  | "share_created";
+  | "share_created"
+  | "portal_slotgenie_click"; // WS6 Vegas portal → SlotGenie handoff
 
 export type ViewName = "feed" | "classic";
 
