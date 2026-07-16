@@ -17,7 +17,10 @@ const FILES = [
   "deals.json",
   "concierge.json",
   "planner.json",
-  "trails.json",
+  // trails.json is intentionally NOT provenance-gated: the migrator emits it as
+  // an empty placeholder ("WS8 250 Trails — authored, never generated"), and the
+  // WS8 layer authors the flagship trail into it. Integrity is enforced by
+  // validate-cities instead (every stop.biz must resolve to a directory name).
 ];
 
 // The documented patch log, encoded. Applied to REGENERATED concierge output;

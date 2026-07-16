@@ -30,6 +30,7 @@ import {
   FeedFooter,
 } from "./sections";
 import { FeedConciergeModal, FeedConciergeFAB } from "./concierge";
+import { TrailRail } from "../../TrailRail";
 
 export default function FeedView({activeMode,setActiveMode,conciergeOpen,setConciergeOpen}){
   const{CITY,picks,storyboard,deals,events,byName,directory,grouped,sortedCats,SIDE_TRIPS,editorial}=useCityModel();
@@ -73,6 +74,8 @@ export default function FeedView({activeMode,setActiveMode,conciergeOpen,setConc
       <FeedHeader onOpenConcierge={()=>setConciergeOpen(true)}/>
       <FeedHero/>
       <FeedTicker/>
+      {/* WS8 — America 250 campaign rail (shared component; classic mounts it too) */}
+      <TrailRail dark/>
       {/* inline order: greeting line, THEN StoryCard + ModeChips, then the rest of
           the storyboard — so the first item (the greeting) renders before them */}
       {storyboard.length>0&&renderItem(storyboard[0],"sb-0")}

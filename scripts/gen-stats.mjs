@@ -12,6 +12,7 @@ const slugs = readdirSync(modular).filter((d) => existsSync(path.join(modular, d
 const perCity = {};
 const walls = []; // combined-wall manifest for the homepage travel wall
 let businesses = 0, deals = 0, events = 0, nodes = 0;
+const trails = []; // WS8 — the campaign collection band on the landing (computed, Principle 1)
 for (const slug of slugs) {
   const cfg = JSON.parse(readFileSync(path.join(modular, slug, "config.json"), "utf8"));
   const n = (f) => JSON.parse(readFileSync(path.join(modular, slug, `${f}.json`), "utf8")).length;
@@ -21,6 +22,11 @@ for (const slug of slugs) {
   deals += n("deals");
   events += n("events");
   nodes += n("concierge");
+
+  const cityTrails = JSON.parse(readFileSync(path.join(modular, slug, "trails.json"), "utf8"));
+  if (cityTrails.length) {
+    trails.push({ slug, city: cfg.name, title: cityTrails[0].title, hook: cityTrails[0].hook, stops: (cityTrails[0].stops ?? []).length });
+  }
 
   const img = cfg.images ?? {};
   const files = [img.hero, ...(img.wall ?? []), ...(img.story ?? [])].filter(Boolean);
@@ -41,6 +47,7 @@ const stats = {
   nodes,
   perCity,
   walls,
+  trails,
 };
 
 const outDir = path.join(ROOT, "src", "generated");

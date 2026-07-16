@@ -1,6 +1,7 @@
 import React from "react";
 import { useState, useEffect, useRef, useCallback } from "react";
 import { subscribeNewsletter, EMAIL_RE } from "../engine/NewsletterSignup";
+import { activeCampaign } from "../engine/campaign"; // WS8: sunset-aware campaign skin
 import STATS from "../generated/stats.json"; // WS2: computed at build, never hand-typed
 import "./Landing.css";
 
@@ -87,6 +88,36 @@ function AutoVideo({src,style}: any){const ref=useRef<any>(null);useEffect(()=>{
 function InstallButton(){const[available,setAvailable]=useState(false);const[installed,setInstalled]=useState(false);const[hint,setHint]=useState("");useEffect(function(){var onBefore=function(e: any){e.preventDefault();deferredInstallPrompt=e;setAvailable(true);setHint("")};var onInstalled=function(){setInstalled(true);setAvailable(false);deferredInstallPrompt=null;setHint("Installed in Chrome. You can now launch it like an app.")};window.addEventListener("beforeinstallprompt",onBefore);window.addEventListener("appinstalled",onInstalled);if(window.matchMedia&&window.matchMedia('(display-mode: standalone)').matches){setInstalled(true);setHint("Installed in Chrome. You can now launch it like an app.")}return function(){window.removeEventListener("beforeinstallprompt",onBefore);window.removeEventListener("appinstalled",onInstalled)}},[]);var clickInstall=async function(){if(installed)return; if(deferredInstallPrompt){deferredInstallPrompt.prompt();try{var choice=await deferredInstallPrompt.userChoice;if(choice&&choice.outcome==="dismissed"){setHint("Chrome opened the install prompt, but it was dismissed. Click Install App again anytime.")}}catch(e){}deferredInstallPrompt=null;setAvailable(false);return}var ua=navigator.userAgent||"";var isChrome=/Chrome|CriOS|Edg/i.test(ua)&&!/OPR|Opera/i.test(ua);if(isChrome){setHint("Open this live HTTPS site in Chrome, then use Chrome menu → Install app. The one-click prompt appears only after Chrome decides the site is installable.");return}setHint("For the Chrome app experience, open this site in Google Chrome on the live domain over HTTPS.")};if(installed){return React.createElement("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",gap:10}},React.createElement("span",{style:{background:"rgba(16,185,129,0.12)",color:"#047857",padding:"15px 26px",borderRadius:T.rp,fontSize:16,fontWeight:700,fontFamily:T.fb,border:"1px solid rgba(16,185,129,0.25)"}},"App Installed"),hint?React.createElement("div",{style:{fontFamily:T.fb,fontSize:12,color:T.dim,maxWidth:440,lineHeight:1.5,textAlign:"center"}},hint):null)}
 return React.createElement("div",{style:{display:"flex",flexDirection:"column",alignItems:"center",gap:10}},React.createElement("button",{onClick:clickInstall,title:"Install LocalTour in Chrome",style:{background:available?T.gold:T.terra,color:"white",padding:"15px 34px",borderRadius:T.rp,fontSize:16,fontWeight:700,fontFamily:T.fb,border:"none",cursor:"pointer",boxShadow:"0 4px 24px rgba(220,38,38,0.18)"}},"Install App"),hint?React.createElement("div",{style:{fontFamily:T.fb,fontSize:12,color:T.dim,maxWidth:460,lineHeight:1.5,textAlign:"center"}},hint):null)}
 
+// WS8 — the campaign collection band: every flagship trail, computed from stats
+// (Principle 1). Sunsets with campaign.json: "America 250 Collection" through
+// window_end, then re-skins to the evergreen "Heritage Trails".
+function Campaign250Band(){
+  const camp=activeCampaign();
+  const trails=(STATS as any).trails||[];
+  if(!trails.length)return null;
+  return(
+<section id="collection" style={{padding:"70px clamp(24px,6vw,80px)",borderTop:"1px solid "+T.border,borderBottom:"1px solid "+T.border,background:T.surface}}>
+  <Reveal>
+  <div style={{maxWidth:1080,margin:"0 auto"}}>
+    <div style={{textAlign:"center",marginBottom:36}}>
+      <span style={{fontFamily:T.fb,fontSize:13,fontWeight:700,color:T.gold,letterSpacing:"0.12em",textTransform:"uppercase"}}>{camp.name} Collection</span>
+      <h2 style={{fontFamily:T.fd,fontSize:"clamp(26px,4vw,42px)",fontWeight:700,color:T.text,marginTop:10}}>{trails.length} trails. <em style={{color:T.gold}}>250 years</em> of neighborhoods.</h2>
+      <p style={{fontFamily:T.fb,fontSize:15,color:T.fog,maxWidth:560,margin:"12px auto 0",lineHeight:1.65}}>Curated, narrated walks through the places that built each city — every stop a real listing, every trail a ready-made itinerary you can share. No paid placement, ever.</p>
+    </div>
+    <div style={{display:"grid",gridTemplateColumns:"repeat(auto-fill,minmax(240px,1fr))",gap:14}}>
+      {trails.map(function(tr: any){return(
+        <a key={tr.slug} href={"/cities/"+tr.slug} style={{display:"block",textDecoration:"none",background:T.card,border:"1px solid "+T.border,borderRadius:14,padding:"18px 20px",transition:"border-color .25s"}}>
+          <div style={{fontFamily:T.fb,fontSize:10,fontWeight:700,color:T.gold,letterSpacing:"0.14em",textTransform:"uppercase",marginBottom:8}}>{tr.city} · {tr.stops} stops</div>
+          <div style={{fontFamily:T.fd,fontSize:17,fontWeight:600,color:T.text,lineHeight:1.25,marginBottom:8}}>{tr.title}</div>
+          <div style={{fontFamily:T.fb,fontSize:12.5,color:T.fog,lineHeight:1.5,display:"-webkit-box",WebkitLineClamp:2,WebkitBoxOrient:"vertical" as any,overflow:"hidden"}}>{tr.hook}</div>
+          <div style={{fontFamily:T.fb,fontSize:12,fontWeight:600,color:T.terra,marginTop:10}}>Walk it →</div>
+        </a>
+      )})}
+    </div>
+  </div>
+  </Reveal>
+</section>);}
+
 function Hero(){const[mx,setMx]=useState(0);const[my,setMy]=useState(0);return(
 <section onMouseMove={e=>{setMx((e.clientX/window.innerWidth-0.5)*15);setMy((e.clientY/window.innerHeight-0.5)*15)}} style={{minHeight:"100vh",display:"flex",alignItems:"center",justifyContent:"center",position:"relative",overflow:"hidden",padding:"100px clamp(24px,6vw,80px) 60px"}}>
   <div style={{position:"absolute",top:"8%",left:"12%",width:500,height:500,borderRadius:"50%",background:"radial-gradient(circle, "+T.glow+" 0%, transparent 70%)",filter:"blur(80px)",opacity:0.5,transform:"translate("+mx*0.5+"px, "+my*0.5+"px)",transition:"transform 0.6s ease-out",pointerEvents:"none"}}/>
@@ -94,6 +125,11 @@ function Hero(){const[mx,setMx]=useState(0);const[my,setMy]=useState(0);return(
     <div style={{display:"inline-flex",alignItems:"center",gap:8,background:T.borderAccent,border:"1px solid "+T.border,borderRadius:T.rp,padding:"8px 20px",marginBottom:28,animation:"fadeUp 0.7s ease 0.1s both"}}><span style={{width:6,height:6,borderRadius:"50%",background:T.terra,boxShadow:"0 0 8px "+T.terra,animation:"pulse 2s ease-in-out infinite"}}/><span style={{fontFamily:T.fb,fontSize:13,fontWeight:600,color:T.terra,letterSpacing:"0.06em",textTransform:"uppercase"}}>City Decision Engine</span></div>
     <h1 style={{fontFamily:T.fd,fontWeight:800,fontSize:"clamp(40px,7vw,76px)",lineHeight:1.08,color:T.text,animation:"fadeUp 0.8s ease 0.2s both"}}>Every city has a <em style={{color:T.terra}}>story</em><br/>We help you <em style={{color:T.gold}}>live it</em></h1>
     <p style={{fontFamily:T.fb,fontSize:"clamp(16px,2vw,19px)",color:T.fog,lineHeight:1.7,maxWidth:560,margin:"24px auto 0",animation:"fadeUp 0.8s ease 0.35s both"}}>Real local intelligence. Not a blog. Not a directory. A decision engine for every city worth visiting.</p>
+    {/* WS8 — the 250 hero moment (sunsets to Heritage Trails via campaign.json) */}
+    <p style={{fontFamily:T.fd,fontStyle:"italic",fontSize:"clamp(14px,1.8vw,17px)",color:T.gold,lineHeight:1.6,maxWidth:560,margin:"18px auto 0",animation:"fadeUp 0.8s ease 0.45s both"}}>
+      <span style={{fontFamily:T.fb,fontStyle:"normal",fontSize:11,fontWeight:700,letterSpacing:"0.14em",textTransform:"uppercase" as const,marginRight:10,color:T.terra}}>{activeCampaign().name}</span>
+      {activeCampaign().tagline}
+    </p>
     <div style={{display:"flex",gap:14,justifyContent:"center",marginTop:40,animation:"fadeUp 0.8s ease 0.5s both",flexWrap:"wrap"}}>
       <a href="#cities" style={{background:T.terra,color:"white",padding:"15px 34px",borderRadius:T.rp,fontSize:16,fontWeight:700,textDecoration:"none",fontFamily:T.fb,boxShadow:"0 4px 24px "+T.glow}}>Explore Cities &darr;</a>
       <InstallButton/><a href="#features" style={{background:"transparent",color:T.text,padding:"15px 34px",borderRadius:T.rp,fontSize:16,fontWeight:600,textDecoration:"none",fontFamily:T.fb,border:"1px solid "+T.border}}>See Features</a>
@@ -395,6 +431,7 @@ React.createElement("div",{className:"lt-landing",style:{background:T.bg,fontFam
   ),
   React.createElement(Hero,null),
   React.createElement(SensesSection,null),
+  React.createElement(Campaign250Band,null),
   React.createElement("section",{id:"cities",style:{padding:"80px clamp(24px,6vw,80px)"}},
     React.createElement(Reveal,null,React.createElement("div",{style:{textAlign:"center",marginBottom:48}},
       React.createElement("span",{style:{fontFamily:T.fb,fontSize:13,fontWeight:700,color:T.terra,letterSpacing:"0.12em",textTransform:"uppercase"}},"Arrive"),

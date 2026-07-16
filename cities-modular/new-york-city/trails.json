@@ -1,1 +1,52 @@
-[]
+[
+  {
+    "id": "the-250-trail-new-york-city",
+    "title": "The 250 Trail: New York City — Main Streets of Arrival",
+    "hook": "A mile and a half, five languages, 160 years of arrival. From a preserved tenement on Orchard Street to hand-ripped noodles born in a Flushing basement stall — eat the main streets where New York keeps becoming America.",
+    "narrative": "Start at 97 Orchard Street. Between 1863 and 1935, some 7,000 people from more than 20 nations lived in that one tenement — now the Tenement Museum — and every block on this trail is what those stairwells opened onto: the main street, where a pushcart became a storefront and a storefront became an institution. Katz's has been hand-carving pastrami since 1888 by its own count. Joel Russ worked his way up from a herring barrel to a Houston Street shop he renamed for his daughters — the first '& Daughters' business in America. On Rivington, penny candy has crowded every shelf on Rivington since 1937. Bend down Doyers Street, where Nom Wah has poured tea since 1920, then take the steps down at 17 Mott, where the Huang family has run Wo Hop since 1938. And the story never stopped: the hand-ripped biang biang noodles on Bayard began as a 200-square-foot stall in a Flushing basement in 2005. Cross Houston and Second Avenue still speaks Ukrainian at Veselka — 'rainbow' — opened by a refugee couple in 1954. Come hungry, order at counters, carry some cash, and let the line at Katz's be part of the meal. End on Delancey with live music. This is the trail the 250th is actually about: nobody's from here, and everybody is.",
+    "neighborhoods": [
+      "Lower East Side",
+      "Chinatown",
+      "East Village / Little Ukraine",
+      "Bowery"
+    ],
+    "stops": [
+      {
+        "biz": "Tenement Museum",
+        "note": "Book a tour of 97 Orchard first — built in 1863, home to some 7,000 people from over 20 nations. Every stop after this is what those families built once they came down the stoop."
+      },
+      {
+        "biz": "Katz's Delicatessen",
+        "note": "Hand-carved pastrami on rye since 1888 by its own count. Take a ticket, tip your cutter, and let the line be part of the meal — this is the sandwich the Lower East Side taught America."
+      },
+      {
+        "biz": "Russ & Daughters",
+        "note": "Joel Russ went from herring barrel to Houston Street storefront, then put his daughters on the sign — the first known '& Daughters' business in the country. Lox and a bagel to go."
+      },
+      {
+        "biz": "Economy Candy",
+        "note": "Floor-to-ceiling penny candy on Rivington since 1937 — generations in, the whole store still belongs to the sweets."
+      },
+      {
+        "biz": "Nom Wah Tea Parlor",
+        "note": "Anchoring the bend of Doyers Street since 1920 — the oldest continuously running restaurant in Manhattan's Chinatown. Get the original egg roll and a pot of tea."
+      },
+      {
+        "biz": "Wo Hop",
+        "note": "Down the steps at 17 Mott, the Huang family has served Cantonese-American classics since 1938 — a James Beard America's Classic. Go late; the basement doesn't rush anyone."
+      },
+      {
+        "biz": "Xi'an Famous Foods",
+        "note": "Proof the arrival story never stopped: David Shi's hand-ripped biang biang noodles started as a 200-square-foot Flushing basement stall in 2005. Order the spicy cumin lamb."
+      },
+      {
+        "biz": "Veselka",
+        "note": "Little Ukraine's living room since 1954, opened by refugee Wolodymyr Darmochwal and named for the Ukrainian word for rainbow. Borscht and pierogi, day or night."
+      },
+      {
+        "biz": "Bowery Ballroom",
+        "note": "Finish with a show at 6 Delancey — a 1929 shoe palace built weeks before the crash, reborn as a music hall in 1998 and voted America's best club in a Rolling Stone poll. The main street still throws a party."
+      }
+    ]
+  }
+]

@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "the-250-trail-houston",
+    "title": "The 250 Trail: Houston — The City That Eats in Every Language",
+    "hook": "The most diverse big city in America wrote its menu in every language it speaks. Drive the corridors where immigration did the cooking — from the Navigation Boulevard taqueria that taught America to crave tacos al carbon to Viet-Cajun crawfish on Bellaire.",
+    "narrative": "Start with the number the census keeps confirming: greater Houston is the most racially and ethnically diverse of America's largest metro areas, with more than 145 languages spoken across the region. Then go taste why. In 1973, on Navigation Boulevard in the East End, a widow named Ninfa Laurenzo started grilling tacos al carbon in front of her tortilla factory and taught the whole country to say fajita. Two years later Saigon fell, and Houston became one of the nation's great Vietnamese resettlement cities — home today to the largest Vietnamese population outside California — whose cooks would eventually toss Gulf crawfish in garlic butter and lemongrass and hand Texas a brand-new craving. On Hillcroft, the city put it in writing in 2010, raising street signs that read Mahatma Gandhi District over blocks of biryani, chaat, and gold jewelry. And down Bellaire Boulevard, Asiatown runs for miles of strip-mall brilliance, from Sichuan chili oil to Malaysian roti. This trail is a drive, not a stroll — Houston is honest about that — so bring a car, a big appetite, and people willing to split everything. Order what the next table is having. That's how this menu got written in the first place.",
+    "neighborhoods": [
+      "East End / Navigation Boulevard",
+      "EaDo",
+      "Montrose",
+      "Mahatma Gandhi District",
+      "Asiatown / Bellaire Boulevard"
+    ],
+    "stops": [
+      {
+        "biz": "Ninfa's on Navigation",
+        "note": "Begin where the fajita went national — the spot where Mama Ninfa Laurenzo started serving tacos al carbon in front of her tortilla factory in 1973. Order them and eat the origin story."
+      },
+      {
+        "biz": "El Tiempo Cantina",
+        "note": "The Laurenzo family's next chapter, a block up the same Navigation strip. The fajitas arrive still roaring — proof the East End lineage never left the street."
+      },
+      {
+        "biz": "Huynh Restaurant",
+        "note": "A family-run, cash-only Vietnamese room in EaDo. After 1975, Houston became one of America's great Vietnamese resettlement cities; counters like this one are where that history gets served daily."
+      },
+      {
+        "biz": "Hugo's",
+        "note": "Hugo Ortega left Mexico City at seventeen, washed dishes in Houston, and in 2017 won the James Beard Award for Best Chef: Southwest. His Oaxacan mole in Montrose is the arrival story, plated."
+      },
+      {
+        "biz": "Tatemó",
+        "note": "Emmanuel Chavez nixtamalizes heirloom Mexican corn into a tasting menu that earned a star in Texas's first-ever Michelin Guide in 2024. The tortilla, taken as seriously as it has ever been taken."
+      },
+      {
+        "biz": "Himalaya",
+        "note": "Kaiser Lashkari came from Karachi and opened this Hillcroft institution in 2004 — the beating heart of the Mahatma Gandhi District. Hunter's beef, garlic naan, and a menu shaped by everything Houston."
+      },
+      {
+        "biz": "Mala Sichuan Bistro",
+        "note": "Cori Xiong and Heng Chen opened this Bellaire Boulevard room in 2011 and taught the city the Sichuan peppercorn's numbing buzz. Asiatown's gold standard — get the boiled fish in chili oil."
+      },
+      {
+        "biz": "Don Café",
+        "note": "The everyday engine of Bellaire Boulevard between destination meals: cà phê sữa đá poured thick and sweet, banh mi wrapped to go. No frills, all corridor."
+      },
+      {
+        "biz": "Crawfish & Noodles",
+        "note": "Finish with the style Houston's Vietnamese cooks invented. Trong Nguyen has been tossing Gulf crawfish in garlic butter and lemongrass here since 2008, riding it to a James Beard finalist nod — the whole trail in one messy tray."
+      }
+    ]
+  }
+]

@@ -13,12 +13,13 @@ export function PlanView({ prefs, itinerary, cityName, onRemix }) {
 
   function copyLink() {
     try {
-      navigator.clipboard.writeText(window.location.href);
-      setCopied(true);
-      setTimeout(() => setCopied(false), 2500);
+      // writeText rejects ASYNC on permission denial — swallow the promise too
+      navigator.clipboard?.writeText(window.location.href).catch(() => {});
     } catch {
-      /* clipboard blocked — silent, non-fatal */
+      /* no clipboard API — silent, non-fatal */
     }
+    setCopied(true);
+    setTimeout(() => setCopied(false), 2500);
   }
 
   return (

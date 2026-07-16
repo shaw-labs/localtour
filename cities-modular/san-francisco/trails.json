@@ -1,1 +1,48 @@
-[]
+[
+  {
+    "id": "the-250-trail-san-francisco",
+    "title": "The 250 Trail: San Francisco — Dragon Gate to the Mission",
+    "hook": "From dim sum under pagoda roofs raised in defiance to a midnight super burrito wrapped in foil — walk three miles and 250 years through the two San Francisco neighborhoods that survived everything by feeding everyone.",
+    "narrative": "Grant Avenue and 24th Street sit three miles apart and tell one American story. Chinatown is the oldest in North America, and it stands where it stands on purpose: after the 1906 earthquake and fire leveled it, city leaders proposed rebuilding the neighborhood far out at Hunters Point. Merchants led by Look Tin Eli rebuilt on the spot instead, hiring architects to raise the pagoda roofs that made the district impossible to ignore — and impossible to move. Across town, the Mission wears the city's oldest name: Mission Dolores was founded in June 1776, five days before the Declaration of Independence was adopted, and its church is still the oldest intact building in San Francisco. The neighborhood's modern heart beats in Spanish — the oversized Mission-style burrito was born here in the 1960s (the taquerias still argue over who wrapped the first one), and Isabel Caudillo's Mexico City guisados traveled from her home kitchen to the Michelin Guide without ever leaving the neighborhood. This trail walks both worlds in a day: dim sum and a Waverly Place banquet hall in the morning, blues on upper Grant, then south for guisados, cumbia, and a foil-wrapped super at midnight. Two neighborhoods, two languages, one instinct — when the ground shakes or the times turn hard, set more tables. Come hungry, carry small bills for the counters, and eat in both languages.",
+    "neighborhoods": [
+      "Chinatown",
+      "North Beach / Upper Grant Avenue",
+      "Mission District",
+      "Calle 24 / 24th Street Corridor"
+    ],
+    "stops": [
+      {
+        "biz": "Chinatown",
+        "note": "Start under the Dragon Gate and walk Grant Avenue, then cut over to Stockton Street where the neighborhood actually shops. Every pagoda roof here is a deliberate act — the look of a community that rebuilt itself in place after 1906."
+      },
+      {
+        "biz": "Mister Jiu's",
+        "note": "Brandon Jew cooks modern Chinese in a century-old Waverly Place banquet hall — a Michelin star and a 2022 James Beard Best Chef: California win in a room that has hosted Chinatown banquets for generations."
+      },
+      {
+        "biz": "The Saloon",
+        "note": "Pouring since 1861 and generally counted the city's oldest bar, with live blues every single night. It sits on upper Grant where Chinatown's spine runs into North Beach — the hinge between the trail's two halves."
+      },
+      {
+        "biz": "La Taqueria",
+        "note": "Miguel Jara has run this Mission Street counter since 1973 — a James Beard America's Classic with no rice in the burrito and no interest in changing. This is the standard the rest of the city argues against."
+      },
+      {
+        "biz": "El Buen Comer",
+        "note": "Isabel Caudillo cooked Mexico City guisados out of her Mission District home, built the business through the La Cocina kitchen incubator, and now serves them with handmade tortillas on Mission Street. The warmest table on the trail."
+      },
+      {
+        "biz": "Dolores Park",
+        "note": "The neighborhood exhale — skyline views and a paleta from the cart. The name traces to Mission Dolores just up the street, founded in 1776; this corner of town has been setting tables since before the republic."
+      },
+      {
+        "biz": "Make Out Room",
+        "note": "Disco balls, live bands, and cumbia and reggaeton dance nights in an enduring Mission institution — proof the corridor's soundtrack is as alive as its kitchens."
+      },
+      {
+        "biz": "El Farolito",
+        "note": "The closer. Order the super burrito at the late-night counter like generations before you — aluminum foil, two hands, open past midnight."
+      }
+    ]
+  }
+]

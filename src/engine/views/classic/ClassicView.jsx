@@ -14,6 +14,7 @@ import { R_Modes, R_DirectorySection } from "./Directory";
 import { R_Deals, R_WallMosaic, R_PlannerCTA, R_Transit, R_SideTrips, R_Footer } from "./Sections";
 import { R_Concierge } from "./Concierge";
 import { R_TripPlanner } from "./TripPlanner";
+import { TrailRail } from "../../TrailRail";
 
 export default function ClassicView({activeMode, setActiveMode, conciergeOpen, setConciergeOpen, plannerOpen, setPlannerOpen, isDark, setIsDark}) {
   const { CITY, sortedCats, grouped, breakImgsFlat } = useCityModel();
@@ -77,6 +78,8 @@ export default function ClassicView({activeMode, setActiveMode, conciergeOpen, s
         <R_Dispersal />
         {breakImgsR[0] && <R_CinematicBreak image={breakImgsR[0]} caption={CITY.tagline} />}
         <R_Reel />
+        {/* WS8 — America 250 campaign rail (same shared component as feed) */}
+        <TrailRail />
         <R_Modes activeMode={activeMode} setActiveMode={setActiveMode} />
         {sortedCats.map((cat, i) => {
           // Insert a break between every 2 directory sections, alternating styles

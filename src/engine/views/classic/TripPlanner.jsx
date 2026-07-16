@@ -16,7 +16,8 @@ export function R_TripPlanner({onClose}) {
   // share via the beacon. Does not mutate the itinerary or touch generate().
   function share() {
     const shareUrl = window.location.pathname + planParam(prefs, itinerary);
-    try { navigator.clipboard.writeText(shareUrl); } catch { /* clipboard blocked — non-fatal */ }
+    // writeText rejects ASYNC on permission denial — swallow the promise too
+    try { navigator.clipboard?.writeText(shareUrl).catch(() => {}); } catch { /* no clipboard API */ }
     track.shareCreated(slug, "classic");
     setShared(true);
     setTimeout(() => setShared(false), 2500);

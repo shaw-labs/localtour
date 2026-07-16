@@ -1,1 +1,53 @@
-[]
+[
+  {
+    "id": "the-250-trail-chicago",
+    "title": "The 250 Trail: Chicago — The Neighborhood Mosaic",
+    "hook": "One city, 77 official pieces, each built by somebody who just got here. Eat the mosaic — Polish sausage to carnitas, dim sum to glögg — on the streets where the blues plugged in.",
+    "narrative": "Chicago keeps its books in neighborhoods — 77 official community areas, mapped in the 1920s and barely changed since, each one a ledger of who arrived and what they built. This trail reads a few pages. Start at Maxwell Street, where a Macedonian immigrant named Jimmy Stefanovic bought his aunt's hot dog stand in 1939 and — by most tellings — invented the Maxwell Street Polish in 1943; the same market where bluesmen up from the Delta plugged into borrowed extension cords so the guitar could carry over the haggling. That corner is the whole city in miniature: everybody's food, everybody's music, volume up. From there, Pilsen — named by Czech immigrants for Plzeň, remade by Mexican families in the 1960s, home to a free-admission museum of Mexican art founded in 1982 by educators who pooled $900. Then Chinatown, planted at Cermak and Wentworth in 1912, where the On Leong Merchants Association raised its own building and made a neighborhood. Then Bronzeville, the Black Metropolis built by the Great Migration — more than 100,000 Black Chicagoans by 1920, and the sound they carried north still plays live every night. Finish where a Swedish tavern has poured since 1934 up in Andersonville — after a Ukrainian Village tasting counter that carried Filipino cooking to a Michelin star. No single stop is the point here. The mosaic is. Come hungry; it's a long, wide city.",
+    "neighborhoods": [
+      "Maxwell Street / Near West Side",
+      "Pilsen",
+      "Chinatown",
+      "Bronzeville",
+      "Andersonville"
+    ],
+    "stops": [
+      {
+        "biz": "Jim's Original",
+        "note": "The mosaic's front door. Jimmy Stefanovic, a Macedonian immigrant, took over this Maxwell Street stand in 1939 and, by most tellings, invented the Maxwell Street Polish in 1943 — order it with grilled onions on the block where the blues went electric."
+      },
+      {
+        "biz": "National Museum of Mexican Art",
+        "note": "Pilsen was named by Czechs and remade by Mexican families, who built this museum from a $900 start in 1982 into the only Latino museum accredited by the American Alliance of Museums. Free, always."
+      },
+      {
+        "biz": "Carnitas Don Pedro",
+        "note": "The everyday backbone of 18th Street: slow-cooked carnitas by the pound, tortillas and salsa on the side. This is the Pilsen the museum celebrates, still open by 7am."
+      },
+      {
+        "biz": "MingHin Cuisine",
+        "note": "Dim sum carts rolling through the neighborhood Chinese merchants built for themselves after moving south to Cermak and Wentworth in 1912. Come early on weekends — the whole city shows up."
+      },
+      {
+        "biz": "Pearl's Place",
+        "note": "Bronzeville, where the Great Migration set the table. White tablecloths, fried chicken and catfish, and a Sunday brunch that has been a community institution for decades."
+      },
+      {
+        "biz": "Buddy Guy's Legends",
+        "note": "Buddy Guy arrived from Louisiana in September 1957, went three days hungry, and refused to pawn his guitar. His South Loop club keeps the migration's sound live on stage — catch his January residency if you can."
+      },
+      {
+        "biz": "Kasama",
+        "note": "The mosaic's newest tile: Tim Flores and Genie Kwon's Ukrainian Village storefront became the world's first Michelin-starred Filipino restaurant. Kasama means 'together' in Tagalog — the trail's thesis on a plate. Daytime bakery counter, no reservation needed."
+      },
+      {
+        "biz": "Simon's Tavern",
+        "note": "Andersonville's Swedish anchor — Simon Lundberg went from Prohibition speakeasy to licensed tavern in 1934, and the glögg still simmers every winter under the original woodwork."
+      },
+      {
+        "biz": "Ghareeb Nawaz",
+        "note": "End on Devon Avenue, the Pakistani and Indian main street that proves the mosaic never stops adding tiles. Green chili chicken and biryani, absurdly cheap, open until 4am."
+      }
+    ]
+  }
+]

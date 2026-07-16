@@ -188,5 +188,112 @@
         "/cities/smoky-mountains/images/wall-market-square.jpg"
       ]
     }
+  ],
+  "trails": [
+    {
+      "slug": "austin",
+      "city": "Austin",
+      "title": "The 250 Trail: Austin — East Side Standards",
+      "hook": "Walk the East 11th and 12th spine where Black and Mexican-American Austin built the warmth the whole city later called 'weird' — from a 1945 Chitlin' Circuit juke joint to the brisket and masa masters who planted on the same blocks.",
+      "stops": 7
+    },
+    {
+      "slug": "chicago",
+      "city": "Chicago",
+      "title": "The 250 Trail: Chicago — The Neighborhood Mosaic",
+      "hook": "One city, 77 official pieces, each built by somebody who just got here. Eat the mosaic — Polish sausage to carnitas, dim sum to glögg — on the streets where the blues plugged in.",
+      "stops": 9
+    },
+    {
+      "slug": "denver",
+      "city": "Denver",
+      "title": "The 250 Trail: Denver",
+      "hook": "Welton Street was the Harlem of the West. Follow the music from Five Points' jazz corridor into RiNo's mural economy — one century, one improvised neighborhood.",
+      "stops": 8
+    },
+    {
+      "slug": "houston",
+      "city": "Houston",
+      "title": "The 250 Trail: Houston — The City That Eats in Every Language",
+      "hook": "The most diverse big city in America wrote its menu in every language it speaks. Drive the corridors where immigration did the cooking — from the Navigation Boulevard taqueria that taught America to crave tacos al carbon to Viet-Cajun crawfish on Bellaire.",
+      "stops": 9
+    },
+    {
+      "slug": "kansas-city",
+      "city": "Kansas City",
+      "title": "The 250 Trail: Kansas City",
+      "hook": "Follow the smoke from the jazz clubs of 18th & Vine to the pits that same neighborhood built — one long, low-and-slow lineage of Black Kansas City genius.",
+      "stops": 8
+    },
+    {
+      "slug": "los-angeles",
+      "city": "Los Angeles",
+      "title": "The 250 Trail: Los Angeles",
+      "hook": "Follow the tortilla from the birthplace of Los Angeles across the river to Boyle Heights and up old Route 66 — the east side where mariachis, murals, and family kitchens keep the city's real memory.",
+      "stops": 7
+    },
+    {
+      "slug": "miami",
+      "city": "Miami",
+      "title": "The 250 Trail: Miami — Two Exile Capitals",
+      "hook": "Two capitals-in-exile, a few miles apart — cafecito windows and domino tables on Calle Ocho, griot and kompa up Northeast Second. Walk the axis where two islands rebuilt their homelands and remade an American city.",
+      "stops": 9
+    },
+    {
+      "slug": "nashville",
+      "city": "Nashville",
+      "title": "The 250 Trail: Nashville",
+      "hook": "Before Music Row had a sound, Jefferson Street had the song. Follow the R&B corridor and the writers' rooms as one long verse.",
+      "stops": 8
+    },
+    {
+      "slug": "new-orleans",
+      "city": "New Orleans",
+      "title": "The 250 Trail: New Orleans",
+      "hook": "Three hundred years of French, Spanish, African, Caribbean, and Acadian hands in the same pot. Walk from Congo Square's drum circles to the po-boy counters and the families still stirring the roux.",
+      "stops": 9
+    },
+    {
+      "slug": "new-york-city",
+      "city": "New York City",
+      "title": "The 250 Trail: New York City — Main Streets of Arrival",
+      "hook": "A mile and a half, five languages, 160 years of arrival. From a preserved tenement on Orchard Street to hand-ripped noodles born in a Flushing basement stall — eat the main streets where New York keeps becoming America.",
+      "stops": 9
+    },
+    {
+      "slug": "phoenix",
+      "city": "Phoenix",
+      "title": "The 250 Trail: Phoenix",
+      "hook": "The street that answered a law with a paintbrush — then fed a whole food revolution. Walk Calle 16 and eat the Mexican-American Phoenix that painted its own name on the wall.",
+      "stops": 8
+    },
+    {
+      "slug": "portland",
+      "city": "Portland",
+      "title": "The 250 Trail: Portland — Pods & Portals",
+      "hook": "From the hand-built gates of Old Town Chinatown to the griddles immigrants turned into an institution: Portland's story told through its doorways and its food carts.",
+      "stops": 8
+    },
+    {
+      "slug": "salt-lake-city",
+      "city": "Salt Lake City",
+      "title": "The 250 Trail: Salt Lake City",
+      "hook": "From a pioneer's-eye overlook to State Street's global kitchens — the Crossroads of the West doing what it's always done: taking in the world and feeding it well.",
+      "stops": 8
+    },
+    {
+      "slug": "san-francisco",
+      "city": "San Francisco",
+      "title": "The 250 Trail: San Francisco — Dragon Gate to the Mission",
+      "hook": "From dim sum under pagoda roofs raised in defiance to a midnight super burrito wrapped in foil — walk three miles and 250 years through the two San Francisco neighborhoods that survived everything by feeding everyone.",
+      "stops": 8
+    },
+    {
+      "slug": "smoky-mountains",
+      "city": "Smoky Mountains",
+      "title": "The 250 Trail: Smoky Mountains — Handmade in the Hollers",
+      "hook": "An eight-mile loop of carvers and broom-tiers, a gristmill grinding since 1830, and bluegrass from a rocking-chair porch — this is the Smokies that made things, and made music, long before it made vacations.",
+      "stops": 8
+    }
   ]
 }

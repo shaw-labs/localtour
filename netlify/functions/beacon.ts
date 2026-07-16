@@ -26,6 +26,9 @@ const ALLOWED_EVENTS = new Set<string>([
   "planner_generated",
   "share_created",
   "portal_slotgenie_click", // WS6 — chosen tap-through from the Vegas portal
+  "trail_view", // WS8 250 Trail opened
+  "trail_stop_click", // WS8 trail stop tapped
+  "trail_share", // WS8 trail share link created
 ]);
 
 // view is a closed set per the canonical schema.

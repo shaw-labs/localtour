@@ -24,7 +24,10 @@ export type BeaconEventName =
   | "coupon_redeem"
   | "planner_generated"
   | "share_created"
-  | "portal_slotgenie_click"; // WS6 Vegas portal → SlotGenie handoff
+  | "portal_slotgenie_click" // WS6 Vegas portal → SlotGenie handoff
+  | "trail_view" // WS8 250 Trail opened
+  | "trail_stop_click" // WS8 trail stop tapped (biz-scoped)
+  | "trail_share"; // WS8 trail share link created
 
 export type ViewName = "feed" | "classic";
 
@@ -130,4 +133,7 @@ export const track = {
   couponRedeem: (city: string, biz: string, view?: ViewName) => emit("coupon_redeem", city, { biz, view }),
   plannerGenerated: (city: string, view?: ViewName) => emit("planner_generated", city, { view }),
   shareCreated: (city: string, view?: ViewName) => emit("share_created", city, { view }),
+  trailView: (city: string, view?: ViewName) => emit("trail_view", city, { view }),
+  trailStopClick: (city: string, biz: string, view?: ViewName) => emit("trail_stop_click", city, { biz, view }),
+  trailShare: (city: string, view?: ViewName) => emit("trail_share", city, { view }),
 };
