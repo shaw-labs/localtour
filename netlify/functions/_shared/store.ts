@@ -286,6 +286,11 @@ export interface WallPost {
   ts: number;
   imgKey?: string; // img/<city>/<id> when a photo was uploaded
   contentType?: string;
+  /** moderation state: "live" = public; "pending" = held for admin approval.
+   *  Absent on pre-moderation posts → treated as live (grandfathered). */
+  status?: "live" | "pending";
+  /** why the moderator held it (Claude's category/reason, or the fail-safe) */
+  mod?: { by: "claude" | "failsafe"; category?: string; reason?: string };
 }
 
 function wallStore() {
@@ -319,7 +324,7 @@ export async function putWallPost(city: string, post: WallPost): Promise<void> {
   await wallStore().set(`post/${sanitizeKeySegment(city)}/${sanitizeKeySegment(post.id)}`, JSON.stringify(post));
 }
 
-export async function listWallPosts(city: string): Promise<WallPost[]> {
+async function listAllWallPosts(city: string): Promise<WallPost[]> {
   const store = wallStore();
   const out: WallPost[] = [];
   try {
@@ -336,6 +341,32 @@ export async function listWallPosts(city: string): Promise<WallPost[]> {
     /* store unavailable */
   }
   return out.sort((a, b) => b.ts - a.ts); // newest first
+}
+
+/** Public feed: live posts only (absent status = pre-moderation post = live). */
+export async function listWallPosts(city: string): Promise<WallPost[]> {
+  return (await listAllWallPosts(city)).filter((p) => (p.status ?? "live") === "live");
+}
+
+/** Admin queue: posts held by the moderator (Claude flag or fail-safe). */
+export async function listPendingWallPosts(city: string): Promise<WallPost[]> {
+  return (await listAllWallPosts(city)).filter((p) => p.status === "pending");
+}
+
+/** Admin approval: flip a pending post live. Returns false if not found. */
+export async function approveWallPost(city: string, id: string): Promise<boolean> {
+  const store = wallStore();
+  const key = `post/${sanitizeKeySegment(city)}/${sanitizeKeySegment(id)}`;
+  try {
+    const raw = await store.get(key);
+    if (!raw) return false;
+    const post = JSON.parse(raw) as WallPost;
+    post.status = "live";
+    await store.set(key, JSON.stringify(post));
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 /** All leads for a form name (founder export). */

@@ -10,6 +10,7 @@
 // caps. No PII beyond what the visitor chooses to type as their name.
 import type { Context } from "@netlify/functions";
 import { listWallPosts, putWallImage, putWallPost, wallId, type WallPost } from "./_shared/store.js";
+import { moderatePost } from "./_shared/moderate.js";
 
 export const config = { path: "/api/wall" };
 
@@ -82,12 +83,14 @@ export default async (req: Request, _context: Context): Promise<Response> => {
   const id = wallId(ts);
   const post: WallPost = { id, sig, caption, ts };
 
+  let imgB64: string | undefined;
   if (img) {
     const m = img.match(/^data:image\/(?:jpeg|png|webp);base64,([A-Za-z0-9+/=]+)$/);
     if (!m) return json(400, { error: "bad_image" });
+    imgB64 = m[1] as string;
     let bytes: Uint8Array;
     try {
-      const bin = atob(m[1] as string);
+      const bin = atob(imgB64);
       bytes = new Uint8Array(bin.length);
       for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
     } catch {
@@ -104,13 +107,33 @@ export default async (req: Request, _context: Context): Promise<Response> => {
     }
   }
 
+  // ── Claude-vision moderation gate ─────────────────────────────────────────
+  // approve → live instantly. flag → held for admin review. null (no key /
+  // timeout / API error) → FAIL CLOSED: held for admin. Unmoderated content is
+  // never auto-published; the photo is stored either way so the admin can look.
+  const verdict = await moderatePost(caption, imgB64, post.contentType);
+  if (verdict?.verdict === "approve") {
+    post.status = "live";
+  } else {
+    post.status = "pending";
+    post.mod = verdict
+      ? { by: "claude", category: verdict.category, reason: verdict.reason }
+      : { by: "failsafe", reason: "moderator unavailable — held for admin review" };
+  }
+
   try {
     await putWallPost(city, post);
   } catch {
     return json(500, { error: "store_error" });
   }
+
+  if (post.status === "pending") {
+    // no post payload back — it isn't public; tell the client it's in review
+    return json(200, { ok: true, status: "pending" });
+  }
   return json(200, {
     ok: true,
+    status: "live",
     post: { id, sig, ts, caption, img: post.imgKey ? `/api/wall-img?k=${encodeURIComponent(post.imgKey)}` : "" },
   });
 };

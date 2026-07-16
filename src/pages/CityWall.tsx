@@ -151,6 +151,7 @@ export default function CityWall() {
   const [draftImg, setDraftImg] = useState<string | null>(null); // downscaled data URL
   const [posting, setPosting] = useState(false);
   const [postErr, setPostErr] = useState("");
+  const [reviewMsg, setReviewMsg] = useState(""); // moderation held the post
 
   useEffect(() => {
     document.body.style.background = T.bg;
@@ -188,7 +189,7 @@ export default function CityWall() {
 
   const submit = async () => {
     if (posting || (!draft.trim() && !draftImg)) return; // a moment needs words or a photo
-    setPosting(true); setPostErr("");
+    setPosting(true); setPostErr(""); setReviewMsg("");
     try {
       const res = await fetch("/api/wall", {
         method: "POST",
@@ -197,6 +198,12 @@ export default function CityWall() {
       });
       const data = await res.json().catch(() => null);
       if (!res.ok || !data?.ok) throw new Error(data?.error || "post_failed");
+      if (data.status === "pending") {
+        // moderation held it (flag or fail-safe) — honest, in-voice
+        setDraft(""); setDraftName(""); setDraftImg(null); setComposeOpen(false);
+        setReviewMsg("Your moment is in review — it'll appear on the wall once it clears, usually within a day.");
+        return;
+      }
       const p = data.post as { id: string; sig: string; ts: number; caption: string; img: string };
       setPosts((cur) => [{ id: p.id, sig: p.sig, time: "Just now", caption: p.caption, likes: 0, img: p.img, album: "Photos", comments: [] }, ...(cur ?? [])]);
       setDraft(""); setDraftName(""); setDraftImg(null); setComposeOpen(false);
@@ -223,6 +230,11 @@ export default function CityWall() {
         <h1 style={{ fontFamily: T.fd, fontSize: "clamp(30px,7vw,44px)", fontWeight: 700, lineHeight: 1, margin: 0 }}>{cityName} <span style={{ color: T.terra }}>Wall</span></h1>
         <p style={{ color: T.fog, fontSize: 14, lineHeight: 1.6, marginTop: 8 }}>Real photos from real visitors. No influencer staging — just moments.</p>
         <button onClick={() => setComposeOpen((v) => !v)} style={{ marginTop: 16, width: "100%", padding: "14px", borderRadius: 14, background: T.terra, color: "#fff", fontSize: 15, fontWeight: 700, fontFamily: T.fb, border: "none", cursor: "pointer", boxShadow: `0 4px 16px ${T.glow}` }}>📷 Share a moment</button>
+        {reviewMsg && (
+          <div role="status" style={{ marginTop: 10, padding: "12px 14px", borderRadius: 12, background: "rgba(184,134,11,.08)", border: `1px solid rgba(184,134,11,.3)`, fontFamily: T.fb, fontSize: 13.5, color: T.gold, lineHeight: 1.5 }}>
+            ✓ {reviewMsg}
+          </div>
+        )}
         {composeOpen && (
           <div style={{ marginTop: 12, background: T.card, border: `1px solid ${T.border}`, borderRadius: 16, padding: 16, display: "flex", flexDirection: "column", gap: 10 }}>
             <input value={draftName} onChange={(e) => setDraftName(e.target.value)} placeholder="Your name (optional)" style={{ background: T.slate, border: `1px solid ${T.border}`, borderRadius: 12, padding: "10px 14px", fontFamily: T.fb, fontSize: 14, color: T.text, outline: "none" }} />

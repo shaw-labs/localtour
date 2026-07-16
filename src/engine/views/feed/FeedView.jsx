@@ -29,7 +29,7 @@ import {
   FeedTransitSection,
   FeedFooter,
 } from "./sections";
-import { FeedConciergeModal, FeedConciergeFAB } from "./concierge";
+import { FeedConciergeModal } from "./concierge";
 import { TrailRail } from "../../TrailRail";
 
 export default function FeedView({activeMode,setActiveMode,conciergeOpen,setConciergeOpen}){
@@ -97,7 +97,6 @@ export default function FeedView({activeMode,setActiveMode,conciergeOpen,setConc
       {(SIDE_TRIPS||[]).map(t=><FeedSideTripCard key={t.name} trip={t}/>)}
       <FeedFooter/>
     </div>
-    <FeedConciergeFAB onClick={()=>setConciergeOpen(true)}/>
     <FeedConciergeModal open={conciergeOpen} onClose={()=>setConciergeOpen(false)}/>
   </div>);
 }
