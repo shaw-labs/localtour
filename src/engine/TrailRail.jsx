@@ -3,6 +3,7 @@ import { useCityModel } from "./cityModel";
 import { track } from "./beacon";
 import { planParam } from "./planShare";
 import { activeCampaign } from "./campaign";
+import { mapsHref } from "./maps";
 
 // WS8 — the America 250 layer ("Like a Local"). One component mounted by BOTH
 // views (Principle 4 parity by construction): a campaign rail on the city page
@@ -53,7 +54,16 @@ function TrailStop({ t, i, stop, biz, slug, view }) {
           <p style={{ fontFamily: t.fb, fontSize: 13.5, color: t.mid, lineHeight: 1.55, margin: "6px 0 0" }}>{stop.note}</p>
           {open && biz && (
             <div style={{ marginTop: 10, fontFamily: t.fb, fontSize: 12.5, color: t.dim, display: "flex", flexDirection: "column", gap: 4 }}>
-              {biz.address && <span>📍 {biz.address}</span>}
+              {biz.address && (
+                <a
+                  href={mapsHref(stop.biz, biz.address)}
+                  target="_blank"
+                  rel="noopener"
+                  onClick={(e) => { e.stopPropagation(); track.outboundClick(slug, stop.biz, view); }}
+                  style={{ color: t.gold, textDecoration: "none" }}
+                  title="Open in your maps app"
+                >📍 {biz.address} →</a>
+              )}
               {biz.must_try && <span>Try: {biz.must_try}</span>}
               {(biz.rating || biz.price) && <span>{biz.rating ? `★ ${biz.rating}` : ""}{biz.rating && biz.price ? " · " : ""}{biz.price || ""}</span>}
             </div>

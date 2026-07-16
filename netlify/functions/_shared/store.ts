@@ -271,6 +271,73 @@ export async function putLead(l: Lead): Promise<void> {
   await store.set(`${form}/${date}/${l.ts}-${rand6()}`, JSON.stringify(l));
 }
 
+// ---------------------------------------------------------------------------
+// Community wall — visitor photo posts ("Share a moment"). Images + post
+// records live in the lt-wall store; posts are public once stored (founder
+// moderates with scripts/moderate-wall.mjs). Keys:
+//   img/<city>/<ts>-<rand>      binary image (jpeg/png/webp)
+//   post/<city>/<ts>-<rand>     JSON WallPost
+// ---------------------------------------------------------------------------
+
+export interface WallPost {
+  id: string; // the post key suffix (<ts>-<rand>)
+  sig: string; // display name ("" = anonymous Visitor)
+  caption: string;
+  ts: number;
+  imgKey?: string; // img/<city>/<id> when a photo was uploaded
+  contentType?: string;
+}
+
+function wallStore() {
+  return getStore({ name: "lt-wall", consistency: "strong" });
+}
+
+export function wallId(ts: number): string {
+  return `${ts}-${rand6()}`;
+}
+
+export async function putWallImage(city: string, id: string, bytes: ArrayBuffer, contentType: string): Promise<string> {
+  const key = `img/${sanitizeKeySegment(city)}/${sanitizeKeySegment(id)}`;
+  await wallStore().set(key, bytes, { metadata: { contentType } });
+  return key;
+}
+
+export async function getWallImage(key: string): Promise<{ bytes: ArrayBuffer; contentType: string } | null> {
+  // key must stay within the img/ namespace (no traversal into post records)
+  if (!/^img\/[a-z0-9-]+\/[a-z0-9-]+$/.test(key)) return null;
+  try {
+    const res = await wallStore().getWithMetadata(key, { type: "arrayBuffer" });
+    if (!res || !res.data) return null;
+    const ct = (res.metadata as { contentType?: string } | undefined)?.contentType ?? "image/jpeg";
+    return { bytes: res.data as ArrayBuffer, contentType: ct };
+  } catch {
+    return null;
+  }
+}
+
+export async function putWallPost(city: string, post: WallPost): Promise<void> {
+  await wallStore().set(`post/${sanitizeKeySegment(city)}/${sanitizeKeySegment(post.id)}`, JSON.stringify(post));
+}
+
+export async function listWallPosts(city: string): Promise<WallPost[]> {
+  const store = wallStore();
+  const out: WallPost[] = [];
+  try {
+    const listed = await store.list({ prefix: `post/${sanitizeKeySegment(city)}/` });
+    for (const blob of listed.blobs) {
+      try {
+        const raw = await store.get(blob.key);
+        if (raw) out.push(JSON.parse(raw) as WallPost);
+      } catch {
+        /* skip corrupt */
+      }
+    }
+  } catch {
+    /* store unavailable */
+  }
+  return out.sort((a, b) => b.ts - a.ts); // newest first
+}
+
 /** All leads for a form name (founder export). */
 export async function listLeads(form: string): Promise<Lead[]> {
   const store = leadsStore();

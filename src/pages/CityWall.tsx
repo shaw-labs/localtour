@@ -15,7 +15,7 @@ const T = {
 };
 
 interface Comment { sig: string; text: string }
-interface Post { id: number; sig: string; time: string; caption: string; likes: number; img: string; album?: string; comments: Comment[] }
+interface Post { id: number | string; sig: string; time: string; caption: string; likes: number; img: string; album?: string; comments: Comment[] }
 
 const AV_COLORS = ["#dc2626", "#b8860b", "#0c1b2a", "#2d6a4f", "#6b2d5c", "#1e4d6b"];
 function Avatar({ name, size = 40 }: { name: string; size?: number }) {
@@ -27,6 +27,11 @@ function Avatar({ name, size = 40 }: { name: string; size?: number }) {
 }
 
 function WallImg({ src, alt }: { src: string; alt: string }) {
+  // Visitor uploads are served by the wall function (no build-time variants) —
+  // render them as a plain <img>. Curated photos keep the <picture> variants.
+  if (src.startsWith("/api/") || src.startsWith("data:")) {
+    return <img src={src} alt={alt} loading="lazy" style={{ width: "100%", display: "block", maxHeight: 720, objectFit: "cover" }} onError={(e) => { (e.currentTarget.closest("article") as HTMLElement).style.display = "none"; }} />;
+  }
   const base = src.replace(/\.[^.]+$/, "");
   return (
     <picture>
@@ -35,6 +40,41 @@ function WallImg({ src, alt }: { src: string; alt: string }) {
       <img src={`${base}.jpg`} alt={alt} loading="lazy" style={{ width: "100%", display: "block", aspectRatio: "4/5", objectFit: "cover" }} onError={(e) => { (e.currentTarget.closest("article") as HTMLElement).style.display = "none"; }} />
     </picture>
   );
+}
+
+// Relative time for visitor posts (curated posts carry their own time strings).
+function relTime(ts: number): string {
+  const m = Math.floor((Date.now() - ts) / 60000);
+  if (m < 2) return "Just now";
+  if (m < 60) return `${m} min ago`;
+  const h = Math.floor(m / 60);
+  if (h < 24) return h === 1 ? "1 hour ago" : `${h} hours ago`;
+  const d = Math.floor(h / 24);
+  if (d === 1) return "Yesterday";
+  if (d < 7) return `${d} days ago`;
+  return new Date(ts).toLocaleDateString(undefined, { month: "short", day: "numeric" });
+}
+
+// Downscale a picked photo on-device (max 1440px, JPEG). The canvas re-encode
+// also strips EXIF — no GPS or device metadata ever leaves the phone.
+function downscale(file: File): Promise<string> {
+  return new Promise((resolve, reject) => {
+    const url = URL.createObjectURL(file);
+    const img = new Image();
+    img.onload = () => {
+      const scale = Math.min(1, 1440 / Math.max(img.width, img.height));
+      const w = Math.round(img.width * scale), h = Math.round(img.height * scale);
+      const c = document.createElement("canvas");
+      c.width = w; c.height = h;
+      const g = c.getContext("2d");
+      if (!g) { URL.revokeObjectURL(url); reject(new Error("no canvas")); return; }
+      g.drawImage(img, 0, 0, w, h);
+      URL.revokeObjectURL(url);
+      resolve(c.toDataURL("image/jpeg", 0.82));
+    };
+    img.onerror = () => { URL.revokeObjectURL(url); reject(new Error("bad image")); };
+    img.src = url;
+  });
 }
 
 function PostCard({ post, cityName }: { post: Post; cityName: string }) {
@@ -106,6 +146,9 @@ export default function CityWall() {
   const [composeOpen, setComposeOpen] = useState(false);
   const [draft, setDraft] = useState("");
   const [draftName, setDraftName] = useState("");
+  const [draftImg, setDraftImg] = useState<string | null>(null); // downscaled data URL
+  const [posting, setPosting] = useState(false);
+  const [postErr, setPostErr] = useState("");
 
   useEffect(() => {
     document.body.style.background = T.bg;
@@ -113,8 +156,14 @@ export default function CityWall() {
     window.scrollTo(0, 0);
     const wk = `../../cities-modular/${slug}/wall.json`;
     const ck = `../../cities-modular/${slug}/config.json`;
-    if (wallModules[wk]) wallModules[wk]().then((p) => setPosts(p as Post[])).catch(() => setPosts([]));
-    else setPosts([]);
+    // curated posts (bundled) + visitor posts (wall function) merge: visitors first
+    const curated: Promise<Post[]> = wallModules[wk] ? wallModules[wk]().then((p) => p as Post[]).catch(() => []) : Promise.resolve([]);
+    const visitor: Promise<Post[]> = fetch(`/api/wall?city=${slug}`)
+      .then((r) => (r.ok ? r.json() : { posts: [] }))
+      .then((d: { posts: { id: string; sig: string; ts: number; caption: string; img: string }[] }) =>
+        (d.posts ?? []).map((p) => ({ id: p.id, sig: p.sig, time: relTime(p.ts), caption: p.caption, likes: 0, img: p.img, album: "Photos", comments: [] as Comment[] })))
+      .catch(() => [] as Post[]);
+    Promise.all([curated, visitor]).then(([c, v]) => setPosts([...v, ...c]));
     if (configModules[ck]) configModules[ck]().then((c: any) => setCityName(c.name)).catch(() => {});
     return () => { document.body.style.background = ""; document.body.style.color = ""; };
   }, [slug]);
@@ -128,10 +177,32 @@ export default function CityWall() {
     return list;
   }, [posts, album, sortPopular]);
 
-  const submit = () => {
-    if (!draft.trim()) return;
-    setPosts((cur) => [{ id: Date.now(), sig: draftName.trim(), time: "Just now", caption: draft.trim(), likes: 0, img: "", album: "Photos", comments: [] }, ...(cur ?? [])]);
-    setDraft(""); setDraftName(""); setComposeOpen(false);
+  const pickPhoto = async (file: File | undefined) => {
+    if (!file) return;
+    setPostErr("");
+    try { setDraftImg(await downscale(file)); }
+    catch { setPostErr("That photo didn't load — try another one."); }
+  };
+
+  const submit = async () => {
+    if (posting || (!draft.trim() && !draftImg)) return; // a moment needs words or a photo
+    setPosting(true); setPostErr("");
+    try {
+      const res = await fetch("/api/wall", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ city: slug, sig: draftName.trim(), caption: draft.trim(), img: draftImg ?? "" }),
+      });
+      const data = await res.json().catch(() => null);
+      if (!res.ok || !data?.ok) throw new Error(data?.error || "post_failed");
+      const p = data.post as { id: string; sig: string; ts: number; caption: string; img: string };
+      setPosts((cur) => [{ id: p.id, sig: p.sig, time: "Just now", caption: p.caption, likes: 0, img: p.img, album: "Photos", comments: [] }, ...(cur ?? [])]);
+      setDraft(""); setDraftName(""); setDraftImg(null); setComposeOpen(false);
+    } catch {
+      setPostErr("Couldn't post right now — your moment is still here, try again in a second.");
+    } finally {
+      setPosting(false);
+    }
   };
 
   if (!posts) return <main style={{ minHeight: "100vh", background: T.bg }} />;
@@ -154,7 +225,20 @@ export default function CityWall() {
           <div style={{ marginTop: 12, background: T.card, border: `1px solid ${T.border}`, borderRadius: 16, padding: 16, display: "flex", flexDirection: "column", gap: 10 }}>
             <input value={draftName} onChange={(e) => setDraftName(e.target.value)} placeholder="Your name (optional)" style={{ background: T.slate, border: `1px solid ${T.border}`, borderRadius: 12, padding: "10px 14px", fontFamily: T.fb, fontSize: 14, color: T.text, outline: "none" }} />
             <textarea value={draft} onChange={(e) => setDraft(e.target.value)} rows={3} placeholder="What did you see? What did it feel like?" style={{ background: T.slate, border: `1px solid ${T.border}`, borderRadius: 12, padding: "12px 14px", fontFamily: T.fb, fontSize: 15, color: T.text, resize: "none", outline: "none", lineHeight: 1.5 }} />
-            <button onClick={submit} disabled={!draft.trim()} style={{ padding: "12px", borderRadius: 12, background: draft.trim() ? T.terra : "#d8d2ca", color: "#fff", fontSize: 15, fontWeight: 700, fontFamily: T.fb, border: "none", cursor: draft.trim() ? "pointer" : "default" }}>Post to The Wall</button>
+            {draftImg ? (
+              <div style={{ position: "relative", borderRadius: 12, overflow: "hidden", border: `1px solid ${T.border}` }}>
+                <img src={draftImg} alt="Your photo" style={{ width: "100%", display: "block", maxHeight: 340, objectFit: "cover" }} />
+                <button onClick={() => setDraftImg(null)} aria-label="Remove photo" style={{ position: "absolute", top: 8, right: 8, width: 30, height: 30, borderRadius: "50%", background: "rgba(12,27,42,.75)", color: "#fff", border: "none", fontSize: 14, cursor: "pointer" }}>✕</button>
+              </div>
+            ) : (
+              <label style={{ display: "flex", alignItems: "center", justifyContent: "center", gap: 8, padding: "12px", borderRadius: 12, border: `1.5px dashed ${T.border}`, background: T.slate, fontFamily: T.fb, fontSize: 14, fontWeight: 600, color: T.fog, cursor: "pointer" }}>
+                📷 Add a photo
+                <input type="file" accept="image/*" hidden onChange={(e) => pickPhoto(e.target.files?.[0])} />
+              </label>
+            )}
+            {postErr && <p style={{ fontFamily: T.fb, fontSize: 13, color: T.terra, margin: 0 }}>{postErr}</p>}
+            <button onClick={submit} disabled={posting || (!draft.trim() && !draftImg)} style={{ padding: "12px", borderRadius: 12, background: !posting && (draft.trim() || draftImg) ? T.terra : "#d8d2ca", color: "#fff", fontSize: 15, fontWeight: 700, fontFamily: T.fb, border: "none", cursor: !posting && (draft.trim() || draftImg) ? "pointer" : "default" }}>{posting ? "Posting…" : "Post to The Wall"}</button>
+            <p style={{ fontFamily: T.fb, fontSize: 11, color: T.dim, margin: 0, textAlign: "center" }}>Photos are resized on your device — no location data leaves your phone.</p>
           </div>
         )}
       </section>
