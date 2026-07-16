@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
-import { useParams, Link } from "react-router-dom";
+import { useParams, useNavigate, Link } from "react-router-dom";
+import { PrimaryNav } from "../engine/PrimaryNav";
 
 // Native community wall — the same social-photo format the legacy cities shipped
 // (light theme, posts with author / caption / likes / comments / album tabs /
@@ -139,6 +140,7 @@ function PostCard({ post, cityName }: { post: Post; cityName: string }) {
 
 export default function CityWall() {
   const { slug = "" } = useParams();
+  const navigate = useNavigate();
   const [posts, setPosts] = useState<Post[] | null>(null);
   const [cityName, setCityName] = useState(slug);
   const [album, setAlbum] = useState("All");
@@ -268,6 +270,26 @@ export default function CityWall() {
         <span style={{ opacity: 0.4, margin: "0 12px" }}>·</span>
         <span>A SH@W Labs Product</span>
       </footer>
+
+      {/* Primary nav on the wall too — Wall is highlighted; Plan/Chat/Deals are
+          one-click intents the city page consumes (?open=...); the center
+          toggle returns to the city in the OTHER view. */}
+      <PrimaryNav
+        slug={slug}
+        view={(() => { try { return localStorage.getItem("lt_view") || "feed"; } catch { return "feed"; } })()}
+        dark={false}
+        current="wall"
+        onPlan={() => navigate(`/cities/${slug}?open=planner`)}
+        onChat={() => navigate(`/cities/${slug}?open=chat`)}
+        onDeals={() => navigate(`/cities/${slug}?open=deals`)}
+        onToggle={() => {
+          let v = "feed";
+          try { v = localStorage.getItem("lt_view") || "feed"; } catch { /* ignore */ }
+          const next = v === "classic" ? "feed" : "classic";
+          try { localStorage.setItem("lt_view", next); } catch { /* ignore */ }
+          navigate(`/cities/${slug}`);
+        }}
+      />
     </main>
   );
 }

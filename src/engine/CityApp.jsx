@@ -8,6 +8,7 @@ import ClassicView from "./views/classic/ClassicView";
 import { decodePlan } from "./planShare";
 import { PlanView } from "./views/classic/PlanView";
 import { SaveCity } from "./SaveCity";
+import { PrimaryNav } from "./PrimaryNav";
 import { installImgFallback } from "./imgFallback";
 import "./styles/engine.css";
 
@@ -97,6 +98,42 @@ function CityAppInner() {
     window.scrollTo(0, 0);
   }, [view, slug]);
 
+  // ── Primary nav handlers — every one drives an EXISTING surface ──────────
+  // Plan: the trip planner lives in classic (R_TripPlanner) — switch there if
+  // needed, then open it. Chat: the concierge exists in both views. Deals:
+  // scroll to the existing deals surface (classic #deals / feed promoted cards).
+  const navPlan = () => {
+    if (view !== "classic") setView("classic");
+    setConciergeOpen(false);
+    setPlannerOpen(true);
+  };
+  const navChat = () => {
+    setPlannerOpen(false); // planner replaces classic content; close it first
+    setConciergeOpen(true);
+  };
+  const navDeals = () => {
+    setConciergeOpen(false);
+    setPlannerOpen(false);
+    setTimeout(() => {
+      const el = document.getElementById("deals") || document.querySelector("[data-deal-card]");
+      if (el) el.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 80);
+  };
+  const navToggle = () => setView(view === "classic" ? "feed" : "classic");
+
+  // Cross-page intents: the wall page's nav sends ?open=planner|chat|deals so
+  // its buttons are still one click. Consume once, then strip the param.
+  useEffect(() => {
+    let intent = null;
+    try { intent = new URLSearchParams(window.location.search).get("open"); } catch { /* ignore */ }
+    if (!intent) return;
+    try { window.history.replaceState(null, "", window.location.pathname); } catch { /* ignore */ }
+    if (intent === "planner") navPlan();
+    else if (intent === "chat") navChat();
+    else if (intent === "deals") setTimeout(navDeals, 350); // let sections mount
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [slug]);
+
   // A shared ?plan= URL renders the itinerary read-only; "Remix" strips the param
   // and opens the live planner in classic.
   if (plan) {
@@ -137,9 +174,21 @@ function CityAppInner() {
           setIsDark={setIsDark}
         />
       )}
-      <div style={{ position: "fixed", left: 16, bottom: 16, zIndex: 40 }}>
+      {/* lifted above the primary nav bar (safe-area aware) */}
+      <div style={{ position: "fixed", left: 16, bottom: "calc(84px + env(safe-area-inset-bottom, 0px))", zIndex: 40 }}>
         <SaveCity assets={saveAssets} cityName={CITY.name} dark={view === "feed"} />
       </div>
+      <PrimaryNav
+        slug={slug}
+        view={view}
+        dark={view === "feed" || (view === "classic" && isDark)}
+        current={plannerOpen ? "plan" : conciergeOpen ? "chat" : null}
+        onPlan={navPlan}
+        onChat={navChat}
+        onDeals={navDeals}
+        onToggle={navToggle}
+        dealsSelector={view === "classic" ? "#deals" : "[data-deal-card]"}
+      />
     </>
   );
 }

@@ -50,6 +50,6 @@ export function FeedConciergeModal({open,onClose}){
   </div>);
 }
 
-export function FeedConciergeFAB({onClick}){return(<button onClick={onClick} style={{position:"fixed",bottom:20,right:20,zIndex:60,width:56,height:56,borderRadius:"50%",background:FT.red,color:FT.ink,border:"none",cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"0 8px 24px rgba(179,19,31,.4)"}}>
+export function FeedConciergeFAB({onClick}){return(<button onClick={onClick} style={{position:"fixed",bottom:"calc(88px + env(safe-area-inset-bottom, 0px))",right:20,zIndex:60,width:56,height:56,borderRadius:"50%",background:FT.red,color:FT.ink,border:"none",cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center",boxShadow:"0 8px 24px rgba(179,19,31,.4)"}}>
   <span style={{fontFamily:FT.fd,fontSize:22,fontWeight:600,lineHeight:1}}>?</span>
 </button>);}

@@ -199,7 +199,7 @@ export function FeedPromotedCard({deal}){
     confirmRedeem(slug,deal.business_name,code);
     setRedeemed(true);
   };
-  return(<Reveal><article style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg,position:"relative"}}>
+  return(<Reveal><article data-deal-card style={{borderBottom:`1px solid ${FT.line}`,background:FT.bg,position:"relative"}}>
   <div style={{position:"absolute",top:14,right:14,zIndex:10,padding:"4px 10px",background:"rgba(200,155,60,.15)",border:`1px solid #8a6a2a`,fontFamily:FT.fm,fontSize:9,letterSpacing:".24em",color:FT.gold,textTransform:"uppercase"}}>{deal.is_exclusive?"Exclusive":"Promoted"}</div>
   <ImgOrVisual src={biz?IMG(CAT_IMAGES[biz.category]):null} fallbackSeed="warm" label={deal.business_name} aspect="16/10"/>
   <div style={{padding:"20px 24px 26px"}}>
