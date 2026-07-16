@@ -41,8 +41,34 @@
   status = 301
   force = true
 
+# Missing hashed assets must 404, never fall back to the HTML shell — a stale
+# cached page requesting an old bundle would otherwise get HTML-as-JS and break
+# instead of converging on reload. (Non-force: real files still serve normally.)
+[[redirects]]
+  from = "/assets/*"
+  to = "/index.html"
+  status = 404
+
 # SPA fallback (must stay last)
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Hashed bundles are immutable by construction — cache for a year.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# City images share filenames across rebuilds (not hashed) — cache one day;
+# the service worker handles offline/saved-city persistence.
+[[headers]]
+  for = "/cities/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"

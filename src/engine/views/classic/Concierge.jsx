@@ -74,13 +74,7 @@ export function R_Concierge({open, setOpen}) {
 
   return (
     <>
-      <button
-        className={`chat-fab ${open ? 'open' : ''}`}
-        onClick={() => setOpen(!open)}
-        aria-label={open ? 'Close chat' : 'Open chat'}
-      >
-        {open ? '✕' : '💬'}
-      </button>
+      {/* chat-fab retired — the primary nav's Chat button is the access point */}
       <div className={`chat-overlay ${open ? 'open' : ''}`} onClick={() => setOpen(false)} />
       <div className={`chat ${open ? 'open' : ''}`} role="dialog" aria-label="Concierge chat">
         <div className="chat-handle" />

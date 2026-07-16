@@ -211,8 +211,7 @@ body.falling .lamp{ animation:lampRise 1.8s cubic-bezier(0.16, 1, 0.3, 1) forwar
   </div>
 </div>
 
-<!-- pre-warm: loads slotgenie.bet in the background so the handoff is instant -->
-<iframe class="prewarm" src="https://slotgenie.bet" tabindex="-1" aria-hidden="true" title="prewarm"></iframe>
+<!-- (prewarm iframe removed: slotgenie.bet sends X-Frame-Options: sameorigin, so it never loaded; the preconnect above still warms the connection) -->
 
 <script>
 (function(){

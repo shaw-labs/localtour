@@ -2,6 +2,10 @@
    WS1 css-extract — byte-for-byte; do not reformat. */
 *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
 html{scroll-behavior:smooth}
+/* iOS lets fixed/absolute content pan horizontally past body{overflow-x:hidden};
+   clipping the ROOT stops the sideways pan without creating a scroll container. */
+html{overflow-x:clip}
+@supports not (overflow: clip){html{overflow-x:hidden}}
 body{background:#0a0a0b;color:#f5f2ec;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .4s}
 ::selection{background:#dc2626;color:white}
 ::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:#3a4f62;border-radius:3px}::-webkit-scrollbar-thumb:hover{background:#dc2626}
