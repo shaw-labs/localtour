@@ -7,6 +7,8 @@
 [functions]
   directory = "netlify/functions"
   node_bundler = "esbuild"
+  # WS5: the concierge function reads the city graph at runtime (grounding)
+  included_files = ["cities-modular/**/*.json"]
 
 # WS2 truth pass: the legacy static platform pages carried hand-typed, now-drifted
 # stats (e.g. "1,471" at 15 cities). They're superseded by the engine — redirect

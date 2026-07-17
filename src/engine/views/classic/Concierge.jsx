@@ -1,11 +1,14 @@
-// Classic view — concierge chatbot (ported verbatim; chicago index.html ~2325–2449).
-// CONCIERGE_NODES at module scope → model.nodes via useCityModel().
+// Classic view — concierge chatbot (WS5 hybrid brain).
+// Layer 1: scored keyword nodes (shared scorer). Layer 2: below-confidence
+// queries hit /api/concierge — Claude grounded in this city's graph, validated
+// server-side — falling back to the best keyword node on any failure.
 import { useEffect, useRef, useState } from "react";
 import { useCityModel } from "../../cityModel";
+import { scoreNodes, askConcierge } from "../../conciergeBrain";
 
 /* ═══ CONCIERGE CHATBOT ═══ */
 export function R_Concierge({open, setOpen}) {
-  const { CITY, nodes, directory } = useCityModel();
+  const { CITY, slug, nodes, directory } = useCityModel();
   const [messages, setMessages] = useState([{
     from: 'bot',
     text: nodes[0]?.text || 'Welcome!',
@@ -36,29 +39,35 @@ export function R_Concierge({open, setOpen}) {
     }
   }, [open]);
 
-  function findResponse(q) {
-    const ql = q.toLowerCase().trim();
-    let best = null, bs = 0;
-    for (const n of nodes) {
-      let s = 0;
-      for (const k of n.keys) {
-        if (ql.includes(k.toLowerCase())) s += k.length;
-      }
-      if (s > bs) { bs = s; best = n; }
-    }
-    return best;
-  }
-
-  function send(text) {
-    if (!text.trim()) return;
-    const m = {from: 'user', text: text.trim()};
-    const match = findResponse(text);
-    const r = match
-      ? {from: 'bot', text: match.text, chips: match.chips || [], businesses: match.businesses || []}
+  function nodeReply(node) {
+    return node
+      ? {from: 'bot', text: node.text, chips: node.chips || [], businesses: node.businesses || []}
       : {from: 'bot', text: "Hmm, not sure about that one. Try asking about food, bars, or things to do.",
          chips: nodes[0]?.chips || [], businesses: []};
-    setMessages(p => [...p, m, r]);
+  }
+
+  async function send(text) {
+    if (!text.trim()) return;
+    const q = text.trim();
     setInput('');
+    const { node, score, confident } = scoreNodes(q, nodes);
+    if (confident) {
+      setMessages(p => [...p, {from: 'user', text: q}, nodeReply(node)]);
+      return;
+    }
+    // Layer 2 — typing beat while Claude checks the city's own graph
+    setMessages(p => [...p, {from: 'user', text: q}, {from: 'bot', typing: true, text: '…', chips: [], businesses: []}]);
+    const ai = await askConcierge(slug, q);
+    setMessages(p => {
+      const out = p.slice(0, -1); // replace the typing bubble
+      if (ai && ai.source === 'ai' && ai.text) {
+        // picks are server-validated directory names — classic renders name lists
+        out.push({from: 'bot', text: ai.text, chips: [], businesses: (ai.picks || []).map(x => x.name)});
+      } else {
+        out.push(nodeReply(score > 0 ? node : null));
+      }
+      return out;
+    });
   }
 
   function gotoBiz(name) {

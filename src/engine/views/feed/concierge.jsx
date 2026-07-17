@@ -1,23 +1,40 @@
-// LocalTour engine — Feed concierge modal + FAB (transplanted verbatim from the
-// inline apps; chicago index.html ~3002–3048; see docs/WS1_PORT_CONTRACTS.md).
-// The keyword-matching logic ports as-is (WS5 unifies later).
+// LocalTour engine — Feed concierge modal (WS5 hybrid brain).
+// Layer 1: scored keyword match over the city's concierge nodes (instant, free).
+// Layer 2: below-confidence queries go to /api/concierge — Claude grounded in
+// THIS city's business graph, validated server-side (zero invented venues) —
+// with a graceful fall back to the best keyword node on any failure/budget cap.
 import { useState, useEffect, useRef } from "react";
 import { FT } from "../../theme";
 import { useCityModel } from "../../cityModel";
+import { scoreNodes, askConcierge, renderPicksToBusinesses } from "../../conciergeBrain";
 
 export function FeedConciergeModal({open,onClose}){
-  const{CITY,nodes,byName}=useCityModel();
+  const{CITY,slug,nodes,byName}=useCityModel();
   const[msgs,setMsgs]=useState([{from:"bot",text:CITY.concierge_greeting,chips:nodes[0]?.chips||[]}]);
   const[input,setInput]=useState("");
   const feedRef=useRef(null);
   useEffect(()=>{if(feedRef.current)feedRef.current.scrollTop=feedRef.current.scrollHeight;},[msgs]);
-  const ask=q=>{
+  const nodeReply=(match)=>({from:"bot",text:match.text,chips:match.chips||[],businesses:(match.businesses||[]).map(n=>byName[n]).filter(Boolean)});
+  const ask=async q=>{
     if(!q.trim())return;
-    const lower=q.toLowerCase();
-    const match=nodes.find(n=>n.keys.some(k=>lower.includes(k)))||nodes[0];
-    const bizList=(match.businesses||[]).map(n=>byName[n]).filter(Boolean);
-    setMsgs(m=>[...m,{from:"me",text:q},{from:"bot",text:match.text,chips:match.chips||[],businesses:bizList}]);
     setInput("");
+    const{node,confident}=scoreNodes(q,nodes);
+    if(confident){
+      setMsgs(m=>[...m,{from:"me",text:q},nodeReply(node)]);
+      return;
+    }
+    // Layer 2 — show a typing beat while Claude checks the city's own graph
+    setMsgs(m=>[...m,{from:"me",text:q},{from:"bot",typing:true,text:"…"}]);
+    const ai=await askConcierge(slug,q);
+    setMsgs(m=>{
+      const out=m.slice(0,-1); // replace the typing bubble
+      if(ai&&ai.source==="ai"&&ai.text){
+        out.push({from:"bot",text:ai.text,businesses:renderPicksToBusinesses(ai.picks,byName)});
+      }else{
+        out.push(nodeReply(node)); // budget/timeout/invalid → best keyword answer
+      }
+      return out;
+    });
   };
   if(!open)return null;
   return(<div style={{position:"fixed",inset:0,zIndex:300,display:"flex",alignItems:"flex-end",justifyContent:"center"}}>
