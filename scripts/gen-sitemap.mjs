@@ -12,7 +12,7 @@ const urls = [
   "/", "/vegas/",
   "/company/partners.html", "/company/about.html", "/company/privacy.html", "/company/terms.html",
   "/partners/cities/",
-  ...slugs.flatMap((s) => [`/cities/${s}`, `/cities/${s}/wall`]),
+  ...slugs.flatMap((s) => [`/cities/${s}/`, `/cities/${s}/wall/`]),
 ];
 
 const today = new Date().toISOString().slice(0, 10);
