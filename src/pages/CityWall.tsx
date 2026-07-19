@@ -288,17 +288,17 @@ export default function CityWall() {
           toggle returns to the city in the OTHER view. */}
       <PrimaryNav
         slug={slug}
-        view={(() => { try { return localStorage.getItem("lt_view") || "feed"; } catch { return "feed"; } })()}
+        view={(() => { try { return localStorage.getItem("lt_view2") || "classic"; } catch { return "classic"; } })()}
         dark={false}
         current="wall"
         onPlan={() => navigate(`/cities/${slug}?open=planner`)}
         onChat={() => navigate(`/cities/${slug}?open=chat`)}
         onDeals={() => navigate(`/cities/${slug}?open=deals`)}
         onToggle={() => {
-          let v = "feed";
-          try { v = localStorage.getItem("lt_view") || "feed"; } catch { /* ignore */ }
+          let v = "classic";
+          try { v = localStorage.getItem("lt_view2") || "classic"; } catch { /* ignore */ }
           const next = v === "classic" ? "feed" : "classic";
-          try { localStorage.setItem("lt_view", next); } catch { /* ignore */ }
+          try { localStorage.setItem("lt_view2", next); } catch { /* ignore */ }
           navigate(`/cities/${slug}`);
         }}
       />

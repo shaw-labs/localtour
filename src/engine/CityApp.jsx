@@ -50,7 +50,11 @@ function CityAppInner() {
   const { slug, byName, CITY, IMG, CAT_IMAGES } = useCityModel();
   const [view, setView] = useState(() => {
     try {
-      return localStorage.getItem("lt_view") || "feed";
+      // classic is the default (founder call: more feature-rich). Key is
+      // versioned (lt_view2): the old key was auto-persisted on every visit,
+      // so "feed" was stored for people who never chose it — a fallback change
+      // alone would have pinned all returning visitors to feed forever.
+      return localStorage.getItem("lt_view2") || "classic";
     } catch {
       return "feed";
     }
@@ -87,7 +91,7 @@ function CityAppInner() {
 
   useEffect(() => {
     try {
-      localStorage.setItem("lt_view", view);
+      localStorage.setItem("lt_view2", view);
     } catch {
       /* private mode */
     }
