@@ -1,0 +1,698 @@
+{
+  "morning_starts": [
+    {
+      "title": "Absolute Bagels",
+      "note": "Hot Egg Bagel with Lox Spread",
+      "business": "Absolute Bagels",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Levain Bakery",
+      "note": "Chocolate chip walnut cookie",
+      "business": "Levain Bakery",
+      "website": "https://www.levainbakery.com",
+      "duration": null
+    },
+    {
+      "title": "Tompkins Square Bagels",
+      "note": "French Toast Bagel with Birthday Cake Cream Cheese",
+      "business": "Tompkins Square Bagels",
+      "website": "https://tompkinssquarebagels.com",
+      "duration": null
+    },
+    {
+      "title": "Russ & Daughters",
+      "note": "Classic bagel with Nova Scotia lox and cream cheese",
+      "business": "Russ & Daughters",
+      "website": "https://www.russanddaughters.com",
+      "duration": null
+    },
+    {
+      "title": "Sunday in Brooklyn",
+      "note": "Malted Pancakes with Hazelnut Praline",
+      "business": "Sunday in Brooklyn",
+      "website": "https://sundayinbrooklyn.com",
+      "duration": null
+    },
+    {
+      "title": "Shelsky's Brooklyn Bagels",
+      "note": "Sichuan Peppercorn Smoked Salmon on a Pumpernickel Bagel",
+      "business": "Shelsky's Brooklyn Bagels",
+      "website": "https://shelskys.com",
+      "duration": null
+    },
+    {
+      "title": "Clinton St. Baking Company",
+      "note": "Wild Maine Blueberry Pancakes",
+      "business": "Clinton St. Baking Company",
+      "website": "https://clintonstreetbaking.com",
+      "duration": null
+    },
+    {
+      "title": "Cookshop",
+      "note": "Huevos Rancheros and Beignets",
+      "business": "Cookshop",
+      "website": "https://cookshopny.com",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Brooklyn Bridge Park Greenway",
+      "note": "Sunset ride from DUMBO to Red Hook",
+      "business": "Brooklyn Bridge Park Greenway",
+      "website": "https://brooklynbridgepark.org",
+      "duration": null
+    },
+    {
+      "title": "Central Park",
+      "note": "Row a boat at the Loeb Boathouse (or Bow Bridge at sunset)",
+      "business": "Central Park",
+      "website": "https://www.centralparknyc.org",
+      "duration": null
+    },
+    {
+      "title": "Downtown Boathouse",
+      "note": "20-minute paddle in the embayment",
+      "business": "Downtown Boathouse",
+      "website": "https://downtownboathouse.org",
+      "duration": null
+    },
+    {
+      "title": "Central Park Loop",
+      "note": "Riding through the tree canopy in the northern end",
+      "business": "Central Park Loop",
+      "website": "https://centralparknyc.org",
+      "duration": null
+    },
+    {
+      "title": "Brooklyn Bridge",
+      "note": "Walk Brooklyn→Manhattan at sunset, or Manhattan→Brooklyn and grab pizza at Juliana's",
+      "business": "Brooklyn Bridge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The High Line",
+      "note": "Walk north to south at sunset for Hudson River views",
+      "business": "The High Line",
+      "website": "https://www.thehighline.org",
+      "duration": null
+    },
+    {
+      "title": "Manhattan Kayak",
+      "note": "Sunset Kayak Tour",
+      "business": "Manhattan Kayak",
+      "website": "https://manhattankayak.com",
+      "duration": null
+    },
+    {
+      "title": "Citi Bike",
+      "note": "Day pass for greenway cruising",
+      "business": "Citi Bike",
+      "website": "https://citibikenyc.com",
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Scott's Pizza Tours",
+      "note": "The Brooklyn Pizza Walk",
+      "business": "Scott's Pizza Tours",
+      "website": "https://scottspizzatours.com",
+      "duration": null
+    },
+    {
+      "title": "9/11 Memorial & Museum",
+      "note": "Museum audio guide + memorial pools at dusk",
+      "business": "9/11 Memorial & Museum",
+      "website": "https://www.911memorial.org",
+      "duration": null
+    },
+    {
+      "title": "Tenement Museum",
+      "note": "Hard Times or Sweatshop Workers Tour",
+      "business": "Tenement Museum",
+      "website": "https://tenement.org",
+      "duration": null
+    },
+    {
+      "title": "The Met Cloisters",
+      "note": "The Unicorn Tapestries",
+      "business": "The Met Cloisters",
+      "website": "https://metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "The Metropolitan Museum of Art",
+      "note": "Egyptian Temple of Dendur, then the rooftop bar in summer",
+      "business": "The Metropolitan Museum of Art",
+      "website": "https://www.metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Broadway (Theater District)",
+      "note": "TKTS booth for 20-50% off same-day tickets",
+      "business": "Broadway (Theater District)",
+      "website": "https://www.broadway.com",
+      "duration": null
+    },
+    {
+      "title": "Statue of Liberty & Ellis Island",
+      "note": "Crown access (book 3+ months ahead) + Ellis Island immigration records lookup",
+      "business": "Statue of Liberty & Ellis Island",
+      "website": "https://www.statueofliberty.org",
+      "duration": null
+    },
+    {
+      "title": "Brooklyn Museum",
+      "note": "The Dinner Party by Judy Chicago",
+      "business": "Brooklyn Museum",
+      "website": "https://brooklynmuseum.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Books Are Magic",
+      "note": "Attending an evening author reading",
+      "business": "Books Are Magic",
+      "website": "https://booksaremagic.net",
+      "duration": null
+    },
+    {
+      "title": "Economy Candy",
+      "note": "Vintage candy you forgot existed",
+      "business": "Economy Candy",
+      "website": "https://economycandy.com",
+      "duration": null
+    },
+    {
+      "title": "A1 Records",
+      "note": "Digging through the $5 crates",
+      "business": "A1 Records",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "McNally Jackson",
+      "note": "Browsing the international fiction room",
+      "business": "McNally Jackson",
+      "website": "https://mcnallyjackson.com",
+      "duration": null
+    },
+    {
+      "title": "Academy Records",
+      "note": "The classical music vinyl section",
+      "business": "Academy Records",
+      "website": "https://academy-records.com",
+      "duration": null
+    },
+    {
+      "title": "Fifth Avenue Shopping",
+      "note": "Bergdorf Goodman holiday windows (Nov-Jan)",
+      "business": "Fifth Avenue Shopping",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rough Trade NYC",
+      "note": "Exclusive vinyl pressing releases",
+      "business": "Rough Trade NYC",
+      "website": "https://roughtrade.com",
+      "duration": null
+    },
+    {
+      "title": "Eataly NYC Flatiron",
+      "note": "Fresh pasta counter and rooftop dining",
+      "business": "Eataly NYC Flatiron",
+      "website": "https://eataly.com",
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Absolute Bagels",
+      "note": "Hot Egg Bagel with Lox Spread",
+      "business": "Absolute Bagels",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tompkins Square Bagels",
+      "note": "French Toast Bagel with Birthday Cake Cream Cheese",
+      "business": "Tompkins Square Bagels",
+      "website": "https://tompkinssquarebagels.com",
+      "duration": null
+    },
+    {
+      "title": "Mamoun's Falafel",
+      "note": "Falafel Sandwich",
+      "business": "Mamoun's Falafel",
+      "website": "https://mamouns.com",
+      "duration": null
+    },
+    {
+      "title": "Los Tacos No. 1",
+      "note": "Adobo chicken taco",
+      "business": "Los Tacos No. 1",
+      "website": "https://www.lostacos1.com",
+      "duration": null
+    },
+    {
+      "title": "Xi'an Famous Foods",
+      "note": "Spicy cumin lamb hand-ripped noodles (liang pi cold skin noodles too)",
+      "business": "Xi'an Famous Foods",
+      "website": "https://www.xianfoods.com",
+      "duration": null
+    },
+    {
+      "title": "Shelsky's Brooklyn Bagels",
+      "note": "Sichuan Peppercorn Smoked Salmon on a Pumpernickel Bagel",
+      "business": "Shelsky's Brooklyn Bagels",
+      "website": "https://shelskys.com",
+      "duration": null
+    },
+    {
+      "title": "Joe's Pizza",
+      "note": "Classic cheese slice",
+      "business": "Joe's Pizza",
+      "website": "https://www.joespizzanyc.com",
+      "duration": null
+    },
+    {
+      "title": "Veselka",
+      "note": "Meat Pierogi and Borscht",
+      "business": "Veselka",
+      "website": "https://veselka.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Bowery Ballroom",
+      "note": "Catch an indie band before they blow up",
+      "business": "Bowery Ballroom",
+      "website": "https://mercuryeastpresents.com",
+      "duration": null
+    },
+    {
+      "title": "Stonewall Inn",
+      "note": "Drag night upstairs",
+      "business": "Stonewall Inn",
+      "website": "https://thestonewallinnnyc.com",
+      "duration": null
+    },
+    {
+      "title": "Compagnie des Vins Surnaturels",
+      "note": "The Mystery Wine Flight",
+      "business": "Compagnie des Vins Surnaturels",
+      "website": "https://compagniewinebar.com",
+      "duration": null
+    },
+    {
+      "title": "Ruffian",
+      "note": "Orange Wine Flight",
+      "business": "Ruffian",
+      "website": "https://ruffiannyc.com",
+      "duration": null
+    },
+    {
+      "title": "Bemelmans Bar",
+      "note": "Classic martini while the jazz trio plays",
+      "business": "Bemelmans Bar",
+      "website": "https://www.rosewoodhotels.com/en/the-carlyle-new-york",
+      "duration": null
+    },
+    {
+      "title": "King Cole Bar",
+      "note": "Red Snapper (The original Bloody Mary)",
+      "business": "King Cole Bar",
+      "website": "https://marriott.com",
+      "duration": null
+    },
+    {
+      "title": "Lobby Bar at The Bowery Hotel",
+      "note": "The Bowery 75",
+      "business": "Lobby Bar at The Bowery Hotel",
+      "website": "https://theboweryhotel.com",
+      "duration": null
+    },
+    {
+      "title": "Cubbyhole",
+      "note": "Margaritas on Tuesday",
+      "business": "Cubbyhole",
+      "website": "https://cubbyholebar.com",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Sushi Nakazawa",
+      "note": "20-course Omakase",
+      "business": "Sushi Nakazawa",
+      "website": "https://sushinakazawa.com",
+      "duration": null
+    },
+    {
+      "title": "Hometown Bar-B-Que",
+      "note": "Jamaican Jerk Ribs and Brisket",
+      "business": "Hometown Bar-B-Que",
+      "website": "https://hometownbbq.com",
+      "duration": null
+    },
+    {
+      "title": "Le Bernardin",
+      "note": "Chef's tasting menu",
+      "business": "Le Bernardin",
+      "website": "https://www.le-bernardin.com",
+      "duration": null
+    },
+    {
+      "title": "Tatiana by Kwame Onwuachi",
+      "note": "Suya-spiced duck breast",
+      "business": "Tatiana by Kwame Onwuachi",
+      "website": "https://www.tatiananyc.com",
+      "duration": null
+    },
+    {
+      "title": "Lucali",
+      "note": "Margherita pizza with calzone on the side",
+      "business": "Lucali",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lilia",
+      "note": "Sheep's Milk Cheese Filled Agnolotti",
+      "business": "Lilia",
+      "website": "https://lilianewyork.com",
+      "duration": null
+    },
+    {
+      "title": "Via Carota",
+      "note": "Cacio e Pepe and Insalata Verde",
+      "business": "Via Carota",
+      "website": "https://viacarota.com",
+      "duration": null
+    },
+    {
+      "title": "Ippudo",
+      "note": "Akamaru Modern Ramen and Hirata Pork Buns",
+      "business": "Ippudo",
+      "website": "https://ippudony.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Sushi Nakazawa",
+      "note": "20-course Omakase",
+      "business": "Sushi Nakazawa",
+      "website": "https://sushinakazawa.com",
+      "duration": null
+    },
+    {
+      "title": "Hometown Bar-B-Que",
+      "note": "Jamaican Jerk Ribs and Brisket",
+      "business": "Hometown Bar-B-Que",
+      "website": "https://hometownbbq.com",
+      "duration": null
+    },
+    {
+      "title": "Le Bernardin",
+      "note": "Chef's tasting menu",
+      "business": "Le Bernardin",
+      "website": "https://www.le-bernardin.com",
+      "duration": null
+    },
+    {
+      "title": "Tatiana by Kwame Onwuachi",
+      "note": "Suya-spiced duck breast",
+      "business": "Tatiana by Kwame Onwuachi",
+      "website": "https://www.tatiananyc.com",
+      "duration": null
+    },
+    {
+      "title": "Lilia",
+      "note": "Sheep's Milk Cheese Filled Agnolotti",
+      "business": "Lilia",
+      "website": "https://lilianewyork.com",
+      "duration": null
+    },
+    {
+      "title": "Via Carota",
+      "note": "Cacio e Pepe and Insalata Verde",
+      "business": "Via Carota",
+      "website": "https://viacarota.com",
+      "duration": null
+    },
+    {
+      "title": "Jongro BBQ",
+      "note": "Beef Platter and Watermelon Soju",
+      "business": "Jongro BBQ",
+      "website": "https://jongrobbqny.com",
+      "duration": null
+    },
+    {
+      "title": "Soothr",
+      "note": "Koong Karee (Shrimp Curry) and Duck Noodles",
+      "business": "Soothr",
+      "website": "https://soothrnyc.com",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Brooklyn Bridge Park Greenway",
+      "note": "Sunset ride from DUMBO to Red Hook",
+      "business": "Brooklyn Bridge Park Greenway",
+      "website": "https://brooklynbridgepark.org",
+      "duration": null
+    },
+    {
+      "title": "Central Park",
+      "note": "Row a boat at the Loeb Boathouse (or Bow Bridge at sunset)",
+      "business": "Central Park",
+      "website": "https://www.centralparknyc.org",
+      "duration": null
+    },
+    {
+      "title": "The Met Cloisters",
+      "note": "The Unicorn Tapestries",
+      "business": "The Met Cloisters",
+      "website": "https://metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "The Metropolitan Museum of Art",
+      "note": "Egyptian Temple of Dendur, then the rooftop bar in summer",
+      "business": "The Metropolitan Museum of Art",
+      "website": "https://www.metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Broadway (Theater District)",
+      "note": "TKTS booth for 20-50% off same-day tickets",
+      "business": "Broadway (Theater District)",
+      "website": "https://www.broadway.com",
+      "duration": null
+    },
+    {
+      "title": "The Mark Hotel",
+      "note": "The Mark Restaurant by Jean-Georges",
+      "business": "The Mark Hotel",
+      "website": "https://themarkhotel.com",
+      "duration": null
+    },
+    {
+      "title": "Brooklyn Bridge",
+      "note": "Walk Brooklyn→Manhattan at sunset, or Manhattan→Brooklyn and grab pizza at Juliana's",
+      "business": "Brooklyn Bridge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Y7 Studio",
+      "note": "WeFlowHard Vinyasa",
+      "business": "Y7 Studio",
+      "website": "https://y7-studio.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Bowery Ballroom",
+      "note": "Catch an indie band before they blow up",
+      "business": "Bowery Ballroom",
+      "website": "https://mercuryeastpresents.com",
+      "duration": null
+    },
+    {
+      "title": "Comedy Cellar",
+      "note": "Weekend late show (highest chance of drop-ins)",
+      "business": "Comedy Cellar",
+      "website": "https://www.comedycellar.com",
+      "duration": null
+    },
+    {
+      "title": "Brooklyn Steel",
+      "note": "General Admission Floor",
+      "business": "Brooklyn Steel",
+      "website": "https://bowerypresents.com",
+      "duration": null
+    },
+    {
+      "title": "Music Hall of Williamsburg",
+      "note": "Pre-show drinks in the basement lounge",
+      "business": "Music Hall of Williamsburg",
+      "website": "https://musichallofwilliamsburg.com",
+      "duration": null
+    },
+    {
+      "title": "Smalls Jazz Club",
+      "note": "Late-night jam session (starts ~12:30am)",
+      "business": "Smalls Jazz Club",
+      "website": "https://www.smallslive.com",
+      "duration": null
+    },
+    {
+      "title": "House of Yes",
+      "note": "Any themed Saturday night event",
+      "business": "House of Yes",
+      "website": "https://houseofyes.org",
+      "duration": null
+    },
+    {
+      "title": "Webster Hall",
+      "note": "Balcony view during a sold-out show",
+      "business": "Webster Hall",
+      "website": "https://websterhall.com",
+      "duration": null
+    },
+    {
+      "title": "Blue Note Jazz Club",
+      "note": "Late show (cheaper, looser energy)",
+      "business": "Blue Note Jazz Club",
+      "website": "https://www.bluenotejazz.com/nyc",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Scott's Pizza Tours",
+      "note": "The Brooklyn Pizza Walk",
+      "business": "Scott's Pizza Tours",
+      "website": "https://scottspizzatours.com",
+      "duration": null
+    },
+    {
+      "title": "Central Park",
+      "note": "Row a boat at the Loeb Boathouse (or Bow Bridge at sunset)",
+      "business": "Central Park",
+      "website": "https://www.centralparknyc.org",
+      "duration": null
+    },
+    {
+      "title": "Downtown Boathouse",
+      "note": "20-minute paddle in the embayment",
+      "business": "Downtown Boathouse",
+      "website": "https://downtownboathouse.org",
+      "duration": null
+    },
+    {
+      "title": "9/11 Memorial & Museum",
+      "note": "Museum audio guide + memorial pools at dusk",
+      "business": "9/11 Memorial & Museum",
+      "website": "https://www.911memorial.org",
+      "duration": null
+    },
+    {
+      "title": "Tenement Museum",
+      "note": "Hard Times or Sweatshop Workers Tour",
+      "business": "Tenement Museum",
+      "website": "https://tenement.org",
+      "duration": null
+    },
+    {
+      "title": "The Metropolitan Museum of Art",
+      "note": "Egyptian Temple of Dendur, then the rooftop bar in summer",
+      "business": "The Metropolitan Museum of Art",
+      "website": "https://www.metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Broadway (Theater District)",
+      "note": "TKTS booth for 20-50% off same-day tickets",
+      "business": "Broadway (Theater District)",
+      "website": "https://www.broadway.com",
+      "duration": null
+    },
+    {
+      "title": "Central Park Loop",
+      "note": "Riding through the tree canopy in the northern end",
+      "business": "Central Park Loop",
+      "website": "https://centralparknyc.org",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Tenement Museum",
+      "note": "Hard Times or Sweatshop Workers Tour",
+      "business": "Tenement Museum",
+      "website": "https://tenement.org",
+      "duration": null
+    },
+    {
+      "title": "The Met Cloisters",
+      "note": "The Unicorn Tapestries",
+      "business": "The Met Cloisters",
+      "website": "https://metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "The Metropolitan Museum of Art",
+      "note": "Egyptian Temple of Dendur, then the rooftop bar in summer",
+      "business": "The Metropolitan Museum of Art",
+      "website": "https://www.metmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Broadway (Theater District)",
+      "note": "TKTS booth for 20-50% off same-day tickets",
+      "business": "Broadway (Theater District)",
+      "website": "https://www.broadway.com",
+      "duration": null
+    },
+    {
+      "title": "Books Are Magic",
+      "note": "Attending an evening author reading",
+      "business": "Books Are Magic",
+      "website": "https://booksaremagic.net",
+      "duration": null
+    },
+    {
+      "title": "Brooklyn Museum",
+      "note": "The Dinner Party by Judy Chicago",
+      "business": "Brooklyn Museum",
+      "website": "https://brooklynmuseum.org",
+      "duration": null
+    },
+    {
+      "title": "Neue Galerie",
+      "note": "Gustav Klimt's Portrait of Adele Bloch-Bauer I",
+      "business": "Neue Galerie",
+      "website": "https://neuegalerie.org",
+      "duration": null
+    },
+    {
+      "title": "Park Hyatt New York",
+      "note": "Spa Nalai and the underwater music pool",
+      "business": "Park Hyatt New York",
+      "website": "https://hyatt.com",
+      "duration": null
+    }
+  ]
+}

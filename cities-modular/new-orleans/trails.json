@@ -1,0 +1,52 @@
+[
+  {
+    "id": "the-250-trail-new-orleans",
+    "title": "The 250 Trail: New Orleans",
+    "hook": "Three hundred years of French, Spanish, African, Caribbean, and Acadian hands in the same pot. Walk from Congo Square's drum circles to the po-boy counters and the families still stirring the roux.",
+    "narrative": "New Orleans was French before it was American — Bienville staked La Nouvelle-Orléans on this river crescent in 1718 — but the city's true founding document is a pot of gumbo. Even the word came over the water: ki ngombo, Bantu for okra, carried by enslaved West and Central Africans. On Sundays in Congo Square, hundreds gathered to drum, dance, and trade — gatherings historians credit with keeping African music alive in North America and seeding jazz, second lines, and the Mardi Gras Indians. Spain governed for four decades. In 1809, thousands of refugees from the Haitian Revolution arrived by way of Cuba and doubled the city's population within months. And after the British expelled the Acadians from Nova Scotia in 1755, some three thousand of them resettled in south Louisiana and became the Cajuns, whose smoked-and-simmered country cooking eventually moved to town. This trail eats through that whole family tree: Leah Chase's Creole gumbo in the restaurant where civil rights leaders strategized upstairs, chicory café au lait poured at the same French Market stand since 1862, oysters Rockefeller at the 1840 house that invented them, and a po-boy at a counter that fed striking streetcar workers for free in 1929. Come hungry, pace yourself, and know that the correct answer to 'Creole or Cajun?' is yes.",
+    "neighborhoods": [
+      "Tremé",
+      "French Quarter",
+      "Mid-City",
+      "Warehouse District"
+    ],
+    "stops": [
+      {
+        "biz": "Tremé Neighborhood Walking Tour",
+        "note": "Start where the city's sound started: Congo Square, where enslaved Africans gathered on Sundays to drum, dance, and trade — the gatherings credited with keeping African music alive in America. Everything else on this trail descends from those afternoons."
+      },
+      {
+        "biz": "Backstreet Cultural Museum",
+        "note": "The hand-beaded Mardi Gras Indian suits and jazz-funeral traditions preserved here are the living heirs of Congo Square. Small building, essential context — see it before you eat."
+      },
+      {
+        "biz": "Dooky Chase's Restaurant",
+        "note": "Leah Chase's Creole gumbo in the Tremé landmark her in-laws opened in 1941 — the same restaurant where civil rights leaders met upstairs to strategize over her cooking. A kitchen that fed a movement."
+      },
+      {
+        "biz": "Willie Mae's Scotch House",
+        "note": "A Tremé corner institution since 1957 and a James Beard America's Classic. The wet-batter fried chicken is still the family's own recipe, four generations on."
+      },
+      {
+        "biz": "Café Du Monde",
+        "note": "Beignets and chicory café au lait at the French Market stand that has poured them since 1862 — French pastry, coffee stretched with chicory the Creole way. Powdered sugar on your shirt is part of the uniform."
+      },
+      {
+        "biz": "Loretta's Authentic Pralines",
+        "note": "Loretta Harrison was the first Black woman to own a praline company in New Orleans, and her family still makes them by the French Market. The praline is this trail in one candy: a French confection remade by generations of Black New Orleans cooks."
+      },
+      {
+        "biz": "Antoine's",
+        "note": "French-Creole fine dining in the same family's hands since 1840 — the oldest family-run restaurant in the country — and the birthplace of oysters Rockefeller in 1889. Order them where they were invented."
+      },
+      {
+        "biz": "Parkway Bakery & Tavern",
+        "note": "On this Mid-City corner since 1911, Parkway opened its poor boy shop during the 1929 streetcar strike and fed the union men for free. Take your roast beef po-boy to the bayou across the street."
+      },
+      {
+        "biz": "Cochon",
+        "note": "The Acadian side of the pot: Donald Link cooks the Cajun food of his grandparents, the lineage that came south after the 1755 expulsion from Nova Scotia. The trail's dressed-up Warehouse District finish."
+      }
+    ]
+  }
+]

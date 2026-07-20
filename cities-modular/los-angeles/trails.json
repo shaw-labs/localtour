@@ -1,0 +1,44 @@
+[
+  {
+    "id": "the-250-trail-los-angeles",
+    "title": "The 250 Trail: Los Angeles",
+    "hook": "Follow the tortilla from the birthplace of Los Angeles across the river to Boyle Heights and up old Route 66 — the east side where mariachis, murals, and family kitchens keep the city's real memory.",
+    "narrative": "Los Angeles began on September 4, 1781, when forty-four settlers — most of them of Indigenous and African descent, come north from Sonora and Sinaloa — founded a pueblo near the river. Nearly two and a half centuries later, the blocks just east of that spot still hold the city's memory. Start at Olvera Street, the marketplace that has sold taquitos and remembrance since Easter Sunday 1930. Then cross the river into Boyle Heights, where mariachis in charro suits have gathered near the old Boyle Hotel since the 1930s, hired song by song, and where a neighborhood once counted among the most multiethnic in America — Mexican, Jewish, Japanese, Armenian, Russian — taught this city how to share a table. Eat slow-braised guisados on handmade tortillas from a father-and-son shop on Cesar Chavez Avenue. Find the truck a Jalisco-born cook parked on Olympic in 2002 and order the shrimp tacos dorados twice. Watch what happens when a kid from Pico Rivera turns a $300 street cart into an Arts District institution. Then ride Figueroa — the old Route 66 — up into Highland Park and finish inside a bowling alley that opened in 1927. Bring small bills for the trucks, share everything, and if a mariachi offers a song, say yes and tip well. This is the east side that fed Los Angeles first — and never stopped.",
+    "neighborhoods": [
+      "El Pueblo / Olvera Street",
+      "Boyle Heights",
+      "Arts District",
+      "Highland Park"
+    ],
+    "stops": [
+      {
+        "biz": "Olvera Street",
+        "note": "Begin where the pueblo began. This brick-paved marketplace has sold taquitos, leather goods, and Día de los Muertos marigolds since Easter Sunday 1930 — grab Cielito Lindo taquitos and duck into the Avila Adobe before you cross the river."
+      },
+      {
+        "biz": "Guisados",
+        "note": "Armando De La Torre Sr. and Jr. opened this Cesar Chavez Avenue original in 2010: slow-braised home stews spooned onto tortillas pressed from fresh masa. The sampler plate lets you taste six guisados at once."
+      },
+      {
+        "biz": "Mariscos Jalisco",
+        "note": "Raul Ortega, from San Juan de los Lagos, has run this Olympic Boulevard truck since 2002, and his crispy shrimp tacos dorados are the east side's proudest export. The line moves fast — order two."
+      },
+      {
+        "biz": "Guerrilla Tacos",
+        "note": "Pico Rivera-raised chef Wes Avila started with a $300 street cart in 2012; now his seasonal tacos hold down a brick-and-mortar at the river's edge. The sweet potato taco bridges the family kitchen and fine dining."
+      },
+      {
+        "biz": "HomeState",
+        "note": "Morning fuel on Figueroa — breakfast tacos and queso the neighborhood swears by. Proof the tortilla keeps picking up new accents along the old Route 66 corridor."
+      },
+      {
+        "biz": "Bub & Grandma's",
+        "note": "York Boulevard's bakery — sourdough croissants and pizza from Andy Kadin's crew, the newest generation of family bakers feeding Highland Park."
+      },
+      {
+        "biz": "Highland Park Bowl",
+        "note": "Finish inside L.A.'s oldest bowling alley, standing on Figueroa since 1927 with Route 66 once running past the front door. Bowl a frame under the restored Art Deco lanes and let live music close the trail."
+      }
+    ]
+  }
+]

@@ -1,0 +1,683 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "start",
+      "menu",
+      "howdy",
+      "begin",
+      "yo"
+    ],
+    "text": "Pull up a chair — I'm The Pitmaster, and I've been tending this town's fires long enough to stay evenhanded about which burnt end is the true gospel (I'm not picking your fight for you). Kansas City is a low-and-slow kind of place: it don't rush, it renders. We do barbecue like scripture, jazz like breathing, and fountains like we're trying to out-Rome Rome. So tell me what you're after — smoked meat, a cold drink, jazz after dark, museums, a ballgame, trails, family time, or a day-trip out past the county line. Wherever you point, I've got a spot and a story to go with it.",
+    "businesses": [],
+    "chips": [
+      "Where's the barbecue?",
+      "I need a drink",
+      "Jazz & nightlife",
+      "Arts & museums",
+      "Take me to a game",
+      "Get me outdoors"
+    ]
+  },
+  {
+    "keys": [
+      "food",
+      "eat",
+      "dining",
+      "hungry",
+      "where to eat",
+      "restaurants",
+      "dinner",
+      "best food"
+    ],
+    "text": "KC eats a lot bigger than its reputation — folks come for the brisket and leave dreaming about the tasting menus. When you want a proper sit-down, The Antler Room and Fox and Pearl cook soulful, seasonal, of-this-place food; The Town Company inside the Crossroads Hotel plays it a little more refined. Extra Virgin does Spanish-leaning small plates, Novel is chef-driven and intimate, and Affäre brings modern German with real ambition. Room 39 and Aixois carry the neighborhood-bistro flame. Tell me your appetite — barbecue, a fancy night, or something from around the world?",
+    "businesses": [
+      "The Antler Room",
+      "Fox and Pearl",
+      "The Town Company",
+      "Extra Virgin",
+      "Novel",
+      "Affäre",
+      "Room 39",
+      "Aixois"
+    ],
+    "chips": [
+      "Where's the barbecue?",
+      "Date-night dinner",
+      "Global & neighborhood eats",
+      "Brunch & bistros"
+    ]
+  },
+  {
+    "keys": [
+      "barbecue",
+      "bbq",
+      "brisket",
+      "burnt ends",
+      "ribs",
+      "smoked meat",
+      "que",
+      "smoke"
+    ],
+    "text": "Now we're praying at the right altar. Kansas City barbecue is a whole religion with rival congregations, and I stay neutral on purpose. Arthur Bryant's Barbeque is the old cathedral — brisket on white bread, that gritty vinegar sauce, presidents and pilgrims in the same line. Gates Bar-B-Q greets you hollering 'Hi, may I help you?' and I say you may. Joe's Kansas City Bar-B-Que runs out of a gas station and still draws a wraparound line for the Z-Man. Q39 and Fiorella's Jack Stack Barbecue - Freight House bring the polished, sit-down side. Want me to send you down the competition-circuit rabbit hole, or keep it to the legends?",
+    "businesses": [
+      "Arthur Bryant's Barbeque",
+      "Gates Bar-B-Q",
+      "Joe's Kansas City Bar-B-Que",
+      "Q39",
+      "Fiorella's Jack Stack Barbecue - Freight House"
+    ],
+    "chips": [
+      "The pitmaster's deep cuts",
+      "Modern & craft BBQ",
+      "18th & Vine to the Pit",
+      "Take a BBQ tour"
+    ]
+  },
+  {
+    "keys": [
+      "deep cuts",
+      "best bbq",
+      "craft bbq",
+      "new bbq",
+      "harp",
+      "slaps",
+      "serious bbq",
+      "competition"
+    ],
+    "text": "Alright, you asked for the pit-nerd tier. Slap's BBQ across the river in KCK smokes some of the best ribs in America, and Harp Barbecue out of Raytown sells out in a couple hours like a rock show — get there early or go home hungry. LC's Bar-B-Q is a smoky roadside temple with no pretense and a mountain of fries. Woodyard Bar-B-Que and Rosedale Bar-B-Q keep the Kansas-side old-guard flame. Buck Tui BBQ marries Thai flavor to KC smoke and it flat-out works, and Char Bar Smoked Meats & Amusements gives you burnt ends with a patio and yard games. Slap's, Harp, Brobecks Barbeque — the pilgrimage list is real.",
+    "businesses": [
+      "Slap's BBQ",
+      "Harp Barbecue",
+      "LC's Bar-B-Q",
+      "Woodyard Bar-B-Que",
+      "Rosedale Bar-B-Q",
+      "Buck Tui BBQ",
+      "Char Bar Smoked Meats & Amusements",
+      "Brobecks Barbeque"
+    ],
+    "chips": [
+      "The legends instead",
+      "Q39 Midtown",
+      "BBQ near the airport",
+      "18th & Vine to the Pit"
+    ]
+  },
+  {
+    "keys": [
+      "more bbq",
+      "q39 midtown",
+      "scotts",
+      "airport bbq",
+      "other bbq"
+    ],
+    "text": "Couple more worth the detour before your arteries file a complaint. Q39 Midtown is the in-town sibling if you don't want to trek to the original — award-winning ribs, cleaner room, still serious smoke. And if you're flying in or out, Scott's Kitchen and Catering at Hangar 29 sits up by KCI and is worth timing a flight around; the burnt ends there have their own quiet following. Low and slow, wherever you land.",
+    "businesses": [
+      "Q39 Midtown",
+      "Scott's Kitchen and Catering at Hangar 29"
+    ],
+    "chips": [
+      "The legends",
+      "Deep-cut BBQ joints",
+      "Take a BBQ tour",
+      "Where's the jazz?"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "fancy",
+      "upscale",
+      "splurge",
+      "special occasion",
+      "romantic",
+      "date night",
+      "anniversary"
+    ],
+    "text": "Dressing up? KC cleans up nice. The Antler Room is the tasting-menu darling — small, seasonal, quietly ambitious. Novel plays in that same intimate, chef's-hands register. The Town Company inside the Crossroads Hotel gives you a handsome room and refined plates for a real occasion, and Affäre does modern German that surprises people who thought they knew this town. For a candlelit bistro feel, Room 39 or Aixois will treat two people right. Book ahead — the good tables render slow, just like the brisket.",
+    "businesses": [
+      "The Antler Room",
+      "Novel",
+      "The Town Company",
+      "Affäre",
+      "Room 39",
+      "Aixois"
+    ],
+    "chips": [
+      "Cocktail bar after",
+      "Global & neighborhood eats",
+      "Where to stay",
+      "Jazz nightcap"
+    ]
+  },
+  {
+    "keys": [
+      "global",
+      "international",
+      "neighborhood",
+      "asian",
+      "mexican",
+      "vietnamese",
+      "chinese",
+      "dumplings",
+      "variety",
+      "world food"
+    ],
+    "text": "KC's neighborhood tables run deep and wide. Anjin does elegant Japanese; Chewology is chef-driven Taiwanese with dumplings worth the wait. Café Corazón brings warm, from-scratch Mexican, and Succotash is the beloved all-day brunch-and-comfort spot. Westport Cafe & Bar does French bistro in the heart of the nightlife district, Waldo Cafe keeps the down-home neighborhood diner tradition alive, and The Campground serves globally-minded plates in a fun room. Something for every mood that isn't smoke.",
+    "businesses": [
+      "Anjin",
+      "Chewology",
+      "Café Corazón",
+      "Succotash",
+      "Westport Cafe & Bar",
+      "Waldo Cafe",
+      "The Campground"
+    ],
+    "chips": [
+      "Fancy dinner instead",
+      "Coffee & bakeries",
+      "Where's the barbecue?",
+      "Brunch spots"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "espresso",
+      "bakery",
+      "pastry",
+      "bread",
+      "brunch",
+      "breakfast",
+      "latte"
+    ],
+    "text": "Morning fuel, KC-style. Messenger Coffee Co. + Ibis Bakery is the flagship pilgrimage — a soaring Crossroads roaster over a bakery turning out proper croissants. Café Cà Phê pours Vietnamese coffee with real soul and community behind it. Blip Roasters brews out of a West Bottoms garage, The Roasterie Factory Cafe lets you watch the beans fly, and Oddly Correct is the pour-over purist's corner. Café Corazón does a mean cafecito, and for bread you make a special trip for, Fervere bakes hearth loaves that sell out — get there before noon.",
+    "businesses": [
+      "Messenger Coffee Co. + Ibis Bakery",
+      "Café Cà Phê",
+      "Blip Roasters",
+      "The Roasterie Factory Cafe",
+      "Oddly Correct",
+      "Café Corazón",
+      "Fervere"
+    ],
+    "chips": [
+      "Where to eat",
+      "Crossroads Arts District",
+      "Records & shops",
+      "I need a drink"
+    ]
+  },
+  {
+    "keys": [
+      "drink",
+      "drinks",
+      "bar",
+      "bars",
+      "cocktail",
+      "cocktails",
+      "nightlife",
+      "night out",
+      "whiskey"
+    ],
+    "text": "Time to unclench. For cocktails, The Monarch Bar on the Plaza is the grown-up, mirrored, make-you-feel-fancy room, and Swordfish Tom's is the tucked-away speakeasy where the bartenders take the craft seriously. If jazz-with-your-whiskey is more your speed, Green Lady Lounge pours red-lit live jazz seven nights a week. Prefer a beer hall? The Ship anchors the West Bottoms with a great list and old-bar charm. Tell me — craft cocktails, cold beer, or jazz in the glow?",
+    "businesses": [
+      "The Monarch Bar",
+      "Swordfish Tom's",
+      "Green Lady Lounge",
+      "The Ship"
+    ],
+    "chips": [
+      "Breweries & distillery",
+      "Jazz & live music",
+      "Where to eat first",
+      "Late-night bites"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "breweries",
+      "brewpub",
+      "distillery",
+      "tap",
+      "boulevard",
+      "spirits",
+      "tour"
+    ],
+    "text": "KC drinks local and proud. Boulevard Brewing Co. Beer Hall is the hometown giant — grab a pint in the hall or take the Boulevard Brewing Co. Beer Hall & Tours experience to see how the Unfiltered Wheat gets made. Torn Label Brewing Company and KC Bier Co. hold down the craft and German-style ends respectively, both with easy taprooms. And when you want the hard stuff, J. Rieger & Co. Distillery resurrected a pre-Prohibition KC whiskey name in a stunning West Bottoms space — the tour and the Monogram lounge are worth it. Slow sipping encouraged.",
+    "businesses": [
+      "Boulevard Brewing Co. Beer Hall",
+      "Boulevard Brewing Co. Beer Hall & Tours",
+      "Torn Label Brewing Company",
+      "KC Bier Co.",
+      "J. Rieger & Co. Distillery"
+    ],
+    "chips": [
+      "Cocktail bars",
+      "Jazz & nightlife",
+      "Where to eat",
+      "Seasonal — Boulevardia"
+    ]
+  },
+  {
+    "keys": [
+      "jazz",
+      "music",
+      "live music",
+      "blues",
+      "nightlife music",
+      "clubs",
+      "18th and vine",
+      "mutual musicians"
+    ],
+    "text": "Kansas City is a jazz town in its bones — this is where the Count Basie sound and the after-hours jam were born. Green Lady Lounge glows red with live jazz every night. Down in the historic district, The Blue Room inside the American Jazz Museum is both museum and working club. And if you're a real night owl, Mutual Musicians Foundation runs legendary after-hours jam sessions into the small hours on weekends — cash at the door, history in the air. For roots, blues, and Americana, Knuckleheads Saloon by the rail yards is one of the best live rooms in the country.",
+    "businesses": [
+      "Green Lady Lounge",
+      "The Blue Room",
+      "Mutual Musicians Foundation",
+      "Knuckleheads Saloon",
+      "American Jazz Museum"
+    ],
+    "chips": [
+      "18th & Vine to the Pit",
+      "Performing arts",
+      "Museums",
+      "I need a cocktail"
+    ]
+  },
+  {
+    "keys": [
+      "arts",
+      "museum",
+      "museums",
+      "culture",
+      "art",
+      "history",
+      "gallery",
+      "galleries",
+      "nelson"
+    ],
+    "text": "Culture runs deep here, and most of the best of it is free. The Nelson-Atkins Museum of Art is world-class — walk the Shuttlecocks on the lawn, then lose an afternoon inside, no ticket required. Kemper Museum of Contemporary Art next door is small, sharp, and also free. The National WWI Museum and Memorial is the country's finest, with a tower view over the whole city. Union Station Kansas City (Science City) is a grand old depot turned family science playground, and the Arabia Steamboat Museum shows off a sunken 1856 riverboat's cargo, dug whole out of a cornfield. Head to the district and I'll fold in the jazz side.",
+    "businesses": [
+      "The Nelson-Atkins Museum of Art",
+      "Kemper Museum of Contemporary Art",
+      "National WWI Museum and Memorial",
+      "Union Station Kansas City (Science City)",
+      "Arabia Steamboat Museum"
+    ],
+    "chips": [
+      "18th & Vine to the Pit",
+      "Crossroads Arts District",
+      "Jazz & live music",
+      "Family-friendly stuff"
+    ]
+  },
+  {
+    "keys": [
+      "18th and vine",
+      "jazz district",
+      "negro leagues",
+      "nexus",
+      "trail",
+      "the pit",
+      "heritage",
+      "black history"
+    ],
+    "text": "This is the trail I'd walk with my own kin: 18th & Vine to the Pit. Start at the American Jazz Museum and the Negro Leagues Baseball Museum — same building, twin flames of Black KC genius — where you feel how music and baseball rose together in this neighborhood. Catch a set at The Blue Room, and if the weekend's young enough, drift to Mutual Musicians Foundation for the after-hours jam. Then follow the lineage the way I do — to the pit. This district and its neighbors gave us Arthur Bryant's Barbeque and Gates Bar-B-Q, the smoke that fed the musicians after the last set. Jazz, ballplayers, and burnt ends, all from the same few blocks.",
+    "businesses": [
+      "American Jazz Museum",
+      "Negro Leagues Baseball Museum",
+      "The Blue Room",
+      "Mutual Musicians Foundation",
+      "Arthur Bryant's Barbeque",
+      "Gates Bar-B-Q"
+    ],
+    "chips": [
+      "More jazz spots",
+      "Where's the barbecue?",
+      "Take a BBQ tour",
+      "Baseball history & Royals"
+    ]
+  },
+  {
+    "keys": [
+      "bbq tour",
+      "food tour",
+      "tour",
+      "guided",
+      "original kc barbecue tour",
+      "tasting tour"
+    ],
+    "text": "Can't decide between the joints? Let somebody else drive and do the arguing for you. The Original KC Barbecue Tour (Tour Kansas City) hauls you between the legendary pits, feeds you along the way, and pours the history of this town's smoke lineage over every bite — a painless way to hit multiple temples without losing a parking spot or your appetite pacing. Come hungry; leave a believer.",
+    "businesses": [
+      "Original KC Barbecue Tour (Tour Kansas City)"
+    ],
+    "chips": [
+      "The legendary joints",
+      "Deep-cut BBQ",
+      "Breweries & distillery",
+      "18th & Vine to the Pit"
+    ]
+  },
+  {
+    "keys": [
+      "performing arts",
+      "theater",
+      "theatre",
+      "concert",
+      "show",
+      "symphony",
+      "opera",
+      "kauffman center",
+      "starlight"
+    ],
+    "text": "For a dressed-up night, the Kauffman Center for the Performing Arts is an architectural showstopper — home to the symphony, ballet, and opera, with acoustics worth the ticket. Come summer, Starlight Theatre out in Swope Park is one of the country's grand old outdoor amphitheaters, staging Broadway tours and big-name concerts under the stars. And for roots and rock in a smaller, sweatier room, Knuckleheads Saloon can't be beat.",
+    "businesses": [
+      "Kauffman Center for the Performing Arts",
+      "Starlight Theatre",
+      "Knuckleheads Saloon"
+    ],
+    "chips": [
+      "Jazz & nightlife",
+      "Museums",
+      "Seasonal picks",
+      "Where to eat first"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "chiefs",
+      "royals",
+      "sporting",
+      "football",
+      "baseball",
+      "soccer",
+      "stadium",
+      "arrowhead"
+    ],
+    "text": "This is a sports town that wears its red loud. In the fall, GEHA Field at Arrowhead Stadium (Kansas City Chiefs) is the loudest house in the NFL — a tailgate lot that takes barbecue as seriously as the game. Spring through summer, Kauffman Stadium (Kansas City Royals) with its outfield fountains is one of baseball's prettiest ballparks. And Sporting KC plays across the river at Children's Mercy Park, a soccer-specific stadium the supporters make roar. Tell me the season and I'll tell you what's in town.",
+    "businesses": [
+      "GEHA Field at Arrowhead Stadium (Kansas City Chiefs)",
+      "Kauffman Stadium (Kansas City Royals)",
+      "Children's Mercy Park",
+      "GEHA Field at Arrowhead Stadium",
+      "Kauffman Stadium"
+    ],
+    "chips": [
+      "Seasonal — fall Chiefs",
+      "Baseball & the ballpark",
+      "BBQ before the game",
+      "Negro Leagues history"
+    ]
+  },
+  {
+    "keys": [
+      "outdoors",
+      "outdoor",
+      "parks",
+      "park",
+      "hike",
+      "hiking",
+      "trail",
+      "trails",
+      "nature",
+      "walk",
+      "bike"
+    ],
+    "text": "KC surprises folks with green. Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden is the beloved in-town stroll, roses and all. Cliff Drive Scenic Byway at George E. Kessler Park gives you bluff-top views and a car-free stretch on weekends. Swope Park - Fox Hollow Trail & Mountain Bike Trails is the big wooded playground, and for a proper ride, Line Creek Trail and the Riverfront Heritage Trail move you through the city on two wheels or two feet. Powell Gardens, the region's botanical showpiece, is a drive out but worth it in bloom. Want flat-water and adventure instead?",
+    "businesses": [
+      "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+      "Cliff Drive Scenic Byway at George E. Kessler Park",
+      "Swope Park - Fox Hollow Trail & Mountain Bike Trails",
+      "Line Creek Trail",
+      "Riverfront Heritage Trail",
+      "Powell Gardens"
+    ],
+    "chips": [
+      "Water & adventure",
+      "Riverfront parks",
+      "Bike rentals",
+      "Day trips out of town"
+    ]
+  },
+  {
+    "keys": [
+      "water",
+      "kayak",
+      "canoe",
+      "paddle",
+      "lake",
+      "river",
+      "zipline",
+      "adventure",
+      "boat",
+      "fishing"
+    ],
+    "text": "Ready to get the heart rate up? KC Kayak & Canoe will put you on the Missouri or a quiet lake with a paddle in hand, and Kaw Point Park is the storied put-in where the Kansas River meets the Missouri — Lewis and Clark camped there. For lake days, Longview Lake Park & Marina and Smithville Lake are the local go-tos for boating, beaches, and fishing. Want a jolt? Zip KC runs ziplines and a canopy tour out in the wooded hills south of town. Richard L. Berkley Riverfront Park rounds it out with easy riverside space right downtown.",
+    "businesses": [
+      "KC Kayak & Canoe",
+      "Kaw Point Park",
+      "Longview Lake Park & Marina",
+      "Smithville Lake",
+      "Zip KC",
+      "Richard L. Berkley Riverfront Park"
+    ],
+    "chips": [
+      "Parks & trails",
+      "Bike rentals",
+      "Family day out",
+      "Day trips"
+    ]
+  },
+  {
+    "keys": [
+      "bike",
+      "bikes",
+      "cycling",
+      "bike rental",
+      "rentals",
+      "ride",
+      "bike share",
+      "cycle"
+    ],
+    "text": "Want to roll instead of walk? RideKC Bike (Bike Share KC) has stations scattered around the core for quick point-to-point hops, and Cycle City can set you up with a proper rental if you're planning a longer day in the saddle. Point either at the Riverfront Heritage Trail or Line Creek Trail and you've got miles of car-free riding. Just pace yourself between barbecue stops.",
+    "businesses": [
+      "RideKC Bike (Bike Share KC)",
+      "Cycle City",
+      "Riverfront Heritage Trail",
+      "Line Creek Trail"
+    ],
+    "chips": [
+      "Parks & trails",
+      "Water & adventure",
+      "Where to eat",
+      "Day trips"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "toddlers",
+      "things to do with kids"
+    ],
+    "text": "Bringing the little ones? Union Station Kansas City (Science City) is a whole day — hands-on science exhibits, a planetarium, and trains inside a gorgeous old depot. Char Bar Smoked Meats & Amusements pairs burnt ends with a patio and yard games so the kids stay busy while you eat. Loose Park has ponds and open lawns, Powell Gardens gives them room to roam among the blooms, and the Arabia Steamboat Museum's real sunken-treasure story tends to hook kids who think they hate museums. A Royals afternoon at Kauffman Stadium with the fountains is a family classic too.",
+    "businesses": [
+      "Union Station Kansas City (Science City)",
+      "Char Bar Smoked Meats & Amusements",
+      "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+      "Powell Gardens",
+      "Arabia Steamboat Museum",
+      "Kauffman Stadium"
+    ],
+    "chips": [
+      "Museums",
+      "Parks & outdoors",
+      "Take in a ballgame",
+      "Where to eat"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "shops",
+      "boutique",
+      "makers",
+      "gifts",
+      "local goods",
+      "stores",
+      "market"
+    ],
+    "text": "KC shops local with real character. Made in KC (Country Club Plaza) gathers dozens of local makers under one roof — the easy one-stop for gifts. City Market (Historic River Market) is the buzzing weekend farmers' market and international grocery scene. For paper lovers, Hammerpress hand-sets gorgeous letterpress cards in the Crossroads. And for vintage and antiques, the West Bottoms Antique District turns into a treasure-hunt wonderland on First Fridays. Boutiques like Finefolk, Dear Society, Good Ju Ju, The Bunker, and Duet round out the style side. Want records and books instead?",
+    "businesses": [
+      "Made in KC (Country Club Plaza)",
+      "City Market (Historic River Market)",
+      "Hammerpress",
+      "West Bottoms Antique District",
+      "Finefolk",
+      "Dear Society",
+      "Good Ju Ju",
+      "The Bunker",
+      "Duet"
+    ],
+    "chips": [
+      "Records & books",
+      "Crossroads Arts District",
+      "Coffee & bakeries",
+      "Where to eat"
+    ]
+  },
+  {
+    "keys": [
+      "records",
+      "vinyl",
+      "music shop",
+      "books",
+      "bookstore",
+      "record store",
+      "reading"
+    ],
+    "text": "For crate-diggers and page-turners, KC delivers. Mills Record Company in Westport is the beloved vinyl shop with in-store shows, and Sister Anne's - Records and Coffee lets you flip through wax with a cortado in hand — my kind of two-birds spot. BLK + BRWN. is a Black-owned bookstore and gathering space worth your dollars, and Prospero's Books is the wonderfully cluttered used-book labyrinth every good city needs. Slow browsing, low and slow, just how we do.",
+    "businesses": [
+      "Mills Record Company",
+      "Sister Anne's - Records and Coffee",
+      "BLK + BRWN.",
+      "Prospero's Books"
+    ],
+    "chips": [
+      "Boutiques & makers",
+      "Coffee spots",
+      "Crossroads Arts District",
+      "Where to eat"
+    ]
+  },
+  {
+    "keys": [
+      "crossroads",
+      "arts district",
+      "first friday",
+      "galleries",
+      "first fridays",
+      "murals"
+    ],
+    "text": "The Crossroads Arts District is KC's creative heart — galleries, restaurants, roasters, and makers packed into old warehouses just south of downtown. Time it for First Fridays and the whole neighborhood spills into the streets with art, music, and food trucks. It's home base for Messenger Coffee Co. + Ibis Bakery, Hammerpress, and the handsome Crossroads Hotel with The Town Company inside. Wander, graze, and let the district set your pace.",
+    "businesses": [
+      "Crossroads Arts District",
+      "Messenger Coffee Co. + Ibis Bakery",
+      "Hammerpress",
+      "Crossroads Hotel",
+      "The Town Company"
+    ],
+    "chips": [
+      "Records & shops",
+      "Coffee & bakeries",
+      "Where to stay",
+      "Where to eat"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "lodging",
+      "where to stay",
+      "accommodation",
+      "sleep",
+      "room"
+    ],
+    "text": "Where to lay your head. The Crossroads Hotel is a converted brewery building in the arts district — walkable to galleries, coffee, and The Town Company right downstairs. For grand and central, Loews Kansas City Hotel connects to the convention center with skyline views and easy reach to the Power & Light nightlife and the streetcar. Either way you're a short ride from the smoke.",
+    "businesses": [
+      "Crossroads Hotel",
+      "Loews Kansas City Hotel"
+    ],
+    "chips": [
+      "Crossroads Arts District",
+      "Where to eat nearby",
+      "Cocktail bars",
+      "Museums"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "side trip",
+      "lawrence",
+      "weston",
+      "out of town",
+      "nearby",
+      "road trip",
+      "excursion"
+    ],
+    "text": "Got a spare day? Two easy escapes. Lawrence, Kansas — about 45 minutes west — is a lively college town with a great Massachusetts Street main drag, indie shops, and live music. Weston, Missouri, some 40 minutes north, is a preserved 1800s river town with antiques, wineries, and a distillery. Out that way, Weston Bend State Park gives you bluff-top Missouri River overlooks, and the Parkville Nature Sanctuary plus English Landing Park & Platte Landing Park make Parkville a pretty riverside stop on the drive. Powell Gardens east of town is another worthy half-day in bloom.",
+    "businesses": [
+      "Weston Bend State Park",
+      "Parkville Nature Sanctuary",
+      "English Landing Park & Platte Landing Park",
+      "Powell Gardens"
+    ],
+    "chips": [
+      "Parks & trails",
+      "Water & adventure",
+      "Where to eat back in town",
+      "Seasonal picks"
+    ]
+  },
+  {
+    "keys": [
+      "season",
+      "seasonal",
+      "when to visit",
+      "fall",
+      "summer",
+      "spring",
+      "winter",
+      "festival",
+      "boulevardia",
+      "events"
+    ],
+    "text": "KC keeps time by its seasons. Fall belongs to the Chiefs — red everywhere and the loudest Sundays in football at GEHA Field at Arrowhead Stadium (Kansas City Chiefs), best paired with a tailgate. Summer means baseball nights at Kauffman Stadium (Kansas City Royals), patios in full swing, and Boulevardia, the big street festival thrown by Boulevard Brewing Co. Beer Hall in the West Bottoms. Spring is patio-and-ballpark season — opening day, blooming roses at Loose Park, and Powell Gardens waking up. Tell me the month and I'll tailor the day.",
+    "businesses": [
+      "GEHA Field at Arrowhead Stadium (Kansas City Chiefs)",
+      "Kauffman Stadium (Kansas City Royals)",
+      "Boulevard Brewing Co. Beer Hall",
+      "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+      "Powell Gardens"
+    ],
+    "chips": [
+      "Take in a game",
+      "Breweries & beer",
+      "Parks & outdoors",
+      "Where's the barbecue?"
+    ]
+  }
+]

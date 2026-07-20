@@ -1,0 +1,43 @@
+[
+  {
+    "id": "the-250-trail-austin",
+    "title": "The 250 Trail: Austin — East Side Standards",
+    "hook": "Walk the East 11th and 12th spine where Black and Mexican-American Austin built the warmth the whole city later called 'weird' — from a 1945 Chitlin' Circuit juke joint to the brisket and masa masters who planted on the same blocks.",
+    "narrative": "Start where the music started. The Historic Victory Grill opened on V-J Day, 1945, when Johnny Holmes lit up East 11th Street for Black soldiers coming home to a segregated city — and it became one of Austin's essential stops on the Chitlin' Circuit, the juke-joint network that carried B.B. King, Bobby 'Blue' Bland and Gatemouth Brown across the South. It landed on the National Register of Historic Places in 1998, and it's still standing. That East 11th and 12th corridor is the spine of this walk: Black and Mexican-American Austin built here, fed each other here, and kept the porch light on through decades of change. A few blocks over, Joe's Bakery has flipped migas since the Avila family named it in 1962 — a line running back to a 1935 East 9th grocery, and forward to a 2023 James Beard America's Classic. This is the soil the come-as-you-are Austin ethos actually grew from. When the Armadillo World Headquarters opened in a converted 1940s armory in 1970, it borrowed that no-pretension warmth and made it legend before closing in 1980. The Armadillo's gone; the inheritance isn't. You'll taste it in Aaron Franklin's brisket line — East 11th since 2011 — and in Edgar Rico's masa a mile east.",
+    "neighborhoods": [
+      "Central East Austin (East 11th/12th)",
+      "East Cesar Chavez",
+      "Rosewood / Holy Cross"
+    ],
+    "stops": [
+      {
+        "biz": "The Historic Victory Grill",
+        "note": "Begin at the source: this 1945 East 11th juke joint is one of the last original Chitlin' Circuit rooms still standing, where B.B. King and Gatemouth Brown played a segregated Austin. Come for live blues and Southern soul food — order the fried catfish and let the room's history do the rest."
+      },
+      {
+        "biz": "Joe's Bakery & Coffee Shop",
+        "note": "A four-generation Mexican-American institution on East 7th, named by Joe Avila in 1962 and crowned a James Beard America's Classic in 2023. Get in the morning line for the migas plate and a bag of pan dulce — this is the East Side's breakfast table, no pretension included."
+      },
+      {
+        "biz": "Franklin Barbecue",
+        "note": "The house that brisket built. Aaron Franklin went from a 2009 trailer to this East 11th brick-and-mortar in 2011, then to a James Beard Award. Yes, the line is real and worth it — order the fatty brisket by the pound and eat it on the picnic tables out front."
+      },
+      {
+        "biz": "Nixta Taqueria",
+        "note": "A mile east on East 12th, chef Edgar Rico earned the James Beard Best Emerging Chef nod in 2022 for what he does with heirloom masa. The duck carnitas taco and the beet 'tartare' tostada are the must-orders — proof the corridor's story is still being written."
+      },
+      {
+        "biz": "Suerte",
+        "note": "Fermín Núñez's masa-driven kitchen in East Cesar Chavez is where the East Side goes upscale without going stiff. The suadero taco and the tuétano (bone marrow) with masa dumplings anchor the menu — a buzzy, open-kitchen dinner that earned a spot in the Michelin Guide."
+      },
+      {
+        "biz": "Comadre Panadería",
+        "note": "Mariela Camacho's East Austin bakery reimagines pan dulce with serious pastry technique. Grab a concha and whatever laminated special is on the board — a sweet, modern echo of the panaderías that have fed this side of town for generations."
+      },
+      {
+        "biz": "The White Horse",
+        "note": "Close the night the Austin way: two-step under the string lights at this East 6th honky-tonk. Free dance lessons early, live country and Western swing late, cheap beer always — the come-as-you-are Armadillo spirit alive and kicking on the East Side."
+      }
+    ]
+  }
+]

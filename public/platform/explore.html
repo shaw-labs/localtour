@@ -1,0 +1,823 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Explore Cities · LocalTour</title>
+<meta name="description" content="Eight cities. One intelligent guide. 1,471 curated businesses across a config-driven city decision engine." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a;
+    --bg-2: #121212;
+    --bg-3: #191919;
+    --bg-card: #1a1a1a;
+    --text: #F5F0E6;
+    --text-muted: #8f8a82;
+    --text-dim: #5a564f;
+    --accent: #dc2626;
+    --accent-hot: #ef4444;
+    --accent-soft: rgba(220, 38, 38, 0.12);
+    --border: rgba(245, 240, 230, 0.08);
+    --border-strong: rgba(245, 240, 230, 0.16);
+    --serif: 'Playfair Display', Georgia, serif;
+    --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --mono: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+
+  body {
+    font-family: var(--sans);
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    overflow-x: hidden;
+    position: relative;
+  }
+
+  /* Subtle noise overlay for cinematic texture */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    opacity: 0.025;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+
+  a { color: inherit; text-decoration: none; }
+
+  /* ===== NAV ===== */
+  .nav {
+    position: fixed;
+    top: 0; left: 0; right: 0;
+    z-index: 100;
+    padding: 18px 28px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    background: rgba(10, 10, 10, 0.72);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .nav-brand {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: -0.01em;
+  }
+
+  .nav-brand .lt-mark {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px; height: 32px;
+    background: var(--accent);
+    border-radius: 8px;
+    color: #fff;
+    font-family: var(--sans);
+    font-weight: 700;
+    font-size: 13px;
+    letter-spacing: 0.02em;
+  }
+
+  .nav-brand .tour { color: var(--accent); }
+
+  .nav-links {
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    font-size: 14px;
+    color: var(--text-muted);
+  }
+  .nav-links a {
+    transition: color 0.2s ease;
+    position: relative;
+  }
+  .nav-links a:hover { color: var(--text); }
+  .nav-links a.active { color: var(--text); }
+  .nav-links a.active::after {
+    content: '';
+    position: absolute;
+    bottom: -6px; left: 0;
+    width: 100%; height: 1px;
+    background: var(--accent);
+  }
+
+  .nav-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 10px 20px;
+    background: var(--accent);
+    color: #fff;
+    border-radius: 999px;
+    font-weight: 500;
+    font-size: 14px;
+    transition: transform 0.2s ease, background 0.2s ease;
+  }
+  .nav-cta:hover { background: var(--accent-hot); transform: translateY(-1px); }
+
+  @media (max-width: 820px) {
+    .nav { padding: 14px 18px; }
+    .nav-links { display: none; }
+  }
+
+  /* ===== LAYOUT ===== */
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 28px;
+    position: relative;
+    z-index: 2;
+  }
+
+  @media (max-width: 640px) { .container { padding: 0 20px; } }
+
+  section { position: relative; z-index: 2; }
+
+  /* ===== HERO ===== */
+  .hero {
+    padding: 180px 0 100px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .hero::before {
+    content: '';
+    position: absolute;
+    top: 20%; right: -10%;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, var(--accent-soft) 0%, transparent 60%);
+    pointer-events: none;
+    filter: blur(40px);
+  }
+
+  .eyebrow {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--accent);
+    margin-bottom: 28px;
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .eyebrow::before {
+    content: '';
+    width: 32px;
+    height: 1px;
+    background: var(--accent);
+  }
+
+  .hero h1 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(44px, 8vw, 112px);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    max-width: 14ch;
+    margin-bottom: 40px;
+  }
+  .hero h1 em {
+    font-style: italic;
+    color: var(--accent);
+    font-weight: 300;
+  }
+
+  .hero-lede {
+    font-size: clamp(17px, 1.6vw, 20px);
+    line-height: 1.55;
+    color: var(--text-muted);
+    max-width: 52ch;
+    margin-bottom: 56px;
+  }
+
+  .hero-stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+    margin-top: 80px;
+  }
+  .hero-stat {
+    background: var(--bg);
+    padding: 36px 28px;
+  }
+  .hero-stat .num {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: clamp(32px, 4vw, 56px);
+    line-height: 1;
+    margin-bottom: 10px;
+    letter-spacing: -0.02em;
+  }
+  .hero-stat .num .plus { color: var(--accent); font-size: 0.5em; vertical-align: super; }
+  .hero-stat .label {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+  }
+
+  @media (max-width: 720px) {
+    .hero { padding: 140px 0 60px; }
+    .hero-stats { grid-template-columns: repeat(2, 1fr); }
+  }
+
+  /* ===== SECTION HEADINGS ===== */
+  .section-head {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 40px;
+    margin-bottom: 64px;
+    padding-bottom: 28px;
+    border-bottom: 1px solid var(--border);
+  }
+  .section-head h2 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(32px, 4.5vw, 56px);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    max-width: 16ch;
+  }
+  .section-head h2 em { font-style: italic; color: var(--accent); font-weight: 300; }
+  .section-head .section-meta {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    text-align: right;
+    min-width: 140px;
+  }
+
+  @media (max-width: 720px) {
+    .section-head { flex-direction: column; align-items: flex-start; gap: 20px; }
+    .section-head .section-meta { text-align: left; }
+  }
+
+  /* ===== CITIES SECTION ===== */
+  .cities {
+    padding: 100px 0 120px;
+  }
+
+  .cities-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2px;
+    background: var(--border);
+    border: 1px solid var(--border);
+  }
+
+  .city-card {
+    background: var(--bg-2);
+    aspect-ratio: 4/5;
+    padding: 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    position: relative;
+    overflow: hidden;
+    transition: background 0.3s ease;
+    cursor: pointer;
+  }
+
+  .city-card::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: var(--city-grad);
+    opacity: 0.15;
+    transition: opacity 0.4s ease;
+    pointer-events: none;
+  }
+  .city-card:hover::before { opacity: 0.35; }
+  .city-card:hover { background: var(--bg-3); }
+
+  .city-card .city-idx {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.14em;
+    color: var(--text-dim);
+    position: relative;
+    z-index: 2;
+  }
+
+  .city-card .city-name {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: clamp(28px, 3vw, 44px);
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    position: relative;
+    z-index: 2;
+  }
+  .city-card .city-name em { font-style: italic; color: var(--accent); font-weight: 300; }
+
+  .city-card .city-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    position: relative;
+    z-index: 2;
+  }
+  .city-card .city-meta .line {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    display: flex;
+    justify-content: space-between;
+    padding: 6px 0;
+    border-top: 1px solid var(--border);
+  }
+  .city-card .city-meta .line:first-child { border-top: none; }
+  .city-card .city-meta .line .v { color: var(--text); font-weight: 500; }
+
+  .city-card .city-arrow {
+    position: absolute;
+    top: 28px; right: 28px;
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    border: 1px solid var(--border-strong);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    z-index: 2;
+  }
+  .city-card:hover .city-arrow {
+    background: var(--accent);
+    border-color: var(--accent);
+    transform: rotate(-45deg);
+  }
+  .city-card .city-arrow svg { width: 14px; height: 14px; }
+
+  @media (max-width: 960px) { .cities-grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 520px) {
+    .cities-grid { grid-template-columns: 1fr; }
+    .city-card { aspect-ratio: 16/10; }
+  }
+
+  /* ===== FACTORY SECTION ===== */
+  .factory {
+    padding: 120px 0;
+    background: var(--bg-2);
+    position: relative;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
+  }
+
+  .factory::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 50%;
+    transform: translateX(-50%);
+    width: 1px; height: 100%;
+    background: linear-gradient(to bottom, transparent, var(--border-strong) 20%, var(--border-strong) 80%, transparent);
+    opacity: 0.5;
+  }
+
+  .factory-intro {
+    max-width: 68ch;
+    margin-bottom: 80px;
+  }
+  .factory-intro p {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: clamp(20px, 2.2vw, 28px);
+    line-height: 1.4;
+    color: var(--text);
+    letter-spacing: -0.01em;
+  }
+  .factory-intro p + p { margin-top: 20px; color: var(--text-muted); }
+
+  .pipeline {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 0;
+    position: relative;
+  }
+
+  .pipeline-step {
+    padding: 48px 40px;
+    border-left: 1px solid var(--border);
+    position: relative;
+  }
+  .pipeline-step:first-child { border-left: none; }
+
+  .pipeline-step .step-num {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: 0.18em;
+    color: var(--accent);
+    margin-bottom: 32px;
+    display: block;
+  }
+
+  .pipeline-step h3 {
+    font-family: var(--serif);
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 1.1;
+    letter-spacing: -0.01em;
+    margin-bottom: 18px;
+  }
+
+  .pipeline-step p {
+    color: var(--text-muted);
+    font-size: 15px;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+
+  .pipeline-step .step-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .pipeline-step .step-tag {
+    font-family: var(--mono);
+    font-size: 10px;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    padding: 5px 10px;
+    border: 1px solid var(--border-strong);
+    border-radius: 4px;
+  }
+
+  @media (max-width: 820px) {
+    .pipeline { grid-template-columns: 1fr; }
+    .pipeline-step { border-left: none; border-top: 1px solid var(--border); padding: 40px 0; }
+    .pipeline-step:first-child { border-top: none; padding-top: 0; }
+  }
+
+  /* ===== PARTNER CTA ===== */
+  .partner {
+    padding: 160px 0;
+    text-align: center;
+    position: relative;
+  }
+
+  .partner::before {
+    content: '';
+    position: absolute;
+    top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 800px; height: 800px;
+    background: radial-gradient(circle, var(--accent-soft) 0%, transparent 60%);
+    pointer-events: none;
+    filter: blur(60px);
+  }
+
+  .partner-inner { position: relative; z-index: 2; }
+
+  .partner h2 {
+    font-family: var(--serif);
+    font-weight: 300;
+    font-size: clamp(40px, 6vw, 88px);
+    line-height: 1;
+    letter-spacing: -0.03em;
+    max-width: 16ch;
+    margin: 0 auto 32px;
+  }
+  .partner h2 em { font-style: italic; color: var(--accent); }
+
+  .partner p {
+    font-size: 18px;
+    color: var(--text-muted);
+    max-width: 52ch;
+    margin: 0 auto 48px;
+    line-height: 1.6;
+  }
+
+  .cta-group {
+    display: inline-flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 28px;
+    font-size: 15px;
+    font-weight: 500;
+    border-radius: 999px;
+    transition: all 0.2s ease;
+    border: 1px solid transparent;
+  }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-primary:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  .btn-ghost { border-color: var(--border-strong); color: var(--text); }
+  .btn-ghost:hover { background: var(--bg-2); border-color: var(--text-muted); }
+
+  /* ===== FOOTER ===== */
+  footer {
+    padding: 80px 0 48px;
+    border-top: 1px solid var(--border);
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+  }
+  .foot-row {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    text-transform: uppercase;
+  }
+  .foot-row a { color: var(--text-muted); transition: color 0.2s; }
+  .foot-row a:hover { color: var(--text); }
+
+  /* ===== SCROLL REVEAL ===== */
+  .reveal {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.8s cubic-bezier(.2,.7,.2,1), transform 0.8s cubic-bezier(.2,.7,.2,1);
+  }
+  .reveal.in {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .reveal[data-delay="1"] { transition-delay: 0.08s; }
+  .reveal[data-delay="2"] { transition-delay: 0.16s; }
+  .reveal[data-delay="3"] { transition-delay: 0.24s; }
+  .reveal[data-delay="4"] { transition-delay: 0.32s; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .reveal { opacity: 1; transform: none; transition: none; }
+    html { scroll-behavior: auto; }
+  }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="/" class="nav-brand">
+    <span class="lt-mark">LT</span>
+    <span>Local<span class="tour">Tour</span></span>
+  </a>
+  <div class="nav-links">
+    <a href="/platform/explore.html" class="active">Cities</a>
+    <a href="/platform/concierge.html">Concierge</a>
+    <a href="/platform/planner.html">Planner</a>
+    <a href="/platform/community.html">Wall</a>
+  </div>
+  <a href="#cities" class="nav-cta">Explore</a>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow reveal">Platform · Cities</div>
+      <h1 class="reveal" data-delay="1">Eight cities.<br/>One <em>intelligent</em><br/>guide.</h1>
+      <p class="hero-lede reveal" data-delay="2">
+        LocalTour is a config-driven decision engine. Every city ships with a local concierge, a curated business graph, and a community wall — all generated from a single intelligence pipeline.
+      </p>
+      <div class="hero-stats reveal" data-delay="3">
+        <div class="hero-stat">
+          <div class="num">8</div>
+          <div class="label">Cities Live</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">1,471</div>
+          <div class="label">Businesses Indexed</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">214</div>
+          <div class="label">Concierge Nodes</div>
+        </div>
+        <div class="hero-stat">
+          <div class="num">∞</div>
+          <div class="label">Scaling Model</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CITIES GRID -->
+  <section class="cities" id="cities">
+    <div class="container">
+      <div class="section-head reveal">
+        <h2>The <em>eight</em>.</h2>
+        <div class="section-meta">Tap to enter ↗</div>
+      </div>
+
+      <div class="cities-grid">
+
+        <a href="/cities/new-york-city/" class="city-card reveal" style="--city-grad: linear-gradient(135deg, #DC2626, #450a0a);">
+          <div class="city-idx">001 / NEW YORK</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name">New<br/><em>York</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">312</span></div>
+            <div class="line"><span>Concierge</span><span class="v">Manhattan</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q1 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/san-francisco/" class="city-card reveal" data-delay="1" style="--city-grad: linear-gradient(135deg, #F97316, #451a03);">
+          <div class="city-idx">002 / SAN FRANCISCO</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name">San<br/><em>Francisco</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">187</span></div>
+            <div class="line"><span>Concierge</span><span class="v">The Fog</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q1 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/miami/" class="city-card reveal" data-delay="2" style="--city-grad: linear-gradient(135deg, #14B8A6, #042f2e);">
+          <div class="city-idx">003 / MIAMI</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name"><em>Miami</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">198</span></div>
+            <div class="line"><span>Concierge</span><span class="v">Ocean</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q1 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/chicago/" class="city-card reveal" data-delay="3" style="--city-grad: linear-gradient(135deg, #3B82F6, #172554);">
+          <div class="city-idx">004 / CHICAGO</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name"><em>Chicago</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">176</span></div>
+            <div class="line"><span>Concierge</span><span class="v">The Loop</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q2 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/houston/" class="city-card reveal" style="--city-grad: linear-gradient(135deg, #F59E0B, #451a03);">
+          <div class="city-idx">005 / HOUSTON</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name"><em>Houston</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">142</span></div>
+            <div class="line"><span>Concierge</span><span class="v">Bayou</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q2 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/new-orleans/" class="city-card reveal" data-delay="1" style="--city-grad: linear-gradient(135deg, #A855F7, #2e1065);">
+          <div class="city-idx">006 / NEW ORLEANS</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name">New<br/><em>Orleans</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">164</span></div>
+            <div class="line"><span>Concierge</span><span class="v">The Quarter</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q2 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/los-angeles/" class="city-card reveal" data-delay="2" style="--city-grad: linear-gradient(135deg, #EC4899, #500724);">
+          <div class="city-idx">007 / LOS ANGELES</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name">Los<br/><em>Angeles</em></div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">218</span></div>
+            <div class="line"><span>Concierge</span><span class="v">Sunset</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q2 '26</span></div>
+          </div>
+        </a>
+
+        <a href="/cities/smoky-mountains/" class="city-card reveal" data-delay="3" style="--city-grad: linear-gradient(135deg, #10B981, #022c22);">
+          <div class="city-idx">008 / SMOKY MOUNTAINS</div>
+          <svg class="city-arrow" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="1.5"/></svg>
+          <div class="city-name"><em>Smoky</em><br/>Mountains</div>
+          <div class="city-meta">
+            <div class="line"><span>Businesses</span><span class="v">74</span></div>
+            <div class="line"><span>Concierge</span><span class="v">Smoky</span></div>
+            <div class="line"><span>Launched</span><span class="v">Q2 '26</span></div>
+          </div>
+        </a>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CITY INTELLIGENCE FACTORY -->
+  <section class="factory">
+    <div class="container">
+      <div class="section-head reveal">
+        <h2>The City Intelligence <em>Factory</em>.</h2>
+        <div class="section-meta">Internal pipeline · v1.0</div>
+      </div>
+
+      <div class="factory-intro reveal" data-delay="1">
+        <p>Every new city on LocalTour isn't hand-built. It's produced.</p>
+        <p>A three-prompt pipeline ingests local context, surfaces the right merchants, and assembles a complete city — concierge, business graph, community scaffolding, affiliate structure — in under a day.</p>
+      </div>
+
+      <div class="pipeline">
+        <div class="pipeline-step reveal">
+          <span class="step-num">PROMPT 01</span>
+          <h3>Geography<br/>&amp; Context</h3>
+          <p>Neighborhoods, districts, cultural texture, seasonality, traveler archetypes, transit grammar. The city's shape before the city's businesses.</p>
+          <div class="step-tags">
+            <span class="step-tag">Districts</span>
+            <span class="step-tag">Archetypes</span>
+            <span class="step-tag">Seasons</span>
+          </div>
+        </div>
+
+        <div class="pipeline-step reveal" data-delay="1">
+          <span class="step-num">PROMPT 02</span>
+          <h3>Business<br/>Graph</h3>
+          <p>Curated merchants, categories, affiliate tiers, concierge weight. Not scraped — reasoned. Each venue inherits context from the geography it lives in.</p>
+          <div class="step-tags">
+            <span class="step-tag">Merchants</span>
+            <span class="step-tag">Categories</span>
+            <span class="step-tag">Affiliate</span>
+          </div>
+        </div>
+
+        <div class="pipeline-step reveal" data-delay="2">
+          <span class="step-num">PROMPT 03</span>
+          <h3>Concierge<br/>Persona</h3>
+          <p>A conversational node tree fluent in the city. Knows the districts, the merchants, the weather window for the thing you're asking about. Named.</p>
+          <div class="step-tags">
+            <span class="step-tag">Node Tree</span>
+            <span class="step-tag">Persona</span>
+            <span class="step-tag">Routing</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PARTNER CTA -->
+  <section class="partner">
+    <div class="container">
+      <div class="partner-inner">
+        <div class="eyebrow reveal" style="justify-content: center;">Become a city partner</div>
+        <h2 class="reveal" data-delay="1">Want your<br/>city <em>next</em>?</h2>
+        <p class="reveal" data-delay="2">We ship cities in days, not months. If you operate a visitor bureau, DMO, chamber, or just know your town cold — we'll build it with you.</p>
+        <div class="cta-group reveal" data-delay="3">
+          <a href="mailto:partners@shaw-labs.com?subject=LocalTour%20City%20Partner" class="btn btn-primary">
+            Email Partnerships
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+          </a>
+          <a href="/platform/concierge.html" class="btn btn-ghost">See the Concierge</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <div>© 2026 LocalTour · SH@W Labs</div>
+      <div>
+        <a href="mailto:localtour@shaw-labs.com">localtour@shaw-labs.com</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Scroll reveal
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('in');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.12, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+</script>
+
+</body>
+</html>

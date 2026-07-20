@@ -1,0 +1,294 @@
+{
+  "slug": "houston",
+  "name": "Houston",
+  "state": "Texas",
+  "region": "Gulf Coast / Sun Belt",
+  "tagline": "Space City Runs on Flavor",
+  "description": "America's fourth-largest city is a sprawling, multicultural powerhouse where NASA's mission control meets one of the most diverse food scenes on the planet. Houston rewards the curious — those who dig past the freeways to find world-class museums, a booming craft beer scene, and 70+ cuisines in a single metro.",
+  "coordinates": {
+    "lat": 29.76,
+    "lng": -95.37
+  },
+  "timezone": "America/Chicago",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Sprawling, humid, fiercely multicultural metropolis that punches above its weight in food, art, and space exploration — and doesn't care if you know it yet.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "food-scene",
+      "title": "Food Capital of the South",
+      "icon": "🍜",
+      "description": "Houston's 10,000+ restaurants spanning 70+ cuisines make dining THE reason to visit."
+    },
+    {
+      "id": "space-science",
+      "title": "Space City Experience",
+      "icon": "🚀",
+      "description": "NASA's Johnson Space Center and Space Center Houston anchor the city's identity."
+    },
+    {
+      "id": "sports-entertainment",
+      "title": "Game Day Houston",
+      "icon": "🏟️",
+      "description": "Astros, Texans, Rockets, Dynamo, Dash — plus NRG Stadium rodeo and concert circuit."
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Live Music",
+      "icon": "🎵",
+      "description": "Honky-tonks, rooftops, live music"
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Live Music",
+      "icon": "🎵",
+      "description": "Honky-tonks, rooftops, live music"
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Live Music",
+      "icon": "🎵",
+      "description": "Honky-tonks, rooftops, live music"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie Mode",
+      "icon": "🍜",
+      "description": "Houston's 10,000+ restaurants spanning 70+ cuisines — Michelin stars to taco trucks.",
+      "tags": [
+        "dining",
+        "fine_dining",
+        "casual",
+        "bbq",
+        "mexican",
+        "asian",
+        "seafood",
+        "breakfast",
+        "brunch"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture & Museums",
+      "icon": "🎭",
+      "description": "19-museum district, world-class art, theater, and NASA.",
+      "tags": [
+        "museums",
+        "galleries",
+        "theaters",
+        "landmarks",
+        "historic_sites"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🌙",
+      "description": "Craft cocktail bars, breweries, live music venues, and late-night eats.",
+      "tags": [
+        "breweries",
+        "cocktail_bars",
+        "dive_bars",
+        "live_music_venues",
+        "clubs"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family Fun",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Space Center, zoo, children's museum, aquarium, parks, and playgrounds.",
+      "tags": [
+        "amusement",
+        "museums",
+        "parks",
+        "family_activities"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill & Relax",
+      "icon": "😎",
+      "description": "Beer gardens, park trails, hammock bars, and easy-going patios.",
+      "tags": [
+        "parks",
+        "breweries",
+        "coffee",
+        "spas"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Outdoor Adventure",
+      "icon": "🛶",
+      "description": "Kayak the bayou, run Memorial Park, bike the trails, day-trip to Galveston.",
+      "tags": [
+        "parks",
+        "water_sports",
+        "biking",
+        "hiking"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Date Night",
+      "icon": "💫",
+      "description": "Tasting menus, museum dinners, speakeasy cocktails, and sunset kayaks.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "spas",
+        "parks"
+      ]
+    },
+    {
+      "id": "sports",
+      "label": "Game Day",
+      "icon": "🏟️",
+      "description": "Astros, Texans, Rockets, Dynamo, Dash, and the Rodeo.",
+      "tags": [
+        "sports",
+        "bars",
+        "nightlife"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "You need a car. Houston is massive and sprawling. METRORail light rail covers downtown, Museum District, Medical Center, and NRG Park. METRO bus network is extensive but slow. Uber/Lyft widely available. BCycle bike share in urban core. Downtown tunnels connect 95 blocks underground.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "San Antonio is 3 hours west via I-10. Dallas is 3.5 hours north via I-45. Austin is 2.5 hours west via TX-71/I-10."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Amtrak Sunset Limited stops in Houston (three times per week, connecting New Orleans and Los Angeles). No high-speed rail yet."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "George Bush Intercontinental Airport (IAH) is a major United hub with global routes. William P. Hobby Airport (HOU) handles Southwest Airlines and domestic flights, 20 min from downtown."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Galveston Island",
+      "distance": "50 min drive / 50 miles south on I-45",
+      "pitch": "Gulf Coast beach town with a historic downtown, seafood restaurants, Moody Gardens, and the 1894 Grand Opera House. Not Caribbean-blue water, but the Strand district and shrimp po'boys make it worth the drive.",
+      "highlights": null
+    },
+    {
+      "name": "San Jacinto Battleground & Battleship Texas",
+      "distance": "25 min drive / 20 miles east",
+      "pitch": "Site of the battle that won Texas independence. The San Jacinto Monument is taller than the Washington Monument and there's a museum inside. Battleship Texas (1912) is one of the last dreadnoughts.",
+      "highlights": null
+    },
+    {
+      "name": "Kemah Boardwalk",
+      "distance": "30 min drive / 25 miles southeast",
+      "pitch": "Waterfront boardwalk with rides, restaurants, and Galveston Bay views. More carnival than cultural — but kids love it and the sunset over the bay is legit.",
+      "highlights": null
+    },
+    {
+      "name": "Texas Renaissance Festival (Todd Mission)",
+      "distance": "45 min drive / 55 miles north (weekends Oct-Nov only)",
+      "pitch": "World's largest Renaissance festival. Jousting, turkey legs, mead, 200+ shops, and full immersion into a fantasy village. Weekend-only for 8 weeks in fall.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "Space City Sam",
+    "greeting": "Welcome to Houston, Space City! I'm Sam — born at Hermann Park, raised on BBQ, and I've been eating my way through this town for 30 years. What can I point you toward?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-bayou-summer.jpg",
+    "story": [
+      "story-heights-historic.jpg",
+      "story-navigation-blvd.jpg",
+      "story-skyline-dusk.jpg",
+      "story-space-legacy.jpg"
+    ],
+    "wall": [
+      "wall-art-car.jpg",
+      "wall-beer-garden.jpg",
+      "wall-brisket-plate.jpg",
+      "wall-buffalo-bayou.jpg",
+      "wall-crawfish-boil.jpg",
+      "wall-museum-selfie.jpg",
+      "wall-rodeo-night.jpg",
+      "wall-skyline-sunset.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions-space.jpg",
+      "bars_nightlife": "dir-bars-dive.jpg",
+      "bars": "dir-bars-dive.jpg",
+      "coffee_bakeries": "dir-coffee-morning.jpg",
+      "coffee": "dir-coffee-morning.jpg",
+      "dining": "dir-dining-texmex.jpg",
+      "entertainment": "dir-entertainment-stadium2.jpg",
+      "lodging": "dir-lodging-luxury.jpg",
+      "outdoor_adventure": "dir-outdoor-bayou.jpg",
+      "outdoor": "dir-outdoor-bayou.jpg",
+      "shopping": "dir-shopping-vintage3.jpg"
+    },
+    "section_breaks": {
+      "beer": "break-beer-garden3.jpg",
+      "food": "break-food-scene.jpg",
+      "gameday2": "break-gameday2.jpg",
+      "heights": "break-heights-shopping.jpg",
+      "kayak": "break-kayak-bayou.jpg",
+      "museum": "break-museum-district.jpg",
+      "skyline": "break-skyline-twilight.jpg",
+      "space": "break-space-center.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "Houston — Beat the Heat, Find the Flavor",
+    "hero_sub": "Duck into air-conditioned museums, cool off with frozen margaritas on a shaded patio, and catch an Astros game under the retractable roof at Daikin Park."
+  }
+}

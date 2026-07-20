@@ -1,0 +1,246 @@
+{
+  "slug": "kansas-city",
+  "name": "Kansas City",
+  "state": "Missouri",
+  "region": "Midwest",
+  "tagline": "Low and slow, and worth every minute",
+  "description": "A river-town crossroads where jazz was rewritten after dark and barbecue got its own dialect. Kansas City runs on patience — the kind that turns tough brisket into burnt ends and a Tuesday night into a jam session that outlasts the band. Between the fountains and the smokestacks you'll find world-class art hung for free, a jazz district that birthed Charlie Parker, and a fan base that turns fall Sundays into a red sea. Come hungry, stay curious, and let the city cook.",
+  "coordinates": {
+    "lat": 39.0997,
+    "lng": -94.5786
+  },
+  "timezone": "America/Chicago",
+  "identity": {
+    "known_for": [
+      "barbecue and burnt ends",
+      "18th & Vine jazz heritage",
+      "the Nelson-Atkins and free world-class art",
+      "Chiefs and Royals fandom",
+      "boulevards and fountains"
+    ],
+    "vibe": "Unhurried, warm, and quietly proud — a working city that lets the good stuff take its time",
+    "best_season": "fall",
+    "visitor_type": [
+      "foodies chasing the burnt-end pilgrimage",
+      "jazz and history lovers",
+      "sports fans",
+      "weekend road-trippers from the plains"
+    ]
+  },
+  "hero": {
+    "summer": "The ballpark lights hum, Boulevardia spills down the boulevards, and the smokers never cool off — summer here is a long, sweaty, glorious cookout.",
+    "fall": "Red and gold everywhere you look — the leaves, the Chiefs jerseys, the burnt ends caramelizing in the pit while the whole city holds its breath for Sunday.",
+    "winter": "Cold nights are what jazz was made for — duck into a warm room off 18th & Vine, order something smoked, and let the low-and-slow season keep you.",
+    "spring": "First pitch weather: patios reopen, the fountains switch back on, and the city stretches awake with a plate of ribs and a hopeful scorecard."
+  },
+  "nexus": {
+    "type": "cultural_district",
+    "anchor": "18th & Vine Jazz District",
+    "anchor_url": "https://www.americanjazzmuseum.org/",
+    "radius": "0.5 miles",
+    "services": [
+      "live jazz clubs",
+      "museums",
+      "restaurants and bars",
+      "historic theaters",
+      "guided heritage tours"
+    ],
+    "affiliate_density": "medium",
+    "description": "Ground zero for Kansas City's soul — the historic Black cultural and jazz district where Charlie Parker came up and the American Jazz Museum and Negro Leagues Baseball Museum share a roof. From here the BBQ lineage runs straight back into the same neighborhoods. This is where the story starts: 18th & Vine to the pit."
+  },
+  "nexus_grid": [
+    {
+      "id": "jazz-museum",
+      "title": "American Jazz Museum",
+      "icon": "🎷",
+      "description": "Interactive exhibits on Parker, Ellington, and Ella, plus the working Blue Room club and the restored Gem Theater — jazz you can hear, not just read about."
+    },
+    {
+      "id": "negro-leagues",
+      "title": "Negro Leagues Baseball Museum",
+      "icon": "⚾",
+      "description": "The definitive telling of Black baseball, right where the Monarchs played — a companion to the jazz museum under the same 18th & Vine roof."
+    },
+    {
+      "id": "the-pit",
+      "title": "The Burnt-End Trail",
+      "icon": "🔥",
+      "description": "The BBQ lineage that grew out of these same blocks — brisket points burnt low and slow into the city's signature bite. Follow your nose."
+    },
+    {
+      "id": "blue-room",
+      "title": "The Blue Room",
+      "icon": "🎺",
+      "description": "A jazz club that doubles as a museum by day and a live room by night — Mondays, Fridays, and Saturdays the horns come out."
+    },
+    {
+      "id": "gem-theater",
+      "title": "Gem Theater",
+      "icon": "🎭",
+      "description": "The 1912 movie house reborn as a performing-arts stage anchoring the district's south side — concerts, film, and jazz history in one room."
+    },
+    {
+      "id": "mutual-musicians",
+      "title": "Mutual Musicians Foundation",
+      "icon": "🌙",
+      "description": "The legendary after-hours union hall where KC jam sessions still run past 1 a.m. — a National Historic Landmark that never fully stopped swinging."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍖",
+      "description": "Burnt ends, ribs, and the great sauce debate — plus a new-school food scene that's earned its own smoke ring.",
+      "tags": [
+        "barbecue",
+        "burnt ends",
+        "farm-to-table",
+        "food halls"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "☕",
+      "description": "Slow mornings in the coffee houses, easy afternoons in the sculpture park — the city's default gear is unhurried.",
+      "tags": [
+        "coffee",
+        "parks",
+        "riverfront",
+        "cafes"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "🌹",
+      "description": "Fountains at dusk, a candlelit table, and a jazz club nightcap — KC does low-lit and lovely better than it lets on.",
+      "tags": [
+        "fine dining",
+        "jazz",
+        "wine",
+        "sunset views"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "🚵",
+      "description": "River trails, streetcar sprints, and day-trip escapes to Lawrence or Weston — plenty to roam beyond downtown.",
+      "tags": [
+        "trails",
+        "river",
+        "cycling",
+        "day trips"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "🎷",
+      "description": "18th & Vine, the free Nelson-Atkins, and the WWI Museum's 217-foot tower — a city that punches way above its size on the arts.",
+      "tags": [
+        "jazz",
+        "museums",
+        "history",
+        "galleries"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🍸",
+      "description": "After-hours jam sessions, Power & Light crowds, and rooftop bars — the horns and the taps stay on late.",
+      "tags": [
+        "bars",
+        "live music",
+        "clubs",
+        "rooftops"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "🎡",
+      "description": "Ballgames, the zoo, science center, and the fountains kids can chase — easy wins for the whole crew.",
+      "tags": [
+        "sports",
+        "zoo",
+        "museums",
+        "parks"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Kansas City International Airport (MCI) sits about 20 miles northwest of downtown — roughly 25-30 minutes by car or rideshare. The airport's single modern terminal opened in 2023.",
+    "local_transport": "The free KC Streetcar runs the north-south downtown spine from the River Market through the Crossroads to Union Station and now Country Club Plaza. RideKC buses cover the rest, but a car earns its keep for the museums, 18th & Vine, and any BBQ pilgrimage off the streetcar line."
+  },
+  "side_trips": [
+    {
+      "name": "Lawrence, Kansas",
+      "distance": "45 minutes west",
+      "pitch": "A leafy college town with an outsized indie streak — bookshops, live music, and a Massachusetts Street that actually walks.",
+      "highlights": [
+        "Massachusetts Street shops and bars",
+        "University of Kansas campus",
+        "local music venues",
+        "Free State brewing scene"
+      ]
+    },
+    {
+      "name": "Weston, Missouri",
+      "distance": "40 minutes northwest",
+      "pitch": "A preserved 1800s river town of antique shops, wineries, and a distillery — the slow-Sunday antidote to the city.",
+      "highlights": [
+        "historic downtown antiques",
+        "Weston wineries",
+        "Holladay Distillery",
+        "bluff-country bed and breakfasts"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Pitmaster",
+    "greeting": "Well, look who wandered in. Grab a stool — the good stuff takes time, and I've got plenty of it. Tell me what you're hungry for, and I don't just mean the ribs.",
+    "personality": "Patient, warm, and wry — talks about the city the way he tends a smoker: low and slow, no rushing the bark. Evenhanded in the eternal burnt-end debates, generous with a story, and quietly certain that anything worth having is worth waiting on.",
+    "sign_off": "Now go on — pace yourself, save room, and let the city cook. I'll keep the pit warm."
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "bbq-pit.jpg",
+      "district-18th-vine.jpg",
+      "landmark-union-station.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions.jpg",
+      "bars_nightlife": "dir-bars_nightlife.jpg",
+      "coffee_bakeries": "dir-coffee_bakeries.jpg",
+      "dining": "dir-dining.jpg",
+      "entertainment": "dir-entertainment.jpg",
+      "lodging": "dir-lodging.jpg",
+      "outdoor_adventure": "dir-outdoor_adventure.jpg",
+      "services": "dir-services.jpg",
+      "shopping": "dir-shopping.jpg"
+    },
+    "section_breaks": {}
+  }
+}

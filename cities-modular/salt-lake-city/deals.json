@@ -1,0 +1,122 @@
+[
+  {
+    "id": "slc-deal-snowbird-advance-lift",
+    "business_name": "Snowbird Ski and Summer Resort",
+    "category": "outdoor_adventure",
+    "offer_text": "Powder Hound tip: buy your Snowbird lift tickets online in advance and save up to 20% off the walk-up window rate. Plan-ahead pricing rewards the early planner, so lock in your canyon day before you leave the valley. Kids 6 and under always ride free.",
+    "offer_type": "advance_purchase_discount",
+    "redemption_type": "online",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-snowbird-tram-activity-pass",
+    "business_name": "Snowbird Aerial Tram",
+    "category": "attractions",
+    "offer_text": "Ride the legendary red-and-blue Tram 2,900 vertical feet to 11,000 feet for less: reserve an All-Day Activity Pass (unlimited Scenic Tram rides plus more) at least 7 days ahead and save up to 15%. Summit passholders ride the Tram free all summer.",
+    "offer_type": "advance_purchase_discount",
+    "redemption_type": "online",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-tracy-aviary-monday-five-after-five",
+    "business_name": "Tracy Aviary",
+    "category": "attractions",
+    "offer_text": "Wander the Liberty Park aviary as the light goes golden: admission drops to just $5 after 5 p.m. on Mondays in June, July and August, when the gates stay open until 8 p.m. A gentle, low-altitude evening among the birds.",
+    "offer_type": "discounted_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-08-31"
+  },
+  {
+    "id": "slc-deal-nhmu-five-after-five",
+    "business_name": "Natural History Museum of Utah",
+    "category": "attractions",
+    "offer_text": "The Museum's $5 After 5: every Wednesday after 5 p.m., admission is just $5 for any age. A perfect low-key evening among dinosaurs and the geology of the Wasatch when the crowds thin out.",
+    "offer_type": "discounted_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-red-butte-zap-free-days",
+    "business_name": "Red Butte Garden and Arboretum",
+    "category": "outdoor_adventure",
+    "offer_text": "Thanks to Salt Lake County ZAP funding, Red Butte opens its gates free six days a year, including the last Friday of April and the first Mondays of September and October. Time it right and the foothill garden costs you nothing but the drive up.",
+    "offer_type": "free_admission_day",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-this-is-the-place-coupon",
+    "business_name": "This Is the Place Heritage Park",
+    "category": "attractions",
+    "offer_text": "Step into pioneer-era Utah for less: take $2 off each Daily Experience Pass, presented at the gate. Off-season (late October through late March) the whole park is only $7.95 a day, so the Crossroads of the West heritage is easy on the wallet.",
+    "offer_type": "coupon_discount",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-clark-planetarium-free-exhibits",
+    "business_name": "Clark Planetarium",
+    "category": "attractions",
+    "offer_text": "Three floors of hands-on space exhibits at The Gateway are always free, 354 days a year. Ticketed dome and laser shows are extra, but you can happily orbit the free galleries for an afternoon, and parking is validated at three hours for just $1.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-utah-olympic-park-free-museums",
+    "business_name": "Utah Olympic Park",
+    "category": "attractions",
+    "offer_text": "Admission to the Park grounds and both museums, the George Eccles 2002 Olympic Winter Games Museum and the Alf Engen Ski Museum, is free. Watch athletes train on the very jumps and bobsled track from the 2002 Games without paying a dime; only the rides and Gold Pass sessions are ticketed.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  },
+  {
+    "id": "slc-deal-downtown-farmers-market-double-up",
+    "business_name": "Downtown Farmers Market",
+    "category": "shopping",
+    "offer_text": "Entry to the Pioneer Park market is always free, and the Double Up Food Bucks program matches SNAP dollars two-to-one: swipe your EBT card at the market info booth and every dollar in tokens is matched with up to $20 in green tokens for fresh Utah fruits and veggies each market day.",
+    "offer_type": "snap_match",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-10-24"
+  },
+  {
+    "id": "slc-deal-copper-onion-brunch-specials",
+    "business_name": "The Copper Onion",
+    "category": "dining",
+    "offer_text": "Ease into a Salt Lake weekend at this Broadway New-American mainstay with brunch drink specials: $4 mimosas, $5 Bloody Marys, $6 Bloody Bulls and $8 Irish coffees. A civilized way to rehydrate after a canyon morning.",
+    "offer_type": "brunch_specials",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": null
+  }
+]

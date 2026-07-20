@@ -1,0 +1,681 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Partner With Us · LocalTour</title>
+<meta name="description" content="Three ways to build with LocalTour: city partnerships, merchant listings, and creator affiliates. Ship in days, not months." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a; --bg-2: #121212; --bg-3: #191919;
+    --text: #F5F0E6; --text-muted: #8f8a82; --text-dim: #5a564f;
+    --accent: #dc2626; --accent-hot: #ef4444; --accent-soft: rgba(220, 38, 38, 0.12);
+    --gold: #d4a853;
+    --border: rgba(245, 240, 230, 0.08); --border-strong: rgba(245, 240, 230, 0.16);
+    --serif: 'Playfair Display', Georgia, serif;
+    --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --mono: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.5; font-size: 16px; -webkit-font-smoothing: antialiased; overflow-x: hidden; position: relative; }
+  body::before { content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 1; opacity: 0.025; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); }
+  a { color: inherit; text-decoration: none; }
+
+  .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 18px 28px; display: flex; align-items: center; justify-content: space-between; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); background: rgba(10, 10, 10, 0.72); border-bottom: 1px solid var(--border); }
+  .nav-brand { display: flex; align-items: center; gap: 10px; font-family: var(--serif); font-weight: 700; font-size: 20px; letter-spacing: -0.01em; }
+  .nav-brand .lt-mark { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background: var(--accent); border-radius: 8px; color: #fff; font-family: var(--sans); font-weight: 700; font-size: 13px; letter-spacing: 0.02em; }
+  .nav-brand .tour { color: var(--accent); }
+  .nav-links { display: flex; align-items: center; gap: 28px; font-size: 14px; color: var(--text-muted); }
+  .nav-links a { transition: color 0.2s ease; position: relative; }
+  .nav-links a:hover { color: var(--text); }
+  .nav-cta { display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; background: var(--accent); color: #fff; border-radius: 999px; font-weight: 500; font-size: 14px; transition: all 0.2s ease; }
+  .nav-cta:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  @media (max-width: 820px) { .nav { padding: 14px 18px; } .nav-links { display: none; } }
+
+  .container { max-width: 1240px; margin: 0 auto; padding: 0 28px; position: relative; z-index: 2; }
+  @media (max-width: 640px) { .container { padding: 0 20px; } }
+  section { position: relative; z-index: 2; }
+
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 28px; display: inline-flex; align-items: center; gap: 10px; }
+  .eyebrow::before { content: ''; width: 32px; height: 1px; background: var(--accent); }
+  .eyebrow.center { justify-content: center; }
+
+  /* HERO */
+  .hero { padding: 180px 0 80px; position: relative; overflow: hidden; }
+  .hero::before { content: ''; position: absolute; top: 20%; right: -10%; width: 600px; height: 600px; background: radial-gradient(circle, var(--accent-soft) 0%, transparent 60%); pointer-events: none; filter: blur(40px); }
+  .hero h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(44px, 8vw, 112px); line-height: 0.95; letter-spacing: -0.03em; max-width: 14ch; margin-bottom: 40px; }
+  .hero h1 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .hero-lede { font-size: clamp(17px, 1.6vw, 20px); line-height: 1.6; color: var(--text-muted); max-width: 58ch; }
+  .hero-lede strong { color: var(--text); font-weight: 500; }
+
+  /* JUMP NAV */
+  .jumpnav { padding: 40px 0 0; }
+  .jumps { display: flex; gap: 2px; background: var(--border); border: 1px solid var(--border); border-radius: 0; }
+  .jump { flex: 1; background: var(--bg-2); padding: 20px 24px; text-align: left; transition: background 0.25s ease; cursor: pointer; }
+  .jump:hover { background: var(--bg-3); }
+  .jump .jn { font-family: var(--mono); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 8px; }
+  .jump .jt { font-family: var(--serif); font-weight: 500; font-size: 20px; line-height: 1.1; letter-spacing: -0.01em; }
+  .jump .jt em { color: var(--accent); font-style: italic; font-weight: 400; }
+  @media (max-width: 820px) { .jumps { flex-direction: column; } }
+
+  /* TRACK SECTION */
+  .track { padding: 100px 0; border-top: 1px solid var(--border); }
+  .track:first-of-type { border-top: none; }
+  .track.alt { background: var(--bg-2); }
+
+  .track-grid { display: grid; grid-template-columns: 1fr 1.2fr; gap: 80px; align-items: start; }
+  .track-head .track-num { font-family: var(--serif); font-weight: 300; font-size: 120px; line-height: 0.9; color: var(--accent); letter-spacing: -0.04em; margin-bottom: 16px; }
+  .track-head .track-kind { font-family: var(--mono); font-size: 11px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-dim); margin-bottom: 20px; }
+  .track-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(32px, 4.5vw, 56px); line-height: 1; letter-spacing: -0.02em; max-width: 14ch; }
+  .track-head h2 em { font-style: italic; color: var(--accent); }
+  .track-body > p { font-size: 17px; line-height: 1.7; color: var(--text-muted); margin-bottom: 20px; max-width: 56ch; }
+  .track-body > p strong { color: var(--text); font-weight: 500; }
+  .track-points { margin: 32px 0; border-top: 1px solid var(--border); }
+  .track-point { display: grid; grid-template-columns: 140px 1fr; gap: 20px; padding: 20px 0; border-bottom: 1px solid var(--border); align-items: start; }
+  .track-point .pt-lbl { font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); padding-top: 2px; }
+  .track-point .pt-body h4 { font-family: var(--serif); font-weight: 500; font-size: 18px; line-height: 1.2; letter-spacing: -0.005em; margin-bottom: 6px; }
+  .track-point .pt-body p { font-size: 14px; color: var(--text-muted); line-height: 1.55; }
+  .track-cta { display: inline-flex; align-items: center; gap: 10px; padding: 14px 24px; background: var(--accent); color: #fff; border-radius: 999px; font-size: 14px; font-weight: 500; transition: all 0.2s ease; }
+  .track-cta:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  @media (max-width: 900px) { .track-grid { grid-template-columns: 1fr; gap: 40px; } .track-head .track-num { font-size: 80px; } .track-point { grid-template-columns: 1fr; gap: 6px; } }
+
+  /* PROCESS */
+  .process { padding: 120px 0; background: var(--bg-2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+  .section-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 40px; margin-bottom: 64px; padding-bottom: 28px; border-bottom: 1px solid var(--border); }
+  .section-head h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(32px, 4.5vw, 56px); line-height: 1; letter-spacing: -0.02em; max-width: 18ch; }
+  .section-head h2 em { font-style: italic; color: var(--accent); }
+  .section-head .section-meta { font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-dim); text-align: right; min-width: 140px; }
+  @media (max-width: 720px) { .section-head { flex-direction: column; align-items: flex-start; gap: 20px; } .section-head .section-meta { text-align: left; } }
+
+  .process-steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: 0; }
+  .p-step { padding: 32px 28px; border-left: 1px solid var(--border); position: relative; }
+  .p-step:first-child { border-left: none; padding-left: 0; }
+  .p-step:last-child { padding-right: 0; }
+  .p-step .pn { font-family: var(--mono); font-size: 11px; letter-spacing: 0.16em; color: var(--accent); margin-bottom: 18px; }
+  .p-step h3 { font-family: var(--serif); font-weight: 500; font-size: 22px; line-height: 1.15; letter-spacing: -0.01em; margin-bottom: 12px; }
+  .p-step p { color: var(--text-muted); font-size: 14px; line-height: 1.6; }
+  .p-step .eta { margin-top: 14px; font-family: var(--mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-dim); padding-top: 10px; border-top: 1px dashed var(--border); }
+  .p-step .eta .v { color: var(--text); }
+  @media (max-width: 820px) {
+    .process-steps { grid-template-columns: 1fr 1fr; }
+    .p-step:nth-child(3) { border-left: none; padding-left: 0; }
+    .p-step:nth-child(n+3) { border-top: 1px solid var(--border); padding-top: 32px; margin-top: 8px; }
+  }
+  @media (max-width: 520px) {
+    .process-steps { grid-template-columns: 1fr; }
+    .p-step { border-left: none; padding-left: 0; padding-right: 0; border-top: 1px solid var(--border); padding-top: 32px; margin-top: 8px; }
+    .p-step:first-child { border-top: none; padding-top: 0; margin-top: 0; }
+  }
+
+  /* FAQ */
+  .faq { padding: 120px 0; }
+  .faq-list { border-top: 1px solid var(--border); }
+  .faq-item { border-bottom: 1px solid var(--border); padding: 32px 0; display: grid; grid-template-columns: 60px 1fr; gap: 24px; }
+  .faq-item .faq-n { font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; color: var(--accent); padding-top: 6px; }
+  .faq-item h3 { font-family: var(--serif); font-weight: 500; font-size: clamp(20px, 2vw, 26px); line-height: 1.2; letter-spacing: -0.01em; margin-bottom: 12px; }
+  .faq-item p { color: var(--text-muted); font-size: 16px; line-height: 1.65; max-width: 70ch; }
+  .faq-item p strong { color: var(--text); font-weight: 500; }
+  @media (max-width: 640px) { .faq-item { grid-template-columns: 1fr; gap: 8px; } }
+
+  /* CTA */
+  .cta { padding: 140px 0; text-align: center; position: relative; background: var(--bg-2); border-top: 1px solid var(--border); }
+  .cta::before { content: ''; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 800px; height: 800px; background: radial-gradient(circle, var(--accent-soft) 0%, transparent 60%); pointer-events: none; filter: blur(60px); }
+  .cta-inner { position: relative; z-index: 2; }
+  .cta h2 { font-family: var(--serif); font-weight: 400; font-size: clamp(40px, 6vw, 88px); line-height: 1; letter-spacing: -0.03em; max-width: 16ch; margin: 0 auto 32px; }
+  .cta h2 em { font-style: italic; color: var(--accent); }
+  .cta p { font-size: 18px; color: var(--text-muted); max-width: 52ch; margin: 0 auto 48px; line-height: 1.6; }
+  .cta-group { display: inline-flex; gap: 14px; flex-wrap: wrap; justify-content: center; }
+  .btn { display: inline-flex; align-items: center; gap: 10px; padding: 16px 28px; font-size: 15px; font-weight: 500; border-radius: 999px; transition: all 0.2s ease; border: 1px solid transparent; }
+  .btn-primary { background: var(--accent); color: #fff; }
+  .btn-primary:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  .btn-ghost { border-color: var(--border-strong); color: var(--text); }
+  .btn-ghost:hover { background: var(--bg); border-color: var(--text-muted); }
+
+  footer { padding: 80px 0 48px; border-top: 1px solid var(--border); font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em; color: var(--text-dim); }
+  .foot-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; text-transform: uppercase; }
+  .foot-row a { color: var(--text-muted); transition: color 0.2s; }
+  .foot-row a:hover { color: var(--text); }
+
+  /* MERCHANT INTAKE FORM */
+  .merchant-form { margin-top: 36px; }
+  .mf-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 18px; }
+  .mf-field { display: flex; flex-direction: column; gap: 8px; }
+  .mf-field.mf-span { grid-column: 1 / -1; }
+  .mf-field label { font-family: var(--mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-muted); }
+  .mf-field .mf-opt { color: var(--text-dim); text-transform: none; letter-spacing: 0.04em; }
+  .mf-field input, .mf-field select, .mf-field textarea {
+    width: 100%; background: var(--bg-3); border: 1px solid var(--border-strong); border-radius: 10px;
+    padding: 12px 14px; color: var(--text); font-family: var(--sans); font-size: 15px; line-height: 1.4;
+    transition: border-color 0.2s ease, background 0.2s ease; -webkit-appearance: none; appearance: none;
+  }
+  .mf-field textarea { resize: vertical; min-height: 64px; }
+  .mf-field input::placeholder, .mf-field textarea::placeholder { color: var(--text-dim); }
+  .mf-field input:focus, .mf-field select:focus, .mf-field textarea:focus { outline: none; border-color: var(--accent); background: var(--bg-2); }
+  .mf-field select {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8' fill='none'%3E%3Cpath d='M1 1.5L6 6.5L11 1.5' stroke='%238f8a82' stroke-width='1.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat; background-position: right 14px center; padding-right: 38px; cursor: pointer;
+  }
+  .mf-actions { margin-top: 26px; }
+  .mf-submit { border: none; cursor: pointer; font-family: var(--sans); }
+  .mf-submit:disabled { opacity: 0.55; cursor: default; transform: none; }
+  .mf-status { margin-top: 20px; font-size: 15px; line-height: 1.6; color: var(--text-muted); }
+  .mf-status.ok { color: var(--text); font-family: var(--serif); font-style: italic; font-size: 22px; line-height: 1.4; max-width: 40ch; }
+  .mf-status.err { color: var(--accent-hot); }
+  @media (max-width: 560px) { .mf-grid { grid-template-columns: 1fr; } }
+
+  /* MERCHANT TIERS */
+  .pricing { border-top: 1px solid var(--border); }
+  .tier-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; align-items: stretch; }
+  .tier-card { display: flex; flex-direction: column; background: var(--bg-2); border: 1px solid var(--border); border-radius: 16px; padding: 32px 28px; transition: border-color 0.2s ease, transform 0.2s ease; }
+  .tier-card:hover { border-color: var(--border-strong); transform: translateY(-2px); }
+  .tier-card.tier-feat { border-color: var(--accent); }
+  .tier-top { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-bottom: 20px; }
+  .tier-name { font-family: var(--serif); font-weight: 500; font-size: 26px; letter-spacing: -0.01em; }
+  .tier-badge { font-family: var(--mono); font-size: 10px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); border: 1px solid var(--accent); border-radius: 999px; padding: 4px 10px; white-space: nowrap; }
+  .tier-price { display: flex; align-items: baseline; gap: 8px; margin-bottom: 10px; }
+  .tier-price .tp-amt { font-family: var(--serif); font-size: 44px; font-weight: 500; letter-spacing: -0.02em; }
+  .tier-price .tp-free { font-family: var(--serif); font-size: 44px; font-weight: 500; letter-spacing: -0.02em; color: var(--gold); }
+  .tier-price .tp-cadence { font-family: var(--mono); font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase; color: var(--text-dim); }
+  .tier-tag { font-size: 15px; color: var(--text-muted); line-height: 1.5; margin-bottom: 24px; }
+  .tier-feats { list-style: none; margin: 0 0 28px; padding: 0; display: flex; flex-direction: column; gap: 12px; flex: 1; }
+  .tier-feats li { position: relative; padding-left: 24px; font-size: 14px; line-height: 1.5; color: var(--text); }
+  .tier-feats li::before { content: ''; position: absolute; left: 2px; top: 4px; width: 9px; height: 5px; border-left: 2px solid var(--accent); border-bottom: 2px solid var(--accent); transform: rotate(-45deg); }
+  .tier-cta { display: inline-flex; align-items: center; justify-content: center; gap: 8px; width: 100%; padding: 14px 20px; border-radius: 999px; font-family: var(--sans); font-size: 14px; font-weight: 500; cursor: pointer; transition: all 0.2s ease; background: var(--accent); color: #fff; border: 1px solid var(--accent); }
+  .tier-cta:hover { background: var(--accent-hot); border-color: var(--accent-hot); transform: translateY(-1px); }
+  .tier-cta-soft { background: transparent; color: var(--text); border-color: var(--border-strong); }
+  .tier-cta-soft:hover { background: var(--bg-3); border-color: var(--text-muted); }
+  .tier-note { margin-top: 28px; font-family: var(--mono); font-size: 11px; letter-spacing: 0.05em; color: var(--text-dim); max-width: 66ch; line-height: 1.7; }
+  .tier-fallback { color: var(--text-muted); font-size: 15px; }
+  @media (max-width: 900px) { .tier-grid { grid-template-columns: 1fr; } }
+
+  .reveal { opacity: 0; transform: translateY(30px); transition: opacity 0.8s cubic-bezier(.2,.7,.2,1), transform 0.8s cubic-bezier(.2,.7,.2,1); }
+  .reveal.in { opacity: 1; transform: translateY(0); }
+  .reveal[data-delay="1"] { transition-delay: 0.08s; }
+  .reveal[data-delay="2"] { transition-delay: 0.16s; }
+  .reveal[data-delay="3"] { transition-delay: 0.24s; }
+  @media (prefers-reduced-motion: reduce) { .reveal { opacity: 1; transform: none; transition: none; } html { scroll-behavior: auto; } }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="/" class="nav-brand">
+    <span class="lt-mark">LT</span>
+    <span>Local<span class="tour">Tour</span></span>
+  </a>
+  <div class="nav-links">
+    <a href="/platform/explore.html">Cities</a>
+    <a href="/platform/concierge.html">Concierge</a>
+    <a href="/platform/planner.html">Planner</a>
+    <a href="/platform/community.html">Wall</a>
+  </div>
+  <a href="/platform/explore.html" class="nav-cta">Explore</a>
+</nav>
+
+<main>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow reveal">Company · Partners</div>
+      <h1 class="reveal" data-delay="1">Three ways to<br/>build <em>with</em> us.</h1>
+      <p class="hero-lede reveal" data-delay="2">
+        LocalTour ships a new city in <strong>days</strong>, not months — and we're wired to extend the same speed to the people who make a city worth visiting. City marketing orgs. Local merchants. Creators with real audiences. Pick your track.
+      </p>
+    </div>
+  </section>
+
+  <!-- JUMP NAV -->
+  <section class="jumpnav">
+    <div class="container">
+      <div class="jumps">
+        <a href="#cities" class="jump reveal">
+          <div class="jn">Track 01</div>
+          <div class="jt">Cities <em>&amp;</em> DMOs</div>
+        </a>
+        <a href="#merchants" class="jump reveal" data-delay="1">
+          <div class="jn">Track 02</div>
+          <div class="jt">Merchants <em>&amp;</em> Venues</div>
+        </a>
+        <a href="#creators" class="jump reveal" data-delay="2">
+          <div class="jn">Track 03</div>
+          <div class="jt">Creators <em>&amp;</em> Affiliates</div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRACK 01: CITIES -->
+  <section class="track" id="cities">
+    <div class="container">
+      <div class="track-grid">
+        <div class="track-head reveal">
+          <div class="track-num">01</div>
+          <div class="track-kind">Cities · DMOs · Visitor Bureaus · Chambers</div>
+          <h2>Want your <em>city</em> next?</h2>
+        </div>
+        <div class="track-body reveal" data-delay="1">
+          <p><strong>We ship a new LocalTour city in under a week.</strong> Not a landing page with a map — a full decision engine: named concierge, curated business graph, community wall, trip planner, coupon clipper, and a config-driven scroll experience. Live in production.</p>
+          <p>Our ideal partner already knows their city cold. Visitor bureaus sitting on real local intelligence. DMOs frustrated by generic guidebook tech. Chambers that want a member-facing surface that doesn't look like 1999. Tourism boards with budgets that should be going into content, not CMS licenses.</p>
+
+          <div class="track-points">
+            <div class="track-point">
+              <div class="pt-lbl">What we ship</div>
+              <div class="pt-body">
+                <h4>A full city in a week</h4>
+                <p>City site at yourcity.localtour.us (or your vanity domain), concierge persona, 100+ curated venues, initial community seed, scroll cinematic, ready for traffic.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">What you bring</div>
+              <div class="pt-body">
+                <h4>Local intelligence &amp; trust</h4>
+                <p>Merchant relationships, neighborhood texture, event calendars, the unwritten "don't go there on a Tuesday" knowledge that makes a city guide actually local.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Economics</div>
+              <div class="pt-body">
+                <h4>Revenue share or fixed</h4>
+                <p>We'll work a flat build-and-host model, a revenue-share against affiliate &amp; merchant placement, or a hybrid. Structure depends on your budget cycle.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Exit clause</div>
+              <div class="pt-body">
+                <h4>You own your data</h4>
+                <p>Merchant lists, content, community posts — exportable. If the partnership ends, you leave with everything except the LocalTour tech stack itself.</p>
+              </div>
+            </div>
+          </div>
+
+          <a href="mailto:partners@shaw-labs.com?subject=LocalTour%20City%20Partner%20Inquiry" class="track-cta">
+            Start a city conversation
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- TRACK 02: MERCHANTS -->
+  <section class="track alt" id="merchants">
+    <div class="container">
+      <div class="track-grid">
+        <div class="track-head reveal">
+          <div class="track-num">02</div>
+          <div class="track-kind">Restaurants · Bars · Shops · Hotels · Tours · Venues</div>
+          <h2>Get into the <em>graph</em>.</h2>
+        </div>
+        <div class="track-body reveal" data-delay="1">
+          <p>LocalTour's business graph is <strong>curated</strong>, not scraped. Every venue in a city has been reasoned into place — category, neighborhood, concierge weight, and why it earned its slot. That scarcity is the whole value.</p>
+          <p>If you run a business in one of our eight cities (or a city we're spinning up next), there are two doors: the curated door, and the partner door. The curated door is how you get picked by the concierge. The partner door is how you earn placement, boost affiliate priority, and show up in trip planner threads.</p>
+
+          <div class="track-points">
+            <div class="track-point">
+              <div class="pt-lbl">Listing tiers</div>
+              <div class="pt-body">
+                <h4>Free curated, paid priority</h4>
+                <p>All qualified merchants can appear organically via the concierge. Paid tiers unlock affiliate boosting, richer content, coupon distribution, and community cross-posts.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Coupon Clipper</div>
+              <div class="pt-body">
+                <h4>Exclusive deals, tracked</h4>
+                <p>Upload redeemable offers. Conversion analytics baked in. No ads — your deal lives inside the concierge's recommendation flow when it's contextually right.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Concierge weight</div>
+              <div class="pt-body">
+                <h4>Commission-aware, not ad-driven</h4>
+                <p>The concierge knows which merchants are partners, but a partner status never beats a better recommendation. Good answer first, revenue second.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Onboarding</div>
+              <div class="pt-body">
+                <h4>Under 20 minutes</h4>
+                <p>One form. Hours, menu, photos, category, vibe tags, coupon (optional). We handle the graph integration and content polish.</p>
+              </div>
+            </div>
+          </div>
+
+          <form name="merchant-intake" method="POST" data-netlify="true" netlify-honeypot="bot-field" class="merchant-form" id="merchant-intake">
+            <input type="hidden" name="form-name" value="merchant-intake" />
+            <p hidden><label>Leave this empty: <input name="bot-field" /></label></p>
+
+            <div class="mf-grid">
+              <div class="mf-field">
+                <label for="mf-biz">Business name</label>
+                <input id="mf-biz" name="business" type="text" required autocomplete="organization" placeholder="e.g. Franklin Barbecue" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-city">City</label>
+                <select id="mf-city" name="city" required>
+                  <option value="" disabled selected>Pick your city</option>
+                  <option>Austin</option>
+                  <option>Chicago</option>
+                  <option>Denver</option>
+                  <option>Houston</option>
+                  <option>Kansas City</option>
+                  <option>Los Angeles</option>
+                  <option>Miami</option>
+                  <option>Nashville</option>
+                  <option>New Orleans</option>
+                  <option>New York City</option>
+                  <option>Phoenix</option>
+                  <option>Portland</option>
+                  <option>Salt Lake City</option>
+                  <option>San Francisco</option>
+                  <option>Smoky Mountains</option>
+                  <option>Another city (we're expanding)</option>
+                </select>
+              </div>
+              <div class="mf-field">
+                <label for="mf-category">Category</label>
+                <input id="mf-category" name="category" type="text" required placeholder="Restaurant · Bar · Shop · Hotel · Tour" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-email">Contact email</label>
+                <input id="mf-email" name="email" type="email" required autocomplete="email" placeholder="you@yourbusiness.com" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-hours">Hours <span class="mf-opt">optional</span></label>
+                <input id="mf-hours" name="hours" type="text" placeholder="Tue–Sun, 11a–10p" />
+              </div>
+              <div class="mf-field">
+                <label for="mf-website">Website <span class="mf-opt">optional</span></label>
+                <input id="mf-website" name="website" type="url" autocomplete="url" placeholder="https://…" />
+              </div>
+              <div class="mf-field mf-span">
+                <label for="mf-offer">Offer / deal <span class="mf-opt">optional</span></label>
+                <textarea id="mf-offer" name="offer" rows="2" placeholder="A coupon you'd run for LocalTour visitors — e.g. free app with two entrées, 10% off the check."></textarea>
+              </div>
+              <div class="mf-field">
+                <label for="mf-tier">Tier interest</label>
+                <select id="mf-tier" name="tier" required>
+                  <option value="" disabled selected>Which door?</option>
+                  <option value="Curated">Curated — earn the free listing</option>
+                  <option value="Partner">Partner — priority + tracked coupons</option>
+                  <option value="Anchor">Anchor — top of category</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="mf-actions">
+              <button type="submit" class="track-cta mf-submit">
+                List your business
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+              </button>
+            </div>
+            <p class="mf-status" role="status" aria-live="polite"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MERCHANT LISTING TIERS (rendered from /pricing.json — prices are data, not copy) -->
+  <section class="track pricing" id="tiers">
+    <div class="container">
+      <div class="track-head reveal">
+        <div class="track-num">◆</div>
+        <div class="track-kind">Merchant listing tiers</div>
+        <h2>Pick your <em>door</em>.</h2>
+      </div>
+      <div class="tier-grid reveal" id="tier-grid" data-delay="1"></div>
+      <p class="tier-note" id="tier-note"></p>
+    </div>
+  </section>
+
+  <!-- TRACK 03: CREATORS -->
+  <section class="track" id="creators">
+    <div class="container">
+      <div class="track-grid">
+        <div class="track-head reveal">
+          <div class="track-num">03</div>
+          <div class="track-kind">Creators · Affiliates · Publishers · Local Journalists</div>
+          <h2>Earn from your <em>audience</em>.</h2>
+        </div>
+        <div class="track-body reveal" data-delay="1">
+          <p>If you make content about the cities we cover — food Instagram, neighborhood newsletter, city TikTok, travel YouTube, local podcast — the LocalTour affiliate program pays on <strong>actual outcomes</strong>, not pageviews. Every link is traceable, every booking or coupon redemption is attributed, every payout is transparent.</p>
+          <p>This isn't a link-in-bio refresh. It's a real affiliate rail that shares revenue from merchant partnerships the moment your audience converts.</p>
+
+          <div class="track-points">
+            <div class="track-point">
+              <div class="pt-lbl">Commission</div>
+              <div class="pt-body">
+                <h4>Up to 25% on merchant revenue</h4>
+                <p>Base rate on coupon redemptions and qualifying bookings. Volume tiers unlock higher splits. Paid monthly via ACH or crypto.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Attribution</div>
+              <div class="pt-body">
+                <h4>Session-honest, not last-click greedy</h4>
+                <p>30-day cookie, server-side tracking, no dark patterns. We don't steal the last click on our own platform.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Tools</div>
+              <div class="pt-body">
+                <h4>Custom link builder &amp; dashboard</h4>
+                <p>Deep-link any venue, city, or collection. Real-time analytics. Export CSV. Embedded widgets for newsletters and blogs.</p>
+              </div>
+            </div>
+            <div class="track-point">
+              <div class="pt-lbl">Editorial</div>
+              <div class="pt-body">
+                <h4>Co-published city collections</h4>
+                <p>Top creators can publish curated drops inside a city's community wall. Your name, your picks, your cut on every conversion.</p>
+              </div>
+            </div>
+          </div>
+
+          <a href="mailto:creators@shaw-labs.com?subject=LocalTour%20Creator%20Program" class="track-cta">
+            Join the creator program
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section class="process">
+    <div class="container">
+      <div class="section-head reveal">
+        <h2>From email to <em>live</em>.</h2>
+        <div class="section-meta">The process · 4 stages</div>
+      </div>
+
+      <div class="process-steps">
+        <div class="p-step reveal">
+          <div class="pn">STAGE 01</div>
+          <h3>Email</h3>
+          <p>Send us a line. We answer every qualified partner email from a real human within 48 hours.</p>
+          <div class="eta"><span class="v">&lt; 48 hrs</span> · First reply</div>
+        </div>
+        <div class="p-step reveal" data-delay="1">
+          <div class="pn">STAGE 02</div>
+          <h3>Call</h3>
+          <p>30-minute fit call. We map your goals to which track (or combination) makes sense, and share a scope.</p>
+          <div class="eta"><span class="v">Week 1</span> · Scope aligned</div>
+        </div>
+        <div class="p-step reveal" data-delay="2">
+          <div class="pn">STAGE 03</div>
+          <h3>Build</h3>
+          <p>City partners: 5-7 day build. Merchants: 20-minute onboarding. Creators: same-day approval.</p>
+          <div class="eta"><span class="v">Week 1-2</span> · Live</div>
+        </div>
+        <div class="p-step reveal" data-delay="3">
+          <div class="pn">STAGE 04</div>
+          <h3>Iterate</h3>
+          <p>Monthly reviews, data transparency, and easy iteration. The platform is config-driven — changes are fast.</p>
+          <div class="eta"><span class="v">Ongoing</span> · Compounding</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ -->
+  <section class="faq">
+    <div class="container">
+      <div class="section-head reveal">
+        <h2>Questions, <em>answered</em>.</h2>
+        <div class="section-meta">FAQ</div>
+      </div>
+
+      <div class="faq-list">
+
+        <div class="faq-item reveal">
+          <div class="faq-n">01</div>
+          <div>
+            <h3>How is this different from Yelp, TripAdvisor, or a city blog?</h3>
+            <p>We're curated, not scraped; contextual, not star-rated; and commission-aware without being commission-captured. The concierge is a named local with a node tree, not a review aggregator. <strong>Shorter answer: we're a decision engine, they're a directory.</strong></p>
+          </div>
+        </div>
+
+        <div class="faq-item reveal">
+          <div class="faq-n">02</div>
+          <div>
+            <h3>What cities are you building next?</h3>
+            <p>We're actively scoping Las Vegas, Nashville, Austin, Denver, Phoenix, Salt Lake City, Kansas City, and Portland. If your city is on that list, we want to hear from you yesterday. If it isn't, tell us why it should be.</p>
+          </div>
+        </div>
+
+        <div class="faq-item reveal">
+          <div class="faq-n">03</div>
+          <div>
+            <h3>Do you take equity or cash?</h3>
+            <p>For most partnerships, cash or revenue share. For city partnerships with strong strategic fit (a flagship city with deep tourism infrastructure), we'll consider structured equity arrangements. We don't take creator equity — that's just commission.</p>
+          </div>
+        </div>
+
+        <div class="faq-item reveal">
+          <div class="faq-n">04</div>
+          <div>
+            <h3>Can I partner with you and SH@W Labs across multiple products?</h3>
+            <p>Yes, and several of our partners already do. SH@W Labs runs 17 products — if your brand touches hospitality, legal, work, or lifestyle, there's probably more than one surface we can build on together. Start with LocalTour and we'll route the rest.</p>
+          </div>
+        </div>
+
+        <div class="faq-item reveal">
+          <div class="faq-n">05</div>
+          <div>
+            <h3>Who owns the content created for a partnership?</h3>
+            <p>You own the content you contribute. We own the platform and our editorial additions. Community Wall posts remain the property of their authors under our content license. Detailed IP terms are in the Partner Agreement — we send it before any work begins.</p>
+          </div>
+        </div>
+
+        <div class="faq-item reveal">
+          <div class="faq-n">06</div>
+          <div>
+            <h3>Is there a minimum commitment?</h3>
+            <p>Merchants and creators: no minimum. City partnerships: 12 months minimum because the build work and the compounding only make sense at that horizon. Month-to-month hosting extensions are available after the initial term.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta">
+    <div class="container">
+      <div class="cta-inner">
+        <div class="eyebrow center reveal">Ready when you are</div>
+        <h2 class="reveal" data-delay="1">Pick a track.<br/>Send an <em>email</em>.</h2>
+        <p class="reveal" data-delay="2">Every partner email is read by a human within 48 hours. No form-field purgatory, no "a member of our team will reach out." Just a reply.</p>
+        <div class="cta-group reveal" data-delay="3">
+          <a href="mailto:partners@shaw-labs.com?subject=LocalTour%20Partner%20Inquiry" class="btn btn-primary">
+            partners@shaw-labs.com
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="none"><path d="M5 12h14M13 6l6 6-6 6" stroke="currentColor" stroke-width="2"/></svg>
+          </a>
+          <a href="/company/about.html" class="btn btn-ghost">About SH@W Labs</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <div>© 2026 LocalTour · SH@W Labs</div>
+      <div><a href="mailto:localtour@shaw-labs.com">localtour@shaw-labs.com</a></div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); } });
+  }, { threshold: 0.12, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.reveal').forEach(el => io.observe(el));
+
+  // --- Merchant intake: AJAX submit → in-voice confirmation (Netlify Forms) ---
+  const mform = document.getElementById('merchant-intake');
+  if (mform) {
+    mform.addEventListener('submit', async (e) => {
+      e.preventDefault();
+      const status = mform.querySelector('.mf-status');
+      const btn = mform.querySelector('.mf-submit');
+      const body = new URLSearchParams(new FormData(mform)).toString();
+      if (btn) btn.disabled = true;
+      try {
+        await fetch('/api/lead', { method: 'POST', headers: { 'Content-Type': 'application/x-www-form-urlencoded' }, body });
+        mform.querySelectorAll('.mf-grid, .mf-actions').forEach(el => el.style.display = 'none');
+        if (status) status.textContent = "You're in the queue. We read every one — expect a note from a human, not a bot.";
+      } catch (err) {
+        if (btn) btn.disabled = false;
+        if (status) status.textContent = "Something hiccuped — email merchants@shaw-labs.com and we'll sort it.";
+      }
+    });
+  }
+
+  // --- Listing tiers, rendered from /pricing.json (prices are data, not copy) ---
+  (async () => {
+    const grid = document.getElementById('tier-grid');
+    if (!grid) return;
+    try {
+      const data = await (await fetch('/pricing.json', { cache: 'no-store' })).json();
+      grid.innerHTML = (data.tiers || []).map((t) => {
+        const price = t.price === 0
+          ? `<span class="tp-free">Free</span><span class="tp-cadence">${t.cadence || ''}</span>`
+          : `<span class="tp-amt">$${t.price}</span><span class="tp-cadence">/ ${t.cadence || 'mo'}</span>`;
+        const feats = (t.features || []).map((f) => `<li>${f}</li>`).join('');
+        const real = typeof t.stripe_url === 'string' && /^https?:\/\//.test(t.stripe_url);
+        const cta = t.price === 0
+          ? `<a class="tier-cta tier-cta-soft" href="#merchant-intake">${t.cta || 'Apply'}</a>`
+          : real
+            ? `<a class="tier-cta" href="${t.stripe_url}">${t.cta || 'Choose'} &rarr;</a>`
+            : `<button class="tier-cta tier-cta-soft" data-scroll="merchant-intake">Coming soon &mdash; contact us</button>`;
+        return `<div class="tier-card${t.badge === 'Anchor' ? ' tier-feat' : ''}">
+          <div class="tier-top"><span class="tier-name">${t.name}</span>${t.badge ? `<span class="tier-badge">${t.badge}</span>` : ''}</div>
+          <div class="tier-price">${price}</div>
+          <p class="tier-tag">${t.tagline || ''}</p>
+          <ul class="tier-feats">${feats}</ul>
+          ${cta}</div>`;
+      }).join('');
+      grid.querySelectorAll('[data-scroll]').forEach((b) => b.addEventListener('click', () => {
+        const el = document.getElementById(b.getAttribute('data-scroll'));
+        if (el) el.scrollIntoView({ behavior: 'smooth' });
+      }));
+      const note = document.getElementById('tier-note');
+      if (note && /placeholder/i.test(data.note || '')) note.textContent = 'Founding-merchant pricing is still being finalized — tiers shown are indicative.';
+    } catch (err) {
+      grid.innerHTML = '<p class="tier-fallback">Use the form above and tell us which door — we\'ll send current pricing.</p>';
+    }
+  })();
+</script>
+
+</body>
+</html>

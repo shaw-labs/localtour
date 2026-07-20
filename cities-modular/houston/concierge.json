@@ -1,0 +1,576 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "menu",
+      "what should I do"
+    ],
+    "text": "You're in the fourth largest city in America, which means you've got options. The big three: eat everything (we have 10,000+ restaurants), see Space Center Houston, and catch a game. But honestly? Just tell me what you're in the mood for and I'll narrow it down.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best BBQ?",
+      "What's happening today?",
+      "Family stuff",
+      "Nightlife",
+      "Free things to do"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "where to eat"
+    ],
+    "text": "Now we're talking. Houston is the most diverse food city in America and I will die on that hill. What are you craving? Texas BBQ? World-class Mexican? The best Vietnamese outside of Vietnam? A Michelin-starred tasting menu? Or do you just want me to pick for you?",
+    "businesses": [
+      "Agnes and Sherman",
+      "Tatemó",
+      "Aga's Restaurant",
+      "Ninfa's on Navigation"
+    ],
+    "chips": [
+      "BBQ",
+      "Mexican food",
+      "Fine dining",
+      "Cheap eats",
+      "Asian food",
+      "Seafood"
+    ]
+  },
+  {
+    "keys": [
+      "bbq",
+      "barbecue",
+      "brisket",
+      "smoked meat"
+    ],
+    "text": "Texas BBQ holy trinity: Killen's in Pearland is worth the drive — that brisket bark will change your life. Closer to town, Pinkerton's on Airline has old-school pits and great boudin. Feges in Spring Branch is the move if you're with family — they've got a play area and the sides are better than they have any right to be.",
+    "businesses": [
+      "Killen's BBQ",
+      "Pinkerton's Barbecue",
+      "Feges BBQ"
+    ],
+    "chips": [
+      "Where's the best brisket?",
+      "Best sides?",
+      "Family-friendly BBQ",
+      "Mexican food instead"
+    ]
+  },
+  {
+    "keys": [
+      "mexican",
+      "tex-mex",
+      "tacos",
+      "mole"
+    ],
+    "text": "The OG: Ninfa's on Navigation invented the fajita. Tacos al carbon, done. For something elevated, Hugo's in Montrose does regional Mexican — the cochinita pibil and Sunday brunch are legendary. Cuchara is Mexico City on a Montrose patio. And Zaranda downtown just made Texas Monthly's best new list.",
+    "businesses": [
+      "Ninfa's on Navigation",
+      "Hugo's",
+      "Cuchara",
+      "Zaranda"
+    ],
+    "chips": [
+      "Best tacos?",
+      "Brunch spots",
+      "Fine dining Mexican",
+      "Cheap Tex-Mex"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "fancy",
+      "special occasion",
+      "tasting menu",
+      "michelin"
+    ],
+    "text": "Houston's fine dining scene is serious. Tatemó has a Michelin star — Chef Chavez does a $155 tasting menu built around nixtamalized corn that'll rewire your brain. MARCH in Montrose is a Mediterranean tasting menu from Chef Riccio and Master Sommelier June Rodil. Le Jardinier at the Museum of Fine Arts is Michelin-starred French. Or Agnes and Sherman if you want Texas Monthly's Restaurant of the Year at diner prices.",
+    "businesses": [
+      "Tatemó",
+      "MARCH",
+      "Le Jardinier",
+      "Agnes and Sherman"
+    ],
+    "chips": [
+      "Book Tatemó",
+      "Where is MARCH?",
+      "Museum + dinner combo",
+      "Best cocktail bars"
+    ]
+  },
+  {
+    "keys": [
+      "cheap",
+      "budget",
+      "affordable",
+      "cheap eats",
+      "inexpensive"
+    ],
+    "text": "Houston does cheap and incredible better than any city in America. Aladdin Mediterranean in Montrose — cafeteria-style falafel for under $10. Boo's Burgers on Navigation — smashburgers that compete with places 3x the price. The Breakfast Klub for wings and waffles. And Aga's in southwest Houston serves $15 plates of Indo-Pak food that taste like a $40 dish.",
+    "businesses": [
+      "Aladdin Mediterranean Cuisine",
+      "Boo's Burgers",
+      "The Breakfast Klub",
+      "Aga's Restaurant"
+    ],
+    "chips": [
+      "Best breakfast?",
+      "Food trucks?",
+      "Late night eats",
+      "Best burgers"
+    ]
+  },
+  {
+    "keys": [
+      "asian",
+      "vietnamese",
+      "chinese",
+      "sushi",
+      "indian",
+      "pakistani"
+    ],
+    "text": "Houston's Asiatown (Bellaire Blvd corridor) is one of the best in America. For sushi, Handies Douzo does the crispiest hand rolls in town. Aga's is the city's most essential Indo-Pak restaurant — goat chops and biryani that pack the house nightly. Da Gama blends Portuguese and Indian. Agnes and Sherman does Asian American diner food at a world-class level.",
+    "businesses": [
+      "Handies Douzo",
+      "Aga's Restaurant",
+      "Da Gama",
+      "Agnes and Sherman"
+    ],
+    "chips": [
+      "Best pho?",
+      "Chinatown recs",
+      "Sushi spots",
+      "Indian food"
+    ]
+  },
+  {
+    "keys": [
+      "bars",
+      "drinks",
+      "cocktails",
+      "nightlife",
+      "going out"
+    ],
+    "text": "Heights or Montrose — pick your vibe. In the Heights: Starduster Lounge is cosmic West Texas in a 100-year-old building. Johnny's Gold Brick is a no-pretension cocktail bar with a great jukebox. In Montrose: Axelrad is a hammock beer garden that captures Houston's soul. For something upscale, Augustine Lounge in Hotel Saint Augustine just won every award.",
+    "businesses": [
+      "Starduster Lounge",
+      "Johnny's Gold Brick",
+      "Axelrad",
+      "Augustine Lounge"
+    ],
+    "chips": [
+      "Best cocktails?",
+      "Dive bars",
+      "Breweries",
+      "Live music tonight"
+    ]
+  },
+  {
+    "keys": [
+      "brewery",
+      "breweries",
+      "craft beer",
+      "beer"
+    ],
+    "text": "Saint Arnold is Texas' oldest brewery — massive beer garden with downtown skyline views, art cars, and Gonzo247 murals. Fancy Lawnmower is the house classic. Karbach has a full restaurant and weekend festivals. Social Beer Garden in Midtown just won Best Bar and Best Happy Hour from the Chronicle. And Eureka Heights in the Heights is no-frills, great beer, neighborhood vibes.",
+    "businesses": [
+      "Saint Arnold Brewing Company",
+      "Karbach Brewing Co.",
+      "Social Beer Garden HTX",
+      "Eureka Heights Brew Co."
+    ],
+    "chips": [
+      "Best beer garden?",
+      "Breweries with food",
+      "Dog-friendly breweries",
+      "Live music at breweries"
+    ]
+  },
+  {
+    "keys": [
+      "nasa",
+      "space",
+      "space center",
+      "johnson space center"
+    ],
+    "text": "Space Center Houston is Houston's must-do. Touch a moon rock, tour the actual Mission Control rooms, and see where astronauts train. The $199 Level 9 Tour gets you behind-the-scenes access most people never see — worth every penny if you're a space nerd. Budget 4-5 hours minimum. It's 30 minutes southeast of downtown near Clear Lake.",
+    "businesses": [
+      "Space Center Houston"
+    ],
+    "chips": [
+      "How to get there?",
+      "Level 9 Tour worth it?",
+      "Other museums",
+      "Family activities"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "museums",
+      "art",
+      "culture",
+      "museum district"
+    ],
+    "text": "Houston's Museum District has 19 museums in four walkable zones. The Menil Collection is free and world-class — go see it, then walk across to Rothko Chapel. The Museum of Fine Arts is the Southwest's largest. The Natural Science museum does free Thursdays after 2pm. And Le Jardinier restaurant is literally inside the MFAH, so do art + lunch.",
+    "businesses": [
+      "The Menil Collection",
+      "Rothko Chapel",
+      "Museum of Fine Arts, Houston",
+      "Houston Museum of Natural Science"
+    ],
+    "chips": [
+      "Free museums?",
+      "Best for kids?",
+      "Art + dining combo",
+      "Contemporary art"
+    ]
+  },
+  {
+    "keys": [
+      "outdoors",
+      "parks",
+      "nature",
+      "outside",
+      "walk",
+      "run",
+      "bike"
+    ],
+    "text": "Buffalo Bayou Park is the crown jewel — 160 acres along the bayou with bike/kayak rentals, public art, and a dog park. Rent a kayak and paddle through downtown. Hermann Park is 445 acres with a Japanese garden and miniature train. Memorial Park has the best running loop (3 miles) and mountain bike trails. Discovery Green downtown has free events.",
+    "businesses": [
+      "Buffalo Bayou Park",
+      "Hermann Park",
+      "Memorial Park",
+      "Discovery Green"
+    ],
+    "chips": [
+      "Kayak rentals?",
+      "Best running trail?",
+      "Parks for kids",
+      "Sunset spots"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "child-friendly"
+    ],
+    "text": "Houston is sneaky good for families. Children's Museum is top-tier (free Thursday evenings). Space Center Houston blows kids' minds. The Downtown Aquarium has rides and stingray feeding. Hermann Park has a miniature train and zoo right there. And Long Weekend near the Heights has Houston's biggest outdoor playground with a café attached.",
+    "businesses": [
+      "Children's Museum Houston",
+      "Space Center Houston",
+      "Downtown Aquarium",
+      "Houston Zoo",
+      "Long Weekend"
+    ],
+    "chips": [
+      "Best museum for kids?",
+      "Outdoor playgrounds",
+      "Rainy day options",
+      "Kid-friendly restaurants"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "couple",
+      "anniversary",
+      "date night"
+    ],
+    "text": "Dinner at MARCH in Montrose — tasting menu with wine pairings in an intimate room. Then walk to Axelrad for drinks in a hammock. Or: Museum of Fine Arts followed by Le Jardinier. For something different, sunset kayak on Buffalo Bayou, then cocktails at Starduster Lounge. Trellis Spa is the move for a couples day.",
+    "businesses": [
+      "MARCH",
+      "Axelrad",
+      "Le Jardinier",
+      "Starduster Lounge",
+      "Trellis Spa"
+    ],
+    "chips": [
+      "Best date restaurants",
+      "Cocktail bars for two",
+      "Spa day",
+      "Sunset spots"
+    ]
+  },
+  {
+    "keys": [
+      "shop",
+      "shopping",
+      "buy",
+      "souvenirs"
+    ],
+    "text": "The Galleria is Texas' largest mall — 400+ stores, ice skating rink, and every luxury brand. But for the real Houston experience, hit Heights Mercantile for local boutiques, Rice Village for walkable browsing near Rice University, or the vintage shops along 19th Street in the Heights. POST Houston food hall also has some cool shops.",
+    "businesses": [
+      "The Galleria",
+      "Rice Village",
+      "Heights Mercantile",
+      "POST Houston"
+    ],
+    "chips": [
+      "Luxury shopping",
+      "Local boutiques",
+      "Vintage/thrift",
+      "Heights shopping"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "espresso",
+      "morning coffee"
+    ],
+    "text": "Boomtown Coffee in the Heights roasts in-house and makes one of the best cups in town. Catalina Coffee on Washington Ave has great espresso and a shaded patio. Both are proper Houston third-wave spots. If you're near downtown, the POST Houston food hall has options too.",
+    "businesses": [
+      "Boomtown Coffee",
+      "Catalina Coffee"
+    ],
+    "chips": [
+      "Best latte?",
+      "Coffee with WiFi",
+      "Breakfast spots",
+      "Near downtown"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "lodging",
+      "where to stay",
+      "accommodation"
+    ],
+    "text": "Hotel Saint Augustine just swept every best new hotel award and has a Michelin Key. That's the flex pick. The Houstonian is an 18-acre resort hidden inside the city with Trellis Spa. Hotel Granduca is Italian luxury near the Galleria. For location, stay downtown or in Montrose/Heights for walkability. Uptown/Galleria for shopping.",
+    "businesses": [
+      "Hotel Saint Augustine",
+      "The Houstonian Hotel, Club & Spa",
+      "Hotel Granduca Houston"
+    ],
+    "chips": [
+      "Best luxury hotel?",
+      "Best location?",
+      "Budget options",
+      "Near the Galleria"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "transit",
+      "drive",
+      "airport",
+      "how to get around"
+    ],
+    "text": "Two airports: IAH (Intercontinental, United hub) for international/major domestic. Hobby (HOU, Southwest) for domestic, closer to downtown. You need a car — Houston is massive. METRORail covers downtown to Museum District to Medical Center to NRG. Uber/Lyft are everywhere. Pro tip: download the METRO app for the light rail schedule.",
+    "businesses": [],
+    "chips": [
+      "Rental car tips?",
+      "Light rail map",
+      "Parking downtown",
+      "Airport to downtown"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "brunch",
+      "morning"
+    ],
+    "text": "The Breakfast Klub on Travis — wings and waffles. The line is real and it's worth it. For upscale brunch, Hugo's Sunday brunch buffet is legendary. Agnes and Sherman just added brunch with scallion-pancake waffles. Long Weekend Café near the Heights does a solid breakfast taco.",
+    "businesses": [
+      "The Breakfast Klub",
+      "Hugo's",
+      "Agnes and Sherman",
+      "Long Weekend"
+    ],
+    "chips": [
+      "Best waffles?",
+      "Brunch cocktails?",
+      "Breakfast tacos",
+      "No-wait options"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "midnight",
+      "late"
+    ],
+    "text": "Houston bars are open until 2am. Axelrad in Montrose stays fun late. Washington Avenue has a strip of bars that go until close. For late-night food, hit up any taco truck in East End — they're cooking past midnight. The Heights bars (Starduster, Johnny's Gold Brick) have a more low-key late night vibe.",
+    "businesses": [
+      "Axelrad",
+      "Starduster Lounge",
+      "Johnny's Gold Brick"
+    ],
+    "chips": [
+      "Late night tacos?",
+      "Best dive bars",
+      "Washington Ave bars",
+      "After-hours food"
+    ]
+  },
+  {
+    "keys": [
+      "events",
+      "what's happening",
+      "tonight",
+      "this weekend"
+    ],
+    "text": "Check the Visit Houston events calendar — there's literally something every single day. The big annual events: Rodeo (Feb-Mar), Art Car Parade (April), Houston Restaurant Weeks (August), Bayou City Art Festival (Oct/Mar), and Zoo Lights (Nov-Jan). For tonight, check 365 Houston or Do Houston for live music and shows.",
+    "businesses": [],
+    "chips": [
+      "Free events?",
+      "Live music tonight",
+      "Family events",
+      "Festivals coming up"
+    ]
+  },
+  {
+    "keys": [
+      "free",
+      "free things",
+      "no cost",
+      "budget"
+    ],
+    "text": "Houston has more free stuff than you'd expect. Menil Collection and Rothko Chapel — free, world-class art. Miller Outdoor Theatre — free performances March through November. Discovery Green — free events all year. Hermann Park — free entry, just pay for the train ride. Museum District does free Thursday afternoons. Buffalo Bayou Park trails are free.",
+    "businesses": [
+      "The Menil Collection",
+      "Rothko Chapel",
+      "Miller Outdoor Theatre",
+      "Discovery Green",
+      "Hermann Park",
+      "Buffalo Bayou Park"
+    ],
+    "chips": [
+      "Free museums?",
+      "Free concerts?",
+      "Free parks",
+      "Budget day plan"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "perfect day",
+      "itinerary",
+      "one day"
+    ],
+    "text": "Perfect Houston day: Morning coffee at Boomtown, walk the Heights shops on 19th Street. Uber to the Museum District — Menil Collection (free), then Rothko Chapel. Lunch at Le Jardinier in the MFAH. Afternoon at Space Center Houston. Evening: cocktails at Starduster Lounge, dinner at Agnes and Sherman or MARCH. Late night hammocks at Axelrad.",
+    "businesses": [
+      "Boomtown Coffee",
+      "The Menil Collection",
+      "Le Jardinier",
+      "Space Center Houston",
+      "Agnes and Sherman"
+    ],
+    "chips": [
+      "2-day itinerary?",
+      "Rainy day plan",
+      "Foodie day plan",
+      "Family day plan"
+    ]
+  },
+  {
+    "keys": [
+      "galveston",
+      "beach",
+      "gulf",
+      "ocean"
+    ],
+    "text": "Galveston Island is 50 minutes south on I-45. Beaches, the historic Strand district, Moody Gardens, and the 1894 Grand Opera House. It's not Cancun — it's Gulf Coast beach vibes, but the seafood is legit and it makes a great day trip. Check the Galveston Ferry too.",
+    "businesses": [],
+    "chips": [
+      "Best Galveston beaches?",
+      "Galveston restaurants",
+      "Day trip or overnight?",
+      "Other side trips"
+    ]
+  },
+  {
+    "keys": [
+      "dive bars",
+      "cheap drinks",
+      "gritty",
+      "ice house"
+    ],
+    "text": "Houston has some of the best, most unapologetic dive bars in the country. Lola's Depot in Montrose is legendary — dark, covered in stickers, drinks are aggressively cheap. If you want to sit outside, West Alabama Ice House is a Houston institution where you drink cheap beer and play basketball in the parking lot.",
+    "businesses": [
+      "Lola's Depot",
+      "West Alabama Ice House"
+    ],
+    "chips": [
+      "Best patios?",
+      "Montrose bar crawl",
+      "Late night spots",
+      "Cocktail bars instead"
+    ]
+  },
+  {
+    "keys": [
+      "neighborhood",
+      "where should I go",
+      "areas",
+      "districts"
+    ],
+    "text": "Houston is huge so it depends on your vibe. Montrose is artsy and eclectic — best for cocktail bars, galleries, and walkable energy. The Heights is relaxed with 19th Street vintage shopping and great restaurants. EaDo is breweries and sports. Midtown is dense nightlife. Museum District is culture and green space. And if you want serious ethnic food, drive the Bellaire Blvd corridor in Chinatown.",
+    "businesses": [],
+    "chips": [
+      "Montrose guide",
+      "Heights guide",
+      "EaDo guide",
+      "Chinatown food",
+      "Downtown guide"
+    ]
+  },
+  {
+    "keys": [
+      "rodeo",
+      "houston rodeo",
+      "livestock show",
+      "NRG"
+    ],
+    "text": "The Houston Livestock Show and Rodeo is THE event — three weeks in Feb-Mar that completely take over the city. 2.5 million people attend. You get rodeo competitions, a massive carnival, livestock shows, and arena concerts (think Beyoncé, George Strait level). Get tickets early. Stay near NRG Park if you can. And wear boots — even if you never have before.",
+    "businesses": [
+      "NRG Stadium"
+    ],
+    "chips": [
+      "When is the Rodeo?",
+      "Rodeo concert lineup",
+      "What to wear",
+      "BBQ near NRG"
+    ]
+  },
+  {
+    "keys": [
+      "rainy day",
+      "rain",
+      "indoor",
+      "bad weather"
+    ],
+    "text": "Houston gets afternoon thunderstorms like clockwork in summer. When it rains: Museum District marathon — 19 museums, many free. Downtown Tunnels cover 6 miles underground with shops and restaurants. The Galleria has 400 stores and an ice rink. POST Houston food hall is a full afternoon. Or just embrace it at a brewery — Saint Arnold and Karbach are both massive covered spaces.",
+    "businesses": [
+      "Museum of Fine Arts, Houston",
+      "The Galleria",
+      "POST Houston",
+      "Saint Arnold Brewing Company"
+    ],
+    "chips": [
+      "Free museums?",
+      "Downtown tunnels tour",
+      "Best rainy day food",
+      "Kid-friendly indoor"
+    ]
+  }
+]

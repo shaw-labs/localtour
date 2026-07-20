@@ -1,0 +1,593 @@
+{
+  "morning_starts": [
+    {
+      "title": "Joe's Bakery & Coffee Shop",
+      "note": "East Austin's family-run breakfast altar — migas and pan dulce like abuela ran the griddle.",
+      "business": "Joe's Bakery & Coffee Shop",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Comadre Panadería",
+      "note": "Conchas that put the corner-store version to shame — get there before the tray's empty.",
+      "business": "Comadre Panadería",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Veracruz All Natural",
+      "note": "The migas taco that launched a thousand mornings — worth the truck line, always.",
+      "business": "Veracruz All Natural",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Houndstooth Coffee",
+      "note": "Careful pour-over and zero attitude — exactly how a slow Austin morning should read.",
+      "business": "Houndstooth Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Merit Coffee",
+      "note": "Clean, bright cup for folks who take the beans seriously without the fuss.",
+      "business": "Merit Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rockman Coffee + Bakeshop",
+      "note": "Fresh bake and a solid espresso — a low-key start away from the crowds.",
+      "business": "Rockman Coffee + Bakeshop",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Barton Springs Pool",
+      "note": "68 degrees year-round, spring-fed and sacred — the coldest, best cure for a Texas summer.",
+      "business": "Barton Springs Pool",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ann and Roy Butler Hike-and-Bike Trail & Boardwalk",
+      "note": "Ten miles around Lady Bird Lake with the skyline for company — Austin's living room.",
+      "business": "Ann and Roy Butler Hike-and-Bike Trail & Boardwalk",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Congress Avenue Bridge Bats",
+      "note": "1.5 million bats spiral out at dusk — the best free show in town, hands down.",
+      "business": "Congress Avenue Bridge Bats",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Barton Creek Greenbelt",
+      "note": "Limestone swimming holes and shaded trail — the wild heart hiding right in the city.",
+      "business": "Barton Creek Greenbelt",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rowing Dock",
+      "note": "Grab a paddleboard or kayak and float the lake — heat honesty says do it early.",
+      "business": "Rowing Dock",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mount Bonnell (Covert Park)",
+      "note": "A short climb to the best sunset over the river — bring somebody you like.",
+      "business": "Mount Bonnell (Covert Park)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "McKinney Falls State Park",
+      "note": "Waterfalls and swimming holes minutes from downtown — proof the Hill Country starts here.",
+      "business": "McKinney Falls State Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Bullock Texas State History Museum",
+      "note": "The whole Texas story under one roof — start here to understand why we're weird.",
+      "business": "Bullock Texas State History Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "LBJ Presidential Library",
+      "note": "Ten floors of the man who shaped a century — the animatronic LBJ tells a joke.",
+      "business": "LBJ Presidential Library",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Texas State Capitol",
+      "note": "Taller than the one in D.C. on purpose — free tours and pink granite pride.",
+      "business": "Texas State Capitol",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Blanton Museum of Art",
+      "note": "Ellsworth Kelly's glowing chapel alone is worth the trip — and it's a bargain.",
+      "business": "Blanton Museum of Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Historic Victory Grill",
+      "note": "Chitlin' Circuit royalty on East 11th — the soul of Black Austin still standing.",
+      "business": "The Historic Victory Grill",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mexic-Arte Museum",
+      "note": "Downtown home for Mexican and Latino art — the culture that built this city.",
+      "business": "Mexic-Arte Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Contemporary Austin - Laguna Gloria",
+      "note": "Sculpture in the trees on a lakeside villa grounds — art you wander through.",
+      "business": "The Contemporary Austin - Laguna Gloria",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Waterloo Records",
+      "note": "The record store that defines Austin listening — in-store shows and vinyl for days.",
+      "business": "Waterloo Records",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "BookPeople",
+      "note": "Texas's biggest independent bookstore — two floors of getting happily lost.",
+      "business": "BookPeople",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Allens Boots",
+      "note": "A wall of cowboy boots on South Congress — try a pair on even if you don't buy.",
+      "business": "Allens Boots",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Uncommon Objects",
+      "note": "Curated oddities and antiques — the keep-it-weird spirit distilled into a storefront.",
+      "business": "Uncommon Objects",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Antone's Record Shop",
+      "note": "Blues on the shelves since '87 — dig with the ghosts of the greats.",
+      "business": "Antone's Record Shop",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Feathers Boutique Vintage",
+      "note": "Hand-picked vintage threads on the East Side — where the good stuff hides.",
+      "business": "Feathers Boutique Vintage",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "STAG Provisions for Men",
+      "note": "Rugged, well-made menswear with a Texas backbone — quality that lasts.",
+      "business": "STAG Provisions for Men",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Franklin Barbecue",
+      "note": "The brisket the whole world lines up for — get in line early, it's a pilgrimage.",
+      "business": "Franklin Barbecue",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Terry Black's Barbecue",
+      "note": "Family pit-smoked and no reservation-to-brisket wait — a fast lane to the good stuff.",
+      "business": "Terry Black's Barbecue",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Veracruz All Natural",
+      "note": "Beyond breakfast — the tacos hold up all day and the salsa's serious.",
+      "business": "Veracruz All Natural",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Home Slice Pizza",
+      "note": "New York slices on South Congress — the easy, no-fuss midday move.",
+      "business": "Home Slice Pizza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Matt's El Rancho",
+      "note": "Tex-Mex since 1952 and the Bob Armstrong dip — comfort with a history.",
+      "business": "Matt's El Rancho",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Nixta Taqueria",
+      "note": "East Side tacos reinventing the masa game — the duck carnitas is the one.",
+      "business": "Nixta Taqueria",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Loro Asian Smokehouse & Bar",
+      "note": "Smoked-meat-meets-Southeast-Asia from Uchi's brains — the smoked brisket rice is a lunch winner.",
+      "business": "Loro Asian Smokehouse & Bar",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "The Roosevelt Room",
+      "note": "Serious cocktails from folks who competed for the title — every era on one menu.",
+      "business": "The Roosevelt Room",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Small Victory",
+      "note": "A tucked-away cocktail room downtown — quiet, well-made, and worth finding.",
+      "business": "Small Victory",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Zilker Brewing Company",
+      "note": "East Side neighborhood brewery — pull up to the taproom and stay a while.",
+      "business": "Zilker Brewing Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Austin Beer Garden Brewing Company (ABGB)",
+      "note": "Award-winning beer, wood-fired pizza, live music — the trifecta done right.",
+      "business": "The Austin Beer Garden Brewing Company (ABGB)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Deep Eddy Cabaret",
+      "note": "A proper old Austin dive — cheap, unpretentious, exactly the point.",
+      "business": "Deep Eddy Cabaret",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "LoLo",
+      "note": "Natural wine and small plates on the East Side — the low-lit spot to linger.",
+      "business": "LoLo",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Half Step",
+      "note": "Rainey Street cocktails on a patio built for it — go before the crowd swells.",
+      "business": "Half Step",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Banger's Sausage House & Beer Garden",
+      "note": "Endless sausage links and taps on Rainey — a rowdy, easy Austin night.",
+      "business": "Banger's Sausage House & Beer Garden",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Loro Asian Smokehouse & Bar",
+      "note": "Smoke and spice in a lively room — perfect low-stakes group dinner.",
+      "business": "Loro Asian Smokehouse & Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Odd Duck",
+      "note": "Farm-driven small plates that started as a food trailer — inventive without the stiffness.",
+      "business": "Odd Duck",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Canje",
+      "note": "Caribbean fire and rum on the East Side — bright, bold, and a whole lot of fun.",
+      "business": "Canje",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Güero's Taco Bar",
+      "note": "South Congress Tex-Mex institution with live music out back — a classic hang.",
+      "business": "Güero's Taco Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Home Slice Pizza",
+      "note": "Slices and pitchers, no reservation needed — the reliable weeknight answer.",
+      "business": "Home Slice Pizza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Matt's El Rancho",
+      "note": "Generations-deep Tex-Mex and frozen margaritas — dinner that feels like family.",
+      "business": "Matt's El Rancho",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Uchi",
+      "note": "Tyson Cole's sushi temple that put Austin on the fine-dining map — book ahead.",
+      "business": "Uchi",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hestia",
+      "note": "Live-fire cooking around a wood hearth — precise, dramatic, and delicious.",
+      "business": "Hestia",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Jeffrey's",
+      "note": "Old-guard Clarksville elegance — the tableside martini cart is a whole occasion.",
+      "business": "Jeffrey's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lutie's Garden Restaurant",
+      "note": "Garden-set fine dining at Commodore Perry — a splurge that earns every dollar.",
+      "business": "Lutie's Garden Restaurant",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Emmer & Rye",
+      "note": "Dim-sum-cart tasting of hyper-seasonal plates and house grains — a rolling adventure.",
+      "business": "Emmer & Rye",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Barley Swine",
+      "note": "Ambitious tasting menu from Odd Duck's kin — the chef's-counter seat is the move.",
+      "business": "Barley Swine",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Este",
+      "note": "Coastal Mexican seafood with a raw bar glow — order the tuna tostada and share.",
+      "business": "Este",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Suerte",
+      "note": "Masa magic and mezcal on the East Side — candlelit and quietly one of the best.",
+      "business": "Suerte",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Comedor",
+      "note": "Modern Mexican in a stunning downtown room — the kind of dinner you remember.",
+      "business": "Comedor",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Birdie's",
+      "note": "Wine-bar seasonal plates in a golden-hour patio setting — small, charming, beloved.",
+      "business": "Birdie's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bufalina",
+      "note": "Neapolitan pizza and a thoughtful natural wine list — intimate and unhurried.",
+      "business": "Bufalina",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Uchi",
+      "note": "Omakase in low light — hand somebody the reins and let the kitchen court you both.",
+      "business": "Uchi",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "The White Horse",
+      "note": "Honky-tonk two-steppin' and cheap beer on the East Side — free dance lessons, no cover attitude.",
+      "business": "The White Horse",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Continental Club",
+      "note": "The soul of South Congress since 1955 — live music every night in a room that's seen it all.",
+      "business": "The Continental Club",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Antone's Nightclub",
+      "note": "Austin's home of the blues — the room where legends were made and still play.",
+      "business": "Antone's Nightclub",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Mean Eyed Cat",
+      "note": "A tiny Johnny Cash shrine of a dive — strong pours and no pretense.",
+      "business": "The Mean Eyed Cat",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mohawk",
+      "note": "Red River's beloved rock club — the tiered patio stage is a rite of passage.",
+      "business": "Mohawk",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Broken Spoke",
+      "note": "The last of the true Texas dance halls — chicken-fried steak then waltz across the floor.",
+      "business": "The Broken Spoke",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Half Step",
+      "note": "Rainey Street cocktails and a courtyard that hums late — a smooth nightcap stop.",
+      "business": "Half Step",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Zilker Botanical Garden",
+      "note": "Koi ponds, a dinosaur trail, and quiet paths — easy joy for every age.",
+      "business": "Zilker Botanical Garden",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Congress Avenue Bridge Bats",
+      "note": "The free bat show at dusk — kids lose their minds and it costs nothing.",
+      "business": "Congress Avenue Bridge Bats",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lone Star Riverboat",
+      "note": "A gentle paddlewheel cruise on Lady Bird Lake — bats and skyline from the water.",
+      "business": "Lone Star Riverboat",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "UMLAUF Sculpture Garden & Museum",
+      "note": "Bronze sculpture on shaded lawns — room for little legs to roam.",
+      "business": "UMLAUF Sculpture Garden & Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Zilker Park Boat Rentals",
+      "note": "Pedal boats and kayaks the whole crew can pile into — simple on-water fun.",
+      "business": "Zilker Park Boat Rentals",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Home Slice Pizza",
+      "note": "Slices that keep everybody happy — the no-drama family dinner spot.",
+      "business": "Home Slice Pizza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Q2 Stadium (Austin FC)",
+      "note": "Verde-clad soccer nights that feel like a citywide block party — bring the kids.",
+      "business": "Q2 Stadium (Austin FC)",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Blanton Museum of Art",
+      "note": "Ellsworth Kelly's chapel glows brightest under gray skies — a dry, beautiful refuge.",
+      "business": "Blanton Museum of Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bullock Texas State History Museum",
+      "note": "Three floors of Texas plus an IMAX — wait out the storm learning something.",
+      "business": "Bullock Texas State History Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mexic-Arte Museum",
+      "note": "Downtown and dry, packed with vivid Mexican and Latino art — an easy duck-inside.",
+      "business": "Mexic-Arte Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "BookPeople",
+      "note": "Two floors to browse away a downpour — the coziest place in town when it rains.",
+      "business": "BookPeople",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Paramount Theatre",
+      "note": "A restored 1915 movie palace — catch a classic film or a show and forget the weather.",
+      "business": "Paramount Theatre",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "LBJ Presidential Library",
+      "note": "Ten dry floors of history — the storm outside is nothing next to the ones inside.",
+      "business": "LBJ Presidential Library",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Waterloo Records",
+      "note": "Flip through vinyl and catch an in-store set — a rainy afternoon well spent.",
+      "business": "Waterloo Records",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

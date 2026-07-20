@@ -1,0 +1,3442 @@
+[
+  {
+    "name": "Smyth",
+    "address": "177 N Ada St, Chicago, IL 60607",
+    "phone": "+1-773-913-3011",
+    "website": "https://www.smythrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Three Michelin stars. Hyper-seasonal farm-driven tasting menu from John and Karen Shields. Kelp tarts with English pea butter, foie gras doughnuts. The pinnacle.",
+    "must_try": "Full tasting menu — changes with what the farm sends",
+    "hours": "Tue-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alinea",
+    "address": "1723 N Halsted St, Chicago, IL 60614",
+    "phone": "+1-312-867-0110",
+    "website": "https://www.alinearestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Two Michelin stars. Grant Achatz's theatrical, immersive tasting menu. The edible helium balloon and tabletop dessert presentations are legendary.",
+    "must_try": "The full tasting — there is no à la carte",
+    "hours": "Wed-Sun, seatings at 5pm & 8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ever",
+    "address": "1340 W Fulton St, Chicago, IL 60607",
+    "phone": "+1-312-733-3837",
+    "website": "https://www.everrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Two Michelin stars. Curtis Duffy's wood-fire-driven tasting menu in Fulton Market. Pristine ingredients, elemental cooking.",
+    "must_try": "Tasting menu",
+    "hours": "Wed-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kasama",
+    "address": "1001 N Winchester Ave, Chicago, IL 60622",
+    "phone": "+1-773-904-8558",
+    "website": "https://www.kasamachicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Two Michelin stars. Tim Flores and Genie Kwon's Filipino tasting menu — a watershed moment for the cuisine globally. Adobo of mussels, mais con yelo with sweet corn semifreddo.",
+    "must_try": "Evening tasting menu (daytime is a bakery/brunch counter)",
+    "hours": "Brunch Wed-Sun, tasting menu Thu-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oriole",
+    "address": "661 W Walnut St, Chicago, IL 60661",
+    "phone": "+1-312-877-5339",
+    "website": "https://www.oriolechicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Two Michelin stars in an unmarked West Loop alley. Noah Sandoval's Japanese-influenced tasting menu. Intimate, no-signage speakeasy entrance.",
+    "must_try": "Tasting menu",
+    "hours": "Tue-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Indienne",
+    "address": "217 W Huron St, Chicago, IL 60654",
+    "phone": "+1-312-602-9355",
+    "website": "https://www.indiennechicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "One Michelin star. 2026 Banchet Award Restaurant of the Year. Indian-French tasting menus for omnivores, vegans, and pescatarians. Chef Sujan Sarkar.",
+    "must_try": "Tasting menu",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boka",
+    "address": "1729 N Halsted St, Chicago, IL 60614",
+    "phone": "+1-312-337-6070",
+    "website": "https://www.bokachicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "One Michelin star in Lincoln Park. Seasonal American tasting menu in a gorgeous townhouse setting.",
+    "must_try": "Seasonal tasting menu",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elske",
+    "address": "1350 W Randolph St, Chicago, IL 60607",
+    "phone": "+1-312-733-1314",
+    "website": "https://www.elskerestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "One Michelin star. David and Anna Posey's Scandinavian-Midwestern tasting menu. The pastry program is extraordinary.",
+    "must_try": "Tasting menu with optional wine pairing",
+    "hours": "Wed-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Schwa",
+    "address": "1466 N Ashland Ave, Chicago, IL 60622",
+    "phone": "+1-773-252-1466",
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "One Michelin star. BYOB, cash-only, no-reservations-system chaos. Michael Carlson's punk-rock fine dining in Wicker Park. Legendary and unpredictable.",
+    "must_try": "Whatever the kitchen sends — there's no menu",
+    "hours": "Irregular — call or check social media",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Topolobampo",
+    "address": "449 N Clark St, Chicago, IL 60654",
+    "phone": "+1-312-661-1434",
+    "website": "https://www.rickbayless.com/restaurants/topolobampo",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "One Michelin star. Rick Bayless's upscale Mexican fine dining. Decades-deep mastery of regional Mexican cuisine.",
+    "must_try": "Seasonal tasting menu",
+    "hours": "Wed-Sat dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Ideas",
+    "address": "2419 W 14th St, Chicago, IL 60608",
+    "phone": "+1-312-226-8144",
+    "website": "https://www.elideas.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "One Michelin star since 2013. Chef Foss hosts a dinner party for 20 every night. BYOB. Douglas Park. Under-the-radar gem that's maintained its star for 13 years.",
+    "must_try": "Full tasting — BYOB your best bottle",
+    "hours": "Thu-Sat evenings, reservations required",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Feld",
+    "address": "1100 W Randolph St, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.feldchicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "One Michelin star plus Green Star for sustainability. Chef Jacob Potashnick sources everything within a 4-hour radius. New wave Chicago fine dining.",
+    "must_try": "Tasting menu",
+    "hours": "Wed-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moody Tongue",
+    "address": "2515 S Wabash Ave, Chicago, IL 60616",
+    "phone": "+1-312-600-5111",
+    "website": "https://www.moodytongue.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "One Michelin star. Culinary brewery in the South Loop — tasting menu paired with their own brewed beers. Unique concept.",
+    "must_try": "Tasting menu with beer pairings",
+    "hours": "Wed-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sepia",
+    "address": "123 N Jefferson St, Chicago, IL 60661",
+    "phone": "+1-312-441-1920",
+    "website": "https://www.sepiachicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "One Michelin star. Sophisticated American cuisine in a gorgeous Art Nouveau space. West Loop stalwart.",
+    "must_try": "Seasonal prix fixe",
+    "hours": "Mon-Sat dinner, Mon-Fri lunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Next",
+    "address": "953 W Fulton Market, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.nextrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "One Michelin star. Grant Achatz's concept restaurant — the menu theme changes entirely every few months. Tickets sold in advance like a show.",
+    "must_try": "Whatever the current theme is",
+    "hours": "Wed-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mako",
+    "address": "731 W Lake St, Chicago, IL 60661",
+    "phone": null,
+    "website": "https://www.makochicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "One Michelin star. Omakase-style Japanese tasting menu in the West Loop.",
+    "must_try": "Omakase",
+    "hours": "Tue-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Galit",
+    "address": "2429 N Lincoln Ave, Chicago, IL 60614",
+    "phone": "+1-773-360-8755",
+    "website": "https://www.galitrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "One Michelin star. Middle Eastern fine dining in Lincoln Park. Bold, fire-driven cooking. Chef Zachary Engel.",
+    "must_try": "Whole roasted cauliflower, lamb shoulder",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cariño",
+    "address": "4662 N Broadway, Chicago, IL 60640",
+    "phone": null,
+    "website": "https://www.carinochicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "One Michelin star. Elevated Mexican in Uptown. Small, intimate, deeply personal cooking.",
+    "must_try": "Tasting menu",
+    "hours": "Wed-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Esmé",
+    "address": "2200 N Clark St, Chicago, IL 60614",
+    "phone": null,
+    "website": "https://www.esmechicago.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "One Michelin star. Contemporary fine dining in Lincoln Park. Playful, artistic presentations.",
+    "must_try": "Tasting menu",
+    "hours": "Wed-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Atelier",
+    "address": "4600 N Lincoln Ave, Chicago, IL 60625",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "One Michelin star in Lincoln Square. American tasting menu in a neighborhood setting.",
+    "must_try": "Tasting menu",
+    "hours": "Wed-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Girl & the Goat",
+    "address": "809 W Randolph St, Chicago, IL 60607",
+    "phone": "+1-312-492-6262",
+    "website": "https://www.girlandthegoat.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Stephanie Izard's flagship. Bold globally-inspired shared plates. Bib Gourmand. Still one of the hardest reservations in town.",
+    "must_try": "Goat empanadas, wood-oven roasted pig face",
+    "hours": "Sun-Thu 4:30-10pm, Fri-Sat 4:30-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Giant",
+    "address": "3209 W Armitage Ave, Chicago, IL 60647",
+    "phone": "+1-773-252-0997",
+    "website": "https://www.giantrestaurant.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Jason Vincent's Logan Square neighborhood gem. Seasonal American with serious technique and zero pretension.",
+    "must_try": "Seasonal menu — trust the kitchen",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Longman & Eagle",
+    "address": "2657 N Kedzie Ave, Chicago, IL 60647",
+    "phone": "+1-773-276-7110",
+    "website": "https://www.longmanandeagle.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Logan Square gastropub with rooms upstairs. Whiskey list is insane. Brunch is legendary.",
+    "must_try": "Wild boar sloppy joe, whiskey flight",
+    "hours": "Daily 9am-2am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lula Cafe",
+    "address": "2537 N Kedzie Blvd, Chicago, IL 60647",
+    "phone": "+1-773-489-9554",
+    "website": "https://www.lulacafe.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Logan Square institution since 1999. Farm-to-table before it was a movement. Monday night prix fixe is legendary.",
+    "must_try": "Monday Farm Dinner prix fixe",
+    "hours": "Wed-Mon, brunch weekends",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Publican",
+    "address": "837 W Fulton Market, Chicago, IL 60607",
+    "phone": "+1-312-733-9555",
+    "website": "https://www.thepublicanrestaurant.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Beer-hall-meets-fine-dining in Fulton Market. Pork, oysters, one of the best beer lists in the Midwest.",
+    "must_try": "Pork rinds, frites with duck fat",
+    "hours": "Mon-Thu 4-10pm, Fri 4-11pm, Sat 10am-11pm, Sun 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Daisies",
+    "address": "2523 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "+1-773-661-1671",
+    "website": "https://www.daisieschicago.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Bib Gourmand. Logan Square pasta gem. Handmade pasta, creative cocktails, accessible prices.",
+    "must_try": "Whatever fresh pasta is on the menu",
+    "hours": "Tue-Sat 5-10pm, Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Frontera Grill",
+    "address": "449 N Clark St, Chicago, IL 60654",
+    "phone": "+1-312-661-1434",
+    "website": "https://www.rickbayless.com/restaurants/frontera-grill",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Bib Gourmand. Rick Bayless's original. Regional Mexican with market-driven ingredients. More casual sister to Topolobampo.",
+    "must_try": "Seasonal mole, street tacos",
+    "hours": "Tue-Sat lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HaiSous Vietnamese Kitchen",
+    "address": "1800 S Carpenter St, Chicago, IL 60608",
+    "phone": "+1-312-702-1303",
+    "website": "https://www.haisous.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Bib Gourmand. Pilsen Vietnamese. The whole fish and the pho are transcendent. One of the most beloved restaurants in the city.",
+    "must_try": "Whole roasted catfish, pho",
+    "hours": "Tue-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Virtue",
+    "address": "1462 E 53rd St, Chicago, IL 60615",
+    "phone": "+1-773-947-8831",
+    "website": "https://www.virtuerestaurant.com",
+    "category": "dining",
+    "subcategory": "soul_food",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Bib Gourmand. James Beard Award-winning Erick Williams. Elevated Southern heritage cooking in Hyde Park. Culture of hospitality.",
+    "must_try": "Shrimp and grits, cornbread",
+    "hours": "Tue-Thu 5-9pm, Fri-Sat 5-10pm, Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Superkhana International",
+    "address": "3059 W Diversey Ave, Chicago, IL 60647",
+    "phone": null,
+    "website": "https://www.superkhanainternational.com",
+    "category": "dining",
+    "subcategory": "indian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Logan Square Indian with a punk sensibility. Bold flavors, communal energy, BYOB.",
+    "must_try": "Kathi rolls, seasonal curries",
+    "hours": "Tue-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Birrieria Zaragoza",
+    "address": "4852 S Pulaski Rd, Chicago, IL 60632",
+    "phone": "+1-773-523-3700",
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Bib Gourmand. James Beard Award-winning birria. The goat consommé and tacos are a pilgrimage.",
+    "must_try": "Birria tacos and consommé",
+    "hours": "Thu-Sun 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mi Tocaya Antojeria",
+    "address": "2800 W Logan Blvd, Chicago, IL 60647",
+    "phone": "+1-872-315-3947",
+    "website": "https://www.mitocaya.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Diana Dávila's modern Mexican in Logan Square. Elevated antojitos with deep cultural roots.",
+    "must_try": "Esquites, seasonal mole",
+    "hours": "Tue-Sat 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mott St.",
+    "address": "1401 N Ashland Ave, Chicago, IL 60622",
+    "phone": "+1-773-687-9977",
+    "website": "https://www.mottstchicago.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Wicker Park fusion — Asian street food meets Midwestern soul. Late-night energy.",
+    "must_try": "Roti, lamb ribs",
+    "hours": "Tue-Sun 5pm-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pleasant House Pub",
+    "address": "2119 S Halsted St, Chicago, IL 60608",
+    "phone": "+1-773-523-7437",
+    "website": "https://www.pleasanthouse.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. British-style savory pies in Pilsen. The Royal Pie (steak and ale) is the standard.",
+    "must_try": "Royal Pie, Balkan Pie",
+    "hours": "Tue-Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ciccio Mio",
+    "address": "226 W Kinzie St, Chicago, IL 60654",
+    "phone": "+1-312-922-2600",
+    "website": "https://www.cicciomio.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Bib Gourmand. Intimate River North Italian. Yelp Top 100 nationally. Handmade pasta in a room that feels like nonna's kitchen.",
+    "must_try": "Fresh pasta — whatever the special is",
+    "hours": "Tue-Sun 5-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sifr",
+    "address": "210 W Kinzie St, Chicago, IL 60654",
+    "phone": null,
+    "website": "https://www.sifrchicago.com",
+    "category": "dining",
+    "subcategory": "middle_eastern",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Wood-fired Middle Eastern in River North. The $60 four-course tasting menu is the biggest steal in Chicago dining.",
+    "must_try": "Mezze platter, $60 tasting menu",
+    "hours": "Tue-Sun dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Perilla",
+    "address": "1437 W Randolph St, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.perillachicago.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Korean in the West Loop. Modern takes on Korean classics.",
+    "must_try": "Korean fried chicken, bibimbap",
+    "hours": "Tue-Sun dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Taqueria Chingón",
+    "address": "1359 W Fulton St, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.taqueriachingon.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Bib Gourmand. Mexico City street food elevated — duck carnitas and al pastor carved from the trompo onto griddled tortillas.",
+    "must_try": "Al pastor, duck carnitas tacos",
+    "hours": "Daily lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lou Malnati's Pizzeria",
+    "address": "439 N Wells St, Chicago, IL 60654",
+    "phone": "+1-312-828-9800",
+    "website": "https://www.loumalnatis.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The deep-dish standard. Buttery crust, chunky tomato sauce, sausage patty that covers the whole pie.",
+    "must_try": "The Malnati Chicago Classic",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pequod's Pizza",
+    "address": "2207 N Clybourn Ave, Chicago, IL 60614",
+    "phone": "+1-773-327-1512",
+    "website": "https://www.pequodspizza.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Caramelized cheese crust deep dish that converts thin-crust loyalists. The crunchy blackened cheese edge is the move.",
+    "must_try": "Pan pizza with sausage — ask for extra crispy",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Giordano's",
+    "address": "730 N Rush St, Chicago, IL 60611",
+    "phone": "+1-312-951-0747",
+    "website": "https://www.giordanos.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Stuffed deep-dish — thicker than Lou's, more cheese, tourist-heavy. Fine but not the local move.",
+    "must_try": "Stuffed cheese pizza",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pizzeria Uno",
+    "address": "29 E Ohio St, Chicago, IL 60611",
+    "phone": "+1-312-321-1000",
+    "website": "https://www.unos.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Where deep-dish was literally invented in 1943. The original location. More historic landmark than best-in-class pizza.",
+    "must_try": "Original deep dish in the room where it started",
+    "hours": "Daily 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vito & Nick's",
+    "address": "8433 S Pulaski Rd, Chicago, IL 60652",
+    "phone": "+1-773-735-2050",
+    "website": null,
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The platonic ideal of tavern-style pizza. Cracker-thin crust, cut in squares, aggressively unpretentious. Ashburn. Since 1946.",
+    "must_try": "Sausage tavern-style, square cut",
+    "hours": "Mon-Thu 11am-midnight, Fri-Sat 11am-1am, Sun noon-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pat's Pizza",
+    "address": "2679 N Lincoln Ave, Chicago, IL 60614",
+    "phone": "+1-773-248-0168",
+    "website": null,
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Lincoln Park tavern-style since 1950. Ultra-thin crust that shatters. What actual Chicagoans eat daily.",
+    "must_try": "Sausage and onion, tavern cut",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Al's #1 Italian Beef",
+    "address": "1079 W Taylor St, Chicago, IL 60607",
+    "phone": "+1-312-226-4017",
+    "website": "https://www.alsbeef.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The original Italian beef since 1938. Stand-up counter, no frills, invented a food category.",
+    "must_try": "Italian beef combo — dipped, hot peppers",
+    "hours": "Mon-Sat 9am-1am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Portillo's",
+    "address": "100 W Ontario St, Chicago, IL 60654",
+    "phone": "+1-312-587-8910",
+    "website": "https://www.portillos.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Chicago fast food royalty. Italian beef, Chicago dogs, and a chocolate cake shake that has no business being that good.",
+    "must_try": "Italian beef, dipped, with hot giardiniera",
+    "hours": "Daily 10am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Johnnie's Beef",
+    "address": "7500 W North Ave, Elmwood Park, IL 60707",
+    "phone": "+1-708-452-6000",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Suburban Italian beef legend. Stand-up only, no seats. The beef drips. Worth the drive from the city.",
+    "must_try": "Italian beef, dipped, hot peppers",
+    "hours": "Mon-Sat 10am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mr. Beef",
+    "address": "666 N Orleans St, Chicago, IL 60654",
+    "phone": "+1-312-337-8500",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.3",
+    "description": "River North Italian beef counter. Got famous from The Bear TV show. The real deal — Jay Leno used to fly these in.",
+    "must_try": "Italian beef, sweet and hot peppers",
+    "hours": "Mon-Fri 7am-5pm, Sat 10am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Superdawg Drive-In",
+    "address": "6363 N Milwaukee Ave, Chicago, IL 60646",
+    "phone": "+1-773-763-0660",
+    "website": "https://www.superdawg.com",
+    "category": "dining",
+    "subcategory": "hot_dogs",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Iconic drive-in since 1948. Giant hot dog statues on the roof. Classic Chicago dog with carhop service.",
+    "must_try": "Superdawg with Superonion rings",
+    "hours": "Sun-Thu 11am-1am, Fri-Sat 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gene & Jude's",
+    "address": "2720 N River Rd, River Grove, IL 60171",
+    "phone": "+1-708-452-7634",
+    "website": null,
+    "category": "dining",
+    "subcategory": "hot_dogs",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The most Chicago hot dog stand that exists. No ketchup, no seats, no nonsense. Depression Dog with fries dumped on top.",
+    "must_try": "Depression Dog with fries on top",
+    "hours": "Mon-Sat 10:30am-midnight, Sun 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jim's Original",
+    "address": "1250 S Union Ave, Chicago, IL 60607",
+    "phone": "+1-312-733-7820",
+    "website": null,
+    "category": "dining",
+    "subcategory": "hot_dogs",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Maxwell Street stand since 1939. Polish sausage and hot dogs. Open-air, charcoal-grilled, served with grilled onions and sport peppers.",
+    "must_try": "Maxwell Street Polish with grilled onions",
+    "hours": "Daily 24 hours (check for current)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Byron's Hot Dogs",
+    "address": "1017 W Irving Park Rd, Chicago, IL 60613",
+    "phone": "+1-773-281-7474",
+    "website": null,
+    "category": "dining",
+    "subcategory": "hot_dogs",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Classic Chicago dog stand near Wrigley. Everything dragged through the garden. No ketchup.",
+    "must_try": "Chicago-style hot dog, fully loaded",
+    "hours": "Daily 10am-3am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bavette's Bar & Boeuf",
+    "address": "218 W Kinzie St, Chicago, IL 60654",
+    "phone": "+1-312-624-8154",
+    "website": "https://www.bavetteschicago.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Moody jazz-age steakhouse in River North. Dark leather, candlelight, live music. The shrimp DeJonghe is the best appetizer in the city.",
+    "must_try": "Shrimp DeJonghe, bone-in filet",
+    "hours": "Mon-Thu 5-10pm, Fri-Sat 5-11pm, Sun 5-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gibsons Bar & Steakhouse",
+    "address": "1028 N Rush St, Chicago, IL 60611",
+    "phone": "+1-312-266-8999",
+    "website": "https://www.gibsonssteakhouse.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "The quintessential Chicago power steakhouse since 1989. Enormous cuts, legendary bar scene.",
+    "must_try": "Chicago Cut bone-in ribeye",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chicago Cut Steakhouse",
+    "address": "300 N LaSalle Dr, Chicago, IL 60654",
+    "phone": "+1-312-329-1800",
+    "website": "https://www.chicagocutsteakhouse.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "River-facing steakhouse with a gorgeous patio. The dry-aged prime is the focus. Power lunch crowd.",
+    "must_try": "45-day dry-aged prime ribeye",
+    "hours": "Daily lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maple & Ash",
+    "address": "8 W Maple St, Chicago, IL 60610",
+    "phone": "+1-312-944-8888",
+    "website": "https://www.mapleandash.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Gold Coast steakhouse where the 'I Don't Give a F*@k' menu lets the kitchen choose for you. Bold, theatrical.",
+    "must_try": "The IDGAF menu — let the kitchen decide",
+    "hours": "Mon-Sat dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swift & Sons",
+    "address": "1000 W Fulton Market, Chicago, IL 60607",
+    "phone": "+1-312-733-9420",
+    "website": "https://www.swiftandsonschicago.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Fulton Market steakhouse from the Boka group. Whole-animal butchery program, craft cocktails, old-Chicago vibes.",
+    "must_try": "Dry-aged ribeye, bone marrow",
+    "hours": "Mon-Sat dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "RPM Italian",
+    "address": "52 W Illinois St, Chicago, IL 60654",
+    "phone": "+1-312-222-1888",
+    "website": "https://www.rpmrestaurants.com/rpm-italian",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "River North Italian from the Lettuce Entertain You/RPM group. Scene-y, loud, great pasta. Celebrity sightings.",
+    "must_try": "Cacio e pepe, short rib ravioli",
+    "hours": "Daily dinner, Sat-Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gene & Georgetti",
+    "address": "500 N Franklin St, Chicago, IL 60654",
+    "phone": "+1-312-527-3718",
+    "website": "https://www.geneandgeorgetti.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "Chicago's oldest steakhouse, since 1941. Old-school Italian-American steakhouse beneath the L tracks. Sinatra ate here.",
+    "must_try": "Chicken alla Joe, garbage salad",
+    "hours": "Mon-Sat lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Joe's Seafood, Prime Steak & Stone Crab",
+    "address": "60 E Grand Ave, Chicago, IL 60611",
+    "phone": "+1-312-379-5637",
+    "website": "https://www.joes.net/chicago",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Miami import on the Mag Mile. Stone crab claws flown from Florida, prime steaks.",
+    "must_try": "Stone crab claws with mustard sauce",
+    "hours": "Mon-Thu 11:30am-10pm, Fri-Sat 11:30am-11pm, Sun 4-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shaw's Crab House",
+    "address": "21 E Hubbard St, Chicago, IL 60611",
+    "phone": "+1-312-527-2722",
+    "website": "https://www.shawscrabhouse.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "River North seafood institution. Raw bar, classic preparations, great oyster happy hour.",
+    "must_try": "Oyster happy hour at the raw bar",
+    "hours": "Daily lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Au Cheval",
+    "address": "800 W Randolph St, Chicago, IL 60607",
+    "phone": "+1-312-929-4580",
+    "website": "https://www.aucheval.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The cheeseburger that launched a thousand hour-long waits. Double with fried egg. Fulton Market.",
+    "must_try": "Double cheeseburger with egg",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Big Star",
+    "address": "1531 N Damen Ave, Chicago, IL 60622",
+    "phone": "+1-773-235-4039",
+    "website": "https://www.bigstarchicago.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Wicker Park taco joint with honky-tonk soul. Carnitas tacos, frozen margaritas, best patio energy in the city.",
+    "must_try": "Carnitas taco and frozen margarita",
+    "hours": "Daily 11:30am-2am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Monteverde",
+    "address": "1020 W Madison St, Chicago, IL 60607",
+    "phone": "+1-312-888-3041",
+    "website": "https://www.monteverdechicago.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Sarah Grueneberg's West Loop pasta temple. The cacio e pepe tortelloni is iconic. Every pasta is made in-house.",
+    "must_try": "Cacio e pepe tortelloni",
+    "hours": "Tue-Sat dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wildberry Pancakes and Cafe",
+    "address": "130 E Randolph St, Chicago, IL 60601",
+    "phone": "+1-312-938-9777",
+    "website": "https://www.wildberrycafe.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Best brunch downtown. Line is real but moves fast. Berry bliss pancakes and signature skillets.",
+    "must_try": "Berry Bliss Pancakes, Khaleesi skillet",
+    "hours": "Daily 7am-2:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lou Mitchell's",
+    "address": "565 W Jackson Blvd, Chicago, IL 60661",
+    "phone": "+1-312-939-3111",
+    "website": "https://www.loumitchellsrestaurant.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Near Union Station since 1923. Thick-cut French toast, double-yolk eggs. They hand you donut holes while you wait.",
+    "must_try": "French toast, donut holes in line",
+    "hours": "Mon-Sat 5:30am-3pm, Sun 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yolk",
+    "address": "355 E Ohio St, Chicago, IL 60611",
+    "phone": "+1-312-822-9655",
+    "website": "https://www.eatyolk.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Multi-location brunch with creative egg dishes, healthy bowls, specialty juices. Solid and consistent.",
+    "must_try": "Red velvet French toast",
+    "hours": "Daily 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Big Jones",
+    "address": "5347 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-275-5725",
+    "website": "https://www.bigjones.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Andersonville Southern brunch that changes lives. Heritage grain biscuits, shrimp and grits. Chef Paul Fehribach.",
+    "must_try": "Southern brunch — biscuits, shrimp and grits",
+    "hours": "Dinner Tue-Sat, brunch Sat-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MingHin Cuisine",
+    "address": "2168 S Archer Ave, Chicago, IL 60616",
+    "phone": "+1-312-808-1999",
+    "website": "https://www.minghin.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Chinatown's most popular dim sum. Modern, spacious, good cart service. Always packed on weekends.",
+    "must_try": "Dim sum — har gow, siu mai, egg tarts",
+    "hours": "Daily 8am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lao Sze Chuan",
+    "address": "2172 S Archer Ave, Chicago, IL 60616",
+    "phone": "+1-312-326-5040",
+    "website": "https://www.laoszechuanchicago.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Chinatown Sichuan that defines authentic and numbing. Tony Hu's flagship. The dry chili chicken is legend.",
+    "must_try": "Dry chili chicken, mapo tofu",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Carnitas Don Pedro",
+    "address": "1113 W 18th St, Chicago, IL 60608",
+    "phone": "+1-312-829-4757",
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Pilsen slow-cooked pork institution on 18th Street. Carnitas by the pound with tortillas and salsa.",
+    "must_try": "Carnitas by the pound",
+    "hours": "Daily 7am-7pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ghareeb Nawaz",
+    "address": "2032 W Devon Ave, Chicago, IL 60659",
+    "phone": "+1-773-761-5300",
+    "website": null,
+    "category": "dining",
+    "subcategory": "indian",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Devon Ave Pakistani/Indian. High-volume, insanely cheap, exceptionally spiced. Open late. Green chili chicken.",
+    "must_try": "Green chili chicken, biryani",
+    "hours": "Daily 10am-4am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pearl's Place",
+    "address": "3901 S Michigan Ave, Chicago, IL 60653",
+    "phone": "+1-773-285-1700",
+    "website": "https://www.pearlsplacerestaurant.com",
+    "category": "dining",
+    "subcategory": "soul_food",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Bronzeville classic Southern fine dining. Sunday brunch is a community institution. White tablecloths, real hospitality.",
+    "must_try": "Fried chicken, catfish, Sunday brunch",
+    "hours": "Mon-Sat 7am-8pm, Sun 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Luella's Southern Kitchen",
+    "address": "4609 N Lincoln Ave, Chicago, IL 60625",
+    "phone": "+1-773-961-8196",
+    "website": "https://www.luellassouthernkitchen.com",
+    "category": "dining",
+    "subcategory": "soul_food",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Lincoln Square scratch-made Southern using Midwestern farm products. Fried chicken and biscuits.",
+    "must_try": "Fried chicken, buttermilk biscuits",
+    "hours": "Tue-Sun dinner, Sat-Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Atsumeru",
+    "address": "Noble Square, Chicago, IL 60622",
+    "phone": null,
+    "website": "https://www.atsumerurestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "2026 opening. Nordic-Japanese tasting menu, 8 seats, seafood-forward. Chef Devin Denzer. 10-12 course menu.",
+    "must_try": "Omakase tasting",
+    "hours": "TBD — opening 2026",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Monster Ramen",
+    "address": "3435 W Fullerton Ave, Chicago, IL 60647",
+    "phone": null,
+    "website": "https://www.monsterramenchicago.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "2025 opening. Chef Katie Dong's in-house Noodle Lab producing fresh organic noodles daily. Wagyu Miso ramen is the move.",
+    "must_try": "The Monster — wagyu rib roast, beef jam, soft-boiled egg",
+    "hours": "Tue-Sun lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Petit Pomeroy",
+    "address": "One Chicago, River North, Chicago, IL 60611",
+    "phone": null,
+    "website": "https://www.petitpomeroy.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": null,
+    "description": "2026 opening. Parisian bistro downtown from the acclaimed Winnetka team. Classic French fare, extensive Burgundy list.",
+    "must_try": "French bistro classics",
+    "hours": "TBD",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Void",
+    "address": "Avondale, Chicago, IL 60618",
+    "phone": null,
+    "website": "https://www.voidchicago.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "2025 opening. Moody Italian in Avondale — vintage charm, dive bar vibes, creative pasta. The spaghetti uh-os went viral.",
+    "must_try": "Spaghetti uh-os, kimchi agnolotti",
+    "hours": "Tue-Sat 5-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dimmi Dimmi",
+    "address": "Lincoln Park, Chicago, IL 60614",
+    "phone": null,
+    "website": "https://www.dimmidimmiitalian.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "2025 opening. Modern neighborhood Italian-American. Ex-Carbone chef. Red-sauce favorites with Chicago giardiniera twist.",
+    "must_try": "Handmade pasta, tavern-style pizza",
+    "hours": "Tue-Sun dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tre Dita",
+    "address": "Fulton Market, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.treditachicago.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "2025 opening. Hand-rolled pasta with flour from Italy. The hottest Italian opening — hype is backed up.",
+    "must_try": "Any handmade pasta",
+    "hours": "Dinner nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lao Der",
+    "address": "Irving Park, Chicago, IL 60618",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Chicago's first sit-down Lao restaurant in years. Khao piek sen noodle soup stops tables mid-conversation. BYOB.",
+    "must_try": "Khao piek sen, Esan sausage",
+    "hours": "Check social media",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elia",
+    "address": "Wicker Park, Chicago, IL 60622",
+    "phone": null,
+    "website": "https://www.eliachicago.com",
+    "category": "dining",
+    "subcategory": "middle_eastern",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "2025 opening. Turkish kebabs, hot mezes, fresh pita. Mediterranean bar and lounge energy.",
+    "must_try": "Turkish kebabs, mezze platter",
+    "hours": "Dinner nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kingston Mines",
+    "address": "2548 N Halsted St, Chicago, IL 60614",
+    "phone": "+1-773-477-4646",
+    "website": "https://www.kingstonmines.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Chicago's premier blues club since 1968. Two stages, live music seven nights, no breaks between sets. 4AM license.",
+    "must_try": "Just show up — the music is the thing",
+    "hours": "Daily 7pm-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buddy Guy's Legends",
+    "address": "700 S Wabash Ave, Chicago, IL 60605",
+    "phone": "+1-312-427-1190",
+    "website": "https://www.buddyguy.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Blues legend's own South Loop club. Buddy still plays his January residency. Decent Southern food.",
+    "must_try": "Catch Buddy Guy in January",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rosa's Lounge",
+    "address": "3420 W Armitage Ave, Chicago, IL 60647",
+    "phone": "+1-773-342-0452",
+    "website": "https://www.rosaslounge.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Intimate Logan Square blues joint run by an Italian immigrant who fell in love with Chicago blues. Raw, authentic, no tourists.",
+    "must_try": "Any weeknight show — small room, big sound",
+    "hours": "Tue-Sat 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "B.L.U.E.S.",
+    "address": "2519 N Halsted St, Chicago, IL 60614",
+    "phone": "+1-773-528-1012",
+    "website": "https://www.chicagobluesbar.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Tiny Lincoln Park blues bar across from Kingston Mines. 100-capacity room where you're practically on stage with the band.",
+    "must_try": "Any show — you're 5 feet from the artist",
+    "hours": "Daily 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green Mill Cocktail Lounge",
+    "address": "4802 N Broadway, Chicago, IL 60640",
+    "phone": "+1-773-878-5552",
+    "website": "https://www.greenmilljazz.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Jazz club since 1907. Al Capone's booth still roped off. Sunday Uptown Poetry Slam is the longest-running in the country.",
+    "must_try": "Sunday Poetry Slam, any weeknight jazz set",
+    "hours": "Daily noon-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jazz Showcase",
+    "address": "806 S Plymouth Ct, Chicago, IL 60605",
+    "phone": "+1-312-360-0234",
+    "website": "https://www.jazzshowcase.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "South Loop jazz institution since 1947. Straight-ahead jazz in a proper listening room. All-ages matinees on Sundays.",
+    "must_try": "Sunday matinee (family-friendly)",
+    "hours": "Shows nightly, check schedule",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Andy's Jazz Club",
+    "address": "11 E Hubbard St, Chicago, IL 60611",
+    "phone": "+1-312-642-6805",
+    "website": "https://www.andysjazzclub.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "River North jazz club with early and late sets. More accessible/tourist-friendly than Green Mill but the music is serious.",
+    "must_try": "Early evening set with dinner",
+    "hours": "Mon-Sat, shows at 6pm and 9pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Winter's Jazz Club",
+    "address": "465 N McClurg Ct, Chicago, IL 60611",
+    "phone": "+1-312-344-1270",
+    "website": "https://www.wintersjazzclub.com",
+    "category": "bars",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Intimate Streeterville jazz room. Chicago-style jazz in a 50-seat space. BYOB.",
+    "must_try": "Any show — 50 seats means you're IN it",
+    "hours": "Shows Thu-Sat",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Violet Hour",
+    "address": "1520 N Damen Ave, Chicago, IL 60622",
+    "phone": "+1-773-252-1500",
+    "website": "https://www.theviolethour.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "James Beard Award-winning cocktail bar. No sign — unmarked door in Wicker Park. Craft cocktails, speakeasy vibe.",
+    "must_try": "Seasonal cocktail menu",
+    "hours": "Sun-Fri 6pm-2am, Sat 6pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lost Lake",
+    "address": "3154 W Diversey Ave, Chicago, IL 60647",
+    "phone": "+1-773-293-6048",
+    "website": "https://www.lostlaketiki.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Top-tier tiki bar from the Violet Hour crew. Tropical cocktails with dead-serious technique. Avondale.",
+    "must_try": "Jungle Bird, Painkiller",
+    "hours": "Sun-Fri 5pm-2am, Sat 5pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Three Dots and a Dash",
+    "address": "435 N Clark St, Chicago, IL 60654",
+    "phone": "+1-312-610-4220",
+    "website": "https://www.threedotschicago.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Underground tiki bar beneath River North. Over-the-top tropical drinks in coconuts and skulls.",
+    "must_try": "The Treasure Chest (serves 2-4)",
+    "hours": "Mon-Fri 4pm-2am, Sat-Sun 3pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kumiko",
+    "address": "630 W Lake St, Chicago, IL 60661",
+    "phone": "+1-312-285-2912",
+    "website": "https://www.baborchicago.com/kumiko",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Japanese-inspired cocktail bar above Kikko in West Loop. Julia Momosé's cocktails are art. One of the best bars in America.",
+    "must_try": "Seasonal cocktail omakase",
+    "hours": "Wed-Sat 5pm-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Aviary",
+    "address": "955 W Fulton Market, Chicago, IL 60607",
+    "phone": null,
+    "website": "https://www.theaviary.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Grant Achatz's cocktail laboratory. Drinks served in ice spheres, presented like tasting-menu courses. The Office below is the speakeasy.",
+    "must_try": "The kitchen table experience, then The Office downstairs",
+    "hours": "Wed-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Billy Sunday",
+    "address": "3143 W Logan Blvd, Chicago, IL 60647",
+    "phone": "+1-773-661-2485",
+    "website": "https://www.billy-sunday.com",
+    "category": "bars",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Logan Square cocktail bar named after a prohibition-era preacher. Amaro-focused, deep spirits knowledge.",
+    "must_try": "Amaro flight, seasonal cocktails",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cindy's Rooftop",
+    "address": "12 S Michigan Ave, Chicago, IL 60603",
+    "phone": "+1-312-792-3502",
+    "website": "https://www.cindysrooftop.com",
+    "category": "bars",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Chicago Athletic Association rooftop overlooking Millennium Park. The view is extraordinary. Get there early.",
+    "must_try": "Cocktail at sunset overlooking The Bean",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Signature Lounge",
+    "address": "875 N Michigan Ave, 96th Floor, Chicago, IL 60611",
+    "phone": "+1-312-787-7230",
+    "website": "https://www.signatureroom.com",
+    "category": "bars",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "96th floor cocktails — free to enter (no observation deck fee). 360-degree skyline view. Come for drinks, skip the food.",
+    "must_try": "Any cocktail — you're paying for the view",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "I|O Godfrey",
+    "address": "127 W Huron St, Chicago, IL 60654",
+    "phone": "+1-312-649-2000",
+    "website": "https://www.iogodfrey.com",
+    "category": "bars",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "River North rooftop bar and lounge. Heated in winter, open-air in summer. DJ sets on weekends.",
+    "must_try": "Summer cocktails on the terrace",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Revolution Brewing",
+    "address": "2323 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": "+1-773-227-2739",
+    "website": "https://www.revbrew.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Largest independent brewery in Illinois. Logan Square brewpub with great food. Anti-Hero IPA is everywhere for a reason.",
+    "must_try": "Anti-Hero IPA, rotating barrel-aged stouts",
+    "hours": "Mon-Thu 11am-midnight, Fri-Sat 11am-1am, Sun 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Half Acre Beer Company",
+    "address": "4257 N Lincoln Ave, Chicago, IL 60618",
+    "phone": "+1-773-248-4038",
+    "website": "https://www.halfacrebeer.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Lincoln Square taproom and beer garden. Daisy Cutter is the house classic.",
+    "must_try": "Daisy Cutter Pale Ale",
+    "hours": "Mon-Thu 11am-11pm, Fri-Sat 11am-midnight, Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Goose Island Brewhouse",
+    "address": "1800 N Clybourn Ave, Chicago, IL 60614",
+    "phone": "+1-312-915-0071",
+    "website": "https://www.gooseisland.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "The original brewpub where Chicago craft beer started. Now AB InBev-owned but the Clybourn taproom still pours exclusive small-batch.",
+    "must_try": "Bourbon County Stout (seasonal), 312 Urban Wheat",
+    "hours": "Daily 11am-midnight",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dovetail Brewery",
+    "address": "1800 W Belle Plaine Ave, Chicago, IL 60613",
+    "phone": "+1-773-683-1414",
+    "website": "https://www.dovetailbrewery.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Ravenswood lager brewery. Traditional German and Belgian styles. The Hefeweizen and Vienna Lager are exceptional.",
+    "must_try": "Hefeweizen, Vienna Lager",
+    "hours": "Wed-Sun, check hours",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Metropolitan Brewing",
+    "address": "3057 N Rockwell St, Chicago, IL 60618",
+    "phone": "+1-773-754-0494",
+    "website": "https://www.metrobrewing.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Avondale lager-focused brewery with a gorgeous riverfront taproom. German-style lagers only. Krankshaft is the flagship.",
+    "must_try": "Krankshaft Kölsch",
+    "hours": "Wed-Sun, check hours",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hopleaf",
+    "address": "5148 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-334-9851",
+    "website": "https://www.hopleaf.com",
+    "category": "bars",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Andersonville Belgian beer bar with one of the deepest beer lists in America. The mussels and frites are mandatory.",
+    "must_try": "Mussels and frites, any Belgian ale on tap",
+    "hours": "Daily 3pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Old Town Ale House",
+    "address": "219 W North Ave, Chicago, IL 60610",
+    "phone": "+1-312-944-7020",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Old Town legend since 1958. Paintings of naked politicians on the walls. Cash only. Across from Second City.",
+    "must_try": "Cheap beer and the art on the walls",
+    "hours": "Daily noon-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The California Clipper",
+    "address": "1002 N California Ave, Chicago, IL 60622",
+    "phone": "+1-773-384-7700",
+    "website": "https://www.californiaclipper.com",
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Humboldt Park vintage bar with a gorgeous 1940s curved bar. Live music, DJs, old-school charm.",
+    "must_try": "Old fashioned at the curved bar",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Simon's Tavern",
+    "address": "5210 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-878-0894",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Andersonville Swedish tavern since 1934. Glögg (hot mulled wine) in winter is a tradition. Neon sign is iconic.",
+    "must_try": "Glögg in winter, cheap beer anytime",
+    "hours": "Daily 3pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nisei Lounge",
+    "address": "3439 N Sheffield Ave, Chicago, IL 60657",
+    "phone": "+1-773-525-0650",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Wrigleyville's oldest tavern (1951). Authentic, gritty counterpoint to the sports bar corridor. Cash only.",
+    "must_try": "Cheap domestic, no pretense",
+    "hours": "Daily 3pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "L&L Tavern",
+    "address": "3207 N Clark St, Chicago, IL 60657",
+    "phone": "+1-773-528-1303",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Lakeview East dive cherished for its unapologetically stark atmosphere and dark lore. Cash only.",
+    "must_try": "Cheap shot and a beer",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Carol's Pub",
+    "address": "4659 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-334-2402",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Uptown honky-tonk dive with live country music. One of the last real country bars in Chicago. Beloved institution.",
+    "must_try": "Live country set on weekends",
+    "hours": "Daily 1pm-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maria's Packaged Goods",
+    "address": "960 W 31st St, Chicago, IL 60608",
+    "phone": "+1-773-890-0588",
+    "website": "https://www.community-bar.com",
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Bridgeport bar/liquor store hybrid. Amazing craft beer selection in a no-frills neighborhood institution. DJ nights.",
+    "must_try": "Rotating craft draft list",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Estelle's Cafe & Lounge",
+    "address": "2013 W North Ave, Chicago, IL 60647",
+    "phone": "+1-773-782-0450",
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Wicker Park 4AM bar with late-night food. Tater tots at 3am. Industry hangout.",
+    "must_try": "Tater tots at 3am",
+    "hours": "Daily 5pm-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Owl",
+    "address": "2521 N Milwaukee Ave, Chicago, IL 60647",
+    "phone": null,
+    "website": null,
+    "category": "bars",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Logan Square 4AM late-night lounge. Dark, moody, perfect for the 2am crowd that's not ready to stop.",
+    "must_try": "Late-night vibes",
+    "hours": "Daily 8pm-4am (Sat 5am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smartbar",
+    "address": "3730 N Clark St, Chicago, IL 60613",
+    "phone": "+1-773-549-4140",
+    "website": "https://www.smartbarchicago.com",
+    "category": "bars",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Below Metro. Chicago house music institution since 1982. Where house music lives. Legendary DJs, no bottle service nonsense.",
+    "must_try": "Late-night DJ set — this is where house was born",
+    "hours": "Fri-Sat 10pm-5am, select weeknights",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Spybar",
+    "address": "646 N Franklin St, Chicago, IL 60654",
+    "phone": "+1-312-337-2191",
+    "website": "https://www.spybarchicago.com",
+    "category": "bars",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "River North underground dance club. Top-tier electronic music bookings in an intimate basement.",
+    "must_try": "Saturday night headliner set",
+    "hours": "Fri-Sat 10pm-4am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Murphy's Bleachers",
+    "address": "3655 N Sheffield Ave, Chicago, IL 60613",
+    "phone": "+1-773-281-5356",
+    "website": "https://www.murphysbleachers.com",
+    "category": "bars",
+    "subcategory": "sports_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "THE Wrigley Field pregame bar. Right across from the bleacher entrance. Packed on game days, essential Cubs experience.",
+    "must_try": "Pregame beers before Cubs game",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "sports",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Second City",
+    "address": "1616 N Wells St, Chicago, IL 60614",
+    "phone": "+1-312-337-3992",
+    "website": "https://www.secondcity.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The most important comedy theater in America. Tina Fey, Bill Murray, Stephen Colbert started here. Mainstage and improv nightly.",
+    "must_try": "Mainstage revue",
+    "hours": "Shows nightly",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "iO Theater",
+    "address": "1501 N Kingsbury St, Chicago, IL 60642",
+    "phone": "+1-312-929-2401",
+    "website": "https://www.ioimprov.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Legendary improv theater. More experimental than Second City. Harold Night is a Chicago institution.",
+    "must_try": "Harold Night (Mondays)",
+    "hours": "Shows nightly",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zanies Comedy Night Club",
+    "address": "1548 N Wells St, Chicago, IL 60610",
+    "phone": "+1-312-337-4027",
+    "website": "https://www.zanies.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Old Town standup comedy club. Touring national headliners in an intimate room. Two-drink minimum.",
+    "must_try": "Weekend headliner show",
+    "hours": "Shows nightly",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Intelligentsia Coffee",
+    "address": "53 E Randolph St, Chicago, IL 60601",
+    "phone": "+1-312-920-9332",
+    "website": "https://www.intelligentsia.com",
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The Chicago third-wave coffee pioneer. Multiple locations. Meticulous roasting, beautiful spaces.",
+    "must_try": "Black Cat Espresso",
+    "hours": "Daily 6am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Metric Coffee",
+    "address": "2021 W Fulton St, Chicago, IL 60612",
+    "phone": "+1-312-754-0431",
+    "website": "https://www.metriccoffee.com",
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Fulton Market roastery and cafe. Beautiful industrial space. Best single-origin pours in the city.",
+    "must_try": "Seasonal single origin pour-over",
+    "hours": "Mon-Fri 7am-5pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dark Matter Coffee",
+    "address": "738 N Western Ave, Chicago, IL 60612",
+    "phone": "+1-773-697-8580",
+    "website": "https://www.darkmattercoffee.com",
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Ukrainian Village punk-rock coffee roaster. Bold blends, wild branding, great espresso. Multiple locations.",
+    "must_try": "A Coffee Guy Fieri Would Drink blend",
+    "hours": "Daily 6:30am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sawada Coffee",
+    "address": "112 N Green St, Chicago, IL 60607",
+    "phone": "+1-312-754-0431",
+    "website": null,
+    "category": "coffee",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "West Loop latte art champion café. Military Latte (matcha + espresso) is the signature. Tiny, beautiful space.",
+    "must_try": "Military Latte",
+    "hours": "Mon-Fri 7am-5pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lost Larson",
+    "address": "5318 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-944-2815",
+    "website": "https://www.lostlarson.com",
+    "category": "coffee",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Andersonville Scandinavian bakery. Cardamom buns, croissants, rye bread. Will derail your morning plans.",
+    "must_try": "Cardamom bun, morning bun",
+    "hours": "Wed-Sun 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hoosier Mama Pie Company",
+    "address": "1618 1/2 W Chicago Ave, Chicago, IL 60622",
+    "phone": "+1-312-243-4846",
+    "website": "https://www.hoosiermamapie.com",
+    "category": "coffee",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "East Village pie shop. Everything from scratch. The salted caramel apple and sugar cream pies are iconic.",
+    "must_try": "Salted caramel apple pie",
+    "hours": "Tue-Sun 8am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Margie's Candies",
+    "address": "1960 N Western Ave, Chicago, IL 60647",
+    "phone": "+1-773-384-1035",
+    "website": null,
+    "category": "coffee",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Bucktown ice cream parlor since 1921. Giant sundaes in a clamshell dish, homemade hot fudge. Time capsule.",
+    "must_try": "Giant sundae in the clamshell",
+    "hours": "Daily 9am-midnight",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rainbow Cone",
+    "address": "9233 S Western Ave, Chicago, IL 60643",
+    "phone": "+1-773-238-7075",
+    "website": "https://www.rainbowcone.com",
+    "category": "coffee",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Beverly institution since 1926. Five flavors stacked in one cone — chocolate, strawberry, Palmer House, pistachio, orange sherbet. Iconic.",
+    "must_try": "The Rainbow Cone — all five flavors",
+    "hours": "Daily 11am-9pm (seasonal)",
+    "seasonal": "Open Mar-Nov",
+    "modes": [
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Art Institute of Chicago",
+    "address": "111 S Michigan Ave, Chicago, IL 60603",
+    "phone": "+1-312-443-3600",
+    "website": "https://www.artic.edu",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "One of the greatest art museums on earth. 300,000+ works. Sunday on La Grande Jatte, Nighthawks, American Gothic — all here. Free select Thu evenings.",
+    "must_try": "Impressionist galleries, Thorne Miniature Rooms",
+    "hours": "Daily 11am-5pm, Thu until 8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Field Museum",
+    "address": "1400 S DuSable Lake Shore Dr, Chicago, IL 60605",
+    "phone": "+1-312-922-9410",
+    "website": "https://www.fieldmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "World-class natural history. SUE the T. rex, Máximo the Titanosaur, Egyptian tomb recreation. Free for IL residents every Wednesday.",
+    "must_try": "SUE, Underground Adventure",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Museum of Science and Industry",
+    "address": "5700 S DuSable Lake Shore Dr, Chicago, IL 60637",
+    "phone": "+1-773-684-1414",
+    "website": "https://www.msichicago.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Largest science museum in the Western Hemisphere. WWII U-505 submarine, 40-foot tornado, coal mine ride. IL resident free days.",
+    "must_try": "U-505 submarine tour, Science Storms",
+    "hours": "Daily 9:30am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shedd Aquarium",
+    "address": "1200 S DuSable Lake Shore Dr, Chicago, IL 60605",
+    "phone": "+1-312-939-2438",
+    "website": "https://www.sheddaquarium.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Lakefront aquarium with 32,000+ animals. Beluga whales headline. IL resident free days available.",
+    "must_try": "Beluga whale encounter, Wild Reef",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Adler Planetarium",
+    "address": "1300 S DuSable Lake Shore Dr, Chicago, IL 60605",
+    "phone": "+1-312-922-7827",
+    "website": "https://www.adlerplanetarium.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "First planetarium in the Western Hemisphere. Sky shows, space artifacts. Best skyline photo spot from the lakefront steps.",
+    "must_try": "Grainger Sky Theater, skyline photo from steps",
+    "hours": "Daily 9am-4pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "National Museum of Mexican Art",
+    "address": "1852 W 19th St, Chicago, IL 60608",
+    "phone": "+1-312-738-1503",
+    "website": "https://www.nationalmuseumofmexicanart.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Pilsen. Free always. 10,000+ works spanning 3,000 years of Mexican art and culture. Day of the Dead exhibit is extraordinary.",
+    "must_try": "Permanent collection, Day of the Dead (Oct)",
+    "hours": "Tue-Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MCA Chicago",
+    "address": "220 E Chicago Ave, Chicago, IL 60611",
+    "phone": "+1-312-280-2660",
+    "website": "https://www.mcachicago.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Museum of Contemporary Art. Bold exhibitions, great rooftop terrace, excellent gift shop. Streeterville.",
+    "must_try": "Current special exhibition, rooftop terrace",
+    "hours": "Tue-Sun 10am-5pm, Tue until 9pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chicago History Museum",
+    "address": "1601 N Clark St, Chicago, IL 60614",
+    "phone": "+1-312-642-4600",
+    "website": "https://www.chicagohistory.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Lincoln Park. Chicago Fire diorama, Lincoln's deathbed, city history told neighborhood by neighborhood.",
+    "must_try": "Great Chicago Fire exhibit, Chicago Room",
+    "hours": "Tue-Sat 9:30am-4:30pm, Sun noon-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Driehaus Museum",
+    "address": "40 E Erie St, Chicago, IL 60611",
+    "phone": "+1-312-482-8933",
+    "website": "https://www.driehausmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Gilded Age mansion museum. Tiffany glass, ornate interiors. Like stepping into 1890s Chicago wealth. Near Mag Mile.",
+    "must_try": "The stained glass collection, period rooms",
+    "hours": "Tue-Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Hand & The Eye",
+    "address": "Ontario St (McCormick Mansion), Chicago, IL 60611",
+    "phone": null,
+    "website": "https://www.thehandandtheeye.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Opening April 2026. $50M, 35,000 sq ft immersive magic venue in a historic mansion. Secret passageways, world-class illusionists, Levy Restaurants dining. Tickets from $225.",
+    "must_try": "Full immersive experience",
+    "hours": "TBD — opening April 2026",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Obama Presidential Center",
+    "address": "Jackson Park, Chicago, IL 60637",
+    "phone": null,
+    "website": "https://www.obama.org/the-center",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free/TBD",
+    "rating": null,
+    "description": "Opening spring 2026 in historic Jackson Park. Community events, exhibits, workshops, presidential archives.",
+    "must_try": "Opening exhibits",
+    "hours": "TBD — opening spring 2026",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Willis Tower Skydeck",
+    "address": "233 S Wacker Dr, Chicago, IL 60606",
+    "phone": "+1-312-875-9696",
+    "website": "https://www.theskydeck.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The Ledge — glass boxes 1,353 feet up. Four-state views on clear days.",
+    "must_try": "Step onto The Ledge",
+    "hours": "Daily 9am-10pm (summer), 10am-8pm (winter)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "360 Chicago",
+    "address": "875 N Michigan Ave, Chicago, IL 60611",
+    "phone": "+1-888-875-8439",
+    "website": "https://www.360chicago.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "1,000-foot observation deck. TILT tilts you out over Michigan Ave. Sunset views are magical.",
+    "must_try": "TILT experience at sunset",
+    "hours": "Daily 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Millennium Park",
+    "address": "201 E Randolph St, Chicago, IL 60602",
+    "phone": "+1-312-742-1168",
+    "website": "https://www.chicago.gov/millenniumpark",
+    "category": "attractions",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "Chicago's front yard. Cloud Gate (The Bean), Crown Fountain, Pritzker Pavilion, Lurie Garden. Free concerts all summer.",
+    "must_try": "Bean photo, free concert at Pritzker Pavilion",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Navy Pier",
+    "address": "600 E Grand Ave, Chicago, IL 60611",
+    "phone": "+1-312-595-7437",
+    "website": "https://www.navypier.org",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$",
+    "rating": "4.2",
+    "description": "50-acre entertainment complex. Centennial Wheel, Children's Museum, boat tours. Touristy but the Ferris wheel views are real.",
+    "must_try": "Centennial Wheel at sunset, summer fireworks (Wed & Sat)",
+    "hours": "Daily 10am-10pm (summer)",
+    "seasonal": "Fireworks summer only",
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chicago Architecture Center River Cruise",
+    "address": "112 E Wacker Dr, Chicago, IL 60601",
+    "phone": "+1-312-922-3432",
+    "website": "https://www.architecture.org",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "The single best tour in Chicago. 90-minute docent-narrated cruise through the river canyon. Consistently #1 US boat tour.",
+    "must_try": "90-minute cruise, not the shorter version",
+    "hours": "Multiple daily, Apr-Nov",
+    "seasonal": "April-November",
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Garfield Park Conservatory",
+    "address": "300 N Central Park Ave, Chicago, IL 60624",
+    "phone": "+1-773-638-1766",
+    "website": "https://www.garfieldconservatory.org",
+    "category": "attractions",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "One of the largest conservatories in the nation. Tropical rooms, desert house, fern room. Free always.",
+    "must_try": "Palm House, Fern Room",
+    "hours": "Daily 9am-5pm, Wed until 8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Goodman Theatre",
+    "address": "170 N Dearborn St, Chicago, IL 60601",
+    "phone": "+1-312-443-3800",
+    "website": "https://www.goodmantheatre.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Chicago's flagship nonprofit theater. World premieres, classic revivals. Two stages in the Loop.",
+    "must_try": "Check current season — book ahead",
+    "hours": "Performance schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steppenwolf Theatre",
+    "address": "1650 N Halsted St, Chicago, IL 60614",
+    "phone": "+1-312-335-1650",
+    "website": "https://www.steppenwolf.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Founded by Gary Sinise, John Malkovich, and ensemble. Bold, raw, ensemble-driven theater. New state-of-the-art building.",
+    "must_try": "Any ensemble production",
+    "hours": "Performance schedule",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lincoln Park Zoo",
+    "address": "2001 N Clark St, Chicago, IL 60614",
+    "phone": "+1-312-742-2000",
+    "website": "https://www.lpzoo.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Free zoo in Lincoln Park. Lions, gorillas, penguins, nature boardwalk. One of the last free major zoos in America.",
+    "must_try": "African Apes, Nature Boardwalk",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "North Avenue Beach",
+    "address": "1600 N DuSable Lake Shore Dr, Chicago, IL 60614",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "The main beach scene. Steamship-shaped beach house, volleyball, kayaks, full skyline backdrop.",
+    "must_try": "Volleyball, sunset walk",
+    "hours": "Memorial Day-Labor Day, 6am-11pm",
+    "seasonal": "Summer only",
+    "modes": [
+      "chill",
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oak Street Beach",
+    "address": "1000 N Lake Shore Dr, Chicago, IL 60611",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Gold Coast beach steps from the Mag Mile. More intimate than North Ave. Urban beach at its finest.",
+    "must_try": "Morning swim with the skyline behind you",
+    "hours": "Memorial Day-Labor Day",
+    "seasonal": "Summer only",
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Montrose Beach",
+    "address": "4400 N DuSable Lake Shore Dr, Chicago, IL 60640",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Uptown beach with a dog beach section. More local, less tourist. Great bird sanctuary adjacent.",
+    "must_try": "Dog beach, Montrose Point bird sanctuary",
+    "hours": "Memorial Day-Labor Day",
+    "seasonal": "Summer only",
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lakefront Trail",
+    "address": "Along Lake Michigan, 18 miles",
+    "phone": null,
+    "website": null,
+    "category": "outdoor",
+    "subcategory": "biking",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "18-mile paved path. Runners, bikers, walkers. Best urban trail in America.",
+    "must_try": "Bike from Navy Pier to Museum Campus",
+    "hours": "Open 24/7",
+    "seasonal": "Best May-Oct",
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The 606 / Bloomingdale Trail",
+    "address": "Walsh Park to Ridgeway Trailhead, Chicago, IL",
+    "phone": null,
+    "website": "https://www.the606.org",
+    "category": "outdoor",
+    "subcategory": "biking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "2.7-mile elevated trail on a former rail line. Connects Bucktown, Wicker Park, Humboldt Park, Logan Square. Chicago's High Line.",
+    "must_try": "Walk or bike the full 2.7 miles at sunset",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maggie Daley Park",
+    "address": "337 E Randolph St, Chicago, IL 60601",
+    "phone": "+1-312-742-3918",
+    "website": "https://www.maggiedaleypark.com",
+    "category": "outdoor",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Next to Millennium Park. Rock climbing wall, skating ribbon (winter), play gardens. Design-forward.",
+    "must_try": "Skating Ribbon in winter, climbing wall in summer",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urban Kayaks",
+    "address": "435 E Riverwalk South, Chicago, IL 60601",
+    "phone": "+1-312-965-0035",
+    "website": "https://www.urbankayaks.com",
+    "category": "outdoor",
+    "subcategory": "water_sports",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Kayak or paddleboard the Chicago River through downtown. Architecture views from water level.",
+    "must_try": "Architecture tour by kayak",
+    "hours": "May-Oct, 9am-sunset",
+    "seasonal": "May-October",
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Reckless Records",
+    "address": "1379 N Milwaukee Ave, Chicago, IL 60622",
+    "phone": "+1-773-235-3727",
+    "website": "https://www.reckless.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The definitive Chicago record store. Extensive new and used vinyl. Three locations — Wicker Park is the flagship.",
+    "must_try": "Dig through the used bins",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dusty Groove",
+    "address": "1120 N Ashland Ave, Chicago, IL 60622",
+    "phone": "+1-773-342-5800",
+    "website": "https://www.dustygroove.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Globally renowned for soul, funk, jazz, and rare international vinyl. West Town. Mail-order legend with a physical shop.",
+    "must_try": "Rare jazz and funk vinyl section",
+    "hours": "Mon-Sat 10am-8pm, Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Myopic Books",
+    "address": "1564 N Milwaukee Ave, Chicago, IL 60622",
+    "phone": "+1-773-862-4882",
+    "website": "https://www.myopicbookstore.com",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Three floors of labyrinthine used books in Wicker Park. A neighborhood institution. Get lost in here.",
+    "must_try": "Wander all three floors",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Seminary Co-op Bookstores",
+    "address": "5751 S Woodlawn Ave, Chicago, IL 60637",
+    "phone": "+1-773-752-4381",
+    "website": "https://www.semcoop.com",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Hyde Park. Renowned academic bookstore serving the U of C community. One of the great bookstores in America.",
+    "must_try": "Browse the philosophy and history sections",
+    "hours": "Daily 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Quimby's Bookstore",
+    "address": "1854 W North Ave, Chicago, IL 60622",
+    "phone": "+1-773-342-0910",
+    "website": "https://www.quimbys.com",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Wicker Park paradise for zines, indie comics, and underground literature. Weird and wonderful.",
+    "must_try": "Zine section",
+    "hours": "Mon-Thu noon-9pm, Fri-Sat noon-10pm, Sun noon-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Women & Children First",
+    "address": "5233 N Clark St, Chicago, IL 60640",
+    "phone": "+1-773-769-9299",
+    "website": "https://www.womenandchildrenfirst.com",
+    "category": "shopping",
+    "subcategory": "bookstores",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Legendary feminist bookstore in Andersonville since 1979. Author events, strong community focus.",
+    "must_try": "Author event calendar, curated staff picks",
+    "hours": "Daily 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Magnificent Mile",
+    "address": "N Michigan Ave, Chicago River to Oak St",
+    "phone": null,
+    "website": "https://www.themagnificentmile.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "13 blocks of luxury retail. Apple, Nordstrom, Burberry, Louis Vuitton. The flagship shopping corridor.",
+    "must_try": "Window shopping from the river to Oak Street Beach",
+    "hours": "Store hours vary, most 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green City Market",
+    "address": "1817 N Clark St, Chicago, IL 60614",
+    "phone": null,
+    "website": "https://www.greencitymarket.org",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Chicago's premier outdoor farmers market. Local produce, artisan foods, chef demos. Saturday ritual for foodies.",
+    "must_try": "Browse and buy seasonal produce",
+    "hours": "Wed & Sat 7am-1pm, May-Oct",
+    "seasonal": "May-October",
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "AIRE Ancient Baths",
+    "address": "800 W Superior St, Chicago, IL 60642",
+    "phone": "+1-312-888-9191",
+    "website": "https://www.beaire.com/en/aire-ancient-baths-chicago",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Roman-style thermal baths in a restored 1902 factory. Multiple temperature pools, salt bath, steam room, candlelight. Off-peak weekday sessions $15-20 less.",
+    "must_try": "Thermal bath circuit",
+    "hours": "Daily 9am-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "King Spa & Sauna",
+    "address": "809 Civic Center Dr, Niles, IL 60714",
+    "phone": "+1-847-972-2540",
+    "website": "https://www.kingspa.com/chicago",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "24-hour Korean spa in suburban Niles. $75 entry. Multiple saunas (base rock, pyramid, fire), food court with bibimbap, traditional body scrubs.",
+    "must_try": "Full sauna circuit, body scrub",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Langham Chicago",
+    "address": "330 N Wabash Ave, Chicago, IL 60611",
+    "phone": "+1-312-923-9988",
+    "website": "https://www.langhamhotels.com/chicago",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "#3 hotel in the US (2026). Mies van der Rohe building, river views, Chuan Spa, afternoon tea. $400-800+/night.",
+    "must_try": "Afternoon tea, Chuan Spa",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Peninsula Chicago",
+    "address": "108 E Superior St, Chicago, IL 60611",
+    "phone": "+1-312-337-2888",
+    "website": "https://www.peninsula.com/en/chicago",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Magnificent Mile luxury. Exceptional spa, rooftop terrace, white-glove service. $500-900+/night.",
+    "must_try": "Peninsula Spa, Z Bar rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chicago Athletic Association",
+    "address": "12 S Michigan Ave, Chicago, IL 60603",
+    "phone": "+1-312-940-3552",
+    "website": "https://www.chicagoathletichotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Restored 1890s sporting club overlooking Millennium Park. Cindy's Rooftop, the Drawing Room, game room. $250-500/night.",
+    "must_try": "Drinks at Cindy's Rooftop, Drawing Room cocktails",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Hoxton Chicago",
+    "address": "200 N Green St, Chicago, IL 60607",
+    "phone": "+1-312-761-1700",
+    "website": "https://www.thehoxton.com/chicago",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Fulton Market lifestyle hotel. Stylish rooms, great lobby bar, walking distance to Restaurant Row. $200-400/night.",
+    "must_try": "Lobby scene, Cira rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Robey",
+    "address": "2018 W North Ave, Chicago, IL 60647",
+    "phone": "+1-872-315-3050",
+    "website": "https://www.therobey.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Art Deco tower at the Wicker Park/Bucktown/Ukrainian Village intersection. Rooftop bar, neighborhood character. $150-300/night.",
+    "must_try": "Cabana Club rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palmer House Hilton",
+    "address": "17 E Monroe St, Chicago, IL 60603",
+    "phone": "+1-312-726-7500",
+    "website": "https://www.palmerhousehiltonhotel.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Historic Loop hotel since 1871. The painted lobby ceiling alone is worth a visit. Central to everything. $150-350/night.",
+    "must_try": "Walk through the lobby",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HI Chicago Hostel",
+    "address": "24 E Congress Pkwy, Chicago, IL 60605",
+    "phone": "+1-312-360-0300",
+    "website": "https://www.hichicago.org",
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Clean, social hostel in the Loop. Dorms from $35-60/night. Walking distance to Museum Campus and Grant Park.",
+    "must_try": "Free walking tours for guests",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bally's Chicago Casino & Hotel",
+    "address": "River District (Tribune site), Chicago, IL",
+    "phone": null,
+    "website": "https://www.ballyschicago.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": null,
+    "description": "Opening late 2026/early 2027. $1.7B riverfront complex. 500 rooms, 3,300 slots, 170 tables, 3,000-seat theater, riverwalk. Temp casino operating at Medinah Temple now.",
+    "must_try": "Full complex when it opens",
+    "hours": "TBD",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "entertainment"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wrigley Field",
+    "address": "1060 W Addison St, Chicago, IL 60613",
+    "phone": "+1-773-404-2827",
+    "website": "https://www.mlb.com/cubs",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$$",
+    "rating": "4.7",
+    "description": "The Friendly Confines. Built 1914. Ivy, marquee, rooftop bars. Wrigleyville on game day is an experience even if you hate baseball.",
+    "must_try": "Bleacher seats, pregame at Murphy's Bleachers",
+    "hours": "Game days, tours daily",
+    "seasonal": "Apr-Oct",
+    "modes": [
+      "sports",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Soldier Field",
+    "address": "1410 Special Olympics Dr, Chicago, IL 60605",
+    "phone": "+1-312-235-7000",
+    "website": "https://www.soldierfield.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Home of the Bears. Lakefront stadium with Museum Campus views. Tailgating culture is as important as the game.",
+    "must_try": "Bears tailgate in Waldron Deck",
+    "hours": "Event days",
+    "seasonal": "Sep-Jan",
+    "modes": [
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "United Center",
+    "address": "1901 W Madison St, Chicago, IL 60612",
+    "phone": "+1-312-455-4500",
+    "website": "https://www.unitedcenter.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Home of the Bulls and Blackhawks. MJ statue. 2026 WNBA All-Star Game host. Major concert venue.",
+    "must_try": "Photo with MJ statue",
+    "hours": "Event days",
+    "seasonal": null,
+    "modes": [
+      "sports",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Guaranteed Rate Field",
+    "address": "333 W 35th St, Chicago, IL 60616",
+    "phone": "+1-312-674-1000",
+    "website": "https://www.mlb.com/whitesox",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Home of the White Sox. Bridgeport/Armour Square. Less touristy than Wrigley, cheaper tickets, better sight lines.",
+    "must_try": "Elote helmet nachos, craft beer garden",
+    "hours": "Game days",
+    "seasonal": "Apr-Oct",
+    "modes": [
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walgreens (Michigan Ave 24hr)",
+    "address": "757 N Michigan Ave, Chicago, IL 60611",
+    "phone": "+1-312-664-8686",
+    "website": "https://www.walgreens.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "4.0",
+    "description": "24-hour pharmacy on the Magnificent Mile. Everything a tourist needs at 2am.",
+    "must_try": null,
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Whole Foods (Gold Coast)",
+    "address": "30 W Huron St, Chicago, IL 60654",
+    "phone": "+1-312-932-9600",
+    "website": "https://www.wholefoodsmarket.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Best-stocked downtown grocery. Hot bar, prepared foods, rental stocking.",
+    "must_try": "Hot bar for quick lunch",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Michigan Avenue Primary Care & Immediate Care",
+    "address": "55 E Washington St, Chicago, IL 60602",
+    "phone": "+1-312-578-0290",
+    "website": "https://www.michiganavenueprimarycare.com",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Walk-in urgent care directly in the Loop. No appointment needed.",
+    "must_try": null,
+    "hours": "Mon-Fri 8am-6pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Bounce Luggage Storage",
+    "address": "Various locations near Union Station",
+    "phone": null,
+    "website": "https://www.bounce.com",
+    "category": "services",
+    "subcategory": "luggage_storage",
+    "price": "$",
+    "rating": "4.2",
+    "description": "App-based luggage storage at local businesses. From ~$4.25/day. Multiple spots near Union Station and downtown.",
+    "must_try": null,
+    "hours": "Varies by location",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  }
+]

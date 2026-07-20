@@ -2,7 +2,75 @@
   command = "npm run build"
   publish = "dist"
 
+# WS3 telemetry/stats/redeem Functions. They self-route via each file's
+# config.path (e.g. "/api/beacon") — no [[redirects]] to /api are needed here.
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+  # WS5: the concierge function reads the city graph at runtime (grounding)
+  included_files = ["cities-modular/**/*.json"]
+
+# WS2 truth pass: the legacy static platform pages carried hand-typed, now-drifted
+# stats (e.g. "1,471" at 15 cities). They're superseded by the engine — redirect
+# them to the live equivalents (force = override the static file).
+[[redirects]]
+  from = "/platform/explore.html"
+  to = "/#cities"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/community.html"
+  to = "/#wall"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/concierge.html"
+  to = "/#features"
+  status = 301
+  force = true
+[[redirects]]
+  from = "/platform/planner.html"
+  to = "/#features"
+  status = 301
+  force = true
+
+# The native SPA route /cities/<slug>/wall replaces every legacy per-city
+# wall.html. wall.html is no longer shipped to dist (it would shadow the SPA
+# route via Netlify's implicit .html resolution). Preserve old .html bookmarks.
+[[redirects]]
+  from = "/cities/:city/wall.html"
+  to = "/cities/:city/wall"
+  status = 301
+  force = true
+
+# Missing hashed assets must 404, never fall back to the HTML shell — a stale
+# cached page requesting an old bundle would otherwise get HTML-as-JS and break
+# instead of converging on reload. (Non-force: real files still serve normally.)
+[[redirects]]
+  from = "/assets/*"
+  to = "/index.html"
+  status = 404
+
+# SPA fallback (must stay last)
 [[redirects]]
   from = "/*"
   to = "/index.html"
   status = 200
+
+# Hashed bundles are immutable by construction — cache for a year.
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# City images share filenames across rebuilds (not hashed) — cache one day;
+# the service worker handles offline/saved-city persistence.
+[[headers]]
+  for = "/cities/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/manifest.webmanifest"
+  [headers.values]
+    Content-Type = "application/manifest+json"

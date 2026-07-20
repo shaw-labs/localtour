@@ -1,0 +1,110 @@
+[
+  {
+    "id": "den-deal-001",
+    "business_name": "Denver Museum of Nature & Science",
+    "category": "attractions",
+    "offer_text": "SCFD Free Days land roughly a dozen times a year here — walk up any time that day and the Wildlife Halls and permanent exhibitions are free, no ticket needed (planetarium and temporary shows stay ticketed). 2026 dates include Jan 11, Feb 1 & 9, Apr 13, Jun 19 (Juneteenth), Aug 24, and Nov 16, plus a couple of Free Nights. Trailhead tip: these fill up, so arrive early — and it's a perfect no-cost move on an afternoon the mountain weather turns.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-002",
+    "business_name": "Denver Art Museum",
+    "category": "attractions",
+    "offer_text": "Two ways in for free: general admission is free every single day for anyone 18 and under through the Free for Kids program, and the whole museum goes free on monthly Free Days — 2026 lands them Jan 13, Feb 10, Mar 10, Apr 26, May 12, Jun 9, Jul 14, Aug 1, Sep 12, Oct 13, Nov 7, and Dec 8. Free Days cover general admission but not ticketed special exhibitions. A solid basecamp move when the sun's too much or the sky opens up.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-003",
+    "business_name": "Clyfford Still Museum",
+    "category": "attractions",
+    "offer_text": "Twelve First Friday Pay-What-You-Wish days a year — pay as little as a penny to stand in front of a life's work most cities never got to keep. Add the SCFD Free Days (2026: Apr 26, Jun 14, Jul 26, Sep 19, and Nov 7) and this small, quiet museum becomes one of downtown's best free hours. Reserve ahead — free-day tickets release about a week out and go fast.",
+    "offer_type": "pay_what_you_wish",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-004",
+    "business_name": "Denver Botanic Gardens",
+    "category": "attractions",
+    "offer_text": "SCFD Free Days open the gates at both York Street and Chatfield Farms a handful of times a year — 2026 hits Jan 19 (MLK Day), Feb 12, Aug 25, and Nov 27 (day after Thanksgiving). Free admission covers the gardens during regular hours, not extra ticketed events. Reserve in advance; these always sell out. And year-round, the first floor of the Freyer–Newman Center — library and Copper Door coffee — is free to walk into, no reservation.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-005",
+    "business_name": "Molly Brown House Museum",
+    "category": "attractions",
+    "offer_text": "First Thursday of every month, 4–7 p.m., SCFD-county residents tour the Unsinkable Molly's Capitol Hill mansion for free — first-come, first-served, no reservation (a donation is appreciated). 2026 dates run the first Thursday down the calendar: Jan 1, Feb 5, Mar 5, Apr 2, May 7, Jun 4, Jul 2, Aug 6, Sep 3, Oct 1, Nov 5, Dec 3. Expect a livelier crowd on free nights — that's part of the charm.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-006",
+    "business_name": "Postino Broadway",
+    "category": "dining",
+    "offer_text": "Daily happy hour until 5 p.m. — $6 glasses of wine and $6 pitchers of beer inside a gorgeous old brick building on South Broadway. The move locals swear by: the Board & Bottle, a bruschetta board plus a bottle of wine for $25, after 8 p.m. Monday and Tuesday. Cheap altitude-adjustment fuel, and the bruschetta flight is genuinely the reason to come.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-007",
+    "business_name": "Root Down",
+    "category": "dining",
+    "offer_text": "Weekday happy hour Monday–Friday, 4–6 p.m., in the Highlands' old service-station-turned-farm-to-table room. Drinks run down to a few bucks — $3 well drinks, $4 house wines, a dollar off every draft — and the small plates (green chili duck taco, sweet potato fries, a Colorado lamb slider) hover around $4–7. A low-cost way to taste a serious kitchen before the sun drops behind the Front Range.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-008",
+    "business_name": "El Five",
+    "category": "dining",
+    "offer_text": "Happy hour seven nights a week, roughly 4–5:30 p.m., five floors up over LoHi with one of the best rooftop-adjacent views in the city — mountains one way, downtown skyline the other. Come for the discounted Mediterranean tapas and a cocktail while the light does its thing over the Front Range. Get there right at open; that window and those seats go quick.",
+    "offer_type": "happy_hour",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "den-deal-009",
+    "business_name": "REI Denver Flagship",
+    "category": "shopping",
+    "offer_text": "The flagship runs free in-store classes and events on the regular — camp-cooking tips, basic bike fixes, kayaking intros, trail talks — no purchase required, just sign up ahead on the events calendar. Co-op members ($30 one-time, lifetime) stack real perks: 20% off bike and snow shop services year-round, plus a 20%-off-one-full-price-item coupon during Member Days each March. The right first stop before any Colorado trailhead.",
+    "offer_type": "free_event",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  }
+]

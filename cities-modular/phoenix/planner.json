@@ -1,0 +1,586 @@
+{
+  "morning_starts": [
+    {
+      "title": "Matt's Big Breakfast",
+      "note": "Small menu, big flavor, and a line that moves — get there before the sun means business.",
+      "business": "Matt's Big Breakfast",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Gallo Blanco Cafe",
+      "note": "Huevos rancheros and strong coffee — fuel up here before the pavement starts radiating like a stovetop.",
+      "business": "Gallo Blanco Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Otro Cafe",
+      "note": "Patio's lovely at 7am, a furnace by 10 — plan accordingly, amigo.",
+      "business": "Otro Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lola Coffee",
+      "note": "Good espresso, better AC. Two things a desert morning demands.",
+      "business": "Lola Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Songbird Coffee & Tea House",
+      "note": "A cozy nook for folks who like their caffeine with a side of quiet before the heat starts yelling.",
+      "business": "Songbird Coffee & Tea House",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cartel Roasting Co.",
+      "note": "Locally roasted, seriously caffeinated — the jolt you'll need before the 100-degree noon arrives.",
+      "business": "Cartel Roasting Co.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Purisima Bakery",
+      "note": "Pan dulce that'll have you forgetting the thermometer already reads 95.",
+      "business": "La Purisima Bakery",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Echo Canyon Trail (Camelback Mountain)",
+      "note": "Go at sunrise or don't go at all — this rock doesn't care about your Instagram, it cares about heatstroke.",
+      "business": "Echo Canyon Trail (Camelback Mountain)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Piestewa Peak Summit Trail #300",
+      "note": "Steep, sweaty, and gorgeous before 8am; a suffer-fest after.",
+      "business": "Piestewa Peak Summit Trail #300",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "South Mountain Park & Preserve",
+      "note": "Miles of trail and zero shade — bring more water than you think you need, then bring more.",
+      "business": "South Mountain Park & Preserve",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Papago Park & Hole-in-the-Rock",
+      "note": "Red rocks, easy stroll, decent sunrise views without needing a search-and-rescue team.",
+      "business": "Papago Park & Hole-in-the-Rock",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Salt River Tubing",
+      "note": "The one outdoor activity where being drenched is the whole point — smart move in July.",
+      "business": "Salt River Tubing",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Riverbound Sports Paddle Co.",
+      "note": "Paddle the calm water before the afternoon sun turns the desert into an air fryer.",
+      "business": "Riverbound Sports Paddle Co.",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Heard Museum",
+      "note": "World-class Native art, and it's air-conditioned — a two-for-one in this town.",
+      "business": "Heard Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Musical Instrument Museum (MIM)",
+      "note": "Thousands of instruments, zero sunburn risk. My kind of afternoon.",
+      "business": "Musical Instrument Museum (MIM)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Phoenix Art Museum",
+      "note": "Wander the galleries slow; nobody's rushing you back out into that heat.",
+      "business": "Phoenix Art Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Roosevelt Row Arts District",
+      "note": "Murals and galleries best walked at golden hour, not high noon — trust the cactus on this one.",
+      "business": "Roosevelt Row Arts District",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "S'edav Va'aki Museum (formerly Pueblo Grande)",
+      "note": "A thousand-year-old village that figured out desert living long before swamp coolers existed.",
+      "business": "S'edav Va'aki Museum (formerly Pueblo Grande)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rosson House Museum at Heritage Square",
+      "note": "Victorian charm in a town built on adobe and sunscreen — a nice historical detour.",
+      "business": "Rosson House Museum at Heritage Square",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Orpheum Theatre",
+      "note": "Gorgeous old bones and, crucially, indoor climate control.",
+      "business": "Orpheum Theatre",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Changing Hands Bookstore + First Draft Book Bar",
+      "note": "Books and a bar under one roof — the smartest shelter-from-the-sun combo in the Valley.",
+      "business": "Changing Hands Bookstore + First Draft Book Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Grassrootz Books & Juice Bar",
+      "note": "Browse the shelves, sip something cold, avoid the sidewalk entirely.",
+      "business": "Grassrootz Books & Juice Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Palabras Bilingual Bookstore",
+      "note": "A cozy stop for readers, and blessedly out of direct sun.",
+      "business": "Palabras Bilingual Bookstore",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Stinkweeds",
+      "note": "Dig through vinyl in the AC while the asphalt outside hits 150 degrees.",
+      "business": "Stinkweeds",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tracks in Wax",
+      "note": "Record crates and shade — what more does a Tuesday need.",
+      "business": "Tracks in Wax",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Retro Ranch",
+      "note": "Vintage western wear, because you'll want a good hat out here regardless of the decade.",
+      "business": "Retro Ranch",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Biltmore Fashion Park",
+      "note": "Upscale, shaded walkways — designed by someone who's clearly felt an August afternoon.",
+      "business": "Biltmore Fashion Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Huarachis Taqueria",
+      "note": "Handmade huaraches that'll make you forget you're sweating through your shirt.",
+      "business": "Huarachis Taqueria",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tacos Chiwas",
+      "note": "Chihuahua-style tacos worth the walk, even in shoes that are quietly melting.",
+      "business": "Tacos Chiwas",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Asadero Norte de Sonora",
+      "note": "Sonoran-style grilling done right — carnivores, this is your stop.",
+      "business": "Asadero Norte de Sonora",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Nogales Hot Dogs",
+      "note": "Bacon-wrapped, borderland classic — a lunch that doesn't ask permission.",
+      "business": "Nogales Hot Dogs",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Los Reyes de la Torta",
+      "note": "Tortas the size of your forearm, built for a proper midday refuel.",
+      "business": "Los Reyes de la Torta",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Original Carolina's Mexican Food",
+      "note": "A Phoenix institution — tortillas made fresh since before your AC unit was invented.",
+      "business": "The Original Carolina's Mexican Food",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Fry Bread House",
+      "note": "James Beard-approved fry bread, and shaded tables — plan your visit around the shade, not the menu.",
+      "business": "The Fry Bread House",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Bitter & Twisted Cocktail Parlour",
+      "note": "Serious cocktails in a saloon that knows a thing or two about surviving dry heat.",
+      "business": "Bitter & Twisted Cocktail Parlour",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Little Rituals",
+      "note": "Small plates, sharp drinks — a solid hideout once the sidewalk stops being walkable.",
+      "business": "Little Rituals",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Valley Bar",
+      "note": "Downstairs bar, live music upstairs — one address, two ways to dodge the sun.",
+      "business": "Valley Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "UnderTow",
+      "note": "Tiki drinks that'll trick your brain into thinking you're somewhere with actual humidity.",
+      "business": "UnderTow",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Wren & Wolf",
+      "note": "Handsome cocktails, handsome patio — enjoy the patio after 7pm, not before.",
+      "business": "Wren & Wolf",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Wren House Brewing Company",
+      "note": "Local beer, taproom shade — a desert-approved happy hour.",
+      "business": "Wren House Brewing Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arizona Wilderness DTPHX",
+      "note": "Craft beer brewed by people who understand water conservation better than most.",
+      "business": "Arizona Wilderness DTPHX",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Beckett's Table",
+      "note": "Comfort food elevated just enough to feel like an occasion.",
+      "business": "Beckett's Table",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Gladly",
+      "note": "Reliable, unfussy, and open late enough for a post-sunset stroll over.",
+      "business": "The Gladly",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Durant's",
+      "note": "Old-school Phoenix steakhouse — walk in through the kitchen, like the regulars do.",
+      "business": "Durant's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Stockyards",
+      "note": "Western steakhouse charm since the actual stockyards were, in fact, still yards.",
+      "business": "The Stockyards",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tratto",
+      "note": "Housemade pasta from the Pizzeria Bianco family — reserve ahead, this one fills up.",
+      "business": "Tratto",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Restaurant Progress",
+      "note": "Seasonal, inventive, and mercifully indoors.",
+      "business": "Restaurant Progress",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Valentine",
+      "note": "Neighborhood spot with a menu that changes more than the weather does, which is to say: never.",
+      "business": "Valentine",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Steak 44",
+      "note": "A steakhouse that means business, and the AC hits as hard as the ribeye.",
+      "business": "Steak 44",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Buck & Rider",
+      "note": "Seafood in the middle of the desert — a small miracle, well executed.",
+      "business": "Buck & Rider",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "First & Last",
+      "note": "Sceney Italian with a wood-fired oven; dress like you mean it.",
+      "business": "First & Last",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "J&G Steakhouse at The Phoenician",
+      "note": "Resort-level steak, resort-level views, resort-level AC.",
+      "business": "J&G Steakhouse at The Phoenician",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Pizzeria Bianco",
+      "note": "James Beard's favorite pizza in America, allegedly — the line outside makes the case for you.",
+      "business": "Pizzeria Bianco",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Vincent on Camelback",
+      "note": "French-Southwestern fusion from a Phoenix legend — book ahead, always.",
+      "business": "Vincent on Camelback",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Vincent on Camelback",
+      "note": "Candlelight and a wine list built for slow evenings — the classic Phoenix date night.",
+      "business": "Vincent on Camelback",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Different Pointe of View",
+      "note": "City lights below, dinner above — the view alone justifies the drive up the hill.",
+      "business": "Different Pointe of View",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Christopher's at Wrigley Mansion",
+      "note": "A mansion, a sunset, and a tasting menu — about as romantic as this desert gets.",
+      "business": "Christopher's at Wrigley Mansion",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "T. Cook's at Royal Palms Resort and Spa",
+      "note": "Mediterranean-inspired, resort-quiet — good for a proposal or a very sincere apology.",
+      "business": "T. Cook's at Royal Palms Resort and Spa",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Durant's",
+      "note": "Red leather booths and low lighting since 1950 — old Phoenix romance, unbothered by trends.",
+      "business": "Durant's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Restaurant Progress",
+      "note": "Intimate, seasonal, and dim enough to forget it's 108 outside.",
+      "business": "Restaurant Progress",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Crescent Ballroom",
+      "note": "Live music and a solid taco truck parked out front — Phoenix nightlife's best two-for-one.",
+      "business": "Crescent Ballroom",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Van Buren",
+      "note": "Big acts, good sound, and — bonus — it's indoors.",
+      "business": "The Van Buren",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Valley Bar",
+      "note": "Basement bar, upstairs venue, one very efficient building.",
+      "business": "Valley Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Stand Up Live",
+      "note": "Comedy club for when you need to laugh at something other than the heat index.",
+      "business": "Stand Up Live",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bitter & Twisted Cocktail Parlour",
+      "note": "Late-night cocktails for people who take their whiskey seriously.",
+      "business": "Bitter & Twisted Cocktail Parlour",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Little Rituals",
+      "note": "A late-night hideout with drinks sharper than the desert air is dry.",
+      "business": "Little Rituals",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "UnderTow",
+      "note": "Rum-forward and dim-lit — the closest this city gets to a tropical night out.",
+      "business": "UnderTow",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Arizona Science Center",
+      "note": "Hands-on science, blessedly indoors — the kids won't even notice it's 110 outside.",
+      "business": "Arizona Science Center",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Musical Instrument Museum (MIM)",
+      "note": "A whole world of instruments under one climate-controlled roof.",
+      "business": "Musical Instrument Museum (MIM)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Desert Botanical Garden",
+      "note": "Go at dawn with the little ones — the cacti are patient, the sun is not.",
+      "business": "Desert Botanical Garden",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Salt River Tubing",
+      "note": "Float the river, splash the kids, survive July as a family unit.",
+      "business": "Salt River Tubing",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Papago Park & Hole-in-the-Rock",
+      "note": "Easy trails and a fun scramble up the rock — bring hats, bring water, then bring more water.",
+      "business": "Papago Park & Hole-in-the-Rock",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Chase Field",
+      "note": "A retractable roof over a baseball diamond — someone in this city understands the assignment.",
+      "business": "Chase Field",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "S'edav Va'aki Museum (formerly Pueblo Grande)",
+      "note": "A gentle, educational stop that won't wear out little legs — or melt them.",
+      "business": "S'edav Va'aki Museum (formerly Pueblo Grande)",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Arizona Science Center",
+      "note": "It never really rains here — the real enemy is July, and this place is the shelter.",
+      "business": "Arizona Science Center",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Phoenix Art Museum",
+      "note": "A full afternoon indoors, no sunscreen required.",
+      "business": "Phoenix Art Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Heard Museum",
+      "note": "Rich history, cool galleries — a perfect dodge from either rain or, more likely, heat.",
+      "business": "Heard Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Musical Instrument Museum (MIM)",
+      "note": "Hours of wandering without once stepping into direct sunlight.",
+      "business": "Musical Instrument Museum (MIM)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rosson House Museum at Heritage Square",
+      "note": "A quiet historical tour, mercifully roofed.",
+      "business": "Rosson House Museum at Heritage Square",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Changing Hands Bookstore + First Draft Book Bar",
+      "note": "When the sky finally does something interesting, come read about it instead.",
+      "business": "Changing Hands Bookstore + First Draft Book Bar",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

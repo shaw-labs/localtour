@@ -1,0 +1,849 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "start",
+      "menu",
+      "hey",
+      "help",
+      "begin",
+      "yo"
+    ],
+    "text": "Welcome to basecamp. I'm The Trailhead — your Denver fixer at 5,280 feet, where the sun shows up roughly 300 days a year and the weather can swing 30 degrees before lunch. First rule of the Mile High: drink water like it's your job, ease into the altitude your first day, and keep a layer in your pack even in July. Now — what's the mission? Tell me you're hungry, thirsty, restless, or curious and I'll route you. I can point you at legendary green chile, RiNo breweries, a Red Rocks night, the museums, a mountain side trip, or the story of Five Points — the Harlem of the West. Where do we start?",
+    "businesses": [],
+    "chips": [
+      "Where do I eat?",
+      "Best breweries & bars",
+      "Get me outside",
+      "Museums & arts",
+      "Take a day trip",
+      "Tell me about Five Points"
+    ]
+  },
+  {
+    "keys": [
+      "food",
+      "eat",
+      "hungry",
+      "dinner",
+      "restaurant",
+      "dining",
+      "where to eat",
+      "best food"
+    ],
+    "text": "Denver eats way above its weight — mountain-town heartiness meets serious chef ambition. For a proper sit-down, Mercantile Dining & Provision inside Union Station is the farm-to-table anchor, while Rioja on Larimer Square is Jennifer Jasinski's Mediterranean flagship and rarely misses. Want the buzzy new-guard? Sáp Súa is the Vietnamese-American darling everyone's chasing a reservation for, and The Wolf's Tailor plays tasting-menu jazz with hand-milled grains. Root Down is the Highlands classic with the airplane-hangar cool. Tell me a vibe — special-occasion, green-chile pilgrimage, or a can't-miss cuisine — and I'll narrow it.",
+    "businesses": [
+      "Mercantile Dining & Provision",
+      "Rioja",
+      "Sáp Súa",
+      "The Wolf's Tailor",
+      "Root Down"
+    ],
+    "chips": [
+      "Signature Denver cuisine",
+      "Special occasion",
+      "Global flavors",
+      "Cheap & legendary"
+    ]
+  },
+  {
+    "keys": [
+      "signature",
+      "denver food",
+      "green chile",
+      "mexican",
+      "local dish",
+      "must eat",
+      "iconic"
+    ],
+    "text": "If Denver has a signature, it's smothered green chile and the Mexican tradition that raised this city. El Taco de Mexico on Santa Fe is the counter-service institution — order the smothered breakfast burrito and the chile relleno, no notes. La Loma brings the sit-down, tableside-tortilla version with a patio. Brewery Bar II is the old-school green-chile shrine locals get misty about. And Yuan Wonton — the Michelin-recognized graduate of Denver's food-truck scene — proves the city's signature moves way beyond one cuisine. Come hungry; these portions were built for altitude appetites.",
+    "businesses": [
+      "El Taco de Mexico",
+      "La Loma",
+      "Brewery Bar II",
+      "Yuan Wonton"
+    ],
+    "chips": [
+      "Special occasion dining",
+      "Brunch spots",
+      "Late-night eats",
+      "Back to food menu"
+    ]
+  },
+  {
+    "keys": [
+      "special occasion",
+      "fancy",
+      "upscale",
+      "fine dining",
+      "date dinner",
+      "romantic dinner",
+      "anniversary",
+      "celebrate"
+    ],
+    "text": "For the nights that matter, Denver delivers quietly world-class rooms. Tavernetta by Union Station is the refined Italian pick — handmade pasta, a wine list with real depth. Barolo Grill is the old-guard Northern Italian legend where the staff literally travels to Piedmont every year. Beckon is the intimate chef's-counter tasting experience in RiNo (its sibling Annette shares the soul). For a rooftop showstopper, El Five serves Mediterranean small plates with a skyline-and-mountains view that seals the deal. Book ahead — these fill fast, especially on Red Rocks nights.",
+    "businesses": [
+      "Tavernetta",
+      "Barolo Grill",
+      "Beckon",
+      "Annette",
+      "El Five"
+    ],
+    "chips": [
+      "Global flavors",
+      "Best rooftop views",
+      "Wine & cocktails",
+      "Back to food menu"
+    ]
+  },
+  {
+    "keys": [
+      "global",
+      "international",
+      "cuisine",
+      "sushi",
+      "israeli",
+      "vietnamese",
+      "asian",
+      "mediterranean",
+      "world food"
+    ],
+    "text": "Denver's global table runs deep. Sushi Den in Platt Park flies fish straight from Nagahama market in Japan — one of the country's most serious sushi programs, hidden a mile high. Safta is Alon Shaya's soaring Israeli room in RiNo, where the wood-fired pita alone is worth the trip. Sáp Súa reinvents Vietnamese-American cooking, and Margot (Annette's sibling) does warm Mediterranean. For a genuinely singular tasting adventure, The Wolf's Tailor blends Italian and Asian technique like nobody else in town. Passport optional.",
+    "businesses": [
+      "Sushi Den",
+      "Safta",
+      "Sáp Súa",
+      "Margot",
+      "The Wolf's Tailor"
+    ],
+    "chips": [
+      "Signature Denver cuisine",
+      "Special occasion",
+      "Brunch spots",
+      "Back to food menu"
+    ]
+  },
+  {
+    "keys": [
+      "brunch",
+      "breakfast",
+      "morning",
+      "cafe brunch",
+      "weekend brunch"
+    ],
+    "text": "Slow mornings are a Denver art form — that high-plains sun makes patios sing. Annette in Aurora's Stanley Marketplace is the wood-fired, chef-driven brunch worth the drive. Root Down does a Highlands brunch with serious cocktails and a view. For classic diner energy and a green-chile-smothered everything, Sam's No. 3 is the multi-generational institution — the menu's the size of a novel. Stowaway Kitchen near RiNo is the sunny, unpretentious pick for grain bowls and a proper flat white. Fuel up; the altitude burns calories faster than you'd think.",
+    "businesses": [
+      "Annette",
+      "Root Down",
+      "Sam's No. 3",
+      "Stowaway Kitchen"
+    ],
+    "chips": [
+      "Coffee & bakeries",
+      "Signature Denver cuisine",
+      "Get me outside",
+      "Back to food menu"
+    ]
+  },
+  {
+    "keys": [
+      "cheap",
+      "affordable",
+      "budget",
+      "legendary",
+      "dive",
+      "casual eats",
+      "comfort food"
+    ],
+    "text": "Some of Denver's soul lives at the counter. Sam's No. 3 is the diner everybody's grandfather swears by — cheap, huge, green-chile-blanketed. El Taco de Mexico and Brewery Bar II are the old-school green-chile temples where you'll spend little and remember it forever. Work & Class in RiNo does Latin-American-meets-Southern comfort at honest prices, cash-friendly and always packed. Potager is the seasonal, market-driven spot that punches above its ticket. Eat like a local — no fuss, all flavor.",
+    "businesses": [
+      "Sam's No. 3",
+      "El Taco de Mexico",
+      "Brewery Bar II",
+      "Work & Class",
+      "Potager"
+    ],
+    "chips": [
+      "Signature Denver cuisine",
+      "Brunch spots",
+      "Best breweries & bars",
+      "Back to food menu"
+    ]
+  },
+  {
+    "keys": [
+      "drinks",
+      "bars",
+      "nightlife",
+      "cocktails",
+      "beer",
+      "brewery",
+      "breweries",
+      "going out",
+      "booze"
+    ],
+    "text": "Denver basically invented the modern craft-beer road trip, and the cocktail scene caught up fast. For beer, RiNo is your artery — I'll walk you through the breweries. For cocktails, Death & Co Denver (inside The Ramble Hotel) is a coast-to-coast top-tier bar, and The Cruise Room in the historic Oxford Hotel is an Art Deco martini jewel pouring since the day Prohibition ended. Honey Elixir Bar brings the moody, botanical, natural-wine energy. Want breweries, craft cocktails, or a live-music night? Point me.",
+    "businesses": [
+      "Death & Co Denver",
+      "The Cruise Room",
+      "Honey Elixir Bar"
+    ],
+    "chips": [
+      "RiNo brewery crawl",
+      "Cocktail bars",
+      "Live music tonight",
+      "Historic watering holes"
+    ]
+  },
+  {
+    "keys": [
+      "brewery crawl",
+      "rino beer",
+      "craft beer",
+      "breweries rino",
+      "beer crawl",
+      "taproom"
+    ],
+    "text": "RiNo — River North Art District — is where murals and IPAs share a block. Ratio Beerworks is the punk-rock-hearted taproom with a killer patio. Our Mutual Friend Brewing (you'll also see it listed as Our Mutual Friend Brewing Company) ferments with wild local yeast and keeps it neighborly. Bierstadt Lagerhaus is the temple of one perfect Slow Pour Pils — watch the pour, it's a ritual. If you'd rather someone else drive between them, the Denver Microbrew Tour walks you through the history with beers included. Pace yourself — hops hit harder at altitude.",
+    "businesses": [
+      "Ratio Beerworks",
+      "Our Mutual Friend Brewing",
+      "Our Mutual Friend Brewing Company",
+      "Bierstadt Lagerhaus",
+      "Denver Microbrew Tour"
+    ],
+    "chips": [
+      "Street art & murals",
+      "Cocktail bars",
+      "Book a tour",
+      "Back to drinks menu"
+    ]
+  },
+  {
+    "keys": [
+      "cocktail bars",
+      "craft cocktails",
+      "mixology",
+      "speakeasy",
+      "classy drinks"
+    ],
+    "text": "Denver's cocktail bench is deep. Death & Co Denver is the marquee name — an outpost of the NYC legend, and it earns the hype. The Cruise Room pours precise, cold classics in a 1933 Art Deco time capsule. Honey Elixir Bar leans botanical and natural-wine cool over on Colfax-adjacent RiNo. Beacon RiNo is the sleek all-day-into-night spot for a well-built drink and a snack. Postino Broadway is the wine-and-bruschetta patio where the whole city seems to unwind at golden hour. Cheers — and keep water in the rotation up here.",
+    "businesses": [
+      "Death & Co Denver",
+      "The Cruise Room",
+      "Honey Elixir Bar",
+      "Beacon RiNo",
+      "Postino Broadway"
+    ],
+    "chips": [
+      "Historic watering holes",
+      "RiNo brewery crawl",
+      "Live music tonight",
+      "Back to drinks menu"
+    ]
+  },
+  {
+    "keys": [
+      "historic bar",
+      "old bar",
+      "dive bar",
+      "my brothers bar",
+      "classic saloon",
+      "oldest bar"
+    ],
+    "text": "For a pour with real Denver ghosts in it: My Brother's Bar is the city's oldest continuously operating saloon — no sign out front, a burger the Beat writers loved, and Kerouac connections in the guestbook. The Cruise Room opened the day Prohibition ended in 1933 and hasn't changed its Art Deco bones since. Historians Ale House is the newer local favorite for a deep tap list and a proper neighborhood feel. Order the classics; these rooms wear their age well.",
+    "businesses": [
+      "My Brother's Bar",
+      "The Cruise Room",
+      "Historians Ale House"
+    ],
+    "chips": [
+      "Cocktail bars",
+      "RiNo brewery crawl",
+      "Five Points history",
+      "Back to drinks menu"
+    ]
+  },
+  {
+    "keys": [
+      "live music",
+      "concert",
+      "music tonight",
+      "venue",
+      "show",
+      "gig",
+      "band"
+    ],
+    "text": "Denver is a live-music town to its bones. The crown jewel is Red Rocks Park & Amphitheatre — a natural sandstone amphitheater where summer shows are a spiritual experience (bring a layer, nights cool fast). In town, the Ogden Theatre and Cervantes' Masterpiece Ballroom in Five Points are the storied mid-size rooms, Ophelia's Electric Soapbox is a dinner-and-music gastro-brothel-turned-venue, and The Roxy Theatre keeps Welton Street's music legacy alive. For big tours, Ball Arena. Check the calendar the second you land — good shows move fast.",
+    "businesses": [
+      "Red Rocks Park & Amphitheatre",
+      "Ogden Theatre",
+      "Cervantes' Masterpiece Ballroom",
+      "Ophelia's Electric Soapbox",
+      "The Roxy Theatre",
+      "Ball Arena"
+    ],
+    "chips": [
+      "Red Rocks tips",
+      "Comedy & theater",
+      "Five Points history",
+      "Back to drinks menu"
+    ]
+  },
+  {
+    "keys": [
+      "red rocks",
+      "amphitheatre",
+      "concert venue",
+      "red rocks show",
+      "iconic venue"
+    ],
+    "text": "Red Rocks Park & Amphitheatre is the one bucket-list stop I'll insist on. It's a 9,000-plus-seat amphitheater carved between 300-foot sandstone monoliths, 15 miles west of downtown. Summer is festival season — concerts most nights — but the park is free to visit by day: hike the Red Rocks Park & Trading Post Trail, do the stairs with the sunrise-yoga crowd, and gawk at the geology. Show tips from your Trailhead: arrive early for parking, bring a warm layer (mountain nights bite even in July), and hydrate hard — you're at 6,400 feet here. Want to sleep nearby? I've got a Red Rocks-adjacent stay.",
+    "businesses": [
+      "Red Rocks Park & Amphitheatre",
+      "Red Rocks Park & Trading Post Trail"
+    ],
+    "chips": [
+      "Where to stay near Red Rocks",
+      "Get me outside",
+      "Live music tonight",
+      "Seasonal picks"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "theater",
+      "performing arts",
+      "play",
+      "standup",
+      "broadway"
+    ],
+    "text": "When the mic's on: Comedy Works Downtown in Larimer Square is a nationally respected basement club where big names drop in unannounced — reservations and a two-item minimum, classic setup. For the marquee arts, the Denver Center for the Performing Arts is one of the country's largest theater complexes, running Broadway tours and its own Tony-winning productions. Pair either with dinner nearby and you've got a full night. Denver dresses casual — come as you are.",
+    "businesses": [
+      "Comedy Works Downtown",
+      "Denver Center for the Performing Arts"
+    ],
+    "chips": [
+      "Live music tonight",
+      "Museums & arts",
+      "Special occasion dining",
+      "Back to entertainment"
+    ]
+  },
+  {
+    "keys": [
+      "outside",
+      "outdoors",
+      "hike",
+      "hiking",
+      "nature",
+      "trails",
+      "adventure",
+      "get outside"
+    ],
+    "text": "You came to the right basecamp. Denver's genius is that wilderness starts at the city limit. Close in, Mount Falcon Park and Bear Creek Lake Park give you foothills trails without a long drive. Roxborough State Park is a jaw-dropping red-rock geology hike (leashed dogs only — it's protected). Rocky Mountain Arsenal National Wildlife Refuge puts bison on the prairie 20 minutes from downtown. Want water? I've got paddling. Want the high peaks? I've got the alpine drive. Altitude gospel from me: start slow, sunscreen even in winter (that thin air burns), and always pack water and a layer.",
+    "businesses": [
+      "Mount Falcon Park",
+      "Bear Creek Lake Park",
+      "Roxborough State Park",
+      "Rocky Mountain Arsenal National Wildlife Refuge"
+    ],
+    "chips": [
+      "Water & paddling",
+      "High-alpine drives",
+      "State parks near town",
+      "Rent gear"
+    ]
+  },
+  {
+    "keys": [
+      "water",
+      "paddle",
+      "kayak",
+      "paddling",
+      "boating",
+      "raft",
+      "swim",
+      "lake",
+      "river"
+    ],
+    "text": "For a landlocked mile-high city, Denver paddles surprisingly well. Confluence Park — where Cherry Creek meets the South Platte — is the downtown put-in and the historic birthplace of the city; Confluence Kayak & Ski right there sorts your gear. Clear Creek Whitewater Park (Golden) is the tubing-and-kayak playground when the snowmelt's running. For flatwater and a paddle-with-a-view, the Adventure Hub at Washington Park Boathouse rents boats on Wash Park's lakes, and Chatfield State Park and Cherry Creek State Park are the big reservoirs for a full day on the water. Snowmelt runs cold and fast in early summer — respect the current.",
+    "businesses": [
+      "Confluence Park",
+      "Confluence Kayak & Ski",
+      "Clear Creek Whitewater Park (Golden)",
+      "Adventure Hub at Washington Park Boathouse",
+      "Chatfield State Park",
+      "Cherry Creek State Park"
+    ],
+    "chips": [
+      "State parks near town",
+      "High-alpine drives",
+      "Wash Park hangout",
+      "Rent gear"
+    ]
+  },
+  {
+    "keys": [
+      "alpine",
+      "mountains",
+      "high peaks",
+      "scenic drive",
+      "glacier",
+      "fourteener",
+      "mountain drive",
+      "blue sky"
+    ],
+    "text": "Ready to go up? The Mount Blue Sky Scenic Byway is North America's highest paved road — you can nearly drive a 14,000-foot summit (open summer only, and yes, you'll feel every foot of that altitude, so acclimate first). St. Mary's Glacier Trailhead near Idaho Springs is a short, steep hike to a real year-round snowfield and alpine lake. And the big one, Rocky Mountain National Park, is 1.5 hours out — I've got a whole side-trip briefing for that. Golden rules up high: go early to beat afternoon thunderstorms, layer up (it can snow in July), and turn around if the sky darkens.",
+    "businesses": [
+      "Mount Blue Sky Scenic Byway",
+      "St. Mary's Glacier Trailhead",
+      "Rocky Mountain National Park"
+    ],
+    "chips": [
+      "Rocky Mountain National Park trip",
+      "Idaho Springs day",
+      "Water & paddling",
+      "Book a mountain shuttle"
+    ]
+  },
+  {
+    "keys": [
+      "state park",
+      "parks",
+      "roxborough",
+      "chatfield",
+      "cherry creek park",
+      "day hike",
+      "picnic"
+    ],
+    "text": "Denver's ring of state parks is the local weekend secret. Roxborough State Park is the stunner — tilted red-rock fins and quiet trails, protected enough that it's day-use and no dogs. Chatfield State Park and Cherry Creek State Park are the big multi-use reservoirs for swimming, sailing, and camping close to town. Mount Falcon Park and Bear Creek Lake Park give you foothills singletrack and history (Mount Falcon has the ruins of a would-be summer White House). Grab a picnic, mind the afternoon storms, and you've got a perfect Colorado day.",
+    "businesses": [
+      "Roxborough State Park",
+      "Chatfield State Park",
+      "Cherry Creek State Park",
+      "Mount Falcon Park",
+      "Bear Creek Lake Park"
+    ],
+    "chips": [
+      "Water & paddling",
+      "High-alpine drives",
+      "Family day out",
+      "Get outside menu"
+    ]
+  },
+  {
+    "keys": [
+      "museums",
+      "art",
+      "arts",
+      "culture",
+      "gallery",
+      "museum"
+    ],
+    "text": "Denver's culture mile is dense and genuinely great. The Denver Art Museum anchors it — the Gio Ponti and Libeskind buildings alone are worth it, with a landmark Indigenous-arts collection inside. Next door, the Clyfford Still Museum holds 95% of one Abstract Expressionist master's life's work in one serene building. The Denver Museum of Nature & Science pairs dinosaurs and a planetarium with front-range views, and the Molly Brown House Museum tells the unsinkable Titanic-survivor's story in her Capitol Hill mansion. For art that talks back, ask me about Meow Wolf. Most sit near the parks — easy to pair with a stroll.",
+    "businesses": [
+      "Denver Art Museum",
+      "Clyfford Still Museum",
+      "Denver Museum of Nature & Science",
+      "Molly Brown House Museum"
+    ],
+    "chips": [
+      "Immersive & weird art",
+      "Botanic Gardens",
+      "Street art & murals",
+      "Family day out"
+    ]
+  },
+  {
+    "keys": [
+      "meow wolf",
+      "immersive",
+      "weird art",
+      "convergence",
+      "trippy",
+      "interactive art",
+      "botanic",
+      "gardens"
+    ],
+    "text": "For art you walk through: Meow Wolf Denver — its installation is called Convergence Station — is a four-story, mind-bending sci-fi fever dream you explore like a mystery. Plan a couple hours and let the kids (and yourself) get lost in it. On the serene end, the Denver Botanic Gardens is 24 acres of themed gardens, a summer concert lawn, and a conservatory that's a warm refuge in winter. Two very different trips, both quintessentially Denver. Buy Meow Wolf tickets ahead — timed entry sells out.",
+    "businesses": [
+      "Denver Botanic Gardens"
+    ],
+    "chips": [
+      "Classic museums",
+      "Street art & murals",
+      "Family day out",
+      "Back to arts menu"
+    ]
+  },
+  {
+    "keys": [
+      "street art",
+      "murals",
+      "rino art",
+      "graffiti",
+      "art district",
+      "five points",
+      "harlem of the west",
+      "welton",
+      "black-owned",
+      "jazz history"
+    ],
+    "text": "Here's the trail I most want to walk with you: Five Points — the Harlem of the West. In the early 20th century, Welton Street was one of the country's great Black cultural corridors, its clubs hosting Ellington, Armstrong, and Billie Holiday. That legacy still lives on the street: The Roxy Theatre and Cervantes' Masterpiece Ballroom keep the music going, and TeaLee's Tea House & Bookstore is a beloved Black-owned gathering spot. Follow Welton northeast and it arcs straight into RiNo, where that creative energy became a mural economy — blocks of ever-changing street art wrapped around breweries like Ratio Beerworks. Same artery, a century of reinvention. Walk it with your eyes up.",
+    "businesses": [
+      "The Roxy Theatre",
+      "Cervantes' Masterpiece Ballroom",
+      "TeaLee's Tea House & Bookstore",
+      "Ratio Beerworks"
+    ],
+    "chips": [
+      "RiNo brewery crawl",
+      "Live music tonight",
+      "Coffee & bakeries",
+      "Shopping & books"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "teams",
+      "stadium",
+      "baseball",
+      "football",
+      "basketball",
+      "hockey",
+      "rockies",
+      "broncos",
+      "nuggets",
+      "avalanche"
+    ],
+    "text": "Denver is a rabid sports town, and the venues are right downtown. Coors Field in LoDo is one of baseball's best ballparks — sit in the upper deck along the purple 'mile-high' row and catch the mountain sunset behind the Rockies. Ball Arena hosts the NBA Nuggets and NHL Avalanche (and big concerts). Empower Field at Mile High is where the Broncos faithful roar — and yes, visiting teams genuinely feel the thin air in the fourth quarter. Pre-game tip: LoDo around Coors Field is stacked with bars, so build a whole evening around it.",
+    "businesses": [
+      "Coors Field",
+      "Ball Arena",
+      "Empower Field at Mile High"
+    ],
+    "chips": [
+      "Pre-game drinks",
+      "Live music tonight",
+      "Where to stay downtown",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "side trip",
+      "excursion",
+      "out of town",
+      "estes",
+      "idaho springs",
+      "golden",
+      "getaway"
+    ],
+    "text": "Denver is the ultimate launchpad — three great escapes, all doable in a day. Rocky Mountain National Park and Estes Park sit 1.5 hours northwest: alpine lakes, elk, and Trail Ridge Road (summer only). Idaho Springs is 45 minutes up I-70 — an old mining town with hot springs and whitewater. And Golden, at the mouth of Clear Creek, gives you tubing, foothills, and small-town main street 20 minutes out. If you'd rather not drive the mountain passes yourself, I've got shuttles and tour outfits — just ask. Which direction's calling?",
+    "businesses": [
+      "Rocky Mountain National Park",
+      "Colorado Adventure Center (Idaho Springs)",
+      "Clear Creek Whitewater Park (Golden)"
+    ],
+    "chips": [
+      "Rocky Mountain National Park trip",
+      "Idaho Springs & hot springs",
+      "Explore Golden",
+      "Book a mountain shuttle"
+    ]
+  },
+  {
+    "keys": [
+      "rmnp",
+      "rocky mountain national park",
+      "estes",
+      "estes park",
+      "national park",
+      "trail ridge"
+    ],
+    "text": "Rocky Mountain National Park is the marquee day trip — roughly 1.5 hours to the Estes Park gateway. Inside: 350-plus miles of trails, wild elk, glacial lakes, and Trail Ridge Road cresting above 12,000 feet (open late spring through fall only). The Trailhead's must-knows: reserve a timed-entry permit in peak season, start at dawn to beat the crowds and the afternoon storms, and go slow — you'll gain serious altitude and the air is thin and dry. If you'd rather leave the driving to a pro, Aspire Tours and Colorado Sightseer both run guided park trips out of Denver.",
+    "businesses": [
+      "Rocky Mountain National Park",
+      "Aspire Tours",
+      "Colorado Sightseer"
+    ],
+    "chips": [
+      "Book a mountain shuttle",
+      "High-alpine drives",
+      "Idaho Springs & hot springs",
+      "Back to day trips"
+    ]
+  },
+  {
+    "keys": [
+      "idaho springs",
+      "hot springs",
+      "golden",
+      "clear creek",
+      "mining town",
+      "soak"
+    ],
+    "text": "Two quick-hit mountain escapes off I-70. Idaho Springs (45 minutes) is a historic mining town where Indian Hot Springs lets you soak in geothermal mineral waters and caves — pure altitude-recovery therapy — and the Colorado Adventure Center (Idaho Springs) runs rafting and zip lines when the season's on. Closer still, Golden (20 minutes) sits where Clear Creek tumbles out of the foothills: Clear Creek Whitewater Park (Golden) is the tube-and-kayak scene, and Stay Golden Mercantile is the charming main-street shop for a souvenir. Both make a half-day feel like a real getaway.",
+    "businesses": [
+      "Indian Hot Springs",
+      "Colorado Adventure Center (Idaho Springs)",
+      "Clear Creek Whitewater Park (Golden)",
+      "Stay Golden Mercantile"
+    ],
+    "chips": [
+      "Rocky Mountain National Park trip",
+      "Book a mountain shuttle",
+      "Water & paddling",
+      "Back to day trips"
+    ]
+  },
+  {
+    "keys": [
+      "tour",
+      "tours",
+      "shuttle",
+      "transport",
+      "getting around",
+      "driver",
+      "ride",
+      "book a tour",
+      "nexus",
+      "affiliate",
+      "ski shuttle",
+      "airport"
+    ],
+    "text": "This is my little concierge nexus — the outfits that handle logistics so you don't white-knuckle a mountain pass. For guided sightseeing, Aspire Tours and Colorado Sightseer run Denver-based trips to the parks and peaks. For ski-season and resort transfers, Epic Mountain Express and Peak 1 Express are the reliable shuttles, and the Amtrak Winter Park Express is the famous ski train that runs you straight to the slopes in winter. In town, the Denver Microbrew Tour walks the breweries and eTuk Ride Denver zips you around LoDo in an electric tuk-tuk. Tell me your date and destination and I'll steer you to the right one.",
+    "businesses": [
+      "Aspire Tours",
+      "Colorado Sightseer",
+      "Epic Mountain Express",
+      "Peak 1 Express",
+      "Amtrak Winter Park Express",
+      "Denver Microbrew Tour",
+      "eTuk Ride Denver"
+    ],
+    "chips": [
+      "Rocky Mountain National Park trip",
+      "RiNo brewery crawl",
+      "Ski season info",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "things with kids",
+      "family day"
+    ],
+    "text": "Denver is a genuinely easy city with kids — big skies, big spaces. The Denver Museum of Nature & Science is the sure thing: dinosaurs, a planetarium, hands-on everything. Meow Wolf Denver (the Convergence Station labyrinth) turns exploring into a game they won't forget. The Denver Botanic Gardens has a dedicated children's garden, and the Adventure Hub at Washington Park Boathouse gets everyone in a paddleboat on Wash Park's lakes. Cap the day with green-chile-friendly, kid-proof plates at Sam's No. 3. Keep water bottles full — little ones dehydrate fast up here.",
+    "businesses": [
+      "Denver Museum of Nature & Science",
+      "Denver Botanic Gardens",
+      "Adventure Hub at Washington Park Boathouse",
+      "Sam's No. 3"
+    ],
+    "chips": [
+      "State parks near town",
+      "Immersive & weird art",
+      "Wash Park hangout",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "books",
+      "records",
+      "bookstore",
+      "gifts",
+      "souvenirs",
+      "retail",
+      "vinyl"
+    ],
+    "text": "Denver shops local and a little offbeat. For books, the Tattered Cover Book Store — Union Station is the beloved indie flagship, and Capitol Hill Books is the cozy used-book warren. Record diggers: Twist and Shout Records is one of the country's great independent stores, with Wax Trax Records and Recollect Records for the deep crates. For gear, the REI Denver Flagship (in a landmark powerhouse building by Confluence Park), Topo Designs Flagship Store, and evo Denver kit you out for the mountains. Grab a made-in-Colorado keepsake at the I Heart Denver Store, and browse the boutiques of Cherry Creek North for the upscale stroll.",
+    "businesses": [
+      "Tattered Cover Book Store — Union Station",
+      "Capitol Hill Books",
+      "Twist and Shout Records",
+      "Wax Trax Records",
+      "Recollect Records",
+      "REI Denver Flagship",
+      "Topo Designs Flagship Store",
+      "evo Denver",
+      "I Heart Denver Store",
+      "Cherry Creek North"
+    ],
+    "chips": [
+      "Makers & craft",
+      "Coffee & bakeries",
+      "Union Station area",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "makers",
+      "craft",
+      "crafts",
+      "design store",
+      "matter",
+      "fancy tiger",
+      "farmers market",
+      "local goods",
+      "artisan"
+    ],
+    "text": "For the makers' side of Denver: The Shop at MATTER is a design-and-print studio storefront full of thoughtfully made goods, Fancy Tiger Crafts Co-op is the beloved yarn-and-fabric maker's haven on Broadway, and Stay Golden Mercantile carries curated home and gift goods over in Golden. On Saturdays in season, the Union Station Farmers Market brings Colorado growers right to the plaza — perfect for a picnic haul before a park day. Support the folks who actually make the stuff; that's the Denver way.",
+    "businesses": [
+      "The Shop at MATTER",
+      "Fancy Tiger Crafts Co-op",
+      "Stay Golden Mercantile",
+      "Union Station Farmers Market"
+    ],
+    "chips": [
+      "Books & records",
+      "Explore Golden",
+      "Union Station area",
+      "Back to shopping"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "bakery",
+      "bakeries",
+      "espresso",
+      "pastry",
+      "breakfast pastry",
+      "latte"
+    ],
+    "text": "Denver's coffee scene is a serious point of local pride. Huckleberry Roasters (RiNo/Sunnyside) and Corvus Coffee Roasters (Broadway) are the flagship roasters the baristas geek out over. Little Owl Coffee is the LoDo go-to for a precise espresso, Pablo's Coffee is the Capitol Hill neighborhood classic, and Fifth Coffee House is the airy all-day hangout. For the pastry case, Bakery Four does laminated-croissant magic and Elemental Bakery & Coffeehouse handles gluten-free without compromise. Fair warning from the mile-high altitude: caffeine and thin air both dehydrate, so chase that latte with water.",
+    "businesses": [
+      "Huckleberry Roasters",
+      "Corvus Coffee Roasters",
+      "Little Owl Coffee",
+      "Pablo's Coffee",
+      "Fifth Coffee House",
+      "Bakery Four",
+      "Elemental Bakery & Coffeehouse"
+    ],
+    "chips": [
+      "Brunch spots",
+      "Street art & murals",
+      "Shopping & books",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "stay",
+      "hotel",
+      "lodging",
+      "where to stay",
+      "sleep",
+      "accommodation",
+      "hotels"
+    ],
+    "text": "Where you bunk sets the tone. The Crawford Hotel is built right into Union Station — you sleep atop the city's grand transit hall, steps from restaurants and the train. For a Red Rocks night, Origin Red Rocks, a Wyndham Hotel and The Red Hotel both sit near the amphitheater in Golden/Morrison so you're not driving back to town after the encore. Want a mountain-soak getaway? Indian Hot Springs in Idaho Springs lets you stay and soak in one trip. Tell me your priority — downtown walkability, Red Rocks proximity, or a hot-springs escape — and I'll pin it.",
+    "businesses": [
+      "The Crawford Hotel",
+      "Origin Red Rocks, a Wyndham Hotel",
+      "The Red Hotel",
+      "Indian Hot Springs"
+    ],
+    "chips": [
+      "Union Station area",
+      "Red Rocks tips",
+      "Idaho Springs & hot springs",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "union station",
+      "lodo",
+      "downtown",
+      "crawford",
+      "the wynkoop",
+      "central"
+    ],
+    "text": "Union Station is Denver's beating heart — a beautifully restored 1914 train hall that's now a hotel, restaurant, and hangout all at once. Sleep in The Crawford Hotel upstairs, eat at Mercantile Dining & Provision or the refined Italian Tavernetta next door, browse the Tattered Cover Book Store — Union Station, and grab a cold classic at The Cruise Room in the neighboring Oxford Hotel. On summer Saturdays the Union Station farmers market spills onto the plaza. From here you can walk to Coors Field, LoDo's bars, and the RiNo art district. It's the easiest basecamp in the city.",
+    "businesses": [
+      "The Crawford Hotel",
+      "Mercantile Dining & Provision",
+      "Tavernetta",
+      "Tattered Cover Book Store — Union Station",
+      "The Cruise Room",
+      "Union Station Farmers Market",
+      "Coors Field"
+    ],
+    "chips": [
+      "RiNo brewery crawl",
+      "Historic watering holes",
+      "Sports & games",
+      "Back to main menu"
+    ]
+  },
+  {
+    "keys": [
+      "wash park",
+      "washington park",
+      "hangout",
+      "chill",
+      "relax",
+      "picnic spot",
+      "laid back"
+    ],
+    "text": "When you just want to exhale, Washington Park — 'Wash Park' — is Denver's living room: 165 acres of lawns, flower gardens, two lakes, and a jogging loop full of happy dogs. Rent a paddleboat or SUP at the Adventure Hub at Washington Park Boathouse, spread a blanket, and watch the Front Range glow at sunset. Stock your picnic from the Union Station Farmers Market on the way, or grab coffee at Corvus Coffee Roasters just up Broadway. This is the chill, no-agenda Denver day — and honestly one of the best ways to let your body adjust to the altitude.",
+    "businesses": [
+      "Adventure Hub at Washington Park Boathouse",
+      "Union Station Farmers Market",
+      "Corvus Coffee Roasters"
+    ],
+    "chips": [
+      "Water & paddling",
+      "Coffee & bakeries",
+      "State parks near town",
+      "Back to outdoors"
+    ]
+  },
+  {
+    "keys": [
+      "seasonal",
+      "season",
+      "weather",
+      "when to visit",
+      "winter",
+      "summer",
+      "ski",
+      "best time",
+      "fall",
+      "spring"
+    ],
+    "text": "Here's your Trailhead almanac, and the through-line is Denver's roughly 300 days of sun. Summer is Red Rocks Park & Amphitheatre season — a nightly feast of concerts, plus long days for high-alpine drives like the Mount Blue Sky Scenic Byway (afternoon thunderstorms roll in most days, so hike early). Winter turns Denver into a ski gateway: the Amtrak Winter Park Express and Epic Mountain Express run you to the slopes, and Indian Hot Springs is the perfect post-ski soak. Fall brings golden aspens up in Rocky Mountain National Park. Year-round rule: sunscreen, water, and layers — the sun is intense and the temperature swings fast at a mile high.",
+    "businesses": [
+      "Red Rocks Park & Amphitheatre",
+      "Mount Blue Sky Scenic Byway",
+      "Amtrak Winter Park Express",
+      "Epic Mountain Express",
+      "Indian Hot Springs",
+      "Rocky Mountain National Park"
+    ],
+    "chips": [
+      "Red Rocks tips",
+      "Ski season shuttles",
+      "Day trips",
+      "Back to main menu"
+    ]
+  }
+]

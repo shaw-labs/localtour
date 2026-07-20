@@ -1,0 +1,684 @@
+{
+  "morning_starts": [
+    {
+      "title": "Sweet Maple",
+      "note": "Millionaire's Bacon and Marnier French Toast.",
+      "business": "Sweet Maple",
+      "website": "https://www.sweetmaplesf.com",
+      "duration": null
+    },
+    {
+      "title": "Zazie",
+      "note": "Miracle Pancakes and the Eggs Benedict menu.",
+      "business": "Zazie",
+      "website": "https://www.zaziesf.com",
+      "duration": null
+    },
+    {
+      "title": "Tartine Bakery",
+      "note": "Morning bun",
+      "business": "Tartine Bakery",
+      "website": "https://www.tartinebakery.com",
+      "duration": null
+    },
+    {
+      "title": "Kitchen Story",
+      "note": "Millionaire's Bacon and bottomless mimosas.",
+      "business": "Kitchen Story",
+      "website": "https://www.kitchenstorysf.com",
+      "duration": null
+    },
+    {
+      "title": "Mama's on Washington Square",
+      "note": "Monte Cristo sandwich and the homemade jam.",
+      "business": "Mama's on Washington Square",
+      "website": "https://www.mamas-sf.com",
+      "duration": null
+    },
+    {
+      "title": "Plow",
+      "note": "Lemon ricotta pancakes.",
+      "business": "Plow",
+      "website": "https://www.eatatplow.com",
+      "duration": null
+    },
+    {
+      "title": "Brenda's Meat and Three",
+      "note": "Shrimp and grits, pulled pork hash, and chocolate beignets.",
+      "business": "Brenda's Meat and Three",
+      "website": "https://www.brendasmeatandthree.com",
+      "duration": null
+    },
+    {
+      "title": "Buena Vista Cafe",
+      "note": "Irish Coffee — they make 2,000 a day.",
+      "business": "Buena Vista Cafe",
+      "website": "https://www.thebuenavista.com",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Golden Gate Park",
+      "note": "Japanese Tea Garden + Stow Lake paddleboats",
+      "business": "Golden Gate Park",
+      "website": "https://sfrecpark.org/facilities/facility/details/golden-gate-park-702",
+      "duration": null
+    },
+    {
+      "title": "Lands End Trail",
+      "note": "Full loop trail from Sutro Baths to Eagle Point and back (~3 miles).",
+      "business": "Lands End Trail",
+      "website": "https://www.nps.gov/goga/planyourvisit/landsend.htm",
+      "duration": null
+    },
+    {
+      "title": "Presidio National Park",
+      "note": "Tunnel Tops for Golden Gate sunset views",
+      "business": "Presidio National Park",
+      "website": "https://www.presidio.gov",
+      "duration": null
+    },
+    {
+      "title": "Crissy Field",
+      "note": "Walk to the Warming Hut for coffee with the bridge in your face",
+      "business": "Crissy Field",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "City Kayak",
+      "note": "Sunset kayak tour under the Bay Bridge.",
+      "business": "City Kayak",
+      "website": "https://www.citykayak.com",
+      "duration": null
+    },
+    {
+      "title": "Dolores Park",
+      "note": "Sunny afternoon picnic + paleta from the cart",
+      "business": "Dolores Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Twin Peaks",
+      "note": "Sunset visit on a clear October evening.",
+      "business": "Twin Peaks",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Blazing Saddles Bike Rentals",
+      "note": "Golden Gate to Sausalito loop (return by ferry)",
+      "business": "Blazing Saddles Bike Rentals",
+      "website": "https://www.blazingsaddles.com",
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Golden Gate Bridge",
+      "note": "Walk across at sunset, return via Sausalito ferry",
+      "business": "Golden Gate Bridge",
+      "website": "https://www.goldengate.org",
+      "duration": null
+    },
+    {
+      "title": "Dear San Francisco (Club Fugazi)",
+      "note": "The cicchetti tasting menu during the show.",
+      "business": "Dear San Francisco (Club Fugazi)",
+      "website": "https://dearsf.clubfugazisf.com",
+      "duration": null
+    },
+    {
+      "title": "Alcatraz Island",
+      "note": "Night tour (limited availability)",
+      "business": "Alcatraz Island",
+      "website": "https://www.alcatrazcruises.com",
+      "duration": null
+    },
+    {
+      "title": "Cable Cars",
+      "note": "Powell-Hyde line — hang off the side for photos",
+      "business": "Cable Cars",
+      "website": "https://www.sfmta.com/getting-around/muni/cable-cars",
+      "duration": null
+    },
+    {
+      "title": "Exploratorium",
+      "note": "Tactile Dome + After Dark Thursday",
+      "business": "Exploratorium",
+      "website": "https://www.exploratorium.edu",
+      "duration": null
+    },
+    {
+      "title": "Walt Disney Family Museum",
+      "note": "Original animation galleries + Presidio walk after",
+      "business": "Walt Disney Family Museum",
+      "website": "https://www.waltdisney.org",
+      "duration": null
+    },
+    {
+      "title": "SHN Orpheum Theatre",
+      "note": "Check SHN.com for current shows and lottery tickets.",
+      "business": "SHN Orpheum Theatre",
+      "website": "https://www.shnsf.com",
+      "duration": null
+    },
+    {
+      "title": "California Academy of Sciences",
+      "note": "Osher Rainforest dome + NightLife Thursday events",
+      "business": "California Academy of Sciences",
+      "website": "https://www.calacademy.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Hotel Drisco Pacific Heights",
+      "note": "Complimentary evening wine reception",
+      "business": "Hotel Drisco Pacific Heights",
+      "website": "https://www.hoteldrisco.com",
+      "duration": null
+    },
+    {
+      "title": "Heath Ceramics",
+      "note": "Book the $15 Tile Factory Tour via Eventbrite (closed-toe shoes required).",
+      "business": "Heath Ceramics",
+      "website": "https://www.heathceramics.com",
+      "duration": null
+    },
+    {
+      "title": "The Lodge at the Presidio",
+      "note": "Morning bridge walk from the hotel",
+      "business": "The Lodge at the Presidio",
+      "website": "https://www.presidiolodge.com",
+      "duration": null
+    },
+    {
+      "title": "Amoeba Music",
+      "note": "Dig through the used vinyl bins in the back.",
+      "business": "Amoeba Music",
+      "website": "https://www.amoeba.com",
+      "duration": null
+    },
+    {
+      "title": "City Lights Bookstore",
+      "note": "Poetry room upstairs + a Pocket Poets purchase",
+      "business": "City Lights Bookstore",
+      "website": "https://www.citylights.com",
+      "duration": null
+    },
+    {
+      "title": "Kinokuniya Bookstore San Francisco",
+      "note": "The stationery department and the Katsuya Terada live-painted mural.",
+      "business": "Kinokuniya Bookstore San Francisco",
+      "website": "https://usa.kinokuniya.com",
+      "duration": null
+    },
+    {
+      "title": "Ferry Building Marketplace",
+      "note": "Saturday farmers market morning loop",
+      "business": "Ferry Building Marketplace",
+      "website": "https://www.ferrybuildingmarketplace.com",
+      "duration": null
+    },
+    {
+      "title": "Argonaut Hotel",
+      "note": "Bay-view room + walk to Ghirardelli Square",
+      "business": "Argonaut Hotel",
+      "website": "https://www.argonauthotel.com",
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "El Farolito",
+      "note": "Super Burrito with Carne Asada or Al Pastor.",
+      "business": "El Farolito",
+      "website": "https://elfarolitosf.com",
+      "duration": null
+    },
+    {
+      "title": "The Codmother Fish & Chips",
+      "note": "Fish tacos or the classic fish and chips basket.",
+      "business": "The Codmother Fish & Chips",
+      "website": "https://www.codmother.com",
+      "duration": null
+    },
+    {
+      "title": "Super Duper Burgers",
+      "note": "Super Burger with garlic fries and an organic shake.",
+      "business": "Super Duper Burgers",
+      "website": "https://www.superduperburgers.com",
+      "duration": null
+    },
+    {
+      "title": "Taqueria Cancun",
+      "note": "Super Mojado Burrito (wet burrito) with Al Pastor.",
+      "business": "Taqueria Cancun",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Taqueria",
+      "note": "Super burrito dorado (ask for it grilled crispy)",
+      "business": "La Taqueria",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Turtle Tower",
+      "note": "Pho Ga (chicken pho with wide, fresh rice noodles).",
+      "business": "Turtle Tower",
+      "website": "https://www.turtletowersf.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Barebottle Brewing Company",
+      "note": "Muir Woods IPA and any coffee-infused stout.",
+      "business": "Barebottle Brewing Company",
+      "website": "https://www.barebottle.com",
+      "duration": null
+    },
+    {
+      "title": "Big Finish Wine Tavern",
+      "note": "The 7x7 Happy Hour — 7 menu items for $7 each.",
+      "business": "Big Finish Wine Tavern",
+      "website": "https://www.bigfinishsf.com",
+      "duration": null
+    },
+    {
+      "title": "Cellarmaker Brewing Co.",
+      "note": "Coffee and Cigarettes (smoked coffee porter) and Detroit-style pizza.",
+      "business": "Cellarmaker Brewing Co.",
+      "website": "https://cellarmakerbrewing.com",
+      "duration": null
+    },
+    {
+      "title": "Arcana",
+      "note": "Sipping a pet-nat while shopping for kokedama plants.",
+      "business": "Arcana",
+      "website": "https://www.arcanasf.com",
+      "duration": null
+    },
+    {
+      "title": "Smuggler's Cove",
+      "note": "Any rum cocktail — let the bartender choose",
+      "business": "Smuggler's Cove",
+      "website": "https://www.smugglerscovesf.com",
+      "duration": null
+    },
+    {
+      "title": "Standard Deviant Brewing",
+      "note": "The flagship Kolsch or Hazy IPA.",
+      "business": "Standard Deviant Brewing",
+      "website": "https://www.standarddeviantbrewing.com",
+      "duration": null
+    },
+    {
+      "title": "Key Klub",
+      "note": "Duck liver mousse-topped french toast and a glass of natural wine.",
+      "business": "Key Klub",
+      "website": "https://www.keyklubsf.com",
+      "duration": null
+    },
+    {
+      "title": "Pacific Cocktail Haven (PCH)",
+      "note": "Seasonal Asia-Pacific cocktail menu",
+      "business": "Pacific Cocktail Haven (PCH)",
+      "website": "https://www.pacificcocktailhaven.com",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Enclos",
+      "note": "Full tasting menu",
+      "business": "Enclos",
+      "website": "https://www.enclossonomacounty.com",
+      "duration": null
+    },
+    {
+      "title": "El Buen Comer",
+      "note": "Mole verde with chicken and handmade tortillas.",
+      "business": "El Buen Comer",
+      "website": "http://www.elbuencomersf.com",
+      "duration": null
+    },
+    {
+      "title": "Mijoté",
+      "note": "Four-course dinner menu (changes nightly)",
+      "business": "Mijoté",
+      "website": "https://www.mijotesf.com",
+      "duration": null
+    },
+    {
+      "title": "Rintaro",
+      "note": "Charcoal-grilled yakitori skewers",
+      "business": "Rintaro",
+      "website": "https://www.izakayarintaro.com",
+      "duration": null
+    },
+    {
+      "title": "Sotto Mare",
+      "note": "The Best Damn Crab Cioppino (served with a bib, easily split between two).",
+      "business": "Sotto Mare",
+      "website": "https://www.sottomaresf.com",
+      "duration": null
+    },
+    {
+      "title": "Wolfsbane",
+      "note": "Full tasting menu with wine pairings",
+      "business": "Wolfsbane",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bodega SF",
+      "note": "Hanoi-style Bun Cha and Garlic Noodles.",
+      "business": "Bodega SF",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fog Harbor Fish House",
+      "note": "Award-winning clam chowder in a sourdough bread bowl.",
+      "business": "Fog Harbor Fish House",
+      "website": "https://fogharbor.com",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Enclos",
+      "note": "Full tasting menu",
+      "business": "Enclos",
+      "website": "https://www.enclossonomacounty.com",
+      "duration": null
+    },
+    {
+      "title": "Mijoté",
+      "note": "Four-course dinner menu (changes nightly)",
+      "business": "Mijoté",
+      "website": "https://www.mijotesf.com",
+      "duration": null
+    },
+    {
+      "title": "Rintaro",
+      "note": "Charcoal-grilled yakitori skewers",
+      "business": "Rintaro",
+      "website": "https://www.izakayarintaro.com",
+      "duration": null
+    },
+    {
+      "title": "Wolfsbane",
+      "note": "Full tasting menu with wine pairings",
+      "business": "Wolfsbane",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fog Harbor Fish House",
+      "note": "Award-winning clam chowder in a sourdough bread bowl.",
+      "business": "Fog Harbor Fish House",
+      "website": "https://fogharbor.com",
+      "duration": null
+    },
+    {
+      "title": "Mister Jiu's",
+      "note": "Peking-style roast duck (banquet menu)",
+      "business": "Mister Jiu's",
+      "website": "https://www.misterjius.com",
+      "duration": null
+    },
+    {
+      "title": "Original Joe's",
+      "note": "Joe's Special (eggs, spinach, ground beef) and the veal parmigiana.",
+      "business": "Original Joe's",
+      "website": "https://originaljoes.com",
+      "duration": null
+    },
+    {
+      "title": "Arquet",
+      "note": "Seasonal California tasting dishes",
+      "business": "Arquet",
+      "website": "https://www.arquetsf.com",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Golden Gate Bridge",
+      "note": "Walk across at sunset, return via Sausalito ferry",
+      "business": "Golden Gate Bridge",
+      "website": "https://www.goldengate.org",
+      "duration": null
+    },
+    {
+      "title": "Enclos",
+      "note": "Full tasting menu",
+      "business": "Enclos",
+      "website": "https://www.enclossonomacounty.com",
+      "duration": null
+    },
+    {
+      "title": "Dear San Francisco (Club Fugazi)",
+      "note": "The cicchetti tasting menu during the show.",
+      "business": "Dear San Francisco (Club Fugazi)",
+      "website": "https://dearsf.clubfugazisf.com",
+      "duration": null
+    },
+    {
+      "title": "Hotel Drisco Pacific Heights",
+      "note": "Complimentary evening wine reception",
+      "business": "Hotel Drisco Pacific Heights",
+      "website": "https://www.hoteldrisco.com",
+      "duration": null
+    },
+    {
+      "title": "Arcana",
+      "note": "Sipping a pet-nat while shopping for kokedama plants.",
+      "business": "Arcana",
+      "website": "https://www.arcanasf.com",
+      "duration": null
+    },
+    {
+      "title": "Smuggler's Cove",
+      "note": "Any rum cocktail — let the bartender choose",
+      "business": "Smuggler's Cove",
+      "website": "https://www.smugglerscovesf.com",
+      "duration": null
+    },
+    {
+      "title": "Dandelion Chocolate",
+      "note": "Hot chocolate flight (3 single-origin drinking chocolates).",
+      "business": "Dandelion Chocolate",
+      "website": "https://www.dandelionchocolate.com",
+      "duration": null
+    },
+    {
+      "title": "Mijoté",
+      "note": "Four-course dinner menu (changes nightly)",
+      "business": "Mijoté",
+      "website": "https://www.mijotesf.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Punch Line Comedy Club",
+      "note": "Tuesday night SF Comedy Showcase featuring rising local talent.",
+      "business": "Punch Line Comedy Club",
+      "website": "https://www.punchlinecomedyclub.com",
+      "duration": null
+    },
+    {
+      "title": "The Dawn Club",
+      "note": "Rare bourbon selection + live jazz set",
+      "business": "The Dawn Club",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cobb's Comedy Club",
+      "note": "Arrive early for a front-row table.",
+      "business": "Cobb's Comedy Club",
+      "website": "https://www.cobbscomedy.com",
+      "duration": null
+    },
+    {
+      "title": "Make Out Room",
+      "note": "El Superritmo! (Cumbia and Reggaeton dance night).",
+      "business": "Make Out Room",
+      "website": "http://www.makeoutroom.com",
+      "duration": null
+    },
+    {
+      "title": "Audio SF",
+      "note": "Late night sets on the sunken dance floor.",
+      "business": "Audio SF",
+      "website": "https://audiosf.com",
+      "duration": null
+    },
+    {
+      "title": "Emporium Arcade Bar",
+      "note": "Play pinball with a craft beer",
+      "business": "Emporium Arcade Bar",
+      "website": "https://emporiumsf.com",
+      "duration": null
+    },
+    {
+      "title": "The Saloon",
+      "note": "Cheap beer + live blues",
+      "business": "The Saloon",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Temple Nightclub",
+      "note": "VIP table service in the main room.",
+      "business": "Temple Nightclub",
+      "website": "https://www.templesf.com",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Golden Gate Bridge",
+      "note": "Walk across at sunset, return via Sausalito ferry",
+      "business": "Golden Gate Bridge",
+      "website": "https://www.goldengate.org",
+      "duration": null
+    },
+    {
+      "title": "Barebottle Brewing Company",
+      "note": "Muir Woods IPA and any coffee-infused stout.",
+      "business": "Barebottle Brewing Company",
+      "website": "https://www.barebottle.com",
+      "duration": null
+    },
+    {
+      "title": "Golden Gate Park",
+      "note": "Japanese Tea Garden + Stow Lake paddleboats",
+      "business": "Golden Gate Park",
+      "website": "https://sfrecpark.org/facilities/facility/details/golden-gate-park-702",
+      "duration": null
+    },
+    {
+      "title": "Alamo Square Dog Play Area",
+      "note": "Photo of your dog with the Painted Ladies in the background.",
+      "business": "Alamo Square Dog Play Area",
+      "website": "https://sfrecpark.org/457/Dog-Play-Areas",
+      "duration": null
+    },
+    {
+      "title": "Alcatraz Island",
+      "note": "Night tour (limited availability)",
+      "business": "Alcatraz Island",
+      "website": "https://www.alcatrazcruises.com",
+      "duration": null
+    },
+    {
+      "title": "Standard Deviant Brewing",
+      "note": "The flagship Kolsch or Hazy IPA.",
+      "business": "Standard Deviant Brewing",
+      "website": "https://www.standarddeviantbrewing.com",
+      "duration": null
+    },
+    {
+      "title": "Oracle Park",
+      "note": "Garlic fries + a seat in the outfield bleachers",
+      "business": "Oracle Park",
+      "website": "https://www.mlb.com/giants",
+      "duration": null
+    },
+    {
+      "title": "The Lodge at the Presidio",
+      "note": "Morning bridge walk from the hotel",
+      "business": "The Lodge at the Presidio",
+      "website": "https://www.presidiolodge.com",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Dear San Francisco (Club Fugazi)",
+      "note": "The cicchetti tasting menu during the show.",
+      "business": "Dear San Francisco (Club Fugazi)",
+      "website": "https://dearsf.clubfugazisf.com",
+      "duration": null
+    },
+    {
+      "title": "Kinokuniya Bookstore San Francisco",
+      "note": "The stationery department and the Katsuya Terada live-painted mural.",
+      "business": "Kinokuniya Bookstore San Francisco",
+      "website": "https://usa.kinokuniya.com",
+      "duration": null
+    },
+    {
+      "title": "Exploratorium",
+      "note": "Tactile Dome + After Dark Thursday",
+      "business": "Exploratorium",
+      "website": "https://www.exploratorium.edu",
+      "duration": null
+    },
+    {
+      "title": "Walt Disney Family Museum",
+      "note": "Original animation galleries + Presidio walk after",
+      "business": "Walt Disney Family Museum",
+      "website": "https://www.waltdisney.org",
+      "duration": null
+    },
+    {
+      "title": "SHN Orpheum Theatre",
+      "note": "Check SHN.com for current shows and lottery tickets.",
+      "business": "SHN Orpheum Theatre",
+      "website": "https://www.shnsf.com",
+      "duration": null
+    },
+    {
+      "title": "The St. Regis San Francisco",
+      "note": "Best for: luxury travelers, art lovers, couples.",
+      "business": "The St. Regis San Francisco",
+      "website": "https://www.marriott.com/en-us/hotels/sfoxr-the-st-regis-san-francisco",
+      "duration": null
+    },
+    {
+      "title": "Ritz-Carlton Spa",
+      "note": "Deep tissue massage followed by the steam circuit.",
+      "business": "Ritz-Carlton Spa",
+      "website": "https://www.ritzcarlton.com/en/hotels/sforc-the-ritz-carlton-san-francisco/spa",
+      "duration": null
+    },
+    {
+      "title": "California Academy of Sciences",
+      "note": "Osher Rainforest dome + NightLife Thursday events",
+      "business": "California Academy of Sciences",
+      "website": "https://www.calacademy.org",
+      "duration": null
+    }
+  ]
+}

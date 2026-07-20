@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Terms of Service · LocalTour</title>
+<meta name="description" content="The rules of the road for using LocalTour. User content, AI concierge output, affiliate disclosures, and Nevada governing law." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0a0a0a; --bg-2: #121212; --bg-3: #191919;
+    --text: #F5F0E6; --text-muted: #9a968f; --text-dim: #5a564f;
+    --accent: #dc2626; --accent-hot: #ef4444; --accent-soft: rgba(220, 38, 38, 0.12);
+    --border: rgba(245, 240, 230, 0.08); --border-strong: rgba(245, 240, 230, 0.16);
+    --serif: 'Playfair Display', Georgia, serif;
+    --sans: 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --mono: 'IBM Plex Mono', 'SF Mono', Menlo, monospace;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
+  body { font-family: var(--sans); background: var(--bg); color: var(--text); line-height: 1.5; font-size: 16px; -webkit-font-smoothing: antialiased; overflow-x: hidden; position: relative; }
+  body::before { content: ''; position: fixed; inset: 0; pointer-events: none; z-index: 1; opacity: 0.025; background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E"); }
+  a { color: inherit; text-decoration: none; }
+
+  .nav { position: fixed; top: 0; left: 0; right: 0; z-index: 100; padding: 18px 28px; display: flex; align-items: center; justify-content: space-between; backdrop-filter: blur(20px); -webkit-backdrop-filter: blur(20px); background: rgba(10, 10, 10, 0.72); border-bottom: 1px solid var(--border); }
+  .nav-brand { display: flex; align-items: center; gap: 10px; font-family: var(--serif); font-weight: 700; font-size: 20px; letter-spacing: -0.01em; }
+  .nav-brand .lt-mark { display: inline-flex; align-items: center; justify-content: center; width: 32px; height: 32px; background: var(--accent); border-radius: 8px; color: #fff; font-family: var(--sans); font-weight: 700; font-size: 13px; letter-spacing: 0.02em; }
+  .nav-brand .tour { color: var(--accent); }
+  .nav-links { display: flex; align-items: center; gap: 28px; font-size: 14px; color: var(--text-muted); }
+  .nav-links a { transition: color 0.2s ease; }
+  .nav-links a:hover { color: var(--text); }
+  .nav-cta { display: inline-flex; align-items: center; gap: 6px; padding: 10px 20px; background: var(--accent); color: #fff; border-radius: 999px; font-weight: 500; font-size: 14px; transition: all 0.2s ease; }
+  .nav-cta:hover { background: var(--accent-hot); transform: translateY(-1px); }
+  @media (max-width: 820px) { .nav { padding: 14px 18px; } .nav-links { display: none; } }
+
+  .container { max-width: 1200px; margin: 0 auto; padding: 0 28px; position: relative; z-index: 2; }
+  @media (max-width: 640px) { .container { padding: 0 20px; } }
+
+  /* HERO */
+  .hero { padding: 160px 0 60px; position: relative; border-bottom: 1px solid var(--border); }
+  .eyebrow { font-family: var(--mono); font-size: 12px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 28px; display: inline-flex; align-items: center; gap: 10px; }
+  .eyebrow::before { content: ''; width: 32px; height: 1px; background: var(--accent); }
+  .hero h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(44px, 7vw, 88px); line-height: 1; letter-spacing: -0.03em; max-width: 16ch; margin-bottom: 28px; }
+  .hero h1 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .hero-lede { font-size: 18px; line-height: 1.65; color: var(--text-muted); max-width: 64ch; margin-bottom: 28px; }
+  .hero-meta { display: flex; gap: 32px; flex-wrap: wrap; font-family: var(--mono); font-size: 11px; letter-spacing: 0.14em; text-transform: uppercase; color: var(--text-dim); padding-top: 24px; border-top: 1px solid var(--border); }
+  .hero-meta .v { color: var(--text); }
+
+  /* DOC LAYOUT */
+  .doc { padding: 80px 0 120px; }
+  .doc-grid { display: grid; grid-template-columns: 240px 1fr; gap: 80px; align-items: start; }
+  @media (max-width: 900px) { .doc-grid { grid-template-columns: 1fr; gap: 40px; } }
+
+  .toc { position: sticky; top: 100px; }
+  .toc .toc-lbl { font-family: var(--mono); font-size: 10px; letter-spacing: 0.18em; text-transform: uppercase; color: var(--text-dim); padding-bottom: 14px; border-bottom: 1px solid var(--border); margin-bottom: 14px; }
+  .toc ol { list-style: none; counter-reset: toc; }
+  .toc ol li { counter-increment: toc; padding: 8px 0; border-bottom: 1px solid var(--border); }
+  .toc ol li a { display: flex; gap: 10px; font-size: 13px; color: var(--text-muted); transition: color 0.2s ease; line-height: 1.3; }
+  .toc ol li a:hover { color: var(--text); }
+  .toc ol li a::before { content: counter(toc, decimal-leading-zero); font-family: var(--mono); font-size: 10px; color: var(--accent); letter-spacing: 0.1em; padding-top: 2px; }
+  @media (max-width: 900px) { .toc { position: static; } .toc ol { columns: 2; column-gap: 24px; } }
+  @media (max-width: 520px) { .toc ol { columns: 1; } }
+
+  .doc-body { max-width: 68ch; }
+  .doc-body section { padding: 48px 0; border-top: 1px solid var(--border); }
+  .doc-body section:first-child { padding-top: 0; border-top: none; }
+  .doc-body section .s-num { font-family: var(--mono); font-size: 11px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 14px; display: block; }
+  .doc-body h2 { font-family: var(--serif); font-weight: 500; font-size: clamp(26px, 3vw, 34px); line-height: 1.15; letter-spacing: -0.02em; margin-bottom: 22px; }
+  .doc-body h2 em { font-style: italic; color: var(--accent); font-weight: 400; }
+  .doc-body p { font-size: 16px; line-height: 1.75; color: var(--text-muted); margin-bottom: 16px; }
+  .doc-body p strong { color: var(--text); font-weight: 500; }
+  .doc-body p:last-child { margin-bottom: 0; }
+  .doc-body h3 { font-family: var(--serif); font-weight: 500; font-size: 18px; line-height: 1.3; margin-top: 24px; margin-bottom: 12px; color: var(--text); }
+  .doc-body ul { list-style: none; margin: 14px 0 18px; padding-left: 0; }
+  .doc-body ul li { font-size: 15px; line-height: 1.65; color: var(--text-muted); padding: 6px 0 6px 24px; position: relative; }
+  .doc-body ul li::before { content: '→'; position: absolute; left: 0; color: var(--accent); }
+  .doc-body ul li strong { color: var(--text); font-weight: 500; }
+  .doc-body a.inline { color: var(--accent); border-bottom: 1px dotted var(--accent); transition: opacity 0.2s; }
+  .doc-body a.inline:hover { opacity: 0.7; }
+
+  /* ALL CAPS legal blocks */
+  .legal-caps {
+    margin-top: 20px;
+    padding: 20px 24px;
+    background: var(--bg-2);
+    border: 1px solid var(--border-strong);
+    border-radius: 4px;
+    font-family: var(--sans);
+    font-size: 13px;
+    line-height: 1.7;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+  }
+  .legal-caps strong { color: var(--text); }
+
+  /* CONTACT */
+  .contact-block { margin-top: 32px; padding: 24px; background: var(--bg-2); border: 1px solid var(--border); border-left: 2px solid var(--accent); border-radius: 6px; }
+  .contact-block .c-lbl { font-family: var(--mono); font-size: 10px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); margin-bottom: 10px; }
+  .contact-block .c-row { font-family: var(--mono); font-size: 13px; color: var(--text); padding: 4px 0; }
+  .contact-block .c-row .l { color: var(--text-dim); display: inline-block; width: 90px; }
+
+  footer { padding: 80px 0 48px; border-top: 1px solid var(--border); font-family: var(--mono); font-size: 12px; letter-spacing: 0.08em; color: var(--text-dim); background: var(--bg-2); }
+  .foot-row { display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; text-transform: uppercase; }
+  .foot-row a { color: var(--text-muted); transition: color 0.2s; }
+  .foot-row a:hover { color: var(--text); }
+  .foot-row .fl { display: flex; gap: 20px; flex-wrap: wrap; }
+</style>
+</head>
+<body>
+
+<nav class="nav">
+  <a href="/" class="nav-brand">
+    <span class="lt-mark">LT</span>
+    <span>Local<span class="tour">Tour</span></span>
+  </a>
+  <div class="nav-links">
+    <a href="/platform/explore.html">Cities</a>
+    <a href="/platform/concierge.html">Concierge</a>
+    <a href="/platform/planner.html">Planner</a>
+    <a href="/platform/community.html">Wall</a>
+  </div>
+  <a href="/platform/explore.html" class="nav-cta">Explore</a>
+</nav>
+
+<main>
+
+  <section class="hero">
+    <div class="container">
+      <div class="eyebrow">Company · Legal</div>
+      <h1>Terms of <em>Service</em>.</h1>
+      <p class="hero-lede">
+        These are the rules of the road for using LocalTour. Read them. By using the platform, you agree to them. Fair warning: there are some all-caps disclaimer sections because that's what the law wants.
+      </p>
+      <div class="hero-meta">
+        <div><span class="v">Version 1.0</span></div>
+        <div>Effective · <span class="v">April 17, 2026</span></div>
+        <div>Last updated · <span class="v">April 17, 2026</span></div>
+        <div>Governing law · <span class="v">Nevada, USA</span></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="doc">
+    <div class="container">
+      <div class="doc-grid">
+
+        <aside class="toc">
+          <div class="toc-lbl">On this page</div>
+          <ol>
+            <li><a href="#accept">Acceptance</a></li>
+            <li><a href="#eligibility">Eligibility</a></li>
+            <li><a href="#access">Accessing the service</a></li>
+            <li><a href="#content">User content</a></li>
+            <li><a href="#prohibited">Prohibited use</a></li>
+            <li><a href="#ip">Intellectual property</a></li>
+            <li><a href="#ai">AI concierge disclaimer</a></li>
+            <li><a href="#affiliate">Affiliate disclosures</a></li>
+            <li><a href="#third-party">Third-party services</a></li>
+            <li><a href="#disclaimer">Disclaimers</a></li>
+            <li><a href="#liability">Limitation of liability</a></li>
+            <li><a href="#indemnity">Indemnification</a></li>
+            <li><a href="#termination">Termination</a></li>
+            <li><a href="#law">Governing law</a></li>
+            <li><a href="#disputes">Dispute resolution</a></li>
+            <li><a href="#changes">Changes</a></li>
+            <li><a href="#misc">Miscellaneous</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ol>
+        </aside>
+
+        <div class="doc-body">
+
+          <section id="accept">
+            <span class="s-num">Section 01</span>
+            <h2><em>Acceptance</em> of these terms.</h2>
+            <p>These Terms of Service ("Terms") govern your use of the LocalTour platform at localtour.us, its city sub-sites, and any associated applications (collectively, the <strong>"Service"</strong>). The Service is operated by SH@W Labs ("we," "us," "our").</p>
+            <p>By accessing or using the Service, you agree to be bound by these Terms and our <a href="/company/privacy.html" class="inline">Privacy Policy</a>. If you do not agree, do not use the Service.</p>
+          </section>
+
+          <section id="eligibility">
+            <span class="s-num">Section 02</span>
+            <h2><em>Eligibility</em>.</h2>
+            <p>You must be at least <strong>13 years old</strong> to use the Service, and at least <strong>18 years old</strong> to post on the Community Wall, redeem coupons, or enter into any partner or affiliate relationship with us. If you are between 13 and 18, you may only use the Service with the consent and supervision of a parent or legal guardian.</p>
+            <p>You represent that you have the right and authority to agree to these Terms on your own behalf or on behalf of any organization you represent.</p>
+          </section>
+
+          <section id="access">
+            <span class="s-num">Section 03</span>
+            <h2>Accessing the <em>Service</em>.</h2>
+            <p>Most of LocalTour is available without registration. Certain features (posting to the Community Wall, redeeming exclusive coupons, partner portals) may require identity verification or a light account. You are responsible for maintaining the security of any credentials you receive and for all activity under them.</p>
+            <p>We may modify, suspend, or discontinue any part of the Service at any time, with or without notice. We will make reasonable efforts to communicate material changes in advance.</p>
+          </section>
+
+          <section id="content">
+            <span class="s-num">Section 04</span>
+            <h2>User <em>content</em>.</h2>
+            <p>"User Content" means anything you post, upload, submit, or otherwise make available through the Service — including Community Wall posts, images, coupon codes submitted by merchants, partner submissions, and messages to the AI Concierge.</p>
+            <h3>Ownership</h3>
+            <p>You retain all ownership rights in your User Content.</p>
+            <h3>License you grant us</h3>
+            <p>By submitting User Content, you grant SH@W Labs a <strong>worldwide, non-exclusive, royalty-free, sublicensable, perpetual, and irrevocable license</strong> to use, reproduce, modify, adapt, publish, distribute, display, and create derivative works of that User Content, in any media now known or later developed, for the purpose of operating, promoting, and improving the Service.</p>
+            <h3>Your representations</h3>
+            <ul>
+              <li>You own or have obtained all rights necessary to submit the content</li>
+              <li>The content does not violate any law or third-party right</li>
+              <li>The content is accurate and not misleading</li>
+              <li>You are at least 18 years old if posting to the Community Wall</li>
+            </ul>
+            <h3>Removal</h3>
+            <p>You can remove your own User Content at any time. We may also remove User Content at our sole discretion if we believe it violates these Terms, applicable law, or is otherwise harmful. We are not obligated to retain or back up your content.</p>
+          </section>
+
+          <section id="prohibited">
+            <span class="s-num">Section 05</span>
+            <h2>Prohibited <em>use</em>.</h2>
+            <p>You agree not to:</p>
+            <ul>
+              <li>Use the Service for any unlawful purpose or in violation of any regulation</li>
+              <li>Post content that is defamatory, harassing, obscene, hateful, or threatening</li>
+              <li>Impersonate any person or entity, or misrepresent your affiliation</li>
+              <li>Submit spam, bulk promotional content, or engagement manipulation</li>
+              <li>Attempt to reverse engineer, scrape at volume, or circumvent the Service's protections</li>
+              <li>Use automated systems (bots, crawlers) without our written permission</li>
+              <li>Interfere with or disrupt the integrity or performance of the Service</li>
+              <li>Use the AI Concierge to generate illegal, harmful, or infringing content</li>
+              <li>Resell or sublicense access to the Service without a partner agreement</li>
+              <li>Violate the intellectual property rights of us or others</li>
+            </ul>
+            <p>Violation of these rules may result in immediate termination of your access and, in serious cases, referral to law enforcement.</p>
+          </section>
+
+          <section id="ip">
+            <span class="s-num">Section 06</span>
+            <h2>Intellectual <em>property</em>.</h2>
+            <p>The Service, including all software, design, concierge personas, business graph data, editorial content, the "LocalTour" name and logo, the "SH@W Labs" name and logo, and all other materials are owned by SH@W Labs or its licensors and are protected by copyright, trademark, and other intellectual property laws.</p>
+            <p>We grant you a limited, non-exclusive, non-transferable, revocable license to access and use the Service for personal, non-commercial purposes. Any other use requires our prior written permission.</p>
+            <p>If you believe your intellectual property has been infringed on the Service, send a DMCA-style notice to <a href="mailto:legal@shaw-labs.com" class="inline">legal@shaw-labs.com</a>.</p>
+          </section>
+
+          <section id="ai">
+            <span class="s-num">Section 07</span>
+            <h2>AI Concierge &amp; <em>output disclaimer</em>.</h2>
+            <p>The AI Concierge, Trip Planner, and any other AI-generated output on the Service produce recommendations and information algorithmically. These outputs:</p>
+            <ul>
+              <li>Are generated from a curated business graph and a node-tree persona</li>
+              <li>May contain inaccuracies, out-of-date information, or omissions</li>
+              <li>Are <strong>not</strong> professional advice of any kind (legal, medical, financial, travel safety, etc.)</li>
+              <li>Should not be relied upon for decisions with significant safety, legal, or financial consequences</li>
+            </ul>
+            <p>Always verify critical details (hours, prices, reservations, legal requirements, safety conditions) directly with the merchant or an authoritative source before acting on a concierge recommendation.</p>
+          </section>
+
+          <section id="affiliate">
+            <span class="s-num">Section 08</span>
+            <h2>Affiliate <em>disclosures</em>.</h2>
+            <p>LocalTour may earn commissions from certain merchant relationships, coupon redemptions, and bookings. We disclose material affiliate relationships consistent with FTC guidance. Affiliate status does not override recommendation quality — the concierge is designed to surface the best answer first.</p>
+            <p>If you arrive from a creator's affiliate link, that creator may earn a commission on any resulting qualifying conversion. See our <a href="/company/privacy.html#affiliate" class="inline">Privacy Policy</a> for how we track this.</p>
+          </section>
+
+          <section id="third-party">
+            <span class="s-num">Section 09</span>
+            <h2>Third-party <em>services</em>.</h2>
+            <p>The Service may contain links to or integrations with third-party websites, merchants, or services. We do not endorse and are not responsible for the content, privacy practices, or business conduct of any third party. Your interactions with third parties are governed by their own terms and policies.</p>
+          </section>
+
+          <section id="disclaimer">
+            <span class="s-num">Section 10</span>
+            <h2>Service <em>disclaimers</em>.</h2>
+            <div class="legal-caps">
+              The service is provided <strong>"as is" and "as available"</strong> without warranties of any kind, express or implied. SH@W Labs disclaims all warranties including merchantability, fitness for a particular purpose, non-infringement, and any warranty arising from course of dealing or usage of trade. We do not warrant that the service will be uninterrupted, error-free, or free of harmful components, or that the concierge output will be accurate or reliable.
+            </div>
+          </section>
+
+          <section id="liability">
+            <span class="s-num">Section 11</span>
+            <h2>Limitation of <em>liability</em>.</h2>
+            <div class="legal-caps">
+              To the maximum extent permitted by law, SH@W Labs and its affiliates, officers, employees, and agents shall not be liable for any indirect, incidental, special, consequential, or punitive damages, or any loss of profits, revenue, data, or goodwill, arising out of or related to your use of the service. Our total aggregate liability for any claim arising out of or related to these terms or the service shall not exceed the greater of (a) <strong>one hundred U.S. dollars ($100)</strong> or (b) the amounts you have paid us in the twelve (12) months preceding the claim.
+            </div>
+            <p style="margin-top: 16px;">Some jurisdictions do not allow the exclusion or limitation of certain damages, so some of the above may not apply to you.</p>
+          </section>
+
+          <section id="indemnity">
+            <span class="s-num">Section 12</span>
+            <h2><em>Indemnification</em>.</h2>
+            <p>You agree to indemnify, defend, and hold harmless SH@W Labs and its affiliates from and against any claims, damages, liabilities, costs, and expenses (including reasonable attorneys' fees) arising from: (a) your use of the Service; (b) your User Content; (c) your violation of these Terms; or (d) your violation of any law or third-party right.</p>
+          </section>
+
+          <section id="termination">
+            <span class="s-num">Section 13</span>
+            <h2><em>Termination</em>.</h2>
+            <p>We may suspend or terminate your access to the Service at any time, with or without cause or notice. You may stop using the Service at any time. Sections that by their nature should survive termination (IP, disclaimers, liability limits, indemnification, governing law, dispute resolution) will survive.</p>
+          </section>
+
+          <section id="law">
+            <span class="s-num">Section 14</span>
+            <h2>Governing <em>law</em>.</h2>
+            <p>These Terms are governed by the laws of the <strong>State of Nevada, USA</strong>, without regard to its conflict-of-laws rules. The exclusive venue for any dispute that is not subject to arbitration is the state and federal courts located in <strong>Clark County, Nevada</strong>, and you consent to personal jurisdiction there.</p>
+          </section>
+
+          <section id="disputes">
+            <span class="s-num">Section 15</span>
+            <h2>Dispute <em>resolution</em>.</h2>
+            <p>Before filing a formal claim, you agree to first contact us at <a href="mailto:legal@shaw-labs.com" class="inline">legal@shaw-labs.com</a> and attempt to resolve the dispute informally for at least 30 days.</p>
+            <p>If the dispute is not resolved informally, any controversy or claim arising out of or relating to these Terms or the Service shall be settled by binding arbitration administered by a recognized arbitration provider (such as the American Arbitration Association) in Clark County, Nevada, under its commercial rules. Judgment on the arbitrator's award may be entered in any court of competent jurisdiction.</p>
+            <div class="legal-caps" style="margin-top: 16px;">
+              <strong>Class action waiver.</strong> You and SH@W Labs agree that any dispute will be resolved on an individual basis, not as part of any class, collective, or representative action. Neither you nor SH@W Labs shall be entitled to consolidate claims with those of other users.
+            </div>
+            <p style="margin-top: 16px;">Notwithstanding the above, either party may seek injunctive or equitable relief in court for intellectual property infringement or misuse of the Service.</p>
+          </section>
+
+          <section id="changes">
+            <span class="s-num">Section 16</span>
+            <h2>Changes to these <em>Terms</em>.</h2>
+            <p>We may update these Terms from time to time. When we make material changes, we'll update the "Last updated" date and, where appropriate, notify subscribers by email. Continued use of the Service after changes constitutes acceptance of the updated Terms. If you do not agree to the updated Terms, stop using the Service.</p>
+          </section>
+
+          <section id="misc">
+            <span class="s-num">Section 17</span>
+            <h2><em>Miscellaneous</em>.</h2>
+            <h3>Severability</h3>
+            <p>If any provision of these Terms is found unenforceable, the remaining provisions remain in full effect.</p>
+            <h3>Entire agreement</h3>
+            <p>These Terms, together with the Privacy Policy and any partner agreements, constitute the entire agreement between you and SH@W Labs regarding the Service.</p>
+            <h3>No waiver</h3>
+            <p>Our failure to enforce any provision is not a waiver of our right to do so later.</p>
+            <h3>Assignment</h3>
+            <p>You may not assign your rights under these Terms without our prior written consent. We may assign freely, including to an affiliate or successor entity.</p>
+            <h3>Force majeure</h3>
+            <p>Neither party is liable for delays or failures caused by events beyond reasonable control (natural disasters, infrastructure outages, acts of war, government action, labor disputes, pandemics).</p>
+          </section>
+
+          <section id="contact">
+            <span class="s-num">Section 18</span>
+            <h2><em>Contact</em>.</h2>
+            <p>Legal notices, DMCA notices, and questions about these Terms can be sent to:</p>
+            <div class="contact-block">
+              <div class="c-lbl">Legal Contact</div>
+              <div class="c-row"><span class="l">Entity</span>SH@W Labs</div>
+              <div class="c-row"><span class="l">Product</span>LocalTour</div>
+              <div class="c-row"><span class="l">Legal</span>legal@shaw-labs.com</div>
+              <div class="c-row"><span class="l">General</span>localtour@shaw-labs.com</div>
+              <div class="c-row"><span class="l">Venue</span>Clark County, NV</div>
+            </div>
+            <p style="margin-top:32px;">See also our <a href="/company/privacy.html" class="inline">Privacy Policy</a>.</p>
+          </section>
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <div>© 2026 LocalTour · SH@W Labs</div>
+      <div class="fl">
+        <a href="/company/privacy.html">Privacy</a>
+        <a href="/company/terms.html">Terms</a>
+        <a href="mailto:localtour@shaw-labs.com">Contact</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>

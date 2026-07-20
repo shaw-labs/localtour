@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no,viewport-fit=cover"/>
+<title>LocalTour — Las Vegas · the SlotGenie portal</title>
+<meta name="description" content="Vegas is served by SlotGenie, a SH@W Labs property. Step through the portal."/>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23dc2626'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='16' font-weight='800' fill='white'>LT</text></svg>"/>
+
+<!-- Pre-warm SlotGenie: the browser opens connections + prefetches DNS while the
+     portal is on screen, so the handoff after the fall is instant. -->
+<link rel="preconnect" href="https://slotgenie.bet" crossorigin/>
+<link rel="dns-prefetch" href="https://slotgenie.bet"/>
+<link rel="preload" as="image" href="/cities/las-vegas/images/hero-strip-night.jpg" fetchpriority="high"/>
+
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&family=DM+Sans:wght@400;500;600;700&family=Cormorant+Garamond:ital,wght@1,400;1,500&display=swap" rel="stylesheet"/>
+
+<meta name="theme-color" content="#07000f"/>
+
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent}
+html,body{height:100%;width:100%;overflow:hidden;background:#faf8f4}
+body{font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;perspective:1400px;perspective-origin:50% 30%}
+
+/* ─── The portal shell. Honest: this is a deliberate doorway to SlotGenie,
+       framed as the sister property — NOT a fake city pretending to load.
+       On "Step through" it becomes the floor that gives way. ─── */
+.lt-shell{
+  position:fixed;inset:0;background:#faf8f4;color:#0c1b2a;
+  display:flex;flex-direction:column;
+  transform-origin:50% 30%;
+  transform-style:preserve-3d;
+  will-change:transform,opacity,filter;
+  z-index:10;
+}
+.lt-nav{
+  display:flex;justify-content:space-between;align-items:center;
+  padding:18px clamp(20px,5vw,40px);
+  border-bottom:1px solid rgba(12,27,42,0.06);
+  background:rgba(250,248,244,0.85);backdrop-filter:blur(10px);
+}
+.lt-brand{display:flex;align-items:center;gap:10px}
+.lt-logo{
+  width:28px;height:28px;border-radius:7px;background:#dc2626;
+  color:#fff;font-family:'Playfair Display',serif;font-weight:800;font-size:13px;
+  display:flex;align-items:center;justify-content:center;
+}
+.lt-brand-name{font-family:'Playfair Display',serif;font-weight:700;font-size:18px;color:#0c1b2a}
+.lt-back-top{font-family:'DM Sans',sans-serif;font-size:13px;font-weight:500;color:rgba(12,27,42,0.5);text-decoration:none}
+.lt-back-top:hover{color:#dc2626}
+
+.lt-hero{
+  flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;
+  padding:0 clamp(20px,5vw,40px);text-align:center;
+}
+.lt-eyebrow{
+  font-family:'DM Sans',sans-serif;font-size:12px;font-weight:700;
+  color:#dc2626;letter-spacing:0.18em;text-transform:uppercase;
+  opacity:0;animation:fadeIn .4s ease-out 0.08s forwards;
+}
+.lt-title{
+  font-family:'Playfair Display',serif;font-weight:700;font-size:clamp(40px,9vw,84px);
+  color:#0c1b2a;line-height:1.05;margin:14px 0 18px;letter-spacing:-0.02em;
+  opacity:0;animation:riseIn .5s cubic-bezier(.2,.7,.2,1) 0.16s forwards;
+}
+.lt-sub{
+  font-family:'DM Sans',sans-serif;font-size:15px;color:rgba(12,27,42,0.6);
+  max-width:520px;line-height:1.6;
+  opacity:0;animation:fadeIn .45s ease-out 0.42s forwards;
+}
+.lt-sub strong{color:#0c1b2a;font-weight:600}
+.lt-enter{
+  margin-top:32px;
+  font-family:'DM Sans',sans-serif;font-size:15px;font-weight:600;
+  color:#fff;background:#0c1b2a;border:none;border-radius:999px;
+  padding:16px 30px;cursor:pointer;display:inline-flex;align-items:center;gap:10px;
+  box-shadow:0 8px 30px -10px rgba(12,27,42,0.5);
+  opacity:0;animation:riseIn .5s cubic-bezier(.2,.7,.2,1) 0.6s forwards;
+  transition:transform .18s ease, box-shadow .18s ease, background .18s ease;
+}
+.lt-enter:hover{transform:translateY(-2px);background:#dc2626;box-shadow:0 12px 34px -10px rgba(220,38,38,0.55)}
+.lt-enter:focus-visible{outline:2px solid #dc2626;outline-offset:3px}
+.lt-enter .arr{transition:transform .18s ease}
+.lt-enter:hover .arr{transform:translateX(4px)}
+.lt-not{
+  margin-top:16px;font-family:'DM Sans',sans-serif;font-size:12.5px;
+  color:rgba(12,27,42,0.42);text-decoration:none;
+  opacity:0;animation:fadeIn .4s ease-out 0.85s forwards;
+}
+.lt-not:hover{color:rgba(12,27,42,0.7);text-decoration:underline}
+
+@keyframes fadeIn{to{opacity:1}}
+@keyframes riseIn{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:translateY(0)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+
+/* ─── The fall. Triggered when the traveler CHOOSES to step through.
+       The shell tilts forward, scales down, translates down, motion-blurs.
+       Aggressive ease-in — slow at first, like the floor *just* gave way,
+       then accelerates into freefall. (Cinema preserved from the original.) ─── */
+body.falling{cursor:none}
+body.falling .lt-shell{
+  animation:fall 1.8s cubic-bezier(0.55, 0, 0.95, 0.25) forwards;
+}
+@keyframes fall{
+  0%   { transform: rotateX(0)   scale(1)   translateY(0);    opacity:1; filter:blur(0) brightness(1) }
+  18%  { transform: rotateX(2deg) scale(.985) translateY(20px); opacity:1; filter:blur(0) brightness(1) }
+  45%  { transform: rotateX(12deg) scale(.85) translateY(180px); opacity:.92; filter:blur(2px) brightness(.85) }
+  75%  { transform: rotateX(28deg) scale(.45) translateY(620px); opacity:.55; filter:blur(8px) brightness(.5) }
+  100% { transform: rotateX(40deg) scale(.05) translateY(1400px); opacity:0;  filter:blur(20px) brightness(.2) }
+}
+
+/* ─── The descent. Behind the falling shell, the Strip rushes up: a neon
+       gradient, then a crossfade into the dimmed strip-at-night photo, so the
+       handoff to slotgenie.bet lands on a matching dark frame. ─── */
+.descent{ position:fixed;inset:0;z-index:1;background:#07000f;opacity:0;pointer-events:none; }
+body.falling .descent{ animation:descentRise 1.8s cubic-bezier(0.4, 0, 0.6, 1) forwards; }
+@keyframes descentRise{ 0%{opacity:0} 20%{opacity:0.3} 60%{opacity:0.85} 100%{opacity:1} }
+
+.descent-neon{
+  position:absolute;inset:0;
+  background:
+    radial-gradient(ellipse 60% 40% at 50% 90%, rgba(220,38,38,0.55) 0%, transparent 55%),
+    radial-gradient(ellipse 80% 50% at 30% 100%, rgba(212,175,55,0.4) 0%, transparent 50%),
+    radial-gradient(ellipse 80% 50% at 70% 100%, rgba(168,85,247,0.35) 0%, transparent 50%),
+    radial-gradient(ellipse 100% 60% at 50% 110%, rgba(56,189,248,0.18) 0%, transparent 45%),
+    linear-gradient(180deg, #07000f 0%, #0a0218 60%, #1a0530 100%);
+}
+body.falling .descent-neon{ animation:neonZoom 1.8s cubic-bezier(0.4, 0, 0.6, 1) forwards; }
+@keyframes neonZoom{ 0%{transform:scale(1) translateY(0);filter:brightness(0.4)} 100%{transform:scale(1.8) translateY(-120px);filter:brightness(1.2)} }
+
+.descent-photo{
+  position:absolute;inset:0;
+  background-image:url("/cities/las-vegas/images/hero-strip-night.jpg");
+  background-size:cover;background-position:center;
+  filter:brightness(0) saturate(0.8);opacity:0;
+}
+body.falling .descent-photo{ animation:photoLand 1.8s ease-out forwards; }
+@keyframes photoLand{
+  0%{opacity:0;filter:brightness(0) saturate(0.8)}
+  60%{opacity:0;filter:brightness(0) saturate(0.8)}
+  88%{opacity:0.9;filter:brightness(0.14) saturate(0.85)}
+  100%{opacity:1;filter:brightness(0.18) saturate(0.85)}
+}
+
+.whisper{
+  position:absolute;left:50%;top:46%;transform:translate(-50%,-50%);z-index:3;
+  font-family:'Cormorant Garamond',Georgia,serif;font-style:italic;font-weight:400;
+  color:rgba(245,240,230,0.92);font-size:clamp(20px,5.5vw,32px);
+  line-height:1.3;letter-spacing:0.01em;text-align:center;white-space:nowrap;
+  text-shadow:0 0 24px rgba(0,0,0,0.6), 0 0 60px rgba(212,175,55,0.18);
+  opacity:0;pointer-events:none;filter:blur(8px);
+}
+body.falling .whisper{ animation:whisperRise 1.8s cubic-bezier(0.25, 0.1, 0.25, 1) forwards; }
+@keyframes whisperRise{
+  0%,22%{opacity:0;transform:translate(-50%,-30%) scale(0.96);filter:blur(10px)}
+  38%{opacity:1;transform:translate(-50%,-50%) scale(1);filter:blur(0)}
+  64%{opacity:1;transform:translate(-50%,-58%) scale(1.02);filter:blur(0)}
+  82%,100%{opacity:0;transform:translate(-50%,-70%) scale(1.06);filter:blur(6px)}
+}
+
+.lamp{
+  position:absolute;left:50%;top:42%;transform:translate(-50%,-50%) scale(0.3);
+  font-size:48px;opacity:0;z-index:2;filter:drop-shadow(0 0 30px rgba(212,175,55,0.6));pointer-events:none;
+}
+body.falling .lamp{ animation:lampRise 1.8s cubic-bezier(0.16, 1, 0.3, 1) forwards }
+@keyframes lampRise{ 0%,82%{opacity:0;transform:translate(-50%,40px) scale(0.3)} 100%{opacity:1;transform:translate(-50%,-50%) scale(1)} }
+
+.prewarm{position:fixed;left:-9999px;top:-9999px;width:1px;height:1px;border:0;opacity:0;pointer-events:none}
+
+/* Reduced motion: no fall — the shell fades and the handoff is a plain nav. */
+@media (prefers-reduced-motion: reduce){
+  .lt-eyebrow,.lt-title,.lt-sub,.lt-enter,.lt-not{animation:none;opacity:1}
+  body.falling .lt-shell, body.falling .descent, body.falling .descent-neon,
+  body.falling .descent-photo, body.falling .whisper, body.falling .lamp{ animation:none !important }
+  body.falling .lt-shell{ opacity:0; transition:opacity .25s ease-out }
+  body.falling .descent{ opacity:1; transition:opacity .25s ease-out }
+}
+</style>
+</head>
+<body>
+
+<!-- the descent layer (behind the shell; rises during the fall) -->
+<div class="descent" aria-hidden="true">
+  <div class="descent-neon"></div>
+  <div class="descent-photo"></div>
+  <div class="whisper">what happens here, stays here<span aria-hidden="true">…</span></div>
+  <div class="lamp">🧞</div>
+</div>
+
+<!-- the honest portal shell -->
+<div class="lt-shell" id="ltShell">
+  <nav class="lt-nav">
+    <div class="lt-brand">
+      <div class="lt-logo">LT</div>
+      <div class="lt-brand-name">LocalTour</div>
+    </div>
+    <a class="lt-back-top" href="/">&larr; All cities</a>
+  </nav>
+  <div class="lt-hero">
+    <span class="lt-eyebrow">The Vegas portal · 21+</span>
+    <h1 class="lt-title">Las Vegas</h1>
+    <p class="lt-sub">Vegas plays by different rules &mdash; so we don&rsquo;t run it as a LocalTour city.
+      It&rsquo;s served by <strong>SlotGenie</strong>, our sister house in the SH@W&nbsp;Labs family.
+      Step through when you&rsquo;re ready.</p>
+    <button class="lt-enter" id="enter" type="button" aria-label="Step through to SlotGenie">
+      Step through to SlotGenie <span class="arr" aria-hidden="true">&rarr;</span>
+    </button>
+    <a class="lt-not" href="/">Not tonight &mdash; back to LocalTour</a>
+  </div>
+</div>
+
+<!-- (prewarm iframe removed: slotgenie.bet sends X-Frame-Options: sameorigin, so it never loaded; the preconnect above still warms the connection) -->
+
+<script>
+(function(){
+  // WS6 — the Vegas portal. Restores the original "drop the screen away" cinema,
+  // but the handoff is CHOSEN (tap Step through), HONEST (framed as the SlotGenie
+  // sister property, no fake "#9 city"), and TRACKED (UTM + portal_slotgenie_click
+  // beacon). Founder input: confirm the canonical DEST + UTM scheme.
+  var DEST    = 'https://slotgenie.bet/?utm_source=localtour&utm_medium=portal&utm_campaign=vegas_portal';
+  var FALL_MS = 1800;
+  var REDUCED = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var going   = false;
+
+  // fire the chosen-tap beacon (respects DNT/GPC; anonymous session id)
+  function fireBeacon(){
+    try {
+      var nav = navigator;
+      var dnt = nav.doNotTrack === '1' || nav.msDoNotTrack === '1' ||
+                (typeof window.doNotTrack !== 'undefined' && window.doNotTrack === '1') ||
+                nav.globalPrivacyControl === true;
+      if (dnt) return;
+      var sid = null;
+      try { sid = sessionStorage.getItem('lt_sid'); } catch(e){}
+      if (!sid) {
+        sid = (window.crypto && crypto.randomUUID) ? crypto.randomUUID()
+            : ('p' + Math.random().toString(36).slice(2) + Date.now().toString(36));
+        try { sessionStorage.setItem('lt_sid', sid); } catch(e){}
+      }
+      var body = JSON.stringify({ v:1, event:'portal_slotgenie_click', city:'las-vegas', ts:Date.now(), sid:sid });
+      if (nav.sendBeacon) nav.sendBeacon('/api/beacon', new Blob([body], {type:'application/json'}));
+      else fetch('/api/beacon', {method:'POST', body:body, keepalive:true, headers:{'content-type':'application/json'}}).catch(function(){});
+    } catch(e){}
+  }
+
+  // descending whoosh + a soft thud at impact. User-initiated, so autoplay is fine.
+  function playFallAudio(){
+    if (REDUCED) return;
+    try {
+      var Ctx = window.AudioContext || window.webkitAudioContext; if (!Ctx) return;
+      var ctx = new Ctx(), t0 = ctx.currentTime;
+      var bufLen = Math.floor(ctx.sampleRate * 1.6);
+      var buf = ctx.createBuffer(1, bufLen, ctx.sampleRate), data = buf.getChannelData(0);
+      for (var i=0;i<bufLen;i++) data[i] = (Math.random()*2-1)*0.6;
+      var noise = ctx.createBufferSource(); noise.buffer = buf;
+      var lp = ctx.createBiquadFilter(); lp.type='lowpass';
+      lp.frequency.setValueAtTime(1800,t0); lp.frequency.exponentialRampToValueAtTime(120,t0+1.5); lp.Q.setValueAtTime(8,t0);
+      var g = ctx.createGain();
+      g.gain.setValueAtTime(0,t0); g.gain.linearRampToValueAtTime(0.18,t0+0.25);
+      g.gain.linearRampToValueAtTime(0.32,t0+1.2); g.gain.exponentialRampToValueAtTime(0.0001,t0+1.7);
+      noise.connect(lp); lp.connect(g); g.connect(ctx.destination); noise.start(t0); noise.stop(t0+1.7);
+      var thud = ctx.createOscillator(); thud.type='sine';
+      thud.frequency.setValueAtTime(110,t0+1.55); thud.frequency.exponentialRampToValueAtTime(35,t0+1.85);
+      var tg = ctx.createGain(); tg.gain.setValueAtTime(0,t0+1.55);
+      tg.gain.linearRampToValueAtTime(0.45,t0+1.62); tg.gain.exponentialRampToValueAtTime(0.0001,t0+1.9);
+      thud.connect(tg); tg.connect(ctx.destination); thud.start(t0+1.55); thud.stop(t0+1.95);
+    } catch(e){}
+  }
+
+  function stepThrough(){
+    if (going) return; going = true;
+    fireBeacon();
+    document.body.classList.add('falling');
+    playFallAudio();
+    // navigate at the bottom of the fall; -40ms bias hides any flash on the seam
+    setTimeout(function(){ window.location.href = DEST; }, REDUCED ? 250 : FALL_MS - 40);
+  }
+
+  document.getElementById('enter').addEventListener('click', stepThrough);
+})();
+</script>
+
+</body>
+</html>

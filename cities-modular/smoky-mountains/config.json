@@ -1,0 +1,300 @@
+{
+  "slug": "smoky-mountains",
+  "name": "Smoky Mountains",
+  "state": "Tennessee",
+  "region": "Southern Appalachia",
+  "tagline": "Where the Mountains Do the Talking",
+  "description": "The Smoky Mountains corridor—anchored by Gatlinburg, Pigeon Forge, and Knoxville—is America's most visited national park gateway fused with Dolly Parton's entertainment empire and an increasingly cool college-town food scene. Twelve million people a year come for the mountains and stay for the moonshine, pancake houses, and roller coasters.",
+  "coordinates": {
+    "lat": 35.69,
+    "lng": -83.53
+  },
+  "timezone": "America/New_York",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Family-vacation Appalachia meets honky-tonk mountain town — think Disney energy wrapped in moonshine jars and fall foliage.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "theme-parks",
+      "title": "Theme Parks & Attractions",
+      "icon": "🎢",
+      "description": "Dollywood, dinner shows, and the Gatlinburg attraction strip are the trip anchor for 70%+ of visitors."
+    },
+    {
+      "id": "national-park",
+      "title": "Great Smoky Mountains National Park",
+      "icon": "🏔️",
+      "description": "Free entry, 850+ miles of trails, waterfalls, wildlife, and Cades Cove — the outdoor backbone of every trip."
+    },
+    {
+      "id": "moonshine-trail",
+      "title": "Moonshine & Distillery Trail",
+      "icon": "🥃",
+      "description": "Free tastings, live music, and 100-year-old recipes — the moonshine trail is the adult version of the attraction strip."
+    },
+    {
+      "id": "cabins",
+      "title": "Cabin Rentals",
+      "icon": "🏡",
+      "description": "Hot tubs, mountain views, game rooms — the cabin IS the vacation for many visitors."
+    },
+    {
+      "id": "nightlife",
+      "title": "Moonshine & Music",
+      "icon": "🎵",
+      "description": "Distilleries, honky-tonks, live shows"
+    },
+    {
+      "id": "nightlife",
+      "title": "Moonshine & Music",
+      "icon": "🎵",
+      "description": "Distilleries, honky-tonks, live shows"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "family",
+      "label": "Family Fun",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Theme parks, dinner shows, aquariums, easy hikes, and pancake houses — the Smokies were built for families.",
+      "tags": [
+        "amusement",
+        "theaters",
+        "museums",
+        "breakfast",
+        "casual",
+        "parks",
+        "hiking"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Mountain Adventure",
+      "icon": "🥾",
+      "description": "850+ miles of trails, waterfalls, and wildlife in America's most visited national park.",
+      "tags": [
+        "hiking",
+        "parks",
+        "tours",
+        "water_sports",
+        "landmarks"
+      ]
+    },
+    {
+      "id": "foodie",
+      "label": "Foodie Trail",
+      "icon": "🍽️",
+      "description": "From James Beard-winning Knoxville kitchens to heritage pancake houses and creekside steakhouses.",
+      "tags": [
+        "fine_dining",
+        "casual",
+        "gastropub",
+        "breakfast",
+        "brunch",
+        "bbq",
+        "seafood"
+      ]
+    },
+    {
+      "id": "moonshine",
+      "label": "Moonshine & Spirits",
+      "icon": "🥃",
+      "description": "Distilleries, wine trails, craft breweries, and 100-year-old recipes across three towns.",
+      "tags": [
+        "distilleries",
+        "breweries",
+        "wine_bars",
+        "cocktail_bars"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Couples Escape",
+      "icon": "💕",
+      "description": "Cabin hot tubs, speakeasy cocktails, mountaintop sunsets, and fondue date nights.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "spas",
+        "boutique_hotels",
+        "landmarks"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "After Dark",
+      "icon": "🌙",
+      "description": "Rooftop bars, live music stages, speakeasies, and the Parkway lit up after dark.",
+      "tags": [
+        "live_music_venues",
+        "cocktail_bars",
+        "dive_bars",
+        "breweries",
+        "clubs"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Arts & Heritage",
+      "icon": "🎭",
+      "description": "Appalachian artisan communities, historic theaters, bluegrass music, and mountain craftsmanship.",
+      "tags": [
+        "museums",
+        "galleries",
+        "theaters",
+        "historic_sites",
+        "markets",
+        "specialty"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Just Vibin'",
+      "icon": "☕",
+      "description": "Slow mornings, scenic drives, wine tastings, foot soaks, and cabin time.",
+      "tags": [
+        "coffee",
+        "wine_bars",
+        "spas",
+        "parks",
+        "boutiques"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "You need a car. Period. The Parkway (US-441) is the main artery connecting Sevierville → Pigeon Forge → Gatlinburg, and it gets brutally congested in peak season. Gatlinburg has a free trolley system that covers the downtown strip and some outlying areas. Pigeon Forge has a trolley too ($1 per ride). Uber/Lyft exist but supply is thin outside Knoxville. Knoxville itself is reasonably walkable downtown (Market Square / Old City / Gay Street corridor).",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "Nashville to Gatlinburg: 225 miles via I-40 E, ~3.5 hours. Atlanta to Gatlinburg: 200 miles via I-75 N, ~3.5 hours. Charlotte to Gatlinburg: 260 miles via I-40 W, ~4 hours."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": null
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "McGhee Tyson Airport (TYS) in Knoxville — 45 min to Pigeon Forge, 1 hr to Gatlinburg. Allegiant, American, Delta, United, Frontier all fly in. No direct rail."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Townsend - The Quiet Side of the Smokies",
+      "distance": "35 min from Gatlinburg / 45 min from Knoxville",
+      "pitch": "The anti-Gatlinburg. No strip, no neon, just a sleepy mountain town at the western park entrance with great access to Cades Cove and uncrowded trails.",
+      "highlights": null
+    },
+    {
+      "name": "Sevierville",
+      "distance": "10 min north of Pigeon Forge",
+      "pitch": "Dolly Parton's actual hometown. More local, less tourist. Better outlet shopping, great distilleries, and the best statue of Dolly you'll find.",
+      "highlights": null
+    },
+    {
+      "name": "Cherokee, North Carolina",
+      "distance": "1 hr from Gatlinburg via Newfound Gap Rd",
+      "pitch": "Cross over the Smokies into North Carolina. Eastern Band of Cherokee Indians homeland. Casino, cultural museum, and Oconaluftee Visitor Center.",
+      "highlights": null
+    },
+    {
+      "name": "Asheville, North Carolina",
+      "distance": "2 hr from Gatlinburg via I-40",
+      "pitch": "Craft beer capital of the South, Blue Ridge Parkway, and Biltmore Estate. A perfect overnight extension for foodies and culture seekers.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Ridge Runner",
+    "greeting": "Well hey there — welcome to the Smokies. I've been runnin' these ridges for thirty-some years and I've got opinions on everything from pancakes to park trails. What can I help you find?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-summer-smokies.jpg",
+    "story": [
+      "story-cades-cove-church.jpg",
+      "story-historic-cabin.jpg",
+      "story-moonshine-still.jpg",
+      "story-railroad.jpg"
+    ],
+    "wall": [
+      "wall-bear-sighting.jpg",
+      "wall-cabin-deck.jpg",
+      "wall-dollywood-ride.jpg",
+      "wall-market-square.jpg",
+      "wall-moonshine-group.jpg",
+      "wall-pancake-stack.jpg",
+      "wall-river-tubing.jpg",
+      "wall-sunset-skybridge.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions-coaster.jpg",
+      "bars_nightlife": "dir-bars-moonshine.jpg",
+      "bars": "dir-bars-moonshine.jpg",
+      "coffee_bakeries": "dir-coffee-sweets.jpg",
+      "coffee": "dir-coffee-sweets.jpg",
+      "dining": "dir-dining-steak.jpg",
+      "entertainment": "dir-entertainment-escape.jpg",
+      "lodging": "dir-lodging-cabin.jpg",
+      "outdoor_adventure": "dir-outdoor-tubing.jpg",
+      "outdoor": "dir-outdoor-tubing.jpg",
+      "shopping": "dir-shopping-crafts.jpg"
+    },
+    "section_breaks": {
+      "cabin": "break-cabin-hot-tub.jpg",
+      "cades": "break-cades-cove-deer.jpg",
+      "dollywood": "break-dollywood-crowd.jpg",
+      "hiking": "break-hiking-waterfall.jpg",
+      "market": "break-market-square.jpg",
+      "moonshine": "break-moonshine-tasting.jpg",
+      "parkway": "break-parkway-night.jpg",
+      "southern": "break-southern-food.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "Smoky Mountains — Splash Country Season",
+    "hero_sub": "Waterfalls, Dollywood's extended hours, tubing the Little River, and nightly fireworks over Pigeon Forge. Summer is full throttle."
+  }
+}

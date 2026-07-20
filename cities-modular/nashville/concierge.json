@@ -1,0 +1,715 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "start",
+      "menu",
+      "help",
+      "what should I do",
+      "howdy"
+    ],
+    "text": "Well hey there, and welcome to my town. I've spent twenty years in the writers' rounds here — the good rooms, the quiet ones nobody Instagrams — and I'll steer you clear of the tourist traps without ever making you feel like a tourist for asking. Nashville runs on three things: songs, hot chicken, and front-porch hospitality. Tell me what you're hungry for — a plate, a stage, a river, or a story — and I'll point you somewhere real.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Hot chicken, obviously",
+      "Live music tonight",
+      "Best coffee in town",
+      "Museums and music history",
+      "Get me outdoors",
+      "Plan my perfect day",
+      "Day trip out of town"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "hungry",
+      "dinner",
+      "restaurant",
+      "where to eat",
+      "lunch"
+    ],
+    "text": "Now you're speakin' my language. This town eats well at every price point, so let's narrow it down. You want a linen-napkin, special-occasion kind of night? A meat-and-three where a church lady piles your plate high? The pilgrimage that is hot chicken? Or the East Nashville scene where the cooks all used to be in bands? Give me a direction and I'll get specific.",
+    "businesses": [],
+    "chips": [
+      "Fancy date-night dinner",
+      "Meat-and-three, the real deal",
+      "Hot chicken trail",
+      "East Nashville favorites",
+      "Cheap and unforgettable",
+      "Surprise me"
+    ]
+  },
+  {
+    "keys": [
+      "hot chicken",
+      "chicken",
+      "spicy",
+      "hattie",
+      "prince",
+      "signature dish",
+      "fried chicken"
+    ],
+    "text": "This is the dish this city gave the world, so let's do it right. Prince's Hot Chicken is the original — the Prince family invented it, and 'medium' will still make you sweat and thank them. Hattie B's is where the lines wrap the block, and it earns them. If you want the old-heads' pick, Bolton's Spicy Chicken & Fish keeps it gritty and glorious. 400 Degrees, Pepperfire, Party Fowl, and Red's Hot Chicken all fly the flag proud too. Start medium. Trust me. You can always go hotter tomorrow.",
+    "businesses": [
+      "Prince's Hot Chicken",
+      "Hattie B's Hot Chicken",
+      "Bolton's Spicy Chicken & Fish",
+      "400 Degrees Hot Chicken",
+      "Pepperfire Hot Chicken",
+      "Party Fowl",
+      "Red's Hot Chicken"
+    ],
+    "chips": [
+      "Which one has the shortest line?",
+      "How spicy is 'hot' really?",
+      "What sides do I get?",
+      "Take me to a meat-and-three instead",
+      "Where's the nearest cold beer?"
+    ]
+  },
+  {
+    "keys": [
+      "fancy",
+      "fine dining",
+      "special occasion",
+      "upscale",
+      "nice dinner",
+      "tasting menu",
+      "chef"
+    ],
+    "text": "For a night you'll write a song about later — The Catbird Seat is the ticket, a counter-seat tasting menu where the chefs cook right in front of you. Yolan brings serious Italian elegance downtown, and Bastion started as a tiny 24-seat back room and became the reservation everyone chases. Rolf and Daughters does soulful pasta in a converted old factory, and Lyra brings gorgeous Eastern Mediterranean fire. Any of 'em will treat you right — book ahead, these seats go fast.",
+    "businesses": [
+      "The Catbird Seat",
+      "Yolan",
+      "Bastion",
+      "Rolf and Daughters",
+      "Lyra"
+    ],
+    "chips": [
+      "Most romantic of these?",
+      "Which is hardest to book?",
+      "Something a little more low-key",
+      "Best wine list",
+      "Wheelchair-accessible pick"
+    ]
+  },
+  {
+    "keys": [
+      "meat and three",
+      "southern",
+      "comfort food",
+      "soul food",
+      "home cooking",
+      "cafeteria",
+      "classic"
+    ],
+    "text": "The meat-and-three is Nashville's true native cuisine — pick a meat, pick three sides, don't skip the cornbread. Arnold's Country Kitchen is the sacred one, a James Beard classic where you line up cafeteria-style and everyone from construction crews to country stars eats elbow-to-elbow. Swett's has fed this city since 1954, and Monell's Dining & Catering seats you family-style at a shared table and passes the fried chicken around. Silver Sands Cafe and Wendell Smith's are the real-deal neighborhood spots the guidebooks miss.",
+    "businesses": [
+      "Arnold's Country Kitchen",
+      "Swett's Restaurant",
+      "Monell's Dining & Catering",
+      "Silver Sands Cafe",
+      "Wendell Smith's Restaurant"
+    ],
+    "chips": [
+      "What's the can't-miss side?",
+      "Which one's downtown?",
+      "Tell me about Monell's family-style",
+      "Where do the musicians eat?",
+      "Best biscuit in town"
+    ]
+  },
+  {
+    "keys": [
+      "east nashville",
+      "east side",
+      "hip",
+      "neighborhood dining",
+      "cool spots",
+      "new"
+    ],
+    "text": "East Nashville is where half the cooks used to be in touring bands, and it shows in the food. Lockeland Table is the neighborhood anchor — go for the community-hour deals and the wood-fired everything. Butcher & Bee does Mediterranean small plates you'll want to keep ordering, Peninsula brings Iberian soul, and Noko does live-fire Asian that's some of the most exciting cooking in town. Folk turns out wood-fired pizza and vegetables that'll convert a skeptic. The Mockingbird is a playful diner-y homage that's just plain fun.",
+    "businesses": [
+      "Lockeland Table",
+      "Butcher & Bee",
+      "Peninsula",
+      "Noko",
+      "Folk",
+      "The Mockingbird"
+    ],
+    "chips": [
+      "Best for a group?",
+      "Which has a good bar?",
+      "Vegetarian-friendly pick",
+      "Walk me to a cocktail after",
+      "What's near the record shops?"
+    ]
+  },
+  {
+    "keys": [
+      "drinks",
+      "cocktail",
+      "bar",
+      "bars",
+      "nightlife",
+      "speakeasy",
+      "after dinner"
+    ],
+    "text": "When the plates are cleared, this is where I go. The Fox Bar & Cocktail Club in East Nashville is a moody, music-lover's room with drinks that take their time. Attaboy is the no-menu spot — you tell 'em what you like and they build it for you, and they nail it every time. Le Loup is a gorgeous, low-lit natural-wine and cocktail hideaway. Hearts and The Henry are both handsome rooms for a proper nightcap. And if you just want a beer and a jukebox, hang tight — I've got dive bars for that too.",
+    "businesses": [
+      "The Fox Bar & Cocktail Club",
+      "Attaboy",
+      "Le Loup",
+      "Hearts",
+      "The Henry"
+    ],
+    "chips": [
+      "I want a dive bar instead",
+      "Best natural wine list",
+      "Where's a quiet date drink?",
+      "Live music WITH my drink",
+      "Closest to Broadway"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "dive bar",
+      "cheap drinks",
+      "honky tonk beer",
+      "local beer",
+      "taproom"
+    ],
+    "text": "For unpretentious drinking, you're covered. Southern Grist Brewing's East Nashville Taproom pours some of the most inventive beer in the state, and Bearded Iris Brewing is the hazy-IPA temple everyone points newcomers to. But my sentimental favorite is Santa's Pub — a Christmas-lights-year-round karaoke trailer where a songwriter and a stranger will duet 'Jolene' at midnight and mean every word. Cash only, no attitude, all heart.",
+    "businesses": [
+      "Southern Grist Brewing (East Nashville Taproom)",
+      "Bearded Iris Brewing",
+      "Santa's Pub"
+    ],
+    "chips": [
+      "Tell me about Santa's Pub",
+      "Best IPA in town",
+      "Which taproom has food trucks?",
+      "Family-friendly brewery?",
+      "Karaoke, take me there"
+    ]
+  },
+  {
+    "keys": [
+      "honky tonk",
+      "broadway",
+      "live music tonight",
+      "country music",
+      "two step",
+      "dancing",
+      "cover bands"
+    ],
+    "text": "If you want the boot-scootin', neon-soaked Broadway experience — do it, just do it right. Robert's Western World is the one I send people to: free traditional country, cheap cold beer, a fried-bologna sandwich called the Recession Special, and no cover. Tootsie's Orchid Lounge is the purple honky-tonk where Willie and Kris got their start, dripping with history. Acme Feed & Seed gives you rooftop views over the whole circus. Go early, tip the band a real bill — those players are the backbone of this town.",
+    "businesses": [
+      "Robert's Western World",
+      "Tootsie's Orchid Lounge",
+      "Acme Feed & Seed"
+    ],
+    "chips": [
+      "Which is least touristy?",
+      "Best rooftop view",
+      "Where do I tip the band?",
+      "I want REAL songwriters instead",
+      "Grab a bite on Broadway"
+    ]
+  },
+  {
+    "keys": [
+      "writers round",
+      "songwriter",
+      "listening room",
+      "the nexus",
+      "real music",
+      "acoustic",
+      "bluebird",
+      "best live music"
+    ],
+    "text": "Here's the good stuff — the rooms where the songs are actually written. The Bluebird Cafe is the hallowed one: a strip-mall gem where you sit two feet from the writers of the hits you've hummed your whole life, and when the host says 'shhh,' you hush. The Station Inn is a cinderblock bluegrass cathedral where the pickin' is jaw-dropping. Exit/In is the storied rock club that launched a thousand careers. This is my heart, this is the nexus of everything I love about this town — if you do one thing on my say-so, make it a round at one of these. I can help you line up a night around it.",
+    "businesses": [
+      "The Bluebird Cafe",
+      "The Station Inn",
+      "Exit/In"
+    ],
+    "chips": [
+      "How do I get into the Bluebird?",
+      "Bluegrass at the Station Inn",
+      "Build me a full music night",
+      "What's the etiquette?",
+      "Historic venues to tour by day"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "espresso",
+      "caffeine",
+      "latte",
+      "morning",
+      "coffee now"
+    ],
+    "text": "Nashville takes its coffee as seriously as its songs. Barista Parlor's East Nashville flagship is a cathedral of a coffee shop — motorcycles, vinyl, and a slow pour worth the wait. Crema Coffee Roasters is the downtown craft pioneer, and Ugly Mugs is the cozy East Side living room where the laptops and the locals mix easy. Elegy Coffee and Osa Coffee Roasters, both in East Nashville, are the newer-guard roasters worth the detour if you're a bean nerd.",
+    "businesses": [
+      "Barista Parlor (East Nashville)",
+      "Crema Coffee Roasters",
+      "Ugly Mugs Coffee and Tea",
+      "Elegy Coffee (East Nashville)",
+      "Osa Coffee Roasters (East Nashville)"
+    ],
+    "chips": [
+      "Best spot to work a while?",
+      "Which has the best pastry?",
+      "Closest to downtown",
+      "Where do the writers hang?",
+      "Pair it with a bakery"
+    ]
+  },
+  {
+    "keys": [
+      "bakery",
+      "pastry",
+      "donut",
+      "biscuit",
+      "dessert",
+      "bread",
+      "sweets",
+      "croissant"
+    ],
+    "text": "Save room. Five Daughters Bakery in 12South makes the '100-layer' donut — a croissant-doughnut hybrid that's laminated, glazed, and genuinely worth the calories and the line. Dozen Bakery does proper crusty sourdough and elegant tarts in a sunlit space that feels like a European corner shop. Grab a coffee, grab a pastry, and go people-watch in the park.",
+    "businesses": [
+      "Five Daughters Bakery (12South)",
+      "Dozen Bakery"
+    ],
+    "chips": [
+      "What's the 100-layer donut?",
+      "Best bread in town",
+      "Something to take home",
+      "Pair with a coffee shop",
+      "Where's 12South exactly?"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "music history",
+      "hall of fame",
+      "studio",
+      "country music history",
+      "learn",
+      "rainy day"
+    ],
+    "text": "For the story behind the songs, start at the Country Music Hall of Fame and Museum — it's massive, moving, and does right by the whole tradition. Then book the shuttle to Historic RCA Studio B on Music Row, the room where Elvis, Dolly, and the Everlys cut immortal records; standing on that floor gives me chills every time. The Johnny Cash Museum downtown is a tight, well-done tribute to the Man in Black. These three together tell you how this town became Music City.",
+    "businesses": [
+      "Country Music Hall of Fame and Museum",
+      "Historic RCA Studio B",
+      "The Johnny Cash Museum"
+    ],
+    "chips": [
+      "Which needs the most time?",
+      "How do I book Studio B?",
+      "Tell me about Johnny Cash",
+      "Add a historic venue tour",
+      "African American music history"
+    ]
+  },
+  {
+    "keys": [
+      "art",
+      "art museum",
+      "gallery",
+      "culture",
+      "parthenon",
+      "frist",
+      "cheekwood",
+      "exhibit"
+    ],
+    "text": "There's more than music on these walls. The Frist Art Museum lives in a gorgeous old Art Deco post office and rotates world-class exhibitions. The Parthenon in Centennial Park is a full-scale replica of the Athens original — yes, really — with a towering gilded Athena inside. And Cheekwood Estate & Gardens is a Gilded-Age mansion wrapped in 55 acres of botanical gardens that are stunning in every season. Slow down here; this is the town catching its breath.",
+    "businesses": [
+      "Frist Art Museum",
+      "The Parthenon",
+      "Cheekwood Estate & Gardens"
+    ],
+    "chips": [
+      "Best for a slow afternoon",
+      "Is Cheekwood worth the drive?",
+      "What's on at the Frist?",
+      "Gardens I can walk",
+      "Pair with a park"
+    ]
+  },
+  {
+    "keys": [
+      "jefferson street",
+      "african american music",
+      "black history",
+      "fisk",
+      "nmaam",
+      "trail",
+      "r&b",
+      "heritage"
+    ],
+    "text": "This is the story I most want you to hear. Jefferson Street was Nashville's thriving Black R&B corridor — Jimi Hendrix, Etta James, and Ray Charles all played its clubs before the interstate cut through it. Start at the National Museum of African American Music downtown, which threads gospel, blues, jazz, R&B, and hip-hop into one incredible narrative. Then head to the Fisk University Galleries to see the Carl Van Vechten and Aaron Douglas collections — Alfred Stieglitz's gift and one of the great small museums in America. Same songwriting soul, a chapter too often skipped. Walk it slow.",
+    "businesses": [
+      "National Museum of African American Music",
+      "Fisk University Galleries (Carl Van Vechten & Aaron Douglas)"
+    ],
+    "chips": [
+      "Tell me the Jefferson Street story",
+      "What's at the Fisk galleries?",
+      "How much time do I need?",
+      "Where to eat nearby",
+      "More Nashville music history"
+    ]
+  },
+  {
+    "keys": [
+      "outdoors",
+      "hike",
+      "park",
+      "nature",
+      "trail walk",
+      "greenway",
+      "get outside",
+      "lake"
+    ],
+    "text": "You'd be surprised how green this town gets. Radnor Lake State Natural Area is the crown jewel — a quiet, no-bikes-no-dogs preserve where you'll spot herons, turtles, and maybe a barred owl on a weekday morning. Warner Parks give you real hill-country hiking minutes from downtown. Shelby Bottoms Greenway and Centennial Park are the easy, pretty strolls, Bicentennial Capitol Mall State Park frames the capitol beautifully, and Long Hunter State Park's Couchville Lake loop is a flat, gorgeous water walk. Beaman Park is the wild, tucked-away one if you want solitude.",
+    "businesses": [
+      "Radnor Lake State Natural Area",
+      "Warner Parks (Percy & Edwin Warner)",
+      "Shelby Bottoms Greenway & Nature Center",
+      "Centennial Park",
+      "Bicentennial Capitol Mall State Park",
+      "Long Hunter State Park - Couchville Lake",
+      "Beaman Park & Nature Center"
+    ],
+    "chips": [
+      "Easiest walk with a view",
+      "Best for wildlife",
+      "Closest to downtown",
+      "I'd rather be on the water",
+      "Where can I bike?"
+    ]
+  },
+  {
+    "keys": [
+      "kayak",
+      "paddle",
+      "river",
+      "canoe",
+      "water",
+      "paddleboard",
+      "float",
+      "harpeth"
+    ],
+    "text": "For a river day, the Narrows of the Harpeth at Harpeth River State Park is the classic float — an easy, scenic paddle with a short portage and a swimming hole. Want gear and a shuttle? Cumberland Kayak & Adventure Company and Paddle Nash run trips right on the downtown Cumberland with skyline views, Broken Paddle Outfitters and Nashville Paddle Company set you up for the Harpeth and the lakes, and Adventureworks Nashville West adds ziplines and treetop courses if you want your outdoors with a little adrenaline.",
+    "businesses": [
+      "Harpeth River State Park - Narrows of the Harpeth",
+      "Cumberland Kayak & Adventure Company",
+      "Paddle Nash",
+      "Broken Paddle Outfitters",
+      "Nashville Paddle Company",
+      "Adventureworks Nashville West"
+    ],
+    "chips": [
+      "Easiest float for beginners",
+      "Paddle with a skyline view",
+      "Do they rent gear?",
+      "Ziplines and adventure",
+      "Pair with a riverside beer"
+    ]
+  },
+  {
+    "keys": [
+      "greenway trail",
+      "bike",
+      "cycling",
+      "stones river",
+      "timberland",
+      "natchez trace",
+      "ride"
+    ],
+    "text": "If you'd rather log some miles, the Stones River Greenway from Two Rivers out toward Percy Priest is a smooth, shaded ride along the water, and Timberland Park up on the Natchez Trace Parkway gives you high-country trails and one of the prettiest overlooks around. Need a bike? Green Fleet Bicycle Shop can fix you up with a rental and honest local advice on where to ride.",
+    "businesses": [
+      "Stones River Greenway (Two Rivers to Percy Priest)",
+      "Timberland Park (Natchez Trace Parkway)",
+      "Green Fleet Bicycle Shop"
+    ],
+    "chips": [
+      "Rent me a bike",
+      "Flattest, easiest ride",
+      "Best overlook",
+      "Where's the Natchez Trace?",
+      "More parks and greenways"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "hockey",
+      "predators",
+      "concert arena",
+      "arena",
+      "event tonight",
+      "big show"
+    ],
+    "text": "For the big nights, Bridgestone Arena downtown is the heartbeat — Nashville Predators hockey (loudest barn in the league, I'll fight you on it), plus the arena tours that roll through. And when the Grand Ole Opry is in town, the Grand Ole Opry House is a living radio institution: 100 years of the show that made this Music City, with a lineup that mixes legends and newcomers every single night. The Ryman Auditorium — the Mother Church of Country Music — hosts the Opry in winter and is worth a show or a daytime tour any time of year.",
+    "businesses": [
+      "Bridgestone Arena",
+      "Grand Ole Opry House",
+      "Ryman Auditorium"
+    ],
+    "chips": [
+      "Predators game tickets",
+      "What's the Opry like?",
+      "Ryman show or tour?",
+      "Which has the best acoustics?",
+      "Something after the game"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "records",
+      "vinyl",
+      "music store",
+      "guitar",
+      "record shop",
+      "souvenir",
+      "gifts"
+    ],
+    "text": "This is a record-collector's town, so dig in. Grimey's New & Preloved Music is the beloved institution — new vinyl, used treasures, and in-store shows. Third Man Records is Jack White's black-and-yellow wonderland with a live-to-acetate recording booth. The Groove, Vinyl Tap, and Daydream Records round out the crate-digging circuit. For instruments, Gruhn Guitars is a world-famous vintage guitar mecca and Fanny's House of Music is the warm, welcoming East Side shop. And don't leave without a letterpress poster from Hatch Show Print — they've been printing show posters by hand since 1879.",
+    "businesses": [
+      "Grimey's New & Preloved Music",
+      "Third Man Records",
+      "The Groove",
+      "Vinyl Tap",
+      "Daydream Records",
+      "Gruhn Guitars",
+      "Fanny's House of Music",
+      "Hatch Show Print"
+    ],
+    "chips": [
+      "Best record store to start",
+      "Tell me about Third Man",
+      "Where do I buy a guitar?",
+      "What's Hatch Show Print?",
+      "More East Nashville shopping"
+    ]
+  },
+  {
+    "keys": [
+      "boutique",
+      "clothes",
+      "antiques",
+      "fatherland",
+      "denim",
+      "markets",
+      "local goods",
+      "farmers market"
+    ],
+    "text": "Beyond the records, there's real local craft here. Imogene + Willie makes beautifully made denim in a converted 12South gas station — a Nashville institution. The Fatherland District, the Shoppes on Fatherland in East Nashville, is a cluster of tiny indie makers and boutiques perfect for an afternoon wander. Woodcuts Gallery & Framing showcases African American art and prints, and Props Antiques is a treasure-hunt of a shop. For food and flowers, hit the Nashville Farmers' Market downtown or the neighborhood East Nashville Farmers Market.",
+    "businesses": [
+      "Imogene + Willie",
+      "Fatherland District (Shoppes on Fatherland)",
+      "Woodcuts Gallery & Framing",
+      "Props Antiques",
+      "Nashville Farmers' Market",
+      "East Nashville Farmers Market"
+    ],
+    "chips": [
+      "Best for a wander",
+      "Local-made gifts",
+      "When's the farmers market?",
+      "Antique hunting",
+      "Pair with East Side coffee"
+    ]
+  },
+  {
+    "keys": [
+      "books",
+      "bookstore",
+      "reading",
+      "parnassus",
+      "author",
+      "literary",
+      "bookshop"
+    ],
+    "text": "For the readers among us — Parnassus Books is Ann Patchett's independent bookstore, a joyful, well-curated shop with a shop dog and a killer author-event calendar. The Bookshop in East Nashville is a lovingly small, sharply chosen room. And if you're headed to Franklin, Landmark Booksellers down there is a rambling, wonderful used-and-rare shop worth the trip on its own.",
+    "businesses": [
+      "Parnassus Books",
+      "The Bookshop",
+      "Landmark Booksellers"
+    ],
+    "chips": [
+      "Any author events on?",
+      "Best for a gift book",
+      "Local Nashville authors",
+      "Tell me about Franklin",
+      "Pair with a coffee shop"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "theater",
+      "movie",
+      "show",
+      "entertainment",
+      "laugh",
+      "film",
+      "belcourt"
+    ],
+    "text": "When you want a stage that isn't strictly music: Zanies Comedy Club is the intimate, long-running room where big names drop in and the front row is a risky seat. The Belcourt Theatre is Nashville's cherished nonprofit cinema — indie films, restored classics, and the occasional live show in a beautiful old vaudeville house in Hillsboro Village. Both are locals' favorites for a change of pace.",
+    "businesses": [
+      "Zanies Comedy Club",
+      "The Belcourt Theatre"
+    ],
+    "chips": [
+      "What's playing at the Belcourt?",
+      "Comedy tonight",
+      "Something for a rainy night",
+      "Grab dinner nearby",
+      "Back to live music"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "with the kids",
+      "toddler",
+      "playground"
+    ],
+    "text": "Traveling with little ones? This town's got you. Cheekwood Estate & Gardens has a storybook trail and space to run wild, and Centennial Park with the Parthenon gives you duck ponds, open lawns, and a giant to gawk at. Adventureworks Nashville West does treetop ziplines the older kids will love, and the General Jackson Showboat is a proper paddlewheel riverboat cruise with lunch and a show — corny in the best way, and the kids eat it up. For a wholesome plate, Puckett's Grocery & Restaurant is easy, friendly, and Southern to the bone.",
+    "businesses": [
+      "Cheekwood Estate & Gardens",
+      "Centennial Park",
+      "Adventureworks Nashville West",
+      "General Jackson Showboat",
+      "Puckett's Grocery & Restaurant"
+    ],
+    "chips": [
+      "Best for little kids",
+      "Something active for teens",
+      "Riverboat cruise details",
+      "Easy family dinner",
+      "Stroller-friendly parks"
+    ]
+  },
+  {
+    "keys": [
+      "side trip",
+      "day trip",
+      "franklin",
+      "leipers fork",
+      "out of town",
+      "countryside",
+      "drive"
+    ],
+    "text": "When you want to trade neon for rolling hills, point the car south. Franklin, thirty minutes down, is a beautifully preserved Main Street of shops and Civil War history — poke into Landmark Booksellers and eat at Puckett's Grocery & Restaurant, which started as a country store. Fifteen minutes further into the hills is Leiper's Fork, a tiny artist's village where you might catch a picking session at the general store. And on the way out toward Franklin, the Loveless Cafe is a legendary roadside stop for scratch biscuits and country ham — worth timing a meal around.",
+    "businesses": [
+      "Landmark Booksellers",
+      "Puckett's Grocery & Restaurant",
+      "Loveless Cafe"
+    ],
+    "chips": [
+      "What's in Franklin?",
+      "Tell me about Leiper's Fork",
+      "Are the Loveless biscuits worth it?",
+      "How long's the drive?",
+      "Plan a full day out"
+    ]
+  },
+  {
+    "keys": [
+      "seasonal",
+      "when to visit",
+      "festival",
+      "cma fest",
+      "christmas",
+      "opryland lights",
+      "summer",
+      "fall",
+      "event this week"
+    ],
+    "text": "Timing's everything, darlin'. June brings CMA Fest, when the whole city becomes one giant stage and Broadway overflows — thrilling, but book early and brace for crowds. Summer is peak season, hot and buzzing. Fall is my secret favorite: the songwriter festivals roll in, the weather softens, and the writers' rounds feel especially golden. And come December, the Opryland lights and holiday shows turn the whole east side into a wonderland. Tell me your dates and I'll tailor the whole trip.",
+    "businesses": [
+      "Grand Ole Opry House",
+      "Ryman Auditorium",
+      "The Bluebird Cafe"
+    ],
+    "chips": [
+      "What's CMA Fest like?",
+      "Best time for smaller crowds",
+      "December holiday things",
+      "Fall songwriter festivals",
+      "Plan around my dates"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "lodging",
+      "where to stay",
+      "sleep",
+      "room",
+      "boutique hotel"
+    ],
+    "text": "Where you rest your head sets the tone. Noelle downtown is a restored 1930s hotel with a killer rooftop and a coffee shop in the lobby — stylish without trying too hard. Union Station Nashville Yards is a breathtaking old railroad terminal turned hotel, all stone and stained glass. The Nash, formerly the Bobby Hotel, is playful and design-forward with a rooftop bus you can drink on, and The Rose at The Joseph brings polished art-forward luxury. Any of these puts you walking-distance to the music.",
+    "businesses": [
+      "Noelle",
+      "Union Station Nashville Yards",
+      "The Nash (formerly Bobby Hotel)",
+      "The Rose at The Joseph"
+    ],
+    "chips": [
+      "Most romantic hotel",
+      "Best rooftop",
+      "Walkable to Broadway",
+      "Art-forward luxury",
+      "Something quieter"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date night",
+      "anniversary",
+      "couple",
+      "proposal",
+      "special someone",
+      "intimate"
+    ],
+    "text": "Setting the mood, are we? Here's how I'd script the night: dinner at The Catbird Seat's chef's counter or a candlelit corner at Rolf and Daughters, a cocktail tucked into Le Loup or The Fox Bar & Cocktail Club, and then — if the stars align — a hushed writers' round at The Bluebird Cafe, where somebody sings a love song two feet from your table and you both pretend you've got something in your eye. Cap it with a nightcap at The Rose at The Joseph. That's a night worth writing down.",
+    "businesses": [
+      "The Catbird Seat",
+      "Rolf and Daughters",
+      "Le Loup",
+      "The Fox Bar & Cocktail Club",
+      "The Bluebird Cafe",
+      "The Rose at The Joseph"
+    ],
+    "chips": [
+      "Build the whole evening",
+      "Most intimate dinner",
+      "Best cocktail hideaway",
+      "How to get Bluebird seats",
+      "Romantic hotel to end the night"
+    ]
+  }
+]

@@ -1,0 +1,1935 @@
+[
+  {
+    "name": "The Antler Room",
+    "address": "2506 Holmes St, Kansas City, MO 64108",
+    "phone": "816-605-1967",
+    "website": "https://www.theantlerroomkc.com/",
+    "category": "dining",
+    "subcategory": "New American / small plates",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Round here we judge a kitchen the way we judge a brisket, by whether somebody paid patient attention, and Nick Goellner has paid it three times over as a James Beard Best Chef: Midwest semifinalist. This tiny Longfellow room turns out a menu that changes with the day, Mediterranean and East Asian and Midwestern threads braided together over an ambitious natural-wine list. Small space, big flavor, worth the reservation.",
+    "must_try": "The daily-changing handmade pasta and shared plates",
+    "hours": "Wed-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Town Company",
+    "address": "1228 Baltimore Ave, Kansas City, MO 64105",
+    "phone": "816-895-0381",
+    "website": "https://www.hotelkc.com/dine/the-town-company",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Tucked inside the restored Hotel Kansas City downtown, this is the kind of seasonal cooking that rewards low-and-slow sourcing, hauled straight from area farms. Chef Johnny Leach has been a James Beard Best Chef: Midwest semifinalist and pastry chef Helen Jo Leach a nominee for Outstanding Pastry Chef, so both the savory and the sweet end of the meal carry weight. Elegant without stiffening its collar.",
+    "must_try": "The wood-fired seasonal entrees and Helen Jo Leach's dessert course",
+    "hours": "Tue-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Anjin",
+    "address": "1708 Oak St, Kansas City, MO 64108",
+    "phone": "816-603-2228",
+    "website": "https://www.anjinkc.com/",
+    "category": "dining",
+    "subcategory": "Japanese izakaya",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Twenty seats, one long counter, and a whole lot of intention, this izakaya from three-time James Beard finalist Nick Goellner and sommelier Leslie Newsam Goellner landed a 2026 James Beard nod for Best New Restaurant. Think yakitori worked over coals with the same devotion a pitmaster gives a shoulder, plus seasonal small plates and drinks poured with care. Snag a seat if you can; the room is intimate by design.",
+    "must_try": "The charcoal-grilled yakitori skewers",
+    "hours": "Mon 5:30pm-12am; Thu-Sun 5:30pm-11pm; closed Tue-Wed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Affäre",
+    "address": "1911 Main St, Kansas City, MO 64108",
+    "phone": "816-298-6182",
+    "website": "https://www.affarekc.com/",
+    "category": "dining",
+    "subcategory": "Modern German",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "German Master Chef Martin Heuser and his wife Katrin have run this Crossroads room since 2012, and it earned James Beard recognition for both its kitchen and its beverage program. This is farm-to-table German cooking, sourced from KC farmers, that goes well past schnitzel and strudel. Come for the tasting menu and let the kitchen set the pace.",
+    "must_try": "The multi-course chef's tasting menu",
+    "hours": "Tue-Sun 4:45pm-9pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fox and Pearl",
+    "address": "2143 Summit St, Kansas City, MO 64108",
+    "phone": "816-437-7001",
+    "website": "https://www.foxandpearlkc.com/",
+    "category": "dining",
+    "subcategory": "New American / live-fire",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Perched on the historic Westside, Chef Vaughn Good cooks over a live-fire hearth and a smoker, layering flavor with the patience of a man who understands that good things take heat and time. His French training meets Midwestern comfort here, farm-sourced and scratch-built. If you love smoke on your food but want it plated instead of trayed, this is your table.",
+    "must_try": "The choucroute garnie or the duck meatballs",
+    "hours": "Mon-Fri 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Extra Virgin",
+    "address": "1900 Main St, Kansas City, MO 64108",
+    "phone": "816-842-2205",
+    "website": "https://www.extravirginkc.com/",
+    "category": "dining",
+    "subcategory": "Mediterranean tapas",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "James Beard Award-winning Chef Michael Smith runs this Crossroads tapas room, and the format suits a grazer, order a spread of small Mediterranean plates and let the table fill up slow. It's a lively, convivial spot with a generous happy hour, the kind of place where a quick drink becomes a two-hour dinner without you noticing.",
+    "must_try": "A build-your-own spread of Mediterranean tapas",
+    "hours": "Mon-Thu 11:30am-10pm; Fri 11:30am-11pm; Sat 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Novel",
+    "address": "1927 McGee St, Kansas City, MO 64108",
+    "phone": "816-221-0785",
+    "website": "https://www.novelkc.com/",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Chef Ryan Brazeal and pastry chef Jessica Armstrong build an inventive, locally-sourced menu in the East Crossroads that reads like a well-told story, contemporary technique in service of real flavor, not fireworks for their own sake. Intimate and quietly ambitious, it's a favorite for a special-occasion dinner that doesn't shout about itself.",
+    "must_try": "The seasonal chef's menu",
+    "hours": "Tue-Thu 5pm-9pm; Fri-Sat 5pm-10pm; closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aixois",
+    "address": "301 E 55th St, Kansas City, MO 64114",
+    "phone": "816-333-3305",
+    "website": "https://www.aixois.com/",
+    "category": "dining",
+    "subcategory": "French bistro",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Aix-en-Provence native Emmanuel Langlade and his wife Megan have kept this Brookside bistro humming since 2001, tucked into the Crestwood Shops along the Trolley Trail. Parisian sidewalk energy, warm croissants, and a classic French menu built on local farmers and butchers. It's an all-day charmer, come for the coffee bar in the morning or steak frites at night.",
+    "must_try": "The steak frites, or a croissant with the morning coffee",
+    "hours": "Mon-Thu 7am-9pm; Fri-Sat 7am-10pm; Sun 9am-8pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Room 39",
+    "address": "1719 W 39th St, Kansas City, MO 64111",
+    "phone": "816-753-3939",
+    "website": "https://www.rm39.com/",
+    "category": "dining",
+    "subcategory": "Farm-to-table / brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A 39th Street mainstay that treats farm-to-table like a habit rather than a slogan, serving breakfast, lunch, and dinner off an ever-evolving seasonal menu with a thoughtfully chosen wine list. Weekend brunch is the move here, unfussy and dialed-in, the kind of neighborhood cooking that keeps regulars coming back low and steady.",
+    "must_try": "The weekend brunch Steak & Eggs Benedict",
+    "hours": "Mon-Thu 8am-3pm & 5pm-9pm; Fri-Sat 8am-3pm & 5pm-10pm; Sun 9am-3pm",
+    "seasonal": "Spring patio season pairs well with weekend brunch",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Westport Cafe & Bar",
+    "address": "419 Westport Rd, Kansas City, MO 64111",
+    "phone": "816-931-4740",
+    "website": "https://westportcafeandbar.com/",
+    "category": "dining",
+    "subcategory": "French bistro",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "In the heart of Westport, Executive Chef Romain Monnoyeur, a 2024 James Beard Best Chef: Midwest semifinalist, runs a scratch-made French bistro with craft cocktails and one of the city's most beloved weekend brunches. Steak frites at dinner, jiggly Japanese-style lemon ricotta pancakes at brunch, this room does both the romantic and the raucous well depending on the hour.",
+    "must_try": "The steak frites, or the lemon ricotta pancakes at weekend brunch",
+    "hours": "Tue-Sat 4pm-12am; Sun 10am-12am; brunch Sat-Sun 10:30am-4pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chewology",
+    "address": "900 Westport Rd, Kansas City, MO 64111",
+    "phone": "816-325-3449",
+    "website": "https://www.chewologykc.com/",
+    "category": "dining",
+    "subcategory": "Taiwanese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Chef Katie Liu-Sung took her Taiwanese street-food pop-up to a brick-and-mortar in Westport and earned back-to-back James Beard Best Chef: Midwest semifinalist nods for the effort. This is authentic gyoza and bao with room to play, tradition handled with real respect and a little creative swagger. A bright, personal kitchen that's become one of KC's most distinctive tables.",
+    "must_try": "The hand-folded gyoza and the bao",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Succotash",
+    "address": "2601 Holmes St, Kansas City, MO 64108",
+    "phone": "816-421-2807",
+    "website": "https://succotashkcmo.com/",
+    "category": "dining",
+    "subcategory": "Breakfast & brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A Longfellow Heights brunch institution with kitschy, eclectic decor and a Diners, Drive-Ins and Dives stamp to its name. The kitchen leans local and organic, with a menu wide enough to feed omnivores, vegans, vegetarians, and the gluten-free without anybody feeling like an afterthought. Come hungry, come casual, and settle in for a proper Midwest morning.",
+    "must_try": "The hearty brunch plates that put it on Diners, Drive-Ins and Dives",
+    "hours": "Mon 8am-2pm; Thu-Sun 8am-3pm; closed Tue-Wed",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Waldo Cafe",
+    "address": "7531 Wornall Rd, Kansas City, MO 64114",
+    "phone": "816-701-6981",
+    "website": "https://www.eatwaldocafe.com/",
+    "category": "dining",
+    "subcategory": "Diner / brunch",
+    "price": "$",
+    "rating": "4.4",
+    "description": "A family-run Waldo diner that greets you the way a good host should, with complimentary cinnamon rolls the moment you sit down before you've even ordered. Scratch-made breakfast and lunch, generous portions, zero pretense. This is the comfort end of the KC table, the everyday spot that quietly does the ordinary extraordinarily well.",
+    "must_try": "The complimentary warm cinnamon rolls that start every meal",
+    "hours": "Daily 6am-3pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Campground",
+    "address": "1531 Genessee St, Kansas City, MO 64102",
+    "phone": "816-612-3434",
+    "website": "https://www.thecampgroundkc.com/",
+    "category": "dining",
+    "subcategory": "New American",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Down in the West Bottoms Stockyards District, this aperitivo bar and restaurant cooks Midwest-harvest fare with an outdoorsy streak, hunted, fished, and foraged ingredients meeting coals and whole-product respect. Natural wines, funky beers, and a menu that swings from a serious double smash burger to coal-roasted vegetables. A fitting stop on the crawl through KC's old cattle country.",
+    "must_try": "The double smash burger or the coal-roasted carrots",
+    "hours": "Mon 5pm-10pm; Thu-Sun 5pm-10pm; closed Tue-Wed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Joe's Kansas City Bar-B-Que",
+    "address": "3002 W 47th Ave, Kansas City, KS 66103",
+    "phone": "(913) 722-3366",
+    "website": "https://www.joeskc.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Now here's a beautiful contradiction: some of the finest smoke in the metro pours out of a working gas station in Kansas City, Kansas. Bourdain put Joe's on his short list of places to eat before you die, and the line out the door proves the point. Order at the counter, grab a booth beside the pumps, and let the low-and-slow do the talking. The Pitmaster stays evenhanded on burnt-end loyalties, but Joe's is where a first-timer should light the pilot.",
+    "must_try": "The Z-Man — sliced brisket, smoked provolone, and onion rings on a kaiser roll",
+    "hours": "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arthur Bryant's Barbeque",
+    "address": "1727 Brooklyn Ave, Kansas City, MO 64127",
+    "phone": "(816) 231-1123",
+    "website": "https://arthurbryantsbbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "This is the mother smoke — the pit that lit the whole tradition. Standing on Brooklyn Ave in the 18th & Vine district, Arthur Bryant's is the oldest name in the game and the house credited with giving the world the burnt end. The line moves past the pit, the sauce is famously gritty and vinegar-forward, and the bricks have been seasoned by nearly a century of smoke. You don't just eat here; you pay respects to where the low-and-slow began.",
+    "must_try": "Burnt ends — the cut this room made famous",
+    "hours": "Mon-Sat 10am-8pm, Sun 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gates Bar-B-Q",
+    "address": "1221 Brooklyn Ave, Kansas City, MO 64127",
+    "phone": "(816) 483-3880",
+    "website": "https://gatesbbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Walk through the door and you'll get hollered a warm 'Hi, may I help you?' before your eyes adjust — that's the Gates greeting, unchanged since 1946. This Brooklyn Ave location sits in the heart of the historic east side, a short rib bone from 18th & Vine. The smoked original burnt ends carry a deeper, woodsier char than the crowd-pleasers across town, and that peppery house sauce is a metro institution in a bottle. Old-school, unhurried, and proudly its own thing.",
+    "must_try": "Beef on bun with the original peppery sauce, and the smoked burnt ends",
+    "hours": "Mon-Thu 11am-11pm, Fri-Sat 11am-12am, Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Q39",
+    "address": "1000 W 39th St, Kansas City, MO 64111",
+    "phone": "(816) 255-3753",
+    "website": "https://q39kc.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "When a competition pitmaster hangs up the trophy circuit and opens a Midtown room, you pay attention. Q39 arrived in 2014 and locals took to it fast — this is contest-grade smoke plated with a little more polish than the paper-and-picnic-table joints. The burnt ends and ribs run clean and confident, and there's a full bar for those who like a cocktail with their bark. The Pitmaster tips a cap: newer to the lineage, but it earned its seat at the table.",
+    "must_try": "Competition BBQ plate with burnt ends, and the Best Wings on the Planet",
+    "hours": "Sun-Thu 11am-9pm, Fri-Sat 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LC's Bar-B-Q",
+    "address": "5800 Blue Pkwy, Kansas City, MO 64129",
+    "phone": "(816) 923-4484",
+    "website": "https://www.lcsbarbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Follow the smoke plume along Blue Parkway and you'll find a cinderblock temple that locals guard like a family secret. LC's is heaped-plate barbecue — no frills, no reservations, just a smoker working overtime and portions that spill past the edge of the bread. The burnt ends run heavy and charred, the fries come thick, and the whole room smells like the reason people move to this town. This is a Pitmaster's kind of joint: unpretentious and serious about the fire.",
+    "must_try": "Burnt ends and rib tips, piled high",
+    "hours": "Mon-Sat 11am-9pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Slap's BBQ",
+    "address": "553 Central Ave, Kansas City, KS 66101",
+    "phone": "(913) 213-3736",
+    "website": "https://slapsbbqkc.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Up on Strawberry Hill in Kansas City, Kansas, the Squeezebox brothers turned a competition pedigree into one of the most decorated pits in the metro. Slap's smokes it, sells it, and closes up when it's gone — so come early or come hungry-and-disappointed. The pork ribs pull clean with a burnished bark, and the burnt ends have a devoted following that argues loudly with the Missouri-side faithful. The Pitmaster stays diplomatic, but this room makes it hard.",
+    "must_try": "Pork spare ribs and the burnt ends — before they sell out",
+    "hours": "Daily 11am-7pm (or until sold out)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fiorella's Jack Stack Barbecue - Freight House",
+    "address": "101 W 22nd St, Ste 300, Kansas City, MO 64108",
+    "phone": "(816) 472-7427",
+    "website": "https://www.jackstackbbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "When the smoke needs a white tablecloth, this is the room. Set in the converted Freight House near the Kauffman Center, Jack Stack dresses KC barbecue up for a night out — 25-foot ceilings, a fireplace lounge, and a full bar. The Crown Prime beef rib is a showpiece, and those hickory-smoked burnt-end beans get name-checked across the metro. Bring a date, bring the in-laws; the Pitmaster allows that low-and-slow can wear a nice shirt now and then.",
+    "must_try": "Crown Prime beef rib and the hickory-smoked barbecue beans",
+    "hours": "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-8:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Char Bar Smoked Meats & Amusements",
+    "address": "4050 Pennsylvania Ave, Kansas City, MO 64111",
+    "phone": "(816) 389-8600",
+    "website": "https://charbarbbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Historic Westport's answer to the question 'what if the smoke came with a beer garden?' Char Bar pairs serious smoked meats with the biggest patio in town, lawn games, and a happy hour that hums Monday through Friday. It's the loosest, most social stop on the circuit — dog-friendly, brunch on weekends, and a burnt-end sandwich that holds its own against the old guard. The Pitmaster files this under 'barbecue you can linger over.'",
+    "must_try": "The Burnt Heaven burnt-end sandwich",
+    "hours": "Mon-Thu 11am-10pm, Fri 11am-11pm, Sat 10am-11pm, Sun 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Harp Barbecue",
+    "address": "6633 Raytown Rd, Raytown, MO 64133",
+    "phone": null,
+    "website": "https://harpbarbecue.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Tyler Harp brought a Central Texas accent to a Kansas City suburb, smoking out of Crane Brewing in Raytown a handful of days a week. The brisket runs thicker-cut and pepper-crusted — no sauce needed, and don't you dare ask — a friendly rebel note in a burnt-end town. There's a line by 10:30 on Saturdays and it sells out around 2, so treat this like the pilgrimage it is. The Pitmaster respects a room that lives and dies by the meat alone.",
+    "must_try": "Texas-style peppery brisket",
+    "hours": "Wed-Sat 11am-6pm (or until sold out), closed Sun-Tue",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Woodyard Bar-B-Que",
+    "address": "3001 Merriam Ln, Kansas City, KS 66106",
+    "phone": "(913) 362-8000",
+    "website": "https://woodyardbbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Part lumberyard, part smokehouse — Woodyard actually sells the wood other pits cook with, so you know the fire is honest. Tucked on Merriam Lane in KCK, this Diners, Drive-Ins & Dives favorite runs an outdoor brick smoker and a patio built for a lazy afternoon. The burnt ends are a standout and the 'hog wings' are a sly little detour. The Pitmaster gives a nod: when the folks who supply the smoke also serve the meat, you sit down and pay attention.",
+    "must_try": "Burnt ends and the hog wings",
+    "hours": "Mon-Thu 11am-11pm, Fri-Sat 11am-12am, Sun 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rosedale Bar-B-Q",
+    "address": "600 Southwest Blvd, Kansas City, KS 66103",
+    "phone": "(913) 262-0343",
+    "website": "https://www.rosedalebarbeque.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Older than Gates, older than Bryant's, older than Joe's — Rosedale has been smoking since 1934, which makes it the elder statesman of the entire metro. Stepping inside is like stepping back a few decades: no-frills, family-run, and pouring a slightly spicy sauce off a recipe that predates most of its famous rivals. The ribs are the move. The Pitmaster keeps this one on the list out of respect for the roots — this is where the low-and-slow story quietly starts.",
+    "must_try": "Pork ribs with the spicy family-recipe sauce",
+    "hours": "Tue-Sat 11am-8pm, Sun 11am-7pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buck Tui BBQ",
+    "address": "6737 W 75th St, Overland Park, KS 66204",
+    "phone": "(913) 283-8255",
+    "website": "https://www.bucktuibbq.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Here's the metro's most delicious plot twist: Northeastern Thai flavors married to Kansas City smoke. Chef Ted and Angela Liberda's Overland Park room runs brisket and burnt ends alongside sticky rice, papaya salad, and a genuinely sharp bar program. It sounds like a dare and eats like a revelation. The Pitmaster tips the hat — the lineage keeps evolving, and this is proof the fire in this town still has new tricks to learn.",
+    "must_try": "Smoked brisket with sticky rice, and the Thai-spiced burnt ends",
+    "hours": "Mon-Thu 11am-2pm & 4:30-9pm, Fri 11am-2pm & 4:30-9:30pm, Sat 11am-9:30pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Scott's Kitchen and Catering at Hangar 29",
+    "address": "11920 N Ambassador Dr, Kansas City, MO 64153",
+    "phone": "(816) 270-0505",
+    "website": "https://scottskitchenandcatering.com/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Flying into KCI and craving smoke before you've even claimed a bag? Scott's is your gate. Minutes from the airport in the Hangar 29 district, this small room hides a massive barbecue menu and opens at 7am — meaning a burnt-ends burrito is a legitimate breakfast option after a red-eye. The pulled-rib tacos with Alabama white sauce are the sleeper hit. The Pitmaster approves of any joint that respects an early fire and a hungry traveler.",
+    "must_try": "Pulled-rib tacos with Alabama white sauce, or the burnt ends",
+    "hours": "Mon-Sat 7am-6:30pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brobecks Barbeque",
+    "address": "4615 Indian Creek Pkwy, Overland Park, KS 66207",
+    "phone": "(913) 901-9700",
+    "website": null,
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A neighborhood favorite tucked into Overland Park, Brobecks is the kind of family-run pit locals recommend before the tourist-famous names. The smoke is steady, the sauce is homemade, and the burnt ends have quietly built a loyal following well south of the old 18th & Vine core. No lines around the block, no hype machine — just consistent low-and-slow done by folks who've been at it a long while. The Pitmaster keeps a soft spot for the honest under-the-radar joint.",
+    "must_try": "Burnt ends with the house sauce",
+    "hours": "Mon 11am-3pm, Tue-Sat 11am-8pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green Lady Lounge",
+    "address": "1809 Grand Blvd, Kansas City, MO 64108",
+    "phone": "(816) 215-2954",
+    "website": "https://greenladylounge.com/",
+    "category": "bars_nightlife",
+    "subcategory": "jazz cocktail lounge",
+    "price": "$$",
+    "rating": null,
+    "description": "Right on Grand at 18th Street, this is where the jazz district's low-and-slow heartbeat still knocks. Two floors, red velvet, two house Hammond B-3 organs, and live KC jazz 365 nights a year - the same neighborhood pit that seasoned the city's music and its burnt ends. Come for the smoke, stay for the swing.",
+    "must_try": "A late set in the downstairs Orion Room with the house Hammond organ trio",
+    "hours": "Mon-Thu & Sun 5pm-3am; Fri-Sat 11am-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swordfish Tom's",
+    "address": "210 W 19th Ter, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://www.swordfishtoms.com/",
+    "category": "bars_nightlife",
+    "subcategory": "speakeasy cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tucked down a Crossroads alley behind a deliberately nondescript door, this 30-seat speakeasy treats a cocktail the way a good pitmaster treats brisket - patient, precise, no shortcuts. Cash only, phones down, seasonal menu that rotates like the smoke. No beer, no wine, no food, no fuss.",
+    "must_try": "A bartender's-choice seasonal cocktail (cash only, phones away)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boulevard Brewing Co. Beer Hall",
+    "address": "2501 Southwest Blvd, Kansas City, MO 64108",
+    "phone": "(816) 474-7095",
+    "website": "https://www.boulevard.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery beer hall",
+    "price": "$$",
+    "rating": null,
+    "description": "The Midwest's biggest specialty brewer, brewing on Southwest Boulevard since 1989 - about as close to KC beer scripture as it gets. The Beer Hall pours the freshest lineup in town with a rooftop, tours, and a gift shop. I stay evenhanded on burnt-end joints, but on Tank 7 I'll take a side.",
+    "must_try": "A fresh pour of Tank 7 Farmhouse Ale in the Beer Hall",
+    "hours": "Mon-Thu 12pm-9pm; Fri-Sat 11am-9pm; Sun 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Monarch Bar",
+    "address": "4808 Roanoke Pkwy, Kansas City, MO 64112",
+    "phone": "(816) 896-8484",
+    "website": "https://www.themonarchbar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail lounge",
+    "price": "$$$",
+    "rating": null,
+    "description": "Just off the Country Club Plaza, the Monarch dresses up the way a competition brisket does - marble bar, low light, and cocktails built with the kind of care you'd give a 14-hour cook. Refined without being stiff, it's the room for a slow-sipped nightcap.",
+    "must_try": "A classic-forward craft cocktail at the marble main bar",
+    "hours": "Mon-Thu 4pm-12am; Fri-Sat 4pm-1:30am; Sun closed",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Torn Label Brewing Company",
+    "address": "1708 Campbell St, Kansas City, MO 64108",
+    "phone": "(816) 656-5459",
+    "website": "https://tornlabel.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "East Crossroads brewhouse where one building holds two rooms with two personalities - a taproom that pours honest KC beer without the polish or the pretense. Low-key, local, and the kind of place where the regulars know which stool is theirs.",
+    "must_try": "Alpha Pale Ale in the East Crossroads taproom",
+    "hours": "Wed-Sat 11:30am-10pm; Sun 11:30am-9pm; Mon-Tue closed",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Ship",
+    "address": "1221 Union Ave, Kansas City, MO 64101",
+    "phone": "(816) 471-7447",
+    "website": "https://www.theshipkc.com/",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail bar & live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "A restored 1935 lounge in the weathered brick of the West Bottoms - cocktails on one side, a live-music room on the other, and history soaked into the walls like smoke into a pit. Free parking, local bands, and zero attitude. This is old KC still doing it right.",
+    "must_try": "A classic cocktail paired with a set of local live music in the 1935 room",
+    "hours": "Tue 11am-11pm; Wed 11am-12am; Thu-Sat 11am-1am; Sun-Mon usually closed",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "KC Bier Co.",
+    "address": "310 W 79th St, Kansas City, MO 64114",
+    "phone": "(816) 214-8691",
+    "website": "https://kcbier.com/",
+    "category": "bars_nightlife",
+    "subcategory": "german brewery & biergarten",
+    "price": "$$",
+    "rating": null,
+    "description": "Down in Waldo, this Bierhalle and Biergarten brews traditional German-style lagers with imported ingredients and pours them beside pretzels and bratwurst. The big outdoor Biergarten is a slow-Sunday kind of place - shade, a liter, and time to let it all breathe.",
+    "must_try": "A liter of Dunkel with a Bavarian pretzel in the Biergarten",
+    "hours": "Tue-Thu 11am-9pm; Fri-Sat 11am-10pm; Sun 11am-9pm; Mon closed",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Messenger Coffee Co. + Ibis Bakery",
+    "address": "1624 Grand Blvd, Kansas City, MO 64108",
+    "phone": "(913) 669-9883",
+    "website": "https://messengercoffee.co/",
+    "category": "coffee_bakeries",
+    "subcategory": "roaster, cafe & bakery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A tri-level cathedral to the bean on Grand - roasting facility, cafe, Ibis Bakery, and a rooftop deck stacked one on top of the other. Messenger was doing direct farmer relationships before it was fashionable, low-and-slow on the sourcing. Ride the stairs up, coffee in hand.",
+    "must_try": "A flaky Ibis Bakery croissant with a pour-over on the rooftop deck",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Café Cà Phê",
+    "address": "916 E 5th St, Kansas City, MO 64106",
+    "phone": null,
+    "website": "https://www.cafecaphe.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "vietnamese coffee shop",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "KC's first Vietnamese coffee shop, breathing new life into Columbus Park with bold condensed-milk builds and a fiercely local following. The flavors run deep and unhurried - the coffee equivalent of a proper overnight cook. Bright, welcoming, and unmistakably its own thing.",
+    "must_try": "The Vietnamese iced coffee (cà phê sữa đá) with house condensed milk",
+    "hours": "Mon-Thu 7:30am-5:30pm; Fri-Sun 7:30am-7:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blip Roasters",
+    "address": "1301 Woodswether Rd, Kansas City, MO 64105",
+    "phone": "(816) 514-1541",
+    "website": "https://www.bliproasters.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster & cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A spacious brick roastery in the historic West Bottoms with a motorcycle-shop soul - bikes parked inside, events and moto meetups on the calendar since 2014. They roast their own and pull a serious shot. Grit and craft in equal measure, which is a very KC combination.",
+    "must_try": "A cortado pulled in the motorcycle-strewn West Bottoms garage space",
+    "hours": "Daily 7am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventurer",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Roasterie Factory Cafe",
+    "address": "1204 W 27th St, Kansas City, MO 64108",
+    "phone": "(816) 268-4652",
+    "website": "https://theroasterie.com/pages/the-factory",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster & cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A KC institution where the DC-3 plane bolted to the building tells you they take air-roasting seriously. The Factory Cafe puts the whole operation on display - production floor, canning line, retail, and a cafe - so you sip while you watch the beans go low-and-slow through the roaster.",
+    "must_try": "An air-roasted single-origin pour-over under the DC-3 plane",
+    "hours": "Mon-Fri 7am-5pm; Sat-Sun 8am-4pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oddly Correct",
+    "address": "4141 Troost Ave, Kansas City, MO 64110",
+    "phone": "(816) 897-0237",
+    "website": "https://oddlycorrect.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster & bar",
+    "price": "$$",
+    "rating": null,
+    "description": "An uncompromising little roaster on Troost that treats specialty coffee like a discipline - grab-a-bag shelves, no pre-order fuss, and baristas happy to point you right. Then there are the morning buttermilk biscuit sandwiches, which are worth getting out of bed early and slow for.",
+    "must_try": "The housemade buttermilk biscuit sandwich with a filter coffee",
+    "hours": "Mon-Fri 7am-5pm; Sat-Sun 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Café Corazón",
+    "address": "1721 Westport Rd, Kansas City, MO 64111",
+    "phone": "(816) 205-8010",
+    "website": "https://www.cafecorazonkc.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "latin american coffee roaster",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "KC's first Latin and Indigenous coffee house and roastery, sourcing from women-owned and Indigenous-run farms across Latin America. The Westport room leans warm and Latin American in spirit; the coffee carries real culture in the cup. Order the café de olla and let it linger.",
+    "must_try": "A café de olla spiced with cinnamon and piloncillo",
+    "hours": "Mon-Fri 7am-6pm; Sat-Sun 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fervere",
+    "address": "1702 Summit St, Kansas City, MO 64108",
+    "phone": "(816) 842-7272",
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "artisan bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "A Westside bread studio built around a stone-and-brick hearth, turning out more than a dozen loaves that KC lines up for - and that sell out well before closing. Hours are tight and the smoke's gone quick, so come early or call ahead. Real fire, real patience, real bread.",
+    "must_try": "The Orchard loaf studded with apricots, apples, golden raisins and walnuts",
+    "hours": "Thu-Fri 11am-7pm; Sat 9:30am-2pm (often sells out early)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "American Jazz Museum",
+    "address": "1616 E 18th St, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://americanjazzmuseum.org",
+    "category": "attractions",
+    "subcategory": "music museum",
+    "price": "$",
+    "rating": null,
+    "description": "This is where the KC sound got its slow-cooked start, and the museum honors it like a brisket that took decades to render. Interactive exhibits trace Charlie Parker, Ella, and Basie through the neighborhood that birthed them; the same roof shelters the Blue Room club and the Gem Theater. Anchor of the 18th & Vine district and the first stop on the jazz-to-the-pit trail.",
+    "must_try": "The interactive Charlie Parker listening stations and a peek into the working Blue Room jazz club",
+    "hours": "Mon-Sat 10am-5pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Negro Leagues Baseball Museum",
+    "address": "1616 E 18th St, Kansas City, MO 64108",
+    "phone": "(816) 221-1920",
+    "website": "https://www.nlbm.com",
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$",
+    "rating": null,
+    "description": "Low and slow is how justice came to baseball, and this museum tends that story with reverence. From the leagues' 1920 founding right here in KC through Satchel Paige, Josh Gibson, and Jackie Robinson, the Field of Legends bronze statues will stop you cold. Shares the 18th & Vine building with the Jazz Museum; grab the $15 combo ticket and do both.",
+    "must_try": "Standing among the life-size bronzes on the Field of Legends",
+    "hours": "Tue-Sat 10am-5pm, Sun 12pm-5pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Nelson-Atkins Museum of Art",
+    "address": "4525 Oak St, Kansas City, MO 64111",
+    "phone": "(816) 751-1278",
+    "website": "https://www.nelson-atkins.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "Free as a Sunday afternoon and worth savoring like the last burnt end on the tray. World-class galleries run from Caravaggio to a knockout Asian collection, but the real KC ritual is the Donald J. Hall Sculpture Park out front, where Claes Oldenburg's giant shuttlecocks lie scattered across the lawn like somebody dropped a badminton game the size of a stadium.",
+    "must_try": "A picnic beneath the giant Shuttlecocks in the sculpture park",
+    "hours": "Thu 10am-9pm; Fri-Mon 10am-5pm; closed Tue-Wed",
+    "seasonal": "Bloch Building galleries closing/reopening on a rolling basis through 2026 for maintenance",
+    "modes": [
+      "culture",
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "National WWI Museum and Memorial",
+    "address": "2 Memorial Dr, Kansas City, MO 64108",
+    "phone": "(816) 888-8100",
+    "website": "https://www.theworldwar.org",
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$",
+    "rating": null,
+    "description": "America's official WWI museum sits under the Liberty Memorial tower, and it earns its solemnity honestly. You cross a glass bridge over a field of 9,000 poppies to enter, then ride the elevator up the tower for a 360-degree view of the skyline that no burnt-end joint can match. Evenhanded history told with a craftsman's patience.",
+    "must_try": "The glass poppy-field bridge and the elevator ride up the Liberty Memorial Tower",
+    "hours": "Wed-Mon 10am-5pm, closed Tue (daily in summer)",
+    "seasonal": "Summer hours run daily Memorial Day through Labor Day",
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kemper Museum of Contemporary Art",
+    "address": "4420 Warwick Blvd, Kansas City, MO 64111",
+    "phone": "(816) 753-5784",
+    "website": "https://www.kemperart.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "Always free, always contemporary, and blessedly unhurried just north of the Country Club Plaza. The permanent collection leans into bold modern voices, and Louise Bourgeois's giant bronze spider 'Ourson' guards the entrance like a sentry. A quick, sharp counterpoint to the old-master pace at the Nelson.",
+    "must_try": "The Louise Bourgeois spider sculpture out front",
+    "hours": "Wed & Fri 10am-4pm; Thu 10am-9pm; Sat-Sun 10am-4pm; closed Mon-Tue",
+    "seasonal": "Paid parking in surrounding lots began January 1, 2026",
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Union Station Kansas City (Science City)",
+    "address": "30 W Pershing Rd, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://unionstation.org",
+    "category": "attractions",
+    "subcategory": "family science center",
+    "price": "$$",
+    "rating": null,
+    "description": "A 1914 railroad palace reborn as the family cook-out of KC attractions. Inside the grand Beaux-Arts hall you'll find Science City's 300-plus hands-on exhibits, the Arvin Gottlieb Planetarium, and the five-story Extreme Screen theater. Traveling blockbuster exhibitions roll through, and the building itself is a photo op before you buy a ticket.",
+    "must_try": "A planetarium show followed by the interactive exhibits in Science City",
+    "hours": "Science City typically Mon-Sat 10am-5pm, Sun 12pm-5pm (verify seasonal hours)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arabia Steamboat Museum",
+    "address": "400 Grand Blvd, Kansas City, MO 64106",
+    "phone": null,
+    "website": "https://www.1856.com",
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$",
+    "rating": null,
+    "description": "A time capsule buried in a Missouri cornfield for 132 years, unearthed and displayed down at the City Market. The Arabia sank in 1856 loaded with frontier cargo, and the preserved dishes, boots, and even edible-looking preserves are a marvel of low-and-slow preservation. Get here soon, pitmaster's orders: this beloved spot has announced it closes for good in November 2026.",
+    "must_try": "The wall of perfectly preserved 1856 dishware and trade goods",
+    "hours": "Mon-Sat 10am-5pm, Sun 12pm-5pm; last entry 3:30pm",
+    "seasonal": "Permanently closing November 2026 after 30+ years",
+    "modes": [
+      "culture",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crossroads Arts District",
+    "address": "19th St & Baltimore Ave, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://kccrossroads.org",
+    "category": "attractions",
+    "subcategory": "arts district",
+    "price": "$",
+    "rating": null,
+    "description": "The city's creative smokehouse, where galleries, studios, and street markets fire up all at once. On the First Friday of every month, thousands pack the district from 5-9pm for open galleries, 100-plus local makers, food trucks, and live music spilling into the art alleys between Baltimore and Wyandotte. Free to wander, easy to lose an evening in.",
+    "must_try": "First Fridays gallery hop through the art alleys and street market",
+    "hours": "Galleries vary; First Fridays 5pm-9pm the first Friday monthly",
+    "seasonal": "Art Alleys and Food Truck Plaza run April through October",
+    "modes": [
+      "culture",
+      "chill",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Blue Room",
+    "address": "1616 E 18th St, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://americanjazzmuseum.org",
+    "category": "entertainment",
+    "subcategory": "jazz club",
+    "price": "$$",
+    "rating": null,
+    "description": "Part museum exhibit by day, living jazz club by night, this is where the 18th & Vine legacy still breathes. Over 20 live shows a month keep the Kansas City sound simmering, with local combos and touring cats trading solos under warm light. No fabricated nostalgia here, just real horns in the room that started it all.",
+    "must_try": "A live combo set on a Monday-night jam",
+    "hours": "Open to the public Mon, Fri & Sat evenings; hours vary by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mutual Musicians Foundation",
+    "address": "1823 Highland Ave, Kansas City, MO 64108",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "after-hours jazz venue",
+    "price": "$",
+    "rating": null,
+    "description": "A National Historic Landmark and the beating after-hours heart of KC jazz since the 1930s. The real magic starts when everywhere else closes: Friday and Saturday the jam sessions run past 1am into the early morning, seasoned masters and young players trading choruses in a room thick with a century of history. This is the low-and-slow soul of the whole scene.",
+    "must_try": "The late-night weekend jam session that runs till dawn",
+    "hours": "Late-night jam sessions Fri & Sat, roughly 1am until early morning",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kauffman Center for the Performing Arts",
+    "address": "1601 Broadway Blvd, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://www.kauffmancenter.org",
+    "category": "entertainment",
+    "subcategory": "performing arts center",
+    "price": "$$$",
+    "rating": null,
+    "description": "Moshe Safdie's swooping glass-and-steel landmark is the crown of the KC skyline and home to the Kansas City Symphony, Lyric Opera, and Ballet. Helzberg Hall's acoustics are so precise you'll hear a whisper from the balcony, and the touring roster runs from Pat Metheny to Broadway. Dress it up; this one's worth the occasion.",
+    "must_try": "A Kansas City Symphony night in Helzberg Hall",
+    "hours": "Box office and show times vary by performance",
+    "seasonal": "Future Stages Festival each June spotlights 600+ local youth performers",
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Starlight Theatre",
+    "address": "4600 Starlight Rd, Kansas City, MO 64132",
+    "phone": null,
+    "website": "https://www.kcstarlight.com",
+    "category": "entertainment",
+    "subcategory": "outdoor amphitheater",
+    "price": "$$$",
+    "rating": null,
+    "description": "The oldest and largest continuously operating outdoor theater in the country, tucked into leafy Swope Park. Summer nights bring up to nine Broadway musicals plus big-name touring concerts under an open sky. Bring a light jacket for when the sun sets low and slow over the stage; the KC summer tradition doesn't get more classic than this.",
+    "must_try": "A touring Broadway musical under the summer stars",
+    "hours": "Seasonal summer/fall performances; show times vary",
+    "seasonal": "Outdoor season runs late spring through fall",
+    "modes": [
+      "culture",
+      "romantic",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Knuckleheads Saloon",
+    "address": "2715 Rochester Ave, Kansas City, MO 64120",
+    "phone": "(816) 483-1456",
+    "website": "https://knuckleheadskc.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Down in the East Bottoms by the railroad tracks sits KC's gloriously gritty roadhouse, four stages of blues, roots, and rock nearly every night. The outdoor stage holds 1,300, the Garage packs 750, and trains literally rumble past mid-set. This is the honky-tonk equivalent of a smoke ring: unpretentious, authentic, and deeply satisfying.",
+    "must_try": "A blues or Americana show on the outdoor stage as a freight train rolls by",
+    "hours": "Roughly Wed-Sun evenings; hours vary by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "GEHA Field at Arrowhead Stadium",
+    "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+    "phone": null,
+    "website": "https://www.gehafieldatarrowhead.com",
+    "category": "entertainment",
+    "subcategory": "NFL stadium",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The loudest outdoor stadium on the planet and the red-clad temple of Chiefs Kingdom. Come fall, 76,000 fans tailgate for hours before kickoff over grills and smokers, then bring the noise that has literally set world records. The Pitmaster stays evenhanded on burnt-end joints, but on Chiefs Sundays there's no neutral ground.",
+    "must_try": "A tailgate in the Arrowhead lots before a fall Chiefs game",
+    "hours": "Event days only; gates open ahead of kickoff",
+    "seasonal": "Chiefs season runs fall through winter; hosting 2026 FIFA World Cup matches as 'Kansas City Stadium'",
+    "modes": [
+      "adventurer",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kauffman Stadium",
+    "address": "1 Royal Way, Kansas City, MO 64129",
+    "phone": null,
+    "website": "https://www.mlb.com/royals/ballpark",
+    "category": "entertainment",
+    "subcategory": "MLB ballpark",
+    "price": "$$",
+    "rating": null,
+    "description": "Home of the Royals since 1973 and one of the prettiest ballparks in the majors, 'The K' is defined by its iconic 322-foot crown-shaped scoreboard and the fountains cascading beyond the outfield wall. A spring and summer staple: grab a seat, a cold one, and let a slow nine innings unfold the way baseball intends.",
+    "must_try": "A summer evening game with the outfield fountains lit up",
+    "hours": "Game days seasonally, April through fall; times vary",
+    "seasonal": "Baseball season spring through fall",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Children's Mercy Park",
+    "address": "1 Sporting Way, Kansas City, KS 66111",
+    "phone": null,
+    "website": "https://www.sportingkc.com/childrens-mercy-park",
+    "category": "entertainment",
+    "subcategory": "soccer stadium",
+    "price": "$$",
+    "rating": null,
+    "description": "The metro's soccer cathedral, just across the state line in the Village West district, is widely rated one of the best MLS venues in the league. Sporting KC's supporters bring the smoke and the noise in the Cauldron end, chanting and drumming through 90 minutes. A rowdier, faster cousin to the ballpark, and an easy trip west of downtown.",
+    "must_try": "A Sporting KC match from the standing supporters' section, The Cauldron",
+    "hours": "Match days seasonally; times vary",
+    "seasonal": "MLS season runs spring through fall",
+    "modes": [
+      "adventurer",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Riverfront Heritage Trail",
+    "address": "Trailhead at Berkley Riverfront, 1298 River Front Dr, Kansas City, MO 64120",
+    "phone": null,
+    "website": "https://kcparks.org/places/riverfront-heritage-trail/",
+    "category": "outdoor_adventure",
+    "subcategory": "paved multi-use trail",
+    "price": "$",
+    "rating": null,
+    "description": "Fifteen paved miles that smoke slow through the oldest cuts of bi-state KC, linking Berkley Riverfront to Kaw Point and the West Bottoms. It's the connective tissue of the whole town, my friend, laid down like a good bark that holds everything together. Roll it by bike or wear it down on foot; either way you earn the river.",
+    "must_try": "The Town of Kansas Bridge observation deck for a multi-story view over the Missouri",
+    "hours": "Open daily, dawn to dusk",
+    "seasonal": "Best spring through fall; shaded river stretches beat the July heat",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cliff Drive Scenic Byway at George E. Kessler Park",
+    "address": "West entrance: 1801 Cliff Drive, Kansas City, MO 64106",
+    "phone": null,
+    "website": "https://kcparks.org/places/cliff-drive/",
+    "category": "outdoor_adventure",
+    "subcategory": "scenic byway and hiking",
+    "price": "$",
+    "rating": null,
+    "description": "Missouri's only urban state scenic byway, and here's the beautiful part: it's closed to cars every day, so the whole two-lane blacktop belongs to you, your bike, and the stroller crowd. Forested bluffs rise 250 feet off the Missouri while you amble the four miles out. Low and slow through historic Northeast, no shoulder-checking required.",
+    "must_try": "The man-made Kessler Park waterfall tucked along the route",
+    "hours": "Closed to motor vehicles daily; open for walking and biking dawn to dusk",
+    "seasonal": "Peak color in October; bluffs can ice up after winter rain",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+    "address": "5200 Wornall Rd, Kansas City, MO 64112",
+    "phone": "816-513-7570",
+    "website": "https://kcparks.org/places/loose-park/",
+    "category": "outdoor_adventure",
+    "subcategory": "city park and garden",
+    "price": "$",
+    "rating": null,
+    "description": "The genteel side of KC's green ledger, and I'll be evenhanded about it: some days you want burnt ends, some days you want roses. Loose Park's got 3,000 of the latter across nearly 130 varieties in a 1.5-acre municipal garden that's been coaxed along since 1931. Bring a blanket, let the afternoon render down.",
+    "must_try": "The Laura Conyers Smith Municipal Rose Garden at peak June bloom",
+    "hours": "Daily 5:00 am to midnight; garden follows park hours",
+    "seasonal": "Roses peak late May through June; a favorite fall-foliage stroll too",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swope Park - Fox Hollow Trail & Mountain Bike Trails",
+    "address": "Fox Hollow trailhead by Lakeside Nature Center, 4701 E Gregory Blvd, Kansas City, MO 64132",
+    "phone": null,
+    "website": "https://kcparks.org/places/swope-park-fox-hollow-trail/",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking and mountain biking",
+    "price": "$",
+    "rating": null,
+    "description": "One of the biggest urban parks in the country, and it earns the title low and slow: limestone bluffs, riparian forest, a 2-mile Fox Hollow hike behind the nature center, and roughly 20 miles of bike-carved singletrack off Oldham Road for the folks who like their trails with some smoke. Something for the whole pit crew.",
+    "must_try": "The creek crossing and rock formations on Fox Hollow Trail",
+    "hours": "Park open daily dawn to dusk; MTB trails close when wet",
+    "seasonal": "Bike trails may close after rain; check Urban Trail Co. status",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Richard L. Berkley Riverfront Park",
+    "address": "1298 River Front Dr, Kansas City, MO 64120",
+    "phone": null,
+    "website": "https://berkleyriverfront.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "riverfront park",
+    "price": "$",
+    "rating": null,
+    "description": "The city's front porch on the Missouri, sitting pretty between the Kit Bond and Heart of America bridges. Two paved miles of trail, sand volleyball, an urban boulder to scramble, and murals big enough to swallow you whole. Come summer it's food trucks and live music by the water, the kind of easy evening that doesn't need rushing.",
+    "must_try": "A scramble up the urban bouldering wall, then a lap on the 2-mile trail",
+    "hours": "Park grounds open daily; event schedule varies",
+    "seasonal": "Summer concerts and festivals; playgrounds and picnics year-round",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "KC Kayak & Canoe",
+    "address": "River launch at Kaw Point Park, 1403 Fairfax Trafficway, Kansas City, KS 66115",
+    "phone": null,
+    "website": "https://www.kcriverrun.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak and canoe outfitter",
+    "price": "$$",
+    "rating": null,
+    "description": "The go-to for putting a paddle in the big muddy Missouri. They handle gear and shuttle; the float's unguided but forgiving, no experience needed. Two routes on the menu: a 5-mile Bridge Tour from Kaw Point to Riverfront, or the 15-mile Mile Maniac out of Parkville. Seeing the skyline slide by from water level is worth the sunburn.",
+    "must_try": "The 5-mile Bridge Tour float from Kaw Point down to Riverfront Park",
+    "hours": "By reservation; seasonal scheduled floats",
+    "seasonal": "Open 2026 on limited service - book early; warm-season floats only",
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zip KC",
+    "address": "12829 Loring Rd, Bonner Springs, KS 66012",
+    "phone": null,
+    "website": "https://zipkc.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline and canopy tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "When you want your outdoors served hot and fast instead of low and slow, this is the spot: nine lines strung over 5,800 feet of Bonner Springs timber, topping out around 50 mph. The Ultimate Adventure runs the whole course and finishes with a zero-gravity drop. Riders roughly 7-plus and 70 to 275 pounds. Grab it before the leaves turn.",
+    "must_try": "The zero-gravity 12-foot free-fall line that caps the Ultimate Adventure Tour",
+    "hours": "By reservation; tours run seasonally",
+    "seasonal": "Best April through October; night tours run under glow sticks",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Longview Lake Park & Marina",
+    "address": "Marina: 9898 Longview Rd, Kansas City, MO 64134; Beach: 11101 Raytown Rd, Kansas City, MO 64134",
+    "phone": "816-966-0131",
+    "website": "https://www.makeyourdayhere.com/Facilities/Longview-Lake-Marina",
+    "category": "outdoor_adventure",
+    "subcategory": "lake, marina and trail",
+    "price": "$",
+    "rating": null,
+    "description": "Nine hundred and thirty acres of open water minutes south of downtown, run by Jackson County. Full-service marina with boat rentals and fuel, a swim beach, and a 6.5-mile paved trail that climbs bluffs above the Little Blue. Cast for bass, walleye, or crappie, or just let a pontoon idle. Patient work, the way good things go.",
+    "must_try": "A pontoon rental from the marina out onto the open 930-acre lake",
+    "hours": "Marina and beach seasonal; park open daily",
+    "seasonal": "Beach and boat rentals summer; trail and fishing year-round",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smithville Lake",
+    "address": "Smithville Lake, Smithville, MO 64089 (Clay County Parks / park office)",
+    "phone": "816-407-3400",
+    "website": "https://www.visitclaymo.com/p/things-to-do/outdoors/smithville-lake",
+    "category": "outdoor_adventure",
+    "subcategory": "lake, marina and campground",
+    "price": "$",
+    "rating": null,
+    "description": "Seventy-two hundred acres and 175 miles of shoreline just 20 miles north, and it's built for a whole weekend's slow burn: two full-service marinas with rentals, two swim beaches, a sailboat marina, 777 campsites, and a dockside restaurant. Add 25 miles of bike trail, 26 of equestrian, and 11 of singletrack. Room to spread out.",
+    "must_try": "A sunset sail or pontoon out of Camp Branch or Paradise Pointe Marina",
+    "hours": "Park daily; marinas and beaches seasonal",
+    "seasonal": "Boating, camping and beaches warm season; trails and fishing year-round",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue River Parkway & Minor Park Trails",
+    "address": "Minor Park trailhead, 12000 Holmes Rd, Kansas City, MO 64145",
+    "phone": null,
+    "website": "https://kcparks.org/places/blue-river-greenway-trail/",
+    "category": "outdoor_adventure",
+    "subcategory": "greenway and mountain biking",
+    "price": "$",
+    "rating": null,
+    "description": "A north-south ribbon along the Blue River giving you two ways to ride: a paved 6-mile greenway for the easy roll, or 25-plus miles of rustic, rugged singletrack maintained by the Urban Trail Co. for those who want their footing to fight back. The dirt closes when it's wet, so let it dry out and firm up first.",
+    "must_try": "The padlock-covered old Red Bridge (Locks of Love) at the Minor Park trailhead",
+    "hours": "Open daily dawn to dusk; dirt trails close when wet",
+    "seasonal": "Singletrack best in dry weather; greenway rideable most of the year",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Parkville Nature Sanctuary",
+    "address": "100 E 12th St, Parkville, MO 64152",
+    "phone": "816-741-7676",
+    "website": "https://parkvillemo.gov/nature-sanctuary/",
+    "category": "outdoor_adventure",
+    "subcategory": "nature preserve and hiking",
+    "price": "$",
+    "rating": null,
+    "description": "A 115-acre pocket of quiet 15 minutes from downtown, laced with nearly three miles of trail graded to your appetite. Old Kate Trail brings natural waterfalls, White Tail turns up the heat with rocky ridges and climbs, and the Bluebird is the mild plate with an ADA-accessible spur. Pick your intensity and simmer.",
+    "must_try": "The natural waterfalls along the Old Kate Trail",
+    "hours": "Open daily sunrise to sunset",
+    "seasonal": "Waterfalls run best after spring rain; wildflowers in April-May",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "English Landing Park & Platte Landing Park",
+    "address": "English Landing: 8701 McAfee St, Parkville, MO 64152; Platte Landing: 300 S Main St, Parkville, MO 64152",
+    "phone": null,
+    "website": "https://platteparks.com/park/english-landing-park/",
+    "category": "outdoor_adventure",
+    "subcategory": "riverfront park and trail",
+    "price": "$",
+    "rating": null,
+    "description": "Two adjacent parks totaling over 200 acres hugging the Missouri right off historic downtown Parkville. A crushed-gravel path loops both, tying into the 6-mile Riverfront Trail for a ride north of 15 miles if your legs are willing. Disc golf, sand volleyball, off-leash dog runs, and a boat ramp round out the spread.",
+    "must_try": "The crushed-gravel riverfront loop with downtown Parkville a few steps away",
+    "hours": "English Landing daily 5:30 am to midnight; Platte Landing 5:00 am to midnight",
+    "seasonal": "Great spring patios-and-paths season; riverfront wetlands draw birds",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kaw Point Park",
+    "address": "1403 Fairfax Trafficway, Kansas City, KS 66115",
+    "phone": null,
+    "website": "https://kawpointpark.org/",
+    "category": "outdoor_adventure",
+    "subcategory": "riverfront park",
+    "price": "$",
+    "rating": null,
+    "description": "A ten-acre spit of history at the confluence of the Kansas and Missouri rivers, where Lewis and Clark pulled ashore in June 1804. A lesser-known gem with short trails, interpretive signs, a boat launch, an amphitheater, and a wooded bank. The trails run short, but that skyline at sunset is worth the whole trip.",
+    "must_try": "The Kansas City skyline at sunset from the two-rivers confluence",
+    "hours": "Open daily dawn to dusk",
+    "seasonal": "Sunset views year-round; a Riverfront Heritage Trail parking anchor",
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Powell Gardens",
+    "address": "1609 NW US Highway 50, Kingsville, MO 64061",
+    "phone": "816-697-2600",
+    "website": "https://powellgardens.org/",
+    "category": "outdoor_adventure",
+    "subcategory": "botanical garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Kansas City's botanical garden, 970 acres of it, 30 miles east where the prairie stretches out. Themed gardens, a chapel by the lake, meandering paths, and seasonal shows that reward a return trip. It's the kind of place you wander unhurried, the way a good brisket asks for time rather than heat.",
+    "must_try": "The Festival of Butterflies in the conservatory (mid-July into early August)",
+    "hours": "Wednesday-Sunday 9:00 am to 5:00 pm; closed Monday and Tuesday",
+    "seasonal": "Festival of Butterflies mid-July to early Aug; Dragons & Fantastic Beasts summer 2026",
+    "modes": [
+      "chill",
+      "romantic",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Weston Bend State Park",
+    "address": "Highway 45 North, Weston, MO 64098",
+    "phone": null,
+    "website": "https://mostateparks.com/park/weston-bend-state-park",
+    "category": "outdoor_adventure",
+    "subcategory": "state park",
+    "price": "$",
+    "rating": null,
+    "description": "Forty minutes north near historic Weston, roughly 1,100 acres of bluff, bottomland, and old tobacco-growing groves on the Missouri's east bank. A 3-mile paved loop plus ten-plus miles of woodland dirt for hikers and bikers, a campground with hot showers, and a river overlook. Pair it with a Weston day trip and take it slow.",
+    "must_try": "The accessible scenic overlook framing the Missouri River and Fort Leavenworth",
+    "hours": "Park open daily; campground open year-round",
+    "seasonal": "Spectacular fall color on the bluffs; shaded trails ease summer heat",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Line Creek Trail",
+    "address": "Line Creek Community Center trailhead, 5940 NW Waukomis Dr, Kansas City, MO 64151",
+    "phone": null,
+    "website": "https://kcparks.org/places/line-creek-trail/",
+    "category": "outdoor_adventure",
+    "subcategory": "paved multi-use trail",
+    "price": "$",
+    "rating": null,
+    "description": "The Northland's smooth operator: a concrete-paved, 15-foot-wide, 8-mile path running Barry Road down to Riverside through neighborhoods and heavy woods. Wide enough that fast bikes and slow walkers share it without elbows. There's even a Fixit station with an air pump if your tire goes soft mid-ride. Easy, engineered, reliable.",
+    "must_try": "The wooded waterfall stretch on the north-KC paved path",
+    "hours": "Open daily dawn to dusk",
+    "seasonal": "Rideable most of the year; shaded and cool through summer",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Q39 Midtown",
+    "address": "1000 W 39th St, Kansas City, MO 64111",
+    "phone": "(816) 255-3753",
+    "website": "https://q39kc.com/locations/kansas-city-bbq/",
+    "category": "dining",
+    "subcategory": "barbecue",
+    "price": "$$",
+    "rating": null,
+    "description": "The chef-driven chapter of the KC story, born from the late championship pitmaster Rob Magee's fusion of contest-grade smoke and Culinary Institute polish. Q39 sits in walkable Midtown near Westport and pours a serious cocktail alongside the brisket. It's the joint that proves a burnt end can wear a sport coat. His widow Kelly keeps the pits running true to his fire.",
+    "must_try": "Burnt-end burger",
+    "hours": "Sun-Thu 11am-9pm, Fri-Sat 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Original KC Barbecue Tour (Tour Kansas City)",
+    "address": "Crossroads Arts District, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://tourkansascity.com/the-bbq-tour/",
+    "category": "entertainment",
+    "subcategory": "food tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Can't decide which pit to pledge your allegiance to? Let somebody else drive. KC's original and longest-running barbecue tour, rolling since around 2012, hits three to four legendary and hidden-gem joints in under four hours with tastings, transport, and a guide who'll settle the burnt-end debates for you. Book ahead — these sell out early, especially come Chiefs season. See availability and reserve online.",
+    "must_try": "The multi-stop tasting flight across name-brand and hole-in-the-wall pits",
+    "hours": null,
+    "seasonal": "Books out fast in fall Chiefs season and summer",
+    "modes": [
+      "foodie",
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boulevard Brewing Co. Beer Hall & Tours",
+    "address": "2534 Madison Ave, Kansas City, MO 64108",
+    "phone": "(816) 701-7247",
+    "website": "https://www.boulevard.com/visit-us/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery",
+    "price": "$$",
+    "rating": null,
+    "description": "The natural wash-down for a day of smoke — Kansas City's flagship brewery, sitting just off the Crossroads in the Southwest Boulevard corridor. Take the one-hour tour, keep the hanging-can cozy, then post up in the Beer Hall with 50-plus pours and skyline views from the patio. This is the beer half of the city's beloved Boulevardia summer festival, and a fine place to cool a barbecue-warmed palate.",
+    "must_try": "A tour flight plus a fresh Tank 7 in the Beer Hall",
+    "hours": "Tours & Rec Center Mon-Thu 12pm-8pm, Fri-Sat 11am-9pm, Sun 10am-6pm",
+    "seasonal": "Home of the summer Boulevardia festival",
+    "modes": [
+      "chill",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "J. Rieger & Co. Distillery",
+    "address": "2700 Guinotte Ave, Kansas City, MO 64120",
+    "phone": null,
+    "website": "https://www.jriegerco.com/",
+    "category": "bars_nightlife",
+    "subcategory": "distillery",
+    "price": "$$",
+    "rating": null,
+    "description": "A revived pre-Prohibition distillery in the Electric Park district, complete with a hidden bar and a tasting room that looks like a Gatsby fever dream. Book the hour-long tour across the production floor, ending in a guided tasting, then linger over a cocktail. It's the smooth, spirited counterpoint to a smoke-heavy afternoon — a place to sip whiskey and swap opinions on whose burnt ends won the day. See availability; tours sell out.",
+    "must_try": "The guided distillery tour and tasting, then a whiskey highball",
+    "hours": "Mon-Tue 12pm-6pm, Wed-Thu 12pm-10pm, Fri-Sat 12pm-12am, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crossroads Hotel",
+    "address": "2101 Central St, Kansas City, MO 64108",
+    "phone": "(816) 897-8100",
+    "website": "https://crossroadshotelkc.com/",
+    "category": "lodging",
+    "subcategory": "boutique hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "Base camp for the trail, dead-center in the Crossroads Arts District — a loving conversion of two historic buildings into 131 art-filled rooms with a rooftop bar for surveying the skyline. Walk to Jack Stack, the First Friday galleries, and the Power & Light nightlife, then sleep it off in industrial-chic comfort. When your day is built on brisket and beer, it helps to stumble home on foot. Check rates and book direct.",
+    "must_try": "A nightcap at the rooftop bar after a Crossroads BBQ crawl",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Loews Kansas City Hotel",
+    "address": "1515 Wyandotte St, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://www.loewshotels.com/kansas-city-hotel",
+    "category": "lodging",
+    "subcategory": "hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The big-box comfort play for game-day crews — 800 rooms connected to the Convention Center and a short walk to the Power & Light District, T-Mobile Center, and the Kauffman Center. Indoor lap pool, lobby bar, coffee shop, and room to sprawl after a long day on the pits. When you've got a group in town for a Chiefs or Royals weekend, this is the easy anchor. Check rates and see availability.",
+    "must_try": "A skyline room within stumbling distance of Power & Light",
+    "hours": null,
+    "seasonal": "Books heavily on fall Chiefs weekends",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kauffman Stadium (Kansas City Royals)",
+    "address": "1 Royal Way, Kansas City, MO 64129",
+    "phone": "(816) 504-4040",
+    "website": "https://www.mlb.com/royals/ballpark",
+    "category": "entertainment",
+    "subcategory": "sports venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "One of the prettiest ballparks in baseball, with its signature crown-shaped scoreboard and fountains out beyond the outfield — and a natural pairing for a summer barbecue run, since the stadium sits right by LC's on the east side. Grab a spring or summer game, take the dugout-and-press-box tour on an off day, and eat your way there first. Book game tickets or a stadium tour online; digital delivery via the Ballpark app.",
+    "must_try": "A summer Royals game with a burnt-end sandwich at the park",
+    "hours": null,
+    "seasonal": "Baseball season runs spring through summer; patio-weather games abound",
+    "modes": [
+      "family",
+      "adventurer",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "GEHA Field at Arrowhead Stadium (Kansas City Chiefs)",
+    "address": "1 Arrowhead Dr, Kansas City, MO 64129",
+    "phone": "(816) 920-4237",
+    "website": "https://www.gehafieldatarrowhead.com/",
+    "category": "entertainment",
+    "subcategory": "sports venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "The loudest stadium in football and the beating heart of fall in this town — Chiefs Sundays turn the whole parking lot into a tailgate smoke-out, which is about as on-brand as a BBQ trail gets. Next door to Kauffman in the Truman Sports Complex and a confirmed 2026 FIFA World Cup host. Book game tickets or a stadium tour, fire up a grill in the lot, and let the low-and-slow ritual meet the roar. See availability online.",
+    "must_try": "A fall Chiefs home game with a proper tailgate smoke",
+    "hours": null,
+    "seasonal": "Fall Chiefs energy is the whole point; 2026 also brings World Cup matches",
+    "modes": [
+      "adventurer",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City Market (Historic River Market)",
+    "address": "20 E 5th St, Kansas City, MO 64106",
+    "phone": "(816) 842-1271",
+    "website": "https://thecitymarketkc.org/",
+    "category": "shopping",
+    "subcategory": "public market / farmers market",
+    "price": "$",
+    "rating": null,
+    "description": "Kansas City's oldest public market has been running since the 1850s, and like a good brisket it only gets better with age. Weekend farmers stalls pile high with produce while year-round merchants deal in bulk chiles, spices, and international groceries the whole River Market wraps around.",
+    "must_try": "The weekend Farmers Market haul, then a browse through the spice and international grocers",
+    "hours": "Merchants Mon-Sat 7am-10pm, Sun 7am-9pm; Farmers Market Sat-Sun 8am-3pm",
+    "seasonal": "Peak produce spring through fall; largest farmers market crowds on summer weekends",
+    "modes": [
+      "family",
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Made in KC (Country Club Plaza)",
+    "address": "306 W 47th St, Kansas City, MO 64112",
+    "phone": null,
+    "website": "https://madeinkc.co/",
+    "category": "shopping",
+    "subcategory": "local goods / KC makers",
+    "price": "$$",
+    "rating": null,
+    "description": "Think of this as the sampler platter of Kansas City makers, with apparel, art, coffee, and hot sauce all sourced from local hands and no filler on the plate. The Plaza marketplace is the easiest one-stop spot to taste the whole city's craft scene.",
+    "must_try": "A jar of local BBQ sauce or a KC-skyline print from a homegrown maker",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hammerpress",
+    "address": "1413 W 11th St, Kansas City, MO 64101",
+    "phone": "(816) 421-1929",
+    "website": "https://hammerpress.net/",
+    "category": "shopping",
+    "subcategory": "letterpress / stationery",
+    "price": "$$",
+    "rating": null,
+    "description": "Down in the West Bottoms this letterpress studio presses ink into paper as patiently as we press smoke into pork, working antique type and hand-cranked presses. The retail floor is stacked with cards, prints, and gig posters all pulled right there in the shop.",
+    "must_try": "A hand-set letterpress greeting card or a screen-printed gig poster",
+    "hours": "Wed-Fri 10am-5pm, Sat 12pm-5pm; closed Sun-Tue",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mills Record Company",
+    "address": "4045 Broadway Blvd, Kansas City, MO 64111",
+    "phone": "(816) 960-3775",
+    "website": "https://millsrecordcompany.com/",
+    "category": "shopping",
+    "subcategory": "record shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A woman-owned Westport crate-digging joint that has been slinging vinyl since 2013, billed as a zero-judgment zone where the first-timer and the lifelong collector flip bins side by side. New pressings up front, a well-curated used wall in back, and listening parties throughout the year.",
+    "must_try": "A used soul or jazz LP dug out of the bins",
+    "hours": "Mon-Sat 11am-7pm, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Prospero's Books",
+    "address": "1800 W 39th St, Kansas City, MO 64111",
+    "phone": "(816) 531-9673",
+    "website": "https://prosperosbookstore.com/",
+    "category": "shopping",
+    "subcategory": "used bookstore",
+    "price": "$",
+    "rating": null,
+    "description": "Fifty thousand used titles stacked floor to rafter across a creaky three-story haunt on West 39th, with funky chairs to sink into and vinyl and CDs tucked among the shelves. This is a low-and-slow browse, the kind you don't rush.",
+    "must_try": "A poetry volume or used record turned up in the lower-level stacks",
+    "hours": "Mon-Sat 10:30am-10pm, Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Finefolk",
+    "address": "4502 State Line Rd, Kansas City, MO 66103",
+    "phone": "(816) 283-8144",
+    "website": "https://finefolk.com/",
+    "category": "shopping",
+    "subcategory": "designer boutique",
+    "price": "$$$",
+    "rating": null,
+    "description": "The white-tablecloth end of Kansas City fashion, a West Plaza concept shop where owner Leslie Fraley curates emerging and contemporary designers like a tasting menu. Expect labels new to KC alongside a few vintage treasures.",
+    "must_try": "An emerging-designer piece styled off the racks",
+    "hours": "Wed-Sat 12pm-6pm; Tue by appointment; closed Sun-Mon",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dear Society",
+    "address": "114 Southwest Blvd, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://dearsocietyshop.com/",
+    "category": "shopping",
+    "subcategory": "women's boutique",
+    "price": "$$",
+    "rating": null,
+    "description": "A curated women's boutique where modern and vintage fashion share the racks and an in-house matcha bar keeps you fueled through the browse. Sip while you decide, the way you'd nurse a drink waiting on the smoker.",
+    "must_try": "A vintage denim find paired with a ceremonial matcha from the in-house bar",
+    "hours": "Wed-Fri 11am-6pm, Sat 11am-5pm, Sun 11am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "West Bottoms Antique District",
+    "address": "W 12th St & Genesee St (12th Street Bridge District), Kansas City, MO 64102",
+    "phone": null,
+    "website": "https://www.westbottoms.com/shopping",
+    "category": "shopping",
+    "subcategory": "antique / vintage district",
+    "price": "$$",
+    "rating": null,
+    "description": "A grid of century-old brick and limestone warehouses, once built for the stockyards, that fill with antique and vintage dealers the first weekend of every month. This is the largest concentration of pickers in the metro, and you take the crawl low and slow.",
+    "must_try": "A first Friday-weekend hunt through the multi-story warehouses like Bella Patina and Bottoms Up",
+    "hours": null,
+    "seasonal": "Biggest turnout on First Friday weekends each month, Fri evening through Sunday",
+    "modes": [
+      "adventurer",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Good Ju Ju",
+    "address": "1420 W 13th Ter, Kansas City, MO 64102",
+    "phone": null,
+    "website": "https://www.goodjujukc.com/",
+    "category": "shopping",
+    "subcategory": "antique / vintage store",
+    "price": "$$",
+    "rating": null,
+    "description": "The godfather of Kansas City's event-style antiquing, credited with kicking off the West Bottoms first-weekend tradition back in 2007. Open just the first Friday and Saturday each month with goods from the 1880s to the 1980s, so get in line early because the good stuff moves fast.",
+    "must_try": "A mid-century score off the packed first-weekend floor",
+    "hours": "First Friday & Saturday of each month only, opening around 9am",
+    "seasonal": "Open two days a month on the first Friday-Saturday",
+    "modes": [
+      "adventurer",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Bunker",
+    "address": "4056 Broadway St, Kansas City, MO 64111",
+    "phone": "(816) 561-7407",
+    "website": "https://bunkerkc.com/",
+    "category": "shopping",
+    "subcategory": "streetwear / sneakers",
+    "price": "$$$",
+    "rating": null,
+    "description": "Kansas City's OG sneaker-and-streetwear temple, holding down Westport since 1997 and still a cultural hub for the city's style set. It also carries one of the deepest walls of watches and sunglasses in the Midwest.",
+    "must_try": "A limited sneaker drop or a KC-made streetwear tee",
+    "hours": "Mon-Sat 10am-8pm, Sun 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BLK + BRWN.",
+    "address": "104 1/2 W 39th St, Kansas City, MO 64111",
+    "phone": "(816) 605-1114",
+    "website": "https://blkbrwn.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "A woman-owned Midtown bookstore that opened on Juneteenth 2021 to uplift and amplify Black and Brown voices. QR codes on select titles hand you a paired experience, and the shop hosts book clubs, author talks, and signings.",
+    "must_try": "A staff-picked title by a Black or Brown author",
+    "hours": "Wed-Sat 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sister Anne's - Records and Coffee",
+    "address": "901 E 31st St, Kansas City, MO 64109",
+    "phone": "(816) 531-4890",
+    "website": "https://sisterannes.com/",
+    "category": "shopping",
+    "subcategory": "record shop / coffee",
+    "price": "$",
+    "rating": null,
+    "description": "A homey Midtown spot named for the late Anne Winter, a beloved KC record-store owner, that pours coffee alongside crates of vinyl and zines under vintage concert posters. Flip records while the espresso machine hums.",
+    "must_try": "A cortado paired with a used record and a local zine",
+    "hours": "Daily 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Duet",
+    "address": "517 E 18th St, Kansas City, MO 64108",
+    "phone": null,
+    "website": "https://www.shop-duet.com/",
+    "category": "shopping",
+    "subcategory": "gift shop / gallery / pottery studio",
+    "price": "$$",
+    "rating": null,
+    "description": "A three-in-one Crossroads shop pulling gift store, art gallery, and working pottery studio under one airy roof. It sits right in the 18th Street corridor, an easy add-on to a First Friday art crawl.",
+    "must_try": "A handmade ceramic piece thrown in the on-site studio",
+    "hours": "Tue-Sat 11am-6pm, Sun 12pm-4pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "RideKC Bike (Bike Share KC)",
+    "address": "Hubs across downtown, River Market, Union Station, Crown Center, Country Club Plaza & Westport, Kansas City, MO",
+    "phone": null,
+    "website": "https://ridekcbike.com/",
+    "category": "services",
+    "subcategory": "bike share rental",
+    "price": "$",
+    "rating": null,
+    "description": "The city's app-based bikeshare, with pedal and e-bike hubs parked near the Plaza, River Market, Union Station, and Westport. Grab one on a walk-up pass or 24-hour pass and roll the riverfront or the Trolley Track Trail under your own steam.",
+    "must_try": "An e-bike loop from River Market along the riverfront",
+    "hours": "24/7 app-based; walk-up, 24-hour pass, and memberships available",
+    "seasonal": "Best ridden spring through fall",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cycle City",
+    "address": "6328 Lewis Dr, Ste 200, Kansas City, MO 64152",
+    "phone": null,
+    "website": "https://www.gocyclecity.com/",
+    "category": "services",
+    "subcategory": "bike shop / rental",
+    "price": "$$",
+    "rating": null,
+    "description": "A homegrown Kansas City bike shop offering rentals, sales, and repairs for riders looking to tackle the Riverfront Heritage Trail and beyond on two wheels. Call ahead on current locations, as their River Market outpost has been in flux.",
+    "must_try": "A rental geared for a spin on the Riverfront Heritage Trail",
+    "hours": null,
+    "seasonal": "Best in the warmer riding months",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": true
+  }
+]

@@ -1,0 +1,246 @@
+{
+  "slug": "phoenix",
+  "name": "Phoenix",
+  "state": "Arizona",
+  "region": "Desert Southwest",
+  "tagline": "Where the desert keeps its own hours.",
+  "description": "A sprawling desert metropolis in the Valley of the Sun, where saguaro-studded mountain preserves rise straight out of the city grid, Mexican food runs generations deep, and the light does something at dusk you'll spend the rest of your life trying to describe. Phoenix rewards the early riser and the shade-seeker in equal measure — hike Camelback before the sun means it, chase murals down 16th Street, then let the pool and the patio culture take the afternoon. Snowbird winters, spring-training crowds, and a summer heat the locals have made peace with.",
+  "coordinates": {
+    "lat": 33.45,
+    "lng": -112.07
+  },
+  "timezone": "America/Phoenix",
+  "identity": {
+    "known_for": "Sonoran Desert landscapes, saguaro-lined mountain trails within the city, generational Mexican food, spring-training baseball, resort pool-and-golf culture, and some of the best sunsets in the country",
+    "vibe": "Sun-drenched and unhurried — a big, low-slung desert city that trades density for open sky, where outdoor mornings give way to shaded, poolside afternoons",
+    "best_season": "Winter and spring (November through April), when the heat backs off, the snowbirds arrive, and Cactus League spring training fills the ballparks February into March",
+    "visitor_type": "Sun-seekers and snowbirds, desert hikers and trail runners, golfers and spa-goers, food travelers chasing the Sonoran and Calle 16 corridors, and families splitting time between pools and mountain preserves"
+  },
+  "hero": {
+    "winter": "January mornings arrive at a civilized seventy degrees, the snowbirds have claimed every patio, and the mountains sit close enough to touch under a sky that refuses to cloud over.",
+    "spring": "Spring training crowds spill out of the ballparks, the desert blooms hard and fast after the winter rains, and every wildflower knows its window is short — so does yours.",
+    "summer": "Yes, it's hot — triple digits by ten a.m. and I won't pretend otherwise — so you hike at sunrise, you own the afternoon from a shaded pool, and you learn why we worship the monsoon storms that roll in at dusk. Drink more water than you think you need.",
+    "fall": "By October the furnace finally clicks off, the patios refill, and the Valley exhales into that long, golden stretch of perfect evenings that makes everyone forget how they spent August."
+  },
+  "nexus": {
+    "type": "resort-golf-cluster",
+    "anchor": "Arizona Biltmore, A Waldorf Astoria Resort",
+    "anchor_url": "https://www.arizonabiltmore.com/",
+    "radius": "The Camelback Corridor and Biltmore district — roughly 24th Street to 44th Street along Camelback Road, stretching toward the Scottsdale line",
+    "services": [
+      "resort lodging",
+      "championship golf",
+      "spa & wellness",
+      "pools & cabanas",
+      "fine dining",
+      "tennis"
+    ],
+    "affiliate_density": "high",
+    "description": "The Camelback Corridor is the Valley's concentrated belt of resort-spa-golf luxury, a Frank Lloyd Wright-influenced legacy anchored by the 1929 Biltmore and ringed by golf courses, destination spas, and palm-lined pools. This is where the snowbird winter and the pool-culture summer both make their headquarters — decades of desert resort tradition packed into a few square miles between the mountain and the city."
+  },
+  "nexus_grid": [
+    {
+      "id": "golf",
+      "title": "Corridor Golf",
+      "icon": "flag",
+      "description": "Championship and resort courses tucked against Camelback and Piestewa Peak, playable dawn to dusk in the cool months. Book early tee times year-round — the desert doesn't do mercy by noon."
+    },
+    {
+      "id": "spa",
+      "title": "Desert Spas",
+      "icon": "sparkles",
+      "description": "Destination spas built around desert botanicals — agave, prickly pear, sage — with the kind of shaded courtyards that make an August afternoon survivable."
+    },
+    {
+      "id": "pools",
+      "title": "Pool Culture",
+      "icon": "waves",
+      "description": "Cabana days, misted decks, and pools that were the whole point long before anyone called it wellness. The Biltmore's Catalina Pool was reputedly Marilyn Monroe's favorite."
+    },
+    {
+      "id": "dining",
+      "title": "Resort Tables",
+      "icon": "utensils",
+      "description": "Patio dining under heat lamps or misters depending on the season, from steakhouse classics to modern Southwestern plates with a view of the mountain."
+    },
+    {
+      "id": "stay",
+      "title": "Legacy Resorts",
+      "icon": "bed",
+      "description": "Historic and modern resort stays across the corridor, from Wright-influenced landmarks to sleek desert-modern retreats — the winter snowbird headquarters of the Valley."
+    },
+    {
+      "id": "tennis",
+      "title": "Courts & Racquets",
+      "icon": "trophy",
+      "description": "Resort tennis and pickleball under the palms, best played in the long shadows of morning or the cool of a winter afternoon."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "utensils",
+      "description": "Chase the Sonoran hot dog, the Calle 16 mural-corridor taquerias, and the Barrio Cafe lineage that put Phoenix Mexican food on the map — then work your way up to the resort tables.",
+      "tags": [
+        "mexican",
+        "sonoran",
+        "tacos",
+        "fine-dining",
+        "james-beard"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "umbrella",
+      "description": "Pool days, shaded patios, iced coffee, and the fine art of doing very little between a sunrise walk and a sunset drink. The Valley was built for the low gear.",
+      "tags": [
+        "pools",
+        "patios",
+        "cafes",
+        "sunset",
+        "slow"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "heart",
+      "description": "Desert sunsets that stop conversation, candlelit courtyards, a shared cactus garden at golden hour, and the kind of clear night sky the city lights barely dent.",
+      "tags": [
+        "sunset",
+        "date-night",
+        "wine",
+        "scenic",
+        "stargazing"
+      ]
+    },
+    {
+      "id": "adventurer",
+      "label": "Adventurer",
+      "icon": "mountain",
+      "description": "Camelback's Echo Canyon scramble, South Mountain's ridgelines, and Papago's red-rock holes — all inside the city limits. Go at sunrise, carry more water than feels reasonable, and turn back before the heat wins.",
+      "tags": [
+        "hiking",
+        "trails",
+        "climbing",
+        "sunrise",
+        "desert"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "palette",
+      "description": "Roosevelt Row's murals and galleries, the Heard Museum's Indigenous collections, the Desert Botanical Garden, and the 16th Street mural corridor where the food and the art share a wall.",
+      "tags": [
+        "murals",
+        "museums",
+        "galleries",
+        "roosevelt-row",
+        "botanical"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "moon",
+      "description": "Rooftop bars trading on those desert sunsets, downtown breweries, First Friday art walks, and speakeasies that keep the cool of the evening going long past dark.",
+      "tags": [
+        "rooftops",
+        "breweries",
+        "cocktails",
+        "first-friday",
+        "live-music"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "users",
+      "description": "Splash pads and resort pools, the Phoenix Zoo and Papago's trails, a Diamondbacks game under the retractable roof, and desert discovery that keeps the kids busy before the sun peaks.",
+      "tags": [
+        "zoo",
+        "pools",
+        "baseball",
+        "parks",
+        "kid-friendly"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Phoenix Sky Harbor International Airport (PHX) sits about four miles southeast of downtown — closer to the center than almost any major-city airport in the country. Take the free PHX Sky Train from Terminal 4 to the 44th St/Washington station, connect to Valley Metro light rail, and you're downtown in under half an hour for a couple of dollars. Rideshare and taxis reach downtown or the Camelback Corridor in 10 to 20 minutes.",
+    "local_transport": "This is a car city — a rental is the honest answer for reaching the mountain trailheads, Scottsdale, and the resort corridor. The Valley Metro light rail runs a 28-mile line linking the airport, downtown, Roosevelt Row, Tempe, and Mesa (about $2 a ride, trains every 12 to 20 minutes). Rideshare is plentiful. In summer, mind that walking distances that look short on a map get long fast under the sun."
+  },
+  "side_trips": [
+    {
+      "name": "Sedona",
+      "distance": "About 2 hours north",
+      "pitch": "Trade the saguaros for red-rock cathedrals — a two-hour drive up I-17 delivers you to the vortex country of towering sandstone buttes, creekside trails, and some of the most photographed landscape in the Southwest.",
+      "highlights": [
+        "Red-rock hiking (Devil's Bridge, Cathedral Rock)",
+        "Oak Creek Canyon scenic drive",
+        "Chapel of the Holy Cross",
+        "Vortex sites and wellness retreats",
+        "Tlaquepaque arts village"
+      ]
+    },
+    {
+      "name": "Grand Canyon South Rim",
+      "distance": "About 3.5 hours north",
+      "pitch": "The one that needs no introduction. Three and a half hours puts you on the South Rim, staring into a mile-deep canyon that no photo has ever done justice — go for sunrise or sunset when the light sets the walls on fire.",
+      "highlights": [
+        "South Rim overlooks (Mather Point, Yavapai)",
+        "Rim Trail walking",
+        "Desert View Watchtower",
+        "Sunrise and sunset over the canyon",
+        "Historic Grand Canyon Village"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Saguaro",
+    "greeting": "Well, look who wandered into the Valley of the Sun. I'm the Saguaro — been standing out here longer than most of these resorts, and I've watched every snowbird, hiker, and taco pilgrim come through. Tell me what you're after and I'll point you right, sunburn-free.",
+    "personality": "Dry desert wit, decades in the Valley, warm underneath the deadpan. Knows the difference between Phoenix and Scottsdale and will gently correct you. Drops sun-safety asides like a local dad — hydrate, hat, hike early, respect the heat — because the desert is beautiful and it does not care about your itinerary.",
+    "sign_off": "Drink your water, catch the sunset, and don't summit Camelback at noon in July. — The Saguaro"
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "district-roosevelt-row.jpg",
+      "outdoors-papago-park.jpg",
+      "resort-golf-corridor.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions.jpg",
+      "bars_nightlife": "dir-bars_nightlife.jpg",
+      "coffee_bakeries": "dir-coffee_bakeries.jpg",
+      "dining": "dir-dining.jpg",
+      "entertainment": "dir-entertainment.jpg",
+      "lodging": "dir-lodging.jpg",
+      "outdoor_adventure": "dir-outdoor_adventure.jpg",
+      "services": "dir-services.jpg",
+      "shopping": "dir-shopping.jpg",
+      "wellness_spa": "dir-wellness_spa.jpg"
+    },
+    "section_breaks": {}
+  }
+}

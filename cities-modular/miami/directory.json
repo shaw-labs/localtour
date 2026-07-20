@@ -1,0 +1,4765 @@
+[
+  {
+    "name": "Joe's Stone Crab",
+    "address": "11 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-0365",
+    "website": "https://joesstonecrab.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "The most famous restaurant in Miami, period. Been here since 1913. No reservations — you wait in line like everyone else, or hit the takeout window like a local.",
+    "must_try": "Stone crab claws with mustard sauce and a side of key lime pie",
+    "hours": "Sun-Thu 11:30am-10pm, Fri-Sat 11:30am-11pm (seasonal: Oct 15-May 15)",
+    "seasonal": "Open October 15 through May 15 only",
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Versailles Restaurant",
+    "address": "3555 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-444-0240",
+    "website": "https://versaillesrestaurant.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The beating heart of Cuban Miami. Politicians, abuelitas, and tourists all end up here. The mirrored dining room is a landmark. Open breakfast through late night.",
+    "must_try": "Vaca frita with black beans and maduros, then a cafecito at the ventanita",
+    "hours": "Mon-Thu 8am-12am, Fri-Sat 8am-2am, Sun 8am-12am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cote Miami",
+    "address": "3900 NE 2nd Ave, Miami, FL 33137",
+    "phone": "+1-305-521-2683",
+    "website": "https://cotemiami.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Michelin-starred Korean steakhouse in the Design District. The Butcher's Feast is the move — dry-aged cuts grilled tableside. One of the best restaurants in the country.",
+    "must_try": "Butcher's Feast tasting, Steak Omakase",
+    "hours": "Sun-Thu 5:30-10pm, Fri-Sat 5:30-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Surf Club Restaurant by Thomas Keller",
+    "address": "9011 Collins Ave, Surfside, FL 33154",
+    "phone": "+1-305-768-9440",
+    "website": "https://surfclubrestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Thomas Keller's Florida outpost inside the restored Four Seasons Surf Club. Michelin-starred Continental classics. The room alone is worth the trip.",
+    "must_try": "Whole roasted Dover sole, soufflé for dessert",
+    "hours": "Tue-Sat 6-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zucca",
+    "address": "162 Alcazar Ave, Coral Gables, FL 33134",
+    "phone": "+1-305-444-1967",
+    "website": "https://zuccamiami.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Beloved Italian in Coral Gables' Hotel St. Michel. Michelin-trained chef, 2,000 bottle wine cellar. The veal parm and stuffed zucchini flowers are outstanding.",
+    "must_try": "Veal Parmesan, stuffed zucchini flowers",
+    "hours": "Mon-Sat 6-10:30pm, Sun 5:30-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tâm Tâm",
+    "address": "215 NE 1st St, Miami, FL 33132",
+    "phone": "+1-305-506-3474",
+    "website": "https://tamtammiami.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Started as a pandemic pop-up, now one of the best restaurants in Miami. Creative Vietnamese in a quirky downtown diner space. There's karaoke in the bathroom.",
+    "must_try": "Tam Tam wings in fish sauce caramel",
+    "hours": "Tue-Sun 5:30-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sunkissed",
+    "address": "1250 S Miami Ave, Miami, FL 33130",
+    "phone": null,
+    "website": "https://sunkissedmiami.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Brickell's sexy new supper club. Red monochromatic room, live band every night, Miami-influenced seafood. The arroz con pollo is a sleeper hit.",
+    "must_try": "Arroz con pollo, live music on a Wednesday date night",
+    "hours": "Wed-Sat 6pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Casa MX",
+    "address": "1657 N Miami Ave, Miami, FL 33136",
+    "phone": null,
+    "website": "https://casamxmiami.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The Mexican spot Miami needed. Incredible huitlacoche quesadillas, smoky salsa with free chips, and carnitas tacos that'll ruin Taco Tuesday for you forever.",
+    "must_try": "Huitlacoche quesadillas, carnitas tacos",
+    "hours": "Daily 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Klaw",
+    "address": "121 NE 35th St, Miami, FL 33137",
+    "phone": null,
+    "website": "https://klawmiami.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Three-story surf-and-turf showstopper in Edgewater's historic Women's Club building. The ambiance is gorgeous and the food delivers.",
+    "must_try": "Whole grilled fish, raw bar plateau",
+    "hours": "Tue-Sun 5:30-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Caracas Bakery",
+    "address": "6505 Biscayne Blvd, Miami, FL 33138",
+    "phone": "+1-786-718-4987",
+    "website": "https://caracasbakery.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Venezuelan bakery with some of the best pastries in Miami. The ham cachito and chocolatine croissant are legendary. Line moves fast.",
+    "must_try": "Ham cachito with a cafecito",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gramps Getaway",
+    "address": "3301 Rickenbacker Cwy, Key Biscayne, FL 33149",
+    "phone": null,
+    "website": "https://grampsgetaway.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Dock-and-dine spot at Rickenbacker Marina with killer downtown skyline views. Elevated bar food — the conch fritters and charred broccoli salad are both great.",
+    "must_try": "Conch fritters, charred broccoli salad with pickled chili",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rusty Pelican",
+    "address": "3201 Rickenbacker Cwy, Key Biscayne, FL 33149",
+    "phone": "+1-305-361-3818",
+    "website": "https://therustypelican.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Possibly the best skyline view of any restaurant in Miami. Seafood-forward, great brunch with bottomless mimosas. Book at sunset.",
+    "must_try": "Brunch with bottomless mimosas, sunset dinner on the patio",
+    "hours": "Mon-Thu 11:30am-10pm, Fri-Sat 11:30am-11pm, Sun 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Palacio de los Jugos",
+    "address": "5721 W Flagler St, Miami, FL 33134",
+    "phone": "+1-305-264-1503",
+    "website": null,
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Open-air cafeteria where you point at what you want. Roast pork, fresh juices, whole fried snapper. No English needed. This is real Miami.",
+    "must_try": "Roast pork with yuca, fresh mamey milkshake",
+    "hours": "Daily 7am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gianni's at the Former Versace Mansion",
+    "address": "1116 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-786-485-2200",
+    "website": "https://www.vmresortmiami.com/giannis",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.1",
+    "description": "Dine inside the Versace Mansion. The Italian food is solid, the setting is unreal — mosaic pool, gold everywhere. Pure Miami excess.",
+    "must_try": "Dinner on the patio by the famous pool",
+    "hours": "Daily 7am-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Seaspice",
+    "address": "422 NW N River Dr, Miami, FL 33128",
+    "phone": "+1-305-440-4200",
+    "website": "https://seaspicemiami.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "The Miami River scene restaurant. Pull up by boat, dress up, be seen. Mediterranean seafood and scene-y vibes. Weekend brunch is pure spectacle.",
+    "must_try": "Sunday brunch, lobster linguine",
+    "hours": "Mon-Thu 12pm-12am, Fri-Sun 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Komodo",
+    "address": "801 Brickell Ave, Miami, FL 33131",
+    "phone": "+1-305-534-2211",
+    "website": "https://komodomiami.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "Three-story Southeast Asian restaurant in Brickell. Part restaurant, part scene. The rooftop lounge transitions into nightlife after 10pm.",
+    "must_try": "Peking duck, Komodo Bird cocktail",
+    "hours": "Sun-Thu 5pm-12am, Fri-Sat 5pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cotoletta",
+    "address": "30 NE 39th St, Miami, FL 33137",
+    "phone": null,
+    "website": "https://cotolettamiami.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "One-dish restaurant concept in the Design District: a perfect Milanese veal cutlet with rosemary and lemon. That's it. That's the whole menu. It works.",
+    "must_try": "The cotoletta. There's only one thing to order.",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smith & Wollensky",
+    "address": "1 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-2800",
+    "website": "https://smithandwollensky.com/location/miami-beach",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "Classic steakhouse right at the tip of South Pointe with views of Government Cut and Fisher Island. The outdoor terrace is a sunset destination.",
+    "must_try": "Bone-in ribeye, sunset on the terrace",
+    "hours": "Mon-Thu 12pm-10pm, Fri-Sat 12pm-11pm, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Los Fuegos by Francis Mallmann",
+    "address": "3201 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-535-4697",
+    "website": "https://www.faena.com/miami-beach/dining/los-fuegos",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Francis Mallmann's live-fire Argentine steakhouse at the Faena. The parrilla is the show. One of the most romantic restaurants in Miami.",
+    "must_try": "Bife de chorizo, provoleta starter",
+    "hours": "Daily 6-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tropezón",
+    "address": "437 Española Way, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://tropezonmiami.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Spanish tapas on Española Way. Paellas, patatas bravas, gambas — all designed for sharing. Moorish tiles, tiny tables, and house-infused gins behind the bar.",
+    "must_try": "Gambas al ajillo, any paella, infused gin cocktail",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Robert Is Here",
+    "address": "19200 SW 344th St, Homestead, FL 33034",
+    "phone": "+1-305-246-1592",
+    "website": "https://robertishere.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Legendary roadside fruit stand since 1959. Exotic fruit milkshakes, petting zoo, Grandma's Kitchen general store. Worth the drive south.",
+    "must_try": "Key lime milkshake, mamey sapote milkshake",
+    "hours": "Daily 8am-7pm (Nov-Aug)",
+    "seasonal": "Closed Sept-Oct",
+    "modes": [
+      "family",
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LIV",
+    "address": "4441 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-674-4680",
+    "website": "https://www.livnightclub.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "The most famous nightclub in Miami, inside the Fontainebleau. Global DJ residencies, celebrity sightings, bottle service spectacle. This is the 'I did Miami' checkmark.",
+    "must_try": "Table service if you can swing it — the bottle parade is the show",
+    "hours": "Wed, Fri, Sat, Sun 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "E11EVEN Miami",
+    "address": "29 NE 11th St, Miami, FL 33132",
+    "phone": "+1-305-829-2911",
+    "website": "https://www.11miami.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "The 24/7 ultraclub. #1 club in the US. Downtown Miami's unhinged, never-closing spectacle — live performers, DJs, rooftop restaurant, five-star excess at 4am.",
+    "must_try": "Go at 3am on a Saturday when the energy peaks",
+    "hours": "Open 24/7, 365 days",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Club Space",
+    "address": "34 NE 11th St, Miami, FL 33132",
+    "phone": "+1-786-357-6456",
+    "website": "https://clubspace.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "The last standing temple of Miami's house/techno scene. Warehouse energy, rooftop terrace for sunrise sets, the real dance-music-heads club. Across the street from E11EVEN.",
+    "must_try": "Sunday morning terrace set — you'll understand when the sun comes up",
+    "hours": "Fri-Sun 11pm-late (often 12pm+ next day)",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "STORY",
+    "address": "136 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-479-4426",
+    "website": "https://www.storymiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "LIV's sister club on Collins. Same team, same production quality, different vibe. World-class sound system, top-tier DJs. Dress sharp.",
+    "must_try": "Check who's playing — the lineup is always stacked",
+    "hours": "Fri-Sat 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ball & Chain",
+    "address": "1513 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-643-7820",
+    "website": "https://www.ballandchainmiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Little Havana institution since 1935. Live salsa, Latin jazz, Salsero Sundays. The mojitos are strong, the dance floor is sweaty, and nobody cares if you can't salsa.",
+    "must_try": "Salsero Sundays on the outdoor Pineapple Stage",
+    "hours": "Mon-Thu 12pm-12am, Fri-Sat 12pm-3am, Sun 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sweet Liberty",
+    "address": "237 20th St, Miami Beach, FL 33139",
+    "phone": "+1-305-763-8217",
+    "website": "https://mysweetliberty.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "National award-winning cocktail bar. Feels like your cool friend's living room — amazing drinks, no pretension. One of the best bars in America.",
+    "must_try": "Ask the bartender to make you something based on your mood",
+    "hours": "Mon-Sat 4pm-3am, Sun 12pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Broken Shaker",
+    "address": "2727 Indian Creek Dr, Miami Beach, FL 33140",
+    "phone": "+1-305-531-2727",
+    "website": "https://thefreehand.com/broken-shaker",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Craft cocktail pioneer at the Freehand hostel. Poolside drinks in a garden setting. The cocktails here literally changed the Miami bar scene.",
+    "must_try": "Seasonal cocktail menu, anything with tropical fruit",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sugar at EAST Miami",
+    "address": "788 Brickell Plaza, Miami, FL 33131",
+    "phone": "+1-305-805-4655",
+    "website": "https://www.east-miami.com/sugar",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Brickell's standout rooftop bar. Asian-inspired cocktails in an outdoor garden setting with panoramic bay and skyline views. Gets packed after 9pm.",
+    "must_try": "Arrive at sunset for the view, stay for the cocktails",
+    "hours": "Mon-Thu 4pm-1am, Fri-Sun 2pm-2am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mango's Tropical Cafe",
+    "address": "900 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-673-4422",
+    "website": "https://mangos.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "The Ocean Drive spectacle. Live salsa dancers, thumping Latin music, neon lights. Touristy? Yes. A blast? Also yes. You'll dance whether you planned to or not.",
+    "must_try": "Piña colada in a pineapple, watch the show from the patio",
+    "hours": "Daily 11am-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mac's Club Deuce",
+    "address": "222 14th St, Miami Beach, FL 33139",
+    "phone": "+1-305-531-6200",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "The best dive bar in Miami Beach. Opened in 1964 and hasn't changed. Cheap drinks, pool table, zero attitude. Where locals go after their shift at the fancy places.",
+    "must_try": "Cheap beer at 2am when the rest of the Beach is $20 cocktails",
+    "hours": "Daily 8am-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blackbird Ordinary",
+    "address": "729 SW 1st Ave, Miami, FL 33130",
+    "phone": "+1-305-671-3307",
+    "website": "https://blackbirdordinary.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Brickell's favorite bar. Giant backyard patio, strong drinks, DJs most nights. The place where everyone ends up at some point during a Miami night out.",
+    "must_try": "Happy hour on the patio, then stay for the DJ",
+    "hours": "Mon-Fri 4pm-3am, Sat-Sun 2pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "No. 3 Social",
+    "address": "50 NW 24th St, Miami, FL 33127",
+    "phone": "+1-305-748-4540",
+    "website": "https://no3social.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Wynwood rooftop bar with great views and a low-key vibe. Drag bingo Sundays. Solid happy hour daily 4-7pm. The place to start a Wynwood night.",
+    "must_try": "Drag bingo Sunday, happy hour any day",
+    "hours": "Daily 4pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cerveceria La Tropical",
+    "address": "42 NE 25th St, Miami, FL 33137",
+    "phone": "+1-305-741-6741",
+    "website": "https://cervecerialatropical.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Cuban beer brand reborn in Wynwood. Massive outdoor space, live music, Cuban food menu. The original Tropical lager recipe dates back to 1888 Havana.",
+    "must_try": "Original Tropical Lager, Cuban sandwich, live music on weekends",
+    "hours": "Mon-Thu 12pm-12am, Fri-Sat 12pm-2am, Sun 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Twist South Beach",
+    "address": "1057 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-538-9478",
+    "website": "https://twistsobe.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Miami's most iconic LGBTQ+ nightlife venue for 25+ years. No cover, multiple rooms, dancing every night. A SoBe institution.",
+    "must_try": "Drag shows and dance floor Saturdays",
+    "hours": "Daily 1pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jolene Soundroom",
+    "address": "200 E Flagler St, Miami, FL 33131",
+    "phone": "+1-305-603-9818",
+    "website": "https://jolenesoundroom.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Truly underground — a historic Roaring Twenties basement turned open dance space on Flagler. Groovy house and techno. The real heads know this one.",
+    "must_try": "Late night weekend set in the basement",
+    "hours": "Thu-Sat 10pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Panther Coffee",
+    "address": "2390 NW 2nd Ave, Miami, FL 33127",
+    "phone": "+1-305-677-3952",
+    "website": "https://panthercoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Miami's homegrown specialty roaster. The Wynwood flagship is the original. Great pour-overs, cold brew on tap, good people-watching.",
+    "must_try": "Cold brew on nitro, seasonal single-origin pour-over",
+    "hours": "Daily 7am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Azucar Ice Cream Company",
+    "address": "1503 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-381-0369",
+    "website": "https://azucaricecream.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Abuela Approved ice cream in Little Havana. Cuban-inspired flavors. The 'Abuela Maria' (guava, cream cheese, maria crackers) is the signature.",
+    "must_try": "Abuela Maria flavor",
+    "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wynwood Walls",
+    "address": "2520 NW 2nd Ave, Miami, FL 33127",
+    "phone": "+1-305-573-0658",
+    "website": "https://thewynwoodwalls.com",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "$",
+    "rating": "4.6",
+    "description": "The outdoor museum that put Wynwood on the map. World-famous street art murals by Shepard Fairey, Os Gêmeos, and dozens of international artists.",
+    "must_try": "Free street art in the surrounding blocks is just as good",
+    "hours": "Mon-Thu 11am-7pm, Fri-Sun 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pérez Art Museum Miami (PAMM)",
+    "address": "1103 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-375-3000",
+    "website": "https://www.pamm.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Waterfront contemporary art museum designed by Herzog & de Meuron. The building itself is as impressive as the collection. Great Bay views from the terrace.",
+    "must_try": "The hanging gardens, terrace bay views, rotating exhibitions",
+    "hours": "Thu-Mon 11am-6pm, closed Tue-Wed",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vizcaya Museum and Gardens",
+    "address": "3251 S Miami Ave, Miami, FL 33129",
+    "phone": "+1-305-250-9133",
+    "website": "https://vizcaya.org",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Italian Renaissance villa built 1914-1922 on Biscayne Bay. 10 acres of formal gardens, ornate rooms, waterfront views. Miami's most beautiful estate.",
+    "must_try": "The formal gardens and bay-facing terrace at golden hour",
+    "hours": "Wed-Mon 9:30am-4:30pm, closed Tue",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "ICA Miami (Institute of Contemporary Art)",
+    "address": "61 NE 41st St, Miami, FL 33137",
+    "phone": "+1-305-901-5272",
+    "website": "https://www.icamiami.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Free contemporary art museum in the Design District. Currently hosting the Dolce & Gabbana exhibition through June 2026 — 300+ archival pieces.",
+    "must_try": "Dolce & Gabbana exhibition (through June 2026), sculpture garden",
+    "hours": "Wed-Mon 11am-6pm, Thu until 9pm, closed Tue",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Phillip and Patricia Frost Museum of Science",
+    "address": "1101 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-434-9600",
+    "website": "https://www.frostscience.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Top-tier science museum with a 3-story aquarium, planetarium, and rooftop with bay views. The Gulf Stream aquarium tank is mesmerizing.",
+    "must_try": "The full-height aquarium, planetarium laser show",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Art Deco Historic District",
+    "address": "Ocean Drive and Collins Ave, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://mdpl.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "The pastel-colored Art Deco buildings of South Beach are iconic. Walk Ocean Drive and Collins between 5th and 15th Streets. Free self-guided, or join a walking tour.",
+    "must_try": "Miami Design Preservation League walking tour ($30)",
+    "hours": "24/7 outdoor, tours daily 10:30am",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Adrienne Arsht Center for the Performing Arts",
+    "address": "1300 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-949-6722",
+    "website": "https://arshtcenter.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$$-$$$$",
+    "rating": "4.6",
+    "description": "Miami's premier performing arts center. Broadway shows, Miami City Ballet, concerts, jazz. The building itself is stunning architecture on Biscayne Bay.",
+    "must_try": "Check the calendar — the programming is always strong",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jungle Island",
+    "address": "1111 Parrot Jungle Trail, Miami, FL 33132",
+    "phone": "+1-305-400-7000",
+    "website": "https://jungleisland.com",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$$",
+    "rating": "4.1",
+    "description": "Eco-adventure park on Watson Island with ziplines, animal encounters, and Joia Beach (a private beach with cocktails and dining).",
+    "must_try": "Joia Beach for cocktails, zipline through the canopy",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zoo Miami",
+    "address": "12400 SW 152nd St, Miami, FL 33177",
+    "phone": "+1-305-251-0400",
+    "website": "https://www.zoomiami.org",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The only tropical zoo in the continental US. 750 acres, 500+ species. The Amazon & Beyond and Florida exhibits are highlights.",
+    "must_try": "The splash playground for kids, feeding giraffes",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "South Beach",
+    "address": "Ocean Dr to the Atlantic, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://www.miamiandbeaches.com",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "The iconic beach. White sand, turquoise water, lifeguard towers in candy colors. The Lummus Park stretch is the classic scene.",
+    "must_try": "Early morning walk before the crowds, sunset from South Pointe",
+    "hours": "24/7, lifeguards 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "South Pointe Park",
+    "address": "1 Washington Ave, Miami Beach, FL 33139",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "17-acre park at the very southern tip of Miami Beach. Watch cruise ships glide through Government Cut. Best sunset spot on the Beach.",
+    "must_try": "Watch the cruise ships depart at sunset",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crandon Park Beach",
+    "address": "6747 Crandon Blvd, Key Biscayne, FL 33149",
+    "phone": "+1-305-361-5421",
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Key Biscayne's family beach. Calmer water, coconut palms, less scene than South Beach. Consistently rated one of the best beaches in America.",
+    "must_try": "The sandbar at low tide, kayak rentals",
+    "hours": "Daily 8am-sunset, $8 parking",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oleta River State Park",
+    "address": "3400 NE 163rd St, North Miami Beach, FL 33160",
+    "phone": "+1-305-919-1846",
+    "website": "https://www.floridastateparks.org/OletaRiver",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Largest urban park in Florida — 1,043 acres on Biscayne Bay. Mountain bike trails, kayaking, secluded beach. A true escape inside the city.",
+    "must_try": "Kayak through the mangrove tunnels, mountain biking",
+    "hours": "Daily 8am-sunset, $6 per vehicle",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Biscayne National Park",
+    "address": "9700 SW 328th St, Homestead, FL 33033",
+    "phone": "+1-305-230-1144",
+    "website": "https://www.nps.gov/bisc",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "95% underwater national park. Snorkeling, glass-bottom boat tours, island camping. Home to the northernmost coral reef in the US.",
+    "must_try": "Snorkeling at the reef, boat tour to Boca Chita Key",
+    "hours": "Daily, Dante Fascell Visitor Center 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Everglades National Park",
+    "address": "40001 State Rd 9336, Homestead, FL 33034",
+    "phone": "+1-305-242-7700",
+    "website": "https://www.nps.gov/ever",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The River of Grass. Airboat tours, alligator spotting, mangrove kayaking. One of the most unique ecosystems in the world, 45 min from downtown.",
+    "must_try": "Airboat tour, Anhinga Trail boardwalk for guaranteed gator sightings",
+    "hours": "Daily 24/7, visitor centers 9am-5pm. $30/vehicle",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fairchild Tropical Botanic Garden",
+    "address": "10901 Old Cutler Rd, Coral Gables, FL 33156",
+    "phone": "+1-305-667-1651",
+    "website": "https://fairchildgarden.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "83-acre tropical garden on Biscayne Bay. Rare palms, tropical fruit, butterfly garden, mangrove preserve. Founded by the man who introduced avocados to America.",
+    "must_try": "Walk all the way to the bay — mangrove forest is stunning",
+    "hours": "Daily 10am-4pm, $25 adults",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bayside Marketplace",
+    "address": "401 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-577-3344",
+    "website": "https://bfrg.com/bayside-marketplace",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Waterfront shopping/entertainment complex on Biscayne Bay. Touristy but the bay views are free and it's the departure point for most boat tours.",
+    "must_try": "Skip the shopping, take a bay cruise departing from here",
+    "hours": "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lincoln Road Mall",
+    "address": "Lincoln Rd, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://lincolnrd.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$-$$$$",
+    "rating": "4.2",
+    "description": "Miami Beach's pedestrian promenade. Mix of chains and boutiques, great people-watching, Sunday farmer's market. The social runway of SoBe.",
+    "must_try": "Sunday farmer's market, outdoor dining and people-watching",
+    "hours": "Stores generally 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Design District",
+    "address": "NE 38th-42nd Streets, Miami, FL 33137",
+    "phone": null,
+    "website": "https://www.miamidesigndistrict.net",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "Open-air luxury shopping district. Gucci, Louis Vuitton, Dior — plus world-class galleries and restaurants. The architecture alone is worth the walk.",
+    "must_try": "Window shop the luxury brands, eat at Cote or Cotoletta",
+    "hours": "Mon-Sat 11am-8pm, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dolphin Mall",
+    "address": "11401 NW 12th St, Miami, FL 33172",
+    "phone": "+1-305-365-7446",
+    "website": "https://www.shopdolphinmall.com",
+    "category": "shopping",
+    "subcategory": "outlets",
+    "price": "$-$$$",
+    "rating": "4.0",
+    "description": "Miami's big outlet mall. Over 240 stores — Nike, Coach, Saks OFF 5TH. Not glamorous, but the deals are real.",
+    "must_try": "Hit it on a weekday to avoid crowds",
+    "hours": "Mon-Sat 11am-9:30pm, Sun 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fontainebleau Miami Beach",
+    "address": "4441 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-538-2000",
+    "website": "https://www.fontainebleau.com",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "The iconic Miami Beach resort. Home to LIV nightclub, multiple pools, Hakkasan restaurant. Mid-Beach location. This IS the Miami resort experience.",
+    "must_try": "Pool scene on a Saturday, LIV nightclub, brunch at Scarpetta",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Faena Hotel Miami Beach",
+    "address": "3201 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-534-8800",
+    "website": "https://www.faena.com/miami-beach",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Miami's most artistic luxury hotel. Damien Hirst gold mammoth in the lobby, Baz Luhrmann-designed theater, Los Fuegos restaurant. Truly one-of-a-kind.",
+    "must_try": "The living room lobby, Los Fuegos dinner, Faena Theater show",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "1 Hotel South Beach",
+    "address": "2341 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-604-1000",
+    "website": "https://www.1hotels.com/south-beach",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Eco-luxury resort on South Beach. Sustainable design, rooftop pool and bar, beachfront. The rooftop has some of the best ocean views in Miami.",
+    "must_try": "Rooftop pool and bar at sunset",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Freehand Miami",
+    "address": "2727 Indian Creek Dr, Miami Beach, FL 33140",
+    "phone": "+1-305-531-2727",
+    "website": "https://thefreehand.com/miami-beach",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Boutique hostel-hotel hybrid. Home to The Broken Shaker bar. The pool area is the social hub. Best budget-to-cool ratio on the Beach.",
+    "must_try": "Broken Shaker cocktails by the pool",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Publix Super Markets",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://www.publix.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Florida's beloved grocery chain. The sub shop (Pub Sub) is legendary. Get a chicken tender sub on sale day and you'll understand.",
+    "must_try": "Chicken tender Pub Sub",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "CVS Pharmacy",
+    "address": "Multiple locations including 1421 Alton Rd, Miami Beach",
+    "phone": null,
+    "website": "https://www.cvs.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.5",
+    "description": "Multiple 24-hour locations across Miami and the Beach. Your sunscreen-and-hangover-cure stop.",
+    "must_try": "",
+    "hours": "Many locations 24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Thriller Miami Speedboat Adventures",
+    "address": "401 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-373-7001",
+    "website": "https://thrillermiami.com",
+    "category": "boating_water",
+    "subcategory": "boat_rentals",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "High-speed boat tour of Biscayne Bay. Celebrity homes, Star Island, Fisher Island. Gets your adrenaline going and gives you the Miami skyline from the water.",
+    "must_try": "The 45-min speedboat tour past Star Island",
+    "hours": "Daily, multiple departures 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Island Queen Cruises",
+    "address": "401 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-379-5119",
+    "website": "https://www.islandqueencruises.com",
+    "category": "boating_water",
+    "subcategory": "charters",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The classic Millionaire's Row Biscayne Bay cruise. Narrated tour past celebrity homes, Fisher Island, the Port of Miami. Tourist staple for a reason.",
+    "must_try": "Sunset cruise — the skyline lights up as you come back",
+    "hours": "Daily, departures every 30-60 min",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elcielo Miami",
+    "address": "31 SE 5th St, Miami, FL 33131",
+    "phone": "+1-305-874-7867",
+    "website": "https://elcielomiami.com",
+    "category": "dining",
+    "subcategory": "colombian",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Michelin-starred sensory journey through Colombian cuisine. Prepare for theatrical tableside presentations, including washing your hands in chocolate.",
+    "must_try": "The Tree of Life bread presentation",
+    "hours": "Tue-Sun 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hiden",
+    "address": "313 NW 25th St, Miami, FL 33127",
+    "phone": null,
+    "website": "https://hidenmiami.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Ultra-exclusive eight-seat omakase counter hidden behind a taco stand. Michelin-starred. Book months in advance.",
+    "must_try": "Omakase tasting",
+    "hours": "Tue-Sat 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Le Jardinier Miami",
+    "address": "151 NE 41st St Suite 135, Miami, FL 33137",
+    "phone": "+1-305-402-9060",
+    "website": "https://lejardinier-miami.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Vegetable-forward Michelin-starred haven below L'Atelier. The outdoor patio is a stunning, lush oasis.",
+    "must_try": "Burrata with seasonal compote",
+    "hours": "Tue-Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stubborn Seed",
+    "address": "101 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-786-322-5211",
+    "website": "https://stubbornseed.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Top Chef winner Jeremy Ford's Michelin-starred laboratory. Hyper-seasonal, beautifully plated American cuisine.",
+    "must_try": "Truffle Chicken",
+    "hours": "Sun-Thu 6pm-10pm, Fri-Sat 6pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ariete",
+    "address": "3540 Main Hwy, Miami, FL 33133",
+    "phone": "+1-786-615-3747",
+    "website": "https://arietecoconutgrove.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Michelin-starred dining where homestyle Cuban cooking meets contemporary French technique. The tableside pressed duck is legendary.",
+    "must_try": "Canard à la Presse",
+    "hours": "Daily 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boia De",
+    "address": "5205 NE 2nd Ave, Miami, FL 33137",
+    "phone": "+1-305-967-8866",
+    "website": "https://boiaderestaurant.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Tiny Michelin-starred Italian-ish gem hidden in a retro shopping plaza marked only by a neon exclamation point.",
+    "must_try": "Beef Tartare with crispy capers",
+    "hours": "Daily 5:30pm-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "EntreNos",
+    "address": "9840 NE 2nd Ave, Miami Shores, FL 33138",
+    "phone": null,
+    "website": "https://entrenosmiami.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Michelin-starred champion of Florida sourcing. Almost everything on the menu comes from within the state.",
+    "must_try": "Florida Wagyu",
+    "hours": "Wed-Sun 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Los Félix",
+    "address": "3413 Main Hwy, Miami, FL 33133",
+    "phone": null,
+    "website": "https://losfelixmiami.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Michelin-starred Mexican cuisine honoring ancestral traditions. Heirloom corn tortillas and an incredible natural wine list.",
+    "must_try": "Pork Cheek Carnitas",
+    "hours": "Tue-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ogawa",
+    "address": "7223 NW 2nd Ave, Miami, FL 33150",
+    "phone": null,
+    "website": "https://ogawamiami.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Intimate Michelin-starred omakase in Little River featuring seafood flown directly from Toyosu Market.",
+    "must_try": "Signature Omakase",
+    "hours": "Tue-Sat 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shingo",
+    "address": "112 Alhambra Cir, Coral Gables, FL 33134",
+    "phone": null,
+    "website": "https://shingomiami.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.9",
+    "description": "Exquisite 14-seat omakase counter inside the historic La Palma building. Michelin star well-deserved.",
+    "must_try": "Chef's Omakase",
+    "hours": "Tue-Sat 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tambourine Room by Tristan Brandt",
+    "address": "6801 Collins Ave, Miami Beach, FL 33141",
+    "phone": "+1-305-514-7474",
+    "website": "https://tambourineroom.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Ultra-exclusive 18-seat tasting menu experience tucked inside the Carillon Miami Wellness Resort.",
+    "must_try": "10-Course Tasting Menu",
+    "hours": "Wed-Sun 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bachour",
+    "address": "2020 Salzedo St, Coral Gables, FL 33134",
+    "phone": "+1-305-203-0552",
+    "website": "https://antoniobachour.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Gorgeous bakery and restaurant from world-renowned pastry chef Antonio Bachour. The petit gateaux look like modern art.",
+    "must_try": "Croissant Cubano and any pastry",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chug's Diner",
+    "address": "3444 Main Hwy Suite 21, Miami, FL 33133",
+    "phone": "+1-786-353-2940",
+    "website": "https://chugsdiner.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Cuban-American diner from Chef Michael Beltran that earned a Bib Gourmand. The cast-iron pancake is legendary.",
+    "must_try": "Cast Iron Pancake and Cast Frita",
+    "hours": "Daily 8am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Turco",
+    "address": "184 NE 50th Terrace, Miami, FL 33137",
+    "phone": "+1-305-570-3440",
+    "website": "https://elturcomiami.com",
+    "category": "dining",
+    "subcategory": "mediterranean",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Authentic home-style Turkish food recognized with a Bib Gourmand. The meze platters are perfect for sharing.",
+    "must_try": "Turkish Breakfast Spread",
+    "hours": "Tue-Sun 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ghee Indian Kitchen",
+    "address": "8965 SW 72nd Pl, Miami, FL 33156",
+    "phone": "+1-305-968-1850",
+    "website": "https://gheemiami.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Farm-to-table Indian cuisine with produce grown on the chef's own Homestead farm. A true Miami culinary gem.",
+    "must_try": "Smoked Lamb Neck",
+    "hours": "Tue-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hometown Barbecue Miami",
+    "address": "1200 NW 22nd St #100, Miami, FL 33142",
+    "phone": "+1-305-396-4551",
+    "website": "https://hometownbbqmiami.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The Brooklyn BBQ giant brings massive, beautifully smoked meats to an industrial space in Allapattah.",
+    "must_try": "Beef Rib and Pastrami Bacon",
+    "hours": "Tue-Sun 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Natural",
+    "address": "7289 NW 2nd Ave, Miami, FL 33150",
+    "phone": null,
+    "website": "https://lanaturalmiami.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Chic, minimalist spot famous for naturally leavened pizzas and a stellar selection of natural wines.",
+    "must_try": "Burrata and Basil Pizza",
+    "hours": "Wed-Sun 6pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lucali",
+    "address": "1930 Bay Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-695-4441",
+    "website": "https://lucali.com",
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Miami outpost of the legendary Brooklyn pizzeria, serving massive, perfectly charred pies in Sunset Harbour.",
+    "must_try": "Plain Pie with Pepperoni",
+    "hours": "Daily 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mandolin Aegean Bistro",
+    "address": "4312 NE 2nd Ave, Miami, FL 33137",
+    "phone": "+1-305-749-9140",
+    "website": "https://mandolinmiami.com",
+    "category": "dining",
+    "subcategory": "mediterranean",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Stunning open-air Greek and Turkish restaurant in a restored 1940s home. A local favorite for breezy, romantic dinners.",
+    "must_try": "Greek Sampler and Grilled Octopus",
+    "hours": "Daily 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Michael's Genuine Food & Drink",
+    "address": "130 NE 40th St, Miami, FL 33137",
+    "phone": "+1-305-573-5550",
+    "website": "https://michaelsgenuine.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "The restaurant that pioneered the Design District dining scene. Stellar farm-to-table American fare.",
+    "must_try": "Wood Oven Roasted Octopus",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Phuc Yea",
+    "address": "7100 Biscayne Blvd, Miami, FL 33138",
+    "phone": "+1-305-602-3710",
+    "website": "https://phucyea.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Loud, fun, fiercely original Viet-Cajun mashup wrapped in a 90s hip-hop soundtrack.",
+    "must_try": "PY Noodles and Smoked Brisket",
+    "hours": "Wed-Sun 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sanguich de Miami",
+    "address": "2057 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-539-0969",
+    "website": "https://sanguich.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Cozy, bohemian Cuban coffee shop recognized by Michelin for outstanding pressed sandwiches and croquetas.",
+    "must_try": "Patria Sandwich",
+    "hours": "Daily 8am-4pm",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cafe La Trova",
+    "address": "971 SW 8th St, Miami, FL 33130",
+    "phone": "+1-786-615-4379",
+    "website": "https://cafelatrova.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "James Beard award-winning chef Michelle Bernstein and cantinero Julio Cabrera created this retro-Cuban masterpiece with live music.",
+    "must_try": "Empanadas and the Daiquiri Clasico",
+    "hours": "Sun-Wed 4pm-11pm, Thu-Sat 4pm-12am",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Enriqueta's Sandwich Shop",
+    "address": "186 NE 29th St, Miami, FL 33137",
+    "phone": "+1-305-573-4681",
+    "website": "https://enriquetas.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The best ham croquetas in Miami. Period. Cash-only counter-service institution in Wynwood.",
+    "must_try": "Ham Croquetas",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sunny's Steakhouse",
+    "address": "7357 NW Miami Ct, Miami, FL 33150",
+    "phone": null,
+    "website": "https://sunnysmia.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "What started as a pop-up is now one of the hottest steakhouses in the country, featuring a grand outdoor courtyard.",
+    "must_try": "Steak Tartare on sourdough",
+    "hours": "Daily 5:30pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Carbone Vino",
+    "address": "2911 Grand Ave Suite 194, Miami, FL 33133",
+    "phone": null,
+    "website": "https://majorfood.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Intimate, extremely tough-to-book Italian from Major Food Group with a 3,000-bottle wine collection.",
+    "must_try": "Spicy Rigatoni Alla Vodka",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Time Out Market Miami",
+    "address": "1601 Drexel Ave, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://timeoutmarket.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heavily curated food hall featuring outposts from some of the city's best chefs under one roof.",
+    "must_try": "Sample dishes from multiple stalls",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Julia & Henry's",
+    "address": "200 E Flagler St, Miami, FL 33131",
+    "phone": null,
+    "website": "https://juliaandhenrys.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Multi-level culinary and entertainment destination breathing fresh life into historic Downtown Miami.",
+    "must_try": "Natural wine at the central bar",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Baires Grill",
+    "address": "8551 NW 53rd St, Doral, FL 33166",
+    "phone": "+1-305-330-5054",
+    "website": "https://bairesgrill.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Stylish Argentinean steakhouse beloved by locals for prime cuts, empanadas, and excellent wine list.",
+    "must_try": "Entraña (Skirt Steak)",
+    "hours": "Daily 11:30am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pisco y Nazca",
+    "address": "8405 Mills Dr, Miami, FL 33183",
+    "phone": "+1-305-630-3844",
+    "website": "https://piscoynazca.com",
+    "category": "dining",
+    "subcategory": "peruvian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Vibrant modern Peruvian eatery delivering bold ceviches and excellent pisco sours.",
+    "must_try": "Ceviche Tradicional and Lomo Saltado",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Schnebly Redland's Winery",
+    "address": "30205 SW 217th Ave, Homestead, FL 33030",
+    "phone": "+1-305-242-1224",
+    "website": "https://schneblywinery.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Southernmost winery in the US, turning tropical fruits like lychee and avocado into wine, with a farm-to-table restaurant.",
+    "must_try": "Lychee Wine and Smoked Ribs",
+    "hours": "Fri-Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chef Creole Seasoned Kitchen",
+    "address": "200 NW 54th St, Miami, FL 33127",
+    "phone": "+1-305-754-2223",
+    "website": "https://chefcreole.com",
+    "category": "dining",
+    "subcategory": "haitian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Miami institution blending Haitian, Creole, and Bahamian flavors under a thatched-roof outdoor patio.",
+    "must_try": "Griot (fried pork) and Conch Salad",
+    "hours": "Mon-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Seia",
+    "address": "830 Brickell Plaza, Floors 54-55, Miami, FL 33131",
+    "phone": null,
+    "website": "https://seiamiami.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$$",
+    "rating": "N/A",
+    "description": "Breathtaking 2026 opening on the 54th floor with museum-quality art and extraordinary contemporary Italian cuisine.",
+    "must_try": "Rigatoni Al Pomodoro",
+    "hours": "Mon-Fri 11:30am-3pm, 5pm-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gramps",
+    "address": "176 NW 24th St, Miami, FL 33127",
+    "phone": "+1-855-732-8992",
+    "website": "https://gramps.com",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Fiercely independent Wynwood staple featuring great pizza, excellent cocktails, live music, and air conditioning.",
+    "must_try": "Rosemary's Baby cocktail",
+    "hours": "Daily 12pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "J Wakefield Brewing",
+    "address": "120 NW 24th St, Miami, FL 33127",
+    "phone": "+1-786-254-7779",
+    "website": "https://jwakefieldbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Star Wars-themed brewery famous worldwide for intense, heavily fruited Florida Weisse beers and massive stouts.",
+    "must_try": "El Jefe Hefeweizen",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Veza Sur Brewing Co.",
+    "address": "55 NW 25th St, Miami, FL 33127",
+    "phone": "+1-786-362-6300",
+    "website": "https://vezasur.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Vibrant Latin-inspired craft brewery serving highly drinkable lagers and beer cocktails in a lush outdoor setting.",
+    "must_try": "Mangolandia Mango Blonde Ale",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palace Bar & Restaurant",
+    "address": "1052 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-531-7234",
+    "website": "https://palacesouthbeach.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq_venues",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The legendary drag bar of Ocean Drive. Weekend brunch features queens literally stopping traffic to perform.",
+    "must_try": "Bottomless Drag Brunch",
+    "hours": "Daily 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tequila Town",
+    "address": "Toledo Studios, Hialeah, FL",
+    "phone": null,
+    "website": "https://tequilatown.com",
+    "category": "attractions",
+    "subcategory": "immersive_experiences",
+    "price": "$$$",
+    "rating": "N/A",
+    "description": "Massive 25,000 sq-foot immersive exhibition taking guests on a multi-sensory journey through agave cultivation. Opening spring 2026.",
+    "must_try": "Tasting room experiences",
+    "hours": "Spring 2026",
+    "seasonal": "Spring 2026",
+    "modes": [
+      "culture",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Superhuman Museum",
+    "address": "1120 Lincoln Rd, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://lincolnroad.com",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "N/A",
+    "description": "Opening late 2026, massive experiential art museum in the old Regal Cinema, focusing on art that inspires human potential.",
+    "must_try": "Interactive Digital Installations",
+    "hours": "TBD",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Everglades Alligator Farm",
+    "address": "40351 SW 192nd Ave, Homestead, FL 33034",
+    "phone": "+1-305-247-2628",
+    "website": "https://everglades.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "One of the oldest alligator farms in South Florida, offering thrilling airboat rides and massive gator feeding shows.",
+    "must_try": "Guided Airboat Tour",
+    "hours": "Daily 9am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grotto Baths Wynwood",
+    "address": "325 NW 28th St, Miami, FL 33127",
+    "phone": null,
+    "website": "https://grottobaths.com",
+    "category": "wellness",
+    "subcategory": "bathhouses",
+    "price": "$$$",
+    "rating": "N/A",
+    "description": "Miami's first modern social bathhouse opening summer 2026. 7,500 sq ft circuit of saunas, steam, and mineral pools. Alcohol-free.",
+    "must_try": "Thermal contrast circuit",
+    "hours": "TBD",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Surf Club Spa",
+    "address": "9011 Collins Ave, Surfside, FL 33154",
+    "phone": "+1-305-381-3333",
+    "website": "https://fourseasons.com",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.9",
+    "description": "Light-drenched sanctuary inside the Four Seasons with ocean views and clinical European skincare treatments.",
+    "must_try": "Inner Harmony Massage",
+    "hours": "Daily 9am-7pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lapis Spa at Fontainebleau",
+    "address": "4441 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-674-4772",
+    "website": "https://fontainebleau.com",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Massive theatrical spa famous for elaborate water journeys including mineral pools and rain tunnels.",
+    "must_try": "The Water Journey",
+    "hours": "Daily 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Setai",
+    "address": "2001 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-855-923-7899",
+    "website": "https://thesetaihotels.com",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Oasis of extreme Asian-inspired tranquility right in the middle of South Beach. The service is utterly flawless.",
+    "must_try": "Sunday Jazz Brunch",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "EAST Miami",
+    "address": "788 Brickell Plaza, Miami, FL 33131",
+    "phone": "+1-305-712-7000",
+    "website": "https://easthotels.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Sleek, design-forward hotel anchored in Brickell City Centre with four pools and the famous Sugar rooftop bar.",
+    "must_try": "Sunset drinks at Sugar",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bal Harbour Shops",
+    "address": "9700 Collins Ave, Bal Harbour, FL 33154",
+    "phone": "+1-305-866-0311",
+    "website": "https://balharbourshops.com",
+    "category": "shopping",
+    "subcategory": "luxury",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Most productive luxury shopping center in the world. Open-air enclave of koi ponds, tropical foliage, and high-fashion.",
+    "must_try": "Lunch at Makoto between boutiques",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brickell City Centre",
+    "address": "701 S Miami Ave, Miami, FL 33131",
+    "phone": "+1-305-350-9922",
+    "website": "https://brickellcitycentre.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Hyper-modern multi-level outdoor mall anchoring Brickell, famous for its massive Climate Ribbon canopy.",
+    "must_try": "Browsing before dinner at Casa Tua Cucina",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lucky Strike Miami",
+    "address": "199 NE 7th St, Miami, FL 33132",
+    "phone": "+1-305-200-0208",
+    "website": "https://luckystrikeent.com",
+    "category": "entertainment",
+    "subcategory": "bowling",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Upscale boutique bowling alley with 28 lanes, dynamic arcade, and craft cocktails.",
+    "must_try": "VIP private lanes",
+    "hours": "Mon-Wed 4pm-1am, Thu-Sat 3pm-2am",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Reward Fishing Fleet",
+    "address": "300 Alton Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-372-9470",
+    "website": "https://fishingmiami.com",
+    "category": "boating_water",
+    "subcategory": "fishing_charters",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Miami's premier party boat fishing fleet from Miami Beach Marina. Perfect for casual anglers wanting affordable offshore experience.",
+    "must_try": "Half-day drift fishing",
+    "hours": "Daily departures",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "All Day",
+    "address": "1035 N Miami Ave, Miami, FL 33136",
+    "phone": null,
+    "website": "https://alldaymia.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Incredibly chic, award-winning coffee bar offering meticulous pour-overs and fantastic breakfast fare.",
+    "must_try": "Double Espresso and Egg Sandwich",
+    "hours": "Daily 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zak the Baker",
+    "address": "295 NW 26th St, Miami, FL 33127",
+    "phone": "+1-786-280-0327",
+    "website": "https://zakthebaker.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Legendary Kosher bakery and cafe turning out Miami's best sourdough, pastries, and incredible breakfast platters.",
+    "must_try": "Babka and Sourdough Toast",
+    "hours": "Sun-Fri 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Floyd",
+    "address": "34 NE 11th St, Miami, FL 33132",
+    "phone": null,
+    "website": "https://clubspace.com",
+    "category": "bars_nightlife",
+    "subcategory": "mega_clubs",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Connected to Club Space and modeled after the Red Room from Twin Peaks. Luscious red velvet, quality sound, house and techno acts.",
+    "must_try": "Melódie showcase monthly party",
+    "hours": "Fri-Sun 11pm-late",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Do Not Sit on the Furniture",
+    "address": "423 16th St, Miami Beach, FL 33139",
+    "phone": "+1-510-621-5765",
+    "website": "https://donotsit.com",
+    "category": "bars_nightlife",
+    "subcategory": "mega_clubs",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Intimate, underground-feeling electronic music venue on South Beach. Deep house and melodic techno in a dark, sweaty room. The antithesis of VIP culture.",
+    "must_try": "Any Saturday night resident set",
+    "hours": "Thu-Sun 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Basement Miami Beach",
+    "address": "2901 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-531-5535",
+    "website": "https://basementmiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "mega_clubs",
+    "price": "$$$",
+    "rating": "4.1",
+    "description": "Underground club beneath the Edition hotel with a bowling alley and ice skating rink. Unique multi-level layout. More accessible than LIV.",
+    "must_try": "Bowl a frame then hit the dance floor",
+    "hours": "Fri-Sat 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hoy Como Ayer",
+    "address": "2212 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-541-2631",
+    "website": "https://hoycomoayer.us",
+    "category": "bars_nightlife",
+    "subcategory": "latin_clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Little Havana's other Latin music institution. More local, more raw than Ball & Chain. Live bands, strong drinks, real salsa.",
+    "must_try": "Thursday night live band",
+    "hours": "Thu-Sat 9pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "latin",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Patio Wynwood",
+    "address": "167 NW 23rd St, Miami, FL 33127",
+    "phone": "+1-786-521-3420",
+    "website": "https://elpatiowynwood.com",
+    "category": "bars_nightlife",
+    "subcategory": "latin_clubs",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Wynwood's reggaeton headquarters. Fridays are legendary. Open-air patio with Latin DJs pumping until late.",
+    "must_try": "Friday night reggaeton set",
+    "hours": "Wed-Sun 8pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cosanostra",
+    "address": "1438 SW 8th St, Miami, FL 33135",
+    "phone": null,
+    "website": "https://www.cosanostramiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "latin_clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "High-energy Latin nightlife on Calle Ocho. Reggaetón, salsa, bachata, dembow. Festival-level atmosphere every weekend.",
+    "must_try": "Saturday night — go after midnight",
+    "hours": "Thu-Sun 10pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Employees Only Miami",
+    "address": "1680 Meridian Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-695-6565",
+    "website": "https://employesonlymiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "The NYC speakeasy transplant. Hidden behind a psychic's neon sign. Impeccable classic cocktails and late-night dining.",
+    "must_try": "The Amelia cocktail, late-night bone marrow",
+    "hours": "Daily 5pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Better Days",
+    "address": "75 SE 6th St, Miami, FL 33131",
+    "phone": null,
+    "website": "https://betterdaysbar.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Underground speakeasy beneath Sweet Caroline's in Brickell. Japanese whisky focus, dim lighting, meticulous cocktails.",
+    "must_try": "Japanese Old Fashioned",
+    "hours": "Wed-Sat 7pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lagniappe",
+    "address": "3425 NE 2nd Ave, Miami, FL 33137",
+    "phone": "+1-305-576-0108",
+    "website": "https://lagniappehouse.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Wine bar and live music venue with a huge tree-shaded garden. Jazz, folk, and soul acts nightly. Bring your own cheese and they'll plate it.",
+    "must_try": "BYOB cheese board with their wine, live jazz on a weeknight",
+    "hours": "Daily 5pm-1am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tipsy Flamingo",
+    "address": "1600 Lenox Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-397-8680",
+    "website": "https://tipsyflamingo.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Playful, neon-lit cocktail bar on Lincoln Road. Giant frozen cocktails, Instagrammable decor, and a fun vibe.",
+    "must_try": "Frozen Flamingo cocktail",
+    "hours": "Daily 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Regent Cocktail Club",
+    "address": "1690 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-0199",
+    "website": "https://galehotel.com",
+    "category": "bars_nightlife",
+    "subcategory": "hotel_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Intimate, velvet-draped cocktail lounge inside the Gale Hotel. Art Deco glamour, live jazz, and meticulous classic cocktails.",
+    "must_try": "The Hemingway Daiquiri, live jazz Friday",
+    "hours": "Daily 6pm-2am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wynwood Brewing Company",
+    "address": "565 NW 24th St, Miami, FL 33127",
+    "phone": "+1-305-982-8732",
+    "website": "https://wynwoodbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Wynwood's first craft brewery. La Rubia blonde ale is the flagship. Solid taproom with rotating seasonals.",
+    "must_try": "La Rubia Blonde Ale",
+    "hours": "Mon-Thu 2pm-10pm, Fri-Sun 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tripping Animals Brewing",
+    "address": "2685 NW 105th Ave, Doral, FL 33172",
+    "phone": "+1-786-801-4622",
+    "website": "https://trippinganimals.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Doral-based brewery with a cult following for their fruited sours and pastry stouts. Worth the drive.",
+    "must_try": "Leisure Series fruited sour",
+    "hours": "Wed-Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Astra Rooftop",
+    "address": "888 Brickell Ave, Miami, FL 33131",
+    "phone": null,
+    "website": "https://astramiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "rooftop_bars",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "High-energy Brickell rooftop with bottle service, DJs, and skyline views. Transitions from lounge to club after 10pm.",
+    "must_try": "Sunset arrival, stay for the DJ",
+    "hours": "Wed-Sun 5pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Betsy",
+    "address": "1440 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-531-6100",
+    "website": "https://www.thebetsyhotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Refined, art-forward boutique hotel with Savannah-meets-Miami charm. Built 1942. The ultimate retreat for those who want South Beach energy with a serene escape.",
+    "must_try": "Rooftop pool, on-site art collection",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "W South Beach",
+    "address": "2201 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-938-3000",
+    "website": "https://www.marriott.com/hotels/travel/miawh-w-south-beach",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Design-forward W property on Collins with poolside cabanas, celebrity DJs, and one of the best beach setups on SoBe.",
+    "must_try": "Pool scene on Saturday",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mandarin Oriental Miami",
+    "address": "500 Brickell Key Dr, Miami, FL 33131",
+    "phone": "+1-305-913-8288",
+    "website": "https://www.mandarinoriental.com/miami",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Private island luxury on Brickell Key. Home to La Mar by Gaston Acurio. The spa is world-class. Quieter and more refined than the Beach hotels.",
+    "must_try": "La Mar ceviche, spa day",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arlo Wynwood",
+    "address": "2217 NW 5th Ave, Miami, FL 33127",
+    "phone": "+1-786-789-5200",
+    "website": "https://www.arlohotels.com/arlo-wynwood",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Wynwood's only hotel. Rooftop pool and bar, walking distance to galleries and breweries. The neighborhood base.",
+    "must_try": "Rooftop pool, walk to Wynwood Walls",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mayfair House Hotel & Garden",
+    "address": "3000 Florida Ave, Miami, FL 33133",
+    "phone": "+1-305-441-0000",
+    "website": "https://www.mayfairhousemiami.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Beautifully restored Coconut Grove landmark with commissioned art, rooftop pool, and the Fountain Lounge bar in a converted 80s garden fountain.",
+    "must_try": "Cocktails at the Fountain Lounge",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kimpton EPIC Hotel",
+    "address": "270 Biscayne Blvd Way, Miami, FL 33131",
+    "phone": "+1-305-424-5226",
+    "website": "https://www.epichotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Downtown waterfront hotel with Area 31 rooftop restaurant and pool overlooking the Miami River and Biscayne Bay.",
+    "must_try": "Area 31 rooftop dinner at sunset",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eden Roc Miami Beach",
+    "address": "4525 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-531-0000",
+    "website": "https://www.edenrochotelmiami.com",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Classic Morris Lapidus-designed resort next to the Fontainebleau. More refined, less party. 22,000 sq ft spa with ocean views.",
+    "must_try": "Spa day and pool scene",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Standard Spa Miami Beach",
+    "address": "40 Island Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-1717",
+    "website": "https://www.standardhotels.com/miami",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Wellness-focused boutique on Belle Isle with hydrotherapy spa, Turkish hammam, and bayfront infinity pool. The anti-South Beach hotel.",
+    "must_try": "Hydrotherapy circuit, Sunday Lido brunch",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Generator Miami",
+    "address": "3120 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-786-496-2590",
+    "website": "https://staygenerator.com/hostels/miami",
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Design-forward hostel on Collins Ave. Pool, bar, social events. Private rooms from $80, dorms from $30. Best budget option on the Beach.",
+    "must_try": "Pool hangout, meet travelers",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Acqualina Resort",
+    "address": "17875 Collins Ave, Sunny Isles Beach, FL 33160",
+    "phone": "+1-305-918-8000",
+    "website": "https://www.acqualinaresort.com",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Family-run Leading Hotels of the World property in Sunny Isles. Three-bedroom suites with full kitchens. Beachfront Italian dining at Il Mulino.",
+    "must_try": "Acqualina Spa by ESPA",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Esme Miami Beach",
+    "address": "1438 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-763-8811",
+    "website": "https://www.esmehotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Spanish-Mediterranean boutique with Parisian-Havana vibes. Rooftop pool, The Drexel restaurant. Feels like a small village in the middle of SoBe.",
+    "must_try": "Rooftop pool and dinner at The Drexel",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SLS South Beach",
+    "address": "1701 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-674-1701",
+    "website": "https://www.slshotels.com/southbeach",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "Philippe Starck-designed, Ennio Morricone-scored lobby. Katsuya restaurant, Hyde Beach club. More party-forward than most SoBe luxury.",
+    "must_try": "Hyde Beach pool club on Saturday",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Carillon Miami Wellness Resort",
+    "address": "6801 Collins Ave, Miami Beach, FL 33141",
+    "phone": "+1-305-514-7000",
+    "website": "https://www.carillonhotel.com",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "70,000 sq ft destination spa and wellness resort. Thermal hydrotherapy, cryotherapy, 150+ treatments. Also home to the Michelin-starred Tambourine Room.",
+    "must_try": "Thermal hydrotherapy circuit",
+    "hours": "Daily 7am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bamford Wellness Spa at 1 Hotel",
+    "address": "2341 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-604-1000",
+    "website": "https://www.1hotels.com/south-beach/wellness",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Eco-luxury spa at 1 Hotel South Beach. Organic products, holistic treatments, ocean views. Part of the 18,000 sq ft wellness center.",
+    "must_try": "Signature body treatment, rooftop yoga",
+    "hours": "Daily 9am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tierra Santa Healing House at Faena",
+    "address": "3201 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-534-8800",
+    "website": "https://www.faena.com/miami-beach/wellness",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Faena's 22,000 sq ft healing arts center. Shamanic treatments, sound healing, Turkish hammam, and traditional spa services in a jaw-dropping space.",
+    "must_try": "Hammam experience",
+    "hours": "Daily 9am-8pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boatsetter",
+    "address": "Online / multiple Miami marinas",
+    "phone": null,
+    "website": "https://www.boatsetter.com",
+    "category": "boating_water",
+    "subcategory": "boat_rentals",
+    "price": "$$-$$$$",
+    "rating": "4.5",
+    "description": "Peer-to-peer boat rental platform. Self-drive or captained. Everything from pontoons to 65ft yachts. From $110/hour.",
+    "must_try": "Captained sunset cruise on Biscayne Bay",
+    "hours": "Daily, by booking",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "GetMyBoat Miami",
+    "address": "Online / multiple Miami marinas",
+    "phone": null,
+    "website": "https://www.getmyboat.com/boat-rental/Miami--FL--United-States",
+    "category": "boating_water",
+    "subcategory": "boat_rentals",
+    "price": "$$-$$$$",
+    "rating": "4.6",
+    "description": "Largest boat rental marketplace. 1,000+ Miami listings from $100/hr. Powerboats, yachts, jet skis, pontoons.",
+    "must_try": "Browse by Star Island route",
+    "hours": "Daily, by booking",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "All Access Miami Jet Ski",
+    "address": "Haulover Marina, 10800 Collins Ave, Bal Harbour, FL 33154",
+    "phone": "+1-786-536-0039",
+    "website": "https://allaccessmia.com",
+    "category": "boating_water",
+    "subcategory": "jet_ski",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Jet ski rentals and guided tours from Haulover. Ride past celebrity homes on the Intracoastal. From $50/hour.",
+    "must_try": "Guided Intracoastal tour",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Beach Jet Ski Rentals",
+    "address": "Miami Beach Marina, 300 Alton Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-340-9555",
+    "website": "https://www.miamibeachjetski.net",
+    "category": "boating_water",
+    "subcategory": "jet_ski",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Jet skis, yacht rentals, jet cars, and ATVs from Miami Beach Marina. Multiple packages available.",
+    "must_try": "Jet ski + yacht combo package",
+    "hours": "Daily 9am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dinner Key Marina",
+    "address": "3400 Pan American Dr, Miami, FL 33133",
+    "phone": "+1-305-329-4751",
+    "website": "https://www.miamigov.com",
+    "category": "boating_water",
+    "subcategory": "marinas",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Major public marina in Coconut Grove with 582 wet slips. Full-service fuel, restaurants within walking distance.",
+    "must_try": "Dock and walk to CocoWalk for dinner",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Beach Marina",
+    "address": "300 Alton Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-673-6000",
+    "website": "https://www.miamibeachmarina.com",
+    "category": "boating_water",
+    "subcategory": "marinas",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "400-slip deep-water marina at the gateway to South Beach. No fixed bridges. Departure point for most fishing charters and boat tours.",
+    "must_try": "Walk the docks at sunset",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sailing Biscayne Bay",
+    "address": "Coconut Grove, Miami, FL 33133",
+    "phone": "+1-305-858-3810",
+    "website": "https://www.sailingbiscaynebay.com",
+    "category": "boating_water",
+    "subcategory": "sailing",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Private and group sailing charters departing Coconut Grove. Sunset sails, full-day adventures, and team events on Biscayne Bay.",
+    "must_try": "2-hour sunset sail",
+    "hours": "Daily by reservation",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Publix Super Markets (South Beach)",
+    "address": "1045 Dade Blvd, Miami Beach, FL 33139",
+    "phone": "+1-305-535-0580",
+    "website": "https://www.publix.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The nearest full Publix to South Beach. Stock your rental, grab a Pub Sub. The deli counter is a Florida institution.",
+    "must_try": "Chicken Tender Pub Sub",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Whole Foods Market (North Miami Beach)",
+    "address": "12100 Biscayne Blvd, North Miami, FL 33181",
+    "phone": "+1-305-892-5500",
+    "website": "https://www.wholefoodsmarket.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Full Whole Foods with hot bar, juice bar, and organic selection. Good lunch stop if you're heading to/from Oleta River or Haulover.",
+    "must_try": "Hot bar for quick lunch",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Sedano's Supermarket",
+    "address": "3370 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-642-2688",
+    "website": "https://www.sedanos.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Premier Latin supermarket chain. Authentic Cuban groceries, hot food counter, and fresh tropical produce. The real Miami grocery experience.",
+    "must_try": "Hot food counter for quick Cuban lunch",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CVS Pharmacy (24hr South Beach)",
+    "address": "1421 Alton Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-531-8868",
+    "website": "https://www.cvs.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.5",
+    "description": "24-hour CVS closest to the South Beach hotel zone. Your sunscreen-and-hangover-cure stop.",
+    "must_try": null,
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Mount Sinai Medical Center",
+    "address": "4300 Alton Rd, Miami Beach, FL 33140",
+    "phone": "+1-305-674-2121",
+    "website": "https://www.msmc.com",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$$",
+    "rating": "4.0",
+    "description": "Major medical center closest to Miami Beach hotels. Full ER and urgent care services.",
+    "must_try": null,
+    "hours": "24/7 ER",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Haulover Dog Beach",
+    "address": "10800 Collins Ave, Bal Harbour, FL 33154",
+    "phone": null,
+    "website": "https://www.miamidade.gov",
+    "category": "services",
+    "subcategory": "pet_services",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Off-leash dog beach at the north end of Haulover Park. Separate from the clothing-optional section. The best dog beach in Miami.",
+    "must_try": "Early morning or late afternoon for cooler sand",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hobie Beach (Dog Beach)",
+    "address": "Rickenbacker Causeway, Key Biscayne, FL 33149",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "pet_services",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Narrow strip beach on the Rickenbacker Causeway known as the local dog beach. Dogs off-leash welcome. Great bay views.",
+    "must_try": "Windsurfing + dog watching",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hard Rock Stadium",
+    "address": "347 Don Shula Dr, Miami Gardens, FL 33056",
+    "phone": "+1-305-943-8000",
+    "website": "https://hardrockstadium.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Home of the Dolphins, F1 Miami Grand Prix, and future Miami Freedom Park for Inter Miami. 65,000 capacity. Tailgate culture is strong.",
+    "must_try": "F1 Grand Prix weekend in May",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kaseya Center",
+    "address": "601 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-786-777-1000",
+    "website": "https://www.kaseyacenter.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Home of the Miami Heat. Waterfront arena in downtown. Heat Culture is real — the crowd energy is electric. Also hosts concerts.",
+    "must_try": "Heat game, section 300 for atmosphere",
+    "hours": "Varies by event",
+    "seasonal": "Oct-April (NBA season)",
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "loanDepot Park",
+    "address": "501 Marlins Way, Miami, FL 33125",
+    "phone": "+1-305-480-1300",
+    "website": "https://www.mlb.com/marlins/ballpark",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Retractable-roof stadium in Little Havana. Great Latin food vendors, A/C when it's hot, and usually easy to get cheap tickets.",
+    "must_try": "Cuban sandwich from the food court, cheap upper deck seats",
+    "hours": "Varies by game",
+    "seasonal": "April-Sept (MLB season)",
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fillmore Miami Beach",
+    "address": "1700 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-7300",
+    "website": "https://www.fillmoremb.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$",
+    "rating": "4.5",
+    "description": "Historic Jackie Gleason Theater turned premier concert venue. Standing room floor, ornate Art Deco interior. Great acoustics.",
+    "must_try": "Check the calendar — the booking is always strong",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "North Beach Bandshell",
+    "address": "7275 Collins Ave, Miami Beach, FL 33141",
+    "phone": "+1-305-672-5202",
+    "website": "https://northbeachbandshell.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$-$$",
+    "rating": "4.5",
+    "description": "Open-air oceanfront concert venue in North Beach. Free and ticketed shows — jazz, world music, film screenings. Under the stars.",
+    "must_try": "Free Rhythm Foundation concert",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Bass Museum of Art",
+    "address": "2100 Collins Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-673-7530",
+    "website": "https://thebass.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Contemporary art museum in a 1930s Art Deco building. Rotating exhibitions from major international artists. The permanent collection is strong.",
+    "must_try": "The Sylvester Stallone art collection (yes, really)",
+    "hours": "Wed-Mon 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rubell Museum",
+    "address": "1100 NW 23rd St, Miami, FL 33127",
+    "phone": "+1-305-573-6090",
+    "website": "https://rubellmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "One of the world's largest private contemporary art collections in a converted DEA warehouse. Major works by Koons, Hirst, Basquiat.",
+    "must_try": "The scale of the warehouse space alone is worth the visit",
+    "hours": "Wed-Sun 10:30am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "de la Cruz Collection",
+    "address": "23 NE 41st St, Miami, FL 33137",
+    "phone": "+1-305-576-6112",
+    "website": "https://www.delacruzcollection.org",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Free contemporary art museum in the Design District. 30,000 sq ft of major works. One of the best free cultural experiences in Miami.",
+    "must_try": "Free admission always",
+    "hours": "Tue-Sat 10am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Freedom Tower",
+    "address": "600 Biscayne Blvd, Miami, FL 33132",
+    "phone": null,
+    "website": "https://www.mdcmoad.org",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "'Ellis Island of the South' — where Cuban refugees were processed in the 1960s. Now houses MDC's Museum of Art + Design. Free.",
+    "must_try": "Free exhibitions and the historic lobby",
+    "hours": "Wed-Sun 1pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ancient Spanish Monastery",
+    "address": "16711 W Dixie Hwy, North Miami Beach, FL 33160",
+    "phone": "+1-305-945-1461",
+    "website": "https://spanishmonastery.com",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$",
+    "rating": "4.5",
+    "description": "800-year-old monastery shipped stone-by-stone from Spain by William Randolph Hearst. The oldest European building in the Western Hemisphere.",
+    "must_try": "The cloisters and gardens",
+    "hours": "Mon-Sat 10am-4pm, Sun 11am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Children's Museum",
+    "address": "980 MacArthur Causeway, Miami, FL 33132",
+    "phone": "+1-305-373-5437",
+    "website": "https://www.miamichildrensmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Interactive museum on Watson Island for kids 0-10. Hands-on exhibits, music room, and a mini supermarket. Great rainy day option.",
+    "must_try": "The music room and the construction zone",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cape Florida Lighthouse",
+    "address": "1200 S Crandon Blvd, Key Biscayne, FL 33149",
+    "phone": "+1-305-361-5811",
+    "website": "https://www.floridastateparks.org/BillBaggs",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Historic 1825 lighthouse at Bill Baggs Cape Florida State Park. Climb to the top for panoramic views. The beach below is gorgeous and uncrowded.",
+    "must_try": "Climb the lighthouse, then beach it at Bill Baggs",
+    "hours": "Daily 8am-sunset, lighthouse tours Thu-Mon",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Haulover Beach",
+    "address": "10800 Collins Ave, Bal Harbour, FL 33154",
+    "phone": "+1-305-947-3525",
+    "website": "https://www.miamidade.gov",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Beautiful beach between Sunny Isles and Bal Harbour. 1.5 miles of sand and surf. Northern end is clothing-optional. Dog beach at the far north.",
+    "must_try": "The main beach — less crowded than South Beach",
+    "hours": "Daily sunrise-sunset, $7 parking",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bill Baggs Cape Florida State Park",
+    "address": "1200 S Crandon Blvd, Key Biscayne, FL 33149",
+    "phone": "+1-305-361-5811",
+    "website": "https://www.floridastateparks.org/BillBaggs",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Consistently rated one of the top beaches in the US. Historic lighthouse, mangrove trails, and a stunning, uncrowded beach.",
+    "must_try": "Lighthouse climb + Boater's Grill lunch on the beach",
+    "hours": "Daily 8am-sunset, $8/vehicle",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Matheson Hammock Park",
+    "address": "9610 Old Cutler Rd, Coral Gables, FL 33156",
+    "phone": "+1-305-665-5475",
+    "website": "https://www.miamidade.gov",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Manmade atoll pool filled by Biscayne Bay tides — calm, warm, perfect for kids. Also has kayak rentals and a marina.",
+    "must_try": "The atoll pool at low tide, Red Fish restaurant for lunch",
+    "hours": "Daily sunrise-sunset, $7 parking",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Underline",
+    "address": "SW 1st Ave under Metrorail, Miami, FL",
+    "phone": null,
+    "website": "https://www.theunderline.org",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "10-mile linear park under the Metrorail. Bike/run path connecting Brickell to Dadeland. Art installations, butterfly gardens, workout stations.",
+    "must_try": "Rent a Citi Bike and ride the Brickell section",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Virginia Key Beach Park",
+    "address": "4020 Virginia Beach Dr, Key Biscayne, FL 33149",
+    "phone": "+1-305-960-4600",
+    "website": "https://www.virginiakeybeachpark.net",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Historic civil rights beach — the only beach open to Black Miamians during segregation. Now a beautiful, uncrowded park with both bay and ocean access.",
+    "must_try": "Mountain bike the trails, then cool off at the beach",
+    "hours": "Daily 7am-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aventura Mall",
+    "address": "19501 Biscayne Blvd, Aventura, FL 33180",
+    "phone": "+1-305-935-1110",
+    "website": "https://www.aventuramall.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$-$$$$",
+    "rating": "4.4",
+    "description": "Third-largest mall in the US. Mix of luxury (Givenchy, Cartier) and accessible (Zara, H&M). Massive public art installations throughout.",
+    "must_try": "The Aventura Slide Tower art installation",
+    "hours": "Mon-Sat 10am-9:30pm, Sun 12pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CocoWalk",
+    "address": "3015 Grand Ave, Miami, FL 33133",
+    "phone": "+1-305-444-0777",
+    "website": "https://www.cocowalk.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Open-air lifestyle center in Coconut Grove. Restaurants, shops, and a cinema. The heart of the Grove's social life.",
+    "must_try": "Dinner at one of the ground-floor restaurants",
+    "hours": "Mon-Sat 10am-9pm, Sun 12pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Española Way",
+    "address": "Española Way, Miami Beach, FL 33139",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Pedestrian village street with Spanish-Mediterranean architecture. Boutiques, restaurants, and galleries. Much calmer than Lincoln Road.",
+    "must_try": "Browse the boutiques, dinner at Tropezón",
+    "hours": "Shops 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miracle Mile (Coral Gables)",
+    "address": "Coral Way between Douglas Rd and LeJeune Rd, Coral Gables, FL 33134",
+    "phone": null,
+    "website": "https://www.shopcoralgables.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$-$$$",
+    "rating": "4.1",
+    "description": "The main street of Coral Gables. Local boutiques, bridal shops, restaurants. Tree-lined and walkable. Not touristy.",
+    "must_try": "Walk and dine — Zucca, Shingo, and Bachour are all nearby",
+    "hours": "Varies by shop",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Carreta",
+    "address": "3632 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-444-7501",
+    "website": "https://www.lacarreta.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Quintessential Miami chain for hearty, home-style Cuban comfort food and a bustling outdoor coffee ventanita. Open late.",
+    "must_try": "Vaca Frita",
+    "hours": "Daily 7am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Islas Canarias",
+    "address": "285 NW 27th Ave, Miami, FL 33125",
+    "phone": "+1-305-649-0440",
+    "website": null,
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Legendary for having the best croquetas in Miami. Family-run since the 70s. The ham croquetas and pan con bistec are the moves.",
+    "must_try": "Ham croquetas — the best in Miami, period",
+    "hours": "Mon-Sat 7am-10pm, Sun 7am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Garcia's Seafood Grille",
+    "address": "398 NW N River Dr, Miami, FL 33128",
+    "phone": "+1-305-375-0765",
+    "website": "https://www.garciasseafood.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "No-frills waterfront fish shack on the Miami River. Fresh catch, fried everything, cold beer. The opposite of scene-y waterfront dining.",
+    "must_try": "Fried grouper sandwich on the dock",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Juvia",
+    "address": "1111 Lincoln Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-763-8272",
+    "website": "https://juviamiami.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "Rooftop restaurant on Lincoln Road with Japanese-Peruvian-French menu. The 360-degree views of Miami Beach are stunning. Scene-y.",
+    "must_try": "Crispy Rice Tuna, sunset on the terrace",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Prime 112",
+    "address": "112 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-532-8112",
+    "website": "https://prime112.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.4",
+    "description": "The original SoBe power steakhouse. Celebrity clientele, massive portions, truffle mac & cheese that launched a thousand imitations.",
+    "must_try": "Truffle Mac & Cheese, any prime cut",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Papi Steak",
+    "address": "736 1st St, Miami Beach, FL 33139",
+    "phone": "+1-305-800-7274",
+    "website": "https://papisteak.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "David Grutman's over-the-top steakhouse. Gold-plated tomahawks, celebrity sightings, and vibes that transition into nightlife.",
+    "must_try": "24K Gold Tomahawk (for the gram)",
+    "hours": "Daily 7pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tap Tap",
+    "address": "819 5th St, Miami Beach, FL 33139",
+    "phone": "+1-305-672-2898",
+    "website": "https://taptaprestaurant.com",
+    "category": "dining",
+    "subcategory": "haitian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Colorful Haitian restaurant in South of Fifth. Hand-painted murals, live music, and authentic Haitian cuisine including goat and conch.",
+    "must_try": "Griot and Tassot, live music nights",
+    "hours": "Daily 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CVI.CHE 105",
+    "address": "105 NE 3rd Ave, Miami, FL 33132",
+    "phone": "+1-305-577-3454",
+    "website": "https://ceviche105.com",
+    "category": "dining",
+    "subcategory": "peruvian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Downtown Peruvian that's always packed. The ceviches are outstanding and the pisco sours are strong. Great value.",
+    "must_try": "Ceviche Clasico, Lomo Saltado",
+    "hours": "Mon-Sat 12pm-11pm, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Makoto",
+    "address": "9700 Collins Ave, Bal Harbour, FL 33154",
+    "phone": "+1-305-864-8600",
+    "website": "https://makoto-restaurant.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Upscale Japanese at Bal Harbour Shops. Robata grill, omakase bar, and a power lunch crowd. One of the best sushi scenes in Miami.",
+    "must_try": "Robata grilled items, any special roll",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red Rooster Overtown",
+    "address": "920 NW 2nd Ave, Miami, FL 33136",
+    "phone": "+1-305-640-9880",
+    "website": "https://redroosterovertown.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Marcus Samuelsson's celebration of Overtown's musical and cultural heritage. Southern comfort food with global accents and live music.",
+    "must_try": "Obama Short Ribs, Yardbird, live gospel brunch",
+    "hours": "Tue-Sun 5pm-10pm, Sun Brunch 11am-3pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Greenstreet Cafe",
+    "address": "3468 Main Hwy, Miami, FL 33133",
+    "phone": "+1-305-567-0662",
+    "website": "https://greenstreetcafe.net",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Coconut Grove institution since 1992. The outdoor patio is the neighborhood living room. Breakfast and brunch all day.",
+    "must_try": "Avocado Toast, people-watching from the patio",
+    "hours": "Daily 8am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pinecrest Bakery",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://www.pinecrestbakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$",
+    "rating": "4.4",
+    "description": "24-hour Cuban bakery chain that saves lives at 4 AM with hot croquetas, pastelitos, and strong cafecito.",
+    "must_try": "Guava and Cheese Pastelito at 2 AM",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vice City Bean",
+    "address": "1657 N Miami Ave, Miami, FL 33136",
+    "phone": null,
+    "website": "https://vicecitybean.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Industrial-looking specialty shop using Madcap Coffee beans. Housemade nut milks and creative lattes. Three locations across Miami.",
+    "must_try": "Oat milk latte with housemade syrup",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Per'La Specialty Roasters",
+    "address": "12 Aragon Ave, Coral Gables, FL 33134",
+    "phone": "+1-786-615-2662",
+    "website": "https://perlacoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Miami-roasted specialty beans served in a sleek Coral Gables cafe. The espresso program is meticulous.",
+    "must_try": "Single-origin pour-over, flat white",
+    "hours": "Mon-Sat 7am-6pm, Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cafe Demetrio",
+    "address": "300 Alhambra Cir, Coral Gables, FL 33134",
+    "phone": "+1-305-448-4949",
+    "website": "https://cafedemetrio.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Historic Coral Gables coffeehouse in a beautiful old building with a giant banyan tree in the back patio. Famous for chocolate lattes.",
+    "must_try": "Chocolate latte under the banyan tree",
+    "hours": "Daily 7am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tinta y Cafe",
+    "address": "1315 Ponce de Leon Blvd, Coral Gables, FL 33134",
+    "phone": "+1-305-285-0101",
+    "website": "https://tintaycafe.co",
+    "category": "coffee_bakeries",
+    "subcategory": "cafecito",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Quirky Cuban coffee shop with midcentury vibes. Outstanding croqueta preparada sandwich and legit Cuban coffee. No laptops — they mean it.",
+    "must_try": "Croqueta Preparada sandwich and a colada",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Suite Habana Cafe",
+    "address": "2609 N Miami Ave, Miami, FL 33127",
+    "phone": null,
+    "website": "https://suitehabanacafe.com",
+    "category": "coffee_bakeries",
+    "subcategory": "cafecito",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Michelin-recommended Cuban cafe that perfectly bridges ventanita tradition with specialty coffee. Colombian-owned, beloved by locals and Joe Jonas alike.",
+    "must_try": "Cafecito and cafe con leche",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emissary",
+    "address": "3308 Mary St, Miami, FL 33133",
+    "phone": null,
+    "website": "https://emissarycafe.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Coconut Grove's neighborhood coffeehouse. Counter Culture coffee, fantastic egg sandwich on Flour & Weirdoughs brioche. Expect long weekend lines.",
+    "must_try": "Egg sandwich on brioche, iced matcha",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cafe Grumpy",
+    "address": "193 Aragon Ave, Coral Gables, FL 33134",
+    "phone": "+1-305-455-0284",
+    "website": "https://cafegrumpy.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Brooklyn's beloved specialty roaster's first Florida outpost. Minimalist space, no pretensions, just great coffee. Beans roasted in-house weekly.",
+    "must_try": "Honey Oat Latte",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Flour & Weirdoughs",
+    "address": "2060 N Bayshore Dr, Miami, FL 33137",
+    "phone": null,
+    "website": "https://flourandweirdoughs.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The most creative bakery in Miami. Ricotta cornmeal pancakes, the Brisket B*tch Croissant, and some of the best scones you'll ever eat.",
+    "must_try": "Brisket B*tch Croissant, ricotta pancakes",
+    "hours": "Wed-Mon 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Macondo Coffee Roasters",
+    "address": "205 Aragon Ave, Coral Gables, FL 33134",
+    "phone": "+1-305-901-8292",
+    "website": "https://macondocoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Colombian-owned roaster with beans from small farms. Full Latin American breakfast and lunch menu alongside specialty coffee.",
+    "must_try": "Colombian coffee, empanada combo",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yann Couvreur Cafe",
+    "address": "2700 N Miami Ave, Miami, FL 33127",
+    "phone": null,
+    "website": "https://yanncouvreur.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "First US location from the renowned Parisian pastry chef. Bright, airy space with an open kitchen. The display case is edible art.",
+    "must_try": "Any petit gateau, croissant, tartine",
+    "hours": "Daily 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dasher & Crank",
+    "address": "2211 NW 2nd Ave, Miami, FL 33127",
+    "phone": "+1-305-521-0tried",
+    "website": "https://dasherandcrank.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Small-batch ice cream shop in Wynwood using local ingredients. Tropical flavors done right — guava cheesecake, mango, passion fruit.",
+    "must_try": "Guava cheesecake ice cream",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cafe at Books & Books",
+    "address": "265 Aragon Ave, Coral Gables, FL 33134",
+    "phone": "+1-305-448-9599",
+    "website": "https://booksandbooks.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The cafe inside Miami's beloved independent bookstore. Soups, salads, sandwiches, and coffee in a space buzzing with creative energy.",
+    "must_try": "Coffee and a new book on the patio",
+    "hours": "Daily 9am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Surfside Beach",
+    "address": "9301 Collins Ave, Surfside, FL 33154",
+    "phone": null,
+    "website": "https://townofsurfside.com",
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Quiet, uncrowded beach north of South Beach. Gorgeous sand, fewer people, more space. Where locals and hotel guests overlap peacefully.",
+    "must_try": "Morning swim before the crowds",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "North Beach (North Shore Open Space Park)",
+    "address": "8328 Collins Ave, Miami Beach, FL 33141",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Wide, uncrowded stretch north of the main tourist zone. Popular with families and locals. The Bandshell is nearby for evening concerts.",
+    "must_try": "Beach day followed by North Beach Bandshell concert",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barnacle Historic State Park",
+    "address": "3485 Main Hwy, Miami, FL 33133",
+    "phone": "+1-305-442-6866",
+    "website": "https://www.floridastateparks.org/TheBarnacle",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The oldest house in Miami-Dade still in its original location, set on a gorgeous bayside property. Shaded trails and concerts on the lawn.",
+    "must_try": "Monthly Barnacle moonlight concert series",
+    "hours": "Fri-Mon 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bayfront Park",
+    "address": "301 Biscayne Blvd, Miami, FL 33132",
+    "phone": "+1-305-358-7550",
+    "website": "https://bayfrontparkmiami.com",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "32-acre park on Biscayne Bay in downtown. Home to Ultra Music Festival, Klipsch Amphitheater, and the Challenger memorial. Great for a waterfront walk.",
+    "must_try": "Walk the bayfront promenade at sunset",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Kiteboarding",
+    "address": "Crandon Park, Key Biscayne, FL 33149",
+    "phone": "+1-305-345-9974",
+    "website": "https://miamikiteboarding.com",
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Premier kiteboarding school at Crandon Park. Lessons for beginners and gear rentals for experienced riders. Consistent bay winds.",
+    "must_try": "Beginner lesson (3 hours)",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "South Beach Parasailing",
+    "address": "1635 N Bayshore Dr, Miami, FL 33132",
+    "phone": "+1-305-407-2159",
+    "website": "https://southbeachparasail.com",
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Parasailing over Biscayne Bay with views of the skyline and South Beach. Single and tandem flights from 400-800 feet.",
+    "must_try": "800-foot tandem flight at sunset",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rickenbacker Causeway Trail",
+    "address": "Rickenbacker Causeway, Key Biscayne, FL 33149",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "The premier running and cycling route in Miami. 5-mile causeway with bay views on both sides, a challenging bridge climb, and Hobie Beach at the base.",
+    "must_try": "Sunrise ride across the bridge",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "South Beach Dive & Surf",
+    "address": "850 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-531-6110",
+    "website": "https://southbeachdivers.com",
+    "category": "outdoor_adventure",
+    "subcategory": "diving",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "PADI dive center offering reef dives, wreck dives, and certification courses. Miami sits atop the third-largest barrier reef system in the world.",
+    "must_try": "Two-tank reef dive (half day)",
+    "hours": "Daily 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Improv Comedy Club",
+    "address": "8300 NW 36th St, Doral, FL 33166",
+    "phone": "+1-305-441-8200",
+    "website": "https://miamiimprov.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Major national comedy club bringing big-name acts to Miami. Dave Chappelle, Bert Kreischer, and Nikki Glaser have all played here.",
+    "must_try": "Weekend headliner show",
+    "hours": "Thu-Sun, show times vary",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Escape Room 305",
+    "address": "255 NE 18th St, Miami, FL 33132",
+    "phone": "+1-786-553-3822",
+    "website": "https://theescaperoom305.com",
+    "category": "entertainment",
+    "subcategory": "escape_rooms",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Highly themed escape rooms in downtown Miami. Multiple rooms with different difficulty levels. Good rainy day option.",
+    "must_try": "The Heist room (hardest)",
+    "hours": "Daily 10am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "New World Center",
+    "address": "500 17th St, Miami Beach, FL 33139",
+    "phone": "+1-305-673-3330",
+    "website": "https://www.nws.edu",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$",
+    "rating": "4.7",
+    "description": "Frank Gehry-designed concert hall home to the New World Symphony. Free WALLCAST concerts projected on the 7,000 sq ft outdoor wall on weekends.",
+    "must_try": "Free Saturday WALLCAST — bring a blanket and wine",
+    "hours": "Varies by performance",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Ground Miami",
+    "address": "34 NE 11th St, Miami, FL 33132",
+    "phone": null,
+    "website": "https://thegroundmiami.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$",
+    "rating": "4.4",
+    "description": "Indoor/outdoor live music and event venue in the Club Space complex. Hosts concerts, art events, and cultural programming.",
+    "must_try": "Check calendar for live shows",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mandarin Oriental Spa",
+    "address": "500 Brickell Key Dr, Miami, FL 33131",
+    "phone": "+1-305-913-8332",
+    "website": "https://www.mandarinoriental.com/miami/spa",
+    "category": "wellness",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Private island spa on Brickell Key. Signature Oriental treatments, bayfront relaxation deck, and total seclusion from the city.",
+    "must_try": "Time Ritual facial, bayfront relaxation deck",
+    "hours": "Daily 9am-7pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green Monkey Yoga",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://greenmonkeyyoga.com",
+    "category": "wellness",
+    "subcategory": "yoga",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Miami's homegrown yoga chain. Hot yoga, vinyasa, and restorative classes. Multiple locations across Miami Beach, Brickell, and Coral Gables.",
+    "must_try": "Sunrise rooftop yoga class",
+    "hours": "Daily, classes 6am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Anatomy Fitness",
+    "address": "1220 16th St, Miami Beach, FL 33139",
+    "phone": "+1-305-507-8885",
+    "website": "https://anatomyfitness.com",
+    "category": "wellness",
+    "subcategory": "fitness",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Boutique fitness club in South Beach with top-tier equipment, group classes, and a rooftop pool. Day passes available for visitors.",
+    "must_try": "Day pass with rooftop pool access",
+    "hours": "Daily 5am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Macchialina",
+    "address": "820 Alton Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-534-2124",
+    "website": "https://macchialina.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Intimate, no-frills Italian trattoria in South Beach that punches way above its weight. Handmade pastas, seasonal Italian cooking, incredible value.",
+    "must_try": "Cacio e Pepe, any handmade pasta",
+    "hours": "Daily 6pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steve's Pizza",
+    "address": "12101 Biscayne Blvd, North Miami, FL 33181",
+    "phone": "+1-305-891-0202",
+    "website": null,
+    "category": "dining",
+    "subcategory": "pizza",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Cash-only Miami institution since 1974. Big, cheesy, greasy New York-style slices. Open until 3am. The late-night pizza of choice.",
+    "must_try": "Plain slice at 2am after the club",
+    "hours": "Sun-Thu 11am-1am, Fri-Sat 11am-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fogo de Chão Miami Beach",
+    "address": "836 1st St, Miami Beach, FL 33139",
+    "phone": "+1-305-672-0011",
+    "website": "https://fogodechao.com",
+    "category": "dining",
+    "subcategory": "brazilian",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "All-you-can-eat Brazilian churrascaria. Endless skewers of grilled meats carved tableside. The Market Table salad bar is massive.",
+    "must_try": "Picanha (top sirloin cap), pão de queijo",
+    "hours": "Mon-Fri 11:30am-10pm, Sat-Sun 11am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bulla Gastrobar",
+    "address": "2500 Ponce de Leon Blvd, Coral Gables, FL 33134",
+    "phone": "+1-305-441-0107",
+    "website": "https://bullagastrobar.com",
+    "category": "dining",
+    "subcategory": "mediterranean",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Lively Spanish tapas bar on the Miracle Mile. Great patatas bravas, croquetas, and gin & tonics. Always buzzing.",
+    "must_try": "Patatas bravas, croquetas de jamón",
+    "hours": "Mon-Thu 11:30am-11pm, Fri-Sat 11:30am-12am, Sun 10:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Amara at Paraiso",
+    "address": "3101 NE 7th Ave, Miami, FL 33137",
+    "phone": "+1-305-702-5528",
+    "website": "https://amaraatparaiso.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Michael Schwartz's waterfront restaurant in the Paraiso complex. Latin-influenced seafood with stunning Biscayne Bay views.",
+    "must_try": "Waterfront brunch, ceviche",
+    "hours": "Mon-Fri 12pm-10pm, Sat-Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "waterfront",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kiki on the River",
+    "address": "450 NW N River Dr, Miami, FL 33128",
+    "phone": "+1-305-930-2770",
+    "website": "https://kikiontheriver.com",
+    "category": "dining",
+    "subcategory": "waterfront",
+    "price": "$$$$",
+    "rating": "4.1",
+    "description": "Greek-Mediterranean restaurant on the Miami River. Boat-up capable. Weekend brunch is a full-on party with DJs, champagne towers, and scene.",
+    "must_try": "Weekend brunch scene, grilled branzino",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Mar by Gaston Acurio",
+    "address": "500 Brickell Key Dr, Miami, FL 33131",
+    "phone": "+1-305-913-8358",
+    "website": "https://mandarinoriental.com/miami/dining/la-mar",
+    "category": "dining",
+    "subcategory": "peruvian",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Gaston Acurio's waterfront Peruvian at the Mandarin Oriental. Possibly the best ceviche in Miami, with Brickell Key bay views.",
+    "must_try": "Ceviche Classico, causa, pisco sour",
+    "hours": "Daily 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "waterfront"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fiola Miami",
+    "address": "1500 San Ignacio Ave, Coral Gables, FL 33146",
+    "phone": "+1-305-912-2639",
+    "website": "https://fiolamiami.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Fabio Trabocchi's upscale Italian in Coral Gables. Handmade pastas, imported Italian ingredients, and an extensive wine program.",
+    "must_try": "Truffle pasta, any fresh pasta",
+    "hours": "Mon-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lolo's Surf Cantina",
+    "address": "79 SE 1st St, Miami, FL 33131",
+    "phone": "+1-305-416-7778",
+    "website": "https://lolossurfcantina.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Colorful, casual Baja-style Mexican in downtown. Fish tacos, guac, margaritas. Fun vibe without the pretension.",
+    "must_try": "Fish tacos, frozen margarita",
+    "hours": "Daily 11:30am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cheen Huaye",
+    "address": "3337 NW 7th St, Miami, FL 33125",
+    "phone": "+1-305-642-5665",
+    "website": "https://cheenhuaye.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Authentic Yucatecan Mexican in a strip mall near Little Havana. Cochinita pibil, panuchos, and lime soup. One of the most underrated restaurants in Miami.",
+    "must_try": "Cochinita Pibil, Sopa de Lima",
+    "hours": "Mon-Sat 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tacology",
+    "address": "701 S Miami Ave, Miami, FL 33131",
+    "phone": "+1-305-842-3621",
+    "website": "https://tacologymiami.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Upscale taco spot in Brickell City Centre. Creative tacos, strong mezcal program, good happy hour. The rooftop is solid.",
+    "must_try": "Short rib taco, mezcal flight",
+    "hours": "Mon-Thu 12pm-10pm, Fri-Sat 12pm-12am, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lost Boy Dry Goods",
+    "address": "157 E Flagler St, Miami, FL 33131",
+    "phone": "+1-786-618-1652",
+    "website": "https://lostboydrygoods.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Speakeasy-style cocktail bar hidden on Flagler. Vintage decor, expertly crafted drinks, and a dark, intimate vibe. One of downtown's best.",
+    "must_try": "Old Fashioned, the atmosphere",
+    "hours": "Mon-Sat 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Selva",
+    "address": "700 NW 1st Ave, Miami, FL 33136",
+    "phone": null,
+    "website": "https://selvamia.com",
+    "category": "bars_nightlife",
+    "subcategory": "mega_clubs",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Jungle-themed nightclub in downtown Miami. Lush greenery, immersive decor, and a quality electronic music program.",
+    "must_try": "Saturday night — the production is impressive",
+    "hours": "Fri-Sat 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Treehouse",
+    "address": "323 23rd St, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://treehousemiami.com",
+    "category": "bars_nightlife",
+    "subcategory": "mega_clubs",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Open-air electronic music venue in South Beach. House and techno under the trees. More relaxed than the mega-clubs but still high-energy.",
+    "must_try": "Sunday night sets",
+    "hours": "Thu-Sun 11pm-5am",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dante's HiFi",
+    "address": "1620 Meridian Ave, Miami Beach, FL 33139",
+    "phone": null,
+    "website": "https://danteshifi.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Hi-fi vinyl listening bar meets craft cocktail lounge. Incredible sound system, curated vinyl collection, dim lighting. The anti-nightclub.",
+    "must_try": "Vinyl DJ sets, whiskey cocktails",
+    "hours": "Daily 5pm-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Enoteca Tredici",
+    "address": "1458 Washington Ave, Miami Beach, FL 33139",
+    "phone": "+1-305-763-8972",
+    "website": "https://enotecaristorante.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Italian wine bar and restaurant on Washington Ave. 250+ bottle wine list, small plates, and a cozy candlelit atmosphere.",
+    "must_try": "Wine flight with Italian charcuterie",
+    "hours": "Daily 5pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coral Gables Biltmore Hotel",
+    "address": "1200 Anastasia Ave, Coral Gables, FL 33134",
+    "phone": "+1-305-445-1926",
+    "website": "https://www.biltmorehotel.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "National Historic Landmark hotel built in 1926. Free to walk through the stunning lobby and grounds. The pool is the largest hotel pool in the continental US.",
+    "must_try": "Free Sunday guided tour, brunch at Fontana",
+    "hours": "24/7 (public areas)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little Havana Cigar Factory",
+    "address": "1501 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-858-4162",
+    "website": "https://littlehavanacigarfactory.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Watch master rollers hand-roll cigars while you browse the humidor. A tactile, authentic Little Havana experience.",
+    "must_try": "Watch the rolling, buy a house-rolled cigar",
+    "hours": "Daily 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "latin"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miami Design Preservation League Tours",
+    "address": "1001 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-672-2014",
+    "website": "https://mdpl.org",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Guided walking tours of the Art Deco Historic District led by expert docents. The best way to understand South Beach's architectural heritage.",
+    "must_try": "90-minute Art Deco walking tour ($30)",
+    "hours": "Daily 10:30am",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Azabu Miami Beach",
+    "address": "163 Madeira Ave, Miami Beach, FL 33139",
+    "phone": "+1-786-276-0520",
+    "website": "https://azabumiamibeach.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Hidden basement omakase inside The Goodtime Hotel. Dark, intimate, with an outstanding sushi counter and izakaya upstairs.",
+    "must_try": "Chef's omakase, uni tasting",
+    "hours": "Daily 6pm-12am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hiyakawa",
+    "address": "3238 NE 1st Ave, Miami, FL 33137",
+    "phone": null,
+    "website": "https://hiyakawa.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "12-seat counter-only Japanese restaurant in Midtown. Creative multi-course menu blending Japanese technique with local ingredients. Intimate and personal.",
+    "must_try": "Omakase dinner (book well ahead)",
+    "hours": "Tue-Sat 6pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gekko",
+    "address": "114 NE 1st Ave, Miami, FL 33132",
+    "phone": "+1-305-573-2556",
+    "website": "https://gekkomiami.com",
+    "category": "dining",
+    "subcategory": "japanese",
+    "price": "$$$$",
+    "rating": "4.2",
+    "description": "Bad Bunny's Japanese steakhouse. Part restaurant, part scene. Wagyu, robata grill, and a crowd that's there as much for the vibe as the food.",
+    "must_try": "A5 Wagyu, seeing who else is there",
+    "hours": "Daily 6pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swan",
+    "address": "90 NE 39th St, Miami, FL 33137",
+    "phone": "+1-305-704-0994",
+    "website": "https://swanbevy.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "David Grutman and Pharrell Williams' Design District restaurant. Mediterranean-inspired menu, gorgeous garden terrace, and Bevy nightclub upstairs.",
+    "must_try": "Grilled octopus, garden terrace dinner",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Cristo",
+    "address": "1543 SW 8th St, Miami, FL 33135",
+    "phone": "+1-305-541-5757",
+    "website": null,
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$",
+    "rating": "4.3",
+    "description": "No-frills Little Havana Cuban joint since 1980. The masas de puerco (fried pork chunks) are some of the best in the city. Cash only.",
+    "must_try": "Masas de puerco, bistec empanizado",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "latin",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Havana Harry's",
+    "address": "4612 S Le Jeune Rd, Coral Gables, FL 33146",
+    "phone": "+1-305-661-2622",
+    "website": "https://havanaharrys.com",
+    "category": "dining",
+    "subcategory": "cuban",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Elevated Cuban comfort food in Coral Gables. Less tourist, more local. The ropa vieja and vaca frita are outstanding.",
+    "must_try": "Ropa vieja, tres leches cake",
+    "hours": "Daily 11:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "latin",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Casablanca Seafood",
+    "address": "400 NW N River Dr, Miami, FL 33128",
+    "phone": "+1-305-371-4107",
+    "website": "https://casablancaseafood.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Old-school Miami River fish house right next to Garcia's. Fresh whole fish, stone crabs in season, cold beer. The outdoor deck overlooks the working river.",
+    "must_try": "Whole fried snapper, stone crabs (in season)",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Meat Market",
+    "address": "915 Lincoln Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-532-0088",
+    "website": "https://meatmarket.net",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "Sleek Lincoln Road steakhouse. Prime cuts, strong cocktails, and excellent people-watching from the outdoor terrace.",
+    "must_try": "Bone-in ribeye, truffle fries",
+    "hours": "Daily 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Gaythering",
+    "address": "1409 Lincoln Rd, Miami Beach, FL 33139",
+    "phone": "+1-305-534-1128",
+    "website": "https://hotelgaythering.com",
+    "category": "bars_nightlife",
+    "subcategory": "lgbtq_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Boutique LGBTQ+ hotel and bar on Lincoln Road. Nightly themed events, free happy hour for guests, and a welcoming community atmosphere.",
+    "must_try": "Nightly themed events at the bar",
+    "hours": "Bar daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nikki Beach",
+    "address": "1 Ocean Dr, Miami Beach, FL 33139",
+    "phone": "+1-305-538-1111",
+    "website": "https://nikkibeach.com",
+    "category": "bars_nightlife",
+    "subcategory": "lounges",
+    "price": "$$$$",
+    "rating": "4.1",
+    "description": "The original beach club, since 1998. Sunday brunch party is legendary. Teepees, champagne, DJs, and sand between your toes.",
+    "must_try": "Sunday brunch party",
+    "hours": "Wed-Sun 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SLS Brickell",
+    "address": "1300 S Miami Ave, Miami, FL 33131",
+    "phone": "+1-305-239-1300",
+    "website": "https://www.slshotels.com/brickell",
+    "category": "lodging",
+    "subcategory": "luxury_resorts",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Philippe Starck-designed tower in the Brickell corridor. Rooftop pool deck, Katsuya restaurant, and an urban luxury vibe.",
+    "must_try": "Rooftop pool, Katsuya dinner",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Confidante",
+    "address": "4041 Collins Ave, Miami Beach, FL 33140",
+    "phone": "+1-305-424-1234",
+    "website": "https://www.hyatt.com/en-US/hotel/florida/the-confidante",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Restored 1940s Art Deco hotel in Mid-Beach. Two pools, Bird & Bone restaurant, and a more relaxed alternative to South Beach.",
+    "must_try": "Pool scene, morning beach walk",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  }
+]

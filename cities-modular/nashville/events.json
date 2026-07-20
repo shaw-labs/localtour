@@ -1,0 +1,86 @@
+[
+  {
+    "id": "event-americanafest-2026-09-15",
+    "title": "AMERICANAFEST",
+    "date": "2026-09-15 to 2026-09-19",
+    "featured": true
+  },
+  {
+    "id": "event-tomato-art-fest-2026-08-07",
+    "title": "Tomato Art Fest",
+    "date": "2026-08-07 to 2026-08-08",
+    "featured": true
+  },
+  {
+    "id": "event-nashville-big-bash-nye-2026-12-31",
+    "title": "Jack Daniel's New Year's Eve Live: Nashville's Big Bash",
+    "date": "2026-12-31",
+    "featured": true
+  },
+  {
+    "id": "event-grand-ole-opry-recurring",
+    "title": "The Grand Ole Opry",
+    "date": "recurring: Friday & Saturday nights year-round (plus select weeknights)",
+    "featured": false
+  },
+  {
+    "id": "event-bluebird-sunday-writers-night-recurring",
+    "title": "Sunday Writers Night at The Bluebird Cafe",
+    "date": "recurring: Sundays, 8:00 PM",
+    "featured": false
+  },
+  {
+    "id": "event-bluebird-monday-open-mic-recurring",
+    "title": "Monday Open Mic at The Bluebird Cafe",
+    "date": "recurring: Mondays, 6:00 PM",
+    "featured": false
+  },
+  {
+    "id": "event-musicians-corner-fall-2026-08-28",
+    "title": "Musicians Corner Fall Series",
+    "date": "recurring: Fridays from 2026-08-28 through late September 2026",
+    "featured": false
+  },
+  {
+    "id": "event-pilgrimage-festival-franklin-2026-09",
+    "title": "Pilgrimage Music & Cultural Festival",
+    "date": "recurring: September 2026 (dates TBA)",
+    "featured": false
+  },
+  {
+    "id": "event-franklin-pumpkinfest-2026-10-24",
+    "title": "Franklin PumpkinFest",
+    "date": "2026-10-24 to 2026-10-25",
+    "featured": false
+  },
+  {
+    "id": "event-country-christmas-opryland-2026-11",
+    "title": "A Country Christmas & ICE! at Gaylord Opryland",
+    "date": "recurring: mid-November 2026 through early January 2027",
+    "featured": false
+  },
+  {
+    "id": "event-dickens-of-a-christmas-franklin-2026-12-12",
+    "title": "Dickens of a Christmas",
+    "date": "2026-12-12 to 2026-12-13",
+    "featured": false
+  },
+  {
+    "id": "event-live-on-the-green-2026-08",
+    "title": "Live on the Green",
+    "date": "recurring: late summer 2026 (dates TBA)",
+    "featured": false
+  },
+  {
+    "id": "event-nashville-farmers-market-recurring",
+    "title": "Nashville Farmers' Market",
+    "date": "recurring: daily, year-round (peak weekends)",
+    "featured": false
+  },
+  {
+    "id": "event-opry-country-christmas-2026-12",
+    "title": "Opry Country Christmas",
+    "date": "recurring: December 2026 (select dates)",
+    "featured": false
+  }
+]

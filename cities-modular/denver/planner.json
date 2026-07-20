@@ -1,0 +1,586 @@
+{
+  "morning_starts": [
+    {
+      "title": "Huckleberry Roasters",
+      "note": "Fuel up RiNo-style before the mural crawl — their pour-over is basecamp coffee done right.",
+      "business": "Huckleberry Roasters",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Little Owl Coffee",
+      "note": "A LoDo warm-up two blocks from Union Station — perfect launch pad for the day's trailhead.",
+      "business": "Little Owl Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bakery Four",
+      "note": "Croissants worth setting an alarm for — carb-load like you're heading uphill, because at 5,280 ft you sort of are.",
+      "business": "Bakery Four",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Sam's No. 3",
+      "note": "A 1920s diner institution — green chile and pancakes to line the stomach before altitude does its thing.",
+      "business": "Sam's No. 3",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Stowaway Kitchen",
+      "note": "Bright, breezy morning plates in RiNo — hydrate here, the mile-high sun is deceptive.",
+      "business": "Stowaway Kitchen",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Corvus Coffee Roasters",
+      "note": "Serious single-origin for the caffeine purists — a South Broadway ritual before you point the car west.",
+      "business": "Corvus Coffee Roasters",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Pablo's Coffee",
+      "note": "Cap Hill's neighborhood roaster — grab a cup and read the city's pulse before the crowds wake.",
+      "business": "Pablo's Coffee",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Adventure Hub at Washington Park Boathouse",
+      "note": "Rent a paddleboard on Wash Park's lakes — flatwater and mountain views, my favorite easy-altitude morning.",
+      "business": "Adventure Hub at Washington Park Boathouse",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cherry Creek State Park",
+      "note": "A reservoir-and-prairie escape ten minutes from downtown — swim, sail, or just find shade with a Front Range skyline.",
+      "business": "Cherry Creek State Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Chatfield State Park",
+      "note": "Big-water sailing and beach time at the foot of the foothills — pack sunscreen, that 300-days-of-sun is no joke.",
+      "business": "Chatfield State Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bear Creek Lake Park",
+      "note": "A swim beach plus paddle rentals with Mount Falcon rising behind — Lakewood's underrated water day.",
+      "business": "Bear Creek Lake Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Confluence Park",
+      "note": "Where Cherry Creek meets the Platte — locals tube and wade right in the heart of the city.",
+      "business": "Confluence Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Clear Creek Whitewater Park (Golden)",
+      "note": "Golden's downtown rapids — tube the chutes or watch kayakers surf the wave with a beer in hand.",
+      "business": "Clear Creek Whitewater Park (Golden)",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Denver Art Museum",
+      "note": "The Hamilton Building's jagged titanium is a landmark itself — start here for Indigenous art and the city's cultural anchor.",
+      "business": "Denver Art Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Denver Museum of Nature & Science",
+      "note": "Dinosaurs, gems, and a rooftop view of the Front Range — City Park's brainy heart.",
+      "business": "Denver Museum of Nature & Science",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Clyfford Still Museum",
+      "note": "One artist, one hushed building — a meditative counterpoint to the DAM next door.",
+      "business": "Clyfford Still Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Molly Brown House Museum",
+      "note": "The 'Unsinkable' Titanic survivor's Cap Hill mansion — Denver's Gilded Age up close.",
+      "business": "Molly Brown House Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Denver Botanic Gardens",
+      "note": "Twenty-four acres of desert-to-alpine plantings — Colorado's ecosystems in one walkable loop.",
+      "business": "Denver Botanic Gardens",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Meow Wolf Denver | Convergence Station",
+      "note": "A four-story immersive art trip — surreal, sensory, and unlike anything on the map.",
+      "business": "Meow Wolf Denver | Convergence Station",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Tattered Cover Book Store — Union Station",
+      "note": "Denver's beloved indie bookstore inside the grand hall — browse, then people-watch over the platform.",
+      "business": "Tattered Cover Book Store — Union Station",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Capitol Hill Books",
+      "note": "Creaky-floor used bookstore treasure hunt — where Cap Hill loses track of time.",
+      "business": "Capitol Hill Books",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Twist and Shout Records",
+      "note": "One of the great American record stores — dig for vinyl on Colfax for hours.",
+      "business": "Twist and Shout Records",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Wax Trax Records",
+      "note": "A Cap Hill crate-digger's institution since the '70s — punk, jazz, and everything in the stacks.",
+      "business": "Wax Trax Records",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Topo Designs Flagship Store",
+      "note": "Denver-born packs and mountain gear that look as good on Welton St as on the trail.",
+      "business": "Topo Designs Flagship Store",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fancy Tiger Crafts Co-op",
+      "note": "A maker's paradise on South Broadway — yarn, fabric, and DIY Colorado spirit.",
+      "business": "Fancy Tiger Crafts Co-op",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cherry Creek North",
+      "note": "Sixteen walkable blocks of boutiques and galleries — the city's upscale browse.",
+      "business": "Cherry Creek North",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Yuan Wonton",
+      "note": "The famous food-truck-turned-brick-and-mortar — dumplings that earned every accolade, grab them fresh.",
+      "business": "Yuan Wonton",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "El Taco de Mexico",
+      "note": "A Santa Fe Drive counter legend — the green chile smothered anything is a Denver rite of passage.",
+      "business": "El Taco de Mexico",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Stowaway Kitchen",
+      "note": "Fresh bowls and sandwiches in RiNo — light enough to keep you moving through the murals.",
+      "business": "Stowaway Kitchen",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Loma",
+      "note": "Sky-high margaritas and hand-rolled tortillas downtown — a festive midday refuel.",
+      "business": "La Loma",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Brewery Bar II",
+      "note": "A no-frills local for fierce green chile — the kind of lunch that fuels an afternoon uphill.",
+      "business": "Brewery Bar II",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Sam's No. 3",
+      "note": "Diner classics any hour — reliable, generous, and pure old-Denver comfort.",
+      "business": "Sam's No. 3",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Postino Broadway",
+      "note": "Bruschetta boards and $5-wine hour on the patio — the golden-hour move on South Broadway.",
+      "business": "Postino Broadway",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Historians Ale House",
+      "note": "Cap Hill's easygoing tap list with elevated bar bites — settle in as the sun drops.",
+      "business": "Historians Ale House",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ratio Beerworks",
+      "note": "RiNo brewery with a rock-and-roll heart — house saisons in a mural-lined garage.",
+      "business": "Ratio Beerworks",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Our Mutual Friend Brewing",
+      "note": "Small-batch and neighborhood-loved in RiNo — the local's brewery of choice.",
+      "business": "Our Mutual Friend Brewing",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "El Five",
+      "note": "Rooftop tapas with the best skyline-and-mountains view in town — time it for sunset.",
+      "business": "El Five",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bierstadt Lagerhaus",
+      "note": "Impeccable German lagers in a cavernous RiNo hall — the Slow Pour Pils is worth the wait.",
+      "business": "Bierstadt Lagerhaus",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Beacon RiNo",
+      "note": "A lively RiNo spot to kick off the night with cocktails before the crowd builds.",
+      "business": "Beacon RiNo",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Root Down",
+      "note": "Farm-to-table in a converted gas station — Highlands soul with global reach, and a killer happy hour rollover.",
+      "business": "Root Down",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Work & Class",
+      "note": "Latin-American and Southern comfort in a shipping-container room — order the family way and share.",
+      "business": "Work & Class",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Loma",
+      "note": "New-Mexican classics and those towering margs — a rowdy, warm downtown dinner.",
+      "business": "La Loma",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Annette",
+      "note": "Wood-fired, seasonal, and family-friendly in Aurora's Stanley Marketplace — a neighborhood gem worth the drive.",
+      "business": "Annette",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Yuan Wonton",
+      "note": "Sichuan-leaning dumplings and noodles — casual seating, serious cooking.",
+      "business": "Yuan Wonton",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Sáp Súa",
+      "note": "Vietnamese cooking that's the talk of the town — bright, personal, and endlessly craveable.",
+      "business": "Sáp Súa",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Tavernetta",
+      "note": "Refined Italian by Union Station — handmade pasta and a cellar deep enough to get lost in.",
+      "business": "Tavernetta",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mercantile Dining & Provision",
+      "note": "Alex Seidel's market-and-restaurant inside the depot — Colorado ingredients at their most polished.",
+      "business": "Mercantile Dining & Provision",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Beckon",
+      "note": "A tasting-counter jewel in RiNo — intimate, precise, and one of the city's best seats.",
+      "business": "Beckon",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Wolf's Tailor",
+      "note": "Boundary-pushing multi-course cooking — house-milled grains and live fire, a true destination meal.",
+      "business": "The Wolf's Tailor",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Margot",
+      "note": "Beckon's sister next door — a warm, ingredient-driven fine-dining room in RiNo.",
+      "business": "Margot",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Safta",
+      "note": "Chef Alon Shaya's Israeli feast at The Source — pillowy pita fresh from the wood oven, don't skip it.",
+      "business": "Safta",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Brutø",
+      "note": "A masa-focused tasting menu cooked over fire — inventive and quietly one of Denver's finest.",
+      "business": "Brutø",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Rioja",
+      "note": "Jennifer Jasinski's Mediterranean gem on Larimer Square — candlelit, timeless, a true date-night anchor.",
+      "business": "Rioja",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tavernetta",
+      "note": "Low light, great wine, and pasta made to share — an easy yes for two.",
+      "business": "Tavernetta",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Sushi Den",
+      "note": "Fish flown from Japan to a buzzy, intimate Platt Park room — a longtime Denver love affair.",
+      "business": "Sushi Den",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Barolo Grill",
+      "note": "Northern-Italian elegance and a legendary wine list — the special-occasion classic.",
+      "business": "Barolo Grill",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "El Five",
+      "note": "Rooftop tapas with twinkling skyline views — order the paella and toast the mountains.",
+      "business": "El Five",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Fort",
+      "note": "A hand-built adobe overlooking the foothills in Morrison — game, history, and sunset romance near Red Rocks.",
+      "business": "The Fort",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Potager",
+      "note": "A menu that changes with the season in a candlelit Cap Hill space — quiet, soulful, and lovely.",
+      "business": "Potager",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Death & Co Denver",
+      "note": "The vaunted cocktail bar inside The Ramble Hotel — meticulous drinks, RiNo's most stylish nightcap.",
+      "business": "Death & Co Denver",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Cruise Room",
+      "note": "An Art Deco martini bar in the Oxford Hotel, unchanged since 1933 — start the night with history.",
+      "business": "The Cruise Room",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ogden Theatre",
+      "note": "A historic Colfax venue where the touring greats play — check the marquee and go loud.",
+      "business": "Ogden Theatre",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cervantes' Masterpiece Ballroom",
+      "note": "Five Points' live-music soul, keeping the neighborhood's jazz-into-everything legacy dancing.",
+      "business": "Cervantes' Masterpiece Ballroom",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Honey Elixir Bar",
+      "note": "A moody RiNo cocktail den built around honey and botanicals — low-lit and inventive.",
+      "business": "Honey Elixir Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ophelia's Electric Soapbox",
+      "note": "A gastro-brothel-turned-music-hall with dinner and a dance floor — playful late-night energy.",
+      "business": "Ophelia's Electric Soapbox",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Beacon RiNo",
+      "note": "A buzzy RiNo hangout that carries you from happy hour deep into the night.",
+      "business": "Beacon RiNo",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Denver Museum of Nature & Science",
+      "note": "Dinosaurs, planetarium, and hands-on halls — the surefire kid-pleaser, rain or shine.",
+      "business": "Denver Museum of Nature & Science",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Denver Botanic Gardens",
+      "note": "Wide paths, a children's garden, and koi ponds — space for little legs to roam.",
+      "business": "Denver Botanic Gardens",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Coors Field",
+      "note": "Rockies baseball at altitude — the thin air makes for legendary home runs, catch a day game.",
+      "business": "Coors Field",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Meow Wolf Denver | Convergence Station",
+      "note": "A wander-through art wonderland kids and grown-ups both get lost in — pure imagination.",
+      "business": "Meow Wolf Denver | Convergence Station",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Rocky Mountain Arsenal National Wildlife Refuge",
+      "note": "Bison, prairie dogs, and eagles ten minutes from downtown — an easy wildlife drive for the whole crew.",
+      "business": "Rocky Mountain Arsenal National Wildlife Refuge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Union Station Farmers Market",
+      "note": "Snacks, buskers, and open plaza to roam — a relaxed family morning at the depot.",
+      "business": "Union Station Farmers Market",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Amtrak Winter Park Express",
+      "note": "A ski-train straight from Union Station into the Rockies — the ride itself is the adventure.",
+      "business": "Amtrak Winter Park Express",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Denver Art Museum",
+      "note": "Hours of galleries under one dramatic roof — the go-to when the weather window closes.",
+      "business": "Denver Art Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Meow Wolf Denver | Convergence Station",
+      "note": "Four floors of immersive art — you'll forget it's even raining outside.",
+      "business": "Meow Wolf Denver | Convergence Station",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Denver Museum of Nature & Science",
+      "note": "Dinosaurs and a domed planetarium — a full dry day for curious minds.",
+      "business": "Denver Museum of Nature & Science",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Clyfford Still Museum",
+      "note": "Quiet, contemplative galleries — the perfect slow indoor hour when the sky turns.",
+      "business": "Clyfford Still Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tattered Cover Book Store — Union Station",
+      "note": "Coffee, stacks, and the shelter of the grand hall — settle in and wait out the storm.",
+      "business": "Tattered Cover Book Store — Union Station",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Molly Brown House Museum",
+      "note": "A guided walk through Gilded-Age Denver — history stays dry and fascinating.",
+      "business": "Molly Brown House Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Death & Co Denver",
+      "note": "When afternoon storms roll in, duck into this dim cocktail room and let it pass in style.",
+      "business": "Death & Co Denver",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "slug": "los-angeles",
+  "name": "Los Angeles",
+  "state": "California",
+  "region": "Southern California / Pacific Coast",
+  "tagline": "The creative capital of the Pacific.",
+  "description": "Los Angeles is a sprawling, multi-nodal metropolis defined by its diverse neighborhoods, world-class culinary enclaves, and deep entertainment history. Visitors are drawn by the convergence of dramatic coastal geography, cutting-edge art institutions, and the most dynamic immigrant food culture in North America.",
+  "coordinates": {
+    "lat": 34.05,
+    "lng": -118.24
+  },
+  "timezone": "America/Los_Angeles",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "A sun-drenched, sprawling mosaic of intense creative ambition and laid-back coastal detachment, where a Tuesday lunch in a strip mall can be the best meal of your life.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "entertainment-attractions",
+      "title": "Entertainment & Theme Parks",
+      "icon": "🎬",
+      "description": "The Hollywood/Universal City corridor remains the primary gravitational pull for international and first-time domestic visitors."
+    },
+    {
+      "id": "culinary-culture",
+      "title": "Neighborhood Culinary Culture",
+      "icon": "🌮",
+      "description": "A sprawling network of ethnic enclaves offering the most diverse and high-quality food scene in the nation — SGV Chinese, Koreatown, Thai Town, Oaxacan, and chef-driven new wave."
+    },
+    {
+      "id": "coastal-lifestyle",
+      "title": "Coastal Lifestyle & Wellness",
+      "icon": "🌊",
+      "description": "The quintessential California dream — 75 miles of coastline from Malibu to Long Beach, surf culture, and Korean spa wellness."
+    },
+    {
+      "id": "nightlife",
+      "title": "Nightlife & Comedy",
+      "icon": "🎤",
+      "description": "Comedy clubs, rooftops, Sunset Strip"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping & Vintage",
+      "icon": "🛍️",
+      "description": "Melrose, Abbot Kinney, vintage stores"
+    },
+    {
+      "id": "plan",
+      "title": "Plan Your Trip",
+      "icon": "📋",
+      "description": "Itinerary builder, transit, lodging"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍜",
+      "description": "LA's food scene is the best and most diverse in the US — from $3 taco trucks to three-Michelin-star tasting menus.",
+      "tags": [
+        "dining",
+        "brunch",
+        "casual",
+        "fine_dining",
+        "mexican",
+        "korean",
+        "japanese",
+        "thai",
+        "chinese",
+        "food_halls",
+        "taco_trucks"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Coastal & Chill",
+      "icon": "🌴",
+      "description": "Slow paces only. Third-wave coffee, natural wine, beach sunsets, and Korean spas.",
+      "tags": [
+        "coffee",
+        "wine_bars",
+        "beaches",
+        "korean_spa",
+        "boutiques"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🌙",
+      "description": "Comedy clubs, speakeasies, live music on the Sunset Strip, rooftop bars, and K-Town karaoke.",
+      "tags": [
+        "cocktail_bars",
+        "live_music_venues",
+        "comedy",
+        "clubs",
+        "dive_bars",
+        "rooftop_bars",
+        "karaoke"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Arts & Architecture",
+      "icon": "🏛",
+      "description": "Massive 2026 museum openings, mid-century architecture, gallery walks, and cultural landmarks.",
+      "tags": [
+        "museums",
+        "historic_sites",
+        "galleries",
+        "landmarks"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Adventure & Outdoors",
+      "icon": "🏄",
+      "description": "Surf Malibu, hike to the Hollywood Sign, bike 22 miles of coastline, catch a World Cup match.",
+      "tags": [
+        "hiking",
+        "beaches",
+        "biking",
+        "surfing",
+        "parks",
+        "sports_venues"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Theme parks, free museums, beaches, and food that kids and parents actually want to eat.",
+      "tags": [
+        "amusement",
+        "beaches",
+        "museums",
+        "parks",
+        "casual"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "💫",
+      "description": "Sunset at Griffith, omakase for two, Hollywood Bowl picnics, and sea caves at golden hour.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "beaches",
+        "landmarks",
+        "boutique_hotels"
+      ]
+    },
+    {
+      "id": "hollywood",
+      "label": "Studio & Entertainment",
+      "icon": "🎥",
+      "description": "The classic industry experience: studio tours, WeHo nightlife, celebrity haunts, and live tapings.",
+      "tags": [
+        "amusement",
+        "tours",
+        "clubs",
+        "cocktail_bars",
+        "fine_dining",
+        "hotels"
+      ]
+    },
+    {
+      "id": "koreatown",
+      "label": "Koreatown",
+      "icon": "🇰🇷",
+      "description": "KBBQ, 24/7 spas, karaoke noraebangs, late-night bars — a city within a city that never closes.",
+      "tags": [
+        "korean",
+        "korean_spa",
+        "karaoke",
+        "dive_bars"
+      ]
+    },
+    {
+      "id": "world-cup-2026",
+      "label": "World Cup 2026",
+      "icon": "⚽",
+      "description": "LA hosts 8 FIFA World Cup matches at SoFi Stadium. Fan Festival at the Coliseum. The biggest sporting event of the decade.",
+      "tags": [
+        "sports_venues",
+        "bars",
+        "food_halls"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "Historically car-dependent, but rapidly evolving for the 2028 Olympics via the 'Twenty-Eight by 28' transit initiative. Metro Rail expanding aggressively — E Line runs DTLA to Santa Monica, D Line extending to Beverly Hills/Miracle Mile museum corridor. LAX Automated People Mover eliminates terminal traffic. Uber/Lyft essential for cross-city trips. Walkable pockets: Santa Monica, West Hollywood, DTLA, Venice/Abbot Kinney, Old Pasadena. Metro Day Pass: $3.50 unlimited. Scooters and bikes in beach communities.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "From Las Vegas: 270 miles via I-15 S (4-5 hours). From San Diego: 120 miles via I-5 N (2-3 hours). From San Francisco: 380 miles via I-5 S (6 hours) or scenic Highway 101."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "Amtrak Pacific Surfliner offers 13 daily roundtrips from San Diego to LA Union Station (codeshare with Metrolink). Coast Starlight connects from SF/Seattle. Metrolink provides extensive regional commuter rail."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "LAX (global hub, newly modernized with Automated People Mover launching 2026 connecting to Metro), BUR (Burbank — optimal for Hollywood/Eastside, easy in-out), LGB (Long Beach — great for South Bay/JetBlue), SNA (John Wayne — best for Disneyland/OC), ONT (Ontario — Inland Empire access)."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Joshua Tree National Park",
+      "distance": "2.5 hr drive east (130 miles)",
+      "pitch": "Surreal desert landscape where the Mojave and Colorado deserts meet. Rock formations, Joshua trees, and some of the darkest night skies near any major city.",
+      "highlights": null
+    },
+    {
+      "name": "Santa Barbara",
+      "distance": "1.5 hr drive north (95 miles)",
+      "pitch": "The American Riviera — red-tile roofs, Spanish colonial architecture, and elite wine country.",
+      "highlights": null
+    },
+    {
+      "name": "Palm Springs",
+      "distance": "2 hr drive east (110 miles)",
+      "pitch": "Mid-century modern architecture, natural hot springs, and a scene that runs from boutique hotels to pool parties.",
+      "highlights": null
+    },
+    {
+      "name": "Catalina Island",
+      "distance": "1 hr ferry from San Pedro / Long Beach",
+      "pitch": "A Mediterranean-style island escape just off the coast. No cars, crystal-clear water, and small-town charm.",
+      "highlights": null
+    },
+    {
+      "name": "Big Bear Lake",
+      "distance": "2 hr drive east (100 miles)",
+      "pitch": "Mountain escape at 6,750 ft. Ski in winter, kayak in summer. The antidote to LA's flatlands.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Eastside Connect",
+    "greeting": "Yo. Welcome to the actual LA. Skip the Walk of Fame and let me show you where we really eat, drink, and live.",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-griffith-golden-hour.jpg",
+    "story": [
+      "story-bradbury-building.jpg",
+      "story-old-hollywood.jpg",
+      "story-olvera-street.jpg",
+      "story-watts-towers.jpg"
+    ],
+    "wall": [
+      "wall-abbot-kinney.jpg",
+      "wall-bowl-concert.jpg",
+      "wall-griffith-selfie.jpg",
+      "wall-kbbq-grill.jpg",
+      "wall-tacos-night.jpg",
+      "wall-venice-skater.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions-museum3.jpg",
+      "bars_nightlife": "dir-bars-speakeasy.jpg",
+      "bars": "dir-bars-speakeasy.jpg",
+      "coffee_bakeries": "dir-coffee-latte.jpg",
+      "coffee": "dir-coffee-latte.jpg",
+      "dining": "dir-dining-taco-truck.jpg",
+      "entertainment": "dir-entertainment-stadium.jpg",
+      "lodging": "dir-lodging-rooftop.jpg",
+      "outdoor_adventure": "dir-outdoor-surf.jpg",
+      "outdoor": "dir-outdoor-surf.jpg",
+      "shopping": "dir-shopping-vintage2.jpg",
+      "wellness_spa": "dir-wellness-spa2.jpg",
+      "wellness": "dir-wellness-spa2.jpg"
+    },
+    "section_breaks": {
+      "arts": "break-arts-district-mural.jpg",
+      "hike": "break-hike-griffith-trail.jpg",
+      "hollywood": "break-hollywood-bowl-crowd.jpg",
+      "ktown": "break-ktown-bbq.jpg",
+      "santa": "break-santa-monica-pier-sunset.jpg",
+      "sgv": "break-sgv-dimsum.jpg",
+      "sunset": "break-sunset-strip-night.jpg",
+      "venice": "break-venice-boardwalk.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "Los Angeles — Endless Summer",
+    "hero_sub": "Navigate the coastal marine layer into sun-baked afternoons in the hills. Summer in LA is defined by outdoor movie screenings, beach days in Malibu, and twilight concerts at the Hollywood Bowl."
+  }
+}

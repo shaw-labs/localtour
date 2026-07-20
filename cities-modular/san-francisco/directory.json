@@ -1,0 +1,2914 @@
+[
+  {
+    "name": "Alcatraz Island",
+    "address": "Pier 33, San Francisco, CA 94111",
+    "phone": "+1-415-981-7625",
+    "website": "https://www.alcatrazcruises.com",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The Rock. Book 90 days ahead or you're not going. The audio tour is genuinely excellent — narrated by former inmates and guards. Night tours are even better if you can snag tickets.",
+    "must_try": "Night tour (limited availability)",
+    "hours": "Ferry departures daily from Pier 33",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Asian Art Museum",
+    "address": "200 Larkin St, San Francisco, CA 94102",
+    "phone": "+1-415-581-3500",
+    "website": "https://asianart.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "One of the largest museums devoted exclusively to Asian art — 18,000+ works spanning 6,000 years. Free first Sundays. The Civic Center Beaux-Arts building is gorgeous.",
+    "must_try": "Free first Sunday + the contemporary exhibitions on the upper floors.",
+    "hours": "Thu-Mon 10:00 AM - 5:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cable Cars",
+    "address": "Powell & Market turnaround, San Francisco",
+    "phone": null,
+    "website": "https://www.sfmta.com/getting-around/muni/cable-cars",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The only manually operated cable car system in the world, since 1873. Powell-Hyde line has the best views. $9/ride (updated Dec 2025) or $24 Muni day pass. Cash NOT accepted at turnarounds 8AM-8PM — use MuniMobile app or Clipper Card.",
+    "must_try": "Powell-Hyde line — hang off the side for photos",
+    "hours": "Daily 7am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "California Academy of Sciences",
+    "address": "55 Music Concourse Dr, San Francisco, CA 94118",
+    "phone": "+1-415-379-8000",
+    "website": "https://www.calacademy.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Aquarium, planetarium, rainforest, and natural history museum under one living green roof. NightLife Thursdays (21+) with cocktails and DJs.",
+    "must_try": "Osher Rainforest dome + NightLife Thursday events",
+    "hours": "Mon-Sat 9:30am-5pm, Sun 11am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chinatown",
+    "address": "Grant Ave & Bush St, San Francisco, CA 94108",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Oldest Chinatown in North America. Enter through Dragon Gate on Grant Ave. Dim sum, herbal shops, Golden Gate Fortune Cookie Factory (watch them made by hand). Skip the tourist shops; head to Stockton St for the real thing.",
+    "must_try": "Dim sum breakfast + hand-made fortune cookies",
+    "hours": "Open all hours (shops vary)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coit Tower",
+    "address": "1 Telegraph Hill Blvd, San Francisco, CA 94133",
+    "phone": "+1-415-249-0995",
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Art Deco tower on Telegraph Hill with 360-degree views. The WPA murals inside are the real treasure. Hike up the Filbert Steps through secret gardens to get there.",
+    "must_try": "Filbert Steps hike up + elevator to the top",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Exploratorium",
+    "address": "Pier 15, San Francisco, CA 94111",
+    "phone": "+1-415-528-4444",
+    "website": "https://www.exploratorium.edu",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Hands-on science museum on the Embarcadero. Adults love it as much as kids. The Tactile Dome (total darkness touch experience) is unforgettable. After Dark events for adults only.",
+    "must_try": "Tactile Dome + After Dark Thursday",
+    "hours": "Tue-Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Golden Gate Bridge",
+    "address": "Golden Gate Bridge, San Francisco, CA 94129",
+    "phone": null,
+    "website": "https://www.goldengate.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "Walk it, bike it, photograph it. 1.7 miles across. Best views from Battery Spencer (Marin side), Crissy Field, or Fort Point underneath. Bring a jacket — it's always windy.",
+    "must_try": "Walk across at sunset, return via Sausalito ferry",
+    "hours": "Pedestrians: 5am-6:30pm (winter) / 5am-9pm (summer)",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lombard Street",
+    "address": "Lombard St between Hyde & Leavenworth, San Francisco, CA 94133",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "The 'crookedest street in the world' — eight hairpin turns lined with flowers. Walk down the steps for photos. Best combined with a cable car ride on the Powell-Hyde line which drops you at the top.",
+    "must_try": "Walk down the stairs, photograph from the bottom looking up",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pier 39 Sea Lions",
+    "address": "Pier 39, K-Dock, San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://www.pier39.com/the-sea-lions-story/",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Hundreds of California sea lions have colonized K-Dock since 1990. Free to watch, endlessly entertaining. The Marine Mammal Center has volunteer docents on weekends.",
+    "must_try": "Visit at low tide when the most sea lions are hauled out.",
+    "hours": "24 hours (sea lions don't keep schedules)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SFMOMA",
+    "address": "151 3rd St, San Francisco, CA 94103",
+    "phone": "+1-415-357-4000",
+    "website": "https://www.sfmoma.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Seven floors of modern and contemporary art. The Fisher Collection alone justifies the visit. Free first Thursdays. Discounted $15 admission in spring 2026.",
+    "must_try": "Fisher Collection + rooftop garden",
+    "hours": "Mon, Fri-Sun 10am-5pm; Thu 1pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walt Disney Family Museum",
+    "address": "104 Montgomery St, Presidio, San Francisco, CA 94129",
+    "phone": "+1-415-345-6800",
+    "website": "https://www.waltdisney.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Not a theme park — a gorgeous museum about Walt Disney's life and creative process, set in the Presidio. Surprisingly moving even for non-Disney people.",
+    "must_try": "Original animation galleries + Presidio walk after",
+    "hours": "Thu-Sun 10am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "de Young Museum",
+    "address": "50 Hagiwara Tea Garden Dr, Golden Gate Park, San Francisco, CA 94118",
+    "phone": "+1-415-750-3600",
+    "website": "https://deyoung.famsf.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Fine arts museum in Golden Gate Park with American, African, and Oceanic collections. The Hamon Tower observation floor has free 360-degree views even without museum admission.",
+    "must_try": "Hamon Tower observation floor (free) + first Tuesday free admission.",
+    "hours": "Tue-Sun 9:30 AM - 5:15 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arcana",
+    "address": "2512 Mission St, San Francisco, CA 94110",
+    "phone": null,
+    "website": "https://www.arcanasf.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A breathtakingly lush urban greenhouse that serves as a natural wine bar, plant boutique, and vibrant event space for live music. Plant shop by day, wine bar by night.",
+    "must_try": "Sipping a pet-nat while shopping for kokedama plants.",
+    "hours": "Wed-Sun 4:00 PM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Audio SF",
+    "address": "316 11th St, San Francisco, CA 94103",
+    "phone": null,
+    "website": "https://audiosf.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "An audiophile's dream club in SoMa, widely respected for its impeccable Funktion-One sound system and focus on underground house and techno.",
+    "must_try": "Late night sets on the sunken dance floor.",
+    "hours": "Fri-Sat 10:00 PM - 2:00 AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barebottle Brewing Company",
+    "address": "1525 Cortland Ave, San Francisco, CA 94110",
+    "phone": "+1-415-926-8617",
+    "website": "https://www.barebottle.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "A highly innovative brewery that crowdsources recipes from local homebrewers and roasts its own coffee for proprietary stouts. Dog-friendly patio.",
+    "must_try": "Muir Woods IPA and any coffee-infused stout.",
+    "hours": "Sun-Mon 12:00 PM - 9:00 PM, Tue-Wed 12:00 PM - 10:00 PM, Thu-Sat 12:00 PM - 11:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Big Finish Wine Tavern",
+    "address": "3141 16th St, San Francisco, CA 94103",
+    "phone": "+1-628-867-4584",
+    "website": "https://www.bigfinishsf.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "A comfortable neighborhood wine tavern boasting an exceptional 50+ glass-pour list and a kitchen that stays open late. Anti-$25-glass energy.",
+    "must_try": "The 7x7 Happy Hour — 7 menu items for $7 each.",
+    "hours": "Mon-Thu 5:00 PM - 11:00 PM, Fri 5:00 PM - 12:00 AM, Sat 3:00 PM - 12:00 AM, Sun 3:00 PM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cellarmaker Brewing Co.",
+    "address": "3193 Mission St, San Francisco, CA 94110",
+    "phone": null,
+    "website": "https://cellarmakerbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "A critically acclaimed small-batch brewery specializing in pale ales and IPAs, recently relocated to a larger Mission street facility. Also serves Detroit-style pizza.",
+    "must_try": "Coffee and Cigarettes (smoked coffee porter) and Detroit-style pizza.",
+    "hours": "Wed-Sun 12:00 PM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cityscape Lounge",
+    "address": "333 O'Farrell St, 46th Floor, San Francisco, CA 94102",
+    "phone": "+1-415-771-1400",
+    "website": "https://www.cityscapeskybar.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The highest sky bar in San Francisco on the 46th floor of the Hilton — unparalleled 360-degree views through 14-foot windows. Golden Gate to Marin Headlands.",
+    "must_try": "Signature cocktails at sunset.",
+    "hours": "Mon-Sun 4:00 PM - 12:00 AM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emporium Arcade Bar",
+    "address": "616 Divisadero St, San Francisco, CA 94117",
+    "phone": null,
+    "website": "https://emporiumsf.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Massive bar with dozens of vintage arcade games, pinball machines, and a DJ spinning on weekends. Free to play, drinks are reasonable. Best Friday night in the Western Addition.",
+    "must_try": "Play pinball with a craft beer",
+    "hours": "Mon-Fri 4pm-2am, Sat-Sun 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Key Klub",
+    "address": "850 Bush St, San Francisco, CA 94108",
+    "phone": null,
+    "website": "https://www.keyklubsf.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Lower Nob Hill natural wine bar with an urban, Brooklyn-inspired aesthetic. Over 25 allocated bottles by the glass and high-end gastropub fare like steak frites.",
+    "must_try": "Duck liver mousse-topped french toast and a glass of natural wine.",
+    "hours": "Tue-Sun 5:00 PM - midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Make Out Room",
+    "address": "3225 22nd St, San Francisco, CA 94110",
+    "phone": "+1-415-647-2888",
+    "website": "http://www.makeoutroom.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$",
+    "rating": "4.4",
+    "description": "An enduring, dimly lit Mission District dive institution known for eclectic live music, disco balls, and wildly diverse dance nights including cumbia and reggaeton.",
+    "must_try": "El Superritmo! (Cumbia and Reggaeton dance night).",
+    "hours": "Tue-Sat 4:00 PM - 2:00 AM, Sun 2:00 PM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pacific Cocktail Haven (PCH)",
+    "address": "580 Sutter St, San Francisco, CA 94102",
+    "phone": "+1-415-398-0195",
+    "website": "https://www.pacificcocktailhaven.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Kevin Diedrich's Asia-Pacific inspired cocktail bar. Miso, pandan, lychee — ingredients you didn't know belonged in drinks. World-class hospitality in a warm, sophisticated room.",
+    "must_try": "Seasonal Asia-Pacific cocktail menu",
+    "hours": "Daily 5pm-midnight",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rikki's",
+    "address": "The Castro, San Francisco",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "First queer women's bar in the Castro in years. Watch Golden State Valkyries games, devour beer-battered wings, and order the Queen Is King cocktail. Loud, rowdy, community-focused.",
+    "must_try": "Queen Is King cocktail",
+    "hours": "Daily evenings",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rise Over Run",
+    "address": "33 Turk St, San Francisco, CA 94102",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "A lush, glass-enclosed solarium and rooftop bar at the LINE Hotel featuring firepits, sweeping skyline views, and Asian-American small plates.",
+    "must_try": "Cocktails by the firepit under the glass roof.",
+    "hours": "Wed-Sun 4:00 PM - 11:00 PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Smuggler's Cove",
+    "address": "650 Gough St, San Francisco, CA 94102",
+    "phone": "+1-415-869-1900",
+    "website": "https://www.smugglerscovesf.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Three-story tiki temple and one of the best bars in the world. 400+ rum bottles, expertly shaken cocktails, pirate-ship vibes. It's not cheesy — it's craft tiki done at the highest level.",
+    "must_try": "Any rum cocktail — let the bartender choose",
+    "hours": "Daily 5pm-1:15am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Standard Deviant Brewing",
+    "address": "280 14th St, San Francisco, CA 94103",
+    "phone": null,
+    "website": "https://www.standarddeviantbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.7",
+    "description": "An incredibly welcoming, warehouse-style brewery in the Mission featuring shuffleboard, rotating food pop-ups, and reliably cold, unpretentious beer. Expanded to Pier 70.",
+    "must_try": "The flagship Kolsch or Hazy IPA.",
+    "hours": "Tue-Thu 4:00 PM - 10:00 PM, Fri 3:00 PM - 12:00 AM, Sat 12:00 PM - 12:00 AM, Sun 10:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Temple Nightclub",
+    "address": "540 Howard St, San Francisco, CA 94105",
+    "phone": null,
+    "website": "https://www.templesf.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$$",
+    "rating": "4.1",
+    "description": "A massive, multi-room electronic dance music venue boasting state-of-the-art lighting, thumping sound systems, and international touring DJs.",
+    "must_try": "VIP table service in the main room.",
+    "hours": "Thu-Sat 10:00 PM - 2:00 AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Dawn Club",
+    "address": "Near Palace Hotel, SoMa, San Francisco",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Underground jazz sanctuary hidden off an alley. Rare American whiskies and live local jazz every night. Art Deco elegance meets boisterous energy.",
+    "must_try": "Rare bourbon selection + live jazz set",
+    "hours": "Tue-Sat evenings",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Felix",
+    "address": "2542 Fillmore St, San Francisco, CA 94115",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Speakeasy entrance — push the framed photo, head through the hidden door, descend. Neon red lights, yellow booths, small dance floor, DJ. The kind of place where you might spot Doechii.",
+    "must_try": "Seasonal craft cocktails",
+    "hours": "Thu-Sat 8pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Saloon",
+    "address": "1232 Grant Ave, San Francisco, CA 94133",
+    "phone": "+1-415-989-7666",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.3",
+    "description": "One of the oldest bars in SF — survived the 1906 earthquake and fire. Live blues every single night. Rough-around-the-edges, historic, and loud. The real deal.",
+    "must_try": "Cheap beer + live blues",
+    "hours": "Daily 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The View Lounge",
+    "address": "780 Mission St, 39th Floor, San Francisco, CA 94103",
+    "phone": "+1-415-896-1600",
+    "website": "https://www.theviewlounge-sf.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "An iconic cocktail lounge atop the Marriott Marquis famous for its massive arched windows framing the downtown skyline.",
+    "must_try": "10/89 Martini at sunset.",
+    "hours": "Mon-Sun 4:00 PM - 12:00 AM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tonga Room & Hurricane Bar",
+    "address": "950 Mason St, San Francisco, CA 94108",
+    "phone": "+1-415-772-5278",
+    "website": "https://www.tongaroom.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Indoor lagoon, floating bandstand, periodic rainstorms. It's been in the Fairmont Hotel since 1945. Strong drinks, live band, and the most surreal atmosphere in the city.",
+    "must_try": "Any tiki cocktail during the rainstorm",
+    "hours": "Wed-Sun 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vesuvio Cafe",
+    "address": "255 Columbus Ave, San Francisco, CA 94133",
+    "phone": "+1-415-362-3370",
+    "website": "https://www.vesuvio.com",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Beat generation watering hole since 1948, across from City Lights Bookstore. Family-owned, cluttered with art and history. Order a beer upstairs and feel the ghosts of Kerouac.",
+    "must_try": "Jack Kerouac (house cocktail)",
+    "hours": "Daily 8am-2am",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zeitgeist",
+    "address": "199 Valencia St, San Francisco, CA 94103",
+    "phone": "+1-415-255-7505",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Massive beer garden, legendary Bloody Marys, famously surly (but efficient) bartenders. The most San Francisco dive bar in existence. Cash only.",
+    "must_try": "Bloody Mary",
+    "hours": "Daily 9am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Angel Island-Tiburon Ferry",
+    "address": "21 Main St, Tiburon, CA 94920",
+    "phone": null,
+    "website": "https://angelislandferry.com",
+    "category": "boating_water",
+    "subcategory": "ferries",
+    "price": "$",
+    "rating": "4.6",
+    "description": "A historic, family-owned ferry service providing the most direct access to Angel Island's hiking trails and immigration station history.",
+    "must_try": "Rent a bike and take the ferry for a perimeter trail ride.",
+    "hours": "Schedule varies by season",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue & Gold Fleet",
+    "address": "Pier 39 (and Pier 41), San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://www.blueandgoldfleet.com",
+    "category": "boating_water",
+    "subcategory": "cruises",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The main bay cruise operator — 60-minute loop under the Golden Gate and around Alcatraz from Pier 39. Multi-language audio via onboard WiFi. Also runs Sausalito/Tiburon ferries.",
+    "must_try": "60-minute SF Bay Cruise + ferry to Sausalito combo.",
+    "hours": "Departures every 30-60 min daily",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City Kayak",
+    "address": "Pier 40, South Beach Harbor, San Francisco, CA 94107",
+    "phone": "+1-415-357-1010",
+    "website": "https://www.citykayak.com",
+    "category": "boating_water",
+    "subcategory": "kayak",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Kayak under the Bay Bridge with downtown skyline views. No experience required for guided tours. Sunset paddles are the move.",
+    "must_try": "Sunset kayak tour under the Bay Bridge.",
+    "hours": "Daily 10:00 AM - 5:00 PM (seasonal)",
+    "seasonal": "Year-round, weather dependent",
+    "modes": [
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Golden Gate Ferry (Sausalito)",
+    "address": "Ferry Building, Gate B, San Francisco, CA 94111",
+    "phone": null,
+    "website": "https://www.goldengateferry.org",
+    "category": "boating_water",
+    "subcategory": "ferries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The commuter ferry to Sausalito and Larkspur — cheaper and more scenic than the tourist boats. Clipper card accepted. 30 min to Sausalito.",
+    "must_try": "One-way to Sausalito, walk/bike, ferry back. ~$8 each way with Clipper.",
+    "hours": "Multiple departures daily",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red & White Fleet",
+    "address": "Pier 43½, San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://www.redandwhite.com",
+    "category": "boating_water",
+    "subcategory": "cruises",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Hybrid-electric vessels offering the 90-minute Bridge to Bridge cruise (both bridges, $48) and a 2.5-hour Saturday whale watching trip ($75). More premium than Blue & Gold.",
+    "must_try": "The 2.5-hour Saturday morning Whale Watching Cruise.",
+    "hours": "Departures daily",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Bottle Coffee (Mint Plaza)",
+    "address": "66 Mint St, San Francisco, CA 94103",
+    "phone": null,
+    "website": "https://bluebottlecoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The original flagship of the now-global brand. Still makes a perfect pour-over. The garage-door storefront on Mint Plaza is quintessential SF.",
+    "must_try": "New Orleans-style iced coffee",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dandelion Chocolate",
+    "address": "2600 16th St, San Francisco, CA 94103",
+    "phone": "+1-415-349-0942",
+    "website": "https://www.dandelionchocolate.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Bean-to-bar chocolate factory in the Mission with a gorgeous cafe upstairs. Watch them make chocolate from raw cacao beans through a glass window.",
+    "must_try": "Hot chocolate flight (3 single-origin drinking chocolates).",
+    "hours": "Daily 10:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ghirardelli Ice Cream & Chocolate Shop",
+    "address": "900 North Point St, San Francisco, CA 94109",
+    "phone": "+1-415-474-3938",
+    "website": "https://www.ghirardelli.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Yes, it's touristy. But the hot fudge sundae in the original factory building is a rite of passage. Free chocolate square at the door.",
+    "must_try": "Earthquake sundae (8 scoops, every topping).",
+    "hours": "Sun-Thu 10:00 AM - 10:00 PM, Fri-Sat 10:00 AM - 11:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Philz Coffee (Mission)",
+    "address": "3101 24th St, San Francisco, CA 94110",
+    "phone": null,
+    "website": "https://www.philzcoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Custom-blended, one-cup-at-a-time coffee. The Mint Mojito Iced Coffee is the move. Born in the Mission, now all over, but this original location still has the magic.",
+    "must_try": "Mint Mojito Iced Coffee",
+    "hours": "Daily 6am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sightglass Coffee (SoMa)",
+    "address": "270 7th St, San Francisco, CA 94103",
+    "phone": "+1-415-861-1313",
+    "website": "https://sightglasscoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Two-story industrial roastery with soaring ceilings and a skylight bar. One of the most beautiful coffee spaces in the city. Roasts on-site.",
+    "must_try": "Affogato with their single-origin espresso.",
+    "hours": "Daily 7:00 AM - 5:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tartine Bakery",
+    "address": "600 Guerrero St, San Francisco, CA 94110",
+    "phone": "+1-415-487-2600",
+    "website": "https://www.tartinebakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The line is part of the experience. Morning buns, country bread, and croque monsieurs that justify the wait. SF's most famous bakery for a reason.",
+    "must_try": "Morning bun",
+    "hours": "Mon-Fri 7:30am-5pm, Sat-Sun 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arquet",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "phone": null,
+    "website": "https://www.arquetsf.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Chef Alex Hong took over the old Slanted Door space in the Ferry Building. Eclectic California menu with standout veggie and seafood options. The attached Parachute Bakery is worth a stop on its own.",
+    "must_try": "Seasonal California tasting dishes",
+    "hours": "Lunch and dinner daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bodega SF",
+    "address": "138 Mason St, San Francisco, CA 94102",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A stylish reinvention of a long-standing family restaurant, offering elevated, modern interpretations of regional Vietnamese street food.",
+    "must_try": "Hanoi-style Bun Cha and Garlic Noodles.",
+    "hours": "Tue-Sun 11:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bourbon Steak",
+    "address": "335 Powell St, San Francisco, CA 94102",
+    "phone": "+1-415-397-7000",
+    "website": "https://www.michaelmina.net/restaurants/bourbon-steak-san-francisco/",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Michael Mina's reopened showpiece at the Westin St. Francis. Tableside flambéed wagyu tomahawk, famous lobster pot pie. The Bourbon Lounge in the old lobby is a destination on its own.",
+    "must_try": "Salt-baked Australian wagyu tomahawk (tableside)",
+    "hours": "Dinner nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brenda's Meat and Three",
+    "address": "919 Divisadero St, San Francisco, CA 94115",
+    "phone": "+1-415-926-8657",
+    "website": "https://www.brendasmeatandthree.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A deeply comforting Southern diner offshoot of the original Brenda's, offering the classic meat-and-three-sides format alongside immense beignets.",
+    "must_try": "Shrimp and grits, pulled pork hash, and chocolate beignets.",
+    "hours": "Wed-Mon 8:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buena Vista Cafe",
+    "address": "2765 Hyde St, San Francisco, CA 94109",
+    "phone": "+1-415-474-5044",
+    "website": "https://www.thebuenavista.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The bar that introduced Irish Coffee to America in 1952, right at the Hyde Street cable car turnaround. A San Francisco institution.",
+    "must_try": "Irish Coffee — they make 2,000 a day.",
+    "hours": "Mon-Fri 9:00 AM - 2:00 AM, Sat-Sun 8:00 AM - 2:00 AM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Buen Comer",
+    "address": "3435 Mission St, San Francisco, CA 94110",
+    "phone": "+1-415-817-1542",
+    "website": "http://www.elbuencomersf.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A refined, family-owned restaurant showcasing the complex guisados (stews) of Mexico City rather than the standard Mission burrito fare.",
+    "must_try": "Mole verde with chicken and handmade tortillas.",
+    "hours": "Wed-Sat 11:00 AM - 8:45 PM, Sun 10:00 AM - 2:45 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Farolito",
+    "address": "2779 Mission St, San Francisco, CA 94110",
+    "phone": "+1-415-824-7877",
+    "website": "https://elfarolitosf.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.6",
+    "description": "An absolute institution of the Mission District serving massive, aluminum-wrapped burritos late into the night. The gold standard for late-night post-bar dining.",
+    "must_try": "Super Burrito with Carne Asada or Al Pastor.",
+    "hours": "Mon-Sun 10:00 AM - 3:00 AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Enclos",
+    "address": "Sonoma County (Healdsburg area)",
+    "phone": null,
+    "website": "https://www.enclossonomacounty.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Two Michelin stars within its first year. 17-bite, 12-course tasting menu over 3 hours. Team from Saison, Quince, Noma, and Eleven Madison Park. Save this for a special occasion.",
+    "must_try": "Full tasting menu",
+    "hours": "By reservation only",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Farmhouse Kitchen Thai Cuisine",
+    "address": "710 Florida St, San Francisco, CA 94110",
+    "phone": "+1-415-814-2920",
+    "website": "https://www.farmhousesf.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Massively popular Thai restaurant in the Mission with photogenic interiors and authentic regional dishes. Reserve ahead — it's always packed.",
+    "must_try": "Khao Soi and the crispy morning glory salad.",
+    "hours": "Mon-Thu 11:30 AM - 2:30 PM, 5:00 PM - 10:00 PM; Fri-Sun expanded hours",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fog Harbor Fish House",
+    "address": "Pier 39, Ste A-202, San Francisco, CA 94133",
+    "phone": "+1-415-969-2010",
+    "website": "https://fogharbor.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "A family-owned Pier 39 exception to the tourist trap rule, offering 100% sustainable seafood and sweeping views of the Golden Gate Bridge.",
+    "must_try": "Award-winning clam chowder in a sourdough bread bowl.",
+    "hours": "Mon-Sun 11:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Happy Crane",
+    "address": "451 Gough St, San Francisco, CA 94102",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Contemporary Chinese with Hong Kong influence. The dim sum is paradigmatic — crab rice rolls and Golden Coins. Peking duck is heavenly. Part of SF's modern Chinese cooking wave.",
+    "must_try": "Roasted Peking duck",
+    "hours": "Dinner nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hog Island Oyster Co.",
+    "address": "1 Ferry Building #11, San Francisco, CA 94111",
+    "phone": "+1-415-391-7117",
+    "website": "https://hogislandoysters.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Ferry Building outpost of the Tomales Bay oyster farm. Sit at the bar, order a dozen, and stare at the bay. Tuesday happy hour is the local move.",
+    "must_try": "Dozen oysters on the half shell + clam chowder",
+    "hours": "Daily 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jules",
+    "address": "Fillmore St, San Francisco",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Max Blachman-Gentile went from pop-up to brick-and-mortar pizza phenomenon. Every pizza outlet in SF agrees: Jules is making some of the best pies in the city.",
+    "must_try": "Any of the signature pizzas",
+    "hours": "Wed-Sun dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kin Khao",
+    "address": "55 Cyril Magnin St, San Francisco, CA 94102",
+    "phone": "+1-415-362-7456",
+    "website": "https://www.kinkhao.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "An unapologetic, Michelin-starred Thai restaurant inside the Parc 55 hotel that ignores Americanized sweetness in favor of intense, complex traditional flavors.",
+    "must_try": "Khao Soi and the Pretty Hot Wings.",
+    "hours": "Mon-Sun 11:30 AM - 2:00 PM, 5:30 PM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kitchen Story",
+    "address": "3499 16th St, San Francisco, CA 94114",
+    "phone": "+1-415-525-4905",
+    "website": "https://www.kitchenstorysf.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A vibrant Castro district hub blending Californian and Asian influences, famous for group brunches and highly distinctive bacon.",
+    "must_try": "Millionaire's Bacon and bottomless mimosas.",
+    "hours": "Mon-Sun 8:00 AM - 2:30 PM, 5:00 PM - 9:30 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Taqueria",
+    "address": "2889 Mission St, San Francisco, CA 94110",
+    "phone": "+1-415-285-7117",
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.4",
+    "description": "No rice in the burrito — just meat, beans, cheese, salsa, and guac. FiveThirtyEight once named it the best burrito in America. Cash only, no frills, perfect.",
+    "must_try": "Super burrito dorado (ask for it grilled crispy)",
+    "hours": "Daily 11am-8:45pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mama's on Washington Square",
+    "address": "1701 Stockton St, San Francisco, CA 94133",
+    "phone": "+1-415-362-6421",
+    "website": "https://www.mamas-sf.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A North Beach stalwart that has drawn lines around the block for decades, offering classic American breakfasts in a cozy, historic setting.",
+    "must_try": "Monte Cristo sandwich and the homemade jam.",
+    "hours": "Wed-Sun 8:00 AM - 3:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Marufuku Ramen",
+    "address": "1581 Webster St #235, San Francisco, CA 94115",
+    "phone": "+1-415-872-9786",
+    "website": "https://www.marufukuramen.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Hakata-style tonkotsu ramen in Japantown. Rich, porky, perfect. The line moves fast but expect a wait on weekends.",
+    "must_try": "Hakata-style tonkotsu ramen",
+    "hours": "Daily 11:30am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mijoté",
+    "address": "537 Valencia St, San Francisco, CA 94110",
+    "phone": "+1-415-796-3561",
+    "website": "https://www.mijotesf.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Osaka-born, French-trained chef Kosuke Tada runs this Mission neobistro. The $84 four-course menu changes constantly. Natural wines, zero pretension. 2026 James Beard nominee.",
+    "must_try": "Four-course dinner menu (changes nightly)",
+    "hours": "Wed-Sun 5:30pm-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mister Jiu's",
+    "address": "28 Waverly Pl, San Francisco, CA 94108",
+    "phone": "+1-415-857-9688",
+    "website": "https://www.misterjius.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Brandon Jew's modern Chinese restaurant in a historic Chinatown banquet hall. The Peking duck is the event — order the banquet menu and let them drive.",
+    "must_try": "Peking-style roast duck (banquet menu)",
+    "hours": "Tue-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Original Joe's",
+    "address": "601 Union St, San Francisco, CA 94133",
+    "phone": "+1-415-775-4877",
+    "website": "https://originaljoes.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "A sprawling, mid-century classic representing the pinnacle of San Francisco Italian-American heritage. Leather booths, tuxedoed waiters, and massive portions.",
+    "must_try": "Joe's Special (eggs, spinach, ground beef) and the veal parmigiana.",
+    "hours": "Mon-Sun 11:30 AM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Papalote Mexican Grill",
+    "address": "3409 24th St, San Francisco, CA 94110",
+    "phone": "+1-415-970-8815",
+    "website": "https://www.papalote-sf.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Elevated Mission District Mexican with organic ingredients and a roasted tomato salsa that has its own cult following. A step above the classic taqueria.",
+    "must_try": "Grilled chicken burrito with the famous roasted tomato salsa.",
+    "hours": "Mon-Sat 11:00 AM - 9:00 PM, Sun 11:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Plow",
+    "address": "1299 18th St, San Francisco, CA 94107",
+    "phone": "+1-415-821-7569",
+    "website": "https://www.eatatplow.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A Potrero Hill farm-to-table brunch anchor. Get there before 9 AM or accept a long wait. Worth it for the lemon ricotta pancakes.",
+    "must_try": "Lemon ricotta pancakes.",
+    "hours": "Mon-Fri 7:30 AM - 2:30 PM, Sat-Sun 8:00 AM - 3:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rintaro",
+    "address": "282 14th St, San Francisco, CA 94103",
+    "phone": "+1-415-589-7022",
+    "website": "https://www.izakayarintaro.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Cal-Japanese izakaya where every chef in SF eats. The yakitori is perfect. Sit at the counter closest to the grill and watch them work.",
+    "must_try": "Charcoal-grilled yakitori skewers",
+    "hours": "Tue-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roam Artisan Burgers",
+    "address": "1785 Union St, San Francisco, CA 94123",
+    "phone": "+1-415-440-7626",
+    "website": "https://www.roamburgers.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "An elevated burger experience focusing on pasture-raised meats and highly customized, seasonal topping combinations in a sleek setting.",
+    "must_try": "Tejano Burger (jalapeño relish, pepper jack) with zucchini onion haystacks.",
+    "hours": "Sun-Thu 11:00 AM - 9:00 PM, Fri-Sat 11:00 AM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Scoma's",
+    "address": "1965 Al Scoma Way, San Francisco, CA 94133",
+    "phone": "+1-415-771-4383",
+    "website": "https://scomas.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A historic, three-generation family-owned institution hidden on a working pier, famous for its strict pier-to-plate sourcing and old-school hospitality.",
+    "must_try": "The 'Lazy Man's' Cioppino and the Petrale Doré.",
+    "hours": "Mon-Sun 11:30 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Side A",
+    "address": "2901 16th St, San Francisco, CA 94103",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Chef Parker Brown's Midwestern-leaning neighborhood bistro with a vinyl record collection and dinner-party vibe. The Parisian gnocchi with short rib is already a signature. Hard to get into — book early.",
+    "must_try": "Parisian gnocchi with short rib and veal gravy",
+    "hours": "Tue-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sotto Mare",
+    "address": "552 Green St, San Francisco, CA 94133",
+    "phone": "+1-415-398-3181",
+    "website": "https://www.sottomaresf.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "A delightfully chaotic, unapologetically authentic North Beach seafood counter serving what is widely considered the best cioppino in the city.",
+    "must_try": "The Best Damn Crab Cioppino (served with a bib, easily split between two).",
+    "hours": "Mon-Sat 11:30 AM - 9:30 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "State Bird Provisions",
+    "address": "1529 Fillmore St, San Francisco, CA 94115",
+    "phone": "+1-415-795-1272",
+    "website": "https://statebirdsf.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Michelin-starred dim sum-style service with California ingredients. Carts roll by and you point at what you want. It's chaos in the best way.",
+    "must_try": "State bird with provisions (the namesake quail dish)",
+    "hours": "Sun-Thu 5:30pm-9pm, Fri-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Super Duper Burgers",
+    "address": "721 Market St, San Francisco, CA 94103",
+    "phone": "+1-415-538-3437",
+    "website": "https://www.superduperburgers.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.5",
+    "description": "A Bay Area-born fast casual chain that delivers consistently excellent, juicy burgers made with sustainable, locally sourced ingredients.",
+    "must_try": "Super Burger with garlic fries and an organic shake.",
+    "hours": "Mon-Sun 10:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Superprime",
+    "address": "SoMa, San Francisco",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Wagyu-focused Japanese steakhouse with a banging sound system and vinyl collection. If you're going to blow the budget on a steak dinner, this is where.",
+    "must_try": "Japanese wagyu tasting",
+    "hours": "Dinner Tue-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Swan Oyster Depot",
+    "address": "1517 Polk St, San Francisco, CA 94109",
+    "phone": "+1-415-673-1101",
+    "website": null,
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "18-seat counter, no reservations, cash only, open since 1912. Get there by 10:30am or wait an hour. The Dungeness crab salad and oysters on the half shell are perfect.",
+    "must_try": "Dungeness crab salad",
+    "hours": "Mon-Sat 10:30am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sweet Maple",
+    "address": "2101 Sutter St, San Francisco, CA 94115",
+    "phone": "+1-415-655-9169",
+    "website": "https://www.sweetmaplesf.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A bustling Lower Pacific Heights destination that fuses Asian comfort food with classic American diner staples. The Millionaire's Bacon is baked for four hours with cayenne and brown sugar.",
+    "must_try": "Millionaire's Bacon and Marnier French Toast.",
+    "hours": "Mon-Sun 8:00 AM - 2:30 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Taqueria Cancun",
+    "address": "2288 Mission St, San Francisco, CA 94110",
+    "phone": "+1-415-252-9560",
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "A fiercely debated rival to El Farolito, favored by many locals for its perfectly grilled tortillas, fresh avocado, and vibrant salsa bar.",
+    "must_try": "Super Mojado Burrito (wet burrito) with Al Pastor.",
+    "hours": "Mon-Sun 10:00 AM - 1:00 AM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Codmother Fish & Chips",
+    "address": "496 Beach St, San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://www.codmother.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$",
+    "rating": "4.6",
+    "description": "A beloved fish and chips truck parked on the Wharf. Proves you don't need a sit-down restaurant to eat well at Fisherman's Wharf.",
+    "must_try": "Fish tacos or the classic fish and chips basket.",
+    "hours": "Daily 11:00 AM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tony's Pizza Napoletana",
+    "address": "1570 Stockton St, San Francisco, CA 94133",
+    "phone": "+1-415-835-9888",
+    "website": "https://tonyspizzanapoletana.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A globally recognized pizzeria operating seven different ovens to create meticulously authentic regional pizzas, from Neapolitan to Detroit style.",
+    "must_try": "The award-winning Margherita (limited to 73 per day) and the Coal Fired New Yorker.",
+    "hours": "Mon-Thu 12:00 PM - 10:00 PM, Fri-Sun 12:00 PM - 11:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tosca Cafe",
+    "address": "242 Columbus Ave, San Francisco, CA 94133",
+    "phone": "+1-415-986-9651",
+    "website": "https://www.toscacafesf.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "A legendary, century-old North Beach haunt combining deep city history with an excellent Northern Italian menu and incredible ambiance.",
+    "must_try": "House Cappuccino (actually a hot cocktail with bourbon and chocolate) and the roast chicken for two.",
+    "hours": "Tue-Sat 5:00 PM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Turtle Tower",
+    "address": "645 Larkin St, San Francisco, CA 94109",
+    "phone": "+1-415-409-3333",
+    "website": "https://www.turtletowersf.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$",
+    "rating": "4.4",
+    "description": "The definitive local standard for Northern Vietnamese pho, characterized by a lighter, deeply savory broth served without southern-style hoisin or sprouts.",
+    "must_try": "Pho Ga (chicken pho with wide, fresh rice noodles).",
+    "hours": "Thu-Tue 8:00 AM - 4:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wolfsbane",
+    "address": "Dogpatch, San Francisco",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "From the team behind Michelin-starred Lord Stanley. Tasting menu with wine pairings in a seductive Dogpatch space. The caviar nori boats and Liberty duck are standouts. SF's most exciting fine dining opening of 2025.",
+    "must_try": "Full tasting menu with wine pairings",
+    "hours": "By reservation",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zazie",
+    "address": "941 Cole St, San Francisco, CA 94117",
+    "phone": "+1-415-566-5333",
+    "website": "https://www.zaziesf.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A beloved, tip-free French bistro in Cole Valley that draws massive weekend crowds for its poached egg menu and heated back patio. Gratuity is built into menu pricing.",
+    "must_try": "Miracle Pancakes and the Eggs Benedict menu.",
+    "hours": "Mon-Sun 8:00 AM - 2:00 PM, 5:00 PM - 9:30 PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "American Conservatory Theater (ACT)",
+    "address": "415 Geary St, San Francisco, CA 94102",
+    "phone": "+1-415-749-2228",
+    "website": "https://www.act-sf.org",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Tony Award-winning theater company in the gorgeous Geary Theater. New plays, revivals, and cutting-edge productions.",
+    "must_try": "Check for under-30 rush tickets at the box office.",
+    "hours": "Show-dependent",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chase Center",
+    "address": "1 Warriors Way, San Francisco, CA 94158",
+    "phone": null,
+    "website": "https://www.chasecenter.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Home of the Golden State Warriors. Also hosts major concerts and events. Thrive City plaza outside has free events, food trucks, and watch parties.",
+    "must_try": "Warriors game + pregame at Thrive City",
+    "hours": "Event-dependent",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cobb's Comedy Club",
+    "address": "915 Columbus Ave, San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://www.cobbscomedy.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A spacious 400-seat comedy club in North Beach pulling national headliners and top-tier local showcases. Two-drink minimum.",
+    "must_try": "Arrive early for a front-row table.",
+    "hours": "Showtimes vary, box office opens ~6:00 PM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dear San Francisco (Club Fugazi)",
+    "address": "678 Green St, San Francisco, CA 94133",
+    "phone": null,
+    "website": "https://dearsf.clubfugazisf.com",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "The show that replaced Beach Blanket Babylon in the historic Club Fugazi. Thrilling acrobatics and circus arts with an immersive cicchetti (small bites) menu. A love letter to SF.",
+    "must_try": "The cicchetti tasting menu during the show.",
+    "hours": "Wed-Sun, multiple showtimes",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oracle Park",
+    "address": "24 Willie Mays Plaza, San Francisco, CA 94107",
+    "phone": "+1-415-972-2000",
+    "website": "https://www.mlb.com/giants",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Home of the SF Giants. Arguably the most beautiful ballpark in America with bay views from every seat. Garlic fries are the move. Even non-baseball fans love this place.",
+    "must_try": "Garlic fries + a seat in the outfield bleachers",
+    "hours": "Game days",
+    "seasonal": "Baseball season (April-October)",
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Punch Line Comedy Club",
+    "address": "444 Battery St, San Francisco, CA 94111",
+    "phone": null,
+    "website": "https://www.punchlinecomedyclub.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "SF's oldest comedy club — the intimate, legendary room where Robin Williams and Dave Chappelle honed their craft.",
+    "must_try": "Tuesday night SF Comedy Showcase featuring rising local talent.",
+    "hours": "Showtimes vary, mostly evenings",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SF Opera",
+    "address": "301 Van Ness Ave, San Francisco, CA 94102",
+    "phone": "+1-415-864-3330",
+    "website": "https://www.sfopera.com",
+    "category": "entertainment",
+    "subcategory": "performing_arts",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The second-largest opera company in North America, performing in the grand War Memorial Opera House. Standing room tickets available for ~$10.",
+    "must_try": "Standing room tickets for a fraction of the price.",
+    "hours": "Season Sep-Dec, Jun-Jul",
+    "seasonal": "Sep-Dec, Jun-Jul",
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SHN Orpheum Theatre",
+    "address": "1192 Market St, San Francisco, CA 94102",
+    "phone": "+1-888-746-1799",
+    "website": "https://www.shnsf.com",
+    "category": "entertainment",
+    "subcategory": "theater",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "San Francisco's premiere venue for Broadway touring productions. Hamilton, Wicked, and every major touring show comes through here.",
+    "must_try": "Check SHN.com for current shows and lottery tickets.",
+    "hours": "Show-dependent",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "San Francisco Symphony at Davies Hall",
+    "address": "201 Van Ness Ave, San Francisco, CA 94102",
+    "phone": "+1-415-864-6000",
+    "website": "https://www.sfsymphony.org",
+    "category": "entertainment",
+    "subcategory": "performing_arts",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "World-class orchestra in a landmark Civic Center hall. SoundBox experimental series is the younger, cooler programming arm.",
+    "must_try": "SoundBox events for a non-traditional symphony experience.",
+    "hours": "Season Sep-Jul, showtimes vary",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "1 Hotel San Francisco",
+    "address": "8 Mission St, San Francisco, CA 94105",
+    "phone": "+1-415-757-0110",
+    "website": "https://www.1hotels.com/san-francisco",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Eco-luxury waterfront hotel at the Embarcadero with Bamford Wellness Spa, living walls, and sustainability built into every detail. (Rate: $400-$800/night. Pet-friendly.)",
+    "must_try": "Best for: eco-conscious luxury travelers, spa lovers, Embarcadero base.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Argonaut Hotel",
+    "address": "495 Jefferson St, San Francisco, CA 94109",
+    "phone": "+1-415-563-0800",
+    "website": "https://www.argonauthotel.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Nautical-themed boutique in a historic waterfront warehouse at Fisherman's Wharf. Bay views, maritime charm, and walking distance to Ghirardelli and the cable car turnaround.",
+    "must_try": "Bay-view room + walk to Ghirardelli Square",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beacon Grand",
+    "address": "450 Powell St, San Francisco, CA 94102",
+    "phone": "+1-866-377-9412",
+    "website": "https://beacongrand.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Formerly the Sir Francis Drake, this beautifully renovated 1920s hotel pairs Prohibition-era glamor with modern amenities steps from the cable car line. (Rate: $200-$450/night.)",
+    "must_try": "Best for: Union Square shoppers, history lovers, first-time visitors.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beck's Motor Lodge",
+    "address": "2222 Market St, San Francisco, CA 94114",
+    "phone": "+1-415-621-8212",
+    "website": "https://www.becksmotorlodge.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "A wonderfully preserved and modernized mid-century motel in the Castro offering an incredible rarity: free parking. Pet-friendly. (Rate: $150-$280/night. Free parking.)",
+    "must_try": "Best for: road trippers, Castro nightlife, visitors with cars/dogs.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chancellor Hotel on Union Square",
+    "address": "433 Powell St, San Francisco, CA 94102",
+    "phone": "+1-415-362-2004",
+    "website": "https://www.chancellorhotel.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "A historic, independently owned value champion right on Union Square, offering unpretentious comfort at significantly lower rates. (Rate: $120-$250/night. Parking: $45/night offsite.)",
+    "must_try": "Best for: budget-conscious visitors who want a Union Square address.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cow Hollow Inn & Suites",
+    "address": "2190 Lombard St, San Francisco, CA 94123",
+    "phone": "+1-415-921-5800",
+    "website": "https://www.cowhollowmotorinn.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Large motor inn in the Marina with suites featuring kitchens and fireplaces. The rarity: free parking under the motel. (Rate: $130-$260/night. Free parking.)",
+    "must_try": "Best for: road trippers, families, Marina neighborhood base.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fairmont San Francisco",
+    "address": "950 Mason St, San Francisco, CA 94108",
+    "phone": "+1-415-772-5000",
+    "website": "https://www.fairmont.com/san-francisco/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Nob Hill landmark since 1907. Home of the Tonga Room. Old-money grand hotel energy with modern rooms. The lobby alone is worth a visit even if you're not staying.",
+    "must_try": "Tonga Room drinks + Laurel Court breakfast",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Four Seasons Hotel San Francisco at Embarcadero",
+    "address": "222 Sansome St, San Francisco, CA 94104",
+    "phone": "+1-415-276-9600",
+    "website": "https://www.fourseasons.com/embarcadero/",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Occupying the top 11 floors of a 48-story tower with unobstructed Bay views. The city's top luxury property — pet-friendly with no weight limit. (Rate: $600-$1,200/night.)",
+    "must_try": "Best for: luxury travelers, pet owners, views.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green Tortoise Hostel",
+    "address": "494 Broadway, San Francisco, CA 94133",
+    "phone": "+1-415-834-1000",
+    "website": "https://www.greentortoise.com",
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.3",
+    "description": "North Beach party hostel with free breakfast, sauna, and communal kitchen. Right on Broadway near the strip clubs and Italian restaurants. (Rate: $40-$90/night.)",
+    "must_try": "Best for: young backpackers, social travelers, North Beach nightlife.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HI San Francisco Fisherman's Wharf Hostel",
+    "address": "240 Fort Mason, San Francisco, CA 94123",
+    "phone": "+1-415-771-7277",
+    "website": "https://hihostels.com/hostels/hi-san-francisco-fishermans-wharf",
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.5",
+    "description": "One of the most scenic hostels in America, set in historic military buildings in Fort Mason with views of Alcatraz. Dorms and private rooms. (Rate: $50-$120/night.)",
+    "must_try": "Best for: solo travelers, backpackers, budget adventurers.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Caza Fisherman's Wharf",
+    "address": "1300 Columbus Ave, San Francisco, CA 94133",
+    "phone": "+1-415-680-1150",
+    "website": "https://www.hotelcaza.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A vibrant, family-centric modern boutique hotel with game room, heated outdoor pool, and easy waterfront access. (Rate: $180-$350/night. Pet fee: $100.)",
+    "must_try": "Best for: families with kids, Wharf-based sightseeing.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Drisco Pacific Heights",
+    "address": "2901 Pacific Ave, San Francisco, CA 94115",
+    "phone": "+1-415-346-2880",
+    "website": "https://www.hoteldrisco.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Quietly the highest-rated hotel in SF. Pacific Heights boutique with included breakfast, evening wine, and a neighborhood feel. The kind of place where the staff knows your name by day two.",
+    "must_try": "Complimentary evening wine reception",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Emblem San Francisco",
+    "address": "562 Sutter St, San Francisco, CA 94102",
+    "phone": "+1-415-433-4434",
+    "website": "https://www.viceroyhotelsandresorts.com/emblem",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A Beat Generation-inspired boutique hotel with a moody literary aesthetic, book butler, and the underground Obscenity Bar & Lounge. (Rate: $170-$350/night.)",
+    "must_try": "Best for: literary types, design-conscious travelers, nightlife.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Kabuki",
+    "address": "1625 Post St, San Francisco, CA 94115",
+    "phone": "+1-415-922-3200",
+    "website": "https://www.hotelkabuki.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Japanese-inspired boutique in the heart of Japantown with zen gardens and complimentary passes to Kabuki Springs. (Rate: $200-$400/night. Pet-friendly.)",
+    "must_try": "Best for: Japantown immersion, spa lovers, zen seekers.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Zephyr",
+    "address": "250 Beach St, San Francisco, CA 94133",
+    "phone": "+1-415-617-6555",
+    "website": "https://www.hotelzephyrsf.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Nautical-themed, playful boutique at Fisherman's Wharf with a game room, fire pits, and family-friendly energy. (Rate: $180-$350/night.)",
+    "must_try": "Best for: families, Wharf sightseeing, casual vibe.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LUMA Hotel San Francisco",
+    "address": "100 Channel St, San Francisco, CA 94158",
+    "phone": "+1-415-874-5862",
+    "website": "https://www.lumahotelsf.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Sleek, modern hotel in Mission Bay near Chase Center. Great for Warriors games and waterfront walks. (Rate: $220-$450/night.)",
+    "must_try": "Best for: sports fans, Mission Bay base, modern design.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palace Hotel, a Luxury Collection Hotel",
+    "address": "2 New Montgomery St, San Francisco, CA 94105",
+    "phone": "+1-415-512-1111",
+    "website": "https://www.marriott.com/en-us/hotels/sfolc-palace-hotel",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "A gilded-age architectural masterpiece with the breathtaking Garden Court glass-dome atrium. Historic grandeur since 1875. (Rate: $350-$700/night. Pet fee: $150. Parking: $84/night.)",
+    "must_try": "Best for: history buffs, Afternoon Tea lovers, special occasions.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Phoenix Hotel",
+    "address": "601 Eddy St, San Francisco, CA 94109",
+    "phone": "+1-415-776-1380",
+    "website": "https://www.phoenixsf.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Rock-and-roll motor lodge with a palm-fringed pool in the Tenderloin. Artists, musicians, and weirdos love this place. Chambers restaurant is great for cocktails.",
+    "must_try": "Pool hangout + Chambers dinner",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "San Francisco Proper Hotel",
+    "address": "1100 Market St, San Francisco, CA 94102",
+    "phone": "+1-415-735-7777",
+    "website": "https://www.properhotel.com/san-francisco",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "A maximalist design triumph by Kelly Wearstler in Mid-Market, known for eclectic interiors and the fashionable Charmaine's rooftop bar. (Rate: $250-$500/night. Pet-friendly, no fee.)",
+    "must_try": "Best for: design lovers, nightlife seekers, couples.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Lodge at the Presidio",
+    "address": "105 Montgomery St, Presidio, San Francisco, CA 94129",
+    "phone": "+1-415-561-1234",
+    "website": "https://www.presidiolodge.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Former military officers' quarters in the Presidio. Old-fashioned charm, free breakfast, wine & cheese reception, lots of parking, free shuttle to downtown. Walk to the Golden Gate Bridge.",
+    "must_try": "Morning bridge walk from the hotel",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Ritz-Carlton San Francisco",
+    "address": "600 Stockton St, San Francisco, CA 94108",
+    "phone": "+1-415-296-7465",
+    "website": "https://www.ritzcarlton.com/en/hotels/sforc-the-ritz-carlton-san-francisco",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Nob Hill grande dame with a world-class spa, Club Level lounge, and views of the city and bay. Walking distance to Chinatown and Union Square. (Rate: $500-$1,000/night.)",
+    "must_try": "Best for: classic luxury, spa weekends, Nob Hill exploration.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The St. Regis San Francisco",
+    "address": "125 3rd St, San Francisco, CA 94103",
+    "phone": "+1-415-284-4000",
+    "website": "https://www.marriott.com/en-us/hotels/sfoxr-the-st-regis-san-francisco",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "SoMa sophistication with signature butler service, indoor pool, and deep integration with the adjacent SFMOMA. (Rate: $500-$900/night. Pet fee: $200. Parking: $96.90/night.)",
+    "must_try": "Best for: luxury travelers, art lovers, couples.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "citizenM San Francisco Union Square",
+    "address": "72 Ellis St, San Francisco, CA 94102",
+    "phone": "+1-415-801-6650",
+    "website": "https://www.citizenm.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "A hyper-efficient, tech-forward micro-hotel offering compact rooms with massive beds, iPad controls, and a vibrant 24/7 lobby. (Rate: $150-$300/night.)",
+    "must_try": "Best for: solo travelers, tech-savvy visitors, budget luxury.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blazing Saddles Bike Rentals",
+    "address": "2715 Hyde St, San Francisco, CA 94109",
+    "phone": "+1-415-202-8888",
+    "website": "https://www.blazingsaddles.com",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Rent a bike, ride across the Golden Gate, coast downhill into Sausalito, ferry back. The classic SF day trip. Electric bikes available for the hills.",
+    "must_try": "Golden Gate to Sausalito loop (return by ferry)",
+    "hours": "Daily 8am-6pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crissy Field",
+    "address": "1199 E Beach, San Francisco, CA 94129",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Flat waterfront path with the best Golden Gate Bridge views in the city. Walk, jog, or bike. The Warming Hut café at the end has great coffee.",
+    "must_try": "Walk to the Warming Hut for coffee with the bridge in your face",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dolores Park",
+    "address": "Dolores St & 19th St, San Francisco, CA 94114",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "SF's outdoor living room. Sunbathing, picnicking, people-watching with downtown skyline views. The south slope is the party zone; north slope is chill. Buy a paleta from the street vendors.",
+    "must_try": "Sunny afternoon picnic + paleta from the cart",
+    "hours": "Daily 6am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Golden Gate Park",
+    "address": "501 Stanyan St, San Francisco, CA 94117",
+    "phone": null,
+    "website": "https://sfrecpark.org/facilities/facility/details/golden-gate-park-702",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "1,017 acres — bigger than Central Park. Japanese Tea Garden, de Young Museum, bison paddock, Stow Lake, botanical gardens. You could spend three days here and not see it all.",
+    "must_try": "Japanese Tea Garden + Stow Lake paddleboats",
+    "hours": "24 hours (individual attractions have own hours)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "adventure",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lands End Trail",
+    "address": "Lands End Lookout, 680 Point Lobos Ave, San Francisco, CA 94121",
+    "phone": null,
+    "website": "https://www.nps.gov/goga/planyourvisit/landsend.htm",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Coastal trail on the northwest tip of the city with Golden Gate views, cypress trees, and the ruins of Sutro Baths. The most scenic urban hike in America.",
+    "must_try": "Full loop trail from Sutro Baths to Eagle Point and back (~3 miles).",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ocean Beach",
+    "address": "Great Highway, San Francisco, CA 94122",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "beaches",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "3.5 miles of sand on the western edge of the city. Surfing (experienced only — the currents are dangerous), bonfires in designated pits, and dramatic Pacific sunsets. Not a swimming beach.",
+    "must_try": "Sunset bonfire in the fire pits (first come first served).",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Presidio National Park",
+    "address": "Presidio of San Francisco, CA 94129",
+    "phone": null,
+    "website": "https://www.presidio.gov",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Former military base turned national park with Golden Gate views, hiking trails, Tunnel Tops playground, and Il Parco Pizzeria. The most underrated park in SF.",
+    "must_try": "Tunnel Tops for Golden Gate sunset views",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Twin Peaks",
+    "address": "501 Twin Peaks Blvd, San Francisco, CA 94114",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "hiking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "922 feet above sea level with 360-degree views of the entire city, Bay Bridge, Golden Gate, and Pacific. Drive up or hike from Castro. Best at sunset but bring layers — it's always windy.",
+    "must_try": "Sunset visit on a clear October evening.",
+    "hours": "24 hours",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alamo Square Dog Play Area",
+    "address": "Hayes St & Steiner St, San Francisco, CA 94117",
+    "phone": null,
+    "website": "https://sfrecpark.org/457/Dog-Play-Areas",
+    "category": "services",
+    "subcategory": "pet_services",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "Iconic off-leash dog area with breathtaking views of the Painted Ladies and downtown skyline. The most photogenic dog park in America.",
+    "must_try": "Photo of your dog with the Painted Ladies in the background.",
+    "hours": "Daily 5:00 AM - Midnight",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bi-Rite Market",
+    "address": "3639 18th St, San Francisco, CA 94110",
+    "phone": "+1-415-241-9760",
+    "website": "https://biritemarket.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The Mission's beloved neighborhood grocery with impeccable produce and prepared foods. The Bi-Rite Creamery next door has the best soft-serve in the city.",
+    "must_try": "Salted caramel ice cream from Bi-Rite Creamery",
+    "hours": "Daily 9am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Concentra Urgent Care Downtown",
+    "address": "26 California St, San Francisco, CA 94111",
+    "phone": null,
+    "website": "https://www.concentra.com",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Accessible urgent care near the Embarcadero for non-life-threatening travel ailments. Walk-in, no appointment needed.",
+    "must_try": null,
+    "hours": "Mon-Fri business hours",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Fort Funston Dog Beach",
+    "address": "Fort Funston Rd, San Francisco, CA 94132",
+    "phone": null,
+    "website": "https://www.nps.gov/goga/planyourvisit/fortfunston.htm",
+    "category": "services",
+    "subcategory": "pet_services",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Massive off-leash coastal bluff and beach on the southern edge of the city. Dogs run free on the sand. Spectacular views but windy.",
+    "must_try": "Let your dog run on the beach at low tide.",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hertz Car Rental - Fisherman's Wharf",
+    "address": "500 Beach St, Ste 121, San Francisco, CA 94133",
+    "phone": "+1-415-674-8330",
+    "website": "https://www.hertz.com",
+    "category": "services",
+    "subcategory": "car_rental",
+    "price": "$$$",
+    "rating": "3.8",
+    "description": "Strategically located at the Wharf so you can grab a car for Napa or Muir Woods day trips without navigating downtown. Closes early on weekends (3 PM).",
+    "must_try": null,
+    "hours": "Mon-Fri 8:00 AM - 5:00 PM, Sat-Sun 8:00 AM - 3:00 PM",
+    "seasonal": null,
+    "modes": [
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LuggageHero (Union Square Network)",
+    "address": "Multiple locations near Union Square",
+    "phone": null,
+    "website": "https://luggagehero.com/san-francisco/union-square/",
+    "category": "services",
+    "subcategory": "luggage_storage",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Decentralized luggage storage using local retail shops. ~$4.90/day with $500 damage guarantee. Perfect for post-checkout sightseeing.",
+    "must_try": null,
+    "hours": "Varies by location",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Sutter Health Urgent Care",
+    "address": "55 2nd St, San Francisco, CA 94105",
+    "phone": null,
+    "website": "https://www.sutterhealth.org",
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Walk-in urgent care near Union Square and SoMa hotels. Handles sprains, infections, and common travel ailments.",
+    "must_try": null,
+    "hours": "Mon-Fri 8:00 AM - 5:00 PM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "The Laundry Hub",
+    "address": "5090 Mission St, San Francisco, CA 94112",
+    "phone": "+1-628-500-7801",
+    "website": "https://thelaundryhubsf.com",
+    "category": "services",
+    "subcategory": "laundry",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Clean, modern self-service laundromat in the southern Mission for travelers on extended stays.",
+    "must_try": null,
+    "hours": "Daily 5:00 AM - 9:00 PM (Last Wash 7:45 PM)",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Trader Joe's (9th & Bryant)",
+    "address": "555 9th St, San Francisco, CA 94103",
+    "phone": "+1-415-863-1292",
+    "website": "https://www.traderjoes.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.4",
+    "description": "The closest Trader Joe's to SoMa hotels. Stock up on cheap wine, snacks, and pre-made meals for your rental.",
+    "must_try": null,
+    "hours": "Daily 8:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Walgreens (various)",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://www.walgreens.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.5",
+    "description": "Pharmacies throughout the city. Union Square, Fisherman's Wharf, and Castro locations are most convenient for tourists.",
+    "must_try": null,
+    "hours": "Varies; many open 7am-10pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Whole Foods Market (Franklin)",
+    "address": "1765 California St, San Francisco, CA 94109",
+    "phone": "+1-415-674-0500",
+    "website": "https://www.wholefoodsmarket.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Large Whole Foods in Nob Hill/Polk area. Best option for stocking a vacation rental with quality groceries.",
+    "must_try": null,
+    "hours": "Daily 7:00 AM - 10:00 PM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Amoeba Music",
+    "address": "1855 Haight St, San Francisco, CA 94117",
+    "phone": "+1-415-831-1200",
+    "website": "https://www.amoeba.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The world's largest independent record store, housed in a converted bowling alley on Haight Street. Buys and sells vinyl, CDs, and DVDs at massive scale. A pilgrimage site.",
+    "must_try": "Dig through the used vinyl bins in the back.",
+    "hours": "Mon-Sun 11:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City Lights Bookstore",
+    "address": "261 Columbus Ave, San Francisco, CA 94133",
+    "phone": "+1-415-362-8193",
+    "website": "https://www.citylights.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Lawrence Ferlinghetti's Beat generation bookstore, open since 1953. The poetry room upstairs is sacred ground. Buy a book, then drink across the alley at Vesuvio.",
+    "must_try": "Poetry room upstairs + a Pocket Poets purchase",
+    "hours": "Daily 10am-midnight",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ferry Building Marketplace",
+    "address": "1 Ferry Building, San Francisco, CA 94111",
+    "phone": "+1-415-983-8030",
+    "website": "https://www.ferrybuildingmarketplace.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Artisan food hall and Saturday farmers market that's arguably the best in America. Cowgirl Creamery, Acme Bread, mushroom vendors, local oysters. The Saturday market (8am-2pm) is the main event.",
+    "must_try": "Saturday farmers market morning loop",
+    "hours": "Mon-Fri 10am-7pm, Sat 8am-6pm, Sun 11am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ghirardelli Square",
+    "address": "900 North Point St, San Francisco, CA 94109",
+    "phone": "+1-415-775-5500",
+    "website": "https://www.ghirardellisq.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Historic chocolate factory turned shopping and dining complex at the Wharf. The Ghirardelli ice cream and chocolate shop is the anchor. Great waterfront views.",
+    "must_try": "Hot fudge sundae at the Original Ghirardelli Ice Cream & Chocolate Shop.",
+    "hours": "Mon-Sun 10:00 AM - 9:00 PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Heath Ceramics",
+    "address": "2900 18th St, San Francisco, CA 94110",
+    "phone": "+1-415-361-5552",
+    "website": "https://www.heathceramics.com",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "A sprawling 60,000-sq-ft former laundry facility housing a tableware showroom, working tile factory ($15 tours), Tartine Manufactory, and independent designer studios.",
+    "must_try": "Book the $15 Tile Factory Tour via Eventbrite (closed-toe shoes required).",
+    "hours": "Mon-Fri 10:00 AM - 6:00 PM, Sat-Sun 10:00 AM - 5:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kinokuniya Bookstore San Francisco",
+    "address": "1581 Webster St, San Francisco, CA 94115",
+    "phone": "+1-415-567-7625",
+    "website": "https://usa.kinokuniya.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The oldest Kinokuniya in the US, with an immense first-floor expansion dedicated to manga, anime merchandise, and Studio Ghibli imports. Recently celebrated its 55th anniversary.",
+    "must_try": "The stationery department and the Katsuya Terada live-painted mural.",
+    "hours": "Mon-Sun 10:30 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Union Square Shopping District",
+    "address": "Union Square, San Francisco, CA 94108",
+    "phone": null,
+    "website": "https://www.visitunionsquaresf.com",
+    "category": "shopping",
+    "subcategory": "retail",
+    "price": "$$$",
+    "rating": "4.0",
+    "description": "SF's central retail district. Macy's, Nordstrom, Saks, and Apple flagship remain. Note: Westfield SF Centre (now Emporium Centre) closed January 2026 and is padlocked awaiting redevelopment.",
+    "must_try": "The Apple Store at Union Square (designed by Foster + Partners, open to the plaza).",
+    "hours": "Varies by store; most open 10 AM - 8 PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Valencia Street Corridor",
+    "address": "Valencia St between 16th & 24th, San Francisco, CA 94110",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The Mission's indie boutique strip — vintage stores, ceramics shops, design studios, bookstores, and vinyl. The best walking shopping street in the city.",
+    "must_try": "Browse Paxton Gate (oddities), Dog Eared Books, and the vintage shops.",
+    "hours": "Varies by shop; most open 11 AM - 7 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wasteland",
+    "address": "1660 Haight St, San Francisco, CA 94117",
+    "phone": "+1-415-863-3150",
+    "website": "https://www.shopwasteland.com",
+    "category": "shopping",
+    "subcategory": "vintage",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "High-end vintage and designer resale on Haight Street. Curated racks of vintage denim, leather jackets, and designer pieces. The Haight's best thrift stop.",
+    "must_try": "Vintage Levi's and leather jackets.",
+    "hours": "Mon-Sat 11:00 AM - 7:00 PM, Sun 12:00 PM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "1 Hotel SF - Bamford Wellness Spa",
+    "address": "8 Mission St, San Francisco, CA 94105",
+    "phone": "+1-415-757-0110",
+    "website": "https://www.1hotels.com/san-francisco",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Eco-luxury spa at 1 Hotel open to non-guests. Organic Bamford products, treatment rooms with bay views. Book ahead.",
+    "must_try": "Bamford signature body treatment.",
+    "hours": "Daily 10:00 AM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Archimedes Banya",
+    "address": "748 Innes Ave, San Francisco, CA 94124",
+    "phone": "+1-415-681-9999",
+    "website": "https://www.bfrcsf.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "A Russian-style bathhouse in Bayview with hot rooms, cold plunge, outdoor deck, and restaurant. Co-ed. The most intense spa experience in the city.",
+    "must_try": "Full banya circuit: steam room → cold plunge → repeat.",
+    "hours": "Wed-Mon 11:00 AM - 10:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CorePower Yoga (Multiple Locations)",
+    "address": "1840 Divisadero St, San Francisco, CA 94115",
+    "phone": null,
+    "website": "https://www.corepoweryoga.com",
+    "category": "wellness_spa",
+    "subcategory": "yoga",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "National chain with several SF locations offering drop-in heated and unheated yoga classes. First week free for new students.",
+    "must_try": "Yoga Sculpt or Hot Power Fusion class.",
+    "hours": "Classes 6:00 AM - 8:00 PM daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Equinox Sports Club San Francisco",
+    "address": "747 Market St, San Francisco, CA 94103",
+    "phone": null,
+    "website": "https://www.equinox.com",
+    "category": "wellness_spa",
+    "subcategory": "fitness",
+    "price": "$$$$",
+    "rating": "4.3",
+    "description": "Premium fitness club downtown offering day passes for non-members via the 'E by Equinox' tier. Indoor pool, Hypervolt recovery, full spa.",
+    "must_try": "Day pass with spa access and recovery suite.",
+    "hours": "Mon-Fri 5:00 AM - 10:00 PM, Sat-Sun 7:00 AM - 8:00 PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kabuki Springs & Spa",
+    "address": "1750 Geary Blvd, San Francisco, CA 94115",
+    "phone": "+1-415-922-6000",
+    "website": "https://www.kabukisprings.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Japanese-style communal bathhouse in Japantown. Hot pool, cold plunge, steam room, sauna. Alternating men's/women's/co-ed days. Deeply relaxing and authentically Japanese.",
+    "must_try": "Communal soak + shiatsu massage",
+    "hours": "Daily 10am-9:45pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ritz-Carlton Spa",
+    "address": "600 Stockton St, San Francisco, CA 94108",
+    "phone": "+1-415-296-7465",
+    "website": "https://www.ritzcarlton.com/en/hotels/sforc-the-ritz-carlton-san-francisco/spa",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Full-service luxury spa on Nob Hill open to non-hotel guests. Steam room, sauna, and a menu of massages and facials.",
+    "must_try": "Deep tissue massage followed by the steam circuit.",
+    "hours": "Daily 9:00 AM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  }
+]

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+<title>The Wall — New York City</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='8' fill='%23dc2626'/><text x='50%25' y='55%25' dominant-baseline='middle' text-anchor='middle' font-size='16' font-weight='800' fill='white'>LT</text></svg>"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=DM+Sans:wght@300;400;500;600;700&display=swap" rel="stylesheet"/>
+<style>
+*,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+body{background:#faf8f4;color:#0c1b2a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+::selection{background:#dc2626;color:white}
+@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}
+img{display:block;max-width:100%}
+</style>
+</head>
+<body>
+<div id="root"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react/18.3.1/umd/react.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/react-dom/18.3.1/umd/react-dom.production.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/7.26.4/babel.min.js"></script>
+<script type="text/babel">
+const {useState,useEffect,useRef}=React;
+const T={bg:"#faf8f4",card:"#ffffff",fog:"#718096",text:"#0c1b2a",terra:"#dc2626",terraLight:"#b91c1c",gold:"#b8860b",dim:"#a0aec0",glow:"rgba(220,38,38,0.08)",border:"#e2e8f0",slate:"#f0f4f8",fd:"'Playfair Display',Georgia,serif",fb:"'DM Sans',sans-serif"};
+const CITY_NAME="New York City";
+const BACK_LINK="/cities/new-york-city/";
+const ALBUMS=["All", "Photos"];
+const INITIAL_POSTS=[{"id": 1, "sig": "Sarah M.", "time": "2 hours ago", "caption": "The perfect everything bagel. This city runs on carbs.", "likes": 166, "img": "/cities/new-york-city/images/wall-bagel-counter.jpg", "comments": [{"sig": "", "text": "Incredible shot!"}, {"sig": "Jake", "text": "This is why I travel"}]}, {"id": 2, "sig": "", "time": "5 hours ago", "caption": "Broadway lights hit different standing under them.", "likes": 224, "img": "/cities/new-york-city/images/wall-broadway-marquee.jpg", "comments": []}, {"id": 3, "sig": "Mika", "time": "Yesterday", "caption": "Blanket day in Central Park. Best free real estate.", "likes": 271, "img": "/cities/new-york-city/images/wall-central-park-blanket.jpg", "comments": [{"sig": "Dev", "text": "Adding this to my list"}]}, {"id": 4, "sig": "James W.", "time": "Yesterday", "caption": "DUMBO. The bridge frames everything perfectly.", "likes": 86, "img": "/cities/new-york-city/images/wall-dumbo-bridge.jpg", "comments": []}, {"id": 5, "sig": "", "time": "2 days ago", "caption": "Lady Liberty from the ferry. Still gives you chills.", "likes": 127, "img": "/cities/new-york-city/images/wall-ferry-statue.jpg", "comments": [{"sig": "Nina", "text": "The vibes!"}, {"sig": "", "text": "Need to go back"}]}, {"id": 6, "sig": "Alex", "time": "2 days ago", "caption": "Dollar slice, folded, standing on the sidewalk. Peak NYC.", "likes": 130, "img": "/cities/new-york-city/images/wall-pizza-sidewalk.jpg", "comments": []}, {"id": 7, "sig": "", "time": "3 days ago", "caption": "Rooftop sunset. The skyline was on fire tonight.", "likes": 189, "img": "/cities/new-york-city/images/wall-rooftop-sunset.jpg", "comments": []}, {"id": 8, "sig": "Dev", "time": "3 days ago", "caption": "Underground adventures. The subway is the real show.", "likes": 224, "img": "/cities/new-york-city/images/wall-subway-selfie.jpg", "comments": []}];
+
+function Avatar({name,size}){var s=size||36;if(!name)return(<div style={{width:s,height:s,borderRadius:"50%",background:"#e2e8f0",display:"flex",alignItems:"center",justifyContent:"center",fontSize:s*0.4,flexShrink:0}}>📷</div>);var ini=name.split(" ").map(function(n){return n[0]}).join("");var hue=name.split("").reduce(function(a,c){return a+c.charCodeAt(0)},0)%360;return(<div style={{width:s,height:s,borderRadius:"50%",background:"hsl("+hue+",45%,55%)",display:"flex",alignItems:"center",justifyContent:"center",fontSize:s*0.38,fontWeight:700,color:"white",fontFamily:T.fb,flexShrink:0}}>{ini}</div>)}
+
+function GenVideoModal({post,onClose}){
+var stv=useState("prompt");var stage=stv[0];var setStage=stv[1];
+var prv=useState("Cinematic slow motion of "+post.caption.split(".")[0].toLowerCase()+", golden hour lighting, shallow depth of field, gentle camera drift");var prompt=prv[0];var setPrompt=prv[1];
+var pgv=useState(0);var progress=pgv[0];var setProgress=pgv[1];
+function go(){setStage("gen");var p=0;var iv=setInterval(function(){p+=Math.random()*8+2;if(p>=100){p=100;clearInterval(iv);setTimeout(function(){setStage("done")},500)}setProgress(Math.min(100,Math.round(p)))},200)}
+return(<div style={{position:"fixed",inset:0,zIndex:500,display:"flex",alignItems:"center",justifyContent:"center",padding:16}}>
+<div onClick={onClose} style={{position:"absolute",inset:0,background:"rgba(0,0,0,0.5)",backdropFilter:"blur(6px)"}}/>
+<div style={{position:"relative",width:500,maxWidth:"100%",background:"white",borderRadius:24,border:"1px solid "+T.border,overflow:"hidden",boxShadow:"0 24px 60px rgba(0,0,0,0.12)"}}>
+<div style={{padding:"20px 24px 0",display:"flex",justifyContent:"space-between",alignItems:"start"}}><div><div style={{display:"flex",alignItems:"center",gap:8,marginBottom:8}}><span style={{fontSize:10,fontWeight:700,color:"white",background:T.terra,padding:"3px 10px",borderRadius:4}}>AI VIDEO</span><span style={{fontSize:12,color:T.dim}}>Sora 2 Pro</span></div><h3 style={{fontFamily:T.fd,fontSize:20,fontWeight:700,color:T.text}}>Turn this into a <em style={{color:T.terra}}>cinematic</em></h3></div><button onClick={onClose} style={{background:"none",border:"none",color:T.fog,fontSize:20,cursor:"pointer"}}>✕</button></div>
+<div style={{margin:"16px 24px",height:180,borderRadius:16,overflow:"hidden",position:"relative"}}><img src={post.img} alt="" style={{width:"100%",height:"100%",objectFit:"cover"}} onError={function(e){e.target.style.display="none"}}/>
+{stage==="gen"&&<div style={{position:"absolute",inset:0,background:"rgba(0,0,0,0.4)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:10}}><div style={{width:200,height:4,borderRadius:2,background:"rgba(255,255,255,0.2)"}}><div style={{height:"100%",width:progress+"%",background:T.terra,borderRadius:2,transition:"width 0.2s"}}/></div><span style={{fontSize:12,color:"white"}}>{progress<30?"Analyzing composition...":progress<60?"Generating frames...":progress<90?"Rendering motion...":"Finalizing..."}</span></div>}
+{stage==="done"&&<div style={{position:"absolute",inset:0,background:"rgba(0,0,0,0.3)",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:10}}><div style={{width:52,height:52,borderRadius:"50%",background:T.terra,display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:22,marginLeft:3,color:"white"}}>▶</span></div><span style={{fontSize:13,fontWeight:600,color:"white"}}>Video Ready — 10s · 1080p</span></div>}
+</div>
+<div style={{padding:"0 24px 24px"}}>
+{stage==="prompt"&&(<div>
+<label style={{fontFamily:T.fb,fontSize:12,fontWeight:600,color:T.dim,textTransform:"uppercase",letterSpacing:"0.08em",marginBottom:6,display:"block"}}>Describe the motion</label>
+<textarea value={prompt} onChange={function(e){setPrompt(e.target.value)}} rows={2} style={{width:"100%",background:"#f7f5f2",border:"1px solid "+T.border,borderRadius:12,padding:"12px 14px",fontFamily:T.fb,fontSize:14,color:T.text,resize:"none",outline:"none",lineHeight:1.5}}/>
+<div style={{display:"flex",gap:6,marginTop:8,flexWrap:"wrap"}}>{["Slow zoom","Parallax drift","Time-lapse","Cinemagraph"].map(function(tag){return(<button key={tag} onClick={function(){setPrompt(function(p){return p+", "+tag.toLowerCase()+" effect"})}} style={{padding:"5px 12px",borderRadius:999,fontSize:11,background:"#f0f0f0",border:"1px solid "+T.border,color:T.fog,fontFamily:T.fb,cursor:"pointer"}}>{tag}</button>)})}</div>
+<button onClick={go} style={{width:"100%",marginTop:16,padding:"14px",borderRadius:14,background:T.terra,color:"white",fontSize:15,fontWeight:700,fontFamily:T.fb,border:"none",cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center",gap:10,boxShadow:"0 4px 16px "+T.glow}}>🎬 Generate Video <span style={{fontSize:12,opacity:0.7}}>~$0.25</span></button>
+</div>)}
+{stage==="done"&&(<div style={{display:"flex",gap:10}}><button onClick={onClose} style={{flex:1,padding:"14px",borderRadius:14,background:T.terra,color:"white",fontSize:15,fontWeight:700,fontFamily:T.fb,border:"none",cursor:"pointer"}}>Share to Wall</button><button onClick={onClose} style={{padding:"14px 20px",borderRadius:14,background:"#f0f0f0",color:T.fog,fontSize:15,fontFamily:T.fb,border:"none",cursor:"pointer"}}>Save</button></div>)}
+</div></div></div>)}
+
+function ComposeModal({onPost,onClose}){
+var cv=useState("");var caption=cv[0];var setCaption=cv[1];
+var sv=useState("");var sig=sv[0];var setSig=sv[1];
+var av=useState(ALBUMS[1]||"Photos");var album=av[0];var setAlbum=av[1];
+var iv=useState(null);var imageUrl=iv[0];var setImageUrl=iv[1];
+var fileRef=useRef(null);
+function handleFile(e){var file=e.target.files&&e.target.files[0];if(!file)return;setImageUrl(URL.createObjectURL(file))}
+function submit(){if(!caption.trim())return;onPost({id:Date.now(),sig:sig.trim(),time:"Just now",caption:caption.trim(),likes:0,img:imageUrl||"",comments:[]});onClose()}
+return(<div style={{position:"fixed",inset:0,zIndex:500,display:"flex",alignItems:"center",justifyContent:"center",padding:16}}>
+<div onClick={onClose} style={{position:"absolute",inset:0,background:"rgba(0,0,0,0.5)",backdropFilter:"blur(6px)"}}/>
+<div style={{position:"relative",width:480,maxWidth:"100%",maxHeight:"90vh",overflowY:"auto",background:"white",borderRadius:24,border:"1px solid "+T.border,boxShadow:"0 24px 60px rgba(0,0,0,0.12)"}}>
+<div style={{padding:"20px 24px 0",display:"flex",justifyContent:"space-between",alignItems:"center"}}><h3 style={{fontFamily:T.fd,fontSize:22,fontWeight:700,color:T.text}}>Share a <em style={{color:T.terra}}>moment</em></h3><button onClick={onClose} style={{background:"none",border:"none",color:T.fog,fontSize:20,cursor:"pointer"}}>✕</button></div>
+<div style={{padding:"16px 24px 24px",display:"flex",flexDirection:"column",gap:14}}>
+<input ref={fileRef} type="file" accept="image/*,video/*" capture="environment" onChange={handleFile} style={{display:"none"}}/>
+{imageUrl?(<div style={{position:"relative",borderRadius:16,overflow:"hidden"}}><img src={imageUrl} alt="" style={{width:"100%",maxHeight:260,objectFit:"cover",display:"block"}}/><button onClick={function(){setImageUrl(null)}} style={{position:"absolute",top:10,right:10,width:32,height:32,borderRadius:"50%",background:"rgba(0,0,0,0.6)",color:"white",border:"none",fontSize:16,cursor:"pointer",display:"flex",alignItems:"center",justifyContent:"center"}}>✕</button></div>):(
+<button onClick={function(){fileRef.current&&fileRef.current.click()}} style={{height:140,borderRadius:16,background:"#f7f5f2",border:"2px dashed "+T.border,cursor:"pointer",display:"flex",flexDirection:"column",alignItems:"center",justifyContent:"center",gap:8}}><span style={{fontSize:32}}>📷</span><span style={{fontFamily:T.fb,fontSize:14,fontWeight:600,color:T.fog}}>Tap to add a photo</span><span style={{fontFamily:T.fb,fontSize:12,color:T.dim}}>Gallery or camera</span></button>)}
+<textarea value={caption} onChange={function(e){setCaption(e.target.value)}} rows={3} placeholder="What did you see? What did it feel like?" style={{width:"100%",background:"#f7f5f2",border:"1px solid "+T.border,borderRadius:14,padding:"14px 16px",fontFamily:T.fb,fontSize:15,color:T.text,resize:"none",outline:"none",lineHeight:1.5}}/>
+<div><label style={{fontFamily:T.fb,fontSize:11,fontWeight:600,color:T.dim,textTransform:"uppercase",letterSpacing:"0.08em",marginBottom:6,display:"block"}}>Album</label><div style={{display:"flex",gap:6,flexWrap:"wrap"}}>{ALBUMS.filter(function(a){return a!=="All"}).map(function(a){return(<button key={a} onClick={function(){setAlbum(a)}} style={{padding:"5px 12px",borderRadius:999,fontSize:12,background:album===a?T.terra:"#f0f0f0",border:album===a?"none":"1px solid "+T.border,color:album===a?"white":T.fog,fontFamily:T.fb,cursor:"pointer"}}>{a}</button>)})}</div></div>
+<div style={{display:"flex",alignItems:"center",gap:10}}><span style={{fontSize:14}}>✍️</span><input value={sig} onChange={function(e){setSig(e.target.value)}} placeholder="Sign your photo (optional)" style={{flex:1,background:"#f7f5f2",border:"1px solid "+T.border,borderRadius:999,padding:"10px 16px",fontFamily:T.fb,fontSize:13,color:T.text,outline:"none",fontStyle:"italic"}}/></div>
+<button onClick={submit} disabled={!caption.trim()} style={{width:"100%",padding:"14px",borderRadius:14,background:caption.trim()?T.terra:"#d0d0d0",color:"white",fontSize:16,fontWeight:700,fontFamily:T.fb,border:"none",cursor:caption.trim()?"pointer":"default",boxShadow:caption.trim()?"0 4px 16px "+T.glow:"none"}}>📷 Post to The Wall</button>
+</div></div></div>)}
+
+function Post({post,onGen}){
+var lv=useState(false);var liked=lv[0];var setLiked=lv[1];
+var cv=useState(post.likes);var cnt=cv[0];var setCnt=cv[1];
+var sv=useState(false);var show=sv[0];var setShow=sv[1];
+var nv=useState("");var nc=nv[0];var setNc=nv[1];
+var cmv=useState(post.comments);var cms=cmv[0];var setCms=cmv[1];
+var shv=useState(false);var shared=shv[0];var setShared=shv[1];
+var hv=useState(false);var ha=hv[0];var setHa=hv[1];
+function like(){if(!liked){setLiked(true);setCnt(function(c){return c+1});setHa(true);setTimeout(function(){setHa(false)},600)}else{setLiked(false);setCnt(function(c){return c-1})}}
+function comment(){if(!nc.trim())return;setCms(function(c){return c.concat([{sig:"",text:nc.trim()}])});setNc("")}
+async function share(){try{await navigator.share({title:(post.sig||"Visitor")+" — "+CITY_NAME,text:post.caption})}catch(e){setShared(true);setTimeout(function(){setShared(false)},2000)}}
+return(<div style={{background:T.card,borderRadius:20,border:"1px solid "+T.border,overflow:"hidden"}}>
+<div style={{padding:"14px 16px 10px",display:"flex",alignItems:"center",gap:10}}><Avatar name={post.sig} size={38}/><div style={{flex:1}}><p style={{fontFamily:T.fb,fontSize:14,fontWeight:600,color:post.sig?T.text:T.dim}}>{post.sig||"Visitor"}{!post.sig&&<span style={{marginLeft:6,fontSize:11,color:T.dim,fontStyle:"italic"}}>unsigned</span>}</p><p style={{fontFamily:T.fb,fontSize:11,color:T.dim}}>{post.time}</p></div></div>
+<div style={{padding:"0 16px 10px"}}><p style={{fontFamily:T.fb,fontSize:14,color:T.fog,lineHeight:1.5}}>{post.caption}</p></div>
+<div style={{position:"relative",overflow:"hidden"}} onDoubleClick={like}>
+{post.img?<img src={post.img} alt="" style={{width:"100%",display:"block"}} loading="lazy" onError={function(e){e.target.parentElement.style.height="180px";e.target.parentElement.style.background="#f0f0f0";e.target.style.display="none"}}/>:<div style={{height:180,background:"#f0f0f0",display:"flex",alignItems:"center",justifyContent:"center"}}><span style={{fontSize:40,opacity:0.3}}>📷</span></div>}
+<button onClick={function(){onGen(post)}} style={{position:"absolute",bottom:12,right:12,display:"flex",alignItems:"center",gap:6,padding:"8px 14px",borderRadius:999,background:"rgba(255,255,255,0.92)",backdropFilter:"blur(8px)",border:"1px solid rgba(220,38,38,0.2)",color:T.terra,fontSize:12,fontWeight:600,fontFamily:T.fb,cursor:"pointer",boxShadow:"0 2px 10px rgba(0,0,0,0.08)"}}>🎬 Generate Video</button>
+{ha&&<div style={{position:"absolute",inset:0,display:"flex",alignItems:"center",justifyContent:"center",pointerEvents:"none"}}><span style={{fontSize:64,animation:"fadeUp 0.6s ease both"}}>❤️</span></div>}
+</div>
+<div style={{padding:"10px 16px",display:"flex",alignItems:"center",gap:4,borderTop:"1px solid "+T.border}}>
+<button onClick={like} style={{flex:1,display:"flex",alignItems:"center",justifyContent:"center",gap:6,padding:"8px",borderRadius:10,background:liked?"rgba(220,38,38,0.04)":"transparent",border:"none",cursor:"pointer"}}><span style={{fontSize:16}}>{liked?"❤️":"🤍"}</span><span style={{fontFamily:T.fb,fontSize:13,fontWeight:liked?600:400,color:liked?T.terra:T.fog}}>{cnt}</span></button>
+<button onClick={function(){setShow(!show)}} style={{flex:1,display:"flex",alignItems:"center",justifyContent:"center",gap:6,padding:"8px",borderRadius:10,border:"none",cursor:"pointer",background:"transparent"}}><span style={{fontSize:15}}>💬</span><span style={{fontFamily:T.fb,fontSize:13,color:T.fog}}>{cms.length}</span></button>
+<button onClick={share} style={{flex:1,display:"flex",alignItems:"center",justifyContent:"center",gap:6,padding:"8px",borderRadius:10,border:"none",cursor:"pointer",background:"transparent"}}><span style={{fontSize:15}}>{shared?"✅":"↗️"}</span><span style={{fontFamily:T.fb,fontSize:13,color:shared?T.terra:T.fog}}>{shared?"Shared!":"Share"}</span></button>
+</div>
+{show&&<div style={{borderTop:"1px solid "+T.border,padding:"12px 16px"}}>{cms.map(function(c,i){return(<div key={i} style={{display:"flex",gap:8,marginBottom:10}}><Avatar name={c.sig} size={28}/><div style={{flex:1,background:"#f7f5f2",borderRadius:12,padding:"8px 12px"}}><span style={{fontFamily:T.fb,fontSize:12,fontWeight:600,color:c.sig?T.text:T.dim}}>{c.sig||"Visitor"}</span><p style={{fontFamily:T.fb,fontSize:13,color:T.fog,marginTop:2}}>{c.text}</p></div></div>)})}<div style={{display:"flex",gap:8}}><input value={nc} onChange={function(e){setNc(e.target.value)}} onKeyDown={function(e){if(e.key==="Enter")comment()}} placeholder="Comment..." style={{flex:1,background:"#f7f5f2",border:"1px solid "+T.border,borderRadius:999,padding:"8px 14px",fontFamily:T.fb,fontSize:13,color:T.text,outline:"none"}}/>{nc.trim()&&<button onClick={comment} style={{background:T.terra,color:"white",border:"none",borderRadius:"50%",width:32,height:32,fontSize:13,cursor:"pointer",fontWeight:700}}>↑</button>}</div></div>}
+</div>)}
+
+function App(){
+var av=useState("All");var activeAlbum=av[0];var setActiveAlbum=av[1];
+var gv=useState(null);var genPost=gv[0];var setGenPost=gv[1];
+var sv=useState("recent");var sortBy=sv[0];var setSortBy=sv[1];
+var cv=useState(false);var composing=cv[0];var setComposing=cv[1];
+var pv=useState(INITIAL_POSTS);var posts=pv[0];var setPosts=pv[1];
+function handleNewPost(post){setPosts(function(p){return[post].concat(p)})}
+var filtered=activeAlbum==="All"?posts:posts.filter(function(p){return(p.album||"Photos")===activeAlbum});
+var sorted=sortBy==="popular"?filtered.slice().sort(function(a,b){return b.likes-a.likes}):filtered;
+return(<div style={{minHeight:"100vh",background:T.bg,fontFamily:T.fb}}>
+<div style={{position:"sticky",top:0,zIndex:50,background:"rgba(250,248,244,0.92)",backdropFilter:"blur(16px)",borderBottom:"1px solid "+T.border,padding:"0 16px"}}>
+<div style={{maxWidth:600,margin:"0 auto",padding:"12px 0"}}>
+<div style={{display:"flex",alignItems:"center",justifyContent:"space-between",marginBottom:12}}>
+<div style={{display:"flex",alignItems:"center",gap:8}}><a href={BACK_LINK} style={{display:"flex",alignItems:"center",gap:6,textDecoration:"none"}}><div style={{width:24,height:24,borderRadius:6,background:T.terra,display:"flex",alignItems:"center",justifyContent:"center",fontSize:10,fontWeight:800,color:"white"}}>LT</div></a><div><span style={{fontFamily:T.fd,fontSize:16,fontWeight:700,color:T.text}}>The <span style={{color:T.terra}}>Wall</span></span><p style={{fontFamily:T.fb,fontSize:11,color:T.dim}}>{CITY_NAME} · {posts.length} posts</p></div></div>
+<div style={{display:"flex",gap:4}}>{["recent","popular"].map(function(s){return(<button key={s} onClick={function(){setSortBy(s)}} style={{padding:"5px 12px",borderRadius:999,fontSize:12,fontWeight:sortBy===s?600:400,background:sortBy===s?"rgba(220,38,38,0.06)":"transparent",border:"1px solid "+(sortBy===s?"rgba(220,38,38,0.15)":T.border),color:sortBy===s?T.terra:T.fog,fontFamily:T.fb,cursor:"pointer",textTransform:"capitalize"}}>{s}</button>)})}</div>
+</div>
+<div style={{display:"flex",gap:6,overflowX:"auto",paddingBottom:4,WebkitOverflowScrolling:"touch"}}>{ALBUMS.map(function(a){var count=a==="All"?posts.length:posts.filter(function(p){return(p.album||"Photos")===a}).length;return(<button key={a} onClick={function(){setActiveAlbum(a)}} style={{padding:"6px 14px",borderRadius:999,fontSize:12,fontWeight:activeAlbum===a?700:400,background:activeAlbum===a?T.terra:"white",border:activeAlbum===a?"none":"1px solid "+T.border,color:activeAlbum===a?"white":T.fog,fontFamily:T.fb,cursor:"pointer",whiteSpace:"nowrap",flexShrink:0}}>{a}{count>0&&<span style={{opacity:0.6,marginLeft:3}}>{count}</span>}</button>)})}</div>
+</div></div>
+<div style={{maxWidth:600,margin:"0 auto",padding:"16px 16px 80px",display:"flex",flexDirection:"column",gap:16}}>
+<div style={{background:T.card,borderRadius:20,border:"1px solid "+T.border,padding:"16px"}}>
+<div style={{display:"flex",alignItems:"center",gap:12}}><Avatar name="" size={40}/>
+<button onClick={function(){setComposing(true)}} style={{flex:1,background:"#f7f5f2",borderRadius:999,padding:"12px 18px",border:"1px solid "+T.border,cursor:"pointer",textAlign:"left"}}><span style={{fontFamily:T.fb,fontSize:14,color:T.dim}}>Share your moment...</span></button>
+<button onClick={function(){setComposing(true)}} style={{padding:"10px 18px",borderRadius:999,background:T.terra,color:"white",border:"none",fontFamily:T.fb,fontSize:14,fontWeight:700,cursor:"pointer",whiteSpace:"nowrap",boxShadow:"0 2px 12px "+T.glow}}>📷 Post</button>
+</div></div>
+{sorted.map(function(post,i){return(<div key={post.id} style={{animation:"fadeUp 0.4s ease "+i*0.04+"s both"}}><Post post={post} onGen={setGenPost}/></div>)})}
+{sorted.length===0&&<div style={{textAlign:"center",padding:"60px 16px"}}><span style={{fontSize:40,display:"block",marginBottom:12}}>📷</span><p style={{fontFamily:T.fd,fontSize:20,color:T.text}}>No photos in this album yet</p><p style={{fontFamily:T.fb,fontSize:14,color:T.dim,marginTop:6}}>Be the first to share a moment</p></div>}
+</div>
+{genPost&&<GenVideoModal post={genPost} onClose={function(){setGenPost(null)}}/>}
+{composing&&<ComposeModal onPost={handleNewPost} onClose={function(){setComposing(false)}}/>}
+</div>)}
+ReactDOM.createRoot(document.getElementById("root")).render(React.createElement(App));
+</script>
+</body>
+</html>

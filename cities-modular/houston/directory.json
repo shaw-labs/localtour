@@ -1,0 +1,4036 @@
+[
+  {
+    "name": "Tatemó",
+    "address": "1830 Westheimer Rd, Houston, TX 77098",
+    "phone": "+1-832-430-6592",
+    "website": "https://www.tatemo.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Michelin-starred tasting menu built around heirloom nixtamalized corn. Chef Emmanuel Chavez turned a farmers market tortilla obsession into one of the best restaurants in Texas.",
+    "must_try": "$155 tasting menu — the tostadas and tamales change with the season but always hit.",
+    "hours": "Wed-Sat dinner only",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Agnes and Sherman",
+    "address": "250 W 19th St, Houston, TX 77008",
+    "phone": "+1-713-965-6088",
+    "website": "https://agnesandsherman.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Texas Monthly's Restaurant of the Year 2026. Asian American diner in the Heights where Chef Nick Wong does scallion-pancake waffles, French dip with Taiwanese beef broth, and a killer Rangoon dip.",
+    "must_try": "French dip sandwich with Taiwanese beef broth. Or the Rangoon with wonton chips.",
+    "hours": "Wed-Sun, lunch and dinner, brunch Sat-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Le Jardinier",
+    "address": "5500 Main St, Houston, TX 77004",
+    "phone": "+1-832-325-2524",
+    "website": "https://lejardinier-houston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Michelin-starred French restaurant inside the Museum of Fine Arts Kinder Building. Farm-fresh, sustainably sourced. The $45 Art Lover's Lunch is a sleeper hit.",
+    "must_try": "Seasonal tasting menu ($185) or Art Lover's Lunch ($45) for a steal.",
+    "hours": "Lunch & dinner Tue-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MARCH",
+    "address": "1624 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-936-5568",
+    "website": "https://marchhouston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Intimate Montrose Mediterranean tasting menu from Chef Felipe Riccio and Master Sommelier June Rodil. A love letter to Mediterranean borderlands.",
+    "must_try": "The tasting menu — let the kitchen and wine team take you through.",
+    "hours": "Wed-Sat dinner only",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Da Gama",
+    "address": "600 N Shepherd Dr #260, Houston, TX 77007",
+    "phone": "+1-346-559-3005",
+    "website": "https://dagamahouston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Portuguese-Indian fusion at M-K-T Heights. Named after Vasco da Gama. The Goan fish curry with Gulf shrimp and crab is the move.",
+    "must_try": "Goan fish curry, piri piri chicken with gunpowder spice.",
+    "hours": "Tue-Sun dinner, brunch weekends",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aga's Restaurant",
+    "address": "11842 Wilcrest Dr, Houston, TX 77031",
+    "phone": "+1-281-988-5646",
+    "website": "https://agasrestaurant.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Houston Chronicle's #1 restaurant. Indo-Pak powerhouse in southwest Houston. Goat chops, biryani, and karahi that packs the house every night.",
+    "must_try": "Goat chops and the lamb biryani. Go early or wait in line.",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Killen's BBQ",
+    "address": "3613 E Broadway St, Pearland, TX 77581",
+    "phone": "+1-281-485-2272",
+    "website": "https://killensbarbecue.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Pearland pitmaster Ronnie Killen's temple to Texas brisket. Worth the 30-minute drive south. Arrive early — when it sells out, it's done.",
+    "must_try": "Brisket. Just brisket. Maybe the beef rib on weekends.",
+    "hours": "Tue-Sun 11am until sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pinkerton's Barbecue",
+    "address": "1504 Airline Dr, Houston, TX 77009",
+    "phone": "+1-713-802-2000",
+    "website": "https://pinkertonsbarbecue.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heights-area BBQ with old-school Texas pits. Brisket, ribs, and a surprisingly great boudin link.",
+    "must_try": "Brisket and boudin. Sides are above average for BBQ joints.",
+    "hours": "Tue-Sun 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Feges BBQ",
+    "address": "8217 Long Point Rd, Houston, TX 77055",
+    "phone": "+1-832-380-4227",
+    "website": "https://fegesbbq.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Spring Branch BBQ joint with a vegetarian-friendly twist. Korean-braised greens, elote, and a kid's play area make this a family favorite.",
+    "must_try": "$15 pork steak special. The sweet and spicy sprouts are unexpectedly great.",
+    "hours": "Tue-Sat 11am-9pm, Sun 11am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cuchara",
+    "address": "214 Fairview St, Houston, TX 77006",
+    "phone": "+1-713-942-0000",
+    "website": "https://cuchararestaurant.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "15-year Montrose institution serving Mexico City-style cuisine. Mole negro, huitlacoche quesadillas, and proper margaritas on the patio.",
+    "must_try": "Turkey in mole negro. Sit on the patio when weather cooperates.",
+    "hours": "Tue-Sun lunch & dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zaranda",
+    "address": "Downtown Houston",
+    "phone": null,
+    "website": "https://zarandahouston.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "California-inspired Mexican from the Hugo Ortega empire. Named one of Texas Monthly's best new restaurants for 2026. Oysters with green ponzu and trout roe.",
+    "must_try": "Oysters with green ponzu and trout roe.",
+    "hours": "Dinner daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boo's Burgers",
+    "address": "Navigation Blvd, Houston, TX 77003",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Walk-up burger stand on Navigation from chef Joseph Boudreaux. Cheesy smashburgers on challah buns and a mushroom sandwich that converts carnivores.",
+    "must_try": "OG cheesy smashburger. The shroom sammie is the sleeper pick.",
+    "hours": "Wed-Sun 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Camaraderie",
+    "address": "Heights, Houston, TX",
+    "phone": null,
+    "website": "https://camaraderiehtx.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Family-style fine-casual French from Chef Shawn Gawle. Manchego cheese curls, tarte flambée, and salt-baked celery root you'll photograph before eating.",
+    "must_try": "Heirloom tomato pie and carrot cavatelli.",
+    "hours": "Dinner Tue-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yiayia's Greek Kitchen",
+    "address": "Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Pappas Restaurants' homage to the family's Greek roots. Wood-grilled lamb chops, classic souvlaki, and a baklava cheesecake that shouldn't work but absolutely does.",
+    "must_try": "Lamb chops with roasted beets and pistachio. Baklava cheesecake for dessert.",
+    "hours": "Daily lunch & dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Handies Douzo",
+    "address": "Multiple locations (Montrose, Heights, Spring Branch)",
+    "phone": null,
+    "website": "https://handiesdouzo.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Houston's crispiest hand rolls. Three locations. Fast, fresh, and the nori crunch is real.",
+    "must_try": "Spicy tuna hand roll. The salmon skin roll is underrated.",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aladdin Mediterranean Cuisine",
+    "address": "912 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-942-2321",
+    "website": "https://aladdincuisine.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Cafeteria-style Mediterranean in Montrose with a devoted following. Cheap, filling, and the falafel is legit.",
+    "must_try": "Combo plate with falafel, hummus, and rice.",
+    "hours": "Daily 10am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Latuli",
+    "address": "Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Chef Bryan Caswell's latest. The heirloom tomato salad with tempura onion rings and Russian dressing is the dish everyone talks about.",
+    "must_try": "Heirloom tomato and burrata salad with tempura onion rings.",
+    "hours": "Dinner Tue-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Late August",
+    "address": "Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "$95 tasting menu from Chef Sergio Hidalgo. Heirloom corn tortillas, plantain-stuffed squash blossom tacos — the detail on every plate is extraordinary.",
+    "must_try": "Fried squash blossom taco on nixtamalized heirloom corn tortilla.",
+    "hours": "Dinner Wed-Sat",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Long Weekend",
+    "address": "Houston Heights area",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Family-friendly mega-restaurant near the Heights with Houston's largest outdoor play area, fire pits, a creek, and a full breakfast-through-dinner menu.",
+    "must_try": "Breakfast tacos from the café. Let the kids loose in Creative Canyon.",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Breakfast Klub",
+    "address": "3711 Travis St, Houston, TX 77002",
+    "phone": "+1-713-528-8561",
+    "website": "https://thebreakfastklub.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Houston institution for wings and waffles. The line wraps around the building on weekends and nobody minds.",
+    "must_try": "Wings and waffles. That's the move. Period.",
+    "hours": "Mon-Fri 7am-2pm, Sat-Sun 8am-2pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pappas Bros. Steakhouse",
+    "address": "5839 Westheimer Rd, Houston, TX 77057",
+    "phone": "+1-713-780-7352",
+    "website": "https://pappasbros.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Classic Texas steakhouse. Big steaks, big wine list, big check. The porterhouse is worth every cent.",
+    "must_try": "Bone-in ribeye or porterhouse for two.",
+    "hours": "Dinner nightly",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pappadeaux Seafood Kitchen",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://pappadeaux.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Gulf Coast seafood chain born in Houston. Crawfish étouffée, blackened catfish, and Cajun-spiced everything. Tourist-friendly but locals go too.",
+    "must_try": "Crawfish étouffée or the fried seafood platter.",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hugo's",
+    "address": "1600 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-524-7744",
+    "website": "https://hugosrestaurant.net",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Chef Hugo Ortega's flagship regional Mexican in Montrose. Oaxacan mole, cochinita pibil, and a legendary Sunday brunch.",
+    "must_try": "Sunday brunch buffet. The cochinita pibil is textbook.",
+    "hours": "Lunch & dinner daily, brunch Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ninfa's on Navigation",
+    "address": "2704 Navigation Blvd, Houston, TX 77003",
+    "phone": "+1-713-228-1175",
+    "website": "https://ninfas.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The original home of the fajita. East End Tex-Mex legend since 1973. The tacos al carbon are non-negotiable.",
+    "must_try": "Tacos al carbon — the dish that launched a thousand imitators.",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saint Arnold Brewing Company",
+    "address": "2000 Lyons Ave, Houston, TX 77020",
+    "phone": "+1-713-686-9494",
+    "website": "https://saintarnold.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Texas' oldest craft brewery. Massive beer garden with downtown skyline views, art cars on display, and murals by Gonzo247. The Fancy Lawnmower is Houston in a glass.",
+    "must_try": "Fancy Lawnmower kölsch. Christmas Ale if you're here in winter.",
+    "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Karbach Brewing Co.",
+    "address": "2032 Karbach St, Houston, TX 77092",
+    "phone": "+1-713-680-2739",
+    "website": "https://karbachbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Major Houston brewery with biergarten, restaurant, and Pizza & Pints. Weekend live music and festivals. Hopadillo IPA is the gateway beer.",
+    "must_try": "Hopadillo IPA and the Korean Fried Chicken ($18).",
+    "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urban South - HTX",
+    "address": "1201 Oliver St, Houston, TX 77007",
+    "phone": "+1-713-750-9670",
+    "website": "https://urbansouthbrewery.com/htx",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "New Orleans-born brewery's Houston outpost. Known for experimental fruit sours and a chill taproom vibe.",
+    "must_try": "Whatever fruit sour is on the rotating tap.",
+    "hours": "Thu-Sun 12pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eureka Heights Brew Co.",
+    "address": "941 W 18th St, Houston, TX 77008",
+    "phone": "+1-832-330-0824",
+    "website": "https://eurekaheights.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Heights neighborhood brewery with picnic tables, a no-frills vibe, and solid core beers. Watch parties and trivia nights.",
+    "must_try": "Mini Boss Session IPA.",
+    "hours": "Thu-Fri 4pm-9pm, Sat 12pm-9pm, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Holler Brewing Co.",
+    "address": "2206 Edwards St, Houston, TX 77007",
+    "phone": "+1-713-955-9805",
+    "website": "https://hollerbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Small-batch brewery near Washington Ave with award-winning ESB and a laid-back taproom. Dog-friendly patio.",
+    "must_try": "Holler ESB — one of the best in Texas.",
+    "hours": "Wed-Fri 4pm-10pm, Sat 12pm-10pm, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Axelrad",
+    "address": "1517 Alabama St, Houston, TX 77004",
+    "phone": "+1-832-706-0658",
+    "website": "https://axelradhouston.com",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Midtown outdoor beer garden with hammocks, string lights, and rotating pizza trucks. The vibe is pure Houston — relaxed, diverse, and always a good time.",
+    "must_try": "Grab a craft beer and a hammock. That's it.",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Heights Bier Garten",
+    "address": "1433 N Shepherd Dr, Houston, TX 77008",
+    "phone": "+1-713-861-4220",
+    "website": "https://heightsbiergarten.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "German-inspired beer garden on North Shepherd. Big patio, big beer list, giant pretzels, and a fun family-friendly Sunday crowd.",
+    "must_try": "Giant soft pretzel with beer cheese.",
+    "hours": "Daily 11am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Social Beer Garden HTX",
+    "address": "3101 San Jacinto St, Houston, TX 77004",
+    "phone": "+1-713-714-1125",
+    "website": "https://socialbeergardenhtx.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Houston Press Best Bar and Houston Chronicle Best Bar and Best Happy Hour 2025. Midtown beer garden with the biggest outdoor TV, rotating food trucks, and packed trivia nights.",
+    "must_try": "Whatever the seasonal cocktail is. Happy hour deals are legit.",
+    "hours": "Mon-Thu 4pm-12am, Fri-Sun 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Augustine Lounge",
+    "address": "Hotel Saint Augustine, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Inside the Michelin Key hotel. The Coyote Call (mezcal, port, Blackstrap rum, raspberry) is the standout. Elevated but unfussy.",
+    "must_try": "Coyote Call cocktail.",
+    "hours": "Daily 5pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Starduster Lounge",
+    "address": "3921 N Main St, Houston, TX 77009",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heights neighborhood bar with cosmic West Texas vibes in a 100-year-old building. Steak night Thursdays. Half-off cocktails at happy hour.",
+    "must_try": "Pecan or Pecan? cocktail (rye, bourbon, Licor 43).",
+    "hours": "Mon-Fri 4pm-2am, Sat-Sun 2pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Johnny's Gold Brick",
+    "address": "2518 Yale St, Houston, TX 77008",
+    "phone": "+1-713-864-2518",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heights cocktail bar that feels like a speakeasy but without the pretension. Strong drinks, dark lighting, good jukebox.",
+    "must_try": "Old Fashioned done right.",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "White Oak Music Hall",
+    "address": "2915 N Main St, Houston, TX 77009",
+    "phone": "+1-713-237-0370",
+    "website": "https://whiteoakmusichall.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Indoor/outdoor live music venue in the Heights with upstairs, downstairs, and lawn stages. National touring acts and local bands.",
+    "must_try": "Check calendar for shows. The outdoor lawn shows in spring/fall are magic.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "House of Blues Houston",
+    "address": "1204 Caroline St, Houston, TX 77002",
+    "phone": "+1-713-652-4937",
+    "website": "https://houseofblues.com/houston",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Downtown live music institution. National touring acts, gospel brunch on Sundays, and the Bronze Peacock Room for more intimate shows.",
+    "must_try": "Sunday Gospel Brunch — music, food, and soul.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "713 Music Hall",
+    "address": "401 Franklin St, Houston, TX 77002",
+    "phone": null,
+    "website": "https://713musichall.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Downtown POST Houston venue. 5,000 capacity with great sightlines and sound. Major touring acts.",
+    "must_try": "Check the calendar — this is Houston's best mid-size venue.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jane and the Lion Bakehouse",
+    "address": "Heights, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Baker Jane Wild's first solo brick-and-mortar in the Heights. Pastries, breads, and baked goods from a chef with a serious following.",
+    "must_try": "Whatever's fresh that morning. The croissants sell out.",
+    "hours": "Wed-Sun 7am-2pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Catalina Coffee",
+    "address": "2201 Washington Ave, Houston, TX 77007",
+    "phone": "+1-713-303-3429",
+    "website": "https://catalinacoffeeshop.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Washington Ave coffee institution. Great espresso, solid pastries, and a shaded patio that fills with laptop workers and dog walkers.",
+    "must_try": "Cortado and a kolache.",
+    "hours": "Daily 6:30am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Boomtown Coffee",
+    "address": "242 W 19th St, Houston, TX 77008",
+    "phone": "+1-713-862-6386",
+    "website": "https://boomtowncoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Heights roaster-cafe with in-house roasted beans and a neighborhood vibe. Consistently one of the best cups in Houston.",
+    "must_try": "Pour-over with seasonal single origin.",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Space Center Houston",
+    "address": "1601 E NASA Pkwy, Houston, TX 77058",
+    "phone": "+1-281-244-2100",
+    "website": "https://spacecenter.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Official visitor center of NASA's Johnson Space Center. Touch a moon rock, tour mission control, see astronaut training facilities. Houston's #1 attraction.",
+    "must_try": "Level 9 Tour for behind-the-scenes NASA access ($199.95, advance booking required).",
+    "hours": "Daily 10am-5pm (extended summer hours)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Houston Museum of Natural Science",
+    "address": "5555 Hermann Park Dr, Houston, TX 77030",
+    "phone": "+1-713-639-4629",
+    "website": "https://hmns.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Five floors of exhibits, the Burke Baker Planetarium, and the Cockrell Butterfly Center. From dinosaurs to Egyptian artifacts. Free on Thursdays after 2pm.",
+    "must_try": "Cockrell Butterfly Center — walk through a three-story glass rainforest full of butterflies.",
+    "hours": "Daily 9am-5pm (Thu until 9pm)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Museum of Fine Arts, Houston",
+    "address": "1001 Bissonnet St, Houston, TX 77005",
+    "phone": "+1-713-639-7300",
+    "website": "https://mfah.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Largest art museum in the Southwest. Nearly 70,000 works spanning antiquity to contemporary. The Kinder Building is architecturally stunning.",
+    "must_try": "Visit the Kinder Building, then walk across to Le Jardinier for lunch.",
+    "hours": "Wed-Sun 10am-5pm (Thu until 9pm)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Menil Collection",
+    "address": "1533 Sul Ross St, Houston, TX 77006",
+    "phone": "+1-713-525-9400",
+    "website": "https://menil.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "World-class art collection housed in a Renzo Piano building. Surrealism, African art, antiquities — all free, always. The Rothko Chapel is across the street.",
+    "must_try": "The Menil + Rothko Chapel + Cy Twombly Gallery — all free, all walkable.",
+    "hours": "Wed-Sun 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rothko Chapel",
+    "address": "3900 Yupon St, Houston, TX 77006",
+    "phone": "+1-713-524-9839",
+    "website": "https://rothkochapel.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Non-denominational chapel housing 14 Mark Rothko canvases. A contemplative space unlike anything else in Texas. Barnett Newman's Broken Obelisk sculpture stands outside.",
+    "must_try": "Sit in silence for 15 minutes. Just be present.",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Houston Zoo",
+    "address": "6200 Hermann Park Dr, Houston, TX 77030",
+    "phone": "+1-713-533-6500",
+    "website": "https://houstonzoo.org",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "55-acre zoo in Hermann Park with 6,000+ animals. Asian elephants, Masai giraffes, sea lions. Zoo Lights in winter is a Houston holiday tradition.",
+    "must_try": "Zoo Lights (Nov-Jan) — 2 million lights, animal lanterns, hot cocoa.",
+    "hours": "Daily 9am-5pm (extended event hours seasonally)",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Children's Museum Houston",
+    "address": "1500 Binz St, Houston, TX 77004",
+    "phone": "+1-713-522-1138",
+    "website": "https://cmhouston.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "One of the top children's museums in the US. Interactive STEM exhibits, a LEGO zone, and a water table that keeps kids busy for hours.",
+    "must_try": "Free Thursday evenings 5-8pm.",
+    "hours": "Tue-Sat 10am-6pm, Sun 12pm-6pm, Thu until 8pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Downtown Aquarium",
+    "address": "410 Bagby St, Houston, TX 77002",
+    "phone": "+1-713-223-3474",
+    "website": "https://aquariumrestaurants.com/downtownaquariumhouston",
+    "category": "attractions",
+    "subcategory": "amusement",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Part aquarium, part amusement park, part restaurant. 300+ species, carnival rides, Shark Tunnel train, and stingray feeding. More fun than fancy.",
+    "must_try": "Shark Tunnel train ride with the kids. Dine surrounded by fish tanks.",
+    "hours": "Sun-Thu 10am-9pm, Fri-Sat 10am-11pm",
+    "seasonal": null,
+    "modes": [
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hermann Park",
+    "address": "6001 Fannin St, Houston, TX 77030",
+    "phone": "+1-713-524-5876",
+    "website": "https://hermannpark.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "445-acre urban oasis. Japanese garden, miniature train, golf course, Miller Outdoor Theatre, and the gateway to the zoo and Museum District.",
+    "must_try": "Ride the Hermann Park Railroad ($3.75). Walk the Japanese Garden.",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buffalo Bayou Park",
+    "address": "1800 Allen Pkwy, Houston, TX 77019",
+    "phone": "+1-713-752-0314",
+    "website": "https://buffalobayou.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "160-acre linear park along the bayou. Walking/biking trails, kayak/bike rentals, dog park, public art, and the Barbara Fish Daniel Nature Play Area for kids.",
+    "must_try": "Rent a kayak or stand-up paddleboard and paddle through downtown. Sunset runs along the trail.",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Discovery Green",
+    "address": "1500 McKinney St, Houston, TX 77010",
+    "phone": "+1-713-400-7336",
+    "website": "https://discoverygreen.com",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "12-acre downtown park with free concerts, yoga, ice skating in winter, and a rotating lineup of events. The living room of downtown Houston.",
+    "must_try": "Free evening concerts in spring/fall. Ice skating in winter.",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gerald D. Hines Waterwall Park",
+    "address": "2800 Post Oak Blvd, Houston, TX 77056",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "64-foot semicircular water wall near the Galleria. Surprisingly dramatic. Instagram-famous but still worth the stop.",
+    "must_try": "Stand underneath and feel the mist. Great photo op.",
+    "hours": "Daily 8am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Memorial Park",
+    "address": "6501 Memorial Dr, Houston, TX 77007",
+    "phone": "+1-713-863-8403",
+    "website": "https://memorialparkconservancy.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "1,500-acre urban park with running trails, a golf course, tennis center, and mountain bike trails. The 3-mile loop is Houston's most popular run.",
+    "must_try": "Morning run on the 3-mile loop, then coffee at nearby Onion Creek.",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sam Houston Park",
+    "address": "1000 Bagby St, Houston, TX 77002",
+    "phone": "+1-713-655-1912",
+    "website": "https://heritagesociety.org",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "Houston's oldest park with 9 historic buildings. Victorian wonderland with rustic bridges, streams, and walking trails. Heritage Society tours available.",
+    "must_try": "Guided tour of the historic buildings ($10).",
+    "hours": "Daily dawn-dusk",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Galleria",
+    "address": "5085 Westheimer Rd, Houston, TX 77056",
+    "phone": "+1-713-622-0663",
+    "website": "https://galleriahouston.com",
+    "category": "shopping",
+    "subcategory": "malls",
+    "price": "$-$$$$",
+    "rating": "4.4",
+    "description": "Texas' largest shopping center and 4th largest in the US. 400+ stores, ice skating rink, two hotels, and every luxury brand you can name.",
+    "must_try": "Ice skate in the middle of a Texas summer. The irony is the fun.",
+    "hours": "Mon-Sat 10am-9pm, Sun 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rice Village",
+    "address": "Rice Village, Houston, TX 77005",
+    "phone": null,
+    "website": "https://ricevillagehouston.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Walkable outdoor shopping district near Rice University. Boutiques, restaurants, and a collegiate vibe. Good for an afternoon of browsing.",
+    "must_try": "Browse, then grab coffee and people-watch.",
+    "hours": "Varies by store, generally 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Heights Mercantile",
+    "address": "714 Yale St, Houston, TX 77007",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Open-air shopping center in the Heights with local boutiques, a bookstore, cycling shop, and restaurants. The vibe is curated but not stuffy.",
+    "must_try": "Wander, then grab a drink at nearby Heights Bier Garten.",
+    "hours": "Daily 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Trellis Spa",
+    "address": "5 The Houstonian, 111 N Post Oak Ln, Houston, TX 77024",
+    "phone": "+1-713-685-6790",
+    "website": "https://trellisspa.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Best spa in Houston, full stop. Outdoor water facilities, full-service treatments, and you can eat at the spa café in your robe.",
+    "must_try": "Full day pass — outdoor pools, then lunch in your robe.",
+    "hours": "Daily 6am-8pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Saint Augustine",
+    "address": "Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Michelin Key hotel. Esquire and Travel + Leisure best new hotel of 2025. Augustine Lounge bar is worth a visit even if you're not staying.",
+    "must_try": "Even if you don't stay here, drink at Augustine Lounge.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Granduca Houston",
+    "address": "1080 Uptown Park Blvd, Houston, TX 77056",
+    "phone": "+1-713-418-1000",
+    "website": "https://granducahouston.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Italian-style luxury boutique near the Galleria. Quiet, elegant, and Ristorante Cavour serves one of the best hotel breakfasts in the city.",
+    "must_try": "Breakfast at Ristorante Cavour.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Houstonian Hotel, Club & Spa",
+    "address": "111 N Post Oak Ln, Houston, TX 77024",
+    "phone": "+1-713-680-2626",
+    "website": "https://houstonian.com",
+    "category": "lodging",
+    "subcategory": "resorts",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "18-acre wooded resort inside the city. Home to Trellis Spa. Feels like a Hill Country retreat but you're 10 minutes from the Galleria.",
+    "must_try": "Trellis Spa day + dinner at their restaurant.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "POST Houston",
+    "address": "401 Franklin St, Houston, TX 77201",
+    "phone": "+1-713-261-0100",
+    "website": "https://posthouston.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Former post office turned mixed-use destination with 713 Music Hall, international food hall, rooftop farm, and co-working space. Houston's adaptive reuse showpiece.",
+    "must_try": "Food hall for lunch, then catch a show at 713 Music Hall.",
+    "hours": "Daily 7am-10pm (varies by venue)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "H-E-B",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://heb.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Texas' beloved grocery chain. Better prepared food than most restaurants. Stock your Airbnb here.",
+    "must_try": "Bakery tortillas, store-brand chips and queso, Texas BBQ section.",
+    "hours": "Daily 6am-11pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Daikin Park (Minute Maid Park)",
+    "address": "501 Crawford St, Houston, TX 77002",
+    "phone": "+1-713-259-8000",
+    "website": "https://mlb.com/astros/ballpark",
+    "category": "entertainment",
+    "subcategory": "sports",
+    "price": "$$-$$$$",
+    "rating": "4.6",
+    "description": "Home of the Houston Astros. Retractable roof, a train that chugs after home runs, and one of the best ballpark food scenes in MLB.",
+    "must_try": "Catch a game. Grab Killen's BBQ inside the park.",
+    "hours": "Game days",
+    "seasonal": "MLB season Apr-Oct",
+    "modes": [
+      "nightlife",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "NRG Stadium",
+    "address": "NRG Pkwy, Houston, TX 77054",
+    "phone": "+1-832-667-1400",
+    "website": "https://nrgpark.com",
+    "category": "entertainment",
+    "subcategory": "sports",
+    "price": "$$-$$$$",
+    "rating": "4.3",
+    "description": "Home of the Houston Texans and the Houston Livestock Show and Rodeo. Also hosts major concerts and events.",
+    "must_try": "Rodeo season (Feb-Mar) is an absolute must if you're in town.",
+    "hours": "Event days",
+    "seasonal": "NFL Sep-Jan, Rodeo Feb-Mar",
+    "modes": [
+      "nightlife",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Toyota Center",
+    "address": "1510 Polk St, Houston, TX 77002",
+    "phone": "+1-713-758-7200",
+    "website": "https://toyotacenter.com",
+    "category": "entertainment",
+    "subcategory": "sports",
+    "price": "$$-$$$$",
+    "rating": "4.3",
+    "description": "Home of the Houston Rockets and major concert venue downtown.",
+    "must_try": "Rockets game or catch a major touring artist.",
+    "hours": "Event days",
+    "seasonal": "NBA Oct-Apr",
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Miller Outdoor Theatre",
+    "address": "6000 Hermann Park Dr, Houston, TX 77030",
+    "phone": "+1-832-487-7102",
+    "website": "https://milleroutdoortheatre.com",
+    "category": "entertainment",
+    "subcategory": "performing_arts",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Free outdoor performances March through November in Hermann Park. Shakespeare, symphony, ballet, jazz, world music — all free.",
+    "must_try": "Bring a blanket and a picnic. Any show. They're all free.",
+    "hours": "Show schedule varies, Mar-Nov",
+    "seasonal": "Mar-Nov",
+    "modes": [
+      "culture",
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Alley Theatre",
+    "address": "615 Texas Ave, Houston, TX 77002",
+    "phone": "+1-713-220-5700",
+    "website": "https://alleytheatre.org",
+    "category": "entertainment",
+    "subcategory": "performing_arts",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Tony Award-winning regional theater in the Theater District. One of the country's leading resident theater companies.",
+    "must_try": "Check the season schedule — they consistently produce excellent work.",
+    "hours": "Performance schedule",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Musaafer",
+    "address": "5115 Westheimer Rd Suite C-3500, Houston, TX 77056",
+    "phone": "+1-713-242-8087",
+    "website": "https://www.musaaferhouston.com",
+    "category": "dining",
+    "subcategory": "indian_pakistani",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Opulent, Michelin-recognized Indian dining in the Galleria with intricate multi-regional cuisine and stunning interiors.",
+    "must_try": "Butter Chicken and the elaborate dessert presentations.",
+    "hours": "Mon-Sun 12PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Truth BBQ",
+    "address": "110 S Heights Blvd, Houston, TX 77007",
+    "phone": "+1-832-835-0001",
+    "website": "https://truthbbq.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "One of the state's elite BBQ joints. The lines wrap around the building but the immaculately rendered brisket makes the wait irrelevant.",
+    "must_try": "Brisket and corn pudding.",
+    "hours": "Tue-Sun 11AM-Sold Out",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Squable",
+    "address": "632 W 19th St, Houston, TX 77008",
+    "phone": "+1-832-834-7362",
+    "website": "https://squabletime.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "European fare with American execution. Heights neighborhood spot with an industry-favorite happy hour and incredible baked goods.",
+    "must_try": "French cheeseburger and freezer martinis.",
+    "hours": "Tue-Sun 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nancy's Hustle",
+    "address": "2704 Polk St A, Houston, TX 77003",
+    "phone": "+1-346-571-7931",
+    "website": "https://nancyshustle.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "EaDo powerhouse blending natural wine culture with an unabashedly rich, inventive menu that defined modern Houston dining.",
+    "must_try": "Nancy Cakes with whipped butter and roe.",
+    "hours": "Tue-Sun 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crawfish & Noodles",
+    "address": "11360 Bellaire Blvd, Houston, TX 77072",
+    "phone": "+1-281-988-8098",
+    "website": "https://crawfishandnoodles.com",
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The quintessential Houston Viet-Cajun experience. Garlic-butter drenched crawfish that perfectly encapsulate the city's fusion culture.",
+    "must_try": "Viet-Cajun Crawfish — spicy, garlicky, dripping in butter.",
+    "hours": "Wed-Mon 3PM-10PM",
+    "seasonal": "Crawfish best Jan-June",
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Himalaya",
+    "address": "6652 Southwest Fwy, Houston, TX 77074",
+    "phone": "+1-713-532-2837",
+    "website": "https://himalayarestauranthouston.com",
+    "category": "dining",
+    "subcategory": "indian_pakistani",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Anthony Bourdain-approved institution serving incredibly bold, unapologetically spicy Indian and Pakistani fusion dishes.",
+    "must_try": "Hunter's Beef Plate and Garlic Naan.",
+    "hours": "Tue-Sun 11:30AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little's Oyster Bar",
+    "address": "3001 S Shepherd Dr, Houston, TX 77098",
+    "phone": "+1-713-522-4595",
+    "website": "https://littlesoysterbar.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Brilliantly executed modern seafood with a spectacular raw bar and elevated Gulf Coast classics.",
+    "must_try": "Oysters on the half shell and caviar service.",
+    "hours": "Wed-Sun 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Casaema",
+    "address": "5307 N Main St Suite 100, Houston, TX 77009",
+    "phone": null,
+    "website": "https://casaema.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Michelin Bib Gourmand destination inspired by Mexico City. Breakfast and lunch service in the Heights that's drawn national attention.",
+    "must_try": "Chilaquiles and fresh pastries.",
+    "hours": "Mon-Sun 8AM-3PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pho Binh",
+    "address": "10928 Beamer Rd, Houston, TX 77089",
+    "phone": "+1-281-484-3963",
+    "website": "https://phobinh.com",
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Award-winning pho institution in South Houston. The broth is the reason you drove 30 minutes and you won't regret it.",
+    "must_try": "Special combo pho — the broth has been perfected over decades.",
+    "hours": "Daily 8AM-8PM",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Credence",
+    "address": "9757 Katy Fwy #170, Houston, TX 77024",
+    "phone": null,
+    "website": "https://credencehtx.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Highly refined, Texas-rooted dining in Memorial that honors local culinary traditions with precision execution.",
+    "must_try": "Wood-fired steaks and seasonal seafood towers.",
+    "hours": "Tue-Sun 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Anvil Bar & Refuge",
+    "address": "1424 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-523-1622",
+    "website": "https://www.anvilhouston.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "The architect of Houston's craft cocktail movement. Nationally ranked, offering a flawless menu of 100 classics.",
+    "must_try": "Anything from the 100 List.",
+    "hours": "Mon-Sun 4PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Julep",
+    "address": "1919 Washington Ave, Houston, TX 77007",
+    "phone": "+1-832-371-7715",
+    "website": "https://julephouston.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "James Beard Award-winning Southern cocktail bar. Refined atmosphere and perfect mint juleps.",
+    "must_try": "The classic Mint Julep.",
+    "hours": "Mon-Sun 4PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lola's Depot",
+    "address": "2327 Grant St, Houston, TX 77006",
+    "phone": "+1-713-528-2825",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The definitive Houston dive bar. Dark, covered in stickers, aggressively cheap drinks. Play basketball out back, eat tacos from the truck next door.",
+    "must_try": "Cold local beer in a koozie.",
+    "hours": "Mon-Sun 10AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "8th Wonder Brewery",
+    "address": "2202 Dallas St, Houston, TX 77003",
+    "phone": "+1-713-229-0868",
+    "website": "https://8thwonder.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Massive EaDo institution deeply rooted in Houston sports nostalgia. Now offering THC seltzers alongside solid core beers.",
+    "must_try": "Dome Foam cream ale or Wonder Water THC seltzer.",
+    "hours": "Mon-Sun 12PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bad Astronaut Brewing Co.",
+    "address": "1519 Fulton St, Houston, TX 77009",
+    "phone": "+1-346-980-8829",
+    "website": "https://badastronautbeer.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "36,000 sq ft space-themed adult playground in Northside with air hockey, lagers, and hardcore punk shows.",
+    "must_try": "Fake Landing Hazy IPA.",
+    "hours": "Wed-Sun 3PM-12AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "West Alabama Ice House",
+    "address": "1919 W Alabama St, Houston, TX 77098",
+    "phone": "+1-713-528-6874",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Open-air Houston institution. Cheap beer, outdoor basketball court, and the most democratic patio in Montrose.",
+    "must_try": "Lone Star tallboy and a taco from whatever truck is parked outside.",
+    "hours": "Daily 11AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cidercade Houston",
+    "address": "2320 Canal St Suite 100, Houston, TX 77003",
+    "phone": "+1-346-241-7524",
+    "website": "https://cidercade.com/houston",
+    "category": "entertainment",
+    "subcategory": "arcades",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Pay a flat cover for unlimited free play on hundreds of retro arcade cabinets while drinking house-made hard ciders.",
+    "must_try": "Artisan thin-crust pizza while gaming.",
+    "hours": "Mon-Sun 10AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buc-ee's (Katy)",
+    "address": "27700 Katy Fwy, Katy, TX 77494",
+    "phone": "+1-979-238-6390",
+    "website": "https://buc-ees.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.8",
+    "description": "Nearest massive Buc-ee's to the city center. A Texas cultural phenomenon — beaver nuggets, brisket sandwiches, and pristine bathrooms.",
+    "must_try": "Brisket sandwich and Beaver Nuggets.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gatlin's BBQ",
+    "address": "3510 Ella Blvd, Houston, TX 77018",
+    "phone": "+1-713-869-4227",
+    "website": "https://gatlinsbbq.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Heights-area family operation. Brisket and ribs are elite but the sides — especially the dirty rice — are what keep people coming back.",
+    "must_try": "Brisket and dirty rice.",
+    "hours": "Tue-Sat 11AM-sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Goode Company BBQ",
+    "address": "5109 Kirby Dr, Houston, TX 77098",
+    "phone": "+1-713-522-2530",
+    "website": "https://goodecompany.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Houston institution since 1977. Czech-style sausage and mesquite-smoked brisket in a barn-like setting. Tourist-friendly but locals still go.",
+    "must_try": "Czech sausage and jalapeño pinto beans.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blood Bros. BBQ",
+    "address": "5425 Bellaire Blvd, Houston, TX 77401",
+    "phone": "+1-713-664-7776",
+    "website": "https://bloodbrosbbq.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Asian-Texan BBQ fusion in Bellaire. Vietnamese-Cajun boudin, smoked turkey banh mi, and brisket fried rice push boundaries while honoring both traditions.",
+    "must_try": "Brisket fried rice and smoked turkey banh mi.",
+    "hours": "Wed-Sun 11AM-sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Pit Room",
+    "address": "1201 Richmond Ave, Houston, TX 77006",
+    "phone": "+1-281-888-1929",
+    "website": "https://thepitroombbq.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Montrose BBQ joint with a massive covered patio. Pulled pork and beef ribs are the stars. Great happy hour too.",
+    "must_try": "Beef ribs (weekends only) and pulled pork sandwich.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Tiempo Cantina",
+    "address": "2814 Navigation Blvd, Houston, TX 77003",
+    "phone": "+1-713-222-3800",
+    "website": "https://eltiempocantina.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Laurenzo family Tex-Mex dynasty. Multiple locations but Navigation is the original. Sizzling fajitas arrive and the whole restaurant smells incredible.",
+    "must_try": "Beef fajitas — the sizzle is half the experience.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Teotihuacan Mexican Cafe",
+    "address": "1511 Airline Dr, Houston, TX 77009",
+    "phone": "+1-713-426-4420",
+    "website": "https://teotihuacanmexicancafe.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "No-frills Heights-area Mexican with massive portions and breakfast plates that feed two. The green salsa is liquid gold.",
+    "must_try": "Chilaquiles or huevos rancheros. Green salsa on everything.",
+    "hours": "Daily 7AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Coltivare",
+    "address": "3320 White Oak Dr, Houston, TX 77007",
+    "phone": "+1-713-637-4095",
+    "website": "https://coltivarehouston.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Garden-to-table Italian in the Heights with a working garden you can see from the patio. Wood-fired pizzas and handmade pasta.",
+    "must_try": "Any seasonal wood-fired pizza. The garden salad is legitimately incredible.",
+    "hours": "Tue-Sun 5PM-10PM, brunch Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sylvia's Enchilada Kitchen",
+    "address": "6401 Woodway Dr, Houston, TX 77057",
+    "phone": "+1-713-334-7295",
+    "website": "https://sylviasenchilada.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Sylvia Casares is the Enchilada Queen of Texas. Regional Mexican enchiladas from every corner of Mexico. This is the real thing.",
+    "must_try": "Enchilada sampler — try all the regional styles.",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Uchi Houston",
+    "address": "904 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-522-4808",
+    "website": "https://uchirestaurants.com/houston",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Austin import that's become a Montrose staple. Japanese farmhouse-inspired with creative omakase and incredible hot/cold tastings.",
+    "must_try": "Maguro & Goat Cheese or any omakase option.",
+    "hours": "Sun-Thu 5PM-10PM, Fri-Sat 5PM-11PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kata Robata",
+    "address": "3600 Kirby Dr, Houston, TX 77098",
+    "phone": "+1-713-526-8858",
+    "website": "https://katarobata.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Four-time James Beard nominee Chef Hori's sushi temple. Fish flown from Japan multiple times weekly. The omakase is unforgettable.",
+    "must_try": "Omakase tasting or the $28 chirashi bowl at lunch.",
+    "hours": "Mon-Sat 11:30AM-10:30PM, Sun 12PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pepper Twins",
+    "address": "2005 W Gray St, Houston, TX 77019",
+    "phone": "+1-713-521-3288",
+    "website": "https://peppertwins.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Fiery Sichuan in River Oaks. The spice levels are real. Cumin lamb and mapo tofu that'll make you sweat and order more.",
+    "must_try": "Cumin lamb and dry-fried chicken.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mala Sichuan Bistro",
+    "address": "9348 Bellaire Blvd, Houston, TX 77036",
+    "phone": "+1-713-995-1889",
+    "website": "https://malasichuanbistro.com",
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Asiatown Sichuan heavyweight. The dan dan noodles and boiled fish in chili oil are the gold standard in Houston.",
+    "must_try": "Dan dan noodles and boiled fish in chili oil.",
+    "hours": "Daily 11AM-9:30PM",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tiger Den",
+    "address": "5339 Alpha Rd Suite 90, Houston, TX 77081",
+    "phone": "+1-281-501-8813",
+    "website": "https://thetigerden.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Houston's best ramen. Rich tonkotsu broth and thick noodles in a no-frills setting. Worth the drive to Bellaire.",
+    "must_try": "Tonkotsu ramen with extra chashu.",
+    "hours": "Tue-Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Huynh Restaurant",
+    "address": "912 St Emanuel St, Houston, TX 77003",
+    "phone": "+1-713-224-8964",
+    "website": null,
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$",
+    "rating": "4.5",
+    "description": "EaDo Vietnamese hole-in-the-wall. Vermicelli bowls and banh mi that locals have been eating for decades. Cash only.",
+    "must_try": "Vermicelli bowl with grilled pork.",
+    "hours": "Mon-Sat 11AM-3PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moon Rabbit",
+    "address": "Heights, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Modern Vietnamese in the Heights. CultureMap Tastemaker nominee bringing elevated takes on classics.",
+    "must_try": "Shaking beef and pho specials.",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "North China",
+    "address": "406 W Crosstimbers St, Houston, TX 77018",
+    "phone": "+1-713-861-8180",
+    "website": null,
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Heights institution for hand-pulled noodles and Mandarin-style cooking since 1976. Unpretentious, excellent, cash-friendly.",
+    "must_try": "Hand-pulled noodles and Peking pork chops.",
+    "hours": "Tue-Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "State of Grace",
+    "address": "3258 Westheimer Rd, Houston, TX 77098",
+    "phone": "+1-832-942-5080",
+    "website": "https://stateofgracehtx.com",
+    "category": "dining",
+    "subcategory": "southern",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Modern Gulf Coast Southern in a gorgeous River Oaks-adjacent space. Raw bar, wood-grilled meats, and an excellent cocktail program.",
+    "must_try": "Oyster platter and wood-grilled whole fish.",
+    "hours": "Mon-Thu 5PM-10PM, Fri-Sat 5PM-11PM, Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Goode Company Seafood",
+    "address": "2621 Westpark Dr, Houston, TX 77098",
+    "phone": "+1-713-523-7154",
+    "website": "https://goodecompany.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Houston classic for Gulf Coast seafood. Campechana, fried catfish, and a mesquite-grilled redfish that's been on the menu for decades.",
+    "must_try": "Mesquite-grilled redfish and campechana.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lucille's",
+    "address": "5512 La Branch St, Houston, TX 77004",
+    "phone": "+1-713-568-2505",
+    "website": "https://lucilleshouston.com",
+    "category": "dining",
+    "subcategory": "southern",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Museum District Southern fine dining from chef Chris Williams. Gulf Coast soul food elevated with technique and gorgeous plating.",
+    "must_try": "Oxtail and Gulf shrimp. Sunday brunch is special.",
+    "hours": "Tue-Sun dinner, Sun brunch",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Theodore Rex",
+    "address": "1302 Nance St, Houston, TX 77002",
+    "phone": "+1-832-830-8592",
+    "website": "https://theodorerexhouston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Chef Justin Yu's downtown restaurant serving Texas-rooted seasonal tasting menus. One of Houston's most respected kitchens.",
+    "must_try": "The seasonal tasting menu — trust the kitchen.",
+    "hours": "Tue-Sat 5:30PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "B&B Butchers & Restaurant",
+    "address": "1814 Washington Ave, Houston, TX 77007",
+    "phone": "+1-713-862-1814",
+    "website": "https://bbbutchers.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Washington Ave steakhouse with an in-house butcher shop. Dry-aged prime cuts and a killer rooftop bar for pre-dinner drinks.",
+    "must_try": "44oz Tomahawk Ribeye. Rooftop bar first.",
+    "hours": "Daily 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vic & Anthony's",
+    "address": "1510 Texas Ave, Houston, TX 77002",
+    "phone": "+1-713-228-1111",
+    "website": "https://vicandanthonys.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Downtown power steakhouse. Dark wood, white tablecloths, and steaks that compete with anyone in Texas.",
+    "must_try": "Porterhouse for two and the lobster bisque.",
+    "hours": "Daily 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steak 48",
+    "address": "4444 Westheimer Rd, Houston, TX 77027",
+    "phone": "+1-713-322-4848",
+    "website": "https://steak48.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "River Oaks steakhouse with a scene. Great food, great drinks, and you'll see Houston's dressed-up crowd on weekends.",
+    "must_try": "Bone-in filet and the tableside Caesar.",
+    "hours": "Daily 4PM-11PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dolce Vita",
+    "address": "500 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-520-8222",
+    "website": "https://dolcevitahouston.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Montrose Italian with a massive patio and late-night energy. Neapolitan-style pizza and housemade pasta in a lively, see-and-be-seen setting.",
+    "must_try": "Margherita pizza and any fresh pasta.",
+    "hours": "Mon-Thu 11AM-11PM, Fri-Sat 11AM-12AM, Sun 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tony's",
+    "address": "3755 Richmond Ave, Houston, TX 77046",
+    "phone": "+1-713-622-6778",
+    "website": "https://tonyshouston.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Houston's most legendary fine dining room since 1965. Italian-Continental cuisine in a River Oaks setting that defines old-school Houston luxury.",
+    "must_try": "Dover sole and the veal chop.",
+    "hours": "Mon-Sat 5:30PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Oporto Fooding House",
+    "address": "3833 Richmond Ave Suite 100, Houston, TX 77027",
+    "phone": "+1-713-621-1114",
+    "website": "https://oportofoodinghouse.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Portuguese cuisine in Greenway Plaza from the team behind Da Gama. Excellent seafood, natural wines, and a beautiful bar program.",
+    "must_try": "Portuguese-style grilled octopus and piri piri prawns.",
+    "hours": "Tue-Sat 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bravery Chef Hall",
+    "address": "409 Main St, Houston, TX 77002",
+    "phone": null,
+    "website": "https://braverychefhall.com",
+    "category": "dining",
+    "subcategory": "food_hall",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Downtown chef-driven food hall with rotating micro-restaurants. Higher-end than a typical food court — these are real chefs.",
+    "must_try": "Check what's rotating — concepts change.",
+    "hours": "Daily 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Common Bond Bistro & Bakery",
+    "address": "1706 Westheimer Rd, Houston, TX 77098",
+    "phone": "+1-713-529-3535",
+    "website": "https://commonbondcafe.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Montrose bakery-café with croissants rivaling Paris and a brunch menu that draws long weekend lines.",
+    "must_try": "Twice-baked almond croissant and shakshuka.",
+    "hours": "Daily 7AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Baby Barnaby's",
+    "address": "602 Fairview St, Houston, TX 77006",
+    "phone": "+1-713-522-4229",
+    "website": "https://babybarnabys.com",
+    "category": "dining",
+    "subcategory": "breakfast",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose breakfast institution. Quirky, colorful, and the migas are the reason you're here.",
+    "must_try": "Migas and any pancake special.",
+    "hours": "Daily 7AM-3PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kau Ba",
+    "address": "2600 Travis St, Houston, TX 77006",
+    "phone": "+1-713-528-0024",
+    "website": "https://kaubahtx.com",
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Midtown Vietnamese with a cocktail bar attached. Elevated pho, banh xeo, and a killer happy hour.",
+    "must_try": "Banh xeo (crispy Vietnamese crepe).",
+    "hours": "Mon-Sat 11AM-10PM, Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nonno's Family Pizza Tavern",
+    "address": "Heights, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heights neighborhood pizza joint that's become a CultureMap Tastemaker nominee. Family-friendly, great pies, solid beer list.",
+    "must_try": "Any specialty pizza. The garlic knots are dangerous.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chardon",
+    "address": "Thompson Houston, 811 Main St, Houston, TX 77002",
+    "phone": null,
+    "website": "https://chardonhouston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Thompson Hotel restaurant from veteran Houston chef E.J. Miller. Texas-spin on French classics — wagyu beef cheek bourguignon, foie gras with cornbread.",
+    "must_try": "Texas wagyu beef cheek bourguignon.",
+    "hours": "Daily dinner, brunch weekends",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Perseid",
+    "address": "Autry Park Hotel, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Hotel restaurant that earned a Bon Appetit best new restaurant nod. Genre-bending dishes like crawfish sausage.",
+    "must_try": "Crawfish sausage and seasonal tasting menu.",
+    "hours": "Dinner daily",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Frost Town Brewing",
+    "address": "100 N Jackson St, Houston, TX 77003",
+    "phone": "+1-713-750-9670",
+    "website": "https://frosttownbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "EaDo brewery in a beautiful brick building. German-inspired lagers and excellent food. Nice outdoor seating.",
+    "must_try": "German-style pilsner and the burger.",
+    "hours": "Mon-Thu 11AM-10PM, Fri-Sat 11AM-11PM, Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buffalo Bayou Brewing Co.",
+    "address": "2101 Summer St, Houston, TX 77007",
+    "phone": "+1-713-750-9795",
+    "website": "https://buffbrew.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Massive brewery near Washington Ave with a gorgeous taproom. Known for 1836 Copper Ale and creative seasonals.",
+    "must_try": "1836 Copper Ale.",
+    "hours": "Mon-Thu 11AM-10PM, Fri-Sat 11AM-12AM, Sun 11AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Poison Girl",
+    "address": "1641 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-527-9929",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose dive bar institution. Cheap drinks, a killer jukebox, and a whiskey wall that commands respect.",
+    "must_try": "Whiskey and whatever's cheapest on draft.",
+    "hours": "Daily 2PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Better Luck Tomorrow",
+    "address": "544 Yale St, Houston, TX 77007",
+    "phone": "+1-713-869-0632",
+    "website": "https://blthouston.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Heights cocktail bar from Bobby Heugel (Anvil). Casual neighborhood joint with serious drinks and great bar food.",
+    "must_try": "The burger is legendary. Any cocktail is good.",
+    "hours": "Daily 4PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lei Low Bar",
+    "address": "6412 N Main St, Houston, TX 77009",
+    "phone": "+1-713-701-5245",
+    "website": "https://leilowbar.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Heights tiki bar with a perfect backyard vibe. Rum-forward cocktails and string lights in the trees. Date night gold.",
+    "must_try": "Any tiki cocktail — they're all legit.",
+    "hours": "Tue-Sun 5PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Goodnight Charlie's",
+    "address": "2531 Kuester St, Houston, TX 77006",
+    "phone": "+1-713-955-7654",
+    "website": "https://goodnightcharlies.com",
+    "category": "bars_nightlife",
+    "subcategory": "honky_tonks",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Montrose honky tonk. Two-stepping, live country bands, and whiskey shots. It's more fun than you expect it to be.",
+    "must_try": "Get on the dance floor for two-step night.",
+    "hours": "Tue-Sat 5PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Continental Club Houston",
+    "address": "3700 Main St, Houston, TX 77002",
+    "phone": "+1-713-529-9899",
+    "website": "https://continentalclub.com/houston",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Austin transplant in Midtown. Intimate live music venue with rockabilly, blues, soul, and country acts. No bad seats.",
+    "must_try": "Check the calendar — shows almost every night.",
+    "hours": "Daily 8PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Warehouse Live",
+    "address": "813 St Emanuel St, Houston, TX 77003",
+    "phone": "+1-713-225-5483",
+    "website": "https://warehouselive.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "EaDo music venue with two stages. Touring indie, hip-hop, and electronic acts. The Ballroom stage is intimate perfection.",
+    "must_try": "See a show in the Ballroom — smaller stage, better sound.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Last Concert Cafe",
+    "address": "1403 Nance St, Houston, TX 77002",
+    "phone": "+1-713-226-8563",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Outdoor music venue near downtown with a hippie soul. Tex-Mex food, cold beer, and live bands under the trees.",
+    "must_try": "Enchiladas and a Shiner while the band plays.",
+    "hours": "Fri-Sun evenings",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rudyard's British Pub",
+    "address": "2010 Waugh Dr, Houston, TX 77006",
+    "phone": "+1-713-521-0521",
+    "website": "https://rudyards.com",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose institution with live music upstairs and a proper pub downstairs. Trivia nights are fierce. One of Houston's best burgers.",
+    "must_try": "Rudyard's burger and trivia night.",
+    "hours": "Daily 11AM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grand Prize Bar",
+    "address": "1010 Banks St, Houston, TX 77006",
+    "phone": "+1-713-526-4565",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose neighborhood bar with strong cocktails at dive bar prices. The patio is great and the jukebox is curated.",
+    "must_try": "Old Fashioned — surprisingly excellent for a dive.",
+    "hours": "Daily 4PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Numbers Night Club",
+    "address": "300 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-526-6551",
+    "website": "https://numbersnightclub.com",
+    "category": "bars_nightlife",
+    "subcategory": "clubs",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Legendary Montrose goth/industrial/new wave club since 1978. Three rooms of music, cheap drinks, and Houston's most unique crowd.",
+    "must_try": "Friday or Saturday night for the full experience.",
+    "hours": "Fri-Sat 9PM-3AM, some weekdays",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moon Tower Inn",
+    "address": "3004 Canal St, Houston, TX 77003",
+    "phone": "+1-713-227-9637",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.4",
+    "description": "EaDo hot dog and craft beer spot with a massive outdoor area. Gourmet sausages, local beers, and neighborhood vibes.",
+    "must_try": "Wild game sausage and a local draft.",
+    "hours": "Daily 11AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blacksmith",
+    "address": "1018 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-360-7470",
+    "website": "https://blacksmithhouston.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose third-wave coffee in a gorgeous converted blacksmith shop. Same team as Anvil Bar. Serious espresso.",
+    "must_try": "Cortado and any pastry.",
+    "hours": "Daily 7AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Common Bond",
+    "address": "1706 Westheimer Rd, Houston, TX 77098",
+    "phone": "+1-713-529-3535",
+    "website": "https://commonbondcafe.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Best bakery in Houston. The twice-baked almond croissant is legendary. Multiple locations but Montrose is the original.",
+    "must_try": "Twice-baked almond croissant.",
+    "hours": "Daily 7AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fluff Bake Bar",
+    "address": "314 Gray St Suite 111, Houston, TX 77002",
+    "phone": "+1-713-818-2869",
+    "website": "https://fluffbakebar.com",
+    "category": "coffee_bakeries",
+    "subcategory": "dessert",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Rebecca Masson's dessert bar in Midtown. Bourbon caramel brownies and seasonal pies that justify the trip alone.",
+    "must_try": "Bourbon caramel brownies and any seasonal pie.",
+    "hours": "Wed-Sun 12PM-9PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fat Cat Creamery",
+    "address": "1901 N Shepherd Dr, Houston, TX 77008",
+    "phone": "+1-713-955-5654",
+    "website": "https://fatcatcreamery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Heights ice cream shop with small-batch, locally sourced flavors. Mexican Hot Chocolate and seasonal rotations.",
+    "must_try": "Mexican Hot Chocolate or Lemon Buttermilk Pie.",
+    "hours": "Mon-Thu 12PM-9PM, Fri-Sat 12PM-10PM, Sun 12PM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shipley Do-Nuts",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://shipleydonuts.com",
+    "category": "coffee_bakeries",
+    "subcategory": "kolache",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Houston institution since 1936. The glazed donut is the benchmark. Kolaches are the real reason to go.",
+    "must_try": "Glazed donut and a sausage/cheese kolache.",
+    "hours": "Daily 5AM-12PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Contemporary Arts Museum Houston",
+    "address": "5216 Montrose Blvd, Houston, TX 77006",
+    "phone": "+1-713-284-8250",
+    "website": "https://camh.org",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Always free contemporary art museum. Rotating exhibitions of cutting-edge work. Perfect pairing with MFAH across the street.",
+    "must_try": "Whatever the current exhibition is — it changes frequently.",
+    "hours": "Wed-Sun 10AM-5PM, Thu until 9PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Holocaust Museum Houston",
+    "address": "5401 Caroline St, Houston, TX 77004",
+    "phone": "+1-713-942-8000",
+    "website": "https://hmh.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$22 adults, free under 18, free Thu 2-5PM",
+    "rating": "4.7",
+    "description": "Nation's fourth-largest Holocaust museum. Three-story campus with WWII railcar, 50+ interactive screens, and deeply moving survivor testimonies.",
+    "must_try": "The permanent Holocaust gallery with the German railcar.",
+    "hours": "Wed-Mon 10AM-5PM, Thu free 2-5PM",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Asia Society Texas Center",
+    "address": "1370 Southmore Blvd, Houston, TX 77004",
+    "phone": "+1-713-496-9901",
+    "website": "https://asiasociety.org/texas",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Stunning Yoshio Taniguchi-designed building. Asian art, cultural programming, and film screenings. Free general admission.",
+    "must_try": "Architecture alone is worth the visit. Check for film screenings.",
+    "hours": "Tue-Sun 11AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Health Museum",
+    "address": "1515 Hermann Dr, Houston, TX 77004",
+    "phone": "+1-713-521-1515",
+    "website": "https://thehealthmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$12 adults, $10 kids",
+    "rating": "4.3",
+    "description": "Interactive science and health museum in the Museum District. Great for kids — walk through a giant human body.",
+    "must_try": "Amazing Body Gallery — walk-through human body.",
+    "hours": "Tue-Sat 10AM-5PM, Sun 12PM-5PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Houston Center for Photography",
+    "address": "1441 W Alabama St, Houston, TX 77006",
+    "phone": "+1-713-529-4755",
+    "website": "https://hcponline.org",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Free photography gallery and community space in Montrose. Rotating exhibitions and a strong library collection.",
+    "must_try": "Current exhibition — always free.",
+    "hours": "Wed-Sun 11AM-5PM",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buffalo Soldiers National Museum",
+    "address": "3816 Caroline St, Houston, TX 77004",
+    "phone": "+1-713-942-8920",
+    "website": "https://buffalosoldiermuseum.com",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free (closed for renovation through Summer 2026)",
+    "rating": "4.3",
+    "description": "Only US museum dedicated to the African-American soldier. Currently closed for major renovation — check before visiting.",
+    "must_try": "Call ahead — closed through Summer 2026 for renovations.",
+    "hours": "Closed for renovation",
+    "seasonal": "Reopening Summer 2026",
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beer Can House",
+    "address": "222 Malone St, Houston, TX 77007",
+    "phone": "+1-713-926-6368",
+    "website": "https://beercanhouse.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "$5",
+    "rating": "4.3",
+    "description": "House covered in 50,000 flattened beer cans. Pure Houston weirdness. Quick stop but completely unforgettable.",
+    "must_try": "Just stand there and absorb the insanity.",
+    "hours": "Sat-Sun 12PM-5PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Art Car Museum",
+    "address": "140 Heights Blvd, Houston, TX 77007",
+    "phone": "+1-713-861-5526",
+    "website": "https://artcarmuseum.com",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "Free",
+    "rating": "4.2",
+    "description": "Tiny Heights museum celebrating Houston's art car culture. Free, weird, and wonderfully Houston.",
+    "must_try": "See the cars, then watch the Art Car Parade in April.",
+    "hours": "Wed-Sun 11AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "MATCH - Midtown Arts & Theater Center",
+    "address": "3400 Main St, Houston, TX 77002",
+    "phone": "+1-713-521-4533",
+    "website": "https://matchouston.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "Varies by show",
+    "rating": "4.5",
+    "description": "Midtown performing arts complex with multiple theater spaces. Local dance, theater, film, and comedy productions.",
+    "must_try": "Check the calendar — diverse programming from Houston's independent arts scene.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bayou Bend Collection & Gardens",
+    "address": "6003 Memorial Dr, Houston, TX 77007",
+    "phone": "+1-713-639-7750",
+    "website": "https://mfah.org/visit/bayou-bend-collection-and-gardens",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$15 adults, gardens free on Tuesdays",
+    "rating": "4.6",
+    "description": "MFAH property in River Oaks. 14 acres of gardens and a mansion filled with American decorative arts. Feels like stepping into a different era.",
+    "must_try": "Spring garden tour when the azaleas bloom.",
+    "hours": "Tue-Sun 10AM-5PM",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Market Square Park",
+    "address": "301 Milam St, Houston, TX 77002",
+    "phone": null,
+    "website": "https://marketsquarepark.com",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.4",
+    "description": "Houston's oldest public square, beautifully restored. Dog park, public art, and surrounded by downtown restaurants and bars.",
+    "must_try": "Grab coffee and people-watch. Dog park if you brought yours.",
+    "hours": "Daily 6AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brazos Bend State Park",
+    "address": "21901 FM 762, Needville, TX 77461",
+    "phone": "+1-979-553-5101",
+    "website": "https://tpwd.texas.gov/state-parks/brazos-bend",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$7 per person (13+)",
+    "rating": "4.7",
+    "description": "45 miles south of Houston. Alligators, birdwatching, and the George Observatory for stargazing. The most Texas nature experience near the city.",
+    "must_try": "Hike the Elm Lake trail for guaranteed alligator sightings. George Observatory on Saturday nights.",
+    "hours": "Daily 8AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Waugh Drive Bat Colony",
+    "address": "Waugh Dr Bridge, Houston, TX 77006",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.3",
+    "description": "250,000 Mexican free-tailed bats emerge at sunset from under the Waugh Drive bridge. Free, weird, and very Houston.",
+    "must_try": "Arrive 30 min before sunset. Stand on the east side of the bridge.",
+    "hours": "Sunset daily, best Mar-Nov",
+    "seasonal": "Best March-November",
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Eleanor Tinsley Park",
+    "address": "3600 Allen Pkwy, Houston, TX 77019",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Downtown park along Buffalo Bayou with the best skyline photo spot in Houston. Site of major festivals and July 4th fireworks.",
+    "must_try": "Skyline photos at golden hour.",
+    "hours": "Daily 6AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BCycle Houston",
+    "address": "Multiple stations citywide",
+    "phone": null,
+    "website": "https://houston.bcycle.com",
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "$9/day pass, $3/30 min single ride",
+    "rating": "4.2",
+    "description": "Bike share system with stations across inner Houston. Great for Buffalo Bayou trails or getting between Museum District spots.",
+    "must_try": "Day pass + ride the Buffalo Bayou trail from downtown to Shepherd Dr.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "M-K-T Heights",
+    "address": "600 N Shepherd Dr, Houston, TX 77007",
+    "phone": null,
+    "website": "https://mktheights.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$-$$$",
+    "rating": "4.4",
+    "description": "Mixed-use development in the Heights with restaurants (Da Gama), shops, fitness, and a food hall. The Heights' answer to a lifestyle center.",
+    "must_try": "Dinner at Da Gama then browse the shops.",
+    "hours": "Daily 10AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "River Oaks District",
+    "address": "4444 Westheimer Rd, Houston, TX 77027",
+    "phone": null,
+    "website": "https://riveroaksdistrict.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Open-air luxury shopping district. Hermès, Cartier, Dior alongside upscale restaurants. Houston's most aspirational retail experience.",
+    "must_try": "Window shop if nothing else. Steak 48 is right here.",
+    "hours": "Mon-Sat 10AM-7PM, Sun 12PM-6PM",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Houston Farmers Market",
+    "address": "2520 Airline Dr, Houston, TX 77009",
+    "phone": "+1-713-635-4000",
+    "website": "https://houstonfarmersmarket.com",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Year-round farmers market near the Heights. Local produce, prepared foods, and a great Saturday morning outing.",
+    "must_try": "Saturday morning for the best selection. Grab breakfast tacos.",
+    "hours": "Daily 6AM-6PM, best on weekends",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hiatus Spa + Retreat",
+    "address": "3000 Richmond Ave Suite 230, Houston, TX 77098",
+    "phone": "+1-713-621-0109",
+    "website": "https://hiatusspa.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Greenway-area day spa with a strong cocktail of treatments. Popular for couples packages and relaxation.",
+    "must_try": "Couples massage package.",
+    "hours": "Mon-Sat 9AM-8PM, Sun 10AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Four Seasons Hotel Houston",
+    "address": "1300 Lamar St, Houston, TX 77010",
+    "phone": "+1-713-650-1300",
+    "website": "https://fourseasons.com/houston",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Downtown luxury overlooking Discovery Green. Bayou & Bottle bar, excellent pool, and walkable to Theater District.",
+    "must_try": "Drinks at Bayou & Bottle bar. Pool on a hot day.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel ZaZa Museum District",
+    "address": "5701 Main St, Houston, TX 77005",
+    "phone": "+1-713-526-1991",
+    "website": "https://hotelzaza.com/houston",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Boutique luxury in the Museum District. Themed concept suites, rooftop pool, and Z on 23 bar. Walking distance to museums.",
+    "must_try": "Concept suites if you're splurging. Z on 23 rooftop bar.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Colombe d'Or Hotel",
+    "address": "3410 Montrose Blvd, Houston, TX 77006",
+    "phone": "+1-713-524-7999",
+    "website": "https://lacolombedor.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Boutique art hotel in Montrose. 32 rooms starting at $500/night. Original art collection throughout, upscale restaurant and cocktail bar.",
+    "must_try": "The art collection and the restaurant.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Thompson Houston",
+    "address": "811 Main St, Houston, TX 77002",
+    "phone": "+1-713-357-3700",
+    "website": "https://hyatt.com/thompson/houdt-thompson-houston",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "Downtown luxury with Chardon restaurant and a scene-y rooftop pool. Modern design, walkable to everything downtown.",
+    "must_try": "Dinner at Chardon, drinks at the rooftop.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Marriott Marquis Houston",
+    "address": "1777 Walker St, Houston, TX 77010",
+    "phone": "+1-713-654-1777",
+    "website": "https://marriott.com/hotels/travel/houmq",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Downtown convention hotel famous for its Texas-shaped lazy river pool on the rooftop. Instagram-famous for a reason.",
+    "must_try": "Float the Texas-shaped lazy river. Seriously.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Lancaster Hotel",
+    "address": "701 Texas Ave, Houston, TX 77002",
+    "phone": "+1-713-228-9500",
+    "website": "https://thelancaster.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Historic boutique in the Theater District. Built 1926. Walking distance to Alley Theatre, Jones Hall, and Wortham Center.",
+    "must_try": "Pre-show dinner at the restaurant, walk to theater.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shell Energy Stadium",
+    "address": "2200 Texas Ave, Houston, TX 77003",
+    "phone": "+1-713-276-7500",
+    "website": "https://houstondynamo.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$-$$$",
+    "rating": "4.3",
+    "description": "Home of the Houston Dynamo (MLS) and Houston Dash (NWSL). EaDo location means brewery crawls before and after matches.",
+    "must_try": "Hit 8th Wonder Brewery before the match.",
+    "hours": "Game days",
+    "seasonal": "MLS season Mar-Nov",
+    "modes": [
+      "sports",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Secret Group",
+    "address": "2101 Polk St, Houston, TX 77003",
+    "phone": "+1-713-598-8083",
+    "website": "https://thesecretgrouphtx.com",
+    "category": "entertainment",
+    "subcategory": "comedy",
+    "price": "$",
+    "rating": "4.5",
+    "description": "EaDo comedy club and bar with stand-up, improv, and variety shows. Houston's best comedy venue. Cheap drinks.",
+    "must_try": "Any stand-up night. Check calendar for touring headliners.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "TopGolf Webster",
+    "address": "21401 Gulf Fwy, Webster, TX 77598",
+    "phone": "+1-281-557-4772",
+    "website": "https://topgolf.com/us/webster",
+    "category": "entertainment",
+    "subcategory": "gaming",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Driving range meets sports bar. Three floors of hitting bays, food, drinks. Good for groups who want to do something active.",
+    "must_try": "Rent a bay, order nachos, hit golf balls. Simple.",
+    "hours": "Daily 9AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Georgia James",
+    "address": "1100 W Dallas St, Houston, TX 77019",
+    "phone": "+1-713-428-4765",
+    "website": "https://georgiajames.restaurant",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Chris Shepherd's whole-animal steakhouse. Wood-fired prime cuts, heritage breeds, and one of the best cocktail programs attached to a restaurant.",
+    "must_try": "44oz Tomahawk and the smoked beef cheek.",
+    "hours": "Tue-Sat 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Underbelly Hospitality",
+    "address": "1100 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-528-9800",
+    "website": "https://underbellyhospitality.com",
+    "category": "dining",
+    "subcategory": "southern",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Chris Shepherd's flagship empire. The original Underbelly closed but the hospitality group (Georgia James, Wild Oats, etc.) defines modern Houston dining.",
+    "must_try": "Visit any Shepherd property — they're all excellent.",
+    "hours": "Varies by concept",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "El Tiempo Cantina (Montrose)",
+    "address": "3130 Richmond Ave, Houston, TX 77098",
+    "phone": "+1-713-807-1600",
+    "website": "https://eltiempocantina.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Laurenzo family Tex-Mex empire — this Montrose location is the most visitor-friendly. Sizzling fajita platters and strong margaritas.",
+    "must_try": "Beef fajitas and a top-shelf margarita.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Annam",
+    "address": "Autry Park, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Elegant Vietnamese near Autry Park. Flavor-packed fish heads, lobster asparagus soup, and European-inspired interiors.",
+    "must_try": "Lobster asparagus soup and shaking filet mignon.",
+    "hours": "Dinner Tue-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maximo",
+    "address": "Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Chef Adrian Torres brought new energy with a milanesa & spaghetti verde that marries Italian technique with Mexican soul.",
+    "must_try": "Milanesa & Spaghetti Verde.",
+    "hours": "Dinner Wed-Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Roegels Barbecue Co.",
+    "address": "2223 S Voss Rd, Houston, TX 77057",
+    "phone": "+1-713-977-8725",
+    "website": "https://roegelsbarbecue.com",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "West Houston BBQ sleeper. Brisket and ribs that compete with the bigger names without the tourist lines.",
+    "must_try": "Brisket and loaded baked potato.",
+    "hours": "Tue-Sat 11AM-sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "100% Taquito",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Tiny taqueria chain with authentic street-style tacos. The al pastor is the real deal — spit-roasted and sliced to order.",
+    "must_try": "Al pastor tacos. That's it. That's the order.",
+    "hours": "Daily 8AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Superica",
+    "address": "1801 N Shepherd Dr, Houston, TX 77008",
+    "phone": "+1-713-357-6189",
+    "website": "https://superica.com",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Heights Tex-Mex from Ford Fry. Wood-grilled fajitas, queso flameado, and a patio that's always packed.",
+    "must_try": "Wood-grilled fajitas and queso flameado.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BCN Taste & Tradition",
+    "address": "4210 Roseland St, Houston, TX 77006",
+    "phone": "+1-713-588-4800",
+    "website": "https://bcnhouston.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Spanish fine dining in Montrose. Paella, Ibérico ham, and a wine list that takes Barcelona seriously.",
+    "must_try": "Paella Valenciana and Ibérico ham.",
+    "hours": "Tue-Sat 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hay Merchant",
+    "address": "1100 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-528-9805",
+    "website": "https://haymerchant.com",
+    "category": "dining",
+    "subcategory": "gastropub",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Montrose gastropub with 80 taps and a burger that's in the Houston hall of fame. Chris Shepherd adjacent.",
+    "must_try": "The burger and whatever's interesting on the 80-tap draft wall.",
+    "hours": "Daily 11AM-12AM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Toasted Yolk Café",
+    "address": "Multiple locations",
+    "phone": null,
+    "website": "https://thetoastedyolk.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Houston-born brunch chain. Solid eggs Benedict variations, churro donuts, and build-your-own mimosa flights.",
+    "must_try": "Churro donuts and a mimosa flight.",
+    "hours": "Daily 7AM-3PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Don Café",
+    "address": "9300 Bellaire Blvd, Houston, TX 77036",
+    "phone": "+1-281-495-1512",
+    "website": null,
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Asiatown institution for Vietnamese iced coffee and banh mi. Cash-friendly, no-frills, and the drip coffee is thick and sweet.",
+    "must_try": "Vietnamese iced coffee (cà phê sữa đá) and a banh mi.",
+    "hours": "Daily 7AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Banana Leaf",
+    "address": "9889 Bellaire Blvd, Houston, TX 77036",
+    "phone": "+1-713-771-8118",
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Malaysian restaurant on Bellaire Blvd. Roti canai, laksa, and nasi lemak in a strip mall that's easy to miss and impossible to forget.",
+    "must_try": "Roti canai and laksa.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jinya Ramen Bar",
+    "address": "3201 Louisiana St Suite 100, Houston, TX 77006",
+    "phone": "+1-832-981-4810",
+    "website": "https://jinyaramenbar.com",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Midtown ramen chain with consistently good tonkotsu. Not the most authentic, but reliable and well-located.",
+    "must_try": "Tonkotsu Black ramen.",
+    "hours": "Daily 11AM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Silk Road",
+    "address": "Courtyard by Marriott, West U area, Houston, TX",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "chinese",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Unlikely dim sum success story inside a hotel. Crispy shrimp cheung fun with chili oil that rivals any Chinatown spot.",
+    "must_try": "Crispy Shrimp Cheung Fun.",
+    "hours": "Daily lunch and dinner",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fielding's Steak",
+    "address": "26400 Kuykendahl Rd, The Woodlands, TX 77375",
+    "phone": "+1-281-351-2225",
+    "website": "https://fieldingslocal.com",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "Woodlands steakhouse from the Fielding's team. Worth the 30-min drive north for serious dry-aged beef and cocktails.",
+    "must_try": "Dry-aged ribeye.",
+    "hours": "Daily 5PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Platypus Brewing",
+    "address": "2322 Bissonnet St, Houston, TX 77005",
+    "phone": "+1-832-516-9828",
+    "website": "https://platypusbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Cozy Rice Village brewery with rotating experimental beers. Small space, big flavors, neighborhood vibe.",
+    "must_try": "Whatever seasonal is on — they rotate constantly.",
+    "hours": "Thu-Sun 12PM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SpindleTap Brewery",
+    "address": "10622 Hirsch Rd, Houston, TX 77016",
+    "phone": "+1-713-955-7457",
+    "website": "https://spindletapbrewery.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "North Houston brewery known for hazy IPAs and a massive taproom. Houston Haze is the flagship.",
+    "must_try": "Houston Haze IPA.",
+    "hours": "Wed-Sun 12PM-9PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Great Heights Brewing",
+    "address": "938 Wakefield Dr, Houston, TX 77018",
+    "phone": "+1-281-888-8995",
+    "website": "https://greatheightsbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Heights brewery with solid German-inspired lagers and a breakfast pastry counter. Unique pairing of baked goods and beer.",
+    "must_try": "Pair a pastry with a pilsner — it works.",
+    "hours": "Thu-Sun 12PM-8PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walking Stick Brewing Co.",
+    "address": "1902 Washington Ave Suite E, Houston, TX 77007",
+    "phone": "+1-832-742-5503",
+    "website": "https://walkingstickbrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Washington Ave brewery with a cool industrial vibe. Solid IPA lineup and rotating seasonals.",
+    "must_try": "Citrus Gose.",
+    "hours": "Wed-Sun 12PM-10PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Reserve 101",
+    "address": "1201 Caroline St, Houston, TX 77002",
+    "phone": "+1-713-400-1101",
+    "website": "https://reserve101.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Downtown whiskey bar with 300+ bottles. Leather chairs, dark wood, and bartenders who know their stuff.",
+    "must_try": "Ask the bartender for a whiskey flight based on your preferences.",
+    "hours": "Mon-Sat 4PM-2AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Toasted Coconut",
+    "address": "3514 White Oak Dr, Houston, TX 77007",
+    "phone": "+1-713-741-0020",
+    "website": "https://thetoastedcoconut.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Heights tropical bar from Bobby Heugel and Justin Yu. Rum drinks, seafood menu, and a breezy patio.",
+    "must_try": "Piña colada and fried fish tacos.",
+    "hours": "Daily 4PM-12AM",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Little Woodrow's (Midtown)",
+    "address": "2306 Brazos St, Houston, TX 77006",
+    "phone": "+1-713-522-1490",
+    "website": "https://littlewoodrows.com",
+    "category": "bars_nightlife",
+    "subcategory": "sports_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Texas chain sports bar with a massive outdoor area. Cheap beer, cornhole, and every game on TV. Multiple Houston locations.",
+    "must_try": "Bucket of Lone Stars and a game on the big screen.",
+    "hours": "Daily 11AM-2AM",
+    "seasonal": null,
+    "modes": [
+      "sports",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Scout Bar",
+    "address": "18307 Egret Bay Blvd, Houston, TX 77058",
+    "phone": "+1-281-335-0002",
+    "website": "https://scoutbar.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Clear Lake-area live music venue near Space Center Houston. Touring rock and country acts in an intimate setting.",
+    "must_try": "Pair with a Space Center visit — it's nearby.",
+    "hours": "Varies by show",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Siphon Coffee",
+    "address": "701 W Alabama St, Houston, TX 77006",
+    "phone": "+1-713-588-6080",
+    "website": "https://siphoncoffee.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Montrose micro-roaster with precise pour-overs and a tiny, focused space. For the coffee nerd who wants craft over ambiance.",
+    "must_try": "Single-origin pour-over.",
+    "hours": "Daily 7AM-5PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Paper Co. Café",
+    "address": "1100 Elder St, Houston, TX 77007",
+    "phone": "+1-713-868-1683",
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Washington Ave café in a converted warehouse. Good coffee, pastries, and enough space to actually sit and work.",
+    "must_try": "Latte and a kolache.",
+    "hours": "Daily 7AM-4PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kolache Shoppe",
+    "address": "3945 Richmond Ave, Houston, TX 77027",
+    "phone": "+1-713-577-0044",
+    "website": "https://kolacheshoppe.com",
+    "category": "coffee_bakeries",
+    "subcategory": "kolache",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Elevated kolaches with creative fillings — brisket, Thai chicken, spinach feta. The Czech-Texas staple, upgraded.",
+    "must_try": "Brisket kolache and Thai chicken kolache.",
+    "hours": "Mon-Sat 6:30AM-2PM, Sun 7AM-2PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Three Brothers Bakery",
+    "address": "4036 S Braeswood Blvd, Houston, TX 77025",
+    "phone": "+1-713-666-2253",
+    "website": "https://3brothersbakery.com",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Holocaust survivor-founded bakery since 1949. Pecan pie that wins national awards. A Houston institution with deep history.",
+    "must_try": "Pecan pie — award-winning.",
+    "hours": "Mon-Sat 6AM-6PM, Sun 7AM-5PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hobby Center for the Performing Arts",
+    "address": "800 Bagby St, Houston, TX 77002",
+    "phone": "+1-713-315-2400",
+    "website": "https://thehobbycenter.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "Varies by show",
+    "rating": "4.6",
+    "description": "Theater District anchor for touring Broadway shows. The Houston stop on national tours. Beautiful lobby and great sightlines.",
+    "must_try": "Catch whatever Broadway touring show is in town.",
+    "hours": "Show schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wortham Theater Center",
+    "address": "501 Texas Ave, Houston, TX 77002",
+    "phone": "+1-713-237-1439",
+    "website": "https://worthamcenter.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "Varies by show",
+    "rating": "4.6",
+    "description": "Home of Houston Ballet and Houston Grand Opera. Twin-theater complex in the Theater District.",
+    "must_try": "Houston Ballet performance — world-class company.",
+    "hours": "Show schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jones Hall for the Performing Arts",
+    "address": "615 Louisiana St, Houston, TX 77002",
+    "phone": "+1-713-224-7575",
+    "website": "https://joneshall.org",
+    "category": "attractions",
+    "subcategory": "theaters",
+    "price": "$30-150",
+    "rating": "4.5",
+    "description": "Home of the Houston Symphony. Classical, pops, and special event concerts in a grand downtown hall.",
+    "must_try": "Houston Symphony performance — check for pops or classical.",
+    "hours": "Show schedule varies",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "National Museum of Funeral History",
+    "address": "415 Barren Springs Dr, Houston, TX 77090",
+    "phone": "+1-281-876-3063",
+    "website": "https://nmfh.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$10 adults",
+    "rating": "4.4",
+    "description": "Exactly what it sounds like. Presidential funeral exhibits, antique hearses, and the history of embalming. Weird Houston at its finest.",
+    "must_try": "The presidential funeral exhibit and fantasy coffins from Ghana.",
+    "hours": "Mon-Fri 10AM-4PM, Sat 10AM-5PM, Sun 12PM-5PM",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Uptown Park",
+    "address": "1101-1165 Uptown Park Blvd, Houston, TX 77056",
+    "phone": null,
+    "website": "https://uptownparkblvd.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Open-air luxury lifestyle center near the Galleria. European-feeling courtyard with boutiques and upscale restaurants.",
+    "must_try": "Browse and lunch at Hotel Granduca's restaurant next door.",
+    "hours": "Mon-Sat 10AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Highland Village",
+    "address": "4055 Westheimer Rd, Houston, TX 77027",
+    "phone": null,
+    "website": "https://shopathighlandvillage.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "Open-air center in River Oaks area. Williams Sonoma, Anthropologie, and boutiques in a walkable setting.",
+    "must_try": "Browse, then walk to nearby restaurants on Westheimer.",
+    "hours": "Mon-Sat 10AM-7PM, Sun 12PM-6PM",
+    "seasonal": null,
+    "modes": [
+      "shopping"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Buffalo Exchange (Montrose)",
+    "address": "1618 Westheimer Rd, Houston, TX 77006",
+    "phone": "+1-713-523-8701",
+    "website": "https://buffaloexchange.com",
+    "category": "shopping",
+    "subcategory": "antiques",
+    "price": "$",
+    "rating": "4.2",
+    "description": "Montrose vintage and secondhand clothing. Well-curated racks at thrift prices. Good for unique Houston finds.",
+    "must_try": "Vintage denim section.",
+    "hours": "Mon-Sat 11AM-8PM, Sun 11AM-7PM",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Milk + Honey Spa",
+    "address": "2441 University Blvd, Houston, TX 77005",
+    "phone": "+1-713-622-6455",
+    "website": "https://milkandhoneyspa.com",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Rice Village day spa with a calm, modern vibe. Excellent facials and massages. Popular for couples.",
+    "must_try": "Couples massage or a facial.",
+    "hours": "Mon-Sat 9AM-8PM, Sun 10AM-6PM",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Black Swan Yoga",
+    "address": "Multiple locations (Montrose, Heights)",
+    "phone": null,
+    "website": "https://blackswanyoga.com",
+    "category": "wellness_spa",
+    "subcategory": "yoga",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Donation-based heated yoga in Montrose and Heights. Sweaty, intense, and accessible to all levels and budgets.",
+    "must_try": "Any heated vinyasa class — pay what you can.",
+    "hours": "Multiple classes daily",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "H-E-B Buffalo Speedway",
+    "address": "5225 Buffalo Speedway, Houston, TX 77005",
+    "phone": "+1-713-349-9070",
+    "website": "https://heb.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Closest H-E-B to Museum District. Stock your Airbnb here — the prepared food section is better than most restaurants.",
+    "must_try": "Sushi bar, bakery tortillas, Texas BBQ section.",
+    "hours": "Daily 6AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "H-E-B Heights",
+    "address": "1701 N Shepherd Dr, Houston, TX 77008",
+    "phone": "+1-713-864-5050",
+    "website": "https://heb.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Heights H-E-B near 19th Street. Good selection, prepared foods, and right in the middle of the walkable Heights corridor.",
+    "must_try": "Bakery and the deli counter.",
+    "hours": "Daily 6AM-11PM",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "CVS Pharmacy (Downtown)",
+    "address": "1201 Main St, Houston, TX 77002",
+    "phone": "+1-713-659-6372",
+    "website": "https://cvs.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.8",
+    "description": "Downtown pharmacy for tourist essentials — sunscreen, OTC meds, snacks. Walking distance from most downtown hotels.",
+    "must_try": null,
+    "hours": "Daily 7AM-10PM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Rover Oaks Pet Resort",
+    "address": "2551 Waugh Dr, Houston, TX 77006",
+    "phone": "+1-713-523-7232",
+    "website": "https://roveroaks.com",
+    "category": "services",
+    "subcategory": "pet_boarding",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Montrose pet boarding and daycare. Convenient inner-loop location if you're traveling with a dog and need coverage for a museum day.",
+    "must_try": "Day boarding so you can hit attractions without guilt.",
+    "hours": "Mon-Fri 7AM-7PM, Sat 8AM-5PM, Sun 10AM-5PM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Enterprise Rent-A-Car (IAH Airport)",
+    "address": "George Bush Intercontinental Airport, Houston, TX 77032",
+    "phone": "+1-713-209-2300",
+    "website": "https://enterprise.com",
+    "category": "services",
+    "subcategory": "car_rental",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Major rental car option at IAH. All major agencies on-site via rental car shuttle. Book ahead — Houston requires a car.",
+    "must_try": null,
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "METRO Light Rail",
+    "address": "Citywide",
+    "phone": "+1-713-635-4000",
+    "website": "https://ridemetro.org",
+    "category": "services",
+    "subcategory": "transit",
+    "price": "$1.25 per ride",
+    "rating": "3.8",
+    "description": "Red Line connects Downtown-Midtown-Museum District-Medical Center-NRG Park. Green/Purple lines serve EaDo and Southeast. $1.25 per ride, $3 day pass.",
+    "must_try": "Red Line from Downtown to Museum District — most useful tourist route.",
+    "hours": "Daily 4:30AM-12:30AM",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "TDECU Stadium",
+    "address": "3874 Holman St, Houston, TX 77004",
+    "phone": "+1-713-743-9444",
+    "website": "https://uhcougars.com",
+    "category": "entertainment",
+    "subcategory": "sports_venues",
+    "price": "$$",
+    "rating": "4.2",
+    "description": "Home of the University of Houston Cougars football. Big 12 conference games in a modern stadium near campus.",
+    "must_try": "UH game day atmosphere — the Coog fan base is passionate.",
+    "hours": "Game days (Fall)",
+    "seasonal": "College football Aug-Dec",
+    "modes": [
+      "sports"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Game Show Studio Houston",
+    "address": "2031 Westheimer Rd, Houston, TX 77098",
+    "phone": null,
+    "website": "https://gameshowstudiohouston.com",
+    "category": "entertainment",
+    "subcategory": "gaming",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Interactive game show experience where you're the contestant. Teams compete in trivia, physical challenges, and party games. Great for groups.",
+    "must_try": "Book a private group show for max fun.",
+    "hours": "Varies — book online",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "iFLY Indoor Skydiving",
+    "address": "9540 Katy Fwy, Houston, TX 77055",
+    "phone": "+1-281-942-4359",
+    "website": "https://iflyworld.com/houston-memorial",
+    "category": "entertainment",
+    "subcategory": "gaming",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Indoor skydiving in a vertical wind tunnel. 2-flight packages start around $70. Fun for families and thrill-seekers.",
+    "must_try": "First-timer 2-flight package.",
+    "hours": "Daily 9AM-9PM",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "adventure"
+    ],
+    "needs_verification": false
+  }
+]

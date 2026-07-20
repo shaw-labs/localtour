@@ -1,0 +1,98 @@
+[
+  {
+    "id": "phx-deal-001",
+    "business_name": "Phoenix Art Museum",
+    "category": "attractions",
+    "offer_text": "Pay-What-You-Wish Wednesdays: general admission is voluntary-donation every Wednesday from 3 to 9 p.m. Just tell the admissions desk you'd like to participate and give what you like. First Fridays are free general admission, too. (Special exhibitions ticketed separately. The Saguaro's tip: an air-conditioned gallery is a fine place to ride out a July afternoon.)",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-002",
+    "business_name": "Desert Botanical Garden",
+    "category": "attractions",
+    "offer_text": "Community Day, the second Tuesday of every month, is pay-what-you-can admission (8 a.m. to 9 p.m.) — pay $5, $10, $15, or whatever works. Come early or come at dusk; midday among the cactus in summer is a commitment, and I say that with love. (Special ticketed events not included.)",
+    "offer_type": "pay_what_you_can",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-003",
+    "business_name": "Heard Museum",
+    "category": "attractions",
+    "offer_text": "First Friday means free admission to the galleries each month, with live artist demonstrations and every gallery open into the evening. A no-cost, low-sweat way to see world-class Indigenous art. Check the date's posted hours before you head over.",
+    "offer_type": "free_admission",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-004",
+    "business_name": "Buck & Rider",
+    "category": "dining",
+    "offer_text": "Happy hour runs daily 3 to 7 p.m.: oysters at $2.25, Sea of Cortez wild shrimp at $3, select draft beer $7, wines by the glass $8, house highballs $9, signature cocktails $11, plus a rotation of $11 bites. The seafood flies in fresh daily, so the raw bar is where you want to be.",
+    "offer_type": "happy_hour",
+    "redemption_type": "auto",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-005",
+    "business_name": "The Gladly",
+    "category": "dining",
+    "offer_text": "Happy hour daily on cocktails and wines by the glass 11 a.m. to 6 p.m., with bites layered in from 3 to 6 p.m.: $5 bacon-fat popcorn, $9 featured wines, $12 signature draft cocktails, and shareables up the ladder. A civilized way to ease into a Camelback Corridor evening.",
+    "offer_type": "happy_hour",
+    "redemption_type": "auto",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-006",
+    "business_name": "Bitter & Twisted Cocktail Parlour",
+    "category": "bars_nightlife",
+    "offer_text": "Happy hour Tuesday through Friday, 4 to 6 p.m., in the old Arizona Prohibition Headquarters: $1 off well spirits and domestic beer, $8 prosecco, $8 popcorn, $13 featured specialty cocktails and tacos. An award-winning cocktail program at a downtown-friendly price.",
+    "offer_type": "happy_hour",
+    "redemption_type": "auto",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-007",
+    "business_name": "Little Rituals",
+    "category": "bars_nightlife",
+    "offer_text": "Happy hour at this fourth-floor, Spirited-Award-winning downtown lounge: half-off the bottle & board, $12 spritzes, Negronis, Martinis and wines by the glass, plus daily tacos. Skyline views and serious cocktails without the full nightcap tab.",
+    "offer_type": "happy_hour",
+    "redemption_type": "auto",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  },
+  {
+    "id": "phx-deal-008",
+    "business_name": "Papago Golf Club",
+    "category": "outdoor_adventure",
+    "offer_text": "Twilight rates kick in on afternoon tee times for a lower walk-up green fee on this classic municipal course, and Maricopa County residents can save year-round with the Phoenix Golf Premium and Premium Senior cards. Play the back nine as the sun drops and Camelback goes orange — best light of the day, and the coolest.",
+    "offer_type": "twilight_rate",
+    "redemption_type": "in_person",
+    "redemption_value": "",
+    "source": "aggregated",
+    "is_exclusive": false,
+    "expires": "2026-12-31"
+  }
+]

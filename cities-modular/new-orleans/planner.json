@@ -1,0 +1,698 @@
+{
+  "morning_starts": [
+    {
+      "title": "Loretta's Authentic Pralines",
+      "note": "Praline-stuffed beignet",
+      "business": "Loretta's Authentic Pralines",
+      "website": "https://lorettaspralines.com/",
+      "duration": null
+    },
+    {
+      "title": "Haydel's Bakery",
+      "note": "Traditional braided King Cake or Cajun Kringle",
+      "business": "Haydel's Bakery",
+      "website": "https://haydelsbakery.com/",
+      "duration": null
+    },
+    {
+      "title": "La Boulangerie",
+      "note": "Almond croissant or Jambon Beurre",
+      "business": "La Boulangerie",
+      "website": "https://laboulangerienola.com/",
+      "duration": null
+    },
+    {
+      "title": "Bearcat Café",
+      "note": "Blackberry pistachio pancakes and house-bottled teas",
+      "business": "Bearcat Café",
+      "website": "https://uptown.bearcatcafe.com/",
+      "duration": null
+    },
+    {
+      "title": "Toast",
+      "note": "Chicken and waffles with cayenne whipped butter",
+      "business": "Toast",
+      "website": "https://www.toastneworleans.com/",
+      "duration": null
+    },
+    {
+      "title": "Wakin' Bakin'",
+      "note": "The Sourdough King and the Pancrepes",
+      "business": "Wakin' Bakin'",
+      "website": "https://www.wakinbakin.com/",
+      "duration": null
+    },
+    {
+      "title": "Sucré",
+      "note": "Macaron collection and shimmering petit fours",
+      "business": "Sucré",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Ruby Slipper Café",
+      "note": "Shrimp Boogaloo Benedict and Banana Pudding Beignets",
+      "business": "The Ruby Slipper Café",
+      "website": "https://rubybrunch.com/",
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Jean Lafitte National Historical Park (Barataria Preserve)",
+      "note": "Visitor Center trail for birds and gators",
+      "business": "Jean Lafitte National Historical Park (Barataria Preserve)",
+      "website": "https://www.nps.gov/jela/",
+      "duration": null
+    },
+    {
+      "title": "City Park",
+      "note": "Besthoff Sculpture Garden (free), Café Du Monde City Park location (shorter lines), Morning Bike ride",
+      "business": "City Park",
+      "website": "https://www.neworleanscitypark.com",
+      "duration": null
+    },
+    {
+      "title": "Crescent Park",
+      "note": "The arching Rusty Rainbow bridge at Piety Street",
+      "business": "Crescent Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bayou Paddleboards",
+      "note": "Paddleboard yoga sessions",
+      "business": "Bayou Paddleboards",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fontainebleau State Park",
+      "note": "Walking the ruins of the historic sugar mill",
+      "business": "Fontainebleau State Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Woldenberg Riverfront Park",
+      "note": "Watching steamboats undock at sunset",
+      "business": "Woldenberg Riverfront Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cajun Encounters Swamp Tour",
+      "note": "The morning tour — wildlife is more active and light is better",
+      "business": "Cajun Encounters Swamp Tour",
+      "website": "https://www.cajunencounters.com",
+      "duration": null
+    },
+    {
+      "title": "Mississippi River Trail",
+      "note": "Sunset cycling along The Fly behind Audubon Zoo",
+      "business": "Mississippi River Trail",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Sydney & Walda Besthoff Sculpture Garden",
+      "note": "The reflecting lagoons and the giant spider sculpture",
+      "business": "Sydney & Walda Besthoff Sculpture Garden",
+      "website": "https://noma.org/sculpture-garden",
+      "duration": null
+    },
+    {
+      "title": "Backstreet Cultural Museum",
+      "note": "The elaborately hand-beaded Mardi Gras Indian suits",
+      "business": "Backstreet Cultural Museum",
+      "website": "https://www.backstreetmuseum.org/",
+      "duration": null
+    },
+    {
+      "title": "The National WWII Museum",
+      "note": "Beyond All Boundaries 4D film, the submarine exhibit, Stage Door Canteen dinner show",
+      "business": "The National WWII Museum",
+      "website": "https://www.nationalww2museum.org",
+      "duration": null
+    },
+    {
+      "title": "St. Charles Streetcar",
+      "note": "Ride the full line one way — sit on the right side heading Uptown for the best mansion views",
+      "business": "St. Charles Streetcar",
+      "website": "https://www.norta.com",
+      "duration": null
+    },
+    {
+      "title": "Tremé Neighborhood Walking Tour",
+      "note": "Visiting Congo Square",
+      "business": "Tremé Neighborhood Walking Tour",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Saenger Theatre",
+      "note": "Touring Broadway musical",
+      "business": "Saenger Theatre",
+      "website": "https://www.saengernola.com/",
+      "duration": null
+    },
+    {
+      "title": "Longue Vue House and Gardens",
+      "note": "Guided house tour followed by coffee at the Garden Café",
+      "business": "Longue Vue House and Gardens",
+      "website": "https://longuevue.com/",
+      "duration": null
+    },
+    {
+      "title": "St. Louis Cathedral",
+      "note": "Step inside even for 5 minutes — the painted ceiling and stained glass are incredible",
+      "business": "St. Louis Cathedral",
+      "website": "https://www.stlouiscathedral.org",
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "Faulkner House Books",
+      "note": "Browsing rare signed first editions",
+      "business": "Faulkner House Books",
+      "website": "https://faulknerhousebooks.com/",
+      "duration": null
+    },
+    {
+      "title": "Dirty Coast",
+      "note": "'Expect Delays' or Water Meter merchandise",
+      "business": "Dirty Coast",
+      "website": "https://dirtycoast.com/",
+      "duration": null
+    },
+    {
+      "title": "Kitchen Witch Cookbooks",
+      "note": "Rare out-of-print Louisiana Creole cookbooks",
+      "business": "Kitchen Witch Cookbooks",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Louisiana Music Factory",
+      "note": "Weekend in-store acoustic performances",
+      "business": "Louisiana Music Factory",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Columns Hotel",
+      "note": "Sazerac on the front porch watching streetcars",
+      "business": "Columns Hotel",
+      "website": "https://thecolumns.com/",
+      "duration": null
+    },
+    {
+      "title": "Hotel Peter and Paul",
+      "note": "The Elysian Bar downstairs (open to non-guests) is stunning",
+      "business": "Hotel Peter and Paul",
+      "website": "https://www.hotelpeterandpaul.com",
+      "duration": null
+    },
+    {
+      "title": "Fleurty Girl",
+      "note": "Hyper-local NOLA pride t-shirts",
+      "business": "Fleurty Girl",
+      "website": "https://fleurtygirl.com/",
+      "duration": null
+    },
+    {
+      "title": "Rubenstein's",
+      "note": "Custom tailoring consultation",
+      "business": "Rubenstein's",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Dong Phuong Bakery & Restaurant",
+      "note": "Banh Mi and the seasonal Mardi Gras King Cake",
+      "business": "Dong Phuong Bakery & Restaurant",
+      "website": "https://www.dpbakery.com/",
+      "duration": null
+    },
+    {
+      "title": "Wakin' Bakin'",
+      "note": "The Sourdough King and the Pancrepes",
+      "business": "Wakin' Bakin'",
+      "website": "https://www.wakinbakin.com/",
+      "duration": null
+    },
+    {
+      "title": "Parkway Bakery & Tavern",
+      "note": "Roast beef debris po'boy — dressed, obviously",
+      "business": "Parkway Bakery & Tavern",
+      "website": "https://www.parkwaypoorboys.com",
+      "duration": null
+    },
+    {
+      "title": "Willie Mae's Scotch House",
+      "note": "Fried chicken. Get extra sides of butter beans and cornbread.",
+      "business": "Willie Mae's Scotch House",
+      "website": "https://www.williemaesnola.com",
+      "duration": null
+    },
+    {
+      "title": "Central Grocery",
+      "note": "Original muffuletta — order a half",
+      "business": "Central Grocery",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Domilise's Po-Boy & Bar",
+      "note": "Fried shrimp po'boy or hot sausage po'boy",
+      "business": "Domilise's Po-Boy & Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tal's Hummus",
+      "note": "Classic falafel pita and shakshuka",
+      "business": "Tal's Hummus",
+      "website": "https://talshummus.com/",
+      "duration": null
+    },
+    {
+      "title": "Dat Dog",
+      "note": "Crawfish sausage or alligator sausage with Creole mustard",
+      "business": "Dat Dog",
+      "website": "https://www.datdog.com",
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Parleaux Beer Lab",
+      "note": "Rotating fruit-infused sour ales",
+      "business": "Parleaux Beer Lab",
+      "website": "https://www.parleauxbeerlab.com/",
+      "duration": null
+    },
+    {
+      "title": "Compère Lapin Bar",
+      "note": "The Copper Bunny cocktail",
+      "business": "Compère Lapin Bar",
+      "website": "http://comperelapin.com/",
+      "duration": null
+    },
+    {
+      "title": "Preservation Hall",
+      "note": "The 8pm or 9pm show. Line up 30 min early for bench seats.",
+      "business": "Preservation Hall",
+      "website": "https://www.preservationhall.com",
+      "duration": null
+    },
+    {
+      "title": "The Spotted Cat Music Club",
+      "note": "Show up by 8pm to get a spot. Cash only — ATM before you go.",
+      "business": "The Spotted Cat Music Club",
+      "website": "https://www.spottedcatmusicclub.com",
+      "duration": null
+    },
+    {
+      "title": "Fives",
+      "note": "Saturn in Retrograde cocktail paired with Gulf Coast oysters",
+      "business": "Fives",
+      "website": "https://www.fives.bar/",
+      "duration": null
+    },
+    {
+      "title": "N7",
+      "note": "Canned European sardines paired with a natural Pét-Nat",
+      "business": "N7",
+      "website": "https://www.n7nola.com/",
+      "duration": null
+    },
+    {
+      "title": "Courtyard Brewery",
+      "note": "Rotating hop-forward IPAs",
+      "business": "Courtyard Brewery",
+      "website": "https://courtyardbrewery.square.site/",
+      "duration": null
+    },
+    {
+      "title": "The Elysian Bar",
+      "note": "Any seasonal cocktail in the main church room",
+      "business": "The Elysian Bar",
+      "website": "https://www.hotelpeterandpaul.com/the-elysian-bar",
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "SEIJI's OMAKASE by Little Tokyo",
+      "note": "The 7-course premium sushi-kaiseki experience ($140)",
+      "business": "SEIJI's OMAKASE by Little Tokyo",
+      "website": "https://www.littletokyonola.com/seijis-omakase",
+      "duration": null
+    },
+    {
+      "title": "Saint-Germain",
+      "note": "The full tasting menu — it changes constantly. Trust the chefs.",
+      "business": "Saint-Germain",
+      "website": "https://www.saintgermainnola.com",
+      "duration": null
+    },
+    {
+      "title": "Patula",
+      "note": "Moroccan-spiced meatballs and mushroom toast",
+      "business": "Patula",
+      "website": "http://www.patulala.com/",
+      "duration": null
+    },
+    {
+      "title": "The Joint",
+      "note": "House-cured smoked pastrami and peanut butter pie",
+      "business": "The Joint",
+      "website": "https://alwayssmokin.com/",
+      "duration": null
+    },
+    {
+      "title": "Bearcat Café",
+      "note": "Blackberry pistachio pancakes and house-bottled teas",
+      "business": "Bearcat Café",
+      "website": "https://uptown.bearcatcafe.com/",
+      "duration": null
+    },
+    {
+      "title": "Charmant",
+      "note": "Fried Brussels Sprouts Salad and Pork Osso Bucco Arancini",
+      "business": "Charmant",
+      "website": "https://charmant.toast.site",
+      "duration": null
+    },
+    {
+      "title": "Emeril's",
+      "note": "Oyster stew with Herbsaint cream, trout amandine, banana cream pie",
+      "business": "Emeril's",
+      "website": "https://www.emerilsrestaurants.com/emerils-new-orleans",
+      "duration": null
+    },
+    {
+      "title": "Saffron NOLA",
+      "note": "Oyster bed roast and the curried seafood gumbo",
+      "business": "Saffron NOLA",
+      "website": "https://www.saffronnola.com/",
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "SEIJI's OMAKASE by Little Tokyo",
+      "note": "The 7-course premium sushi-kaiseki experience ($140)",
+      "business": "SEIJI's OMAKASE by Little Tokyo",
+      "website": "https://www.littletokyonola.com/seijis-omakase",
+      "duration": null
+    },
+    {
+      "title": "Saint-Germain",
+      "note": "The full tasting menu — it changes constantly. Trust the chefs.",
+      "business": "Saint-Germain",
+      "website": "https://www.saintgermainnola.com",
+      "duration": null
+    },
+    {
+      "title": "Patula",
+      "note": "Moroccan-spiced meatballs and mushroom toast",
+      "business": "Patula",
+      "website": "http://www.patulala.com/",
+      "duration": null
+    },
+    {
+      "title": "Charmant",
+      "note": "Fried Brussels Sprouts Salad and Pork Osso Bucco Arancini",
+      "business": "Charmant",
+      "website": "https://charmant.toast.site",
+      "duration": null
+    },
+    {
+      "title": "Emeril's",
+      "note": "Oyster stew with Herbsaint cream, trout amandine, banana cream pie",
+      "business": "Emeril's",
+      "website": "https://www.emerilsrestaurants.com/emerils-new-orleans",
+      "duration": null
+    },
+    {
+      "title": "Saffron NOLA",
+      "note": "Oyster bed roast and the curried seafood gumbo",
+      "business": "Saffron NOLA",
+      "website": "https://www.saffronnola.com/",
+      "duration": null
+    },
+    {
+      "title": "Studio",
+      "note": "Dry-aged ribeye",
+      "business": "Studio",
+      "website": "https://studio-nola.com/",
+      "duration": null
+    },
+    {
+      "title": "Succotash Nola",
+      "note": "The signature succotash and Gulf catches",
+      "business": "Succotash Nola",
+      "website": "https://www.succotashnola.com/",
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Sydney & Walda Besthoff Sculpture Garden",
+      "note": "The reflecting lagoons and the giant spider sculpture",
+      "business": "Sydney & Walda Besthoff Sculpture Garden",
+      "website": "https://noma.org/sculpture-garden",
+      "duration": null
+    },
+    {
+      "title": "SEIJI's OMAKASE by Little Tokyo",
+      "note": "The 7-course premium sushi-kaiseki experience ($140)",
+      "business": "SEIJI's OMAKASE by Little Tokyo",
+      "website": "https://www.littletokyonola.com/seijis-omakase",
+      "duration": null
+    },
+    {
+      "title": "Saint-Germain",
+      "note": "The full tasting menu — it changes constantly. Trust the chefs.",
+      "business": "Saint-Germain",
+      "website": "https://www.saintgermainnola.com",
+      "duration": null
+    },
+    {
+      "title": "Patula",
+      "note": "Moroccan-spiced meatballs and mushroom toast",
+      "business": "Patula",
+      "website": "http://www.patulala.com/",
+      "duration": null
+    },
+    {
+      "title": "Faulkner House Books",
+      "note": "Browsing rare signed first editions",
+      "business": "Faulkner House Books",
+      "website": "https://faulknerhousebooks.com/",
+      "duration": null
+    },
+    {
+      "title": "St. Charles Streetcar",
+      "note": "Ride the full line one way — sit on the right side heading Uptown for the best mansion views",
+      "business": "St. Charles Streetcar",
+      "website": "https://www.norta.com",
+      "duration": null
+    },
+    {
+      "title": "Compère Lapin Bar",
+      "note": "The Copper Bunny cocktail",
+      "business": "Compère Lapin Bar",
+      "website": "http://comperelapin.com/",
+      "duration": null
+    },
+    {
+      "title": "Preservation Hall",
+      "note": "The 8pm or 9pm show. Line up 30 min early for bench seats.",
+      "business": "Preservation Hall",
+      "website": "https://www.preservationhall.com",
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Preservation Hall",
+      "note": "The 8pm or 9pm show. Line up 30 min early for bench seats.",
+      "business": "Preservation Hall",
+      "website": "https://www.preservationhall.com",
+      "duration": null
+    },
+    {
+      "title": "The Spotted Cat Music Club",
+      "note": "Show up by 8pm to get a spot. Cash only — ATM before you go.",
+      "business": "The Spotted Cat Music Club",
+      "website": "https://www.spottedcatmusicclub.com",
+      "duration": null
+    },
+    {
+      "title": "Chickie Wah Wah",
+      "note": "A weeknight residency show",
+      "business": "Chickie Wah Wah",
+      "website": "https://chickiewahwah.com/",
+      "duration": null
+    },
+    {
+      "title": "Civic Theatre",
+      "note": "Standing room near the stage",
+      "business": "Civic Theatre",
+      "website": "https://civicnola.com/",
+      "duration": null
+    },
+    {
+      "title": "Tipitina's",
+      "note": "Check the calendar — it's the best live music room in the city",
+      "business": "Tipitina's",
+      "website": "https://www.tipitinas.com",
+      "duration": null
+    },
+    {
+      "title": "Joy Theater",
+      "note": "Comedy tour or indie rock show",
+      "business": "Joy Theater",
+      "website": "https://thejoytheater.com/",
+      "duration": null
+    },
+    {
+      "title": "Snug Harbor Jazz Bistro",
+      "note": "Book a table for dinner in the Bistro, then catch the 8pm or 10pm show",
+      "business": "Snug Harbor Jazz Bistro",
+      "website": "https://snugjazz.com",
+      "duration": null
+    },
+    {
+      "title": "Toulouse Theatre",
+      "note": "Late-night brass band sets",
+      "business": "Toulouse Theatre",
+      "website": "https://toulousetheatre.com/",
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Sydney & Walda Besthoff Sculpture Garden",
+      "note": "The reflecting lagoons and the giant spider sculpture",
+      "business": "Sydney & Walda Besthoff Sculpture Garden",
+      "website": "https://noma.org/sculpture-garden",
+      "duration": null
+    },
+    {
+      "title": "The National WWII Museum",
+      "note": "Beyond All Boundaries 4D film, the submarine exhibit, Stage Door Canteen dinner show",
+      "business": "The National WWII Museum",
+      "website": "https://www.nationalww2museum.org",
+      "duration": null
+    },
+    {
+      "title": "Loretta's Authentic Pralines",
+      "note": "Praline-stuffed beignet",
+      "business": "Loretta's Authentic Pralines",
+      "website": "https://lorettaspralines.com/",
+      "duration": null
+    },
+    {
+      "title": "Escape My Room",
+      "note": "The Mardi Gras Study room",
+      "business": "Escape My Room",
+      "website": "https://escapemyroom.com/",
+      "duration": null
+    },
+    {
+      "title": "St. Charles Streetcar",
+      "note": "Ride the full line one way — sit on the right side heading Uptown for the best mansion views",
+      "business": "St. Charles Streetcar",
+      "website": "https://www.norta.com",
+      "duration": null
+    },
+    {
+      "title": "Parleaux Beer Lab",
+      "note": "Rotating fruit-infused sour ales",
+      "business": "Parleaux Beer Lab",
+      "website": "https://www.parleauxbeerlab.com/",
+      "duration": null
+    },
+    {
+      "title": "Haydel's Bakery",
+      "note": "Traditional braided King Cake or Cajun Kringle",
+      "business": "Haydel's Bakery",
+      "website": "https://haydelsbakery.com/",
+      "duration": null
+    },
+    {
+      "title": "La Boulangerie",
+      "note": "Almond croissant or Jambon Beurre",
+      "business": "La Boulangerie",
+      "website": "https://laboulangerienola.com/",
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Backstreet Cultural Museum",
+      "note": "The elaborately hand-beaded Mardi Gras Indian suits",
+      "business": "Backstreet Cultural Museum",
+      "website": "https://www.backstreetmuseum.org/",
+      "duration": null
+    },
+    {
+      "title": "The National WWII Museum",
+      "note": "Beyond All Boundaries 4D film, the submarine exhibit, Stage Door Canteen dinner show",
+      "business": "The National WWII Museum",
+      "website": "https://www.nationalww2museum.org",
+      "duration": null
+    },
+    {
+      "title": "Saenger Theatre",
+      "note": "Touring Broadway musical",
+      "business": "Saenger Theatre",
+      "website": "https://www.saengernola.com/",
+      "duration": null
+    },
+    {
+      "title": "New Orleans Museum of Art (NOMA)",
+      "note": "The photography galleries and the free Sculpture Garden next door",
+      "business": "New Orleans Museum of Art (NOMA)",
+      "website": "https://noma.org/",
+      "duration": null
+    },
+    {
+      "title": "The Presbytère",
+      "note": "Interactive Mardi Gras float exhibits",
+      "business": "The Presbytère",
+      "website": "https://louisianastatemuseum.org/museum/presbytere",
+      "duration": null
+    },
+    {
+      "title": "Orpheum Theater",
+      "note": "Classical performance from the floor sweet spot",
+      "business": "Orpheum Theater",
+      "website": "https://orpheumnola.com/",
+      "duration": null
+    },
+    {
+      "title": "Float NOLA",
+      "note": "90-minute float tank session",
+      "business": "Float NOLA",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Spa at Windsor Court",
+      "note": "Monarch detoxification wrap",
+      "business": "The Spa at Windsor Court",
+      "website": "https://thewindsorcourt.com/amenities/the-windsor-court-spa/",
+      "duration": null
+    }
+  ]
+}

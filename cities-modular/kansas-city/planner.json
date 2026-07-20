@@ -1,0 +1,607 @@
+{
+  "morning_starts": [
+    {
+      "title": "Messenger Coffee Co. + Ibis Bakery",
+      "note": "Three floors of slow-pour ritual with fresh Ibis loaves — the low-and-slow way to greet a KC morning.",
+      "business": "Messenger Coffee Co. + Ibis Bakery",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Café Cà Phê",
+      "note": "Vietnamese coffee with real backbone — a robusta jolt to get the smoke rolling early.",
+      "business": "Café Cà Phê",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Blip Roasters",
+      "note": "West Bottoms roaster tucked among the old brick — patient beans for patient people.",
+      "business": "Blip Roasters",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Roasterie Factory Cafe",
+      "note": "Watch KC's hometown beans get roasted low and steady before your first cup.",
+      "business": "The Roasterie Factory Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oddly Correct",
+      "note": "Minimalist, single-origin, no shortcuts — brewed with the same devotion a pitmaster gives the fire.",
+      "business": "Oddly Correct",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fervere",
+      "note": "Wood-fired hearth bread pulled fresh — the bakery answer to a smoker's craft.",
+      "business": "Fervere",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Longview Lake Park & Marina",
+      "note": "930 acres of open water south of town — rent a boat and let the day simmer.",
+      "business": "Longview Lake Park & Marina",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Smithville Lake",
+      "note": "Big-water sailing and shoreline trails north of KC — worth the drive for a proper lake day.",
+      "business": "Smithville Lake",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "KC Kayak & Canoe",
+      "note": "Paddle the Missouri like the old riverboat men did, minus the sinking.",
+      "business": "KC Kayak & Canoe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Riverfront Heritage Trail",
+      "note": "Miles of paved riverfront that tells KC's story mile by mile — walk it slow.",
+      "business": "Riverfront Heritage Trail",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cliff Drive Scenic Byway at George E. Kessler Park",
+      "note": "A limestone-bluff drive that curls through the woods — car-free hours are the sweet spot.",
+      "business": "Cliff Drive Scenic Byway at George E. Kessler Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+      "note": "Rose garden and rolling green — the tender side of a tough-town afternoon.",
+      "business": "Jacob L. Loose Park & Laura Conyers Smith Municipal Rose Garden",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Weston Bend State Park",
+      "note": "Bluff-top overlook of the Missouri River, 40 minutes out toward Weston — big-sky payoff.",
+      "business": "Weston Bend State Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "American Jazz Museum",
+      "note": "The heartbeat of 18th & Vine — where KC's syncopated soul lives on.",
+      "business": "American Jazz Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Negro Leagues Baseball Museum",
+      "note": "Sacred ground of the game, right where it should be at 18th & Vine — reverent and real.",
+      "business": "Negro Leagues Baseball Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Nelson-Atkins Museum of Art",
+      "note": "World-class collection and those giant shuttlecocks on the lawn — free and endless.",
+      "business": "The Nelson-Atkins Museum of Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "National WWI Museum and Memorial",
+      "note": "America's premier Great War museum under a soaring tower — the view alone earns the climb.",
+      "business": "National WWI Museum and Memorial",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arabia Steamboat Museum",
+      "note": "A whole sunken steamboat's cargo, dug from a cornfield — KC history you can practically smell.",
+      "business": "Arabia Steamboat Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Crossroads Arts District",
+      "note": "Galleries, murals and makers packed block to block — best savored on a First Friday amble.",
+      "business": "Crossroads Arts District",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kemper Museum of Contemporary Art",
+      "note": "Free contemporary work in a tidy modern box — a quick, sharp culture hit.",
+      "business": "Kemper Museum of Contemporary Art",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "City Market (Historic River Market)",
+      "note": "Vendors, produce and old-KC bustle — graze the stalls like a rack of samples.",
+      "business": "City Market (Historic River Market)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Made in KC (Country Club Plaza)",
+      "note": "Local makers under one Plaza roof — take a piece of the city home.",
+      "business": "Made in KC (Country Club Plaza)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hammerpress",
+      "note": "Letterpress cards and prints cranked out by hand — Crossroads craft at its finest.",
+      "business": "Hammerpress",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mills Record Company",
+      "note": "Crate-dig for vinyl in a town that knows its rhythm section.",
+      "business": "Mills Record Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "West Bottoms Antique District",
+      "note": "Warehouse floors of vintage treasure — first-weekend hunts reward the patient picker.",
+      "business": "West Bottoms Antique District",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Prospero's Books",
+      "note": "Stacks upon stacks of used books — the kind of browse that eats an afternoon whole.",
+      "business": "Prospero's Books",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Finefolk",
+      "note": "Curated fashion in the Crossroads for when you want the good cut.",
+      "business": "Finefolk",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Joe's Kansas City Bar-B-Que",
+      "note": "Ribs and the Z-Man sandwich out of a working gas station — trust me, get in that line.",
+      "business": "Joe's Kansas City Bar-B-Que",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arthur Bryant's Barbeque",
+      "note": "The old guard at 18th & Vine — burnt ends and that gritty vinegar sauce, history on a tray.",
+      "business": "Arthur Bryant's Barbeque",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Gates Bar-B-Q",
+      "note": "\"Hi, may I help you?\" hollered at the door, sauce with a kick — a KC institution, plain and true.",
+      "business": "Gates Bar-B-Q",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Q39",
+      "note": "Competition-pedigree 'cue in a sit-down Midtown room — polished but the smoke rings are real.",
+      "business": "Q39",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "LC's Bar-B-Q",
+      "note": "No-frills shack by the highway pushing heaps of smoky meat — burnt ends worth the mess.",
+      "business": "LC's Bar-B-Q",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Slap's BBQ",
+      "note": "KCK favorite where the line forms early and the ribs sell out — get there before they're gone.",
+      "business": "Slap's BBQ",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Woodyard Bar-B-Que",
+      "note": "They sell the wood and burn it too — patio smoke and honest brisket in KCK.",
+      "business": "Woodyard Bar-B-Que",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Green Lady Lounge",
+      "note": "Red-lit, live jazz seven nights a week — sip slow and let the trio work.",
+      "business": "Green Lady Lounge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Boulevard Brewing Co. Beer Hall",
+      "note": "KC's flagship brewery pouring fresh in a big communal hall — the hometown round.",
+      "business": "Boulevard Brewing Co. Beer Hall",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Torn Label Brewing Company",
+      "note": "Crossroads taproom with adventurous pours — a laid-back start to the evening.",
+      "business": "Torn Label Brewing Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "J. Rieger & Co. Distillery",
+      "note": "Revived KC whiskey house with a hidden speakeasy slide — cocktails with a story.",
+      "business": "J. Rieger & Co. Distillery",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "KC Bier Co.",
+      "note": "German-style lagers done right in a friendly biergarten — crisp and easy-going.",
+      "business": "KC Bier Co.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Ship",
+      "note": "West Bottoms bar with vintage charm and a live-music soul — a warm perch for early drinks.",
+      "business": "The Ship",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Extra Virgin",
+      "note": "Tapas and a lively bar in the Crossroads — small plates that make the wine linger.",
+      "business": "Extra Virgin",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "Room 39",
+      "note": "Farm-to-table cooking without the fuss — seasonal, honest, easygoing.",
+      "business": "Room 39",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Succotash",
+      "note": "Big brunch-y comfort plates with personality — a hearty, laid-back sit-down.",
+      "business": "Succotash",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Waldo Cafe",
+      "note": "Neighborhood comfort food that treats you like a regular from bite one.",
+      "business": "Waldo Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Char Bar Smoked Meats & Amusements",
+      "note": "Westport 'cue with a backyard patio and lawn games — smoke and fun in equal measure.",
+      "business": "Char Bar Smoked Meats & Amusements",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fiorella's Jack Stack Barbecue - Freight House",
+      "note": "White-tablecloth 'cue in an old freight house — the crown prime and cheesy corn are the move.",
+      "business": "Fiorella's Jack Stack Barbecue - Freight House",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Chewology",
+      "note": "Handmade dumplings and Taiwanese street eats — a nimble, satisfying casual bite.",
+      "business": "Chewology",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Aixois",
+      "note": "A neighborhood French bistro that's cozy, unhurried and just right for a low-key supper.",
+      "business": "Aixois",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "The Town Company",
+      "note": "Crossroads Hotel's hearth-driven room turning out refined seasonal fare — a special-occasion spread.",
+      "business": "The Town Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Antler Room",
+      "note": "Ambitious small-plate cooking that keeps winning national nods — inventive and dialed-in.",
+      "business": "The Antler Room",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Novel",
+      "note": "Chef-driven tasting-menu spirit in a tiny room — the kind of meal you plan a night around.",
+      "business": "Novel",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fox and Pearl",
+      "note": "Midwestern ingredients cooked with real fire and finesse — rustic-elegant on the West Side.",
+      "business": "Fox and Pearl",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Campground",
+      "note": "Live-fire fine dining with a wood-smoke soul — a pitmaster could respect this flame.",
+      "business": "The Campground",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Affäre",
+      "note": "Modern German fine dining in the Crossroads — precise, elegant, worth the splurge.",
+      "business": "Affäre",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Anjin",
+      "note": "Sleek sushi and Japanese plates for a refined, quieter high-end night.",
+      "business": "Anjin",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Affäre",
+      "note": "Candlelit German-modern plates and a hushed room — built for a slow, close evening.",
+      "business": "Affäre",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Anjin",
+      "note": "Intimate sushi counter where the pace stays gentle — lean in and share.",
+      "business": "Anjin",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Westport Cafe & Bar",
+      "note": "A snug French bistro with lively-but-cozy corners — charming for two.",
+      "business": "Westport Cafe & Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Antler Room",
+      "note": "Small, warm and inventive — a shared tasting that sparks conversation.",
+      "business": "The Antler Room",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Novel",
+      "note": "A tiny, chef-loving room where the meal unfolds slow and personal.",
+      "business": "Novel",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Aixois",
+      "note": "French bistro warmth and a bottle of red — unpretentious romance.",
+      "business": "Aixois",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Swordfish Tom's",
+      "note": "A hidden basement cocktail den — dim, intimate and made for whispering.",
+      "business": "Swordfish Tom's",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "Green Lady Lounge",
+      "note": "Live jazz every night in a scarlet glow — the beating pulse of KC after dark.",
+      "business": "Green Lady Lounge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Blue Room",
+      "note": "A working jazz club inside the American Jazz Museum — 18th & Vine's sound, still swinging.",
+      "business": "The Blue Room",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mutual Musicians Foundation",
+      "note": "The legendary after-hours jam that doesn't get going till midnight — KC jazz in its rawest form.",
+      "business": "Mutual Musicians Foundation",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Knuckleheads Saloon",
+      "note": "Gritty roadhouse stages packed with live blues and rock — loud, sweaty and glorious.",
+      "business": "Knuckleheads Saloon",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Monarch Bar",
+      "note": "Upscale cocktails and a see-and-be-seen glow — dress a notch up for this one.",
+      "business": "The Monarch Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Ship",
+      "note": "West Bottoms haunt with live sets and a nautical soul — a spirited late round.",
+      "business": "The Ship",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Char Bar Smoked Meats & Amusements",
+      "note": "Patio games, a full bar and smoke in the air — Westport's fun-loving night spot.",
+      "business": "Char Bar Smoked Meats & Amusements",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Union Station Kansas City (Science City)",
+      "note": "Grand old depot packed with hands-on Science City fun — kids could burn a whole day here.",
+      "business": "Union Station Kansas City (Science City)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Negro Leagues Baseball Museum",
+      "note": "The game's story told with heart — inspiring for ballplayers young and old.",
+      "business": "Negro Leagues Baseball Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kauffman Stadium",
+      "note": "Fountains beyond the outfield and Royals baseball — a classic KC family day at the K.",
+      "business": "Kauffman Stadium",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Zip KC",
+      "note": "Ziplines and canopy tours in the wooded hills — the adventurous kind of family thrill.",
+      "business": "Zip KC",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Starlight Theatre",
+      "note": "Summer shows under the stars at KC's big outdoor amphitheater — a night the kids remember.",
+      "business": "Starlight Theatre",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Swope Park - Fox Hollow Trail & Mountain Bike Trails",
+      "note": "Acres of woods and trails to run off the energy — one of KC's great green backyards.",
+      "business": "Swope Park - Fox Hollow Trail & Mountain Bike Trails",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Children's Mercy Park",
+      "note": "Sporting KC under the lights — a loud, fun soccer outing for the whole crew.",
+      "business": "Children's Mercy Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "The Nelson-Atkins Museum of Art",
+      "note": "Free galleries and marble halls to wander for hours while the rain does its thing.",
+      "business": "The Nelson-Atkins Museum of Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "National WWI Museum and Memorial",
+      "note": "A deep, dry dive into history under one grand roof — plenty to fill a wet afternoon.",
+      "business": "National WWI Museum and Memorial",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Union Station Kansas City (Science City)",
+      "note": "Science City, exhibits and a whole depot to explore — rain never touches the fun.",
+      "business": "Union Station Kansas City (Science City)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Boulevard Brewing Co. Beer Hall & Tours",
+      "note": "Duck inside for a brewery tour and a fresh pour — the tastiest way to wait out a storm.",
+      "business": "Boulevard Brewing Co. Beer Hall & Tours",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kemper Museum of Contemporary Art",
+      "note": "Free, compact and indoors — a sharp contemporary browse when the sky won't cooperate.",
+      "business": "Kemper Museum of Contemporary Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arabia Steamboat Museum",
+      "note": "An entire recovered steamboat's haul, all under cover — fascinating and bone-dry.",
+      "business": "Arabia Steamboat Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "American Jazz Museum",
+      "note": "Indoor immersion in KC's jazz legacy at 18th & Vine — perfect for a gray-day escape.",
+      "business": "American Jazz Museum",
+      "website": null,
+      "duration": null
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "slug": "san-francisco",
+  "name": "San Francisco",
+  "state": "California",
+  "region": "Pacific Coast / Bay Area",
+  "tagline": "The City That Eats First",
+  "description": "A 7-by-7-mile peninsula packed with more Michelin stars per capita than anywhere outside New York, iconic landmarks from the Golden Gate to Alcatraz, and neighborhoods so distinct they function as separate cities. San Francisco draws food obsessives, tech pilgrims, outdoor adventurers, and anyone who wants to feel like the whole world showed up on one foggy hill.",
+  "coordinates": {
+    "lat": 37.77,
+    "lng": -122.42
+  },
+  "timezone": "America/Los_Angeles",
+  "population": null,
+  "nearest_major_city": null,
+  "domain_legacy": null,
+  "identity": {
+    "known_for": null,
+    "vibe": "Progressive, foodie-obsessed, fog-wrapped city of micro-neighborhoods where tech money and bohemian soul coexist in gorgeous, hilly tension.",
+    "best_season": null,
+    "visitor_type": null
+  },
+  "hero": {
+    "summer": null,
+    "fall": null,
+    "winter": null,
+    "spring": null
+  },
+  "nexus": {
+    "type": null,
+    "anchor": null,
+    "anchor_url": null,
+    "radius": null,
+    "services": null,
+    "affiliate_density": null,
+    "description": null
+  },
+  "nexus_grid": [
+    {
+      "id": "food-scene",
+      "title": "World-Class Food",
+      "icon": "🍽️",
+      "description": "More Michelin stars than any US city outside NYC. From $3 Mission tacos to $500 tasting menus."
+    },
+    {
+      "id": "iconic-landmarks",
+      "title": "Iconic Landmarks & Culture",
+      "icon": "🌉",
+      "description": "Golden Gate, Alcatraz, cable cars, Chinatown, and world-class museums packed into 49 square miles."
+    },
+    {
+      "id": "outdoor-adventure",
+      "title": "Outdoor & Bay Life",
+      "icon": "🚴",
+      "description": "Bike the Golden Gate, hike the Presidio, kayak the bay, surf Ocean Beach — all inside city limits."
+    },
+    {
+      "id": "nightlife",
+      "title": "Bars & Nightlife",
+      "icon": "🍸",
+      "description": "Speakeasies, rooftop bars, live music"
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping & Markets",
+      "icon": "🛍️",
+      "description": "Ferry Building, Hayes Valley, Union Square"
+    },
+    {
+      "id": "plan",
+      "title": "Plan Your Trip",
+      "icon": "📋",
+      "description": "Itinerary builder, transit, lodging"
+    }
+  ],
+  "sponsors": {
+    "anchor": null,
+    "categories": null,
+    "album_sponsors": null
+  },
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "🍽️",
+      "description": "World-class dining from $3 tacos to Michelin tasting menus.",
+      "tags": [
+        "dining",
+        "coffee_bakeries",
+        "markets",
+        "seafood"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture & History",
+      "icon": "🏛️",
+      "description": "Alcatraz, Chinatown, Beat poetry, and 7 floors of modern art.",
+      "tags": [
+        "attractions",
+        "museums",
+        "galleries",
+        "historic_sites",
+        "landmarks"
+      ]
+    },
+    {
+      "id": "adventure",
+      "label": "Outdoor Adventure",
+      "icon": "🚴",
+      "description": "Bike the bridge, hike the Presidio, paddle Stow Lake.",
+      "tags": [
+        "outdoor_adventure",
+        "biking",
+        "parks",
+        "beaches"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "🍸",
+      "description": "Tiki temples, speakeasies, live blues, and arcade bars.",
+      "tags": [
+        "bars_nightlife",
+        "cocktail_bars",
+        "live_music_venues",
+        "clubs"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "☁️",
+      "description": "Dolores Park blankets, pour-over coffee, and bookstore browsing.",
+      "tags": [
+        "coffee_bakeries",
+        "parks",
+        "shopping",
+        "wellness_spa"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "💕",
+      "description": "Sunset bridge walks, candlelit bistros, and spa soaks.",
+      "tags": [
+        "fine_dining",
+        "cocktail_bars",
+        "wellness_spa",
+        "boutique_hotels"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "👨‍👩‍👧‍👦",
+      "description": "Hands-on museums, sea lions, cable cars, and garlic fries at the ballpark.",
+      "tags": [
+        "museums",
+        "parks",
+        "sports_venues",
+        "landmarks"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": null,
+    "local_transport": "Very walkable in clusters but hills are real. MUNI buses and metro cover most neighborhoods. Cable cars run 3 lines (Powell-Hyde, Powell-Mason, California). BART for East Bay/airport. Uber/Lyft widely available. Bike rentals everywhere — Bay Wheels (Lyft) docks across the city. Parking is expensive and scarce; don't rent a car unless leaving the city.",
+    "_legacy_transit": [
+      {
+        "icon": "🚗",
+        "label": "Drive",
+        "text": "SFO Airport is 13 miles south via US-101 (25-45 min depending on traffic). Oakland Airport (OAK) is 20 miles east via I-80."
+      },
+      {
+        "icon": "🚆",
+        "label": "Train",
+        "text": "BART connects SFO and OAK airports directly to downtown SF (Powell St, Embarcadero, Civic Center stations). Caltrain runs from SFO to the Peninsula and South Bay."
+      },
+      {
+        "icon": "✈️",
+        "label": "Fly",
+        "text": "SFO (San Francisco International) is the primary hub — major carriers, international flights. OAK (Oakland International) is budget-friendly (Southwest, Spirit). SJC (San Jose) serves South Bay."
+      }
+    ]
+  },
+  "side_trips": [
+    {
+      "name": "Sausalito",
+      "distance": "15 min drive / 30 min ferry from Pier 41",
+      "pitch": "Charming waterfront town across the Golden Gate. The ferry ride back with skyline views is the real attraction.",
+      "highlights": null
+    },
+    {
+      "name": "Muir Woods",
+      "distance": "30 min drive north",
+      "pitch": "Old-growth coast redwoods just outside the city. Reservations required for parking or shuttle.",
+      "highlights": null
+    },
+    {
+      "name": "Napa Valley",
+      "distance": "90 min drive north",
+      "pitch": "World-famous wine country. Book tastings in advance — most wineries require reservations now.",
+      "highlights": null
+    },
+    {
+      "name": "Half Moon Bay",
+      "distance": "45 min drive south via Hwy 1",
+      "pitch": "Quiet coastal town with dramatic bluffs, farm stands, and the Ritz-Carlton for a splurge.",
+      "highlights": null
+    }
+  ],
+  "concierge": {
+    "name": "The Fog Whisperer",
+    "greeting": "Welcome to the 7x7. I'm the Fog Whisperer — been here long enough to know when Karl's rolling in and where to eat when he does. What are you trying to get into?",
+    "personality": null,
+    "sign_off": null
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": false
+  },
+  "images": {
+    "hero": "hero-golden-gate-fog-summer.jpg",
+    "story": [
+      "story-painted-ladies-fog.jpg",
+      "story-chinatown-lanterns.jpg",
+      "story-coit-tower-murals.jpg",
+      "story-ferry-building-dawn.jpg"
+    ],
+    "wall": [
+      "wall-bike-bridge-path.jpg",
+      "wall-bridge-selfie.jpg",
+      "wall-brunch-line.jpg",
+      "wall-dolores-park-dogs.jpg",
+      "wall-mission-mural.jpg",
+      "wall-oysters-ferry-building.jpg",
+      "wall-sea-lions-pier39.jpg",
+      "wall-sunset-ocean-beach.jpg"
+    ],
+    "categories": {
+      "dining": "dir-dining-mission-burrito.jpg",
+      "bars_nightlife": "dir-bars-cocktail-tiki.jpg",
+      "bars": "dir-bars-cocktail-tiki.jpg",
+      "coffee_bakeries": "dir-coffee-pourover.jpg",
+      "coffee": "dir-coffee-pourover.jpg",
+      "attractions": "dir-attractions-alcatraz.jpg",
+      "outdoor_adventure": "dir-outdoor-bridge-bikes.jpg",
+      "outdoor": "dir-outdoor-bridge-bikes.jpg",
+      "shopping": "dir-shopping-vintage-vinyl.jpg",
+      "lodging": "dir-lodging-boutique-room.jpg",
+      "entertainment": "dir-entertainment-circus.jpg",
+      "boating_water": "dir-boating-bay-cruise.jpg",
+      "boating": "dir-boating-bay-cruise.jpg",
+      "wellness_spa": "dir-wellness-bathhouse.jpg",
+      "wellness": "dir-wellness-bathhouse.jpg",
+      "services": "dir-dining-brunch-spread.jpg"
+    },
+    "section_breaks": {
+      "outdoor_adventure": "break-crissy-field-lifestyle.jpg",
+      "outdoor": "break-crissy-field-lifestyle.jpg",
+      "dining": "break-ferry-building-dining.jpg",
+      "bars_nightlife": "break-smugglers-cove-nightlife.jpg",
+      "bars": "break-smugglers-cove-nightlife.jpg",
+      "shopping": "break-haight-street-shopping.jpg",
+      "parks": "break-dolores-park-afternoon.jpg",
+      "events": "break-crab-season-wharf.jpg",
+      "transit": "break-cable-car-golden-hour.jpg"
+    }
+  },
+  "_legacy": {
+    "hero_title": "San Francisco — Karl Steps Aside",
+    "hero_sub": "The fog burns off by noon and the city's parks, rooftops, and waterfront come alive. Stern Grove concerts, Outside Lands, and the best farmers market in America at the Ferry Building."
+  }
+}

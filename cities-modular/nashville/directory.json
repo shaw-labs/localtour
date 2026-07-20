@@ -1,0 +1,1995 @@
+[
+  {
+    "name": "Bastion",
+    "address": "434 Houston St, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.bastionnashville.com/",
+    "category": "dining",
+    "subcategory": "fine dining / tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Josh Habiger's 24-seat room in Wedgewood-Houston is where I send anyone who wants Nashville's most quietly serious meal. There's no printed menu and no big gestures, just a weekly six-course run of whatever's inspiring the kitchen, plated at a counter that wraps the pass. It earned a Michelin star in 2025 and Habiger's a James Beard nominee, but it still feels like a secret you were let in on. Book ahead; the bar out front (yes, the famous nachos) is the walk-in consolation prize.",
+    "must_try": "The weekly six-course chef's tasting at the kitchen counter",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Catbird Seat",
+    "address": "700 8th Ave S, 5th Floor, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.thecatbirdseatrestaurant.com/",
+    "category": "dining",
+    "subcategory": "fine dining / tasting menu",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The city's original chef's-counter theater reopened atop the Bill Voorhees Building in 2025, and the U-shaped bar still puts you an arm's length from the fire. Andy Doubrava and Tiffani Ortiz run a tasting menu that changes daily, playful one minute and precise the next. It carries a Michelin star and a 2026 James Beard nod for Outstanding Restaurant. This is a night out, not a quick bite, so settle in and let them drive.",
+    "must_try": "The daily-changing multi-course tasting at the open-kitchen counter",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Yolan",
+    "address": "403 4th Ave S, Nashville, TN 37201",
+    "phone": null,
+    "website": "https://www.yolannashville.com/",
+    "category": "dining",
+    "subcategory": "italian / fine dining",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Tucked inside The Joseph in SoBro, Yolan is where I steer folks who want white-tablecloth Italian without the stuffiness. The pasta is made in-house, the focaccia arrives warm, and the wine list runs deep enough to get lost in. It's been named among America's top hotel restaurants, and even after the Mantuanos stepped back the kitchen has kept its polish. Dress up a little; it's that kind of room.",
+    "must_try": "The handmade pasta and warm house focaccia",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rolf and Daughters",
+    "address": "700 Taylor St, Nashville, TN 37208",
+    "phone": "(615) 866-9897",
+    "website": "https://www.rolfanddaughters.com/",
+    "category": "dining",
+    "subcategory": "new american / pasta",
+    "price": "$$$",
+    "rating": null,
+    "description": "Philip Krajeck's Germantown room in the old Werthan factory has been a cornerstone of the modern Nashville table since 2012, and it hasn't coasted a day. Handmade pasta, an ever-shifting slate of shareable plates, and a natural wine list that rewards trust. Bon Appétit and Esquire both crowned it among America's best new restaurants back in the day, and it still earns the praise. Grab a bar seat if you didn't book.",
+    "must_try": "The garganelli verde with confit pork shoulder",
+    "hours": "Daily 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City House",
+    "address": "1222 4th Ave N, Nashville, TN 37208",
+    "phone": "(615) 736-5838",
+    "website": "https://cityhousenashville.com/",
+    "category": "dining",
+    "subcategory": "italian-southern / new american",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tandy Wilson won a James Beard Award for what he does in this converted Germantown warehouse, blending Italian technique with Southern soul. The wood-fired pizzas made the New York Times' best-in-America list, and the Sunday supper feel keeps regulars loyal. It's the kind of place where the bartender remembers your bourbon. Come hungry and order across the menu.",
+    "must_try": "The belly ham and mozzarella pizza with grana and chiles",
+    "hours": "Mon, Wed-Sat 5pm-10pm; Sun 5pm-9pm; Tue closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Henrietta Red",
+    "address": "1200 4th Ave N, Nashville, TN 37208",
+    "phone": null,
+    "website": "https://www.henriettared.com/",
+    "category": "dining",
+    "subcategory": "seafood / oyster bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Julia Sullivan trained at Per Se and Blue Hill before coming home to open this bright, airy Germantown room, and the raw bar is the heart of it. A rotating oyster list, wood-roasted fish, and small plates that read simple but hit deep. Bon Appétit named it one of America's best new restaurants and the James Beard folks took notice too. The weekend brunch is a quiet gem most tourists miss.",
+    "must_try": "The chilled raw oyster selection and wood-roasted fish",
+    "hours": "Tue-Fri 5pm-10pm; Sat 10am-2pm & 5pm-10pm; Sun 10am-2pm & 5pm-9pm; Mon closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Folk",
+    "address": "823 Meridian St, Nashville, TN 37207",
+    "phone": null,
+    "website": "https://www.folkrestaurant.com/",
+    "category": "dining",
+    "subcategory": "new american / wood-fired",
+    "price": "$$",
+    "rating": null,
+    "description": "Philip Krajeck's more casual East Nashville sibling to Rolf and Daughters is all about vegetables, live fire, and naturally leavened pizza. It's earned Michelin Guide recognition and a James Beard semifinalist nod while still feeling like a neighborhood spot you'd walk to. The menu shifts with what the local farms are pulling. Light-filled, unfussy, and genuinely good.",
+    "must_try": "A naturally leavened wood-fired pizza and a seasonal vegetable plate",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Peninsula",
+    "address": "1035 W Eastland Ave, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.peninsulanashville.com/",
+    "category": "dining",
+    "subcategory": "spanish / iberian",
+    "price": "$$$",
+    "rating": null,
+    "description": "Jake Howell turned a small Eastland storefront into a passage straight to the Iberian coast, all tapas, sherry, and gin-and-tonics poured the Spanish way. It's tiny and the menu changes with the season, so no two visits repeat. A Michelin Bib Gourmand and steady James Beard recognition back up the buzz. Sit at the bar, order a few plates, and let it unfold.",
+    "must_try": "The grilled octopus and a proper Spanish-style gin and tonic",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Noko",
+    "address": "701 Porter Rd, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.nokonashville.com/",
+    "category": "dining",
+    "subcategory": "asian / wood-fired",
+    "price": "$$$",
+    "rating": null,
+    "description": "Chef Dung 'Junior' Vo cooks over live fire here, putting Asian-influenced spins on proteins and vegetables through smoke, sear, and roast. The room glows, the plating is gorgeous, and OpenTable put it among the top 100 restaurants in America. Vo's a 2025 James Beard semifinalist, and it shows in the balance of every dish. One of East Nashville's most exciting tables.",
+    "must_try": "The wood-fired smoked and seared proteins",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lyra",
+    "address": "935 W Eastland Ave, Nashville, TN 37216",
+    "phone": null,
+    "website": "https://www.lyranashville.com/",
+    "category": "dining",
+    "subcategory": "middle eastern",
+    "price": "$$$",
+    "rating": null,
+    "description": "Hrant Arakelian, Nashville-raised and Armenian by heritage, revived this East Nashville space with his wife Elizabeth into a warm, modern Middle Eastern gem. Warm spices, generous mezze, and pita pulled soft and blistered from the wood-burning bread oven. Arakelian sharpened his hands at etch and Butchertown Hall before making this deeply personal. Intimate and full of heart.",
+    "must_try": "The wood-oven pita with hummus and mezze spread",
+    "hours": "Mon-Sat 5pm-10pm (happy hour 5pm-6pm); Sun closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lockeland Table",
+    "address": "1520 Woodland St, Nashville, TN 37206",
+    "phone": "(615) 228-4864",
+    "website": "https://www.lockelandtable.com/",
+    "category": "dining",
+    "subcategory": "new american / neighborhood",
+    "price": "$$$",
+    "rating": null,
+    "description": "This one wears its heart on its sleeve, a genuine community kitchen in a historic Eastland brick building where the daily Community Hour funnels proceeds to neighborhood school PTOs. Wood-fired pizzas, smoked bone marrow, and empanadas in a room that's as comforting as a porch swing. It's the friendliest special-occasion spot in East Nashville. Bring family; they'll feel at home.",
+    "must_try": "The smoked bone marrow and a wood-fired pizza",
+    "hours": "Mon-Wed 4pm-9pm; Thu-Sat 4pm-10pm; Sun closed",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Butcher & Bee",
+    "address": "902 Main St, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://butcherandbee.com/locations/nashville",
+    "category": "dining",
+    "subcategory": "mediterranean / new american",
+    "price": "$$",
+    "rating": null,
+    "description": "A long-running East Nashville staple built for sharing, with Mediterranean-leaning plates that change often and a spacious patio made for a lazy afternoon. The whipped feta is the stuff of local legend, and the weekend brunch, shakshuka, lox, chocolate-tahini pancakes, is worth the wait. Order family style and let the table fill up. Unpretentious and reliably delicious.",
+    "must_try": "The whipped feta with sweet and hot peppers",
+    "hours": null,
+    "seasonal": "Weekend brunch Sat-Sun 10am-2pm",
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Mockingbird",
+    "address": "121A 12th Ave N, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.mockingbirdnashville.com/",
+    "category": "dining",
+    "subcategory": "modern diner / new american",
+    "price": "$$",
+    "rating": null,
+    "description": "Maneet Chauhan's playful modern diner in The Gulch takes comfort food on a world tour, pulling flavors from Mexico, Korea, Italy, Japan and beyond onto one gleefully unserious menu. Chauhan's a James Beard winner and Food Network fixture, and the room matches her energy, colorful, fun, easy with a group. Great for a lively dinner that doesn't take itself too seriously.",
+    "must_try": "The globally-spiced comfort plates and a nostalgic dessert flight",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Henry",
+    "address": "2803 12th Ave S, Suite 105, Nashville, TN 37204",
+    "phone": "(629) 895-0600",
+    "website": "https://www.thehenryrestaurant.com/locations/nashville/",
+    "category": "dining",
+    "subcategory": "new american / all-day",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Henry brought a clubby, grown-up polish to 12 South, dark wood, wine-colored booths, and an upper patio with retractable windows that's the neighborhood's best brunch perch. It's an all-day spot that does elevated classics without fuss. Come for a weekend brunch that feels like an occasion, or a proper dinner and a cocktail. Handsome and dependable.",
+    "must_try": "Weekend brunch on the retractable-window upper patio",
+    "hours": "Sun-Thu 8am-10pm; Fri-Sat 8am-11pm (brunch Sat-Sun 8am-4pm)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hearts",
+    "address": "2701 12th Ave S, Suite B, Nashville, TN 37204",
+    "phone": "(615) 649-8065",
+    "website": "https://www.heartsnashville.com/",
+    "category": "dining",
+    "subcategory": "australian cafe / brunch",
+    "price": "$$",
+    "rating": null,
+    "description": "This Australian all-day cafe has become one of 12 South's most beloved brunch tables, all bright, seasonal cooking, proper coffee, and cocktails from the jump. The Twice Cooked French Toast is the headliner, but the salads and sandwiches hold their own. It's the kind of unhurried, sunlit morning that reminds you Nashville isn't all honky-tonk. Go early on weekends.",
+    "must_try": "The Twice Cooked French Toast",
+    "hours": "Mon-Thu 8am-3pm; Fri-Sun 8am-5pm (happy hour daily 2pm-close)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Prince's Hot Chicken",
+    "address": "5814 Nolensville Pike, Nashville, TN 37211",
+    "phone": "(615) 810-9388",
+    "website": "https://www.princeshotchicken.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "This is the source of the whole legend, friend. Back in the 1930s the Prince family turned a scorned lover's revenge plate into a citywide religion, and the Thornton descendants still fry it here. Everything downstream on this trail is a cover version of what André Prince Jeffries serves. Order below your ego and don't skip the white bread underneath.",
+    "must_try": "Bone-in hot chicken quarter, medium, on white bread with pickles",
+    "hours": "Mon-Sat 11am-10pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hattie B's Hot Chicken",
+    "address": "112 19th Ave S, Nashville, TN 37203",
+    "phone": "(615) 802-5700",
+    "website": "https://www.hattieb.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "Yes, it's the one the bachelorette parties know, and yes, the line at the Midtown original wraps the block. I won't hate on it the way some locals do over a cold beer, because the Bishops (father and son, both named Nick) cook a genuinely clean, consistent bird. It's the gentlest on-ramp to the trail. Just know the ladder tops out at 'Shut the Cluck Up' for a reason.",
+    "must_try": "Hot chicken at 'Damn Hot' with pimento mac & cheese",
+    "hours": "Mon-Thu 10:45am-10pm, Fri-Sat 10:45am-12am, Sun 10:45am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bolton's Spicy Chicken & Fish",
+    "address": "624 Main St, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://boltonsfamous.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "The soul of the trail, tucked in a little cinderblock house at the gateway to East Nashville. Bolton Polk apprenticed at Prince's, then his nephew Bolton Matthews and wife Dollye opened this in 1997, and it's now one of the oldest Black-owned businesses on Main Street. This is the hottest of the OGs, where 'medium' will make you rethink your choices. Don't sleep on the hot fish.",
+    "must_try": "Spicy chicken leg quarter, or the hot fish sandwich",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "400 Degrees Hot Chicken",
+    "address": "3704 Clarksville Pike, Nashville, TN 37218",
+    "phone": null,
+    "website": "https://www.400degreeshotchicken.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "Nashville native Aquila 'Aqui' Hines opened this in 2006 and it belongs on any honest list of the greats. Named for the heat, the menu runs from mild to a number-you-shouldn't-say-out-loud, and locals swear by the bone-in breast quarter. A little further out on Clarksville Pike, away from the tourist churn, exactly where I like to send folks who want the real thing.",
+    "must_try": "Bone-in breast quarter at '400 Degrees'",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pepperfire Hot Chicken",
+    "address": "1000 Gallatin Ave, Suite C, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.pepperfirehotchicken.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "An East Nashville favorite that cooks the chicken to order, so it hits the table blistering fresh instead of sitting under a heat lamp. Seven levels of fire and a couple of gloriously unhinged inventions you won't find elsewhere. This is where I take the friend who thinks they've seen it all on the trail.",
+    "must_try": "The Tender Royale, a hot chicken grilled cheese mashup",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Party Fowl",
+    "address": "719 8th Ave S, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://partyfowl.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "The full sit-down, bourbon-in-hand take on hot chicken, opened in 2014 near the edge of downtown. Where the shacks keep it to chicken and white bread, this place riffs, hot chicken tacos, a hot chicken Cuban, hot chicken queso, plus a proper bar. Good landing spot when the crew wants heat and a cocktail without standing in a to-go line.",
+    "must_try": "Hot chicken & waffles, chased with a Tennessee bourbon",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Red's Hot Chicken",
+    "address": "115 27th Ave N, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://redshotchicken.com/",
+    "category": "dining",
+    "subcategory": "hot chicken",
+    "price": "$$",
+    "rating": null,
+    "description": "A West End spot near Centennial Park that locals actually hit on a weekday, which tells you plenty. The breading-to-meat ratio on the tenders and boneless thighs is dialed in, but the sleeper hit is the hot chicken crunchwrap, oozing comeback sauce, pimento mac, and hunks of chicken. Not an OG, but it earns its place.",
+    "must_try": "Hot chicken crunchwrap with comeback sauce",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Arnold's Country Kitchen",
+    "address": "605 8th Ave S, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.arnoldscountrykitchen.com/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$$",
+    "rating": null,
+    "description": "The James Beard American Classic of the bunch (2009), a cinderblock cafeteria in the Gulch where you slide a tray past the steam table and let the ladies build your plate. The roast beef gets the headlines but the vegetables are the real art, and you save room for chess pie. Heads up: the original has been in and out of full service lately, so call before you make the drive.",
+    "must_try": "Fall-apart roast beef with turnip greens and a slice of chess pie",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Swett's Restaurant",
+    "address": "2725 Clifton Ave, Nashville, TN 37209",
+    "phone": null,
+    "website": "https://www.swettsrestaurant.com/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$$",
+    "rating": null,
+    "description": "Susie and Walter Swett opened this in 1954 and three generations later it's still family-run, still cafeteria-style, still a cornerstone of the North Nashville / Jefferson Street world this trail is named for. This is Sunday-supper cooking any day of the week. Get the fried chicken, but the greens and the fried corn are what regulars come back for.",
+    "must_try": "Fried chicken with turnip greens and cornbread",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Monell's Dining & Catering",
+    "address": "1235 6th Ave N, Nashville, TN 37208",
+    "phone": null,
+    "website": "https://monellstn.com/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$$",
+    "rating": null,
+    "description": "The friendliest table in town, set inside a 1905 Victorian in Germantown. You sit down with strangers at a long communal table and pass the bowls to your left, all-you-can-eat, family style, until the skillet-fried chicken and banana pudding beat you. Come hungry and come chatty; by dessert you'll have made friends. Pure Nashville hospitality.",
+    "must_try": "Skillet-fried chicken, passed family-style, with cheese grits",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wendell Smith's Restaurant",
+    "address": "407 53rd Ave N, Nashville, TN 37209",
+    "phone": null,
+    "website": "https://www.wendellsmithsrestaurant.net/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$$",
+    "rating": null,
+    "description": "A West Nashville diner that's held its corner near Charlotte Avenue since about 1952, now run by founder Wendell Smith's grandson. No frills, no attitude, just an honest plate-lunch meat-and-three where the cooks know the regulars by name. This is the kind of unhurried, un-Instagrammed spot I steer people to when they want the city, not the postcard.",
+    "must_try": "Meat-and-three plate lunch with the day's vegetables",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Loveless Cafe",
+    "address": "8400 Hwy 100, Nashville, TN 37221",
+    "phone": "(615) 646-9700",
+    "website": "https://lovelesscafe.com/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$$",
+    "rating": null,
+    "description": "Worth the pretty drive out toward the Natchez Trace, an institution since 1951 famous the world over for its scratch biscuits. The made-from-nothing biscuits with house preserves and salty country ham are the reason to come; the fried chicken and meat-and-three sides keep you in the chair. Tourists find it, sure, but it earns the crowd. Get there early on weekends.",
+    "must_try": "Scratch biscuits with peach preserves and country ham",
+    "hours": "Daily, opens 7-8am; closes 8-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Silver Sands Cafe",
+    "address": "937 Locklayer St, Nashville, TN 37208",
+    "phone": "(615) 780-9900",
+    "website": "https://www.silversandscafe.com/",
+    "category": "dining",
+    "subcategory": "meat-and-three",
+    "price": "$",
+    "rating": null,
+    "description": "A tiny soul-food meat-and-three near the Jefferson Street corridor that's fed North Nashville for more than 70 years across three generations. Breakfast-through-lunch only, cash-honest home cooking, and a line of regulars out the door. Smothered pork chops, salmon croquettes, hot water cornbread, this is the heart of the neighborhood this trail was built to honor.",
+    "must_try": "Smothered pork chops with hot water cornbread",
+    "hours": "Tue-Fri 6:30am-2:30pm, Sun from 11am",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Puckett's Grocery & Restaurant",
+    "address": "500 Church St, Nashville, TN 37219",
+    "phone": null,
+    "website": "https://www.puckettsrestaurant.com/nashville",
+    "category": "dining",
+    "subcategory": "southern comfort",
+    "price": "$$",
+    "rating": null,
+    "description": "Grew from a Leiper's Fork country store into a downtown Southern-comfort room where the meat-and-three plates share the stage with actual songwriters. Pulled pork, fried catfish, greens, and a nightly lineup of live music make it a fitting bridge between the food and the writers' rounds. Touristy corner, honest kitchen, real players on the stage. I'll always have a soft spot for it.",
+    "must_try": "Slow-smoked pulled pork plate with two Southern sides",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "music",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fox Bar & Cocktail Club",
+    "address": "2905B Gallatin Pike, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.thefoxnashville.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Tucked behind Nicoletto's on Gallatin, the Fox is where I take out-of-town co-writers when they want to see East Nashville do cocktails with real craft and zero attitude. The bartenders here read like session players who studied the greats, and the room stays intimate. Made Food & Wine's ten-best-U.S.-bars list, and it earned it.",
+    "must_try": "The Four Lives ($16) with Uruapan charanda rum, wasabi gomme, and shiso",
+    "hours": "Sun-Thu 5pm-12am, Fri-Sat 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Attaboy",
+    "address": "8 McFerrin Ave, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://attaboy.us/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail speakeasy",
+    "price": "$$$",
+    "rating": null,
+    "description": "No menu, no reservations, no sign to speak of. You knock, they seat parties of six or fewer, and the bartender asks a couple of questions before building you something you didn't know you wanted. It's the New York original's Nashville outpost, and it rewards folks who let go of the tourist checklist and just trust the room.",
+    "must_try": "A bartender's-choice custom cocktail built to your mood",
+    "hours": "Sun-Thu 5pm-2am, Fri-Sat 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Le Loup",
+    "address": "1400 Adams St, Nashville, TN 37208",
+    "phone": null,
+    "website": "https://www.leloupnashville.com/",
+    "category": "bars_nightlife",
+    "subcategory": "wine & cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Upstairs from The Optimist in Germantown, Le Loup is a little slice of Paris where the wine list is curated with care and the cocktails lean vintage and moody. This is my late-date spot, the one I save for the person I actually want to talk to over a glass instead of shout over a honky-tonk band.",
+    "must_try": "A pour from the curated European wine list or a vintage-style cocktail",
+    "hours": "Thu-Sun from 5pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Southern Grist Brewing (East Nashville Taproom)",
+    "address": "754 Douglas Ave, Nashville, TN 37207",
+    "phone": null,
+    "website": "https://www.southerngristbrewing.com/east",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "Forty taps and a brew crew that treats beer like a songwriter treats a bridge, always chasing the unexpected turn. One visit it's a pastry-stack sour, the next a hazy that drinks like a hook you can't shake. Their kitchen concept Lauter lives inside, so you can settle in for the afternoon. You'll never see the same lineup twice, and that's the whole point.",
+    "must_try": "A rotating dessert-inspired sour or a hazy IPA off the 40-tap wall",
+    "hours": "Mon-Wed 12pm-8pm, Thu 12pm-9pm, Fri-Sat 11am-10pm, Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bearded Iris Brewing",
+    "address": "101 Van Buren St, Nashville, TN 37208",
+    "phone": "(615) 928-7988",
+    "website": "https://beardedirisbrewing.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "The Germantown original, and if you like hazy IPAs, this is the mothership. Homestyle, their fruity flagship, is arguably the best draft IPA in the city, and they run double and triple versions for the brave. The taproom's a warm, low-lit spot to land between Germantown dinners without pretense.",
+    "must_try": "Homestyle hazy IPA",
+    "hours": "Mon-Thu 1pm-10pm, Fri-Sat 12pm-10pm, Sun 12pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Santa's Pub",
+    "address": "2225 Bransford Ave, Nashville, TN 37204",
+    "phone": null,
+    "website": "https://www.santaspub.com/",
+    "category": "bars_nightlife",
+    "subcategory": "dive bar",
+    "price": "$",
+    "rating": null,
+    "description": "A cash-only Christmas-lit trailer in Wedgewood-Houston where the beer is cheap, the karaoke is loud, and the crowd is the most honest cross-section of Nashville you'll ever share a room with. Founder Denzel 'Santa' Irwin passed in 2025, but the house rules still hold: beer only, no cussin' on the mic. This is the real Nashville the tour buses never find.",
+    "must_try": "A cheap cold beer and a karaoke turn under the year-round twinkle lights (cash only)",
+    "hours": "Wed-Sun 4pm-3am",
+    "seasonal": "Christmas decor runs year-round; the December spirit is peak",
+    "modes": [
+      "chill",
+      "nightlife",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Robert's Western World",
+    "address": "416 Broadway, Nashville, TN 37203",
+    "phone": "(615) 244-9552",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "honky-tonk dive bar",
+    "price": "$",
+    "rating": null,
+    "description": "If you only step into one Lower Broadway honky-tonk, make it Robert's. Past the wall of boots, real traditional country and Western swing plays free, seven days a week, and the bands are the genuine article, not a bachelorette soundtrack. Grab the Recession Special and a stool early, before the block fills up. This is where the honky-tonk tradition actually still breathes.",
+    "must_try": "The $6 Recession Special: fried bologna sandwich, chips, a MoonPie, and a PBR",
+    "hours": "Daily 10am-3am",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barista Parlor (East Nashville)",
+    "address": "519B Gallatin Ave, Nashville, TN 37206",
+    "phone": "(615) 712-9766",
+    "website": "https://baristaparlor.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee shop & roaster",
+    "price": "$$",
+    "rating": null,
+    "description": "The flagship that set the tone for Nashville's whole third-wave scene, housed in an old transmission shop with vinyl spinning and motorcycles parked like art. It looks the part of a tourist magnet, but the espresso genuinely holds up. I've written more than one verse at these long communal tables while the record flips.",
+    "must_try": "A signature latte with a house pastry",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crema Coffee Roasters",
+    "address": "15 Hermitage Ave, Nashville, TN 37210",
+    "phone": "(615) 255-8311",
+    "website": "https://crema-coffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster & cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A carbon-neutral, zero-waste, woman-owned roaster that's been quietly perfecting the craft in SoBro since 2008, long before the neighborhood turned glossy. Rachel and Ben Lehman roast with real intention, and a pour-over here tastes like someone actually cared. It's my calm-before-the-writing-session stop south of downtown.",
+    "must_try": "A single-origin pour-over from their own roast",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ugly Mugs Coffee and Tea",
+    "address": "1886 Eastland Ave, Nashville, TN 37206",
+    "phone": "(615) 800-6256",
+    "website": "https://www.uglymugsnashville.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee shop",
+    "price": "$$",
+    "rating": null,
+    "description": "The neighborhood living room of East Nashville, going strong since 2008. Locals, laptops, a real hum of regulars, none of the studied cool some spots reach for. When friends ask where the East Side actually drinks its coffee, this is the honest answer.",
+    "must_try": "A latte and a pastry at a communal table full of regulars",
+    "hours": "Mon-Fri 6am-6pm, Sat-Sun 7am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Elegy Coffee (East Nashville)",
+    "address": "2909A Gallatin Pike, Nashville, TN 37216",
+    "phone": null,
+    "website": "https://www.elegycoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A jewel-box of a shop on Gallatin where you can order inside or grab the to-go window, and every detail is dialed in. The coffee is lovely across the board, but the cold brew is the one people cross the river for. Small, careful, and the kind of place that rewards a slow morning.",
+    "must_try": "The Honey Bear cold brew with oat milk, burnt honey, cinnamon, and maple",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Osa Coffee Roasters (East Nashville)",
+    "address": "2605 Gallatin Pike, Nashville, TN 37216",
+    "phone": null,
+    "website": "https://www.osanashville.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee roaster & micro-cafe",
+    "price": "$$",
+    "rating": null,
+    "description": "A specialty roaster with a walk-up window and a tight, focused menu built around light-to-medium single-origins. This is the pick for the coffee nerd who wants to actually taste the bean rather than the syrup. Grab a shot at the window, take the patio, and let the day open up slow.",
+    "must_try": "A light-roast single-origin espresso from the walk-up window",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dozen Bakery",
+    "address": "2522 Grandview Ave, Nashville, TN 37211",
+    "phone": null,
+    "website": "https://www.dozen-nashville.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": null,
+    "description": "A temple to butter and flour just south of downtown, where the croissants shatter into shards and the sourdough wears a blistered crust with a proper tang. Claire Meneely's loaves have quietly supplied half the city's good restaurants for years. Come for a pastry and a coffee, leave with a loaf under your arm.",
+    "must_try": "A shatter-crust croissant or a tangy sourdough loaf",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Five Daughters Bakery (12South)",
+    "address": "1110 Caruthers Ave, Nashville, TN 37204",
+    "phone": "(615) 490-6554",
+    "website": "https://fivedaughtersbakery.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery & donuts",
+    "price": "$$",
+    "rating": null,
+    "description": "Yes, it's on the 12South Instagram trail, but the family behind it earns the hype the hard way. The 100-Layer Donut is a cronut-style laminated marvel that takes three days to make, and when it's fresh it genuinely lives up to the line out front. Grab one, walk the neighborhood, no shame in the tourist move when it's this good.",
+    "must_try": "The 100-Layer Donut, a three-day laminated pastry",
+    "hours": "Mon-Fri 7am-9pm, Sat-Sun 8am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "National Museum of African American Music",
+    "address": "510 Broadway, Nashville, TN 37203",
+    "phone": "615-301-8724",
+    "website": "https://www.nmaam.org",
+    "category": "attractions",
+    "subcategory": "music museum",
+    "price": "$$",
+    "rating": null,
+    "description": "This is the room that reframes the whole trip. Sitting where Broadway's neon meets Fifth + Broadway, NMAAM is the only museum in the country dedicated to the more than 50 genres African Americans created — spirituals, blues, jazz, gospel, R&B, hip-hop — and it threads straight into the story of Jefferson Street just up the hill. Come here first and every honky-tonk downstream sounds different. It's the anchor of the Jefferson Street & the Writers' Rooms trail for a reason.",
+    "must_try": "The Rivers of Rhythm interactive corridor tracing 50-plus genres, and the hands-on galleries where you can lay down your own track",
+    "hours": "Mon 12-5, Tue-Sat 10-5, Sun 12-5",
+    "seasonal": "Free gallery admission the first Wednesday of every month",
+    "modes": [
+      "culture",
+      "music",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fisk University Galleries (Carl Van Vechten & Aaron Douglas)",
+    "address": "1000 17th Ave N, Nashville, TN 37208",
+    "phone": null,
+    "website": "https://www.fiskuniversitygalleries.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "Locals will send you to Broadway; I'll send you to Jefferson Street. On Fisk's historically Black campus sits one of the great secrets in American art — the Alfred Stieglitz Collection, gifted by Georgia O'Keeffe, hanging Picasso and Cezanne a few steps from Aaron Douglas's Harlem Renaissance canvases. It's quiet, it's real, and it's the cultural heart of the corridor that gave Nashville its R&B soul. A cornerstone of the Jefferson Street trail.",
+    "must_try": "Standing before O'Keeffe, Picasso and Aaron Douglas works together in the Stieglitz Collection at the 1889 Van Vechten Gallery",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Country Music Hall of Fame and Museum",
+    "address": "222 Rep. John Lewis Way S, Nashville, TN 37203",
+    "phone": "615-416-2001",
+    "website": "https://www.countrymusichalloffame.org",
+    "category": "attractions",
+    "subcategory": "music museum",
+    "price": "$$$",
+    "rating": null,
+    "description": "Not a tourist trap — the real thing, the archive of the songs. Two floors of Hank and Patsy and Dolly, Cash's guitars, the actual manuscripts. As a songwriter I still get chills in the Hall of Fame Rotunda, where the bronze plaques hang under a ring of light and the wall reads 'Will the Circle Be Unbroken.' Buy the combo ticket and it's your gateway to RCA Studio B on Music Row.",
+    "must_try": "The Hall of Fame Rotunda, and the combo ticket that shuttles you to Historic RCA Studio B",
+    "hours": "Daily 9-5",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "music",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Frist Art Museum",
+    "address": "919 Broadway, Nashville, TN 37203",
+    "phone": "615-244-3340",
+    "website": "https://fristartmuseum.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$$",
+    "rating": null,
+    "description": "When you need a break from three chords and the truth, the Frist is your reset. There's no permanent collection — it's a rotating gallery inside a jaw-dropping 1930s Art Deco former post office, so every visit is a different world-class show. Kids under 18 get in free, and the Martin ArtQuest studio upstairs keeps the family busy while you wander the marble halls.",
+    "must_try": "A major touring exhibition under the Art Deco ceilings, plus the hands-on Martin ArtQuest studio",
+    "hours": "Mon 10-5:30, Tue-Wed closed, Thu 10-8, Fri-Sat 10-5:30, Sun 1-5:30",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Johnny Cash Museum",
+    "address": "119 3rd Ave S, Nashville, TN 37201",
+    "phone": "615-256-1777",
+    "website": "https://www.johnnycashmuseum.com",
+    "category": "attractions",
+    "subcategory": "music museum",
+    "price": "$$",
+    "rating": null,
+    "description": "Small, dense, and deeply moving — the largest collection of Cash artifacts anywhere, blessed by the estate. Steps off Broadway but a world away from the bachelorette pedal taverns. You'll stand with his handwritten lyrics, his black stage suits, and the stone-and-glass wall salvaged from the Hendersonville lake house that burned. For a Cash fan it's a pilgrimage that takes maybe an hour and stays with you for years.",
+    "must_try": "The wall built from stone and glass fragments of Cash's fire-destroyed lakeside home",
+    "hours": "Daily 9-7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Historic RCA Studio B",
+    "address": "1611 Roy Acuff Pl, Nashville, TN 37203",
+    "phone": "615-416-2001",
+    "website": "https://www.countrymusichalloffame.org/experiences/studio-b",
+    "category": "attractions",
+    "subcategory": "historic site",
+    "price": "$$",
+    "rating": null,
+    "description": "This is holy ground on Music Row — the little cinderblock room where the 'Nashville Sound' was invented and where Elvis cut over 200 songs. The guided tour leaves from the Country Music Hall of Fame and drops you right on the studio floor. When the guide dims the lights to the exact setting Elvis asked for and plays 'Are You Lonesome Tonight?,' nobody in the room says a word. Book it with your Hall of Fame ticket.",
+    "must_try": "The lights-down moment on the floor where Elvis recorded 'Are You Lonesome Tonight?'",
+    "hours": "Tours daily approx. 10:30-3:30, departing from the Country Music Hall of Fame",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Parthenon",
+    "address": "2500 West End Ave, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.nashvilleparthenon.com",
+    "category": "attractions",
+    "subcategory": "historic site",
+    "price": "$",
+    "rating": null,
+    "description": "Yes, Nashville really is the 'Athens of the South,' and here's the proof — a full-scale, brick-for-brick replica of the Greek Parthenon sitting in the green of Centennial Park. Inside stands Athena Parthenos, gilded and forty-two feet tall, the largest indoor statue in the Western world. Bring a picnic, walk the park, and let the kids gawk. It's the kind of gorgeous, cheap, only-in-Nashville detour I love.",
+    "must_try": "The 42-foot gilded Athena Parthenos in the naos gallery",
+    "hours": "Mon-Sat 9-4:30, Sun 12:30-4:30",
+    "seasonal": "The interior reopened in mid-2026 after an HVAC replacement closure that ran March-June; the park and exterior stayed open throughout",
+    "modes": [
+      "culture",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cheekwood Estate & Gardens",
+    "address": "1200 Forrest Park Dr, Nashville, TN 37205",
+    "phone": "615-356-8000",
+    "website": "https://cheekwood.org",
+    "category": "attractions",
+    "subcategory": "botanical garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Fifty-five acres of botanical gardens wrapped around a 1930s Georgian mansion turned art museum, out in leafy Belle Meade. This is where I take out-of-town family who need a quiet, beautiful day away from the neon. Time it right and the seasonal shows steal the visit — a hundred thousand tulips in spring, a million lights at Christmas.",
+    "must_try": "The seasonal spectacles — Cheekwood in Bloom tulips in spring, Holiday LIGHTS in winter",
+    "hours": "Daily 9-5",
+    "seasonal": "Cheekwood in Bloom (spring), Harvest scarecrows (fall), Holiday LIGHTS (late Nov-Dec)",
+    "modes": [
+      "chill",
+      "romantic",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ryman Auditorium",
+    "address": "116 5th Ave N, Nashville, TN 37219",
+    "phone": "615-889-3060",
+    "website": "https://www.ryman.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Mother Church of Country Music, and the best-sounding room in America — I'd bet a night's pay on it. Built as a tabernacle in 1892, home of the Opry from 1943 to 1974, and still the show every artist dreams of playing. You're sitting in the original wooden pews under stained glass. If you catch one live thing in Nashville, catch it here. By day, the self-guided backstage tour is worth every penny.",
+    "must_try": "A show from the original pews under the stained glass, or the daytime backstage tour",
+    "hours": "Daytime tours generally 9-4; show times vary by event",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grand Ole Opry House",
+    "address": "600 Opry Mills Dr, Nashville, TN 37214",
+    "phone": null,
+    "website": "https://www.opry.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "The show that made country music famous, running continuously since 1925 — and in 2026 it's throwing its 100th-birthday party. The Opry is a live radio broadcast with a rotating cast, so one night might hand you a legend, a newcomer, and a bluegrass band back to back. When an artist steps into the six-foot circle of oak cut from the old Ryman stage, they're standing in the same spot as every hero before them. Pure Nashville.",
+    "must_try": "Watching an artist step into the oak circle salvaged from the Ryman stage; the Opry 100 centennial shows",
+    "hours": "Shows typically Tue, Fri and Sat nights; backstage tours run daytime",
+    "seasonal": "Opry 100 centennial season runs through 2026; December brings the annual Christmas shows",
+    "modes": [
+      "music",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Bluebird Cafe",
+    "address": "4104 Hillsboro Pike, Nashville, TN 37215",
+    "phone": "615-383-1461",
+    "website": "https://bluebirdcafe.com",
+    "category": "entertainment",
+    "subcategory": "listening room",
+    "price": "$$",
+    "rating": null,
+    "description": "This is my church. Eighty-five seats in a strip-mall listening room out in Green Hills, where the 'heroes behind the hits' sit in a circle and play the songs you already know by heart — the ones they wrote for other people. The 'SHHH' rule is real; talk during a song and the regulars will shush you. Taylor Swift was discovered here. Reserve the second you can, or brave the Monday open-mic line. Nothing on Broadway comes close to this.",
+    "must_try": "The in-the-round shows where four songwriters trade the hits they penned",
+    "hours": "Sun 5-10, Mon 5:30-10:30, Tue-Sat 5-10:30",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "romantic",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Station Inn",
+    "address": "402 12th Ave S, Nashville, TN 37203",
+    "phone": "615-255-3307",
+    "website": "https://stationinn.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "A squat stone building that the shiny Gulch grew up around and never managed to swallow. Since 1974 this has been the bluegrass room — Bill Monroe played it, and on any given night the pickers on that little stage are the same ones backing the stars by the weekend. Cash at the door, cold beer, no frills, 21-and-up. The Sunday night jam is a Nashville rite of passage.",
+    "must_try": "The Sunday night bluegrass jam, beer in hand, elbow to elbow with the pickers",
+    "hours": "Doors typically 7pm nightly; 21+",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Exit/In",
+    "address": "2208 Elliston Pl, Nashville, TN 37203",
+    "phone": "615-321-3340",
+    "website": "https://exitin.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "The soul of Elliston Place — the strip locals still call the Rock Block — and one of the oldest rock clubs in the country, open since 1971. R.E.M., Etta James, and a thousand others sweated on this stage. When you need a night that's loud and un-touristy and unmistakably Nashville-off-Broadway, this is the room. Check who's playing; it's usually somebody worth the cover.",
+    "must_try": "A loud night on the Rock Block in the room where R.E.M. and Etta James once played",
+    "hours": "Doors typically 45 minutes before showtime; varies by event",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Belcourt Theatre",
+    "address": "2102 Belcourt Ave, Nashville, TN 37212",
+    "phone": "615-846-3150",
+    "website": "https://www.belcourt.org",
+    "category": "entertainment",
+    "subcategory": "cinema",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked into Hillsboro Village, the Belcourt is Nashville's beloved nonprofit film house — but here's the songwriter's secret: this 1925 building once hosted the Grand Ole Opry's radio broadcasts. Today it screens independent, documentary, and repertory films, sometimes on 35mm, in a room dripping with history. A rainy-afternoon or date-night refuge from the honky-tonks.",
+    "must_try": "A repertory or 35mm screening in the historic house that once broadcast the Opry",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bridgestone Arena",
+    "address": "501 Broadway, Nashville, TN 37203",
+    "phone": "615-770-2040",
+    "website": "https://www.bridgestonearena.com",
+    "category": "entertainment",
+    "subcategory": "arena / pro sports",
+    "price": "$$$",
+    "rating": null,
+    "description": "Right at the foot of Broadway, this is where 'Smashville' comes alive — home of the NHL's Nashville Predators and one of the busiest arenas in the country for big-tour concerts too. A Preds game is a genuinely fun night even if you don't follow hockey; the crowd chants are relentless and the whole downtown spills in and out around it. The arena marks 30 years in Music City in 2026.",
+    "must_try": "A Predators game with the full 'Smashville' crowd in full voice",
+    "hours": "Varies by event",
+    "seasonal": "Predators hockey runs Oct-Apr; the arena celebrates its 30th anniversary in 2026",
+    "modes": [
+      "nightlife",
+      "family",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zanies Comedy Club",
+    "address": "2025 8th Ave S, Nashville, TN 37204",
+    "phone": "615-269-0221",
+    "website": "https://nashville.zanies.com",
+    "category": "entertainment",
+    "subcategory": "comedy club",
+    "price": "$$",
+    "rating": null,
+    "description": "When the room needs a laugh instead of another ballad, Zanies is the move. It's the city's classic comedy club down in 8th Avenue South — intimate, seven nights a week, mixing nationally touring headliners with the sharp local scene. The newer Lab next door, a hundred-seat black box, is where you catch a rising comic before the rest of the country does.",
+    "must_try": "A touring headliner in the main room, or a rising local set in The Lab next door",
+    "hours": "Shows nightly, seven nights a week",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Radnor Lake State Natural Area",
+    "address": "1160 Otter Creek Rd, Nashville, TN 37220",
+    "phone": "615-373-3467",
+    "website": "https://tnstateparks.com/parks/radnor-lake",
+    "category": "outdoor_adventure",
+    "subcategory": "state park / wildlife trails",
+    "price": "$",
+    "rating": null,
+    "description": "This is where Nashville goes to hear itself think. Just fifteen minutes south of Music Row, 1,400 acres of protected hills wrap an 85-acre lake, and the whole place is kept quiet on purpose: no jogging, no bikes, no dogs on the main loops, just walkers and the wildlife that trusts them. Come at dawn like a songwriter chasing a lyric and you'll have the water to yourself.",
+    "must_try": "The flat, easy Lake Trail at sunrise for river otters, great blue herons, and turtles stacked on the deadfall",
+    "hours": "Daily 6:00 AM until 20 minutes after sunset; Walter Criley Visitor Center 7:00 AM until dark",
+    "seasonal": "Spring wildflowers and trillium; blazing fall color on Ganier Ridge; owl-prowl walks in winter",
+    "modes": [
+      "chill",
+      "romantic",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Warner Parks (Percy & Edwin Warner)",
+    "address": "2500 Old Hickory Blvd, Nashville, TN 37221",
+    "phone": "615-370-8051",
+    "website": "https://www.nashville.gov/departments/parks/parks/warner-parks",
+    "category": "outdoor_adventure",
+    "subcategory": "urban forest / hiking & trails",
+    "price": "$",
+    "rating": null,
+    "description": "Three-thousand-plus acres of forest and field only nine miles from Broadway, the Warner Parks are the big-lunged backyard every Nashvillian claims as their own. The WPA laid the stone-walled roads and the color-blazed trails back in the 1930s, and they still climb and dip through hardwood hollows past springs and meadows. Bring boots for the woods or just cruise the scenic overlook drive at golden hour.",
+    "must_try": "The red-blazed Mossy Ridge Trail, a moderate 4.5-mile loop through the deepest, quietest woods in the park",
+    "hours": "Park roads and trails open daily dawn to 11:00 PM; Warner Park Nature Center hours vary",
+    "seasonal": "Iroquois Steeplechase runs the second Saturday of May; fall foliage peaks late October",
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shelby Bottoms Greenway & Nature Center",
+    "address": "1900 Davidson St, Nashville, TN 37206",
+    "phone": "615-862-8539",
+    "website": "https://www.nashville.gov/departments/parks/nature-centers-and-natural-areas/shelby-bottoms-nature-center",
+    "category": "outdoor_adventure",
+    "subcategory": "greenway / nature center",
+    "price": "$",
+    "rating": null,
+    "description": "Right off the East Nashville songwriter corridor, Shelby Bottoms is 950 acres of Cumberland River bottomland stitched with paved and unpaved trail, boardwalk, and overlook. Walk or pedal from the nature center out toward the river and you'll trade the honky-tonk hum for woodpeckers and wildflower meadow. It's the easiest way to catch your breath a mile from Five Points.",
+    "must_try": "Biking the paved greenway to the Cumberland River pedestrian bridge that links over to Two Rivers",
+    "hours": "Greenway open daily dawn to dusk; Nature Center Tue & Thu 9 AM-4 PM, Wed & Fri 12-4 PM, Sat 9 AM-4 PM (closed Sun/Mon)",
+    "seasonal": "Spring warbler migration; sunflower and goldenrod meadows in late summer",
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Beaman Park & Nature Center",
+    "address": "5911 Old Hickory Blvd, Nashville, TN 37015",
+    "phone": "615-862-8580",
+    "website": "https://www.nashville.gov/departments/parks/nature-centers-and-natural-areas/beaman-park-nature-center",
+    "category": "outdoor_adventure",
+    "subcategory": "state natural area / hiking",
+    "price": "$",
+    "rating": null,
+    "description": "Way out in the northwest corner toward Joelton, Beaman is the wild card of the Metro parks: rugged Highland Rim ridges and hollers that feel more Appalachian than Middle Tennessee. Opened as a nature center in 2009, it's where locals go when they want elevation and solitude without driving to the Smokies. Come for the birdsong; stay because you forgot your phone had a signal.",
+    "must_try": "The Highland Trail loop down into the creek hollows off the Little Marrowbone Road trailhead",
+    "hours": "Park open dawn to dusk; Nature Center Tue-Fri 12-4 PM, Sat 9 AM-4 PM",
+    "seasonal": "Spring ephemeral wildflowers carpet the hollows; migratory songbirds in April-May",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Centennial Park",
+    "address": "2600 West End Ave, Nashville, TN 37203",
+    "phone": "615-862-8400",
+    "website": "https://www.nashville.gov/departments/parks/parks/centennial-park",
+    "category": "outdoor_adventure",
+    "subcategory": "urban park / walking loop",
+    "price": "$",
+    "rating": null,
+    "description": "The green heart of the West End, Centennial hands you a full-scale replica of the Parthenon reflected in Lake Watauga, open lawns for a picnic, and a walking loop that fills with joggers, buskers, and Vanderbilt kids at dusk. It's touristy in the best way, meaning even the locals still show up. On a warm evening there's usually music drifting off somebody's guitar under the trees.",
+    "must_try": "A slow lap around Lake Watauga with the Parthenon lit up as the sun drops behind West End",
+    "hours": "Daily 5:00 AM-11:00 PM",
+    "seasonal": "Musicians Corner free concerts in spring and fall; Tennessee Craft Fair in May and September",
+    "modes": [
+      "chill",
+      "family",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bicentennial Capitol Mall State Park",
+    "address": "600 James Robertson Pkwy, Nashville, TN 37243",
+    "phone": "615-741-5280",
+    "website": "https://tnstateparks.com/parks/bicentennial-mall",
+    "category": "outdoor_adventure",
+    "subcategory": "urban state park",
+    "price": "$",
+    "rating": null,
+    "description": "Nineteen open-air acres tucked below the Capitol, this is history you walk through: a granite map of Tennessee underfoot, a Rivers of Tennessee fountain court where kids cool off all summer, and a 95-bell carillon that answers the state Capitol's bell across the lawn. Pair it with the Farmers' Market next door and you've got a downtown morning that doesn't cost a dime.",
+    "must_try": "Standing in the fountain court at noon when the 95-bell carillon rings out across the mall",
+    "hours": "Daily 7:00 AM-10:00 PM",
+    "seasonal": "Fountains run Memorial Day through Labor Day; downtown holiday lights in December",
+    "modes": [
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Harpeth River State Park - Narrows of the Harpeth",
+    "address": "Narrows of the Harpeth, Cedar Hill Rd, Kingston Springs, TN 37082",
+    "phone": "615-952-2099",
+    "website": "https://tnstateparks.com/parks/harpeth-river",
+    "category": "outdoor_adventure",
+    "subcategory": "river paddling / state park",
+    "price": "$",
+    "rating": null,
+    "description": "A half-hour west toward Kingston Springs, the Harpeth doubles back on itself so tightly that the river runs within a couple hundred yards of where it started, and pioneers punched a tunnel through the rock ridge between. It's a Class I float made for beginners and families: gentle riffles, bluff overlooks, and a bald-eagle bluff trail. Bring your own boat or grab a shuttle from a local outfitter.",
+    "must_try": "The 5-mile canoe loop that ends a short walk from where you launched, thanks to the river's hairpin Narrows",
+    "hours": "April-Sept 7:00 AM-7:00 PM; Oct & March 8:00 AM-6:00 PM; Nov-Feb 8:00 AM-4:30 PM",
+    "seasonal": "Prime floating May through September; low, slow water by late summer; closed to paddling in high water",
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Long Hunter State Park - Couchville Lake",
+    "address": "2910 Hobson Pike, Hermitage, TN 37076",
+    "phone": "615-885-2422",
+    "website": "https://tnstateparks.com/parks/long-hunter",
+    "category": "outdoor_adventure",
+    "subcategory": "lake / paddling & hiking",
+    "price": "$",
+    "rating": null,
+    "description": "On the far shore of Percy Priest, Long Hunter keeps a quiet secret: 110-acre Couchville Lake, calm as glass and ringed by an easy paved loop that even a stroller can handle. Rent or bring a kayak and you can paddle the whole thing in an unhurried afternoon while herons stalk the shallows. For a bigger day, the Volunteer Trail runs miles along the big lake's edge.",
+    "must_try": "The flat 2-mile paved Couchville Lake loop, with a boardwalk out over the water for birdwatching",
+    "hours": "Park open daily; hours vary seasonally (generally 7:00 AM to sunset) - confirm current times before visiting",
+    "seasonal": "Spring and fall are ideal; life jackets required on Couchville year-round",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cumberland Kayak & Adventure Company",
+    "address": "2 Victory Ave, Nashville, TN 37213",
+    "phone": "615-800-7321",
+    "website": "https://www.cumberlandkayakadventure.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak tours & rentals",
+    "price": "$$",
+    "rating": null,
+    "description": "The homegrown outfitter that put a paddle in Nashville's downtown reach of the Cumberland. Launch from Cumberland Park under the pedestrian bridge and you're looking up at the skyline from water level, gliding past Nissan Stadium and into quiet tributaries and caves the tour boats never see. Guides know the river's history and its herons alike.",
+    "must_try": "The guided Nashville Skyline Paddle at dusk, when downtown lights come up over the water",
+    "hours": "Mon 9:00 AM-5:00 PM, Thu-Sun 9:00 AM-5:00 PM (closed Tue-Wed)",
+    "seasonal": "Season runs roughly April through October; skyline paddles book fast on summer weekends",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Paddle Nash",
+    "address": "Delivery service to 2 Victory Ave / Shelby Park & downtown launches, Nashville, TN",
+    "phone": null,
+    "website": "https://www.paddlenash.com/kayak-rentals",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak rentals & delivery",
+    "price": "$$",
+    "rating": null,
+    "description": "The no-fuss way onto the Cumberland: Paddle Nash brings the boats to you. Book a half or full day and they'll drop kayaks at the downtown launch by Nissan Stadium, Shelby Park, or anywhere in a five-mile radius, then let you set your own pace on the water. It's tailor-made for a spontaneous, self-guided float when the weather turns fine.",
+    "must_try": "A self-guided half-day paddle launched from the pedestrian-bridge landing with the skyline at your back",
+    "hours": null,
+    "seasonal": "Warm-weather operation; best on calm, low-water summer days",
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Broken Paddle Outfitters",
+    "address": "8547 Charlotte Pike, Nashville, TN 37209 (Harpeth River rentals launch in Bellevue)",
+    "phone": null,
+    "website": "https://brokenpaddleoutfitters.com/harpeth-river/",
+    "category": "outdoor_adventure",
+    "subcategory": "canoe, kayak & tube rentals",
+    "price": "$$",
+    "rating": null,
+    "description": "For a lazy summer float rather than a whitewater workout, Broken Paddle sets you loose on the Bellevue stretch of the Harpeth with canoes, kayaks, and tubes. They handle the shuttle and the shaded parking so the whole operation is drop-your-cares easy. It's the kind of gentle Class I river day that families and first-timers remember all year.",
+    "must_try": "A tube or kayak float down the Bellevue Harpeth with the outfitter's shuttle handling the logistics",
+    "hours": null,
+    "seasonal": "Peak season Memorial Day through Labor Day; call ahead in spring/fall for water levels",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Nashville Paddle Company",
+    "address": "Hamilton Creek Recreation Area, J. Percy Priest Lake, Nashville, TN 37217",
+    "phone": null,
+    "website": "https://www.nashvillepaddle.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "stand-up paddleboard rentals & SUP yoga",
+    "price": "$$",
+    "rating": null,
+    "description": "Nashville's original stand-up paddleboard crew has been launching from the Hamilton Creek boathouse on Percy Priest since 2011, the only outfit in town with its own lakeside waterfront. Rent a board and drift the coves, take a how-to lesson, or balance through a sunrise SUP-yoga class on the water. Permitted with Metro Parks and endlessly patient with beginners.",
+    "must_try": "A sunset SUP-yoga session on Percy Priest Lake, holding a pose while the water goes gold",
+    "hours": null,
+    "seasonal": "Spring through fall; social paddles and full-moon excursions on summer evenings",
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Adventureworks Nashville West",
+    "address": "1300 Narrows of the Harpeth Rd, Kingston Springs, TN 37082",
+    "phone": "615-297-2250",
+    "website": "https://www.adventureworks.com/locations/adventureworks-nashville-west/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline & aerial adventure park",
+    "price": "$$$",
+    "rating": null,
+    "description": "Perched beside the Narrows in Harpeth River State Park, Adventureworks is the closest thing to flying you'll do around Nashville. Their guided canopy tour strings ten ziplines and a swinging bridge through old-growth forest, about ninety minutes and a mile and a half of treetop terrain, while the aerial course tests your nerve on obstacles overhead. Running since 1987, they've got the safety dialed and the views earned.",
+    "must_try": "The 10-zipline guided canopy tour soaring over the Harpeth River gorge",
+    "hours": "By reservation; hours vary by season - book online in advance",
+    "seasonal": "Open spring through fall; weekend slots fill early in summer and peak fall-color weeks",
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stones River Greenway (Two Rivers to Percy Priest)",
+    "address": "Two Rivers Park trailhead, 3150 McGavock Pike, Nashville, TN 37214",
+    "phone": "615-862-8400",
+    "website": "https://greenwaysfornashville.org/stones-river-greenway-segment/",
+    "category": "outdoor_adventure",
+    "subcategory": "paved bike & walking greenway",
+    "price": "$",
+    "rating": null,
+    "description": "This is the ride to hand a visitor who wants to feel the shape of the land: a nearly 10-mile paved ribbon that leaves Two Rivers Park, ducks under McGavock Pike, then rolls through meadow and over pedestrian-only bridges out to the J. Percy Priest Dam. Mostly flat with a couple of honest hills, it links up with Shelby Bottoms for an all-day pedal without ever touching traffic.",
+    "must_try": "Coasting the car-free bridges toward Percy Priest Dam with river views opening on both sides",
+    "hours": "Daily dawn to dusk",
+    "seasonal": "Great year-round; shady and green in summer, wildflower meadows in early fall",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Timberland Park (Natchez Trace Parkway)",
+    "address": "Milepost 437.2, Natchez Trace Pkwy, Franklin, TN 37064",
+    "phone": "615-599-3700",
+    "website": "https://www.wcparksandrec.com/facilities_and_parks/timberland_park/index.php",
+    "category": "outdoor_adventure",
+    "subcategory": "nature park / hiking (side trip)",
+    "price": "$",
+    "rating": null,
+    "description": "A short hop past the towering Double Arch Bridge, this 72-acre Williamson County park is the perfect leg-stretch on a Leiper's Fork and Franklin day trip. Old logging roads have become three-plus miles of easy-to-moderate trail winding over oak-and-hickory ridges and down into ravines, with a nature center and butterfly garden to boot. Quiet, well-kept, and blessedly uncrowded.",
+    "must_try": "Walking the ridge trails to a Natchez Trace overlook, then circling back through the butterfly garden",
+    "hours": "Trails open daily; nature center hours vary by season",
+    "seasonal": "Wildflowers in spring; monarchs in the butterfly garden late summer; brilliant hardwood color in October",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tootsie's Orchid Lounge",
+    "address": "422 Broadway, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.tootsies.net",
+    "category": "bars_nightlife",
+    "subcategory": "honky-tonk",
+    "price": "$",
+    "rating": null,
+    "description": "The purple room with a hundred years of stories in the walls. Tootsie Bess ran a tab for the songwriters who couldn't yet pay, and Willie, Kris and Roger Miller all got their start on credit here. The magic is out the back door: it opens onto the alley across from the Ryman's stage entrance, so Opry stars would duck over between sets. Climb to the rooftop for the view, but linger downstairs for the ghosts.",
+    "must_try": "A cold beer on the third-floor rooftop, then slip out the back to stand in the alley that faces the Ryman's stage door",
+    "hours": "Daily 9:30 AM - 3:00 AM",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Johnny Cash Museum",
+    "address": "119 3rd Ave S, Nashville, TN 37201",
+    "phone": "(615) 256-1777",
+    "website": "https://www.johnnycashmuseum.com",
+    "category": "attractions",
+    "subcategory": "museum",
+    "price": "$$",
+    "rating": null,
+    "description": "A block off Broadway and worth the detour — the most complete collection of Man in Black artifacts anywhere, curated with the family's blessing. It's small, it's dense, and it's genuinely moving, from the handwritten lyrics to the wall built from the charred stone-and-timber wreckage of Cash's Hendersonville lake house. Repeatedly voted the best music museum in America, and it earns it.",
+    "must_try": "The wall built from the salvaged stone and timber of Johnny's Hendersonville home after it burned",
+    "hours": "Daily 9:00 AM - 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Station Inn",
+    "address": "402 12th Ave S, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://stationinn.com",
+    "category": "entertainment",
+    "subcategory": "bluegrass-listening-room",
+    "price": "$$",
+    "rating": null,
+    "description": "The soul of the Gulch, a squat cinderblock room from 1974 that the glass towers grew up around and couldn't push out. This is where locals go for real bluegrass and Americana, seven nights a week, at tables and folding chairs. Cash at the door, cold beer, pizza, and pickers of the highest order — you never know who'll sit in. The antidote to everything loud on Broadway.",
+    "must_try": "The Sunday-night bluegrass jam — doors at 7, cash only, arrive early for a table",
+    "hours": "Nightly; doors 7:00 PM",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Union Station Nashville Yards",
+    "address": "1001 Broadway, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.unionstationhotelnashville.com",
+    "category": "lodging",
+    "subcategory": "historic-hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The grand dame at the top of Broadway — a 1900 Romanesque railway terminal reborn as a hotel, with a barrel-vaulted stained-glass ceiling in the old lobby that still stops people mid-stride. A ten-minute walk down the hill delivers you to the honky-tonks, but up here it's all limestone, gold leaf and quiet. The kind of place a songwriter checks into when a cut finally pays off. Check rates for the season.",
+    "must_try": "A nightcap in the lobby beneath the original barrel-vaulted stained-glass ceiling",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Noelle",
+    "address": "200 4th Ave N, Nashville, TN 37219",
+    "phone": null,
+    "website": "https://www.noelle-nashville.com",
+    "category": "lodging",
+    "subcategory": "boutique-hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "A 1930 Art Deco landmark, the old Noel Hotel, given a sharp local restoration — Printers Alley humming at its back, Broadway a block off its front. Downstairs there's a proper coffee counter and a speakeasy; up top, the Rare Bird rooftop bar catches the skyline at golden hour. It reads boutique without reading precious, and the staff actually know the city. See availability early for weekends.",
+    "must_try": "A sunset drink at Rare Bird, the rooftop bar, with Printers Alley humming below",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Nash (formerly Bobby Hotel)",
+    "address": "230 4th Ave N, Nashville, TN 37219",
+    "phone": null,
+    "website": "https://www.opalcollection.com/nashville/",
+    "category": "lodging",
+    "subcategory": "boutique-hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The playful one, steps from Broadway in the Printers Alley pocket — recently rebranded from Bobby Hotel but the same art-forward, warm-hearted place regulars love. The signature move is the rooftop: an outdoor pool, skyline views, and a retrofitted 1967 Greyhound bus parked up there that they turned into a bar. Book a room, or just come up for a drink. Check rates before the weekend rush.",
+    "must_try": "A cocktail aboard the retrofitted 1967 Greyhound bus parked on the rooftop pool deck",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Acme Feed & Seed",
+    "address": "101 Broadway, Nashville, TN 37201",
+    "phone": "(615) 915-0888",
+    "website": "https://www.acmefeedandseed.com",
+    "category": "dining",
+    "subcategory": "restaurant-and-rooftop-bar",
+    "price": "$$",
+    "rating": null,
+    "description": "The anchor at the foot of Broadway where the strip meets the river — four floors of food, music and sprawl in a restored 1890s farm-supply building. The ground floor is a proper restaurant and honky-tonk; climb to the fourth-floor rooftop for the wide view up Broadway and out over the Cumberland. Somehow it works for both a real meal and a rowdy night, which is rarer than it sounds down here.",
+    "must_try": "Sushi and a cold local beer on the fourth-floor rooftop where Broadway meets the river",
+    "hours": "Daily 11:00 AM - 11:00 PM",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "music",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "General Jackson Showboat",
+    "address": "Departs Opryland dock, 2812 Opryland Dr, Nashville, TN 37214",
+    "phone": null,
+    "website": "https://www.generaljackson.com",
+    "category": "outdoor_adventure",
+    "subcategory": "river-cruise",
+    "price": "$$$",
+    "rating": null,
+    "description": "The largest showboat in the world, four decks of it, paddling up the Cumberland from the Opryland dock with a live country revue and Southern-style dining aboard. It's touristy, no argument — but the midday lunch cruise is a genuinely lovely way to see the skyline from the water, and the evening cruise catches Nashville lit up. A good change of pace from the pavement. Book a table ahead for weekends.",
+    "must_try": "The midday lunch cruise up the Cumberland with a live country music revue",
+    "hours": "Lunch and dinner cruises; schedule varies seasonally",
+    "seasonal": "Special holiday and seasonal cruises run through year-end",
+    "modes": [
+      "family",
+      "music",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Rose at The Joseph",
+    "address": "401 Korean Veterans Blvd, Nashville, TN 37203",
+    "phone": null,
+    "website": "https://www.thejosephnashville.com/spa",
+    "category": "wellness_spa",
+    "subcategory": "hotel-spa",
+    "price": "$$$$",
+    "rating": null,
+    "description": "When Broadway has wrung you out — and it will — this is where you go to put yourself back together. A serene luxury spa on the 21st floor of The Joseph, next door to the Hall of Fame, with Biologique Recherche facials and massage and the whole downtown skyline spread out through the windows. Quiet, grown-up, and a world away from the honky-tonk noise two blocks below. Book a treatment ahead.",
+    "must_try": "A Biologique Recherche facial on the 21st floor with the downtown skyline below",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Grimey's New & Preloved Music",
+    "address": "1060 E Trinity Ln, Nashville, TN 37216",
+    "phone": "615-226-3811",
+    "website": "https://www.grimeys.com/",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "If you only have time for one record store, make it this one. Grimey's has been the beating heart of Nashville's vinyl scene since 1999, and it lives inside an old East Trinity Lane church, so crate-digging feels a little like worship. New and preloved side by side, plus free in-store sets where you'll catch an artist the week before they blow up. This is where working musicians actually shop.",
+    "must_try": "Digging the preloved bins downstairs, then catching a free in-store performance",
+    "hours": "Mon-Thu 11am-6pm, Fri-Sat 11am-7pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Groove",
+    "address": "1103 Calvin Ave, Nashville, TN 37206",
+    "phone": "615-227-5760",
+    "website": "https://thegroovenashville.com/",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked into an old bungalow on a quiet East Nashville side street, The Groove is the record shop as neighbor's front porch. Since 2007 it's been the unhurried, cozy counterpart to the bigger stores — new and used vinyl, cassettes, and a backyard that hosts free shows. Come on a Monday and every record is 15% off, which is the kind of local secret I only share with people who'll use it.",
+    "must_try": "A Monday visit for 15% off all vinyl, plus a free backyard set",
+    "hours": "Tue-Sat 11am-6pm, Sun 12pm-5pm, closed Mon",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vinyl Tap",
+    "address": "2038 Greenwood Ave, Nashville, TN 37206",
+    "phone": null,
+    "website": "http://www.vinyltapnashville.com/",
+    "category": "shopping",
+    "subcategory": "record store & bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Half record store, half neighborhood beer bar, and 100% East Nashville. You can flip through new and used wax with a local craft draft in hand — a combination that sounds gimmicky until you're two beers deep and finally found that soul 45 you've been chasing. It's the rare spot that serves the record-hunter and the person just along for the ride equally well.",
+    "must_try": "A regional craft draft while flipping the used soul and funk bins",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Daydream Records",
+    "address": "1006 Fatherland St, Nashville, TN 37206 (Shoppes on Fatherland)",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "For the serious crate-digger, this used-only gem inside the Shoppes on Fatherland is holy ground. The stock turns over constantly and leans jazz, punk, and rock, with a knack for the rare and the strange. It's small, so you can lose an hour easily — the kind of place where the grail pressing you've hunted for years might just be filed under the wrong letter.",
+    "must_try": "Crate-digging the rare jazz and punk pressings",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Third Man Records",
+    "address": "623 7th Ave S, Nashville, TN 37203",
+    "phone": "615-891-4393",
+    "website": "https://thirdmanrecords.com/pages/nashville-store",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Jack White's storefront-slash-label-slash-pressing-plant sits just south of downtown, and yes, it draws tourists — but earn your keep by going deeper than the T-shirts. You can watch records get pressed through the window, cut your own in the vinyl recording booth, and dig into limited Third Man pressings you won't find anywhere else. Loud, yellow, and unapologetically itself.",
+    "must_try": "Cutting your own record in the vinyl recording booth",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Parnassus Books",
+    "address": "3900 Hillsboro Pike, Ste 14, Nashville, TN 37215",
+    "phone": null,
+    "website": "https://parnassusbooks.net/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Novelist Ann Patchett's beloved indie is worth the short hop to Green Hills. It's a real writer's bookstore — deep local-author section, an events calendar thick with readings, and shop dogs who'll supervise your browsing. In a music town, this is where the literary crowd gathers, and the staff recommendations are genuinely worth trusting.",
+    "must_try": "A signed first edition from the local-author section",
+    "hours": "Mon-Sat 10am-6pm, Sun 12pm-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Bookshop",
+    "address": "1043 W Eastland Ave, Nashville, TN 37206 (relocating to 824 Meridian St in 2026)",
+    "phone": null,
+    "website": "https://thebookshopnashville.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "A tiny, fiercely curated East Nashville shop run by a former book editor with two decades' taste behind every shelf. It punches far above its square footage — hand-written recommendation cards guide you toward the exact right novel. Heads up: they're moving in 2026 to a bigger Meridian Street home with a front porch built for community readings, so call ahead before you walk over.",
+    "must_try": "Following the owner's hand-written staff recommendation cards to a new read",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Hatch Show Print",
+    "address": "224 Rep. John Lewis Way S, Nashville, TN 37203",
+    "phone": "615-256-2805",
+    "website": "https://hatchshowprint.com/",
+    "category": "shopping",
+    "subcategory": "letterpress poster shop",
+    "price": "$$",
+    "rating": null,
+    "description": "A working letterpress shop since 1879, still hand-pulling show posters from the same wood and metal blocks that advertised the Opry's early stars. Inside the Country Music Hall of Fame, it's part museum, part print shop, part gift store — and the posters make the best souvenir in town, the kind that started as ink on paper rather than a factory in China.",
+    "must_try": "A hand-pulled letterpress show poster printed from the original blocks",
+    "hours": "Sun-Wed 9:30am-6pm, Thu-Sat 9:30am-8pm",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fanny's House of Music",
+    "address": "1101 Holly St, Nashville, TN 37206",
+    "phone": "615-750-5746",
+    "website": "https://www.fannyshouseofmusic.com/",
+    "category": "shopping",
+    "subcategory": "musical instrument shop",
+    "price": "$$",
+    "rating": null,
+    "description": "In the heart of Five Points, this woman-owned instrument shop is as welcoming as any I know — no gatekeeping, no attitude, just a warm room full of vintage guitars, ukes, and gear. They've built a reputation on making beginners and pros equally at home, and the vintage wall is a genuine temptation. A songwriter's kind of place.",
+    "must_try": "Testing a vintage parlor guitar off the wall",
+    "hours": "Mon-Sat 11am-6pm, Sun 12pm-5pm",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fatherland District (Shoppes on Fatherland)",
+    "address": "1006 Fatherland St, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.fatherlanddistrict.com/",
+    "category": "shopping",
+    "subcategory": "shopping district / maker collective",
+    "price": "$$",
+    "rating": null,
+    "description": "A cluster of tiny, independent storefronts connected by breezeways just off Five Points — gifts, jewelry, antiques, bath goods, records, even artisanal cheese, all local hands. You can walk the whole thing in an easy half hour, which makes it the perfect low-commitment browse when you want to support East Nashville makers rather than a mall.",
+    "must_try": "Grazing the maker pods, from Gift Horse to the artisanal cheese counter",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gruhn Guitars",
+    "address": "2120 8th Ave S, Nashville, TN 37204",
+    "phone": "615-256-2033",
+    "website": "https://guitars.com/",
+    "category": "shopping",
+    "subcategory": "vintage instrument shop",
+    "price": "$$$",
+    "rating": null,
+    "description": "George Gruhn's shop has been the world's mecca for vintage fretted instruments since 1970, and stepping inside feels like a museum where everything's for sale. Pre-war Martins, vintage Gibsons, instruments with real provenance — the pros and the collectors both make the pilgrimage. Even if your budget tops out at a pick, the staff will let you hold history.",
+    "must_try": "Handling a pre-war Martin or a vintage Gibson on the vintage floor",
+    "hours": "Mon-Sat 10am-6pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Woodcuts Gallery & Framing",
+    "address": "1613 Jefferson St, Nashville, TN 37208",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "art gallery / custom framing",
+    "price": "$$",
+    "rating": null,
+    "description": "On historic Jefferson Street, Nate Harris's family-owned gallery has been selling and framing African-American art since 1987 — often the first place a young Black Nashville artist ever sold a piece. There's now a historic marker out front, and rightly so. Come here to understand the North Nashville that raised the city's R&B tradition, and leave with an original worth framing.",
+    "must_try": "An original work by a Black Nashville artist, custom-framed in-house",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Green Fleet Bicycle Shop",
+    "address": "934 Jefferson St, Nashville, TN 37208",
+    "phone": "615-379-8687",
+    "website": "https://greenfleetbikes.com/",
+    "category": "services",
+    "subcategory": "bike rental & tours",
+    "price": "$$",
+    "rating": null,
+    "description": "Nashville's original bike-tour outfit and a full-service shop two blocks from Bicentennial Mall, right on the Jefferson Street corridor. Rentals — cruisers, city bikes, e-bikes — come with a lock and a map, and their guided rides are the honest way to see the city under your own power. Reserve ahead; the good bikes go fast on a warm morning.",
+    "must_try": "An e-bike rental to ride the Cumberland River greenway",
+    "hours": "Mon-Fri 10am-6pm, Sat 10am-4pm, closed Sun",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Imogene + Willie",
+    "address": "2601 12th Ave S, Nashville, TN 37204",
+    "phone": null,
+    "website": "https://imogeneandwillie.com/",
+    "category": "shopping",
+    "subcategory": "clothing boutique / denim",
+    "price": "$$$",
+    "rating": null,
+    "description": "Housed in an old granny-white service station on 12South, this is the shop that helped put Nashville-made denim on the map. Small-batch, designed here, made in the USA — and they'll do a hands-on denim fitting with complimentary chainstitch hemming from the tailor on site. Not cheap, but it's the rare boutique where you leave with something built to outlast the trend.",
+    "must_try": "A guided denim fitting with complimentary chainstitch hemming",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "East Nashville Farmers Market",
+    "address": "511 Woodland St, Nashville, TN 37206",
+    "phone": null,
+    "website": "https://www.eastnashvillemarket.com/",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "A proper neighborhood market with 60-plus vendors — bakers, meat and egg producers, artisans — that turns a Tuesday afternoon into the best kind of errand. Free parking, a genuinely local crowd, and produce that traveled a few miles instead of a few states. This is where East Nashville does its weekly shopping, and you should too.",
+    "must_try": "A Tuesday-afternoon haul from the local bakers and produce growers",
+    "hours": "Tuesdays 3:30pm-6:30pm (Apr-Oct), 3:30pm-6pm (Nov-Dec)",
+    "seasonal": "Tuesdays, April through December",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nashville Farmers' Market",
+    "address": "900 Rosa L Parks Blvd, Nashville, TN 37208",
+    "phone": null,
+    "website": "https://www.nashvillefarmersmarket.org/",
+    "category": "shopping",
+    "subcategory": "public market",
+    "price": "$$",
+    "rating": null,
+    "description": "Sixteen open-air acres beside Bicentennial Mall, open seven days a week — four farm sheds, a garden center, and a Market House packed with food stalls and local shops. It's a fine year-round anchor when the weather's uncooperative or you just want a lap of prepared food and produce. Skip the tourist traps downtown and eat your way through here instead.",
+    "must_try": "A lap of the Market House food stalls, then produce from the open sheds",
+    "hours": "Market House daily 8am-8pm; outdoor farm sheds vary by season",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Landmark Booksellers",
+    "address": "114 E Main St, Franklin, TN 37064",
+    "phone": null,
+    "website": "https://www.landmarkbooksellers.com/",
+    "category": "shopping",
+    "subcategory": "independent bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Worth the 30-minute run down to historic Franklin. This husband-and-wife shop fills the oldest commercial building in town — a Greek Revival structure from around 1808 — with 35,000-plus new, used, and rare titles, and a deep bench of Southern Americana and Tennessee history. Signed first editions run from $10 to five figures, and the author events are the real draw for the literary-minded.",
+    "must_try": "A signed first edition from the Southern Americana shelves",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Props Antiques",
+    "address": "4208 Old Hillsboro Rd, Leipers Fork, TN 37064",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "antiques & vintage",
+    "price": "$$",
+    "rating": null,
+    "description": "The 45-minute drive out to Leiper's Fork is half the pleasure, and Props — on the corner of Old Hillsboro and Old 96 — rewards it. A curated tangle of reclaimed furniture, old signage, industrial pieces, and a vintage-clothing vault, the kind of shop design-minded pickers linger in. Pair it with a stroll through the village and a pour at the local distillery for a perfect day trip.",
+    "must_try": "Digging through the vintage-clothing vault",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  }
+]

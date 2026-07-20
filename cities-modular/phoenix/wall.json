@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "sig": "",
+    "time": "2 hours ago",
+    "caption": "Chased the murals down Roosevelt Row.",
+    "likes": 131,
+    "img": "/cities/phoenix/images/district-roosevelt-row.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 2,
+    "sig": "Maya R.",
+    "time": "5 hours ago",
+    "caption": "Hole-in-the-Rock at sunset. Worth the early wake-up.",
+    "likes": 268,
+    "img": "/cities/phoenix/images/outdoors-papago-park.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 3,
+    "sig": "",
+    "time": "Yesterday",
+    "caption": "Camelback corridor. Pretended I could afford it.",
+    "likes": 195,
+    "img": "/cities/phoenix/images/resort-golf-corridor.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 4,
+    "sig": "Devon",
+    "time": "Yesterday",
+    "caption": "Golden hour on the desert. Every single night.",
+    "likes": 122,
+    "img": "/cities/phoenix/images/seasonal-fall.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 5,
+    "sig": "Priya",
+    "time": "2 days ago",
+    "caption": "Spring training crowds, citrus in the air.",
+    "likes": 259,
+    "img": "/cities/phoenix/images/seasonal-spring.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 6,
+    "sig": "",
+    "time": "3 days ago",
+    "caption": "Summer in Phoenix. The pool won, and I let it.",
+    "likes": 186,
+    "img": "/cities/phoenix/images/seasonal-summer.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 7,
+    "sig": "Marcus T.",
+    "time": "Last week",
+    "caption": "Snowbird season. 72 and not sorry about it.",
+    "likes": 113,
+    "img": "/cities/phoenix/images/seasonal-winter.jpg",
+    "album": "Photos",
+    "comments": []
+  },
+  {
+    "id": 8,
+    "sig": "Lena",
+    "time": "2 hours ago",
+    "caption": "Valley of the Sun from above. That light is real.",
+    "likes": 250,
+    "img": "/cities/phoenix/images/hero-aerial.jpg",
+    "album": "Photos",
+    "comments": []
+  }
+]

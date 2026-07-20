@@ -1,0 +1,838 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "hey",
+      "start",
+      "menu",
+      "help",
+      "begin",
+      "yo"
+    ],
+    "text": "Morning, powder hound. Welcome to Salt Lake — the Crossroads of the West, where Temple Square heritage runs into a State Street lined with the best immigrant kitchens in the Mountain West, and eleven world-class ski resorts sit inside an hour of downtown. I'm your local. I know which canyon's about to gridlock, where the espresso actually pulls right, and I'll go easy on you about the altitude (drink water — you're at 4,300 feet and climbing). What are we chasing today? Just say the word: FOOD, COFFEE, DRINKS, NIGHTLIFE, SKIING, HIKING, MUSEUMS, ARTS, SPORTS, FAMILY, SHOPPING, GEAR, SIDE TRIPS, or ask about the SEASON.",
+    "businesses": [],
+    "chips": [
+      "Where do locals eat?",
+      "Best powder day plan",
+      "Coffee that slaps",
+      "I want a side trip"
+    ]
+  },
+  {
+    "keys": [
+      "food",
+      "eat",
+      "dining",
+      "dinner",
+      "restaurant",
+      "where to eat",
+      "hungry",
+      "best food"
+    ],
+    "text": "Now we're talking. SLC punches way above its weight at the table. For a genuine flagship night, Urban Hill and Oquirrh are the downtown darlings, and The Copper Onion is the gastropub that put this city's food scene on the map. Want ambitious tasting-menu energy? Table X and HSL are chef-driven and worth the reservation. Craving Italian done right? Valter's Osteria pours old-world charm and VENETO Ristorante Italiano is special-occasion serious. And if you only eat one meal here, make it Red Iguana — mole so good there's a line down the block, and it's worth every minute. Tell me the vibe: date night, comfort food, or a deep global dive?",
+    "businesses": [
+      "Urban Hill",
+      "Oquirrh",
+      "The Copper Onion",
+      "Table X",
+      "HSL",
+      "Valter's Osteria",
+      "VENETO Ristorante Italiano",
+      "Red Iguana"
+    ],
+    "chips": [
+      "Global immigrant kitchens",
+      "Romantic dinner",
+      "Mole at Red Iguana",
+      "Brunch spots"
+    ]
+  },
+  {
+    "keys": [
+      "global",
+      "international",
+      "immigrant",
+      "state street",
+      "ethnic",
+      "cultural food",
+      "authentic",
+      "thai",
+      "ethiopian",
+      "afghan",
+      "world food"
+    ],
+    "text": "This is the real Crossroads of the West story, and it's my favorite trail to walk. State Street and the west side hum with kitchens from all over the globe. Red Iguana is the Mexican mole institution. Mahider Ethiopian Restaurant & Market brings the injera and the community. Mazza does Middle Eastern with real soul. For Thai, you've got a trio worth arguing about — Chanon Thai Cafe, Laan Na Thai, and if you want something rarer, Bhutan House Restaurant serves the only Bhutanese food for a thousand miles. Afghan Kitchen rounds it out with dumplings that'll ruin you for anywhere else. This is where SLC's heart actually beats.",
+    "businesses": [
+      "Red Iguana",
+      "Mahider Ethiopian Restaurant & Market",
+      "Mazza",
+      "Chanon Thai Cafe",
+      "Laan Na Thai",
+      "Bhutan House Restaurant",
+      "Afghan Kitchen"
+    ],
+    "chips": [
+      "Best Thai in town",
+      "Tell me about mole",
+      "Where locals brunch",
+      "Fine dining picks"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date night",
+      "special occasion",
+      "fine dining",
+      "anniversary",
+      "fancy",
+      "upscale",
+      "celebrate"
+    ],
+    "text": "For a night that earns you serious points: Log Haven is the move — a mountain lodge tucked up Millcreek Canyon with waterfalls out the window and a fireplace inside. It's the most romantic table in the valley, full stop. Downtown, The Pearl leans elegant and current, Arlo is intimate and seasonal, and Table X plates like an art gallery. Valter's Osteria will have the owner himself charming your table in Italian. Pago is small, candlelit, and farm-driven — locals propose there. Book ahead; these fill up, especially on powder weekends when everyone's celebrating a good ski day.",
+    "businesses": [
+      "Log Haven",
+      "The Pearl",
+      "Arlo",
+      "Table X",
+      "Valter's Osteria",
+      "Pago"
+    ],
+    "chips": [
+      "A canyon dinner",
+      "Cocktails after",
+      "Best wine list",
+      "Where to stay downtown"
+    ]
+  },
+  {
+    "keys": [
+      "brunch",
+      "breakfast",
+      "diner",
+      "morning food",
+      "brownstone",
+      "hub spoke",
+      "manoli"
+    ],
+    "text": "Fuel up right — you've got vertical to earn today. Hub & Spoke Diner is the neighborhood breakfast champ, all comfort and generous plates. Brownstone 22 does a polished sit-down brunch, and Manoli's brings Greek meze energy that works beautifully in the morning light. For a chef-y farm-to-table brunch, Pago and HSL both flip the script on eggs. And Franck's is old-guard elegance if you want a leisurely, linen-napkin kind of late morning. Carb up, hydrate, and let's get you to a trailhead or a chairlift.",
+    "businesses": [
+      "Hub & Spoke Diner",
+      "Brownstone 22",
+      "Manoli's",
+      "Pago",
+      "HSL",
+      "Franck's"
+    ],
+    "chips": [
+      "Coffee to go with that",
+      "Morning hike ideas",
+      "Best bakery",
+      "What's for dinner?"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "espresso",
+      "cafe",
+      "caffeine",
+      "latte",
+      "roaster",
+      "pour over",
+      "wake up"
+    ],
+    "text": "A powder hound runs on good coffee, and SLC's scene is legit. Publik Coffee Roasters is the airy, plant-filled flagship where everyone posts up with a laptop. Caffe D'Bolla is a siphon-brew temple — the owner treats single-origin pour-overs like a ceremony, and it's some of the best coffee in the American West. Three Pines Coffee downtown pulls a clean, bright shot, Blue Copper Coffee Room is the roaster's roaster, and La Barba hides excellent espresso around town. Salt Lake Roasting Co. is the OG that's been caffeinating this city for decades. Grab a cup, we've got altitude to fight.",
+    "businesses": [
+      "Publik Coffee Roasters",
+      "Caffe D'Bolla",
+      "Three Pines Coffee",
+      "Blue Copper Coffee Room",
+      "La Barba Coffee",
+      "Salt Lake Roasting Co."
+    ],
+    "chips": [
+      "Pastry to go with it",
+      "Best siphon coffee",
+      "Breakfast spots",
+      "Where to work remote"
+    ]
+  },
+  {
+    "keys": [
+      "bakery",
+      "pastry",
+      "croissant",
+      "tulie",
+      "dessert",
+      "sweet",
+      "baked"
+    ],
+    "text": "Tulie Bakery is the answer, and honestly it should be its own food group — the almond croissants and morning buns sell out, so go early. Pair it with a pour-over from La Barba or Three Pines Coffee and you've got the perfect pre-trailhead ritual. Under the Umbrella Bookstore & Cafe also does cozy cafe treats if you want a book with your bite. Fuel light before a hike, fuel heavy after — that's the mountain way.",
+    "businesses": [
+      "Tulie Bakery",
+      "La Barba Coffee",
+      "Three Pines Coffee",
+      "Under the Umbrella Bookstore & Cafe"
+    ],
+    "chips": [
+      "Coffee roasters",
+      "Brunch instead",
+      "Bookstores",
+      "Hike after"
+    ]
+  },
+  {
+    "keys": [
+      "drinks",
+      "cocktails",
+      "bar",
+      "bars",
+      "happy hour",
+      "aperitivo",
+      "mixology"
+    ],
+    "text": "Let's clear up the myth first: yes, you can absolutely get a great drink in Salt Lake — the cocktail scene here is sneaky-excellent. Water Witch is the crown jewel, a tiny craft bar with bartenders who take it seriously. Bar X (co-owned by a certain local celebrity chef) is the moody classic-cocktail spot, and its next-door sibling Beer Bar handles the brews and brats. Copper Common pairs sharp drinks with sharp small plates. The Red Door does espresso martinis and low light. Just remember Utah's pour rules mean drinks are measured — pace yourself, especially at altitude, hero.",
+    "businesses": [
+      "Water Witch",
+      "Bar X",
+      "Beer Bar",
+      "Copper Common",
+      "The Red Door"
+    ],
+    "chips": [
+      "Local breweries",
+      "Live music tonight",
+      "Dinner first",
+      "Nightlife scene"
+    ]
+  },
+  {
+    "keys": [
+      "beer",
+      "brewery",
+      "breweries",
+      "craft beer",
+      "ale",
+      "ipa",
+      "fisher",
+      "tf brewing"
+    ],
+    "text": "SLC's brewing culture is thriving despite what the outsiders think. Fisher Brewing Company is the community-owned favorite — a big sunny taproom in Granary District with a rotating food truck and dogs everywhere. Templin Family Brewing (TF Brewing) does gorgeous German-style lagers in a beautiful space right nearby, so you can walk between the two. Beer Bar downtown is the sprawling bratwurst-and-taps hall for when you want variety. Utah beer is fuller-strength than the old stereotypes — these folks know what they're doing.",
+    "businesses": [
+      "Fisher Brewing Company",
+      "Templin Family Brewing (TF Brewing)",
+      "Beer Bar"
+    ],
+    "chips": [
+      "Cocktail bars instead",
+      "Bar Nohm?",
+      "Food nearby",
+      "Live music"
+    ]
+  },
+  {
+    "keys": [
+      "nightlife",
+      "live music",
+      "concert",
+      "band",
+      "dance",
+      "late night",
+      "urban lounge",
+      "kilby",
+      "nohm"
+    ],
+    "text": "After dark, SLC has a scrappy, excellent scene. The Urban Lounge is the indie-rock institution where touring bands play sweaty, unforgettable sets. Kilby Court is the beloved all-ages courtyard venue — a true rite of passage, so tiny and legendary they named a whole music festival after it. The Depot is the bigger downtown room for national acts. For a more refined late night, Bar Nohm brings a sleek natural-wine-and-cocktail energy that's newer to the scene. Check who's playing and let's make a night of it.",
+    "businesses": [
+      "The Urban Lounge",
+      "Kilby Court",
+      "The Depot",
+      "Bar Nohm"
+    ],
+    "chips": [
+      "Comedy instead",
+      "Cocktails first",
+      "Theater options",
+      "Sports tonight"
+    ]
+  },
+  {
+    "keys": [
+      "ski",
+      "skiing",
+      "snowboard",
+      "powder",
+      "resort",
+      "slopes",
+      "alta",
+      "snowbird",
+      "brighton",
+      "solitude",
+      "first chair",
+      "greatest snow"
+    ],
+    "text": "This is why they call me the Powder Hound. You've got the Greatest Snow on Earth stacked in two canyons within 40 minutes of downtown. Little Cottonwood: Alta Ski Area (skiers only, purists' paradise) and Snowbird Ski and Summer Resort (steep, huge, the Aerial Tram to Hidden Peak is a must). Big Cottonwood: Brighton Resort (night skiing, snowboard-founded soul) and Solitude. Powder-day rule from me to you — the canyons close for avalanche control and traffic is BRUTAL, so take the UTA Ski Bus (Cottonwood Canyons Service) and skip the red snake of brake lights. Rent your boards down here first. Which mountain's calling?",
+    "businesses": [
+      "Alta Ski Area",
+      "Snowbird Ski and Summer Resort",
+      "Snowbird Aerial Tram",
+      "Brighton Resort",
+      "UTA Ski Bus (Cottonwood Canyons Service)"
+    ],
+    "chips": [
+      "Rent gear first",
+      "Where to stay slopeside",
+      "Apres-ski food",
+      "Backcountry / touring"
+    ]
+  },
+  {
+    "keys": [
+      "stay slopeside",
+      "lodge",
+      "lodging",
+      "hotel",
+      "ski hotel",
+      "cliff lodge",
+      "rustler",
+      "alta lodge",
+      "snowpine",
+      "solitude inn",
+      "sleep on mountain"
+    ],
+    "text": "Wake up to first chair — staying on the mountain is the ultimate flex. At Snowbird, The Cliff Lodge & Spa is the towering flagship (rooftop pool with a canyon view). At Alta, you've got real character: Alta's Rustler Lodge is the polished classic, Alta Lodge is the historic ski-in gem, and Snowpine Lodge is the luxe newcomer. Over at Solitude, The Inn at Solitude keeps you steps from the lifts, or go full adventure and book The Yurt at Solitude for a ski-in fine-dining overnight. Brighton Lodge is the budget-friendly slopeside pick. Book early — powder season fills these months out.",
+    "businesses": [
+      "The Cliff Lodge & Spa",
+      "Alta's Rustler Lodge",
+      "Alta Lodge",
+      "Snowpine Lodge",
+      "The Inn at Solitude",
+      "The Yurt at Solitude",
+      "Brighton Lodge"
+    ],
+    "chips": [
+      "Spa day on the mountain",
+      "Apres food and drinks",
+      "Ski bus logistics",
+      "Summer at the resorts"
+    ]
+  },
+  {
+    "keys": [
+      "apres",
+      "apres ski",
+      "mountain food",
+      "molly green",
+      "honeycomb",
+      "st bernard",
+      "after skiing",
+      "slopeside eat"
+    ],
+    "text": "You've earned this. Apres-ski up the canyons is a whole ritual. At Brighton, Molly Green's is the legendary A-frame dive with a fire and cold beer — pure ski-bum magic. Honeycomb Grill at Solitude does elevated comfort food and local brews. And at The Cliff Lodge, St. Bernard's brings a Bavarian-lodge feel with a serious spread. Peel off those boots, prop your feet by the fire, and toast a good day of turns. Then let the UTA Ski Bus (Cottonwood Canyons Service) drive you home while your legs recover.",
+    "businesses": [
+      "Molly Green's",
+      "Honeycomb Grill",
+      "St. Bernard's",
+      "The Cliff Lodge & Spa",
+      "UTA Ski Bus (Cottonwood Canyons Service)"
+    ],
+    "chips": [
+      "Downtown dinner instead",
+      "Ski the next day",
+      "Spa recovery",
+      "Cocktails in the city"
+    ]
+  },
+  {
+    "keys": [
+      "hike",
+      "hiking",
+      "trail",
+      "hiking trails",
+      "summer hike",
+      "waterfall",
+      "donut falls",
+      "lake blanche",
+      "cecret",
+      "ensign peak",
+      "alpine lake"
+    ],
+    "text": "Come summer, those same canyons trade snow for wildflowers and it's glorious. Easy win: Donut Falls Trail in Big Cottonwood — short, family-friendly, ends at a waterfall pouring through a rock 'donut.' Cecret Lake / Albion Basin at the top of Little Cottonwood is peak-wildflower heaven (July is unreal). Want to sweat? Lake Blanche Trail is a lung-burner to a stunning alpine lake — bring water, respect that altitude. In town, Ensign Peak Nature Park is a quick sunset hike with the whole valley at your feet, and Millcreek Canyon is the dog-friendly, close-to-town escape. Which effort level are we talking?",
+    "businesses": [
+      "Donut Falls Trail",
+      "Cecret Lake / Albion Basin",
+      "Lake Blanche Trail",
+      "Ensign Peak Nature Park",
+      "Millcreek Canyon"
+    ],
+    "chips": [
+      "Easy family walk",
+      "Wildflowers in July",
+      "Guided backcountry",
+      "River / water trail"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor guide",
+      "guided",
+      "backcountry",
+      "touring",
+      "climbing",
+      "fly fishing",
+      "rafting",
+      "adventure company",
+      "white pine",
+      "utah mountain adventures",
+      "gear guide"
+    ],
+    "text": "Want a pro to show you the goods? White Pine Touring (based in Park City) guides backcountry ski tours, mountain biking, and Nordic. Utah Mountain Adventures runs avalanche courses, alpine climbing, and ski mountaineering for when you're ready to earn your turns off-piste. For the water crowd, Wilderness Trout Expeditions does blue-ribbon fly-fishing floats, and Utah Outdoor Adventures (Park City Rafting) will get you splashing down the whitewater in summer. Going guided is the smart move up here — the mountains are serious, and these folks keep you safe and pointed at the good stuff.",
+    "businesses": [
+      "White Pine Touring",
+      "Utah Mountain Adventures",
+      "Wilderness Trout Expeditions",
+      "Utah Outdoor Adventures (Park City Rafting)"
+    ],
+    "chips": [
+      "Rent gear in the city",
+      "Beginner-friendly options",
+      "River float trip",
+      "Park City side trip"
+    ]
+  },
+  {
+    "keys": [
+      "antelope island",
+      "bison",
+      "great salt lake",
+      "island",
+      "wildlife",
+      "salt lake",
+      "buffalo"
+    ],
+    "text": "This one surprises everyone. Antelope Island State Park sits out in the Great Salt Lake, a 40-minute drive over a causeway, and it's home to a free-roaming herd of hundreds of bison, plus pronghorn, bighorn sheep, and some of the best sunsets in the state. Float in the ultra-salty lake if you dare (you cannot sink), watch the migratory birds, and just soak in that stark, otherworldly landscape. Heads up from your local: the brine flies get thick in high summer, so spring and fall are the sweet spots. Bring water and a camera.",
+    "businesses": [
+      "Antelope Island State Park"
+    ],
+    "chips": [
+      "Other outdoor day trips",
+      "Bonneville Salt Flats",
+      "Bird / nature attractions",
+      "Sunset dinner ideas"
+    ]
+  },
+  {
+    "keys": [
+      "museum",
+      "museums",
+      "art museum",
+      "history",
+      "dinosaur",
+      "natural history",
+      "science",
+      "planetarium",
+      "culture",
+      "learn"
+    ],
+    "text": "Rainy day or altitude taking a breather? SLC's museum bench is deep. Natural History Museum of Utah is the crown jewel — a stunning copper-clad building tucked into the foothills, packed with dinosaurs and a rooftop trail view. Utah Museum of Fine Arts and Utah Museum of Contemporary Art cover the classic-to-cutting-edge art spectrum. For the city's founding story, Church History Museum on Temple Square and the living-history village at This Is the Place Heritage Park bring the pioneer heritage to life. Clark Planetarium downtown has a killer dome show and it's free to wander. Where's your curiosity pulling you?",
+    "businesses": [
+      "Natural History Museum of Utah",
+      "Utah Museum of Fine Arts",
+      "Utah Museum of Contemporary Art",
+      "Church History Museum",
+      "This Is the Place Heritage Park",
+      "Clark Planetarium"
+    ],
+    "chips": [
+      "Gardens and birds",
+      "Theater and concerts",
+      "Family-friendly picks",
+      "Temple Square area"
+    ]
+  },
+  {
+    "keys": [
+      "garden",
+      "aviary",
+      "birds",
+      "red butte",
+      "tracy aviary",
+      "nature park",
+      "botanical",
+      "flowers",
+      "olympic park"
+    ],
+    "text": "For open-air culture: Red Butte Garden and Arboretum up by the University is Utah's largest botanical garden — gorgeous in bloom, and its summer outdoor concert series is a local institution. Tracy Aviary in Liberty Park is a lovely, walkable bird sanctuary that's been charming families for over a century. And if you want a jolt of Olympic history, Utah Olympic Park up in Park City lets you watch (or try) bobsled and ski jumping from the 2002 Games — SLC is hosting again in 2034, so the energy's building. Sunshine and wonder, all in one.",
+    "businesses": [
+      "Red Butte Garden and Arboretum",
+      "Tracy Aviary",
+      "Utah Olympic Park"
+    ],
+    "chips": [
+      "Indoor museums",
+      "Family day plan",
+      "Concerts and shows",
+      "Park City trip"
+    ]
+  },
+  {
+    "keys": [
+      "arts",
+      "theater",
+      "theatre",
+      "performing arts",
+      "symphony",
+      "broadway",
+      "show",
+      "opera",
+      "ballet",
+      "eccles",
+      "abravanel",
+      "capitol theatre"
+    ],
+    "text": "The downtown arts blocks are genuinely world-class. Maurice Abravanel Hall is the acoustic jewel home to the Utah Symphony — an evening there is transcendent. George S. and Dolores Doré Eccles Theater is the gleaming modern house for touring Broadway and big acts. Janet Quinney Lawson Capitol Theatre hosts Ballet West and Utah Opera in a restored historic gem. Dress it up, grab a pre-show cocktail at Copper Common or Water Witch, and make a proper night of it downtown.",
+    "businesses": [
+      "Maurice Abravanel Hall",
+      "George S. and Dolores Doré Eccles Theater",
+      "Janet Quinney Lawson Capitol Theatre",
+      "Copper Common",
+      "Water Witch"
+    ],
+    "chips": [
+      "Live indie music",
+      "Comedy night",
+      "Dinner before the show",
+      "Sports instead"
+    ]
+  },
+  {
+    "keys": [
+      "comedy",
+      "stand up",
+      "laugh",
+      "funny",
+      "wiseguys",
+      "comedy club"
+    ],
+    "text": "Need a laugh? Wiseguys Comedy is the spot — SLC's home for stand-up, pulling in national touring headliners and sharp local talent. Great for a group night out. Pair it with drinks beforehand at Bar X or Beer Bar, both a short stroll from the downtown action, and you've got a night sorted. Two-drink minimum energy, big laughs, easy win.",
+    "businesses": [
+      "Wiseguys Comedy",
+      "Bar X",
+      "Beer Bar"
+    ],
+    "chips": [
+      "Live music tonight",
+      "Cocktail bars",
+      "Theater and symphony",
+      "Late-night eats"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "game",
+      "basketball",
+      "jazz",
+      "hockey",
+      "delta center",
+      "arena",
+      "watch a game",
+      "team"
+    ],
+    "text": "Game night in SLC means the Delta Center downtown — home of the Utah Jazz (NBA) and now the Utah Hockey Club (NHL), so there's almost always something loud and fun happening under that roof. It's right in the heart of downtown, so pre-game at The Copper Onion or Copper Common, catch the action, then spill out into the bars afterward. If you're here in the right season, snagging tickets to a Jazz game is a quintessential SLC night. And of course, the real local sport is chasing powder — but that's a different arena.",
+    "businesses": [
+      "Delta Center",
+      "The Copper Onion",
+      "Copper Common"
+    ],
+    "chips": [
+      "Where to eat downtown",
+      "Bars near the arena",
+      "Live music after",
+      "Skiing this weekend"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children",
+      "family friendly",
+      "with kids",
+      "toddler",
+      "things for kids"
+    ],
+    "text": "SLC is a dream with kids, hero. Start at Natural History Museum of Utah — the dinosaur hall and hands-on exhibits are a guaranteed hit. Clark Planetarium has free exhibits and jaw-dropping dome shows. Tracy Aviary lets little ones get close to hundreds of birds, and This Is the Place Heritage Park is a full pioneer village with train rides and animals. For an easy outdoor win, Donut Falls Trail is a short, waterfall-rewarded hike even small legs can handle, and the bison at Antelope Island State Park never fail to wow. Snacks, water, sunscreen — you know the drill up here.",
+    "businesses": [
+      "Natural History Museum of Utah",
+      "Clark Planetarium",
+      "Tracy Aviary",
+      "This Is the Place Heritage Park",
+      "Donut Falls Trail",
+      "Antelope Island State Park"
+    ],
+    "chips": [
+      "Easy family hikes",
+      "Ice cream / treats",
+      "Rainy day plan",
+      "Downtown farmers market"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "books",
+      "bookstore",
+      "gifts",
+      "local shops",
+      "boutique",
+      "record store",
+      "vintage",
+      "browse"
+    ],
+    "text": "SLC's indie retail scene has real soul, especially in the 9th & 9th and Sugar House neighborhoods. Book lovers, rejoice: The King's English Bookshop is a beloved warren of rooms and staff picks, Weller Book Works in Trolley Square is a multi-generational gem, and Ken Sanders Rare Books is a treasure-hunter's paradise for maps and rare finds. Central Book Exchange and Under the Umbrella Bookstore & Cafe round it out. For crate-diggers, Diabolical Records, Randy's Records, and Fountain Records keep the vinyl flowing. And for gifts and homewares, Hip & Humble, Koo De Ker, and Vantage are lovely browses. What's your treasure?",
+    "businesses": [
+      "The King's English Bookshop",
+      "Weller Book Works",
+      "Ken Sanders Rare Books",
+      "Central Book Exchange",
+      "Under the Umbrella Bookstore & Cafe",
+      "Diabolical Records",
+      "Randy's Records",
+      "Fountain Records",
+      "Hip & Humble",
+      "Koo De Ker",
+      "Vantage"
+    ],
+    "chips": [
+      "Vintage clothing",
+      "Record stores",
+      "Farmers market",
+      "Gear and outdoor shops"
+    ]
+  },
+  {
+    "keys": [
+      "vintage",
+      "thrift",
+      "secondhand",
+      "clothing",
+      "decades",
+      "iconoclad",
+      "fashion",
+      "retro"
+    ],
+    "text": "For threads with a story, SLC's vintage game is strong. iconoCLAD is the buy-sell-trade spot for cool secondhand and local streetwear. Decades Vintage Clothing is a curated trip back through the eras — think genuine mid-century finds and denim. Pair a vintage crawl with a coffee from La Barba or Three Pines Coffee and you've got a perfect low-key afternoon browsing the local neighborhoods. Sustainable, one-of-a-kind, and way more fun than a mall.",
+    "businesses": [
+      "iconoCLAD",
+      "Decades Vintage Clothing",
+      "La Barba Coffee",
+      "Three Pines Coffee"
+    ],
+    "chips": [
+      "Bookstores",
+      "Record shops",
+      "Homeware and gifts",
+      "Coffee break"
+    ]
+  },
+  {
+    "keys": [
+      "gear",
+      "rent",
+      "rental",
+      "ski shop",
+      "outdoor gear",
+      "equipment",
+      "board",
+      "wasatch touring",
+      "evo",
+      "powder house",
+      "nexus",
+      "buy gear"
+    ],
+    "text": "Here's your local's cheat code — rent or dial in your gear DOWN HERE in the valley before you drive up, so you skip the resort markup and the morning rental line. Wasatch Touring is the venerable downtown shop for backcountry, Nordic, and touring setups with staff who actually ski. evo Salt Lake is the stylish one-stop for skis, boards, and apparel. Up in the canyons, Powder House Ski Shop (Cottonwood) has you covered right near the lifts if you forgot something. Get fitted the night before, then let the UTA Ski Bus (Cottonwood Canyons Service) handle the drive while you sip coffee. That's how a powder hound plays it.",
+    "businesses": [
+      "Wasatch Touring",
+      "evo Salt Lake",
+      "Powder House Ski Shop (Cottonwood)",
+      "UTA Ski Bus (Cottonwood Canyons Service)"
+    ],
+    "chips": [
+      "Which resort today",
+      "Guided backcountry",
+      "Apres-ski plans",
+      "Slopeside lodging"
+    ]
+  },
+  {
+    "keys": [
+      "spa",
+      "wellness",
+      "massage",
+      "relax",
+      "recovery",
+      "sore",
+      "cliff spa",
+      "pamper",
+      "hot tub"
+    ],
+    "text": "Legs trashed from a big day of turns or a lung-buster hike? Time to recover right. The Cliff Spa at Snowbird is the destination — a rooftop spa at The Cliff Lodge & Spa with a heated outdoor pool, eucalyptus steam, and canyon views while you soak your aches away. Book a massage, hit the sauna, and let that altitude fatigue melt off. It's the perfect bookend to a hard-charging mountain day. Hydrate before and after — I'll keep reminding you, because the elevation's real.",
+    "businesses": [
+      "The Cliff Spa at Snowbird",
+      "The Cliff Lodge & Spa"
+    ],
+    "chips": [
+      "Slopeside lodging",
+      "Apres food",
+      "Easy recovery hike",
+      "Back to skiing"
+    ]
+  },
+  {
+    "keys": [
+      "side trip",
+      "day trip",
+      "park city",
+      "excursion",
+      "out of town",
+      "road trip",
+      "nearby"
+    ],
+    "text": "Two side trips every visitor should know. Park City is just 40 minutes east — a walkable historic Main Street packed with restaurants, galleries, and boutiques, plus the Olympic legacy at Utah Olympic Park (bobsled rides, ski jumping, the whole 2002 thrill) and gentle adventure at Round Valley Open Space for biking and trail running. Guides like White Pine Touring operate right out of Park City for backcountry and mountain biking. It's a whole different mountain-town flavor from SLC — worth the drive any season. Or, if you want something truly strange and stunning, ask me about the Salt Flats.",
+    "businesses": [
+      "Utah Olympic Park",
+      "Round Valley Open Space",
+      "White Pine Touring"
+    ],
+    "chips": [
+      "Bonneville Salt Flats",
+      "Antelope Island",
+      "Guided adventures",
+      "Park City dining"
+    ]
+  },
+  {
+    "keys": [
+      "bonneville",
+      "salt flats",
+      "speedway",
+      "white desert",
+      "photography",
+      "landspeed",
+      "weird landscape"
+    ],
+    "text": "Buckle up for the surreal one. Bonneville Salt Flats is about 90 minutes west on I-80 — a blindingly white, perfectly flat expanse of salt crust that stretches to the horizon like another planet. It's the legendary land-speed-racing ground, and when there's a thin sheen of water it becomes a giant mirror that makes for jaw-dropping photos. Local tips: go at sunrise or sunset for the light, don't drive onto the salt if it's wet (you WILL get stuck), bring water and sunglasses, and rinse the salt off your car after. Bucket-list weird, and worth every mile.",
+    "businesses": [
+      "Bonneville Salt Flats"
+    ],
+    "chips": [
+      "Antelope Island too",
+      "Park City trip",
+      "Photography spots",
+      "Back to the city"
+    ]
+  },
+  {
+    "keys": [
+      "winter",
+      "snow season",
+      "ski season",
+      "december",
+      "january",
+      "february",
+      "cold",
+      "when to ski",
+      "best time snow"
+    ],
+    "text": "Winter is prime time, powder hound — this is what SLC is famous for. The Greatest Snow on Earth stacks up deepest December through March, with the resorts spinning lifts into April and even May in big years. Little Cottonwood (Alta Ski Area, Snowbird Ski and Summer Resort) and Big Cottonwood (Brighton Resort) are your headliners, all under an hour from downtown. Powder-day gospel from me: canyons gridlock and close for avalanche control after big storms, so ride the UTA Ski Bus (Cottonwood Canyons Service), go early, and layer up. First chair is a religion here — join the congregation.",
+    "businesses": [
+      "Alta Ski Area",
+      "Snowbird Ski and Summer Resort",
+      "Brighton Resort",
+      "UTA Ski Bus (Cottonwood Canyons Service)"
+    ],
+    "chips": [
+      "Rent gear first",
+      "Slopeside lodging",
+      "Apres-ski spots",
+      "Summer season instead"
+    ]
+  },
+  {
+    "keys": [
+      "summer",
+      "warm season",
+      "july",
+      "august",
+      "june",
+      "hiking season",
+      "when to visit summer",
+      "off season"
+    ],
+    "text": "Don't sleep on SLC summers — when the snow melts, the canyons explode with wildflowers and the whole valley turns into a playground. Cecret Lake / Albion Basin peaks with wildflowers in July, Lake Blanche Trail and Donut Falls Trail beckon hikers, and Millcreek Canyon stays cool and dog-friendly. The Great Salt Lake beckons at Antelope Island State Park where the bison roam (spring and fall dodge the brine flies), and the resorts like Snowbird Ski and Summer Resort run the Aerial Tram for lift-served hiking and mountain coasters. Cap it with an outdoor concert at Red Butte Garden and Arboretum. Long days, big skies — hydrate and go.",
+    "businesses": [
+      "Cecret Lake / Albion Basin",
+      "Lake Blanche Trail",
+      "Donut Falls Trail",
+      "Millcreek Canyon",
+      "Antelope Island State Park",
+      "Snowbird Ski and Summer Resort",
+      "Red Butte Garden and Arboretum"
+    ],
+    "chips": [
+      "Guided river rafting",
+      "Family hikes",
+      "Winter season instead",
+      "Farmers market"
+    ]
+  },
+  {
+    "keys": [
+      "temple square",
+      "downtown",
+      "heritage",
+      "history",
+      "this is the place",
+      "pioneer",
+      "landmark",
+      "sightseeing",
+      "first time"
+    ],
+    "text": "Welcome to the founding heart of it all. Temple Square is where SLC began — the pioneers arrived in 1847 and Brigham Young declared 'This is the place.' Wander the grounds, then dig into the story at the Church History Museum right on the square. Head east to This Is the Place Heritage Park, a living-history village where costumed folks recreate frontier life — the whole 'Crossroads of the West' saga made vivid. For a quick hike into the history, Ensign Peak Nature Park is where early leaders first scouted the valley, and the sunset views are unreal. From this pioneer core, the city's modern global food scene is just a few blocks away — that contrast IS Salt Lake.",
+    "businesses": [
+      "Church History Museum",
+      "This Is the Place Heritage Park",
+      "Ensign Peak Nature Park"
+    ],
+    "chips": [
+      "Global food nearby",
+      "Museums downtown",
+      "Farmers market",
+      "Where to stay"
+    ]
+  },
+  {
+    "keys": [
+      "farmers market",
+      "market",
+      "local produce",
+      "downtown market",
+      "saturday market",
+      "vendors"
+    ],
+    "text": "If you're here on a warm-season Saturday, the Downtown Farmers Market at Pioneer Park is a must — one of the best in the Mountain West. Local farmers, food trucks slinging global bites, live music, craftspeople, and the whole city out mingling in the morning sun. It's the perfect low-key way to feel the pulse of SLC, grab breakfast, and stock up before a canyon picnic. Runs summer into fall, with a smaller winter market indoors. Bring a tote and cash, and come hungry.",
+    "businesses": [
+      "Downtown Farmers Market"
+    ],
+    "chips": [
+      "Coffee nearby",
+      "Brunch spots",
+      "Shopping and books",
+      "Summer hikes"
+    ]
+  }
+]

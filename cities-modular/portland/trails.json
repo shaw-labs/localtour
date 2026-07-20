@@ -1,0 +1,49 @@
+[
+  {
+    "id": "the-250-trail-portland",
+    "title": "The 250 Trail: Portland — Pods & Portals",
+    "hook": "From the hand-built gates of Old Town Chinatown to the griddles immigrants turned into an institution: Portland's story told through its doorways and its food carts.",
+    "narrative": "Start where the city keeps its portals. In Old Town Chinatown, the China Gate has marked the district since its 1986 dedication, but the real doorway is Lan Su Chinese Garden — opened September 2000, hand-assembled by roughly seventy artisans from Suzhou, Portland's sister city since 1988, using stone and timber shipped from China. A block over, the Portland Chinatown Museum (Oregon's first museum of Chinese American history, open since December 2018) tells you who lived here before the neighborhood's name turned decorative. Portland is an immigrant story, and it gets told fastest through food, so walk it. Portland Saturday Market has run under the Burnside Bridge since 1976 — founded in 1974, still the largest continuously operating open-air craft market in the country — the same DIY nerve that later wired up the cart pods. Those carts are the point. Nong Poonsukwattana landed from Bangkok in 2003 and opened Nong's Khao Man Gai as a single cart in 2009; Han Ly Hwang fired up Kim Jong Grillin' that same year. Cartopia has anchored SE 12th and Hawthorne since 2008 — string lights, fire pits, open stupidly late. This is the real inheritance: a doorway, a market, and a hundred griddles run by people who showed up with a suitcase and a good recipe. Bring cash. Bring an appetite.",
+    "neighborhoods": [
+      "Old Town Chinatown",
+      "Downtown Waterfront",
+      "Central Eastside / Buckman",
+      "Southeast Hawthorne",
+      "Mississippi Avenue"
+    ],
+    "stops": [
+      {
+        "biz": "Lan Su Chinese Garden",
+        "note": "The portal. A full Ming-style scholar's garden dropped into one downtown block — teahouse up top, koi below. Go early, before the tour groups; the quiet is the whole point."
+      },
+      {
+        "biz": "Portland Chinatown Museum",
+        "note": "The 'Beyond the Gate' exhibit is the neighborhood's actual memory — small, sharp, and it recontextualizes every place you're about to eat at. Do this before the carts, not after."
+      },
+      {
+        "biz": "Portland Saturday Market",
+        "note": "Under the Burnside Bridge, weekends only. Half the vendors have been here since the Carter administration. The food row is where the whole cart ethos got its first rehearsal."
+      },
+      {
+        "biz": "Nong's Khao Man Gai",
+        "note": "One dish done perfectly: poached chicken, rice cooked in the broth, and a ginger-garlic sauce you'll want to bottle. She started with a Craigslist cart; order the classic and don't overthink it."
+      },
+      {
+        "biz": "Kim Jong Grillin'",
+        "note": "Han's been at it since 2009. Get the bibim box — short rib, egg, a wallop of gochujang. Cart food that eats like a sit-down dinner."
+      },
+      {
+        "biz": "Cartopia",
+        "note": "The pod that proved carts could be a nightlife, not just a lunch. Poutine at Potato Champion, wood-fired pies, a beer under the string lights. Open past when you should be home."
+      },
+      {
+        "biz": "Prost! Marketplace",
+        "note": "The Mississippi pod. Matt's BBQ pulls Texas-style brisket until it's gone — get there before mid-afternoon or make peace with the sides. Grab a German pour at Prost proper."
+      },
+      {
+        "biz": "Stumptown Coffee Roasters (Division Street)",
+        "note": "Close it out where Portland's coffee obsession went fully pro. A cortado at the Division roastery. The Regular's last stop, every time — no notes."
+      }
+    ]
+  }
+]

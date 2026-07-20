@@ -1,0 +1,3405 @@
+[
+  {
+    "name": "Studio Be",
+    "address": "2941 Royal St, New Orleans, LA 70117",
+    "phone": null,
+    "website": "https://www.bmike.com",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Brandan \"BMike\" Odums' massive warehouse gallery in the Bywater. 35,000 sq ft of large-scale murals and installations exploring Black American identity. Powerful stuff.",
+    "must_try": "The massive spray-painted portraits — they stop you in your tracks",
+    "hours": "Thu-Mon 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sydney & Walda Besthoff Sculpture Garden",
+    "address": "1 Palm Dr, New Orleans, LA 70124",
+    "phone": "+1-504-658-4100",
+    "website": "https://noma.org/sculpture-garden",
+    "category": "attractions",
+    "subcategory": "galleries",
+    "price": "Free",
+    "rating": "4.9",
+    "description": "Spectacular free 12-acre outdoor installation with 90+ modern sculptures among winding lagoons and 200-year-old live oaks. One of the best free attractions in any American city.",
+    "must_try": "The reflecting lagoons and the giant spider sculpture",
+    "hours": "Daily 10am-6pm (summer), 10am-5pm (winter)",
+    "seasonal": "Hours shift seasonally",
+    "modes": [
+      "chill",
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Longue Vue House and Gardens",
+    "address": "7 Bamboo Rd, New Orleans, LA 70124",
+    "phone": "+1-504-488-5488",
+    "website": "https://longuevue.com/",
+    "category": "attractions",
+    "subcategory": "historic_sites",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Stunning Classical Revival estate with eight acres of interactive gardens. A peaceful escape from the city energy.",
+    "must_try": "Guided house tour followed by coffee at the Garden Café",
+    "hours": "Daily 8am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jackson Square",
+    "address": "701 Decatur St, New Orleans, LA 70116",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "The heart of the French Quarter. St. Louis Cathedral as the backdrop, street performers, tarot readers, artists selling paintings on the iron fence. Free to walk through.",
+    "must_try": "Walk through in the morning before the crowds, or at dusk when the light hits the cathedral",
+    "hours": "Open 24 hours",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Louis Cathedral",
+    "address": "615 Pere Antoine Alley, New Orleans, LA 70116",
+    "phone": "+1-504-525-9585",
+    "website": "https://www.stlouiscathedral.org",
+    "category": "attractions",
+    "subcategory": "landmarks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "The oldest continuously active cathedral in the United States. The interior is stunning and it's free to visit.",
+    "must_try": "Step inside even for 5 minutes — the painted ceiling and stained glass are incredible",
+    "hours": "Daily 8:30am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aquarium of the Americas",
+    "address": "1 Canal St, New Orleans, LA 70130",
+    "phone": "+1-504-565-3033",
+    "website": "https://audubonnatureinstitute.org/aquarium",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "World-class riverfront facility with immersive Gulf of Mexico and Caribbean reef habitats. The shark and ray exhibit is massive.",
+    "must_try": "Gulf of Mexico shark and ray exhibit",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Backstreet Cultural Museum",
+    "address": "1531 St Philip St, New Orleans, LA 70116",
+    "phone": "+1-504-657-6700",
+    "website": "https://www.backstreetmuseum.org/",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.9",
+    "description": "Profoundly important Tremé institution preserving Mardi Gras Indian traditions, jazz funeral culture, and Black social aid clubs. Essential for understanding real New Orleans.",
+    "must_try": "The elaborately hand-beaded Mardi Gras Indian suits",
+    "hours": "Tue-Sat 10am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Historic Voodoo Museum",
+    "address": "724 Dumaine St, New Orleans, LA 70116",
+    "phone": "+1-504-680-0128",
+    "website": "https://voodoomuseum.com/",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Small, casual museum packed floor-to-ceiling with artifacts preserving New Orleans Voodoo history. Leave an offering at Marie Laveau's altar.",
+    "must_try": "Offering at the altar of Marie Laveau",
+    "hours": "Daily 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "New Orleans Museum of Art (NOMA)",
+    "address": "1 Collins Diboll Cir, New Orleans, LA 70124",
+    "phone": "+1-504-658-4100",
+    "website": "https://noma.org/",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "City Park's anchor museum with 40,000+ works spanning 5,000 years. Free on Wednesdays for Louisiana residents. The adjacent Sculpture Garden is free daily.",
+    "must_try": "The photography galleries and the free Sculpture Garden next door",
+    "hours": "Tue-Sun 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "New Orleans Pharmacy Museum",
+    "address": "514 Chartres St, New Orleans, LA 70130",
+    "phone": "+1-504-490-6263",
+    "website": "https://pharmacymuseum.org/",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Fascinating look at 19th-century medicine, voodoo remedies, and surgical oddities in America's first licensed apothecary.",
+    "must_try": "Guided tour of historical medical practices",
+    "hours": "Tue-Sat 11am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ogden Museum of Southern Art",
+    "address": "925 Camp St, New Orleans, LA 70130",
+    "phone": "+1-504-539-9650",
+    "website": "https://www.ogdenmuseum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The largest collection of Southern art in the world. Ogden After Hours on Thursday nights: live music, cocktails, and gallery access for $10.",
+    "must_try": "Ogden After Hours — Thursday 6-8pm, live music + cocktails + galleries, $10",
+    "hours": "Wed-Mon 10am-5pm, Thu open late",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Cabildo",
+    "address": "701 Chartres St, New Orleans, LA 70116",
+    "phone": "+1-504-568-6968",
+    "website": "https://louisianastatemuseum.org/museum/cabildo",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Elegant Spanish colonial building next to St. Louis Cathedral where the Louisiana Purchase was transferred. Napoleon's death mask is here.",
+    "must_try": "Napoleon's death mask and the Battle of New Orleans exhibits",
+    "hours": "Tue-Sun 9am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The National WWII Museum",
+    "address": "945 Magazine St, New Orleans, LA 70130",
+    "phone": "+1-504-528-1944",
+    "website": "https://www.nationalww2museum.org",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$$",
+    "rating": "4.9",
+    "description": "The #1 attraction in New Orleans and consistently rated the best museum in America. You need 4-5 hours minimum. The Beyond All Boundaries film narrated by Tom Hanks is worth it alone.",
+    "must_try": "Beyond All Boundaries 4D film, the submarine exhibit, Stage Door Canteen dinner show",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Presbytère",
+    "address": "751 Chartres St, New Orleans, LA 70116",
+    "phone": "+1-504-568-6968",
+    "website": "https://louisianastatemuseum.org/museum/presbytere",
+    "category": "attractions",
+    "subcategory": "museums",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Twin of the Cabildo, brilliantly chronicling Mardi Gras history and the impact of Hurricane Katrina. The interactive float exhibits are fantastic.",
+    "must_try": "Interactive Mardi Gras float exhibits",
+    "hours": "Tue-Sun 9am-4pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Garden District Walking Tour",
+    "address": "Start at Washington Ave & Prytania St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$-$$",
+    "rating": "4.6",
+    "description": "Self-guided or with a tour company. Antebellum mansions, Lafayette Cemetery No. 1, Anne Rice's former home, Sandra Bullock's house. Free to walk on your own.",
+    "must_try": "Walk Prytania and Coliseum streets. Stop at Lafayette Cemetery No. 1.",
+    "hours": "Anytime (daylight recommended)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mardi Gras World",
+    "address": "1380 Port of New Orleans Pl, New Orleans, LA 70130",
+    "phone": "+1-504-361-7821",
+    "website": "https://mardigrasworld.com/",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Massive working warehouse where artists build the spectacular floats for the city's largest parades, year-round. Watch the styrofoam carving process up close.",
+    "must_try": "Watching the float-building process and trying on costumes",
+    "hours": "Daily 9am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "festival"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Charles Streetcar",
+    "address": "St. Charles Ave (Canal to Carrollton), New Orleans, LA 70130",
+    "phone": null,
+    "website": "https://www.norta.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$",
+    "rating": "4.8",
+    "description": "The oldest continuously operating streetcar in the world (1835). Ride the full line from Canal through the Garden District to Audubon Park for $1.25. Better than any bus tour.",
+    "must_try": "Ride the full line one way — sit on the right side heading Uptown for the best mansion views",
+    "hours": "24 hours (runs every 7-15 min)",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Louis Cemetery No. 1",
+    "address": "425 Basin St, New Orleans, LA 70112",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The city's oldest and most famous above-ground cemetery. Must visit with a licensed tour guide — no unguided entry allowed.",
+    "must_try": "Tomb of Voodoo Queen Marie Laveau and Nicolas Cage's pyramid tomb",
+    "hours": "Guided tours only, varies by operator",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Steamboat Natchez",
+    "address": "Toulouse St Wharf, 400 Toulouse St, New Orleans, LA 70130",
+    "phone": "+1-504-569-1401",
+    "website": "https://www.steamboatnatchez.com",
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "The last authentic steamboat on the Mississippi. Jazz brunch cruise and evening dinner cruise with live music. Touristy? Sure. But being on the river with a brass band hits different.",
+    "must_try": "The jazz brunch cruise on Sunday",
+    "hours": "Cruises at 11:30am and 7pm daily",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tremé Neighborhood Walking Tour",
+    "address": "Departs from Louis Armstrong Park",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Essential historical deep-dive into America's oldest African-American neighborhood — the birthplace of jazz, Congo Square, and the cradle of local civil rights.",
+    "must_try": "Visiting Congo Square",
+    "hours": "Varies by operator",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bayou Beer Garden",
+    "address": "326 N Jefferson Davis Pkwy, New Orleans, LA 70119",
+    "phone": "+1-504-302-9357",
+    "website": "https://www.bayoubeergarden.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Massive Mid-City beer garden with 40+ taps, food trucks, and a chill outdoor vibe. Great for watching games and afternoon drinks.",
+    "must_try": "Local craft beer flights, whatever food truck is parked outside",
+    "hours": "Daily 11am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Courtyard Brewery",
+    "address": "1160 Camp St, New Orleans, LA 70130",
+    "phone": null,
+    "website": "https://courtyardbrewery.square.site/",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Pioneering micro-brewery with an eclectic open-air taproom. West Coast IPAs and experimental Saisons in a chill Lower Garden District setting.",
+    "must_try": "Rotating hop-forward IPAs",
+    "hours": "Mon-Thu 4pm-11:30pm, Fri-Sun 11am-11:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "NOLA Brewing",
+    "address": "3001 Tchoupitoulas St, New Orleans, LA 70115",
+    "phone": "+1-504-301-5857",
+    "website": "https://www.nolabrewing.com",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Local brewery taproom near the river. Good beer, casual vibe, food trucks on weekends. The NOLA Blonde is everywhere in the city.",
+    "must_try": "NOLA Blonde, Irish Channel Stout, or whatever's on the seasonal tap",
+    "hours": "Thu-Mon 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Parleaux Beer Lab",
+    "address": "634 Lesseps St, New Orleans, LA 70117",
+    "phone": "+1-504-702-8433",
+    "website": "https://www.parleauxbeerlab.com/",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Destination Bywater micro-brewery with an expansive outdoor beer garden and imaginative small-batch brews. The sour ales are stellar.",
+    "must_try": "Rotating fruit-infused sour ales",
+    "hours": "Mon-Thu 12pm-9pm, Fri-Sat 12pm-10pm, Sun 12pm-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Port Orleans Brewing Co.",
+    "address": "4124 Tchoupitoulas St, New Orleans, LA 70115",
+    "phone": "+1-504-266-2332",
+    "website": "https://portorleansbrewingco.com/",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Sprawling brewery and beer garden with clean lagers and ales. Spring crawfish boils on the patio are legendary.",
+    "must_try": "Spring crawfish boils and their flagship lager",
+    "hours": "Daily 11am-9pm",
+    "seasonal": "Spring crawfish boils",
+    "modes": [
+      "chill",
+      "family",
+      "festival"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Urban South Brewery",
+    "address": "1645 Tchoupitoulas St, New Orleans, LA 70130",
+    "phone": "+1-504-517-4677",
+    "website": "https://urbansouth.com/",
+    "category": "bars_nightlife",
+    "subcategory": "breweries",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Sprawling Tchoupitoulas brewery with a massive taproom, food trucks, and a family-friendly beer garden. The Holy Roller IPA is their flagship.",
+    "must_try": "Holy Roller IPA and whatever food truck is posted up",
+    "hours": "Mon-Thu 11am-9pm, Fri-Sat 11am-10pm, Sun 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bar Tonique",
+    "address": "820 N Rampart St, New Orleans, LA 70116",
+    "phone": "+1-504-324-6045",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The bartenders' bar. No-nonsense craft cocktails on the edge of the Quarter. This is where industry people drink after their shifts.",
+    "must_try": "Ask for a dealer's choice cocktail — the bartenders here are world-class",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Compère Lapin Bar",
+    "address": "535 Tchoupitoulas St, New Orleans, LA 70130",
+    "phone": "+1-504-599-2119",
+    "website": "http://comperelapin.com/",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "The impeccable bar inside Chef Nina Compton's flagship restaurant. Gulf-Caribbean cocktails in one of the most beautiful hotel bar spaces in the city.",
+    "must_try": "The Copper Bunny cocktail",
+    "hours": "Sun-Thu 5:30pm-9pm, Fri-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cure",
+    "address": "4905 Freret St, New Orleans, LA 70115",
+    "phone": "+1-504-302-2357",
+    "website": "https://www.curecocktails.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The cocktail bar that launched the Freret Street revival. James Beard-nominated. Gorgeous converted firehouse. Serious drinks, zero pretension.",
+    "must_try": "Any of the rotating seasonal cocktails — the menu changes constantly",
+    "hours": "Mon-Thu 5pm-12am, Fri-Sat 5pm-1am, Sun 12pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pat O'Brien's",
+    "address": "718 St Peter St, New Orleans, LA 70116",
+    "phone": "+1-504-525-4823",
+    "website": "https://www.patobriens.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Home of the Hurricane cocktail. Yes, it's touristy. Yes, you should go once. The flaming fountain courtyard and dueling piano bar are legitimately fun.",
+    "must_try": "Hurricane cocktail in the courtyard by the flaming fountain",
+    "hours": "Sun-Thu 10am-1am, Fri-Sat 10am-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sazerac Bar",
+    "address": "130 Roosevelt Way (The Roosevelt Hotel), New Orleans, LA 70112",
+    "phone": "+1-504-648-1200",
+    "website": "https://www.therooseveltneworleans.com/dining/sazerac-bar",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Art Deco palace where you drink the city's namesake cocktail. The Sazerac was created nearby in the 1800s. This is the definitive place to drink one.",
+    "must_try": "A Sazerac. Obviously.",
+    "hours": "Daily 11am-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Carousel Bar & Lounge",
+    "address": "214 Royal St, New Orleans, LA 70130",
+    "phone": "+1-504-523-3341",
+    "website": "https://www.hotelmonteleone.com/entertainment/carousel-bar",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "The only revolving bar in New Orleans, inside the Hotel Monteleone. The bar literally turns as you drink. A Vieux Carré cocktail here is mandatory.",
+    "must_try": "Vieux Carré cocktail (invented at the Hotel Monteleone)",
+    "hours": "Sun-Thu 11am-12am, Fri-Sat 11am-1am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Elysian Bar",
+    "address": "2317 Burgundy St, New Orleans, LA 70117",
+    "phone": "+1-504-356-5200",
+    "website": "https://www.hotelpeterandpaul.com/the-elysian-bar",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Inside Hotel Peter and Paul's converted church. Stained glass, vaulted ceilings, gorgeous cocktails. Open to non-guests. The most beautiful bar in the city.",
+    "must_try": "Any seasonal cocktail in the main church room",
+    "hours": "Daily 4pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Three Muses",
+    "address": "536 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-252-4801",
+    "website": "https://www.thethreemuses.com",
+    "category": "bars_nightlife",
+    "subcategory": "cocktail_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Music, food, and drinks — all three at a high level in a tiny Frenchmen Street space. Small plates, craft cocktails, live jazz nightly.",
+    "must_try": "Korean-influenced small plates while listening to live jazz",
+    "hours": "Thu-Mon 5pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Aunt Tiki's",
+    "address": "1207 Decatur St, New Orleans, LA 70116",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Famously gritty 24/7 punk rock dive on the edge of the Quarter. Strong drinks, eclectic late-night crowd. Not for the faint of heart.",
+    "must_try": "A strong mixed drink at 4am",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lafitte's Blacksmith Shop Bar",
+    "address": "941 Bourbon St, New Orleans, LA 70116",
+    "phone": "+1-504-593-9761",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Built between 1722-1732, it's the oldest structure used as a bar in America. Candlelit, no neon, all atmosphere. The one Bourbon Street bar every local respects.",
+    "must_try": "Purple drink (frozen grape), sit in the candlelit back room",
+    "hours": "Daily 10am-3am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pal's Lounge",
+    "address": "949 N Rendon St, New Orleans, LA 70119",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Quintessential Mid-City neighborhood bar. Incredibly welcoming with great pop-up food vendors and famous air conditioning.",
+    "must_try": "Ginger-infused vodka cocktail",
+    "hours": "Daily 3pm-3am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saturn Bar",
+    "address": "3067 St Claude Ave, New Orleans, LA 70117",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Iconic eclectically decorated St. Claude dive known for its artsy crowd, stellar jukebox, and epic weekend dance parties.",
+    "must_try": "Cheap beer during a weekend DJ set",
+    "hours": "Varies (typically 4pm-2am)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Snake & Jake's Christmas Club Lounge",
+    "address": "7612 Oak St, New Orleans, LA 70118",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.6",
+    "description": "The most legendary dive in New Orleans — a pitch-dark shack on Oak Street draped in permanent Christmas lights. Opens at midnight, closes when they feel like it. No sign, no pretense, no equal.",
+    "must_try": "Cheap beer in the dark. That's the whole experience.",
+    "hours": "Daily 12am-whenever",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "St. Joe's Bar",
+    "address": "5535 Magazine St, New Orleans, LA 70115",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Atmospheric dimly lit Uptown bar with religious iconography and one of the most pleasant courtyards in the city.",
+    "must_try": "Blueberry mojito in the courtyard",
+    "hours": "Daily 4pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Dungeon",
+    "address": "738 Toulouse St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Legendary dark rock-and-roll dive hidden down a French Quarter alleyway. A late-night rite of passage since 1969.",
+    "must_try": "Dragon's Blood cocktail",
+    "hours": "Typically 10pm-sunrise",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Twelve Mile Limit",
+    "address": "500 S Telemachus St, New Orleans, LA 70119",
+    "phone": null,
+    "website": "https://twelvemilelimit.com/",
+    "category": "bars_nightlife",
+    "subcategory": "dive_bars",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Mid-City dive that secretly serves world-class craft cocktails at neighborhood prices with nightly local food pop-ups. The best-kept-secret bar in the city.",
+    "must_try": "The $5 Bee's Knees special",
+    "hours": "Mon-Thu 5pm-12am, Fri-Sat 5pm-2am, Sun 10am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Nile",
+    "address": "532 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-948-2583",
+    "website": "https://www.bluenilelive.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The original Frenchmen Street music club — funk, brass, soul in an 1832 building. Two stages, upstairs balcony overlooking the street. Many shows are free.",
+    "must_try": "Check the upstairs late-night DJ sets and the balcony view",
+    "hours": "Daily 5pm-late",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Chickie Wah Wah",
+    "address": "2828 Canal St, New Orleans, LA 70119",
+    "phone": "+1-504-304-4714",
+    "website": "https://chickiewahwah.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Intimate Mid-City music room showcasing premier local roots, blues, and Americana. The weeknight residencies are where locals go.",
+    "must_try": "A weeknight residency show",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Civic Theatre",
+    "address": "510 O'Keefe Ave, New Orleans, LA 70113",
+    "phone": "+1-504-272-0865",
+    "website": "https://civicnola.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The oldest theater in New Orleans with a stunning high-tech modular floor and spectacular acoustics for major touring acts.",
+    "must_try": "Standing room near the stage",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fritzel's European Jazz Pub",
+    "address": "733 Bourbon St, New Orleans, LA 70116",
+    "phone": "+1-504-586-4800",
+    "website": "https://www.fritzeljazz.net",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.5",
+    "description": "The oldest operating jazz club in New Orleans, hiding in plain sight on Bourbon Street. One-drink minimum. Real jazz in a sea of karaoke and cover bands.",
+    "must_try": "Duck in from Bourbon Street — the contrast between Fritzel's and everything around it is stunning",
+    "hours": "Daily 12pm-late",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Gasa Gasa",
+    "address": "4920 Freret St, New Orleans, LA 70115",
+    "phone": "+1-504-304-7110",
+    "website": "https://www.gasagasanola.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Artsy eclectic indie music venue anchoring the Freret corridor. Known for discovering underground talent. Great courtyard art installations.",
+    "must_try": "Courtyard art between sets",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Joy Theater",
+    "address": "1200 Canal St, New Orleans, LA 70112",
+    "phone": "+1-504-528-9569",
+    "website": "https://thejoytheater.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Restored 1947 Art Deco movie house turned premier concert and comedy venue on Canal Street. Gorgeous room.",
+    "must_try": "Comedy tour or indie rock show",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kermit's Tremé Mother-in-Law Lounge",
+    "address": "1500 N Claiborne Ave, New Orleans, LA 70116",
+    "phone": "+1-504-407-7071",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Kermit Ruffins' backyard party. Pay your cover at the back door and walk into a legendary barbecue-and-brass-band scene. The real Tremé experience.",
+    "must_try": "Go on a Monday — Kermit often plays himself. Eat whatever he's barbecuing.",
+    "hours": "Thu-Mon 5pm-late (varies)",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mahogany Jazz Hall",
+    "address": "509 Frenchmen St, New Orleans, LA 70116",
+    "phone": null,
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Intimate Frenchmen Street jazz venue. Just a one-drink minimum per set. Solid traditional jazz in a cozy, dark space.",
+    "must_try": "Weeknight sets — smaller crowds, incredible musicians",
+    "hours": "Daily 5pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Preservation Hall",
+    "address": "726 St Peter St, New Orleans, LA 70116",
+    "phone": "+1-504-522-2841",
+    "website": "https://www.preservationhall.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.8",
+    "description": "Nightly traditional jazz in a 250-year-old French Quarter room with no A/C, no drinks, and no frills — just the purest jazz experience on earth. Shows at 5pm, 6pm, 8pm, 9pm, 10pm.",
+    "must_try": "The 8pm or 9pm show. Line up 30 min early for bench seats.",
+    "hours": "Shows nightly at 5pm, 6pm, 8pm, 9pm, 10pm",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Republic NOLA",
+    "address": "828 S Peters St, New Orleans, LA 70130",
+    "phone": "+1-504-528-8282",
+    "website": "https://republicnola.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Massive converted Arts District warehouse with crystal chandeliers hosting major touring EDM, hip-hop, and bounce acts.",
+    "must_try": "VIP balcony for major DJ sets",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Snug Harbor Jazz Bistro",
+    "address": "626 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-949-0696",
+    "website": "https://snugjazz.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The serious jazz club on Frenchmen. Cabaret-style seating, Marsalis family regulars, Creole food in the bistro. Cover charge for the music room but worth every cent.",
+    "must_try": "Book a table for dinner in the Bistro, then catch the 8pm or 10pm show",
+    "hours": "Daily 5pm-12am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Fillmore New Orleans",
+    "address": "6 Canal St, New Orleans, LA 70130",
+    "phone": "+1-504-881-1555",
+    "website": "https://www.fillmorenola.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "State-of-the-art concert hall on the second floor of Harrah's Casino. Premium national touring acts on the riverfront.",
+    "must_try": "Pre-show drinks in BG's Lounge",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Maison",
+    "address": "508 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-371-5543",
+    "website": "https://maisonfrenchmen.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "The biggest venue on Frenchmen. Multiple stages, VIP tables, jazz + dinner, drag shows upstairs on weekends, and a mixology class you can book.",
+    "must_try": "Reserve a premium table for dinner + jazz, or catch the Wig Snatchers drag show Fri/Sat 8pm upstairs",
+    "hours": "Daily 4pm-late",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Spotted Cat Music Club",
+    "address": "623 Frenchmen St, New Orleans, LA 70116",
+    "phone": null,
+    "website": "https://www.spottedcatmusicclub.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.8",
+    "description": "The single best bar in New Orleans, according to just about every local. Cash only, no cover, incredible bands every night, everyone dancing. The floor of Frenchmen Street.",
+    "must_try": "Show up by 8pm to get a spot. Cash only — ATM before you go.",
+    "hours": "Daily 2pm-2am",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tipitina's",
+    "address": "501 Napoleon Ave, New Orleans, LA 70115",
+    "phone": "+1-504-895-8477",
+    "website": "https://www.tipitinas.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The legendary Uptown music hall named after a Professor Longhair song. National touring acts and local legends. If you only go to one ticketed show, make it Tip's.",
+    "must_try": "Check the calendar — it's the best live music room in the city",
+    "hours": "Show nights, doors usually 7pm",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Toulouse Theatre",
+    "address": "615 Toulouse St, New Orleans, LA 70130",
+    "phone": null,
+    "website": "https://toulousetheatre.com/",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Revived independent French Quarter music venue carrying the torch of NOLA's 1970s music scene. Late-night brass band throwdowns.",
+    "must_try": "Late-night brass band sets",
+    "hours": "Varies by event",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "d.b.a.",
+    "address": "618 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-942-3731",
+    "website": "https://www.dbaneworleans.com",
+    "category": "bars_nightlife",
+    "subcategory": "live_music_venues",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Sleek dark wood interior, the best craft beer selection on Frenchmen, and acts like Tremé Brass Band and Corey Henry. The musicians' bar.",
+    "must_try": "Grab a local craft beer and catch whoever's on stage — it's always good",
+    "hours": "Daily 4pm-late",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fives",
+    "address": "529 St Ann St, New Orleans, LA 70116",
+    "phone": "+1-504-399-6954",
+    "website": "https://www.fives.bar/",
+    "category": "bars_nightlife",
+    "subcategory": "raw_bar_cocktails",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "An intimate cocktail lounge and raw bar in the historic Pontalba Buildings on Jackson Square. Gulf and East Coast oysters, caviar, and incredible cocktails under an antique chandelier.",
+    "must_try": "Saturn in Retrograde cocktail paired with Gulf Coast oysters",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bacchanal Fine Wine & Spirits",
+    "address": "600 Poland Ave, New Orleans, LA 70117",
+    "phone": "+1-504-948-9111",
+    "website": "https://www.bacchanalwine.com",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The most romantic spot in the city. Pick wine from the front shop, grab cheese and charcuterie, then sit in the twinkling courtyard with live jazz under the trees. Bywater magic.",
+    "must_try": "Build your own wine and cheese plate, then sit in the courtyard at sunset",
+    "hours": "Mon-Thu 4pm-10pm, Fri-Sun 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Effervescence",
+    "address": "1036 N Rampart St, New Orleans, LA 70116",
+    "phone": "+1-504-509-7644",
+    "website": null,
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Elegant champagne bar on the edge of the Quarter with chef-inspired sharing plates and premium bubbles.",
+    "must_try": "Half-shell oysters paired with a sparkling wine flight",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "N7",
+    "address": "1117 Montegut St, New Orleans, LA 70117",
+    "phone": null,
+    "website": "https://www.n7nola.com/",
+    "category": "bars_nightlife",
+    "subcategory": "wine_bars",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Transportive French wine bar hidden behind a wooden fence in the Bywater. Natural wines, canned sardines, and a cinematic atmosphere that makes you forget what city you're in.",
+    "must_try": "Canned European sardines paired with a natural Pét-Nat",
+    "hours": "Mon-Thu & Sun 5pm-9pm, Fri-Sat 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Haydel's Bakery",
+    "address": "4037 Jefferson Hwy, Jefferson, LA 70121",
+    "phone": "+1-504-837-0190",
+    "website": "https://haydelsbakery.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Legendary multi-generational family bakery famous internationally for Mardi Gras King Cakes. Ships nationwide during Carnival season.",
+    "must_try": "Traditional braided King Cake or Cajun Kringle",
+    "hours": "Mon-Fri 7:30am-5pm, Sat 8:30am-4pm",
+    "seasonal": "King Cake season: Jan-Feb",
+    "modes": [
+      "culture",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "La Boulangerie",
+    "address": "4600 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-269-3777",
+    "website": "https://laboulangerienola.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "French bakery from the Link Restaurant Group. Flawless laminated pastries, fresh breads, and elevated sandwiches on Magazine Street.",
+    "must_try": "Almond croissant or Jambon Beurre",
+    "hours": "Daily 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Loretta's Authentic Pralines",
+    "address": "1100 N Peters St, New Orleans, LA 70116",
+    "phone": null,
+    "website": "https://lorettaspralines.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$",
+    "rating": "4.9",
+    "description": "French Market staple from the first African-American woman to own a praline company in New Orleans. Essential eating.",
+    "must_try": "Praline-stuffed beignet",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Sucré",
+    "address": "3025 Magazine St, New Orleans, LA 70115",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "bakery",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Visually stunning dessert boutique on Magazine Street. French macarons, artisanal chocolates, and rich gelatos.",
+    "must_try": "Macaron collection and shimmering petit fours",
+    "hours": "Daily 10am-9pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Café Beignet",
+    "address": "600 Decatur St, New Orleans, LA 70130",
+    "phone": null,
+    "website": "https://www.cafebeignet.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.5",
+    "description": "Atmospheric alternative to Café Du Monde with excellent beignets, live jazz, and charming courtyard seating. Shorter lines.",
+    "must_try": "Classic beignets and iced café au lait in the courtyard",
+    "hours": "Daily 8am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Café Du Monde",
+    "address": "800 Decatur St, New Orleans, LA 70116",
+    "phone": "+1-504-525-4544",
+    "website": "https://www.cafedumonde.com",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Open since 1862, serving exactly three things: beignets, café au lait, and orange juice. The line moves fast. Powdered sugar on your shirt is a badge of honor.",
+    "must_try": "Beignets and café au lait — that's the entire menu. Order 1 plate per person.",
+    "hours": "Open 24 hours, 7 days a week (closes Christmas Day)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cherry Coffee Roasters",
+    "address": "4877 Laurel St, New Orleans, LA 70115",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Airy, beautifully designed Uptown café with deeply serious locally roasted coffee and exceptional breakfast items.",
+    "must_try": "Cortado and the breakfast biscuit",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "French Truck Coffee",
+    "address": "1200 Magazine St, New Orleans, LA 70130",
+    "phone": "+1-504-298-1115",
+    "website": "https://frenchtruckcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The city's preeminent local specialty roaster with the bright yellow branding. Small-batch roasts and the best iced coffee in town.",
+    "must_try": "New Orleans Iced Coffee (cold brew with chicory and milk)",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mojo Coffee House",
+    "address": "1500 Magazine St, New Orleans, LA 70130",
+    "phone": "+1-504-525-2244",
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Relaxed neighborhood coffee house in the Lower Garden District with their own excellent local roasts. Good work-from-café energy.",
+    "must_try": "Pour-over coffee selections",
+    "hours": "Daily 7am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Morning Call",
+    "address": "5101 Canal Blvd, New Orleans, LA 70124",
+    "phone": null,
+    "website": "https://morningcallnola.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Resurrected 1870s coffee stand at the end of the Canal Streetcar line near City Park. You powder the beignets yourself. A true local favorite.",
+    "must_try": "Beignets (self-powder) and robust café au lait",
+    "hours": "Daily 7am-12am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "PJ's Coffee",
+    "address": "Multiple locations (e.g., 501 Decatur St)",
+    "phone": null,
+    "website": "https://www.pjscoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Louisiana-born coffee chain that locals actually drink. Reliable cold-drip iced coffee across dozens of convenient locations. Way better than Starbucks.",
+    "must_try": "Original Cold Brew Iced Coffee or Velvet Ice",
+    "hours": "Varies by location",
+    "seasonal": "King Cake flavors in early spring",
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Spitfire Coffee",
+    "address": "627 St Peter St, New Orleans, LA 70116",
+    "phone": null,
+    "website": null,
+    "category": "coffee_bakeries",
+    "subcategory": "coffee",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Precision-crafted third-wave espresso steps from Jackson Square. The best craft coffee in the French Quarter by a wide margin.",
+    "must_try": "Cortado or cold brew",
+    "hours": "Daily 7am-5pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Angelo Brocato's",
+    "address": "214 N Carrollton Ave, New Orleans, LA 70119",
+    "phone": "+1-504-486-0078",
+    "website": "https://www.angelobrocatoicecream.com",
+    "category": "coffee_bakeries",
+    "subcategory": "ice_cream",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Italian ice cream and pastry shop since 1905 in Mid-City. The lemon ice and cannoli are perfect. Old-world tile floors and display cases.",
+    "must_try": "Lemon ice, cannoli, biscotti",
+    "hours": "Tue-Thu 10am-9pm, Fri-Sat 10am-9:30pm, Sun 10am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SEIJI's OMAKASE by Little Tokyo",
+    "address": "2300 N Causeway Blvd, Metairie, LA 70001",
+    "phone": "+1-504-434-8897",
+    "website": "https://www.littletokyonola.com/seijis-omakase",
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "A hidden 17-seat omakase bar inside Little Tokyo in Metairie. Chef Seiji Nakano is the heart of the experience — warm, personal, and worth every penny. The top omakase in the metro.",
+    "must_try": "The 7-course premium sushi-kaiseki experience ($140)",
+    "hours": "Reservations required for specific nightly seatings",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Kingsway",
+    "address": "3205 Magazine St, New Orleans, LA 70115",
+    "phone": null,
+    "website": null,
+    "category": "dining",
+    "subcategory": "asian",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Chef Ashwin Vilkhu's contemporary Asian tasting menu on Magazine Street. Build your own multi-course meal — scallion lamb, duck breast à l'orange, izakaya steak.",
+    "must_try": "Yellowfin tuna with aged chile oil",
+    "hours": "Wed-Sun 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Oak BBQ",
+    "address": "900 N Carrollton Ave, New Orleans, LA 70119",
+    "phone": "+1-504-822-2583",
+    "website": "https://www.blueoakbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Mid-City smokehouse with a distinct Louisiana profile — brisket, ribs, and boudin alongside craft beer. The patio is great.",
+    "must_try": "Brisket plate with boudin and coleslaw",
+    "hours": "Wed-Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Joint",
+    "address": "701 Mazant St, New Orleans, LA 70117",
+    "phone": "+1-504-949-3232",
+    "website": "https://alwayssmokin.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Bywater institution smoking meats slow and low since 2004. Unpretentious neighborhood staple with a superb courtyard.",
+    "must_try": "House-cured smoked pastrami and peanut butter pie",
+    "hours": "Mon-Sat 11:30am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bearcat Café",
+    "address": "2521 Jena St, New Orleans, LA 70115",
+    "phone": "+1-504-309-9011",
+    "website": "https://uptown.bearcatcafe.com/",
+    "category": "dining",
+    "subcategory": "breakfast_brunch",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Popular Uptown cafe splitting the menu into 'Good Cat' (healthy/vegan) and 'Bad Cat' (indulgent). Something for everyone.",
+    "must_try": "Blackberry pistachio pancakes and house-bottled teas",
+    "hours": "Tue-Sun 8am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Ruby Slipper Café",
+    "address": "315 S Broad St, New Orleans, LA 70119",
+    "phone": "+1-504-525-9355",
+    "website": "https://rubybrunch.com/",
+    "category": "dining",
+    "subcategory": "breakfast_brunch",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Lively local brunch empire famous for decadent Southern-inspired classics and eye-opening morning cocktails. Multiple locations.",
+    "must_try": "Shrimp Boogaloo Benedict and Banana Pudding Beignets",
+    "hours": "Mon-Fri 7am-2pm, Sat-Sun 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Toast",
+    "address": "5433 Laurel St, New Orleans, LA 70115",
+    "phone": "+1-504-267-3260",
+    "website": "https://www.toastneworleans.com/",
+    "category": "dining",
+    "subcategory": "breakfast_brunch",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Bright quick-service cafe Uptown with hearty portions, elevated Southern comfort, and phenomenal baked goods.",
+    "must_try": "Chicken and waffles with cayenne whipped butter",
+    "hours": "Mon-Fri 6:30am-2pm, Sat-Sun 8am-2pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wakin' Bakin'",
+    "address": "4408 Banks St, New Orleans, LA 70119",
+    "phone": "+1-504-252-0343",
+    "website": "https://www.wakinbakin.com/",
+    "category": "dining",
+    "subcategory": "breakfast_brunch",
+    "price": "$",
+    "rating": "4.7",
+    "description": "No-frills Mid-City breakfast joint with hearty plates and a loyal local following. The kind of place where the regulars know each other.",
+    "must_try": "The Sourdough King and the Pancrepes",
+    "hours": "Daily 7am-2pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "A Court of Two Sisters",
+    "address": "613 Royal St, New Orleans, LA 70130",
+    "phone": "+1-504-522-7261",
+    "website": "https://www.courtoftwosisters.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "The courtyard is the star — a massive outdoor garden with a fountain, live jazz, and a spectacular brunch buffet. Enter from Bourbon or Royal.",
+    "must_try": "Jazz brunch buffet — jambalaya, shrimp creole, eggs Benedict, beignets",
+    "hours": "Daily 9am-3pm (brunch), 5:30pm-9pm (dinner)",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Country Club",
+    "address": "634 Louisa St, New Orleans, LA 70117",
+    "phone": "+1-504-945-0742",
+    "website": "https://www.thecountryclubneworleans.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Bywater gem with excellent brunch, a heated pool, and a jacuzzi in a leafy grotto. Good drinks, good food, swimsuit optional on certain days.",
+    "must_try": "Bottomless brunch by the pool",
+    "hours": "Daily 10am-9pm, pool 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Willa Jean",
+    "address": "611 O'Keefe Ave, New Orleans, LA 70113",
+    "phone": "+1-504-509-7334",
+    "website": "https://www.willajean.com",
+    "category": "dining",
+    "subcategory": "brunch",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Kelly Fields' CBD bakery-restaurant. The cornbread with cane syrup butter is famous. Brunch and breakfast are the moves here.",
+    "must_try": "Cornbread with cane syrup butter, biscuit sandwich, chocolate chip cookie (to go)",
+    "hours": "Daily 7am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cochon",
+    "address": "930 Tchoupitoulas St, New Orleans, LA 70130",
+    "phone": "+1-504-588-2123",
+    "website": "https://www.cochonrestaurant.com",
+    "category": "dining",
+    "subcategory": "cajun_creole",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Donald Link's love letter to Cajun country. The whole-hog ethos is real — this is nose-to-tail Southern cooking elevated to James Beard Award level.",
+    "must_try": "Cochon (braised pork with turnips and cracklins), wood-fired oysters, rabbit and dumplings",
+    "hours": "Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 10am-3pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dooky Chase's Restaurant",
+    "address": "2301 Orleans Ave, New Orleans, LA 70119",
+    "phone": "+1-504-821-0600",
+    "website": "https://www.dookychaserestaurant.com",
+    "category": "dining",
+    "subcategory": "cajun_creole",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The legendary Leah Chase fed Freedom Riders, civil rights leaders, and presidents from this Tremé kitchen. The Friday lunch buffet is a pilgrimage — fried chicken, gumbo z'herbes, and stuffed shrimp.",
+    "must_try": "Fried chicken, gumbo z'herbes, stuffed shrimp. Friday lunch buffet.",
+    "hours": "Tue-Fri 11am-3pm, Fri-Sat 5pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jacques-Imo's",
+    "address": "8324 Oak St, New Orleans, LA 70118",
+    "phone": "+1-504-861-0886",
+    "website": "https://www.jacques-imos.com",
+    "category": "dining",
+    "subcategory": "cajun_creole",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Uptown's wildest Cajun joint. The line wraps around the block and they don't take reservations. Worth the wait for the alligator cheesecake and shrimp & alligator sausage.",
+    "must_try": "Alligator cheesecake, fried chicken, shrimp & alligator sausage",
+    "hours": "Mon-Sat 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Succotash Nola",
+    "address": "1041 Dumaine St, New Orleans, LA 70116",
+    "phone": "+1-504-290-8848",
+    "website": "https://www.succotashnola.com/",
+    "category": "dining",
+    "subcategory": "cajun_creole",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "New French Quarter addition where classic New Orleans cuisine meets funky neighborhood energy. 2025 opening.",
+    "must_try": "The signature succotash and Gulf catches",
+    "hours": "Wed-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tujague's",
+    "address": "429 Decatur St, New Orleans, LA 70130",
+    "phone": "+1-504-525-8676",
+    "website": "https://www.tujaguesrestaurant.com",
+    "category": "dining",
+    "subcategory": "cajun_creole",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "The second-oldest restaurant in New Orleans (1856). Famous for the prix fixe and the stand-up bar. Old-school Creole that hasn't changed.",
+    "must_try": "The prix fixe meal — brisket with Creole sauce is the signature",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Central Grocery",
+    "address": "923 Decatur St, New Orleans, LA 70116",
+    "phone": "+1-504-523-1620",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Birthplace of the muffuletta sandwich. A half feeds two people. They wrap it to go — take it to the riverfront and eat with a view.",
+    "must_try": "Original muffuletta — order a half",
+    "hours": "Tue-Sat 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dat Dog",
+    "address": "601 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-309-3362",
+    "website": "https://www.datdog.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.3",
+    "description": "Gourmet hot dogs and sausages — crawfish, alligator, duck. Perfect fuel between Frenchmen Street music sets. Multiple locations.",
+    "must_try": "Crawfish sausage or alligator sausage with Creole mustard",
+    "hours": "Sun-Thu 11am-11pm, Fri-Sat 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Domilise's Po-Boy & Bar",
+    "address": "5240 Annunciation St, New Orleans, LA 70115",
+    "phone": "+1-504-899-9126",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Tiny Uptown shack with legendary po'boys. Cash only. The hot sausage and the fried shrimp are both devastating. You'll miss it if you're not looking.",
+    "must_try": "Fried shrimp po'boy or hot sausage po'boy",
+    "hours": "Mon-Sat 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maspero's",
+    "address": "601 Decatur St, New Orleans, LA 70130",
+    "phone": "+1-504-524-8990",
+    "website": null,
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.1",
+    "description": "Cheap, filling Quarter food that locals won't gatekeep. Muffulettas, po'boys, jambalaya in massive portions. Good hangover food.",
+    "must_try": "Muffuletta or jambalaya",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Parkway Bakery & Tavern",
+    "address": "538 Hagan Ave, New Orleans, LA 70119",
+    "phone": "+1-504-482-3047",
+    "website": "https://www.parkwaypoorboys.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.7",
+    "description": "The po'boy that all other po'boys are measured against. Roast beef debris, gravy dripping down your arm, on perfect Leidenheimer bread. No-frills neighborhood perfection.",
+    "must_try": "Roast beef debris po'boy — dressed, obviously",
+    "hours": "Wed-Mon 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Willie Mae's Scotch House",
+    "address": "2401 St Ann St, New Orleans, LA 70119",
+    "phone": "+1-504-822-9503",
+    "website": "https://www.williemaesnola.com",
+    "category": "dining",
+    "subcategory": "casual",
+    "price": "$",
+    "rating": "4.7",
+    "description": "James Beard America's Classic. The fried chicken here has been called the best in the world — crispy, juicy, seasoned perfectly. Tremé institution since 1957.",
+    "must_try": "Fried chicken. Get extra sides of butter beans and cornbread.",
+    "hours": "Mon-Sat 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Charmant",
+    "address": "514 City Park Ave, New Orleans, LA 70119",
+    "phone": "+1-504-381-4573",
+    "website": "https://charmant.toast.site",
+    "category": "dining",
+    "subcategory": "european_bistro",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Stellar 2025 Mid-City opening channeling European bistro elegance through a New Orleans lens. Date-night dinner and family-friendly brunch.",
+    "must_try": "Fried Brussels Sprouts Salad and Pork Osso Bucco Arancini",
+    "hours": "Wed-Mon 8am-2pm, 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Antoine's",
+    "address": "713 St Louis St, New Orleans, LA 70112",
+    "phone": "+1-504-581-4422",
+    "website": "https://www.antoines.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.3",
+    "description": "The oldest continuously operating restaurant in America (1840). Ask for a tour of the wine cellar and the Mardi Gras room. Old school French-Creole.",
+    "must_try": "Oysters Rockefeller (invented here), Pompano en Papillote",
+    "hours": "Fri-Sat 11:30am-9pm, Sun 11am-9pm, Mon-Thu 5pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Brennan's",
+    "address": "417 Royal St, New Orleans, LA 70130",
+    "phone": "+1-504-525-9711",
+    "website": "https://www.brennansneworleans.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The Royal Street institution that invented Bananas Foster. Breakfast at Brennan's is a bucket-list New Orleans experience — eggs Hussarde, turtle soup, and a tableside flambe.",
+    "must_try": "Bananas Foster (invented here in 1951), eggs Hussarde, turtle soup",
+    "hours": "Daily breakfast 9am-1pm, dinner 6pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Commander's Palace",
+    "address": "1403 Washington Ave, New Orleans, LA 70130",
+    "phone": "+1-504-899-8221",
+    "website": "https://www.commanderspalace.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "The grande dame of New Orleans dining. Lally Brennan's Garden District landmark has launched more chef careers than any restaurant in America. The 25-cent martini lunch is legendary.",
+    "must_try": "Turtle soup, pecan-crusted Gulf fish, bread pudding soufflé. The 25¢ martini lunch on weekdays.",
+    "hours": "Mon-Fri 11:30am-1:30pm, 6:30pm-9:30pm; Sat-Sun brunch 10am-1:30pm, dinner 6:30-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emeril's",
+    "address": "800 Tchoupitoulas St, New Orleans, LA 70130",
+    "phone": "+1-504-528-9393",
+    "website": "https://www.emerilsrestaurants.com/emerils-new-orleans",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "The only two-Michelin-star restaurant in the American South. E.J. Lagasse took over the kitchen in 2023 and completely reimagined the menu — it's the most buzzed-about fine dining in the city right now.",
+    "must_try": "Oyster stew with Herbsaint cream, trout amandine, banana cream pie",
+    "hours": "Wed-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Galatoire's",
+    "address": "209 Bourbon St, New Orleans, LA 70130",
+    "phone": "+1-504-525-2021",
+    "website": "https://www.galatoires.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Friday lunch here is a New Orleans power ritual — jackets required downstairs, three-martini affairs that start at noon and end when they end. The dining room hasn't changed in a century.",
+    "must_try": "Shrimp Remoulade, trout meunière amandine, soufflé potatoes",
+    "hours": "Tue-Sat 11:30am-9pm, Sun 12pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Herbsaint",
+    "address": "701 St Charles Ave, New Orleans, LA 70130",
+    "phone": "+1-504-524-4114",
+    "website": "https://www.herbsaint.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Donald Link's first restaurant. French-Southern bistro cooking that's been a James Beard favorite for over two decades. The gumbo is a masterclass.",
+    "must_try": "Shrimp and grits, gumbo, muscadine wine",
+    "hours": "Wed-Sat 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saint Claire",
+    "address": "120 Verret St, New Orleans, LA 70114",
+    "phone": null,
+    "website": "https://www.saintclairenola.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "2026 James Beard Best New Restaurant nominee in Algiers, across the river. A stunning old house with private dining rooms and a menu anchored by gnocchi with crabmeat and smoked beets.",
+    "must_try": "Gnocchi with jumbo lump crabmeat, smoked beets with trout roe",
+    "hours": "Wed-Sun 5:30pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saint-Germain",
+    "address": "3054 St Claude Ave, New Orleans, LA 70117",
+    "phone": null,
+    "website": "https://www.saintgermainnola.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$$",
+    "rating": "4.9",
+    "description": "One Michelin star. A 10-course tasting menu in a former Bywater shotgun house. The most exciting restaurant in the city — geoduck, Norwegian king crab, and caviar potato ice cream in a space that feels like a dinner party, not a temple.",
+    "must_try": "The full tasting menu — it changes constantly. Trust the chefs.",
+    "hours": "Wed-Sun, seatings at 6pm and 8:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zasu",
+    "address": "127 N Carrollton Ave, New Orleans, LA 70119",
+    "phone": "+1-504-381-2281",
+    "website": "https://www.zasurestaurant.com",
+    "category": "dining",
+    "subcategory": "fine_dining",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "One Michelin star. Chef Sue Zemanick's Mid-City gem. Louisiana ingredients through a global lens — inventive, personal, and worth every penny.",
+    "must_try": "Tasting menu with wine pairing",
+    "hours": "Wed-Sat 5:30pm-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Patula",
+    "address": "619 Royal St, New Orleans, LA 70130",
+    "phone": "+1-504-510-6444",
+    "website": "http://www.patulala.com/",
+    "category": "dining",
+    "subcategory": "global_tapas",
+    "price": "$$$",
+    "rating": "4.9",
+    "description": "Tucked in a secluded Royal Street courtyard behind a boutique. Adventurous globally-inspired small plates. 2026 Resy Hit List.",
+    "must_try": "Moroccan-spiced meatballs and mushroom toast",
+    "hours": "Wed-Mon 10am-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saffron NOLA",
+    "address": "4128 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-323-2626",
+    "website": "https://www.saffronnola.com/",
+    "category": "dining",
+    "subcategory": "indian",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Elegant, James Beard-nominated Indian restaurant guided by the Vilkhu family. Father of The Kingsway's chef. The cocktail program is outstanding.",
+    "must_try": "Oyster bed roast and the curried seafood gumbo",
+    "hours": "Tue-Thu 5pm-9pm, Fri-Sat 5pm-9:45pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Shaya",
+    "address": "4211 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-891-4213",
+    "website": "https://www.shayarestaurant.com/",
+    "category": "dining",
+    "subcategory": "israeli_middle_eastern",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Bustling Uptown eatery marrying modern Israeli and Lebanese flavors with Gulf ingredients. The wood-fired pita alone is worth the trip.",
+    "must_try": "Wood-fired pita bread and slow-cooked lamb hummus",
+    "hours": "Sun-Thu 11am-9pm, Fri-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Tal's Hummus",
+    "address": "4800 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-267-7357",
+    "website": "https://talshummus.com/",
+    "category": "dining",
+    "subcategory": "israeli_middle_eastern",
+    "price": "$",
+    "rating": "4.6",
+    "description": "Relaxed counter-service cafe delivering authentic Israeli street food on Magazine Street. Fast, cheap, delicious.",
+    "must_try": "Classic falafel pita and shakshuka",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Adolfo's",
+    "address": "611 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-948-3800",
+    "website": "https://www.adolfosneworleans.com/",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Funky tiny cafe perched above the Apple Barrel bar on Frenchmen Street. Superb value Creole-Italian with an unbeatable location.",
+    "must_try": "Any fish dish with the legendary Ocean Sauce",
+    "hours": "Daily 5:30pm-9:30pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Evviva",
+    "address": "2600 Chartres St, New Orleans, LA 70117",
+    "phone": null,
+    "website": "https://www.evvivanola.com",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Rebecca Wilcomb and Marcus Jacobs' rustic Italian spot in the Marigny. Always-changing menu, wood-fire cooking, and a glowing bar that's worth a visit on its own.",
+    "must_try": "Anchovy toast, grilled shrimp, roasted mussels",
+    "hours": "Wed-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Irene's Cuisine",
+    "address": "529 Bienville St, New Orleans, LA 70130",
+    "phone": "+1-504-529-8811",
+    "website": "https://irenesnola.com/",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Romantic, wildly popular French Quarter hideaway known for garlic-heavy, deeply satisfying Italian-Creole comfort food. No reservations — arrive early.",
+    "must_try": "Oysters Irene and the duck St. Philip",
+    "hours": "Tue-Sat 5pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mosca's",
+    "address": "4137 US-90, Westwego, LA 70094",
+    "phone": "+1-504-436-8950",
+    "website": "https://www.moscasrestaurant.com/",
+    "category": "dining",
+    "subcategory": "italian",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Iconic roadhouse Italian on the Westbank, barely changed since the 1940s. A true culinary pilgrimage for anyone who loves garlic, family-style portions, and time-capsule restaurants.",
+    "must_try": "Oysters Mosca and Chicken à la Grande",
+    "hours": "Wed-Sat 5pm-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barracuda",
+    "address": "3984 Tchoupitoulas St, New Orleans, LA 70115",
+    "phone": "+1-504-266-2961",
+    "website": "https://www.eatbarracuda.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Ultra-casual Irish Channel taco stand and margarita garden with house-made flour tortillas. The neighborhood vibe is half the appeal.",
+    "must_try": "The Farmer taco and chips with fresh guacamole",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Johnny Sánchez",
+    "address": "930 Poydras St, New Orleans, LA 70112",
+    "phone": "+1-504-304-6615",
+    "website": "https://www.johnnysanchezrestaurant.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "Aaron Sanchez and John Besh's elevated Mexican concept in the CBD. Premium tequila and mezcal program alongside upscale regional Mexican cuisine.",
+    "must_try": "Table-side guacamole and the mole negro",
+    "hours": "Mon-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Vals",
+    "address": "4632 Freret St, New Orleans, LA 70115",
+    "phone": "+1-504-356-0006",
+    "website": "https://www.valsnola.com/",
+    "category": "dining",
+    "subcategory": "mexican",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "Gorgeous renovated vintage gas station on Freret Street serving superb modern Mexican street food and an extensive agave spirits list.",
+    "must_try": "Green mole chicken tacos and ceviche of the day",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Acme Oyster House",
+    "address": "724 Iberville St, New Orleans, LA 70130",
+    "phone": "+1-504-522-5973",
+    "website": "https://www.acmeoyster.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Quarter institution. Sit at the marble bar and watch shuckers fly. Chargrilled oysters are the signature. Line moves fast.",
+    "must_try": "Chargrilled oysters, raw dozen, shrimp po'boy",
+    "hours": "Sun-Thu 11am-9pm, Fri-Sat 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Delacroix",
+    "address": "1 Poydras St Spc 1005, New Orleans, LA 70130",
+    "phone": "+1-504-655-9002",
+    "website": "https://www.delacroixrestaurant.com/",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "The only restaurant directly on the downtown Mississippi Riverfront, offering South Louisiana classics with unmatched waterfront views. BRG Hospitality, opened September 2025.",
+    "must_try": "Smoked Oyster Dip and Billy's Smoked Duck Gumbo",
+    "hours": "Daily 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Drago's Seafood",
+    "address": "2 Poydras St, New Orleans, LA 70130",
+    "phone": "+1-504-584-3911",
+    "website": "https://www.dragosrestaurant.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "The original charbroiled oysters — they invented the dish. Located in the Hilton Riverside. Not the sexiest setting but the oysters are GOAT-level.",
+    "must_try": "Charbroiled oysters — the original recipe",
+    "hours": "Daily 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pêche Seafood Grill",
+    "address": "800 Magazine St, New Orleans, LA 70130",
+    "phone": "+1-504-522-1744",
+    "website": "https://www.pecherestaurant.com",
+    "category": "dining",
+    "subcategory": "seafood",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "James Beard Award winner for Best New Restaurant. Gulf seafood done over a massive wood-burning grill. The whole grilled fish is the move.",
+    "must_try": "Whole grilled fish, catfish with chili glaze, crispy gulf oysters",
+    "hours": "Sun-Thu 11am-10pm, Fri-Sat 11am-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Palm & Pine",
+    "address": "308 N Rampart St, New Orleans, LA 70112",
+    "phone": "+1-504-814-6200",
+    "website": "https://www.palmandpinenola.com/",
+    "category": "dining",
+    "subcategory": "southern_latin",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Louisiana, the broader South, and the Caribbean collide. Agave and cane spirit cocktails meet regional ceviche. 2026 Resy Hit List.",
+    "must_try": "Regional ceviche and agave cocktails",
+    "hours": "Wed-Sun 5pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Studio",
+    "address": "4734 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-510-2791",
+    "website": "https://studio-nola.com/",
+    "category": "dining",
+    "subcategory": "steakhouse",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Modern Uptown steakhouse from the minds behind Doris Metropolitan. Masterful design, dry-aged cuts, decadent sides.",
+    "must_try": "Dry-aged ribeye",
+    "hours": "Mon-Wed 4pm-10pm, Thu-Sun 11am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dong Phuong Bakery & Restaurant",
+    "address": "14207 Chef Menteur Hwy, New Orleans, LA 70129",
+    "phone": "+1-504-882-9878",
+    "website": "https://www.dpbakery.com/",
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$",
+    "rating": "4.8",
+    "description": "James Beard Award-winning anchor in New Orleans East. Supplies bread for the city's best po'boy shops and serves peerless Vietnamese fare alongside legendary king cake.",
+    "must_try": "Banh Mi and the seasonal Mardi Gras King Cake",
+    "hours": "Wed-Mon 8am-4pm",
+    "seasonal": "King Cake: Jan-Feb",
+    "modes": [
+      "foodie",
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lilly's Café",
+    "address": "1813 Magazine St, New Orleans, LA 70130",
+    "phone": "+1-504-599-9999",
+    "website": "https://lillys-cafe.goto-where.com/",
+    "category": "dining",
+    "subcategory": "vietnamese",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Cozy Lower Garden District spot serving deeply comforting traditional Vietnamese soups and rolls.",
+    "must_try": "Spicy Shrimp Pho with added quail eggs",
+    "hours": "Mon-Sat 11am-8pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fulton Alley",
+    "address": "600 Fulton St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "bowling",
+    "price": "$$$",
+    "rating": "4.4",
+    "description": "Upscale bowling alley and prohibition-style cocktail lounge in the Warehouse District. Late-night boutique bowling.",
+    "must_try": "Late-night bowling with craft cocktails",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fair Grounds Race Course & Slots",
+    "address": "1751 Gentilly Blvd, New Orleans, LA 70119",
+    "phone": "+1-504-944-5515",
+    "website": "https://www.fairgroundsracecourse.com",
+    "category": "entertainment",
+    "subcategory": "casinos",
+    "price": "$$",
+    "rating": "4.1",
+    "description": "Third-oldest racetrack in America. Live thoroughbred racing Thanksgiving through March. Also the home of Jazz Fest every April/May.",
+    "must_try": "Live horse racing on weekends during season, mint julep in hand",
+    "hours": "Racing: Thu-Sun, gates open 10am",
+    "seasonal": "Racing: late Nov-late March",
+    "modes": [
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Harrah's New Orleans (Caesars)",
+    "address": "228 Poydras St, New Orleans, LA 70130",
+    "phone": "+1-504-533-6000",
+    "website": "https://www.caesars.com/harrahs-new-orleans",
+    "category": "entertainment",
+    "subcategory": "casinos",
+    "price": "$$-$$$$",
+    "rating": "3.9",
+    "description": "The only land-based casino in the city. Table games, slots, sportsbook. It's no Vegas, but it's steps from the French Quarter if you want to play.",
+    "must_try": "Sports betting during Saints season, blackjack tables",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Escape My Room",
+    "address": "1152 Camp St, New Orleans, LA 70130",
+    "phone": "+1-504-475-7580",
+    "website": "https://escapemyroom.com/",
+    "category": "entertainment",
+    "subcategory": "escape_rooms",
+    "price": "$$",
+    "rating": "4.9",
+    "description": "Story-driven escape experience using authentic New Orleans history and Southern Gothic aesthetics. The best escape room in the city.",
+    "must_try": "The Mardi Gras Study room",
+    "hours": "Advance booking required",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Orpheum Theater",
+    "address": "129 Roosevelt Way, New Orleans, LA 70112",
+    "phone": "+1-504-274-4870",
+    "website": "https://orpheumnola.com/",
+    "category": "entertainment",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Magnificent Beaux-Arts theater and home of the Louisiana Philharmonic Orchestra. Acoustically perfect.",
+    "must_try": "Classical performance from the floor sweet spot",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Saenger Theatre",
+    "address": "1111 Canal St, New Orleans, LA 70112",
+    "phone": "+1-504-525-1052",
+    "website": "https://www.saengernola.com/",
+    "category": "entertainment",
+    "subcategory": "theaters",
+    "price": "$$$",
+    "rating": "4.8",
+    "description": "Spectacular 1927 atmospheric theater engineered to resemble a 15th-century Italian courtyard beneath a starlit sky. Hosts major Broadway tours.",
+    "must_try": "Touring Broadway musical",
+    "hours": "Varies by showtime",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ace Hotel New Orleans",
+    "address": "600 Carondelet St, New Orleans, LA 70130",
+    "phone": "+1-504-900-1180",
+    "website": "https://www.acehotel.com/neworleans",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.4",
+    "description": "Warehouse District cool in a gorgeous Art Deco building. Rooftop pool and bar, vinyl listening lounge, great lobby scene. Walking distance to everything.",
+    "must_try": "Rooftop pool and bar, especially at sunset",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Catahoula Hotel",
+    "address": "914 Union St, New Orleans, LA 70112",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Hidden 35-room CBD boutique with a great courtyard and a phenomenal Peruvian-inspired bar program. Pisco cocktails on the rooftop terrace.",
+    "must_try": "Pisco cocktails on the rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Columns Hotel",
+    "address": "3811 St Charles Ave, New Orleans, LA 70115",
+    "phone": "+1-504-899-9308",
+    "website": "https://thecolumns.com/",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "Majestic 1883 mansion on St. Charles Avenue. The sprawling front porch is perhaps the city's greatest place to sip a cocktail while streetcars pass.",
+    "must_try": "Sazerac on the front porch watching streetcars",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Peter and Paul",
+    "address": "2317 Burgundy St, New Orleans, LA 70117",
+    "phone": "+1-504-356-5200",
+    "website": "https://www.hotelpeterandpaul.com",
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.7",
+    "description": "A converted church, school, rectory, and convent in the Marigny. Every room is different. Steps from Frenchmen Street. One of the most beautiful boutique hotels in America.",
+    "must_try": "The Elysian Bar downstairs (open to non-guests) is stunning",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Old No. 77 Hotel",
+    "address": "535 Tchoupitoulas St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Rustic-chic Warehouse District hotel with exposed brick and an artistic vibe. Home to Chef Nina Compton's acclaimed Compère Lapin.",
+    "must_try": "Dinner at Compère Lapin downstairs",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Eliza Jane",
+    "address": "315 Magazine St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Built inside former printing houses and bitters factories. Industrial architecture meets Parisian elegance. The library lounge is gorgeous.",
+    "must_try": "Library lounge and interior courtyard",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Pontchartrain Hotel",
+    "address": "2031 St Charles Ave, New Orleans, LA 70130",
+    "phone": "+1-504-323-1400",
+    "website": null,
+    "category": "lodging",
+    "subcategory": "boutique_hotels",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Legendary 1927 Garden District grand dame meticulously restored to mid-century glory. The rooftop bar Hot Tin has panoramic views.",
+    "must_try": "Mile High Pie at the Caribbean Room and drinks at Hot Tin rooftop",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "culture",
+      "romantic",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "HI New Orleans Hostel",
+    "address": "1028 Canal St, New Orleans, LA 70112",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.7",
+    "description": "Pristine modern hostel directly on Canal Street with fantastic communal spaces and budget-friendly beds. Clean, secure, perfectly located.",
+    "must_try": "Mezzanine common area",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "India House Hostel",
+    "address": "124 S Lopez St, New Orleans, LA 70119",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "hostels",
+    "price": "$",
+    "rating": "4.4",
+    "description": "Legendary social backpacker hostel in Mid-City with a pool, communal dinners, and wild Mardi Gras parties. The budget move.",
+    "must_try": "Weekly communal crawfish boils (in season)",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Monteleone",
+    "address": "214 Royal St, New Orleans, LA 70130",
+    "phone": "+1-504-523-3341",
+    "website": "https://www.hotelmonteleone.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.5",
+    "description": "The grande dame of French Quarter hotels. Family-owned since 1886. Home of the Carousel Bar. Literary history — Faulkner, Hemingway, Capote all stayed here.",
+    "must_try": "Carousel Bar for a drink even if you don't stay. Rooftop pool.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Maison Dupuy",
+    "address": "1001 Toulouse St, New Orleans, LA 70112",
+    "phone": "+1-504-586-8000",
+    "website": "https://www.maisondupuy.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$",
+    "rating": "4.3",
+    "description": "Quiet courtyard hotel in the French Quarter. Close to the music but not on top of it. Good pool, solid value for the location.",
+    "must_try": "Courtyard pool area — one of the nicest in the Quarter",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Omni Royal Orleans",
+    "address": "621 St Louis St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Grand classic French Quarter hotel renovated in 2026. Famous rooftop pool deck overlooking the Quarter, new lobby bar and music lounge.",
+    "must_try": "Rooftop pool overlooking the Quarter",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Roosevelt New Orleans",
+    "address": "130 Roosevelt Way, New Orleans, LA 70112",
+    "phone": "+1-504-648-1200",
+    "website": "https://www.therooseveltneworleans.com",
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.6",
+    "description": "The Waldorf Astoria property. The Sazerac Bar is a must-visit (the cocktail was invented nearby). Massive rooftop pool. The lobby at Christmas is jaw-dropping.",
+    "must_try": "Drink a Sazerac at the Sazerac Bar. Visit during the holidays for the lobby decorations.",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Windsor Court Hotel",
+    "address": "300 Gravier St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "lodging",
+    "subcategory": "hotels",
+    "price": "$$$$",
+    "rating": "4.8",
+    "description": "Old-world luxury in the CBD with an exceptional art collection, traditional afternoon tea in Le Salon, and a stunning rooftop pool.",
+    "must_try": "Afternoon tea in Le Salon",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mississippi River Trail",
+    "address": "Levee path starting at Audubon Park/The Fly",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "biking",
+    "price": "Free",
+    "rating": "4.5",
+    "description": "Flat paved multi-use path along the Mississippi River levee with stunning industrial river views and cooling breezes. Great on a Blue Bike.",
+    "must_try": "Sunset cycling along The Fly behind Audubon Zoo",
+    "hours": "Sunrise to sunset",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Audubon Park & Zoo",
+    "address": "6500 Magazine St, New Orleans, LA 70118",
+    "phone": "+1-504-861-2537",
+    "website": "https://www.audubonnatureinstitute.org",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free (park) / $$ (zoo)",
+    "rating": "4.5",
+    "description": "Beautiful oak-lined park perfect for jogging, picnicking, or the zoo. The Louisiana swamp exhibit at the zoo is excellent — real alligators, real bayou.",
+    "must_try": "Walk the oak-lined path, then hit the zoo's Louisiana Swamp exhibit",
+    "hours": "Park: sunrise to sunset. Zoo: Wed-Mon 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "City Park",
+    "address": "1 Palm Dr, New Orleans, LA 70124",
+    "phone": "+1-504-482-4888",
+    "website": "https://www.neworleanscitypark.com",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "1,300 acres — bigger than Central Park. Ancient live oaks draped in Spanish moss, Sculpture Garden, Besthoff Sculpture Garden (free), Storyland for kids, and the gorgeous Big Lake for paddleboating.",
+    "must_try": "Besthoff Sculpture Garden (free), Café Du Monde City Park location (shorter lines), Morning Bike ride",
+    "hours": "Daily sunrise-sunset",
+    "seasonal": null,
+    "modes": [
+      "family",
+      "chill",
+      "adventure",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Crescent Park",
+    "address": "1008 N Peters St to Mazant St, New Orleans, LA",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.7",
+    "description": "Brilliant 1.4-mile linear park on the Bywater riverfront with unmatched views of the downtown skyline. Cross the Rusty Rainbow bridge at Piety Street.",
+    "must_try": "The arching Rusty Rainbow bridge at Piety Street",
+    "hours": "Daily 6am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fontainebleau State Park",
+    "address": "62883 Hwy 1089, Mandeville, LA 70448",
+    "phone": "+1-985-624-4443",
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "$",
+    "rating": "4.6",
+    "description": "45-minute drive across Lake Pontchartrain with sandy lake beaches, ancient moss-draped oaks, and excellent hiking. Worth the drive.",
+    "must_try": "Walking the ruins of the historic sugar mill",
+    "hours": "Sun-Thu 8am-5pm, Fri-Sat 8am-10pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jean Lafitte National Historical Park (Barataria Preserve)",
+    "address": "6588 Barataria Blvd, Marrero, LA 70072",
+    "phone": "+1-504-689-3690",
+    "website": "https://www.nps.gov/jela/",
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.8",
+    "description": "Free National Park just 20 minutes from downtown. Spectacular boardwalks floating over wild alligator-filled marshes. The best free outdoor experience near the city.",
+    "must_try": "Visitor Center trail for birds and gators",
+    "hours": "Trails open daily; Visitor Center Wed-Sun 9:30am-4:30pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Woldenberg Riverfront Park",
+    "address": "1 Canal St, New Orleans, LA 70130",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "parks",
+    "price": "Free",
+    "rating": "4.6",
+    "description": "Brick promenade along the Mississippi right off the French Quarter. Perfect for watching massive ships pass and catching river breezes.",
+    "must_try": "Watching steamboats undock at sunset",
+    "hours": "Daily 6am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cajun Encounters Swamp Tour",
+    "address": "Departs from Frenier Landing, Laplace, LA (30 min from FQ)",
+    "phone": "+1-504-834-1770",
+    "website": "https://www.cajunencounters.com",
+    "category": "outdoor_adventure",
+    "subcategory": "tours",
+    "price": "$$",
+    "rating": "4.6",
+    "description": "The best-reviewed swamp tour near the city. See gators, turtles, herons, and cypress swamps. Most tours include hotel pickup.",
+    "must_try": "The morning tour — wildlife is more active and light is better",
+    "hours": "Multiple departures daily, 9:30am-2:30pm",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bayou Paddleboards",
+    "address": "1101 Florida Ave, New Orleans, LA",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "water_sports",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "SUP rentals on Bayou St. John. Navigate the urban waterway at your own pace. Paddleboard yoga sessions available.",
+    "must_try": "Paddleboard yoga sessions",
+    "hours": "Thu-Mon 9am-7pm",
+    "seasonal": "Spring/Summer",
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blue Bikes NOLA",
+    "address": "Stations throughout the city",
+    "phone": null,
+    "website": "https://www.bluebikesnola.com",
+    "category": "services",
+    "subcategory": "bike_rental",
+    "price": "$",
+    "rating": "4.0",
+    "description": "Bike-share with stations everywhere. $8/24hrs with 30-min ride intervals. Great for Bywater, Marigny, City Park, and the Mississippi River Trail.",
+    "must_try": "Ride from Bywater through City Park on a morning when it's not too hot",
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [
+      "adventure",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rouses Market",
+    "address": "701 Royal St, New Orleans, LA 70116",
+    "phone": "+1-504-523-1353",
+    "website": "https://www.rouses.com",
+    "category": "services",
+    "subcategory": "grocery",
+    "price": "$-$$",
+    "rating": "4.2",
+    "description": "Louisiana-born grocery chain with a French Quarter location. Great for stocking a rental — local hot sauces, boudin, prepared food deli, wine.",
+    "must_try": "Hot food deli, local hot sauce selection, king cake (seasonal)",
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walgreens (French Quarter)",
+    "address": "900 Canal St, New Orleans, LA 70112",
+    "phone": "+1-504-525-7263",
+    "website": "https://www.walgreens.com",
+    "category": "services",
+    "subcategory": "pharmacy",
+    "price": "$",
+    "rating": "3.5",
+    "description": "The pharmacy closest to the Quarter for sunscreen, medicine, snacks, and late-night essentials.",
+    "must_try": null,
+    "hours": "Daily 7am-10pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Uber/Lyft (Rideshare Guide)",
+    "address": "Citywide",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "transportation",
+    "price": "$$",
+    "rating": "4.0",
+    "description": "Widely available throughout the city. Typical rides: FQ to Uptown $12-18, FQ to airport $20-35. Surge pricing during festivals and events. Pickup zones at MSY airport are well-marked.",
+    "must_try": null,
+    "hours": "24/7",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Ochsner Urgent Care",
+    "address": "Multiple CBD and Uptown locations",
+    "phone": null,
+    "website": null,
+    "category": "services",
+    "subcategory": "urgent_care",
+    "price": "$$$",
+    "rating": "4.2",
+    "description": "Reliable fast-service urgent care clinics throughout major tourist zones for minor medical issues and travel sickness.",
+    "must_try": null,
+    "hours": "Typically 8am-8pm",
+    "seasonal": null,
+    "modes": [],
+    "needs_verification": false
+  },
+  {
+    "name": "Dirty Coast",
+    "address": "5415 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-324-3745",
+    "website": "https://dirtycoast.com/",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Locally owned apparel brand selling high-quality gear with deep-cut New Orleans inside jokes and beautiful designs. The insider souvenir shop.",
+    "must_try": "'Expect Delays' or Water Meter merchandise",
+    "hours": "Mon-Thu 11am-6pm, Fri-Sun 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Fleurty Girl",
+    "address": "617 Chartres St, New Orleans, LA 70130",
+    "phone": "+1-504-304-5529",
+    "website": "https://fleurtygirl.com/",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "The quintessential NOLA gift shop with locally inspired t-shirts, accessories, and home goods. Multiple locations.",
+    "must_try": "Hyper-local NOLA pride t-shirts",
+    "hours": "Mon-Thu 10am-6pm, Fri-Sat 10am-7pm, Sun 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hazelnut",
+    "address": "5525 Magazine St, New Orleans, LA 70115",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$",
+    "rating": "4.6",
+    "description": "Upscale home goods boutique co-owned by actor Bryan Batt. Elegant New Orleans-themed decor and gifts.",
+    "must_try": "Custom New Orleans toile ceramics",
+    "hours": "Mon-Sat 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "shopping"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Magazine Street",
+    "address": "Magazine St (Garden District to Audubon Park), New Orleans, LA 70115",
+    "phone": null,
+    "website": "https://www.magazinestreet.com",
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$-$$$",
+    "rating": "4.5",
+    "description": "Six miles of boutiques, vintage shops, galleries, and restaurants. The antithesis of a mall — walk it, stop into whatever catches your eye.",
+    "must_try": "Start at Canal and walk Uptown. Funky Monkey (vintage), Trashy Diva, Hazelnut (home goods)",
+    "hours": "Most shops 10am-6pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "chill",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rubenstein's",
+    "address": "102 St Charles Ave, New Orleans, LA 70130",
+    "phone": "+1-504-581-6666",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "boutiques",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Historic family-run luxury menswear anchor on Canal Street. Over a century of elite tailoring and service.",
+    "must_try": "Custom tailoring consultation",
+    "hours": "Mon-Sat 10am-5:30pm",
+    "seasonal": null,
+    "modes": [
+      "shopping"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "French Market",
+    "address": "1235 N Peters St, New Orleans, LA 70116",
+    "phone": "+1-504-636-6400",
+    "website": "https://www.frenchmarket.org",
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$-$$",
+    "rating": "4.2",
+    "description": "Open-air market operating since 1791. The flea market side has souvenirs and local goods; the farmer's market side has local produce and hot sauce vendors.",
+    "must_try": "Hot sauce tasting, local art, pralines",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "family",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Frenchmen Art Bazaar",
+    "address": "619 Frenchmen St, New Orleans, LA 70116",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "markets",
+    "price": "$-$$",
+    "rating": "4.3",
+    "description": "Nightly open-air market on Frenchmen with local art, jewelry, and one-of-a-kind New Orleans souvenirs. Way better than anything on Bourbon.",
+    "must_try": "Browse between sets — paintings, mixed media, handmade jewelry",
+    "hours": "Daily 7pm-1am (weekends til 1am)",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "culture",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Faulkner House Books",
+    "address": "624 Pirate's Alley, New Orleans, LA 70116",
+    "phone": "+1-504-524-2940",
+    "website": "https://faulknerhousebooks.com/",
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.9",
+    "description": "Romantic curated bookstore in the 1837 townhouse where William Faulkner lived. Rare signed first editions of Southern literature.",
+    "must_try": "Browsing rare signed first editions",
+    "hours": "Daily 10am-5pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "culture",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Kitchen Witch Cookbooks",
+    "address": "1452 N Broad St, New Orleans, LA 70119",
+    "phone": null,
+    "website": null,
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "Eccentric bookstore dedicated entirely to culinary literature, vintage cookbooks, and regional food history. A foodie pilgrimage.",
+    "must_try": "Rare out-of-print Louisiana Creole cookbooks",
+    "hours": "Varies",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Louisiana Music Factory",
+    "address": "421 Frenchmen St, New Orleans, LA 70116",
+    "phone": "+1-504-586-1094",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.8",
+    "description": "The ultimate destination for regional jazz, blues, and zydeco on Frenchmen Street. Live in-store acoustic performances on weekends.",
+    "must_try": "Weekend in-store acoustic performances",
+    "hours": "Daily 11am-7pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Peaches Records",
+    "address": "4318 Magazine St, New Orleans, LA 70115",
+    "phone": "+1-504-282-3322",
+    "website": null,
+    "category": "shopping",
+    "subcategory": "specialty",
+    "price": "$$",
+    "rating": "4.5",
+    "description": "Massive family-owned record store since 1975. Treasure trove for vinyl collectors — especially the local brass and bounce sections.",
+    "must_try": "Digging through local brass and bounce vinyl",
+    "hours": "Daily 10am-7pm",
+    "seasonal": null,
+    "modes": [
+      "shopping",
+      "culture"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "NOLA Tribe Yoga",
+    "address": "City Park (and various pop-up locations)",
+    "phone": null,
+    "website": null,
+    "category": "wellness_spa",
+    "subcategory": "fitness",
+    "price": "$",
+    "rating": "4.8",
+    "description": "Community-driven outdoor yoga beneath the ancient oaks of City Park and at local breweries. The most New Orleans fitness experience possible.",
+    "must_try": "Weekend morning yoga in City Park",
+    "hours": "Varies by class schedule",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventure"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Float NOLA",
+    "address": "3030 Severn Ave, Metairie, LA 70002",
+    "phone": null,
+    "website": null,
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$",
+    "rating": "4.7",
+    "description": "Sensory deprivation float therapy for profound relaxation and physical recovery. The antidote to Bourbon Street.",
+    "must_try": "90-minute float tank session",
+    "hours": "Varies by appointment",
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Spa Aria at the Ritz-Carlton",
+    "address": "921 Canal St, New Orleans, LA 70112",
+    "phone": "+1-504-524-1331",
+    "website": "https://www.ritzcarlton.com/en/hotels/msyrz-the-ritz-carlton-new-orleans/spa/",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.5",
+    "description": "The top-tier spa experience in the city. Indoor pool, steam room, full treatment menu. Good recovery play after a big night on Bourbon.",
+    "must_try": "Couples massage or the recovery package after a long NOLA weekend",
+    "hours": "Daily 9am-7pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Spa at Windsor Court",
+    "address": "300 Gravier St, New Orleans, LA 70130",
+    "phone": "+1-504-596-4736",
+    "website": "https://thewindsorcourt.com/amenities/the-windsor-court-spa/",
+    "category": "wellness_spa",
+    "subcategory": "spas",
+    "price": "$$$$",
+    "rating": "4.7",
+    "description": "Serene old-world retreat with bespoke body treatments high above the CBD. The recovery play after a big NOLA weekend.",
+    "must_try": "Monarch detoxification wrap",
+    "hours": "Daily 9am-5pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  }
+]

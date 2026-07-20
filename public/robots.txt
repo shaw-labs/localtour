@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /partners/stats
+Sitemap: https://localtour.directory/sitemap.xml

@@ -1,0 +1,2079 @@
+[
+  {
+    "name": "Uchi",
+    "address": "801 S Lamar Blvd, Austin, TX 78704",
+    "phone": "(512) 916-4808",
+    "website": "https://uchi.uchirestaurants.com/location/sushi-austin/",
+    "category": "dining",
+    "subcategory": "Japanese fine dining / omakase",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The room that lit the fuse on Austin's fine-dining era back in 2003, and darlin', it still hums. Tyson Cole took a James Beard medal home for what happens here: Japanese technique bear-hugging Texas ingredients, served in a converted South Lamar bungalow with zero stuffiness. Come for the omakase if you're feeling flush, or graze the a la carte hot-and-cold tastings and let the sushi bar do the driving.",
+    "must_try": "The hama chili — baby yellowtail with ponzu, Thai chili and orange, the dish that made Uchi Uchi",
+    "hours": "Mon-Thu 4-10pm, Fri-Sat 4-11pm, Sun 4-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emmer & Rye",
+    "address": "51 Rainey St #110, Austin, TX 78701",
+    "phone": "(512) 366-5530",
+    "website": "https://emmerandrye.com/",
+    "category": "dining",
+    "subcategory": "New American tasting menu / farm-to-table",
+    "price": "$$$",
+    "rating": null,
+    "description": "Kevin Fink mills his own heritage grains in-house, and you taste it in every noodle and biscuit that rolls by on the dim-sum-style cart — yes, they wheel the food to you, keep-it-weird style. It's a Michelin Green Star and Bib Gourmand pick on Rainey Street, seasonal to the bone, and the kind of place where you point at what looks good and trust the kitchen. No pretense, all substance.",
+    "must_try": "Whatever house-milled pasta is rolling by on the cart that night",
+    "hours": "Tue-Thu 5:30-10pm, Fri-Sat 5:30-11pm, Sun 5:30-10pm, Mon closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hestia",
+    "address": "607 W 3rd St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://hestiaaustin.com/",
+    "category": "dining",
+    "subcategory": "Live-fire New American / Michelin star",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Everything at Hestia meets flame — Kevin Fink and Tavel Bristol-Joseph built a downtown temple to the wood-fired hearth, and in 2024 it earned one of Texas's first Michelin stars. Dry-aged beef, blistered vegetables, that smoky char you can only get from live fire. Big, dramatic, and worth the splurge when you want dinner to feel like an event.",
+    "must_try": "The dry-aged ribeye pulled straight off the live fire",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barley Swine",
+    "address": "6555 Burnet Rd Ste 400, Austin, TX 78757",
+    "phone": "(512) 394-8150",
+    "website": "https://www.barleyswine.com/",
+    "category": "dining",
+    "subcategory": "New American tasting menu / farm-to-table",
+    "price": "$$$",
+    "rating": null,
+    "description": "Bryce Gilmore turned a 2010 food trailer into one of Austin's farm-to-table cornerstones, and this Burnet Road room is where he does his best work — a seasonal chef's tasting that leans hard on Central Texas farms. A 2026 James Beard semifinalist for Outstanding Hospitality, which tells you the folks running the floor are as dialed as the kitchen. Unfussy excellence, north of the highway.",
+    "must_try": "The seasonal Chef's Tasting Menu (recently $125/person)",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Odd Duck",
+    "address": "1201 S Lamar Blvd, Austin, TX 78704",
+    "phone": null,
+    "website": "https://www.oddduckaustin.com/",
+    "category": "dining",
+    "subcategory": "New American / farm-to-table",
+    "price": "$$$",
+    "rating": null,
+    "description": "Bryce Gilmore's other South Lamar baby, and the more approachable of the pair — this one started as a 2009 trailer and grew into a full Bouldin Creek room committed to Central Texas farms. Wood-grilled everything, a rotating menu that changes with what the farmers bring, and small plates built for sharing. Bring the family, bring a date, bring your appetite.",
+    "must_try": "The wood-grilled market vegetables, whatever's peaking that week",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Suerte",
+    "address": "1800 E 6th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://www.suerteatx.com/",
+    "category": "dining",
+    "subcategory": "Modern Mexican / Michelin",
+    "price": "$$$",
+    "rating": null,
+    "description": "The masa here is nixtamalized in-house from heirloom corn, and once you've had a Suerte tortilla you'll be ruined for the grocery-store kind. A Michelin Guide favorite on East 6th, it channels interior-Mexican tradition through a modern lens — and the suadero taco alone justifies the drive. Lively, buzzy, exactly the East Austin energy you came for.",
+    "must_try": "The suadero taco on house-nixtamalized masa",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Este",
+    "address": "2113 Manor Rd, Austin, TX 78722",
+    "phone": "(512) 522-4047",
+    "website": "https://www.esteatx.com/",
+    "category": "dining",
+    "subcategory": "Coastal Mexican seafood / Michelin",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Suerte team's love letter to Mexico's coastlines — bright, briny, built around Gulf seafood and aguachiles that'll wake up every taste bud you own. A Michelin pick and 2026 James Beard semifinalist on Manor Road, it's the place to eat oysters and ceviche when Austin's heat has you craving something cool and citrusy. Weekend lunch service too, which is a gift.",
+    "must_try": "The aguachile, or a plate of Gulf oysters",
+    "hours": "Mon-Thu 5-10pm, Fri-Sun 12-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Birdie's",
+    "address": "2944 E 12th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://www.birdiesaustin.com/",
+    "category": "dining",
+    "subcategory": "New American wine bar / counter-service fine dining",
+    "price": "$$$",
+    "rating": null,
+    "description": "Half wine bar, half serious restaurant, all charm — Birdie's cracked the code on fine food without the fuss, running a counter-service model where the pastas and vegetables punch at Michelin weight (it's on the Guide). Arjav Ezekiel's wine program earned a James Beard beverage medal, so trust the pour. Walk-ins welcome on E 12th; get there early.",
+    "must_try": "The fusilli — the pasta everyone photographs and nobody shares",
+    "hours": "Tue-Thu 5-9pm, Fri-Sat 5-9:30pm, Sun-Mon closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Comedor",
+    "address": "501 Colorado St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://comedortx.com/",
+    "category": "dining",
+    "subcategory": "Modern Mexican / Michelin",
+    "price": "$$$",
+    "rating": null,
+    "description": "A soaring, Tom Kundig-designed downtown space where chefs Philip Speer and Alan Delgado honor their border roots with unapologetically modern Mexican cooking. Michelin-recognized and stone-gorgeous, it's the spot when you want your tacos with architecture. Speer built his name on desserts in the Uchi years, so save room — the sweet finish is not an afterthought here.",
+    "must_try": "The queso fundido with bone marrow",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Dai Due",
+    "address": "2406 Manor Rd Ste A, Austin, TX 78722",
+    "phone": "(512) 524-0688",
+    "website": "https://www.daidue.com/",
+    "category": "dining",
+    "subcategory": "Butcher shop & supper club / hyper-local",
+    "price": "$$$",
+    "rating": null,
+    "description": "A butcher shop and supper club in one, Dai Due takes 'local' to the extreme — Jesse Griffiths sources game, fish and produce from within Texas, then wood-grills it into something soulful. This is the place to eat wild boar, venison and Gulf fish you won't find anywhere else, in a warm Manor Road room that feels like a hunting-camp dinner run by geniuses.",
+    "must_try": "The wood-grilled venison or whatever wild game is on that night",
+    "hours": "Tue-Thu 5-10pm, Fri-Sat 10am-3pm & 5-10pm, Sun 10am-3pm & 5-9pm, Mon closed",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Canje",
+    "address": "1914 E 6th St Ste C, Austin, TX 78702",
+    "phone": null,
+    "website": "https://canjeatx.com/",
+    "category": "dining",
+    "subcategory": "Caribbean",
+    "price": "$$",
+    "rating": null,
+    "description": "Tavel Bristol-Joseph's Guyanese heart on a plate — Canje pulls from mainland Guyana to Jamaica to Puerto Rico and every island between, all fire and spice and rum-fueled warmth. Named for the Canje pheasant, Guyana's national bird, it's traditional Caribbean cooking sharpened with fine-dining technique. The most joyful table on East 6th, and a genuine bargain for the pedigree behind it.",
+    "must_try": "The jerk chicken or the braised oxtail",
+    "hours": "Sun-Thu 5-10pm, Fri-Sat 5-11pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lutie's Garden Restaurant",
+    "address": "4100 Red River St, Austin, TX 78751",
+    "phone": null,
+    "website": "https://auberge.com/commodore-perry/dine/luties/",
+    "category": "dining",
+    "subcategory": "Fine dining / garden-driven / Michelin",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Tucked into the Jazz Age Commodore Perry Estate, Lutie's is Austin fine dining at its most romantic — green-and-gold rooms opening onto gardens and a fountain, with chef Bradley Nicholson and pastry chef Susana Querejazu cooking seasonal Texas heritage fare. Named for the estate's party-throwing matriarch, it's whimsical and refined at once, available a la carte or as a tasting. Save it for the special occasion.",
+    "must_try": "The seasonal garden-driven tasting menu",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Jeffrey's",
+    "address": "1204 W Lynn St, Austin, TX 78703",
+    "phone": "(512) 477-5584",
+    "website": "https://jeffreysofaustin.com/",
+    "category": "dining",
+    "subcategory": "Fine dining / classic American steakhouse",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Austin fine dining since 1975, and the grande dame of the leafy Clarksville neighborhood — old-guard glamour, tableside flourish, and a wine list deep enough to get lost in. MML Hospitality gave it a loving 2013 refresh without stripping the soul. This is where Austin comes to celebrate the way it always has: crispy oysters, dry-aged steak, and a martini poured by someone who's been doing it for decades.",
+    "must_try": "The crispy oysters on the half shell",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Loro Asian Smokehouse & Bar",
+    "address": "2115 S Lamar Blvd, Austin, TX 78704",
+    "phone": "(512) 916-4858",
+    "website": "https://www.loroeats.com/locations/austin/south-lamar/",
+    "category": "dining",
+    "subcategory": "Asian smokehouse / Texas-Asian fusion",
+    "price": "$$$",
+    "rating": null,
+    "description": "What happens when two James Beard winners — Uchi's Tyson Cole and Franklin Barbecue's Aaron Franklin — decide to smoke meat together? This South Lamar smokehouse, where Texas brisket meets Thai herbs, Vietnamese funk and cold batch cocktails. It's counter-order casual and family-friendly, the everyday-genius end of Austin's fine-dining talent pool. Grab a patio seat and a frozen drink.",
+    "must_try": "The oak-smoked brisket with Thai herbs and chili gastrique",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Franklin Barbecue",
+    "address": "900 E 11th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://franklinbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "This is the altar, friend, and the pilgrimage is the point. Aaron Franklin's post-oak brisket built the modern Austin BBQ mythos, and yes, you'll stand in a line that's become its own social club, folding chairs and cold beer and all. Show up before 10, make friends, and understand: when they sell out, they sell out. No shortcuts, no pretension, just the best brisket in the country handed over a counter.",
+    "must_try": "The fatty brisket, sliced thick with a jet-black peppery bark",
+    "hours": "Tue-Sun 11am until sold out; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "la Barbecue",
+    "address": "2401 E Cesar Chavez St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://labarbecue.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "The locals' answer to 'but where do YOU go' — and in 2024 it became the first BBQ joint in Texas to earn a Michelin star, so the secret's out. Founded by the late LeAnn Mueller of the legendary Mueller BBQ family, now run by her wife Ali Clem. The brisket runs neck-and-neck with Franklin's, the line's half as long, and those beef short ribs are Flintstones-sized monuments to smoke.",
+    "must_try": "The beef short rib — a fist of rendered, peppery beef",
+    "hours": "Wed-Sun 11am-6pm; closed Mon-Tue",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Micklethwait Craft Meats",
+    "address": "1309 Rosewood Ave, Austin, TX 78702",
+    "phone": "512-953-3549",
+    "website": "https://www.craftmeatsaustin.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "Tom Micklethwait quietly turned out Franklin-tier brisket from an East Austin trailer for twelve years, and in 2025 finally moved into a renovated old church off Rosewood with pecan-shaded picnic tables. This is the connoisseur's pick — the wait's shorter, the sausage is house-ground, and the beef rib rivals anyone's. Come for the meat, stay because nobody's rushing you.",
+    "must_try": "Moist brisket plus a link of jalapeno-cheddar sausage",
+    "hours": "Thu-Sun 11am-4pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Terry Black's Barbecue",
+    "address": "1003 Barton Springs Rd, Austin, TX 78704",
+    "phone": "512-394-5899",
+    "website": "https://terryblacksbbq.com/austin",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "When you don't have three hours to give a brisket line but you still want the real thing, this is your move — cafeteria trays, meat sliced to order at the counter, and a Barton Springs Road address that pairs perfect with a dip in the springs next door. The Black family have been Texas BBQ royalty since Lockhart; here 'Brisket is King' is the whole religion. They still sell out, so don't dawdle.",
+    "must_try": "Prime sliced brisket by the pound, plus a giant beef rib",
+    "hours": "Mon-Thu & Sun 10:30am-9:30pm; Fri-Sat 10:30am-10pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "InterStellar BBQ",
+    "address": "12233 Ranch Rd 620 N, Suite 105, Austin, TX 78750",
+    "phone": "512-382-6248",
+    "website": "https://www.theinterstellarbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "Worth the drive to far North Austin, promise. Pitmaster John Bates smokes low and slow over post oak and then gets inventive in ways the old guard never dared — this is the joint Texas Monthly ranked #2 in the whole state, now wearing a Michelin star. The sides here aren't afterthoughts; they're half the reason to come. Wednesday-Sunday, and when the meat's gone, it's gone.",
+    "must_try": "The peach tea-glazed pork belly",
+    "hours": "Wed-Sun 11am-4pm or until sold out",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LeRoy and Lewis Barbecue",
+    "address": "5621 Emerald Forest Dr, Austin, TX 78745",
+    "phone": null,
+    "website": "https://leroyandlewisbbq.com/",
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "'New school Texas BBQ,' they call it, and they mean it — Evan LeRoy went brick-and-mortar in South Austin in 2024, earned a Michelin star that November, and never stopped riffing. Where else does the signature cut get treated like brisket but come from the cheek of the cow? Locally sourced everything, a whole menu section of house pickles, and a brisket burger that'll ruin other burgers for you.",
+    "must_try": "The smoked beef cheeks — order early, they run out",
+    "hours": "Wed-Mon 11am-9pm (til 10pm Fri-Sat); closed Tue",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Valentina's Tex Mex BBQ",
+    "address": "11500 Manchaca Rd, Austin, TX 78748",
+    "phone": "512-221-4248",
+    "website": null,
+    "category": "dining",
+    "subcategory": "bbq",
+    "price": "$$",
+    "rating": null,
+    "description": "Miguel Vidal did the thing nobody thought to do this well — married central Texas smoke to his family's Tex-Mex, and the result is a breakfast taco built on brisket that changed the game. They've since planted the trailer on Manchaca Road in far South Austin with a brick-and-mortar on the way. Smoked meat, house tortillas, and salsa that means it. Pure keep-Austin-weird genius.",
+    "must_try": "The Real Deal Holyfield breakfast taco — smoked brisket, egg, refried beans, guacamole, salsa",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Matt's El Rancho",
+    "address": "2613 S Lamar Blvd, Austin, TX 78704",
+    "phone": null,
+    "website": "https://mattselrancho.com/",
+    "category": "dining",
+    "subcategory": "tex-mex",
+    "price": "$$",
+    "rating": null,
+    "description": "Scratch-made Tex-Mex since 1952, family-run for over seventy years, and the kind of South Lamar institution where the margaritas flow and 500-plus folks pack in daily. It started as a 40-seat cafe on East 1st and became a landmark. Come for the queso invention that launched a thousand imitators, stay for the sizzling fajitas and a Martinez margarita on the patio. This is old-Austin comfort, no notes.",
+    "must_try": "The Bob Armstrong Dip — queso layered with taco meat and guacamole",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Joe's Bakery & Coffee Shop",
+    "address": "2305 E 7th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://joesbakery.com/",
+    "category": "dining",
+    "subcategory": "tex-mex",
+    "price": "$",
+    "rating": null,
+    "description": "The Avila family have been feeding East 7th since 1962, and this is the heart of the neighborhood's Mexican-American story on a plate. Homemade flour tortillas, all-day breakfast, conchas and empanadas in the case, and migas tacos that regulars have ordered the same way for decades. No trend chasing — just a family dynasty doing it right, one warm tortilla at a time.",
+    "must_try": "The migas taco con todo on a house-made flour tortilla",
+    "hours": "Tue-Sun 6am-2pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Nixta Taqueria",
+    "address": "2512 E 12th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://www.nixtataqueria.com/",
+    "category": "dining",
+    "subcategory": "modern-mexican",
+    "price": "$$",
+    "rating": null,
+    "description": "On the corner of East 12th, Chef Edgar Rico and Sara Mardanbigi turned a walk-up taqueria into a James Beard-winning, Michelin Green Star and Bib Gourmand darling — and it still feels like a neighborhood joint. They mill their own masa from heirloom Mexican corn, and where else does duck confit stand in for carnitas? The tortilla arrives blushing pink. Genuinely one of the most exciting bites in Austin.",
+    "must_try": "The duck carnitas taco on a pink heirloom-corn tortilla",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Veracruz All Natural",
+    "address": "2505 Webberville Rd, Austin, TX 78702",
+    "phone": "512-981-1760",
+    "website": "https://www.veracruzallnatural.com/",
+    "category": "dining",
+    "subcategory": "food-truck",
+    "price": "$",
+    "rating": null,
+    "description": "The Vazquez sisters started with a trailer and a griddle and built what Food Network crowned among the five best tacos in America. The Webberville flagship pours fresh-pressed juices next to a migas taco so good people plan their mornings around it — scrambled egg, crispy tortilla chips, cheese, avocado, pico, all tucked in a warm tortilla. This is the food-truck dream fully realized, no pretension in sight.",
+    "must_try": "The migas taco — a Food Network top-five-in-America pick",
+    "hours": "Mon-Wed 7am-3pm; Thu-Sun 7am-9pm",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cuantos Tacos",
+    "address": "1108 E 12th St, Austin, TX 78702",
+    "phone": "512-905-0533",
+    "website": "https://www.cuantostacosaustin.com/",
+    "category": "dining",
+    "subcategory": "food-truck",
+    "price": "$",
+    "rating": null,
+    "description": "Chef Beto Robledo parks his little trailer in East Austin's Arbor Food Park and turns out Mexico City-style tacos so honest the Michelin folks handed him a Bib Gourmand. These are small, unadorned, griddle-crisped tacos de guisado — meat, onion, cilantro, a fresh corn tortilla, done. The campechano, mixing suadero and longaniza, is the move. Order more than you think you need; they're tiny and you'll want a stack.",
+    "must_try": "The campechano taco — suadero and longaniza together",
+    "hours": "Tue-Sat 11am-10pm; Sun 10am-4pm; closed Mon",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Discada",
+    "address": "1700 E Cesar Chavez St, Austin, TX 78702",
+    "phone": null,
+    "website": "http://www.discadatx.com/",
+    "category": "dining",
+    "subcategory": "food-truck",
+    "price": "$",
+    "rating": null,
+    "description": "A tiny East Austin taco truck built around one gorgeous idea: beef, pork, and peppers cooked down slow over a repurposed tractor-plow disc — the discada — the northern-Mexico ranch technique that gives the truck its name. The result gets piled into little corn tortillas with onion, salsa, and lime. Small in size, huge in flavor, Michelin Guide-recognized, and cash-friendly. Order the taquitos by the set and thank me later.",
+    "must_try": "The discada taquitos — slow-cooked beef and pork off the plow disc",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Roosevelt Room",
+    "address": "307 W 5th St, Unit B, Austin, TX 78701",
+    "phone": "(512) 494-4094",
+    "website": "https://www.therooseveltroomatx.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "This is Austin's most decorated cocktail room, and the beauty of it is that all that hardware never made it snooty. The menu reads like a timeline of American drinking, era by era, so you can wander from a Pre-Prohibition sour to something the bartenders dreamed up last week. Grab a spot in the cozy upstairs lounge, tell them what you're in the mood for, and let a genuine pro take the wheel. No velvet-rope energy here, just serious drinks made by people who love making them.",
+    "must_try": "a pour from the Modern Classics section of the menu",
+    "hours": "Mon-Wed 3pm-12am, Thu-Sat 3pm-2am, Sun 3pm-12am",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Small Victory",
+    "address": "108 E 7th St, Austin, TX 78701",
+    "phone": "(512) 903-9450",
+    "website": "https://smallvictory.bar/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Look for a spiral staircase bolted to the side of a downtown parking garage, climb it, and you'll find one of the loveliest little rooms in the city. Small Victory is a spirits-forward bar that feels like a secret even though everybody knows about it, with a wall of bottles and bartenders who take the classics seriously. Come at happy hour for half-off daiquiris and you'll understand why folks keep this one close.",
+    "must_try": "a properly shaken daiquiri",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zilker Brewing Company",
+    "address": "1701 E 6th St, Austin, TX 78702",
+    "phone": "(512) 712-5590",
+    "website": "https://www.zilkerbeer.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery taproom",
+    "price": "$$",
+    "rating": null,
+    "description": "Right in the thick of the East 6th bar crawl sits this easygoing neighborhood brewery, and it's the kind of place where you can settle in for an afternoon without anybody rushing you. The taproom pours their own beer fresh, there's room to spread out, and the whole operation runs on zero pretension. Wander over from a coffee on Cesar Chavez, plant yourself, and make an evening of it.",
+    "must_try": "Marco IPA",
+    "hours": "Mon-Wed 11am-10pm, Thu-Sat 11am-11pm, Sun 11am-9pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Austin Beer Garden Brewing Company (ABGB)",
+    "address": "1305 W Oltorf St, Austin, TX 78704",
+    "phone": "(512) 298-2242",
+    "website": "https://theabgb.com/",
+    "category": "bars_nightlife",
+    "subcategory": "brewery beer garden",
+    "price": "$$",
+    "rating": null,
+    "description": "The ABGB is what happens when award-winning lager, wood-fired pizza, and live music all live under one big South Austin roof. Their lagers have hauled home national medals, but the vibe stays picnic-table casual, kids and dogs welcome, band usually playing. This is the platonic ideal of a Texas beer garden, no cover charge on the good times.",
+    "must_try": "a Hell Yes Helles lager with a pie",
+    "hours": "Closed Mon; Tue-Thu 11:30am-10pm, Fri 11:30am-11pm, Sat 12pm-11pm, Sun 12pm-10pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Deep Eddy Cabaret",
+    "address": "2315 Lake Austin Blvd, Austin, TX 78703",
+    "phone": "(512) 472-0961",
+    "website": "https://deepeddycabaret.com/",
+    "category": "bars_nightlife",
+    "subcategory": "dive bar institution",
+    "price": "$",
+    "rating": null,
+    "description": "Open since 1951 and named for the old swimming hole down the road, the Eddy is the real deal, one of Austin's oldest and most beloved dives. Cold longnecks, a jukebox worth feeding, a pool table, and a crowd that's friendly by default. After a dip at Deep Eddy or a paddle on the lake, this is where you belong. Nothing to prove, nothing to fix, just a great old bar doing exactly what it's always done.",
+    "must_try": "a cold longneck and a few dollars in the jukebox",
+    "hours": "Daily 12pm-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The White Horse",
+    "address": "500 Comal St, Austin, TX 78702",
+    "phone": "(512) 553-6756",
+    "website": "https://www.thewhitehorseaustin.com/",
+    "category": "bars_nightlife",
+    "subcategory": "honky-tonk dive bar",
+    "price": "$",
+    "rating": null,
+    "description": "A true East Austin honky-tonk with live bands seven nights a week and a dance floor that fills up with two-steppers of every skill level. Show up early for a free dance lesson, order a cheap beer, and let somebody twirl you around to bluegrass or old-school country. When you get hungry there's a taco trailer parked out back. This is keep-it-weird Austin with its boots on.",
+    "must_try": "a free two-step lesson, then Bomb Tacos out back",
+    "hours": "Daily 3pm-2am",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LoLo",
+    "address": "1504 E 6th St, Austin, TX 78702",
+    "phone": null,
+    "website": "https://www.lolo.wine/",
+    "category": "bars_nightlife",
+    "subcategory": "natural wine bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked onto East 6th next to the music venues, LoLo is a natural wine bar and bottle shop with a big patio and a laid-back, low-lit charm. The list leans toward small, organic, funky-in-a-good-way producers, and the staff will happily pour you a taste before you commit. Order a glass, tear into a baguette with good butter, and ease into the evening. It's romance without the fuss.",
+    "must_try": "a glass of something orange with the baguette and butter",
+    "hours": "Mon-Thu 3pm-11pm, Fri-Sat 12pm-12am, Sun 12pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Mean Eyed Cat",
+    "address": "1621 W 5th St, Austin, TX 78703",
+    "phone": "(512) 920-6645",
+    "website": "https://themeaneyedcat.com/",
+    "category": "bars_nightlife",
+    "subcategory": "dive bar",
+    "price": "$",
+    "rating": null,
+    "description": "Named for a Johnny Cash tune and built inside an old chainsaw-repair shop, this scrappy little dive wears its Man in Black obsession all over the walls. The real magic is out on the patio, where a 300-plus-year-old live oak throws shade over the whole scene. Grab a cheap cold one, find a seat under that ancient tree, and soak up some genuine Austin weirdness.",
+    "must_try": "a cold beer on the patio under the giant live oak",
+    "hours": "Mon-Sat 11am-2am",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "nightlife",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bufalina",
+    "address": "2215 E Cesar Chavez St, Austin, TX 78702",
+    "phone": "(512) 394-5337",
+    "website": "https://www.bufalinapizza.com/",
+    "category": "bars_nightlife",
+    "subcategory": "natural wine bar",
+    "price": "$$$",
+    "rating": null,
+    "description": "Bufalina was the East Side trailblazer that taught Austin to love natural wine, and it's been pairing serious bottles with blistered Neapolitan pizza since 2013. The wine list runs deep, hundreds of selections from cult French growers to new-school Texans, and the kitchen turns out some of the best pies in town. Come for the pizza, stay for a glass you'd never have found on your own. Romantic without ever trying too hard.",
+    "must_try": "a blistered Margherita with a glass off the deep natural-wine list",
+    "hours": "Mon-Wed 4pm-10pm, Thu-Sat 4pm-11pm",
+    "seasonal": null,
+    "modes": [
+      "romantic",
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Cuvée Coffee",
+    "address": "48 East Ave, Austin, TX 78701",
+    "phone": null,
+    "website": "https://cuveecoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent coffee roaster",
+    "price": "$$",
+    "rating": null,
+    "description": "Cuvée has been roasting in Austin since 1998, which around here makes them elder statesmen of the coffee scene, and they're the folks who put nitro cold brew in a can before most of the country caught on. The downtown bar runs on their own direct-trade beans and a genuine nerdy love of the craft. Pull up, order something cold and creamy, and taste what a couple decades of obsession gets you.",
+    "must_try": "the Black & Blue nitro cold brew",
+    "hours": "Mon-Sat 7am-8pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Houndstooth Coffee",
+    "address": "4200 N Lamar Blvd, Ste 120, Austin, TX 78756",
+    "phone": "(512) 531-9417",
+    "website": "https://houndstoothcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "specialty coffee shop",
+    "price": "$$",
+    "rating": null,
+    "description": "Houndstooth helped define what a modern Austin coffee bar could be, and the original North Lamar shop is still a warm, handsome place to post up with a laptop or a friend. They fuss over their pour-overs the way they ought to, and the espresso is dialed in tight. It's the kind of neighborhood café that makes a slow morning feel like a small luxury.",
+    "must_try": "a hand-crafted single-origin pour-over",
+    "hours": "Mon-Fri 6:30am-7pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Merit Coffee",
+    "address": "222 W Ave, Ste 120, Austin, TX 78701",
+    "phone": "(512) 906-0266",
+    "website": "https://meritcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent coffee roaster",
+    "price": "$$",
+    "rating": null,
+    "description": "Merit is a Texas roaster with a real point of view, and this bright Seaholm-district flagship is a fine place to see it in action. The espresso program is precise, the single origins rotate with the seasons, and the space is airy enough for a long sit. Order a cortado, watch downtown wake up, and appreciate a cup that's been thought about all the way from the farm.",
+    "must_try": "a cortado pulled on a single-origin espresso",
+    "hours": "Mon-Fri 6:30am-7pm, Sat 7am-7pm, Sun 7am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Flat Track Coffee",
+    "address": "1619 E Cesar Chavez St, Austin, TX 78702",
+    "phone": "(512) 540-6040",
+    "website": "https://flattrackcoffee.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "independent coffee roaster",
+    "price": "$",
+    "rating": null,
+    "description": "Flat Track is a small East Austin roaster that shares its home with a working bike shop, so your espresso comes with a side of grease, gears, and two-wheeled culture. It's unfussy, local to the bone, and exactly the sort of quirky mash-up that makes the East Side hum. Roll in, grab a shot, and admire the bikes while you sip.",
+    "must_try": "an espresso amid the bike-shop clatter",
+    "hours": "Daily 7am-4pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "adventurer",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Comadre Panadería",
+    "address": "1204 Cedar Ave, Austin, TX 78702",
+    "phone": null,
+    "website": "https://comadrepanaderia.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "Mexican-American bakery",
+    "price": "$",
+    "rating": null,
+    "description": "Right in the heart of historically Black and Mexican-American East Austin, Comadre is a Latina-owned panadería where pastry chef Mariela Camacho reimagines the pan dulce of her heritage with real craft. Think savory sourdough croissants, corn-kissed cookies, and conchas that honor tradition while doing their own thing. Get there early on a weekend, because when the good stuff sells out, it's gone. This is neighborhood baking with soul.",
+    "must_try": "a concha or a savory sourdough croissant",
+    "hours": "Fri-Sun 8am-3pm, Mon 8am-2pm; closed Tue-Thu",
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Easy Tiger (South Lamar)",
+    "address": "3508 S Lamar Blvd, Ste 300, Austin, TX 78704",
+    "phone": "(512) 964-8229",
+    "website": "https://www.easytigeraustin.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery and beer garden",
+    "price": "$$",
+    "rating": null,
+    "description": "Easy Tiger is the bakery that supplies half of Austin its sourdough, and at the South Lamar spot you get the loaves plus a full beer garden with 30-some taps. Come morning it's pastries and locally roasted coffee; come evening it's a soft pretzel and a cold draft on the patio. That range, croissant to craft beer under one roof, is a very Austin kind of practical magic.",
+    "must_try": "a hot soft pretzel with beer cheese",
+    "hours": "Sun-Thu 7am-9:30pm, Fri-Sat 7am-10:30pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rockman Coffee + Bakeshop",
+    "address": "2400 E Cesar Chavez St, Ste 200, Austin, TX 78702",
+    "phone": null,
+    "website": "https://rockmanatx.com/",
+    "category": "coffee_bakeries",
+    "subcategory": "bakery and coffee bar",
+    "price": "$$",
+    "rating": null,
+    "description": "Opened in late 2024 by James Beard-recognized pastry chef Amanda Rockman, this East Cesar Chavez bakeshop is the sweet spot where two decades of serious pastry chops meet a laid-back East Side hang. Flaky, buttery laminated pastries, proper bagels, a full coffee bar, and even shareable cocktail carafes if you're feeling festive. Settle into the lounge and let a genuine talent spoil you a little.",
+    "must_try": "the sourdough chocolate chip cookie",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Blanton Museum of Art",
+    "address": "200 E Martin Luther King Jr Blvd, Austin, TX 78701",
+    "phone": null,
+    "website": "https://blantonmuseum.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "The Blanton is the heavyweight of Central Texas art, sittin' pretty on the UT campus with 21,000-plus works and one of the deepest Latin American collections in the country. Cool your heels here on a hot afternoon, then step outside to Ellsworth Kelly's 'Austin' -- a stone chapel glowing with colored-glass light that even the least churchy Austinite will call holy.",
+    "must_try": "Standing inside Ellsworth Kelly's 'Austin' as the sun throws colored glass across the walls",
+    "hours": null,
+    "seasonal": "Free admission every Tuesday",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Bullock Texas State History Museum",
+    "address": "1800 Congress Ave, Austin, TX 78701",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "history museum",
+    "price": "$",
+    "rating": null,
+    "description": "Three floors of Texas told straight, from Indigenous history to space shots, all under that big bronze star out front. It's the kind of place you bring the out-of-town cousins so they finally understand why we won't shut up about this state. The Spirit of Texas theater rumbles your seat -- lean into the corn, it's earned.",
+    "must_try": "The multisensory Spirit of Texas special-effects show",
+    "hours": null,
+    "seasonal": "Free First Sundays",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "LBJ Presidential Library",
+    "address": "2313 Red River St, Austin, TX 78705",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "historic site",
+    "price": "$",
+    "rating": null,
+    "description": "Ol' LBJ looms large over this UT-campus vault -- 45 million pages, a full-scale Oval Office, and a famously ornery animatronic Lyndon telling tall tales in his own drawl. Whatever you make of the man, the exhibits don't flinch from the hard parts, and that's worth your afternoon.",
+    "must_try": "The talking animatronic LBJ delivering his own down-home jokes",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Texas State Capitol",
+    "address": "1100 Congress Ave, Austin, TX 78701",
+    "phone": null,
+    "website": "https://tspb.texas.gov",
+    "category": "attractions",
+    "subcategory": "historic landmark",
+    "price": "$",
+    "rating": null,
+    "description": "Taller than the U.S. Capitol -- because of course it is -- and built of that rosy Hill Country granite that glows at golden hour. The free guided tour is one of the best deals in town; crane your neck up into the rotunda dome and find the lone star staring back. Bring water in summer; the walk from parking is real.",
+    "must_try": "Looking straight up into the rotunda dome to spot the terrazzo lone star",
+    "hours": "Guided tours Mon-Fri 9:30am-3:30pm, Sat-Sun 12:30pm-4pm (limited)",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "UMLAUF Sculpture Garden & Museum",
+    "address": "605 Azie Morton Rd, Austin, TX 78704",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "sculpture garden",
+    "price": "$",
+    "rating": null,
+    "description": "Six shady acres tucked against Zilker where Charles Umlauf's bronzes stand among the live oaks -- and yes, you're allowed to touch a good number of them, which is rarer than it sounds. It's the quiet counterweight to Barton Springs next door: same neighborhood, a fraction of the crowd, all the peace.",
+    "must_try": "Running your hand over the touchable bronze sculptures in the dappled shade",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mexic-Arte Museum",
+    "address": "419 Congress Ave, Austin, TX 78701",
+    "phone": null,
+    "website": "https://mexic-artemuseum.org",
+    "category": "attractions",
+    "subcategory": "art museum",
+    "price": "$",
+    "rating": null,
+    "description": "The official Mexican and Mexican American fine-art museum of Texas, holding down a corner of Congress since 1984. Compact but mighty -- traditional and contemporary work in rotating shows, and come fall the whole place goes gloriously to the ancestors for Dia de los Muertos. This is Austin's soul, not its souvenir stand.",
+    "must_try": "The annual Viva la Vida Dia de los Muertos exhibition and festival",
+    "hours": null,
+    "seasonal": "Dia de los Muertos programming in October-November",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Contemporary Austin - Laguna Gloria",
+    "address": "3809 W 35th St, Austin, TX 78703",
+    "phone": null,
+    "website": "https://thecontemporaryaustin.org",
+    "category": "attractions",
+    "subcategory": "art museum & sculpture park",
+    "price": "$",
+    "rating": null,
+    "description": "An Italianate villa on a wooded peninsula jutting into Lake Austin, its grounds seeded with world-class outdoor sculpture and a lakeside path made for lingering. Free on Thursdays and worth every unhurried minute -- pack a picnic, chase the art through the trees, and let somebody propose to somebody. Romantic without trying.",
+    "must_try": "Wandering the lakeside sculpture trail to the Marc Quinn tree at the water's edge",
+    "hours": "Wed 9am-3pm, Thu 9am-9pm, Fri-Sun 9am-3pm",
+    "seasonal": "Free for all visitors on Thursdays",
+    "modes": [
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zilker Botanical Garden",
+    "address": "2220 Barton Springs Rd, Austin, TX 78746",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "botanical garden",
+    "price": "$",
+    "rating": null,
+    "description": "Twenty-eight acres of themed gardens folded into Zilker -- the koi-pond serenity of the Taniguchi Japanese Garden, a rose garden, and a prehistoric garden where dino tracks were actually found in the limestone. It's the gentle, green move when the springs are packed and you still want to be outside.",
+    "must_try": "The waterfalls and koi ponds of the Taniguchi Japanese Garden",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Historic Victory Grill",
+    "address": "1104 E 11th St, Austin, TX 78702",
+    "phone": null,
+    "website": null,
+    "category": "attractions",
+    "subcategory": "historic music landmark",
+    "price": "$",
+    "rating": null,
+    "description": "Johnny Holmes flung open this juke joint on VJ Day 1945, and its Kovac Room became one of the great Chitlin' Circuit stops -- B.B. King, Bobby 'Blue' Bland, and W.C. Clark all played it when Austin was still segregated. This is where the East Side Standards trail truly starts: the mother church of Austin blues, its future as a working venue in flux, its history bedrock.",
+    "must_try": "Standing outside the Chitlin' Circuit landmark where B.B. King once played",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "ACL Live at the Moody Theater",
+    "address": "310 W Willie Nelson Blvd, Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.acllive.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "The purpose-built home of 'Austin City Limits,' the longest-running music show on American TV -- meaning you might catch a legend on the very stage the whole world watches. A shade under 2,750 seats, roughly 150 shows a year, and sightlines so clean there's no bad night. Address is literally Willie Nelson Blvd, which tells you everything.",
+    "must_try": "Catching a taping of the PBS 'Austin City Limits' series in the room where it's made",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Continental Club",
+    "address": "1315 S Congress Ave, Austin, TX 78704",
+    "phone": null,
+    "website": "https://continentalclub.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Open since the 1950s and stamped a City of Austin historic landmark -- a low-slung SoCo temple of rockabilly, roots, and rock where Robert Plant and Gary Clark Jr. have plugged in. Squeeze up close, the room's tiny on purpose. Hit the Toni Price Hippie Hour or a Monday night residency and you'll understand the whole city at once.",
+    "must_try": "A swampy Monday-night residency set with a cold Lone Star in hand",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Antone's Nightclub",
+    "address": "305 E 5th St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://antonesnightclub.com",
+    "category": "entertainment",
+    "subcategory": "blues club",
+    "price": "$$",
+    "rating": null,
+    "description": "Clifford Antone's 'Home of the Blues' since 1975 -- the room that raised Stevie Ray Vaughan and Gary Clark Jr. and hosted Muddy Waters and B.B. King themselves. Now downtown on 5th, still carrying that fifty-year torch. When the horns kick in and somebody bends a blue note, you're standing in living Austin history.",
+    "must_try": "A late-night blues set in the room that launched Stevie Ray Vaughan",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Broken Spoke",
+    "address": "3201 S Lamar Blvd, Austin, TX 78704",
+    "phone": null,
+    "website": "https://www.brokenspokeaustintx.net",
+    "category": "entertainment",
+    "subcategory": "honky-tonk dance hall",
+    "price": "$$",
+    "rating": null,
+    "description": "A genuine Texas dance hall from 1964, low ceiling and sawdust soul, hemmed in on all sides by new condos and stubbornly refusing to budge. Come early, take the two-step lesson, then let the Western swing carry you around the floor with three generations of Austinites. There is no more authentic night in this town.",
+    "must_try": "The two-step dance lesson before the band, then chicken-fried steak in the front room",
+    "hours": "Free early shows Tue-Sat 6-8pm; dance hall nightly",
+    "seasonal": null,
+    "modes": [
+      "music",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stubb's Bar-B-Q (Waller Creek Amphitheater)",
+    "address": "801 Red River St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://stubbsaustin.com",
+    "category": "entertainment",
+    "subcategory": "live music venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "Red River District cornerstone where the outdoor amphitheater rides a natural slope down to Waller Creek and packs 2,500 for the big nights. Barbecue, cold beer, and a national touring act under the Texas sky -- and on Sundays, the Gospel Brunch, which will save your soul and your hangover in one sitting.",
+    "must_try": "The Sunday Gospel Brunch buffet with a live choir",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "music",
+      "nightlife",
+      "foodie"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Paramount Theatre",
+    "address": "713 Congress Ave, Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.austintheatre.org",
+    "category": "entertainment",
+    "subcategory": "historic theater",
+    "price": "$$$",
+    "rating": null,
+    "description": "A 1915 jewel box on Congress with gilded plasterwork and about 1,270 seats, steps from the Capitol -- comedians, touring plays, songwriters, and the beloved summer classic film series where you watch old Hollywood the way it was meant to be seen. Grand without being stuffy, which is the most Austin thing a grand old theater can be.",
+    "must_try": "A classic on the big screen during the Paramount Summer Film Series",
+    "hours": null,
+    "seasonal": "Summer Classic Film Series runs May-August",
+    "modes": [
+      "music",
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Esther's Follies",
+    "address": "525 E 6th St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.esthersfollies.com",
+    "category": "entertainment",
+    "subcategory": "comedy & cabaret",
+    "price": "$$",
+    "rating": null,
+    "description": "Dirty Sixth's long-running musical-comedy revue, going since 1977, where the back 'window' opens onto the actual street so pedestrians become unwitting cast members. Vaudeville sketches, live music, and Ray Anderson's magic -- an only-in-Austin institution that skewers Texas politics with a grin and zero mercy.",
+    "must_try": "The window-to-6th-Street gags where real passersby join the show",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "nightlife",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Q2 Stadium (Austin FC)",
+    "address": "10414 McKalla Pl, Austin, TX 78758",
+    "phone": null,
+    "website": "https://www.austinfc.com",
+    "category": "entertainment",
+    "subcategory": "pro sports stadium",
+    "price": "$$$",
+    "rating": null,
+    "description": "Austin's first big-league team, the Verde, and their 20,738-seat cathedral in North Austin that gets so loud the visiting keepers flinch. The supporters' section pyro, the '4-1' chant, a Matthew McConaughey sighting -- match night here is the closest this laid-back town gets to full-throated frenzy. Wear green.",
+    "must_try": "Standing in Los Verdes for the smoke-and-song supporters' section at kickoff",
+    "hours": null,
+    "seasonal": "MLS regular season Feb-Oct",
+    "modes": [
+      "family",
+      "nightlife",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Moody Center",
+    "address": "2001 Robert Dedman Dr, Austin, TX 78712",
+    "phone": null,
+    "website": null,
+    "category": "entertainment",
+    "subcategory": "arena & sports venue",
+    "price": "$$$",
+    "rating": null,
+    "description": "The gleaming 2022 arena on the UT campus, home to Longhorns basketball and a marquee stop for the biggest touring acts to roll through Texas. Around 15,000 seats but engineered to stay loud and close -- burnt-orange madness for a game, then a stadium-filler the very next night. Austin finally got its big room.",
+    "must_try": "A Texas Longhorns basketball game with the Hook 'Em crowd in full roar",
+    "hours": null,
+    "seasonal": "Longhorns basketball season Nov-March",
+    "modes": [
+      "music",
+      "family",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barton Springs Pool",
+    "address": "2201 Barton Springs Rd, Austin, TX 78746",
+    "phone": "(512) 974-6300",
+    "website": "https://www.austintexas.gov/parks/locations/about-barton-springs-pool",
+    "category": "outdoor_adventure",
+    "subcategory": "natural spring swimming",
+    "price": "$",
+    "rating": null,
+    "description": "The beating, spring-fed heart of Austin, right there in Zilker. Three acres of 68-degree Barton Springs water bubbling up cold enough to steal your breath even in August, shaded by pecan trees and populated by an unbothered cast of salamanders, sunbathers, and lap-swimmers. The free-admission era ended in 2026, but a few bucks for a plunge this good is still the best deal in town. This is Austin keeping itself weird and keeping itself cool.",
+    "must_try": "A dead-of-summer cold plunge into the 68-degree spring water off the diving board",
+    "hours": "Daily 5 AM–10 PM; closed Thursdays 9 AM–7 PM for cleaning; lifeguards on duty 8 AM–10 PM",
+    "seasonal": "Spring-fed and a constant ~68-70°F year-round; expect long lines and packed lawns on summer weekends",
+    "modes": [
+      "chill",
+      "family",
+      "romantic",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Rowing Dock",
+    "address": "2418 Stratford Dr, Austin, TX 78746",
+    "phone": null,
+    "website": "https://www.rowingdock.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak & paddleboard rental",
+    "price": "$$",
+    "rating": null,
+    "description": "Tucked on the west edge of Zilker where MoPac crosses the water, Rowing Dock hands you a kayak, canoe, or paddleboard and points you at the prettiest stretch of Lady Bird Lake. Paddle east toward the downtown skyline or nose up into the mouth of Barton Creek where the turtles sun themselves. No pretension, no rush — the food-truck-line patience of Austin applies here too, so grab your boat and let the current set the pace.",
+    "must_try": "A single-kayak paddle upstream into the quiet Barton Creek inlet",
+    "hours": "Daily 9 AM–8 PM (last boat launches one hour before closing)",
+    "seasonal": "Best March–October; free lot fills fast, so arrive early or walk from Stratford lot",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Texas Rowing Center",
+    "address": "1541 W Cesar Chavez St, Austin, TX 78703",
+    "phone": "(512) 467-7799",
+    "website": "https://www.texasrowingcenter.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "kayak, SUP & rowing",
+    "price": "$$",
+    "rating": null,
+    "description": "On the north shore of Lady Bird Lake, this is your launch point for a sunrise glide before the city wakes up. Kayaks, canoes, and stand-up boards by the hour, plus real-deal rowing instruction if you want to graduate from paddler to sculler. The 6 AM open means you can be out on glassy water with the skyline going gold while the rest of Austin is still hitting snooze.",
+    "must_try": "A dawn stand-up paddleboard session with the downtown skyline reflecting off flat water",
+    "hours": "Daily 6 AM–7 PM",
+    "seasonal": "Open year-round; early mornings are calmest and coolest in summer",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Congress Avenue Bridge Bats",
+    "address": "Ann W. Richards Congress Avenue Bridge, S Congress Ave, Austin, TX 78704",
+    "phone": null,
+    "website": "https://www.austintexas.org/things-to-do/outdoors/bat-watching/",
+    "category": "outdoor_adventure",
+    "subcategory": "wildlife viewing",
+    "price": "$",
+    "rating": null,
+    "description": "The finest free show in Texas. Come dusk from spring through fall, roughly 1.5 million Mexican free-tailed bats — North America's largest urban colony — pour out from under the Congress Bridge in a rippling black ribbon and fan out over Lady Bird Lake to hunt. Stake out a spot on the bridge, the lawn below, or a kayak on the water, face east, and wait for the sky to move. Pure, unbottled Austin weirdness, and it costs nothing.",
+    "must_try": "The mass emergence at dusk in late July, when the newborn pups take to the sky",
+    "hours": "Nightly emergence around sunset, roughly mid-March through early October",
+    "seasonal": "Peak viewing mid-March–mid-April and late July–August; a lull late May–mid July while pups are born",
+    "modes": [
+      "family",
+      "chill",
+      "romantic",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Barton Creek Greenbelt",
+    "address": "Multiple trailheads incl. 3755 S Capital of Texas Hwy, Austin, TX 78746",
+    "phone": null,
+    "website": "https://www.austintexas.gov/parks/locations/barton-creek-greenbelt",
+    "category": "outdoor_adventure",
+    "subcategory": "hiking & swimming holes",
+    "price": "$",
+    "rating": null,
+    "description": "Twelve-plus miles of limestone canyon, cypress shade, and hidden swimming holes threading right through the middle of the city. Rock climbers chalk up on the cliffs, mountain bikers rattle the rocky singletrack, and after a good rain the creek fills up and Twin Falls, Sculpture Falls, and Campbell's Hole become the swimming spots every Austinite guards like a secret. A word of hard-won local wisdom: check the creek flow gauge first, because a dry Greenbelt is a dusty hike to nowhere.",
+    "must_try": "A cool-off swim at Sculpture Falls or Twin Falls two-to-four days after a spring rain",
+    "hours": "Generally 5 AM–10 PM; paid daily parking 8 AM–8 PM at several trailheads",
+    "seasonal": "Swimming holes run best March–June and after any big rain; check the Barton Creek flow gauge before hiking in",
+    "modes": [
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ann and Roy Butler Hike-and-Bike Trail & Boardwalk",
+    "address": "Lady Bird Lake, Austin, TX 78704 (10-mile loop, Zilker to Guerrero Park)",
+    "phone": null,
+    "website": "https://www.austintexas.gov/parks/locations/ann-and-roy-butler-hike-and-bike-trail-and-boardwalk-lady-bird-lake",
+    "category": "outdoor_adventure",
+    "subcategory": "urban trail loop",
+    "price": "$",
+    "rating": null,
+    "description": "Austin's front porch — a 10-mile loop hugging Lady Bird Lake that draws over two-and-a-half million visits a year and somehow never feels like a crowd. Runners, dog-walkers, cyclists, and stroller pushers share a tree-lined path that slips under downtown towers, past ball fields, and out onto the over-water Boardwalk on the south shore. Walk the whole ring or just the postcard mile, and time it to pass the bat bridge at sundown for two Austin icons in one outing.",
+    "must_try": "The over-water Boardwalk section on the south shore at golden hour",
+    "hours": "Open daily; well-lit main stretches",
+    "seasonal": "As of 2026, sections near Rainey Street and I-35 have construction reroutes; Willow Street access closed — check current signage",
+    "modes": [
+      "chill",
+      "family",
+      "adventurer",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "McKinney Falls State Park",
+    "address": "5808 McKinney Falls Pkwy, Austin, TX 78744",
+    "phone": null,
+    "website": "https://tpwd.texas.gov/state-parks/mckinney-falls",
+    "category": "outdoor_adventure",
+    "subcategory": "state park",
+    "price": "$",
+    "rating": null,
+    "description": "Proof you don't have to leave the city limits to find real Hill Country. Just 13 miles from the Capitol, Onion Creek slides over broad limestone ledges into swimming holes at the Upper and Lower Falls, and nearly nine miles of trail wind past a 19th-century homestead and an old Native American rock shelter. Camp, fish, or just wade the slick rock — it's a full state-park experience a short drive from downtown.",
+    "must_try": "Wading and swimming at the Upper Falls on Onion Creek after the Onion Creek Trail loop",
+    "hours": "Gates open daily 8 AM–10 PM; office hours vary",
+    "seasonal": "Fills to capacity on summer weekends — day-use and camping reservations strongly recommended",
+    "modes": [
+      "family",
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wimberley Zipline Adventures",
+    "address": "376 Winn Valley Dr, Wimberley, TX 78676",
+    "phone": null,
+    "website": "https://wimberleyzipline.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "zipline canopy tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "Worth the drive out into the Hill Country. Ten separate ziplines strung across a scenic Wimberley canyon, run by reservation with all the gear, training, and a guided walking tour rolled in. The two-hour trip is equal parts adrenaline and postcard scenery, and if you time it right you can race down the last three lines under moonlight. A proper day-trip adventure about 45 minutes southwest of Austin.",
+    "must_try": "The sunset/moonlight tour racing down three lines in the dark",
+    "hours": "By reservation only; tours run roughly 1.5–2 hours",
+    "seasonal": "Year-round by reservation; a Hill Country side trip ~45 min from Austin",
+    "modes": [
+      "adventurer",
+      "family",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Live Love Paddle",
+    "address": "1610 E Riverside Dr, Austin, TX 78741",
+    "phone": "(512) 804-2122",
+    "website": "https://www.livelovepaddle.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "guided kayak & SUP tours",
+    "price": "$$$",
+    "rating": null,
+    "description": "Operating out of the AMLI Southshore building right on Lady Bird Lake, this crew turns a paddle into an evening to remember. Their signature Full Moon Music Paddle takes you by kayak or board to a secluded island for a live acoustic set, a campfire, s'mores, and a sunset off the water. It's the kind of only-in-Austin experience that sounds made up until you're sitting on that island with a marshmallow and a moon overhead.",
+    "must_try": "The Full Moon Music Paddle — island campfire, s'mores, and a live acoustic set from the water",
+    "hours": null,
+    "seasonal": "Full Moon tours run on monthly full-moon dates; reservations required",
+    "modes": [
+      "romantic",
+      "music",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mount Bonnell (Covert Park)",
+    "address": "3800 Mount Bonnell Rd, Austin, TX 78731",
+    "phone": null,
+    "website": "https://www.austintexas.org/listings/covert-park-at-mt-bonnell/2925/",
+    "category": "outdoor_adventure",
+    "subcategory": "scenic overlook",
+    "price": "$",
+    "rating": null,
+    "description": "One of Austin's highest points at 781 feet, reached by a short-but-real stair climb that pays out one of the best free views in the city. From the top you look down on the emerald bend of Lake Austin, the cliffside mansions, and Hill Country rolling west. Locals have been bringing dates up here for well over a century — sunrise is peaceful, sunset is the classic. Bring water and good shoes for the steps.",
+    "must_try": "The stone-step climb to the summit overlook of Lake Austin at sunset",
+    "hours": "Daily 5 AM–10 PM",
+    "seasonal": "Year-round; sunrise and sunset draw the crowds, midday summer heat is exposed",
+    "modes": [
+      "romantic",
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hamilton Pool Preserve",
+    "address": "24300 Hamilton Pool Rd, Dripping Springs, TX 78620",
+    "phone": "(512) 854-7275",
+    "website": "https://parks.traviscountytx.gov/parks/hamilton-pool-preserve",
+    "category": "outdoor_adventure",
+    "subcategory": "natural swimming grotto",
+    "price": "$$",
+    "rating": null,
+    "description": "A jaw-dropper: a collapsed limestone grotto where a 50-foot waterfall spills over a fern-draped ledge into a jade-green pool. It's a protected preserve, so this one takes planning — a timed reservation booked online in advance, plus a cash entrance fee at the gate and a short, steep hike down. Swimming isn't guaranteed (it closes when bacteria levels run high), but even from the trail this Hill Country cathedral is worth the trip ~45 minutes west of town.",
+    "must_try": "A swim beneath the 50-foot grotto waterfall when the pool is open for swimming",
+    "hours": "Reservation slots 9 AM–12:30 PM and 2 PM–5:30 PM daily",
+    "seasonal": "Advance online reservation required every day; swimming not guaranteed; bring cash for entrance fee",
+    "modes": [
+      "adventurer",
+      "romantic",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Walnut Creek Metropolitan Park",
+    "address": "12138 N Lamar Blvd, Austin, TX 78753",
+    "phone": null,
+    "website": "https://www.austintexas.gov/department/parks-and-recreation",
+    "category": "outdoor_adventure",
+    "subcategory": "mountain biking trails",
+    "price": "$",
+    "rating": null,
+    "description": "North Austin's mountain-biking playground — 15 miles of dirt across a 293-acre park, with everything from mellow green loops to rock-garden black diamonds. Creek crossings, limestone canyons, and thick shade keep it interesting, and the main Metro Loop is a rite of passage for local riders. Hikers and trail runners share the singletrack too. Just don't ride it wet — the clay turns to trail-wrecking muck after rain.",
+    "must_try": "The ~8.8-mile Walnut Creek Metro Loop through the shaded singletrack",
+    "hours": "Open daily during park hours",
+    "seasonal": "Avoid riding when trails are wet or muddy to prevent damage; best in dry conditions",
+    "modes": [
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Wild Basin Wilderness Preserve",
+    "address": "805 N Capital of Texas Hwy, Austin, TX 78746",
+    "phone": null,
+    "website": "https://www.stedwards.edu/academics/centers-institutes-arts/wild-basin/visit",
+    "category": "outdoor_adventure",
+    "subcategory": "nature preserve & hiking",
+    "price": "$",
+    "rating": null,
+    "description": "227 acres of genuine Hill Country wildness pressed right up against West Lake Hills, managed by St. Edward's University as a living research preserve. Two-and-a-half miles of trail drop through juniper and oak to creek crossings and a limestone overlook, home to the endangered golden-cheeked warbler in spring. Free and reservation-free on weekdays — a quiet, close-in escape that feels a lot farther from the city than it is.",
+    "must_try": "The Arroyo Vista trail down to the scenic creek overlook",
+    "hours": "Opens 7 AM daily; visitors must exit before gate closure (8:30 PM in summer)",
+    "seasonal": "Free with no reservation on weekdays; weekends and federal holidays require a reservation and a small fee",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Emma Long Metropolitan Park",
+    "address": "1600 City Park Rd, Austin, TX 78730",
+    "phone": null,
+    "website": "https://www.austintexas.gov/parks/emma-long-metropolitan-park",
+    "category": "outdoor_adventure",
+    "subcategory": "lakeside park & camping",
+    "price": "$",
+    "rating": null,
+    "description": "Austin's oldest metro park sprawls over 1,100-plus acres along Lake Austin, with a sandy swimming beach tucked safely between two docks, boat ramps for getting on the water, and waterfront campsites just minutes from downtown. It's where locals go to pitch a tent, launch a boat, or picnic by the lake without driving to the Hill Country. Rugged, roomy, and refreshingly unpolished.",
+    "must_try": "Swimming off the sandy Lake Austin beach between the two docks",
+    "hours": "Daily 7 AM–10 PM",
+    "seasonal": "Day-entry passes required Fri–Sun and holidays March–September; water utilities off July 21–Sept 30, 2026, for maintenance (portable toilets only)",
+    "modes": [
+      "family",
+      "chill",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Pedernales Falls State Park",
+    "address": "2585 Park Rd 6026, Johnson City, TX 78636",
+    "phone": null,
+    "website": "https://tpwd.texas.gov/state-parks/pedernales-falls",
+    "category": "outdoor_adventure",
+    "subcategory": "state park",
+    "price": "$",
+    "rating": null,
+    "description": "About 30 miles west, the Pedernales River stair-steps over tilted slabs of ancient limestone in a scene that stops first-time visitors cold. Hike the short Twin Falls Nature Trail to the overlook, tackle the six-mile Wolf Mountain loop, or bike the technical Juniper Ridge singletrack. Swimming's allowed downstream at the designated beach (not at the falls themselves). Heed the flash-flood warnings — this river can rise fast, so check conditions before you go.",
+    "must_try": "The Twin Falls overlook, then a cool-off at the downstream swimming beach",
+    "hours": "Open daily for day use",
+    "seasonal": "Side trip ~45 min–1 hr west; swimming banned at the falls, allowed downstream; check flash-flood conditions after rain",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Keep Austin Wet Watercraft (Lake Travis)",
+    "address": "Departs Volente Beach Resort, 16107 FM 2769, Leander, TX 78641",
+    "phone": null,
+    "website": "https://keepaustinwetwatercraft.com/",
+    "category": "outdoor_adventure",
+    "subcategory": "boat rental & charters",
+    "price": "$$$$",
+    "rating": null,
+    "description": "When Austin wants to party on the water, it heads to Lake Travis — and this is one of the lake's most-reviewed rental outfits, running captained party boats, pontoons, and wakesurf boats out of Volente Beach. The marquee run is Devil's Cove, a protected north-shore cove about ten minutes out by boat where hundreds of vessels raft up into the biggest floating party in Texas on summer weekends. Lake Travis is full for 2026, so the water's high and the season's on.",
+    "must_try": "A captained party-boat run out to the Devil's Cove float-up",
+    "hours": null,
+    "seasonal": "Peak scene Fridays and Saturdays from Memorial Day through Labor Day; Devil's Cove is boat-access only",
+    "modes": [
+      "nightlife",
+      "adventurer",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Ann and Roy Butler Hike-and-Bike Trail",
+    "address": "Ann and Roy Butler Hike-and-Bike Trail, around Lady Bird Lake, Austin, TX 78701",
+    "phone": null,
+    "website": null,
+    "category": "outdoor_adventure",
+    "subcategory": "free urban trail",
+    "price": "$",
+    "rating": null,
+    "description": "The 10-mile loop that stitches this whole corridor together, free and open dawn to dark. Walk it from Rainey down to the boardwalk over the water, past paddlers and skyline views, and you'll understand how Austin lives outdoors. It connects Rainey Street, the downtown boathouses, Barton Springs and the bat bridge without a single toll booth. Bring water and mind the July heat.",
+    "must_try": "The over-water boardwalk section on the southeast shore at golden hour, with the downtown skyline across the lake",
+    "hours": "Daily, roughly 5 AM to midnight",
+    "seasonal": "Go early or near sunset in summer; midday heat is no joke here",
+    "modes": [
+      "chill",
+      "adventurer",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Hotel Van Zandt",
+    "address": "605 Davis St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.hotelvanzandt.com/",
+    "category": "lodging",
+    "subcategory": "music-themed boutique hotel",
+    "price": "$$$",
+    "rating": null,
+    "description": "The Kimpton that anchors the north end of Rainey Street, 319 rooms dressed up with a music-and-Austin swagger by designer Mark Zeff. You could not pick a more central launchpad for this corridor: walk out the door onto Rainey's bar cottages, a short stroll to the lake and the bat bridge, and never fetch your car. There's a heated 4th-floor rooftop pool with skyline and lake views, and live music downstairs at Geraldine's. Check rates well ahead of SXSW and ACL, when this place vanishes.",
+    "must_try": "A sunset cocktail at the rooftop pool deck before heading down to a Geraldine's set",
+    "hours": null,
+    "seasonal": "Books out fast for SXSW (March) and ACL (October); best rates tend toward July and August",
+    "modes": [
+      "music",
+      "romantic",
+      "nightlife",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "The Loren at Lady Bird Lake",
+    "address": "1211 W Riverside Dr, Austin, TX 78704",
+    "phone": null,
+    "website": "https://www.thelorenhotels.com/austin",
+    "category": "lodging",
+    "subcategory": "luxury lakeside hotel",
+    "price": "$$$$",
+    "rating": null,
+    "description": "The splurge on the south shore, a treehouse-feeling luxury property looking straight across the water at the downtown skyline. If Van Zandt is the music-and-margaritas play, the Loren is the romantic one: quiet rooms, a rooftop restaurant built for sunset, and the hike-and-bike trail out the back door. You are minutes from Barton Springs and a short lap of the lake from the bat bridge. See availability early for weekends and festival season.",
+    "must_try": "Sunset cocktails on the rooftop with the full skyline lit up across Lady Bird Lake",
+    "hours": null,
+    "seasonal": "Premium rates around SXSW and ACL; sunset views are the year-round draw",
+    "modes": [
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Stubb's Bar-B-Q",
+    "address": "801 Red River St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://stubbsaustin.com/",
+    "category": "entertainment",
+    "subcategory": "live music venue and barbecue",
+    "price": "$$",
+    "rating": null,
+    "description": "The beating heart of the Red River Cultural District: a 2,000-plus-capacity outdoor amphitheater under the oaks along Waller Creek, a cozy indoor room for smaller sets, and honest Texas barbecue holding it all together. National headliners play the big yard, emerging locals fill the inside stage, and the Sunday gospel brunch is an institution. Grab a plate, then catch a show without moving your car. Book show tickets ahead; the good nights sell out.",
+    "must_try": "Brisket and a beer in the outdoor amphitheater before the headliner, or the Sunday Gospel Brunch",
+    "hours": "Restaurant Mon-Wed 11 AM-9 PM, Thu-Sat 11 AM-10 PM, Sun 11 AM-9 PM",
+    "seasonal": "Free Hot Summer Nights showcases hit the district in July; SXSW week is packed",
+    "modes": [
+      "music",
+      "foodie",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mohawk",
+    "address": "912 Red River St, Austin, TX 78701",
+    "phone": "(512) 666-0877",
+    "website": "https://mohawkaustin.com/",
+    "category": "entertainment",
+    "subcategory": "indie live music venue",
+    "price": "$$",
+    "rating": null,
+    "description": "Across the way from Stubb's on the corner of 10th and Red River, the Mohawk is the district's gritty, tiered-patio soul. Indoor and outdoor stages run rock, punk, indie, hip-hop and experimental sets from national touring acts down to the best emerging local bands. Grab a spot on the multi-level deck, cheap-ish drink in hand, and let the noise wash up over you. This is Austin's live-music engine room, no velvet ropes in sight.",
+    "must_try": "An outdoor-stage show watched from the upper tiers of the patio",
+    "hours": null,
+    "seasonal": "Heavy programming during SXSW (March), ACL season (October) and summer",
+    "modes": [
+      "music",
+      "nightlife"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Geraldine's",
+    "address": "605 Davis St, 4th Floor (Hotel Van Zandt), Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.hotelvanzandt.com/",
+    "category": "entertainment",
+    "subcategory": "live music restaurant and lounge",
+    "price": "$$$",
+    "rating": null,
+    "description": "Up on the fourth floor of Hotel Van Zandt, Geraldine's is where the Rainey end of the corridor gets dressed up. Local singer-songwriters and bands play nightly Thursday through Sunday alongside a real kitchen and a proper cocktail program, with jazz brunches rounding out the weekends. It's the polished, romantic counterweight to a sweaty Red River rock show: same city, same live-music religion, comfier pew. Book a table on show nights.",
+    "must_try": "A window table for the nightly live set with the skyline behind the band",
+    "hours": null,
+    "seasonal": "Jazz brunches on select weekends; live music Thursday-Sunday",
+    "modes": [
+      "music",
+      "romantic",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Banger's Sausage House & Beer Garden",
+    "address": "79, 81 & 81.5 Rainey St, Austin, TX 78701",
+    "phone": "(512) 386-1656",
+    "website": "https://www.bangersaustin.com/",
+    "category": "dining",
+    "subcategory": "sausage house and beer garden",
+    "price": "$$",
+    "rating": null,
+    "description": "The rowdy, tail-wagging center of Rainey Street: 200-plus beers on tap, a couple dozen house-made sausages, and one of the liveliest music stages on the block, all spilling across a big shaded beer garden. Bring the dog, bring the group, order a board of links and a stein and let the afternoon stretch long. This is the food-truck-line-patience, zero-pretension Austin the corridor is built on.",
+    "must_try": "A house-made sausage board with a couple pours from the enormous tap wall in the beer garden",
+    "hours": null,
+    "seasonal": "Patio-perfect most of the year; shaded relief in summer heat",
+    "modes": [
+      "foodie",
+      "music",
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Half Step",
+    "address": "75 1/2 Rainey St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://www.halfstepbar.com/",
+    "category": "bars_nightlife",
+    "subcategory": "craft cocktail bar",
+    "price": "$$",
+    "rating": null,
+    "description": "The craft-cocktail heart of Rainey, set in a refurbished cottage with a stage inside and a big oak-shaded patio out back, complete with picnic tables, an outdoor bar and a food truck. The bartenders take classic recipes seriously without taking themselves seriously, and there's live music including a beloved Tuesday-night jazz set. Come for a properly made drink between the beer gardens and the lake.",
+    "must_try": "A classic cocktail on the back patio during the Tuesday-night jazz set",
+    "hours": "Mon-Thu 4 PM-2 AM, Fri-Sun 12 PM-2 AM",
+    "seasonal": "Happy hour Tuesday-Friday 4-7 PM; patio shines outside peak summer heat",
+    "modes": [
+      "nightlife",
+      "chill",
+      "music"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Home Slice Pizza",
+    "address": "1415 S Congress Ave, Austin, TX 78704",
+    "phone": "(512) 444-7437",
+    "website": "https://homeslicepizza.com/location/south-congress/",
+    "category": "dining",
+    "subcategory": "New York-style pizza",
+    "price": "$$",
+    "rating": null,
+    "description": "The SoCo institution for a foldable, honest slice of New York-style pizza, by the pie or by the slice out the walk-up window next door. After a Continental Club set or a stroll down South Congress, this is the no-fuss refuel the whole corridor relies on. Cheese slice in one hand, people-watching on the Avenue, exactly the kind of unfussy pleasure Austin protects.",
+    "must_try": "A classic cheese slice from the by-the-slice window",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Güero's Taco Bar",
+    "address": "1412 S Congress Ave, Austin, TX 78704",
+    "phone": "(512) 447-7688",
+    "website": "https://gueros.com/venue/gueros-taco-bar/",
+    "category": "dining",
+    "subcategory": "Tex-Mex with live music garden",
+    "price": "$$",
+    "rating": null,
+    "description": "A South Congress landmark for handmade-tortilla tacos, sizzling fajitas and cold margaritas, with a shaded Oak Garden out back where free live music plays several days a week. Order a plate, claim a picnic table under the trees, and you've got the SoCo version of the corridor's food-and-music formula in one stop. Weekend afternoons in the garden are peak Austin.",
+    "must_try": "Al pastor tacos and a margarita in the Oak Garden while a local band plays",
+    "hours": "Mon-Tue 11 AM-9 PM, Wed-Sat 11 AM-10 PM, Sun 11 AM-9 PM",
+    "seasonal": "Oak Garden live music is best on warm-weekend afternoons",
+    "modes": [
+      "foodie",
+      "music",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Lone Star Riverboat",
+    "address": "South shore boarding dock, Lady Bird Lake near the S. First Street Bridge, Austin, TX 78704",
+    "phone": null,
+    "website": "https://lonestarriverboat.com/",
+    "category": "entertainment",
+    "subcategory": "bat-watching sunset cruise",
+    "price": "$",
+    "rating": null,
+    "description": "The paid pairing to that free bridge spectacle: board one of the small Star boats and float right into the middle of the nightly bat exodus, skyline glowing behind you. Adults run about $14, kids less, and the cruise leaves roughly 30 minutes before sunset. If you'd rather watch the bats from the water than the crowded sidewalk, this is the move. Reserve online, since summer nights sell out.",
+    "must_try": "The sunset bat-watching cruise, on the water directly beneath the emergence",
+    "hours": "Departs approximately 30 minutes before sunset in season; boarding begins 45 minutes prior",
+    "seasonal": "Bat-watching cruises run March through November",
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Austin Detours Hill Country Wine Shuttle",
+    "address": "Pickup at Austin Visitor Center, 103 E 5th St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://austindetours.com/hill-country-wine-tour/",
+    "category": "services",
+    "subcategory": "guided Hill Country wine tour",
+    "price": "$$$",
+    "rating": null,
+    "description": "The easy, don't-drive-yourself way into Hill Country wine country: a small-group Mercedes Sprinter run out to the Driftwood and Wimberley wineries about 45 minutes southwest, with a local guide and no more than ten people aboard. Pickup is right downtown at the Visitor Center, so it slots neatly into a corridor weekend. Tasting fees are paid at each winery, so budget a little extra. Book a tour ahead, especially in spring and fall.",
+    "must_try": "The half-day three-winery shuttle out to the Driftwood tasting rooms",
+    "hours": "Half-day shuttle departs early afternoon; BBQ-and-wine option departs mid-morning",
+    "seasonal": "Spring wildflower season and fall are the loveliest drives out",
+    "modes": [
+      "foodie",
+      "chill",
+      "romantic",
+      "adventurer"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BookPeople",
+    "address": "603 N Lamar Blvd, Austin, TX 78703",
+    "phone": "(512) 472-5050",
+    "website": "https://bookpeople.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Texas' largest independent bookstore and the beating heart of literary Austin since 1970, two rambling floors where you can lose a whole afternoon wandering staircases, grab an espresso from the cafe, and stumble into one of the 300-plus author events they host a year. No pretension, just books and the people who love them. Voted the city's best for two decades running.",
+    "must_try": "The staff-recommendation shelves on the second floor and the signed first-edition table near the front",
+    "hours": null,
+    "seasonal": "Marquee author events cluster around the Texas Book Festival each fall",
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "BookWoman",
+    "address": "5501 N Lamar Blvd Ste A-105, Austin, TX 78751",
+    "phone": "(512) 472-2785",
+    "website": "https://ebookwoman.com",
+    "category": "shopping",
+    "subcategory": "bookstore",
+    "price": "$$",
+    "rating": null,
+    "description": "Austin's only feminist bookstore since 1975 and the last of its kind in all of Texas, tucked into the North Loop neighborhood. This is a keep-it-weird cornerstone with deep shelves of women's, queer, and independent voices and a fierce sense of community. Every day is Pride here.",
+    "must_try": "The local zines and Texas women authors section",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Waterloo Records",
+    "address": "600A N Lamar Blvd, Austin, TX 78703",
+    "phone": "(512) 474-2500",
+    "website": "https://waterloorecords.com",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Since 1982 this is the record store that put the Live Music Capital's crate-digging on the map, a name that lands on best-of lists year after year. LPs, 45s, CDs, turntables, and free in-store sets from the likes of Gary Clark Jr. Now settled into a bigger North Lamar home with a bar and podcast studio. Come for the vinyl, stay for whoever's plugging in.",
+    "must_try": "Flipping through the deep Texas and local-artist bins, then catching a free in-store performance",
+    "hours": "10am-9pm daily (closed Thanksgiving and Christmas)",
+    "seasonal": "In-store performances spike during SXSW in March and ACL in October",
+    "modes": [
+      "music",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "End of an Ear",
+    "address": "4304 Clawson Rd, Austin, TX 78704",
+    "phone": "(512) 462-6008",
+    "website": "https://endofanear.com",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "A South Austin gem since 2005, run by folks who genuinely want you to walk out with something you didn't know you needed. Fairly priced new and used vinyl, a room full of stereo gear, and a taste that leans gloriously niche, with its own record label to boot. This is where the record nerds send you.",
+    "must_try": "Digging the experimental, jazz, and local-release bins the staff are quietly obsessed with",
+    "hours": "11am-8pm daily",
+    "seasonal": "Special drops on Record Store Day each April",
+    "modes": [
+      "music",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Antone's Record Shop",
+    "address": "2928 Guadalupe St, Austin, TX 78705",
+    "phone": "(512) 322-0660",
+    "website": "https://antonesrecordshop.com",
+    "category": "shopping",
+    "subcategory": "record store",
+    "price": "$$",
+    "rating": null,
+    "description": "Opened in 1987 in the shadow of the legendary blues club, still in its original spot on the Drag just north of UT. This is Austin blues royalty in retail form, heavy on Texas artists, blues, and soul, with a wall of used LPs, 45s, and even 78s for the true diggers. A living piece of the city's music DNA.",
+    "must_try": "The blues and Texas-artist crates and the vintage 45s and 78s",
+    "hours": "11am-7pm daily",
+    "seasonal": "Record Store Day exclusives each April",
+    "modes": [
+      "music",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Allens Boots",
+    "address": "1522 S Congress Ave, Austin, TX 78704",
+    "phone": "(512) 447-1413",
+    "website": "https://www.allensboots.com",
+    "category": "shopping",
+    "subcategory": "western wear",
+    "price": "$$$",
+    "rating": null,
+    "description": "You'll spot the giant red boot over the door long before you reach it, the truest South Congress landmark there is. Since 1977, Allens has stacked more than 4,000 pairs of real Texas boots, Lucchese to Tony Lama, alongside hats, denim, and everything you need to look like you belong here. Musicians, movie stars, and first-timers all pull on a pair.",
+    "must_try": "Trying on a pair of Lucchese boots under the neon and the wall of Charlie 1 Horse hats",
+    "hours": "Mon-Sat 9am-8pm, Sun 11am-6pm",
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Uncommon Objects",
+    "address": "1602 Fortview Rd, Austin, TX 78704",
+    "phone": "(512) 442-4000",
+    "website": "https://www.uncommonobjects.com",
+    "category": "shopping",
+    "subcategory": "antiques",
+    "price": "$$$",
+    "rating": null,
+    "description": "An antique emporium that reads more like a cabinet of curiosities, where two dozen dealers pile a genuine, gloriously weird slice of American history under one roof. Taxidermy, old photographs, letterpress type, oddball ephemera. Founded in 1991 and now settled into South Austin after decades on Congress, it's browsing as treasure hunt.",
+    "must_try": "Losing an hour in the vintage photograph and curiosities cases",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "STAG Provisions for Men",
+    "address": "1423 S Congress Ave, Austin, TX 78704",
+    "phone": "(512) 373-7824",
+    "website": "https://stagprovisions.com",
+    "category": "shopping",
+    "subcategory": "menswear",
+    "price": "$$$",
+    "rating": null,
+    "description": "A modern-day general store for men on South Congress, named a top-ten menswear shop in America by GQ and Esquire. Contemporary clothing with classic roots, plus rugged goods, grooming, and heritage brands like imogene + willie and RRL. Upscale without a whiff of stuffiness, which is about as Austin as menswear gets.",
+    "must_try": "The selvedge denim and waxed-canvas goods",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Feathers Boutique Vintage",
+    "address": "1700B S Congress Ave, Austin, TX 78704",
+    "phone": null,
+    "website": "https://feathersboutiquevintage.com",
+    "category": "shopping",
+    "subcategory": "vintage clothing",
+    "price": "$$",
+    "rating": null,
+    "description": "Since 2005, a carefully curated stash of wearable antique and vintage fashion on South Congress, run on the honest belief that great vintage should be accessible and affordable. Racks of decades-spanning finds for anyone hunting a one-of-a-kind piece with a story already stitched in. Enter around the side on Milton.",
+    "must_try": "Hunting the vintage dress and Western-shirt racks for a genuine one-off",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "By George",
+    "address": "1400 S Congress Ave, Austin, TX 78704",
+    "phone": "(512) 441-8600",
+    "website": "https://bygeorge.com",
+    "category": "shopping",
+    "subcategory": "fashion boutique",
+    "price": "$$$$",
+    "rating": null,
+    "description": "Austin's long-standing address for high fashion, where the racks read like a compilation of the season's runway greatest hits. Designer womenswear and menswear for the shopper who wants Givenchy and Helmut Lang without flying to the coasts. Serious luxury, delivered with laid-back Texas ease.",
+    "must_try": "The curated designer collection and the fine jewelry case",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Take Heart",
+    "address": "1211 E 11th St Ste 100, Austin, TX 78702",
+    "phone": "(512) 366-5667",
+    "website": "https://www.takeheartshop.com",
+    "category": "shopping",
+    "subcategory": "gift and home goods",
+    "price": "$$",
+    "rating": null,
+    "description": "A thoughtfully assembled little shop on historic East 11th, right in the heart of the East Side. Modern and vintage home goods, small-batch jewelry, cards, and giftable objects chosen with real care and an artist's eye. The kind of place you duck into for a gift and leave with something for yourself.",
+    "must_try": "The handmade ceramics and letterpress cards",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "chill",
+      "romantic",
+      "family"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "SFC Farmers' Market Downtown",
+    "address": "Republic Square, 422 Guadalupe St, Austin, TX 78701",
+    "phone": null,
+    "website": "https://sustainablefoodcenter.org",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "The Sustainable Food Center's downtown market brings 75-plus vendors to shady Republic Square every Saturday morning, all local farms, ranches, and small food makers. Come for the peaches and pork, stay for the breakfast tacos and the whole-family, low-key hum of Austin doing its weekend right.",
+    "must_try": "A prepared-food breakfast from a vendor stall and a haul of Hill Country produce",
+    "hours": "Saturdays 9am-1pm",
+    "seasonal": "Fredericksburg peaches in late spring and summer; tightest produce selection at harvest",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Texas Farmers' Market at Mueller",
+    "address": "Branch Park Pavilion, 4550 Mueller Blvd, Austin, TX 78723",
+    "phone": null,
+    "website": "https://texasfarmersmarket.org",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "A Texas-sized Sunday ritual at Mueller, so beloved it outgrew its old hangar for a 20,000-square-foot pavilion. Locally raised meats, fresh produce, baked goods, flowers, and craft vendors, plus a food-truck court to graze while you shop. Bring the kids and the whole morning.",
+    "must_try": "Grazing the food trucks between stalls of local honey and fresh bouquets",
+    "hours": "Sundays 10am-2pm",
+    "seasonal": "Peak produce and peaches in summer",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": true
+  },
+  {
+    "name": "Barton Creek Farmers Market",
+    "address": "2901 S Capital of Texas Hwy, Austin, TX 78746",
+    "phone": "(512) 280-1976",
+    "website": "https://bartoncreekfarmersmarket.org",
+    "category": "shopping",
+    "subcategory": "farmers market",
+    "price": "$$",
+    "rating": null,
+    "description": "Billed as Austin's original farmers market, set on the back edge of the Barton Creek Square lot with a knockout view of the downtown skyline. Every Saturday, rain or shine, year round: fresh breads, cheeses, pasture-raised meats, organic produce, and live music to shop by.",
+    "must_try": "Fresh-baked bread and Fredericksburg peaches in season, with live music playing",
+    "hours": "Saturdays 9am-1pm, year round",
+    "seasonal": "Fredericksburg peaches late spring through summer",
+    "modes": [
+      "foodie",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Mellow Johnny's Bike Shop",
+    "address": "115 Sandra Muraida Way Ste 102, Austin, TX 78703",
+    "phone": "(512) 473-0222",
+    "website": "https://shop.mellowjohnnys.com",
+    "category": "services",
+    "subcategory": "bike rental",
+    "price": "$$$",
+    "rating": null,
+    "description": "A downtown institution since 2008, this is your launch pad for the Butler Hike-and-Bike Trail around Lady Bird Lake. Daily, weekly, and monthly rentals span city cruisers to spicy road bikes and gravel workhorses, all kitted with helmet, lock, and lights. There's even a coffee counter for your pre-ride fuel.",
+    "must_try": "Renting a city bike and looping the 10-mile Butler Trail around Lady Bird Lake",
+    "hours": null,
+    "seasonal": null,
+    "modes": [
+      "adventurer",
+      "chill"
+    ],
+    "needs_verification": false
+  },
+  {
+    "name": "Zilker Park Boat Rentals",
+    "address": "2101 Andrew Zilker Rd, Austin, TX 78746",
+    "phone": "(512) 478-3852",
+    "website": "https://www.zilkerboats.com",
+    "category": "services",
+    "subcategory": "kayak and canoe rental",
+    "price": "$$",
+    "rating": null,
+    "description": "Right on the banks of Barton Creek just downstream from the springs, this is the no-fuss way onto the water. Canoes, kayaks, and paddleboards for about fifteen bucks an hour, paddled out toward that postcard downtown skyline. Bring a photo ID and cash, because that's how they roll here.",
+    "must_try": "Paddling a canoe up Barton Creek toward the Barton Springs inlet",
+    "hours": "Roughly 10am to dusk daily, weather permitting (cash only)",
+    "seasonal": "Busiest in the summer heat; call ahead in cooler or rainy months",
+    "modes": [
+      "adventurer",
+      "family",
+      "chill"
+    ],
+    "needs_verification": false
+  }
+]

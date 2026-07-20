@@ -1,0 +1,51 @@
+[
+  {
+    "id": "the-250-trail-miami",
+    "title": "The 250 Trail: Miami — Two Exile Capitals",
+    "hook": "Two capitals-in-exile, a few miles apart — cafecito windows and domino tables on Calle Ocho, griot and kompa up Northeast Second. Walk the axis where two islands rebuilt their homelands and remade an American city.",
+    "narrative": "Miami runs on two engines built by two islands. The first fires on Calle Ocho, where Cubans who left after 1959 rebuilt their capital from memory: Felipe Valls Sr. opened Versailles in 1971 and helped turn the ventanita — the walk-up cafecito window — into the city's town square, while the domino tables at Máximo Gómez Park have clacked on the corner of Eighth and Fifteenth since the early seventies. Down the block, Ball & Chain opened as a saloon in 1935; Billie Holiday and Count Basie played that room long before it became the neighborhood's salsa floor. The second engine hums a few miles northeast, in what was Lemon City — a settlement older than Miami itself. Haitian families arriving in the 1970s and '80s made it their main street; when community elder Viter Juste called it 'Little Port-au-Prince' in the Miami Herald, editors shortened the name to Little Haiti, and in 2016 the city made it official. Wilkinson Sejour has fried griot there since 1992, kompa still pours out of storefronts along Northeast Second Avenue, and lately a Michelin star hides in a neighborhood strip mall. This trail runs the axis between the two — cafecito to griot, son to kompa — and lands on one very American lesson: bring everything you love with you, then share it.",
+    "neighborhoods": [
+      "Little Havana / Calle Ocho",
+      "Little Haiti / NE 2nd Avenue",
+      "Little River"
+    ],
+    "stops": [
+      {
+        "biz": "Versailles Restaurant",
+        "note": "Start at the mirrored mothership Felipe Valls Sr. opened in 1971. Order a colada at the ventanita — the walk-up window Valls helped make a Miami institution — and share the thimble cups like you're supposed to."
+      },
+      {
+        "biz": "Sanguich de Miami",
+        "note": "The Cuban sandwich as a craft object — house-cured meats, Michelin recognition, croquetas worth the line. Proof the old foodways on Calle Ocho are still sharpening."
+      },
+      {
+        "biz": "Little Havana Cigar Factory",
+        "note": "Watch the rollers work the leaf at the front table — a trade that crossed the Straits with the exiles. Buy one house-rolled and save it for the last stop."
+      },
+      {
+        "biz": "Azucar Ice Cream Company",
+        "note": "Cuban childhood by the scoop — the signature Abuela Maria folds guava, cream cheese, and Maria crackers into one cone. Eat it on the corner by Máximo Gómez Park, where the domino tables have clacked since the early seventies."
+      },
+      {
+        "biz": "Ball & Chain",
+        "note": "This corner opened as a saloon in 1935, and Billie Holiday and Count Basie once played the room. Revived, it's now Little Havana's live-salsa floor — nobody checks your footwork."
+      },
+      {
+        "biz": "Cafe La Trova",
+        "note": "Cantinero Julio Cabrera shakes daiquiris the old Havana way while James Beard Award winner Michelle Bernstein runs the kitchen. The dressed-up peak of the trail's Cuban half."
+      },
+      {
+        "biz": "Chef Creole Seasoned Kitchen",
+        "note": "Cross the axis: Wilkinson Sejour opened his first spot at 77th and Northeast Second in 1992 and has been frying griot ever since. Order the conch too, and eat it under the thatched roof."
+      },
+      {
+        "biz": "Boia De",
+        "note": "A Michelin star tucked behind a neon exclamation point in a Little Haiti strip mall — 27 seats, big feelings. The corridor's newest chapter, written small and brilliant."
+      },
+      {
+        "biz": "Sunny's Steakhouse",
+        "note": "End in Little River at the open-air courtyard — a pop-up that grew into one of the country's most talked-about steakhouses. Light the cigar from stop three and toast both islands."
+      }
+    ]
+  }
+]

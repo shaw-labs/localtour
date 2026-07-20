@@ -4,9 +4,23 @@
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Brand faces the engine + landing require (Georgia/system otherwise) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400;1,700&family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..700&family=DM+Sans:wght@300;400;500;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
     <title>LocalTour — Your Local Guide</title>
+    <meta name="description" content="LocalTour is a city decision engine — 15 American cities, 2,000+ curated places, an AI concierge, deals, trails, and a community wall. Travel like a local." />
+    <meta property="og:title" content="LocalTour — Your Local Guide" />
+    <meta property="og:description" content="15 cities, 2,000+ curated places, trails and deals — experienced like a local." />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://localtour.directory/" />
   </head>
   <body>
+    <!-- ambient background layer (the Feed view sets its class; empty class = inert) -->
+    <div id="amb"></div>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>

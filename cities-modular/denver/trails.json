@@ -1,0 +1,47 @@
+[
+  {
+    "id": "the-250-trail-denver",
+    "title": "The 250 Trail: Denver",
+    "hook": "Welton Street was the Harlem of the West. Follow the music from Five Points' jazz corridor into RiNo's mural economy — one century, one improvised neighborhood.",
+    "narrative": "Basecamp rule for this one: hydrate before you sip. You're at 5,280 feet and the Welton Street sun is deceptively strong, so start with tea, not a stout. Five Points earned its 'Harlem of the West' nickname for good reason — by 1920 more than ninety percent of Denver's Black residents lived here, and Welton Street pulsed with better than fifty jazz clubs and bars. Barred from whites-only downtown hotels, touring giants like Duke Ellington, Ella Fitzgerald and Nat King Cole slept and played at the Rossonian at 2642 Welton, while the Casino Cabaret — opened by Denver's 'Godfather of Jazz,' George Morrison, and today reborn as Cervantes' Masterpiece Ballroom — kept the marquee lit for decades. This trail starts on that living corridor, where Black-owned businesses still steep community, then bends northwest into RiNo, where the old warehouse district trades saxophones for spray paint. Larimer Street is the new stage: each fall the Denver Walls festival repaints the block, and the breweries wear those murals like liner notes. Walk it in the morning's cool, chase shade between stops, and let the afternoon build toward dinner. Same neighborhood energy, a century apart — improvised, hand-built, unmistakably Denver. Bring layers; the mountain air turns on you fast after sundown.",
+    "neighborhoods": [
+      "Five Points",
+      "RiNo (River North Art District)",
+      "Park Hill"
+    ],
+    "stops": [
+      {
+        "biz": "TeaLee's Tea House & Bookstore",
+        "note": "Start on the Welton corridor at this Black-owned tea house and bookshop — an afro-centric front room built for lingering. Order a pot and a tea-infused cocktail, browse the shelves, and let the conversation simmer the way founder Rise Jones named it to."
+      },
+      {
+        "biz": "Cervantes' Masterpiece Ballroom",
+        "note": "Two blocks on stands the old Casino Cabaret at 2637 Welton, opened by Denver's 'Godfather of Jazz' George Morrison. Duke Ellington and Count Basie played this room; today it books live music nightly. Peek in, read the history on the wall, feel the marquee still humming."
+      },
+      {
+        "biz": "Work & Class",
+        "note": "Cross into RiNo at Larimer for the neighborhood pivot point — Latin-Southern comfort in a shipping-container dining room. Get the rotisserie chicken and a round of empanadas; portions are built for sharing, which is the whole point here."
+      },
+      {
+        "biz": "Our Mutual Friend Brewing",
+        "note": "Larimer Street's mural economy starts flowing here — an all-Colorado-grain brewery whose bright, wacky facade is itself half art piece. Grab a farmhouse ale on the patio and watch the block's spray-painted walls do their work."
+      },
+      {
+        "biz": "Ratio Beerworks",
+        "note": "A few doors up, the giant mural on the building tells you you've arrived in the art district proper. This punk-rock-run taproom pours meticulous, music-named beers — the Dear You saison is the house signature. Loud, local, and unmistakably RiNo."
+      },
+      {
+        "biz": "Death & Co Denver",
+        "note": "Duck into the Ramble Hotel at 25th and Larimer for the cocktail heavyweight — the Denver outpost of the famed New York bar. Sit at the marble and let the bartenders read you; the menu runs deep and the room glows amber after dark."
+      },
+      {
+        "biz": "Honey Elixir Bar",
+        "note": "One more RiNo nightcap: a moody, plant-forward cocktail den building drinks on raw honey, fresh juice and organic herbs instead of sugar. Order something off-menu by mood — this is where the trail slows down and the murals go neon."
+      },
+      {
+        "biz": "Yuan Wonton",
+        "note": "Cap the arc in Park Hill, just east, where chef Penelope Wong graduated her cult food truck into a brick-and-mortar and took home a 2026 James Beard Best Chef award. The chili wontons and dumplings immortalize her childhood recipes — the neighborhood's evolution on a plate."
+      }
+    ]
+  }
+]

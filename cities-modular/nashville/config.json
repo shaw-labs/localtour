@@ -1,0 +1,246 @@
+{
+  "slug": "nashville",
+  "name": "Nashville",
+  "state": "Tennessee",
+  "region": "Upper South / Middle Tennessee",
+  "tagline": "Every street here is somebody's second verse.",
+  "description": "A river-bend Southern city that runs on songs — where the honky-tonks on Lower Broadway blast neon and steel guitar past midnight, but the real heart beats in the writers' rounds at the Bluebird, the Ryman's pin-drop hush, and the R&B ghosts of Jefferson Street. Nashville is hot chicken sweated over sweet tea, East Nashville vinyl shops and dive bars, 12South boutiques, and Music Row studios where the next standard is being cut right now. Come for the Opry, stay for the three-a.m. co-write; the tourists never leave Broadway, but the city's whole story is waiting a few blocks off it.",
+  "coordinates": {
+    "lat": 36.1659,
+    "lng": -86.7844
+  },
+  "timezone": "America/Chicago",
+  "identity": {
+    "known_for": "Live music at every hour — from the Grand Ole Opry and the Ryman to Lower Broadway honky-tonks and intimate writers' rounds — plus Nashville hot chicken, Music Row's songwriting and recording legacy, the R&B history of Jefferson Street, and a booming food-and-bar scene across East Nashville, the Gulch, and 12South",
+    "vibe": "Warm, unpretentious, and song-soaked — a city that takes its music seriously and itself lightly, where a stranger at the bar might be a No. 1 hitwriter and nobody's mentioning it",
+    "best_season": "Fall (September through November) for songwriter festivals and mild, patio-perfect weather; late spring peaks with CMA Fest in June before the humid summer settles in",
+    "visitor_type": "Music pilgrims and songwriters, bachelorette parties and honky-tonk crowds, food travelers chasing the hot chicken trail, culture-seekers tracing Nashville's Black music history, and families splitting time between the Opry, parks, and pedal taverns"
+  },
+  "hero": {
+    "summer": "June hits like a downbeat — CMA Fest floods Broadway, the humidity wraps around you like a warm chord, and there's live music spilling out of every open door from noon till the small hours; drink water between the beers and let the late sets carry you.",
+    "fall": "This is my season — the air finally cools, the songwriter festivals fill the listening rooms, and a Tuesday-night writers' round out east can wreck you in the best way; wear a flannel, order the hot chicken, and stay for the last song.",
+    "winter": "December glows out at Opryland where the whole resort disappears under a million lights, the honky-tonks steam up their windows against the cold, and a Ryman Christmas show is about as close to church as this town gets.",
+    "spring": "The dogwoods come out along the boulevards, the patios in 12South and East Nashville reopen, and every young writer in town is chasing the perfect line before the summer festival crowds arrive — catch a round now while the rooms are still quiet."
+  },
+  "nexus": {
+    "type": "music-entertainment-district",
+    "anchor": "Ryman Auditorium",
+    "anchor_url": "https://www.ryman.com/",
+    "radius": "Downtown's SoBro and Lower Broadway core — roughly the Ryman and 5th & Broadway down to the honky-tonk strip and the Cumberland riverfront, a walkable dozen blocks",
+    "services": [
+      "live music venues",
+      "honky-tonks",
+      "downtown hotels",
+      "guided music tours",
+      "dining",
+      "music museums"
+    ],
+    "affiliate_density": "high",
+    "description": "The dense downtown music core anchored by the Ryman Auditorium — the 1892 'Mother Church of Country Music' that housed the Grand Ole Opry from 1943 to 1974 — with the neon honky-tonks of Lower Broadway, the Country Music Hall of Fame, the National Museum of African American Music at 5th & Broadway, and a wall of downtown hotels all inside a walkable few blocks. It's the tourist heart of Music City, ringed with tours, tickets, and rooms; a fine place to start a night, though I'll always nudge you a few blocks off it before the night's through."
+  },
+  "nexus_grid": [
+    {
+      "id": "ryman",
+      "title": "The Mother Church",
+      "icon": "landmark",
+      "description": "The Ryman Auditorium itself — an 1892 tabernacle turned the most storied stage in American music. Catch a show if you can; the daytime backstage tour is worth it if you can't. The acoustics are the real headliner."
+    },
+    {
+      "id": "honky-tonks",
+      "title": "Broadway Honky-Tonks",
+      "icon": "music",
+      "description": "The neon mile of free live music, three bands a day per bar, no cover and a tip jar. Loud, crowded, and unapologetically touristy — go once, tip the band well, then let me point you somewhere quieter."
+    },
+    {
+      "id": "opry",
+      "title": "Grand Ole Opry",
+      "icon": "radio",
+      "description": "The show that made Nashville Music City, broadcasting live since 1925. It runs at its Opryland house most of the year and returns to the Ryman for winter and select dates — either way, it's the country radio cathedral in the flesh."
+    },
+    {
+      "id": "museums",
+      "title": "Music Museums",
+      "icon": "building",
+      "description": "The Country Music Hall of Fame and the National Museum of African American Music sit blocks apart downtown, telling two halves of one story — the one everybody knows and the one this town owes more to than it admits."
+    },
+    {
+      "id": "tours",
+      "title": "Music Tours",
+      "icon": "map",
+      "description": "Studio tours, RCA Studio B out on Music Row where Elvis cut hits, walking tours of the honky-tonk history — the connective tissue that turns a bar crawl into an education."
+    },
+    {
+      "id": "stay",
+      "title": "Downtown Stays",
+      "icon": "bed",
+      "description": "Hotels stacked around the district put you within a song's walk of every stage. Ask for a room facing away from Broadway unless you plan to be up as late as the bands."
+    }
+  ],
+  "modes": [
+    {
+      "id": "foodie",
+      "label": "Foodie",
+      "icon": "utensils",
+      "description": "Walk the hot chicken trail from Prince's to Hattie B's, sweat it out with sweet tea, then chase meat-and-three plates, East Nashville chef counters, and biscuits that deserve their own writers' round.",
+      "tags": [
+        "hot-chicken",
+        "meat-and-three",
+        "southern",
+        "biscuits",
+        "chef-driven"
+      ]
+    },
+    {
+      "id": "chill",
+      "label": "Chill",
+      "icon": "coffee",
+      "description": "Slow mornings over Barista Parlor pour-overs, vinyl-crate afternoons in East Nashville, a porch beer in 12South, and the unhurried pace of a city that saves its intensity for the stage.",
+      "tags": [
+        "coffee",
+        "record-shops",
+        "patios",
+        "slow",
+        "neighborhoods"
+      ]
+    },
+    {
+      "id": "romantic",
+      "label": "Romantic",
+      "icon": "heart",
+      "description": "A hushed writers' round where a love song lands two feet from your table, a rooftop over the river at golden hour, and a slow walk across the pedestrian bridge as the skyline lights up.",
+      "tags": [
+        "writers-round",
+        "date-night",
+        "rooftop",
+        "scenic",
+        "live-music"
+      ]
+    },
+    {
+      "id": "music",
+      "label": "Music",
+      "icon": "music",
+      "description": "The whole reason you came — the Bluebird's in-the-round confessionals, the Ryman's pin-drop hush, the Opry's radio cathedral, and the off-Broadway rooms where tomorrow's standards get their first airing.",
+      "tags": [
+        "writers-round",
+        "ryman",
+        "opry",
+        "listening-room",
+        "honky-tonk"
+      ]
+    },
+    {
+      "id": "culture",
+      "label": "Culture",
+      "icon": "palette",
+      "description": "Trace Jefferson Street's R&B corridor and the National Museum of African American Music, the Country Music Hall of Fame, RCA Studio B, and the murals and history that run deeper than Broadway's neon.",
+      "tags": [
+        "jefferson-street",
+        "museums",
+        "history",
+        "studios",
+        "murals"
+      ]
+    },
+    {
+      "id": "nightlife",
+      "label": "Nightlife",
+      "icon": "moon",
+      "description": "Beyond the honky-tonks — East Nashville dive bars and craft cocktails, Gulch rooftops, listening-room late sets, and the after-hours spots where the players go once their gigs let out.",
+      "tags": [
+        "dive-bars",
+        "cocktails",
+        "rooftops",
+        "late-night",
+        "east-nashville"
+      ]
+    },
+    {
+      "id": "family",
+      "label": "Family",
+      "icon": "users",
+      "description": "The Adventure Science Center, the Nashville Zoo, a stroll through Centennial Park's full-scale Parthenon, and daytime Opry or museum visits that let the kids in on Music City before the neon comes out.",
+      "tags": [
+        "parthenon",
+        "zoo",
+        "science-center",
+        "parks",
+        "kid-friendly"
+      ]
+    }
+  ],
+  "transit": {
+    "from_nearest_hub": "Nashville International Airport (BNA) sits about eight miles southeast of downtown — 15 to 25 minutes by car outside rush hour. WeGo Public Transit's Route 18 airport express bus runs downtown for a couple of dollars, while rideshares and taxis run roughly $25 to $40 to the honky-tonk district and cost more during peak nights and events.",
+    "local_transport": "Downtown, the Gulch, and SoBro are walkable, and the free WeGo Star-adjacent downtown circuit plus rideshare cover most of the tourist core. To reach East Nashville, 12South, Music Row, and the Opryland complex you'll want rideshare or a rental — the neighborhoods are close but not all walkable to one another, and street parking downtown is tight and pricey on show nights. Skip driving Broadway on weekends entirely."
+  },
+  "side_trips": [
+    {
+      "name": "Franklin",
+      "distance": "About 30 minutes south",
+      "pitch": "A beautifully preserved Victorian main street and heavy Civil War history just down I-65 — Franklin trades Nashville's neon for antique shops, farm-to-table tables, and one of the prettiest downtown squares in the South.",
+      "highlights": [
+        "Historic Main Street shops and dining",
+        "Carnton plantation and the Battle of Franklin sites",
+        "The Franklin Theatre for live music",
+        "Antiquing and boutiques",
+        "Leiper's Fork nearby for a rural detour"
+      ]
+    },
+    {
+      "name": "Leiper's Fork",
+      "distance": "About 45 minutes southwest",
+      "pitch": "A tiny artist-and-songwriter village off the Natchez Trace where hit writers keep quiet farmhouses — expect a general store, a couple of galleries, an intimate music room, and rolling horse-country back roads made for a slow Sunday drive.",
+      "highlights": [
+        "Puckett's Grocery and the village general store",
+        "Songwriter shows at intimate local venues",
+        "Art galleries and studios",
+        "Natchez Trace Parkway scenic driving",
+        "Horse-country back roads and countryside"
+      ]
+    }
+  ],
+  "concierge": {
+    "name": "The Songwriter",
+    "greeting": "Hey there — pull up a stool. I've been going to writers' rounds in this town for twenty years, watched folks turn a bad week into a No. 1 and a good line into a career. I love Broadway's neon as much as anybody for about an hour, but the songs I remember all happened a few blocks off it. Tell me what you're chasing and I'll point you toward the real thing.",
+    "personality": "Warm, generous, and unhurried, with two decades of late nights in listening rooms behind every recommendation. Steers you past the tourist traps without a shred of snobbery — happy to send you down Broadway once, then just as happy to walk you to the round where the actual writing happens. Talks in the rhythm of someone used to a room going quiet for a good verse, and always roots for the working players.",
+    "sign_off": "Tip the band, stay for the last song, and I'll see you at the next round. — The Songwriter"
+  },
+  "wall": {
+    "albums": null
+  },
+  "features": {
+    "concierge": true,
+    "wall": true,
+    "trip_planner": true,
+    "coupon_clipper": false,
+    "event_ticker": true,
+    "seasonal_hero": true
+  },
+  "images": {
+    "hero": "hero-aerial.jpg",
+    "story": [
+      "district-lower-broadway.jpg",
+      "food-hot-chicken.jpg",
+      "music-writers-round.jpg"
+    ],
+    "wall": [
+      "seasonal-fall.jpg",
+      "seasonal-spring.jpg",
+      "seasonal-summer.jpg",
+      "seasonal-winter.jpg"
+    ],
+    "categories": {
+      "attractions": "dir-attractions.jpg",
+      "bars_nightlife": "dir-bars_nightlife.jpg",
+      "coffee_bakeries": "dir-coffee_bakeries.jpg",
+      "dining": "dir-dining.jpg",
+      "entertainment": "dir-entertainment.jpg",
+      "lodging": "dir-lodging.jpg",
+      "outdoor_adventure": "dir-outdoor_adventure.jpg",
+      "services": "dir-services.jpg",
+      "shopping": "dir-shopping.jpg",
+      "wellness_spa": "dir-wellness_spa.jpg"
+    },
+    "section_breaks": {}
+  }
+}

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "the-250-trail-smoky-mountains",
+    "title": "The 250 Trail: Smoky Mountains — Handmade in the Hollers",
+    "hook": "An eight-mile loop of carvers and broom-tiers, a gristmill grinding since 1830, and bluegrass from a rocking-chair porch — this is the Smokies that made things, and made music, long before it made vacations.",
+    "narrative": "When Pi Beta Phi opened a settlement school in Gatlinburg in 1912, its teachers found the mountains already full of makers — weavers, carvers, chair caners working by firelight — and built a craft revival around them. In 1937, woodcarver John Cowden, broom maker Lee Ogle, and chair maker Noah McCarter moved their shops out to the Glades, seeding what became the Great Smoky Arts & Crafts Community: an eight-mile loop that remains one of the largest gatherings of independent artisans in North America. The music kept the same time. Fiddle-and-banjo string bands and the hymns raised in congregations as old as Cades Cove's Primitive Baptist, organized in 1827, ran down the generations until a girl from Locust Ridge named Dolly Parton carried the mountains to the world's stage — then came home and put her name on the park in 1986. This trail runs the whole lineage: a valley of hand-built cabins and a water mill from around 1870, the Glades loop where the person at the register tied the broom, an 1830s gristmill still at its trade, moonshine poured to live porch bluegrass, and a finale where blacksmiths and string bands work the same holler. Drive it, don't rush it — Glades shops keep their own hours — and let the best souvenir be something with the maker's name on it.",
+    "neighborhoods": [
+      "Glades Road Arts & Crafts Loop",
+      "Downtown Gatlinburg",
+      "Old Mill District, Pigeon Forge",
+      "Cades Cove"
+    ],
+    "stops": [
+      {
+        "biz": "Cades Cove",
+        "note": "Start where the lineage starts: John Oliver's 1820s cabin, the Primitive Baptist church (a congregation organized in 1827), and John Cable's gristmill, built around 1870,, all hand-built and still standing along the one-way loop road. This is the community whose hands and hymns everything downstream descends from."
+      },
+      {
+        "biz": "Great Smoky Arts & Crafts Community",
+        "note": "The eight-mile Glades loop where Cowden, Ogle, and McCarter set up home shops in 1937 — and where more than 100 makers still sell pottery, brooms, baskets, and carving out their front doors. Buy the broom from the hands that tied it."
+      },
+      {
+        "biz": "The Village Shops",
+        "note": "Gatlinburg's lantern-lit courtyard has held small, owner-run shops since 1969 — a downtown pocket built for browsing at a walking pace, one storefront at a time."
+      },
+      {
+        "biz": "The Donut Friar",
+        "note": "The Ryan family has been frying and glazing here since The Village opened in June 1969 — the only original shop still standing. Cinnamon bread and coffee is the trail's official breakfast."
+      },
+      {
+        "biz": "Ole Smoky Moonshine Distillery - The Holler",
+        "note": "Moonshine is Appalachian craft too — family recipes far older than the 2010 license that made legal moonshine a Gatlinburg fixture. Claim a rocking chair; the porch stage runs live bluegrass all day."
+      },
+      {
+        "biz": "The Old Mill Square",
+        "note": "the Love family's 1830s gristmill still grinds meal and grits beside the Little Pigeon River — Pigeon Forge's only listing on the National Register of Historic Places."
+      },
+      {
+        "biz": "The Old Mill Restaurant",
+        "note": "Eat what the mill grinds, a few steps from the wheel: corn chowder, fritters, and biscuits from the shortest supply chain on the trail. Mountain foodways, straight from the stones."
+      },
+      {
+        "biz": "Dollywood Theme Park",
+        "note": "The finale: in Craftsman's Valley, blacksmiths and master craftsmen work in the open while string bands play — craft and music sharing one holler. Dolly Parton, raised a few ridges away in Locust Ridge, reopened this park under her own name in 1986, and the county has been proud ever since."
+      }
+    ]
+  }
+]

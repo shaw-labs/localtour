@@ -1,0 +1,23 @@
+/* LocalTour landing styles — extracted verbatim from `3ok 3/localtour.directory/index.html` <style> block (source lines 15–37). */
+/* Bare global rules (*, html, body, img) are re-scoped under .lt-landing so they can't leak into the engine's /cities routes in this SPA; keyframes and ::selection are kept as-is. */
+.lt-landing,.lt-landing *,.lt-landing *::before,.lt-landing *::after{margin:0;padding:0;box-sizing:border-box}
+.lt-landing{scroll-behavior:smooth}
+.lt-landing{background:#faf8f4;color:#0c1b2a;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+::selection{background:#dc2626;color:white}
+@keyframes fadeUp{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(.8)}}
+@keyframes progressBar{from{width:0}to{width:calc(100% - 3px)}}
+.lt-landing img{display:block;max-width:100%}
+@media(max-width:980px){
+  .aff-grid{grid-template-columns:1fr!important}
+}
+@media(max-width:768px){
+  .feat-grid{grid-template-columns:1fr!important}
+  .pipe-grid{grid-template-columns:repeat(2,1fr)!important}
+  .stat-grid{grid-template-columns:1fr!important}
+  .foot-grid{grid-template-columns:1fr!important}
+  .city-grid{grid-template-columns:1fr!important}
+  .aff-grid{grid-template-columns:1fr!important}
+  .sense-full{padding:100px 24px 80px!important}
+  .nav-links{display:none!important}
+}

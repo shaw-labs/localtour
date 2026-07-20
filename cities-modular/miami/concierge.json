@@ -1,0 +1,630 @@
+[
+  {
+    "keys": [
+      "hello",
+      "hi",
+      "help",
+      "menu",
+      "start",
+      "what to do"
+    ],
+    "text": "Welcome to Miami, baby. I got you. What's the vibe — beach day, eating your way through the city, big night out, culture crawl, or something with the family? Just say the word.",
+    "businesses": [],
+    "chips": [
+      "Where should I eat?",
+      "Best nightlife?",
+      "Beach day plan",
+      "Things to do with kids",
+      "What's happening this week?",
+      "Day trip ideas"
+    ]
+  },
+  {
+    "keys": [
+      "eat",
+      "food",
+      "restaurant",
+      "hungry",
+      "dinner",
+      "where to eat"
+    ],
+    "text": "Miami eats different — literally. What are you feeling? Cuban comfort food at Versailles on Calle Ocho is the move for a first-timer. Want upscale? Cote in the Design District is Michelin-starred Korean steakhouse that'll change your life. Seafood? Joe's Stone Crab if you're here before May — get in the takeout line, skip the 2-hour wait.",
+    "businesses": [
+      "Versailles Restaurant",
+      "Cote Miami",
+      "Joe's Stone Crab"
+    ],
+    "chips": [
+      "Best Cuban food?",
+      "Fine dining?",
+      "Cheap eats?",
+      "Waterfront dining?",
+      "Brunch spots?",
+      "Late night food?"
+    ]
+  },
+  {
+    "keys": [
+      "cuban",
+      "little havana",
+      "calle ocho"
+    ],
+    "text": "Little Havana is the soul of Miami. Start at Versailles — order the vaca frita and a cafecito at the ventanita. Walk down to Ball & Chain for live salsa. Azucar Ice Cream for dessert — get the Abuela Maria flavor. Then hit El Palacio de los Jugos for the real-deal roast pork. This is not tourist Miami — this is Miami Miami.",
+    "businesses": [
+      "Versailles Restaurant",
+      "Ball & Chain",
+      "Azucar Ice Cream Company",
+      "El Palacio de los Jugos"
+    ],
+    "chips": [
+      "Best salsa dancing?",
+      "Cuban coffee spots?",
+      "What is a ventanita?",
+      "Calle Ocho Festival?"
+    ]
+  },
+  {
+    "keys": [
+      "fine dining",
+      "upscale",
+      "fancy",
+      "special occasion",
+      "michelin"
+    ],
+    "text": "For the big night: Cote Miami for Korean steakhouse perfection. The Surf Club by Thomas Keller in Surfside is Continental elegance with a Michelin star. Los Fuegos at the Faena is Francis Mallmann's live-fire temple — the most romantic restaurant in Miami. And Zucca in Coral Gables does refined Italian with a 2,000-bottle wine cellar.",
+    "businesses": [
+      "Cote Miami",
+      "The Surf Club Restaurant by Thomas Keller",
+      "Los Fuegos by Francis Mallmann",
+      "Zucca"
+    ],
+    "chips": [
+      "Best steakhouse?",
+      "Waterfront fine dining?",
+      "What's new and hot?",
+      "Tasting menus?"
+    ]
+  },
+  {
+    "keys": [
+      "cheap",
+      "budget",
+      "affordable",
+      "cheap eats"
+    ],
+    "text": "You can eat like a king in Miami for $15. El Palacio de los Jugos — point at the roast pork, get yuca and a mamey shake. Caracas Bakery on Biscayne for a ham cachito that'll make you cry. Cotoletta in the Design District — one perfect Milanese cutlet, that's the whole menu, and it's worth every penny.",
+    "businesses": [
+      "El Palacio de los Jugos",
+      "Caracas Bakery",
+      "Cotoletta"
+    ],
+    "chips": [
+      "Best bakeries?",
+      "Food trucks?",
+      "Happy hour deals?",
+      "Free things to do?"
+    ]
+  },
+  {
+    "keys": [
+      "nightlife",
+      "clubs",
+      "party",
+      "going out",
+      "dance"
+    ],
+    "text": "Miami nightlife doesn't even start until midnight — plan accordingly. LIV at Fontainebleau is THE mega-club. E11EVEN is the 24/7 ultraclub that doesn't close, ever. Club Space is where the real house/techno heads go — the Sunday morning terrace set at sunrise is a Miami rite of passage. Want something less intense? Sweet Liberty is the best cocktail bar on the Beach.",
+    "businesses": [
+      "LIV",
+      "E11EVEN Miami",
+      "Club Space",
+      "Sweet Liberty"
+    ],
+    "chips": [
+      "Best cocktail bars?",
+      "Latin nightlife?",
+      "Rooftop bars?",
+      "LGBTQ+ nightlife?",
+      "How to get into LIV?"
+    ]
+  },
+  {
+    "keys": [
+      "bar",
+      "cocktail",
+      "drinks",
+      "happy hour"
+    ],
+    "text": "Sweet Liberty on Collins is award-winning — just tell the bartender what you're in the mood for. The Broken Shaker at the Freehand is craft cocktails by a pool. Sugar at EAST Miami is the rooftop move — go at sunset. And if you want zero pretension, Mac's Club Deuce is a 1964 dive bar where beers are cheap and nobody cares what you're wearing.",
+    "businesses": [
+      "Sweet Liberty",
+      "The Broken Shaker",
+      "Sugar at EAST Miami",
+      "Mac's Club Deuce"
+    ],
+    "chips": [
+      "Wynwood bars?",
+      "Brickell rooftops?",
+      "Dive bars?",
+      "Wine bars?"
+    ]
+  },
+  {
+    "keys": [
+      "latin",
+      "salsa",
+      "reggaeton",
+      "latin clubs"
+    ],
+    "text": "Ball & Chain on Calle Ocho for live salsa — Salsero Sundays are iconic. Mango's on Ocean Drive is the over-the-top spectacle with dancers and piña coladas in pineapples. Hoy Como Ayer in Little Havana for a more local vibe. And El Patio in Wynwood is reggaeton central on Fridays.",
+    "businesses": [
+      "Ball & Chain",
+      "Mango's Tropical Cafe"
+    ],
+    "chips": [
+      "Salsa lessons?",
+      "Best mojito in Miami?",
+      "Cuban music venues?",
+      "Where do locals go?"
+    ]
+  },
+  {
+    "keys": [
+      "beach",
+      "swim",
+      "ocean",
+      "tan",
+      "sand"
+    ],
+    "text": "South Beach at Lummus Park is the scene — lifeguard towers, beautiful people, Ocean Drive right behind you. But locals go to Crandon Park on Key Biscayne for calmer water and real relaxation. South Pointe Park at the tip of the Beach is my favorite spot — watch cruise ships glide by. Haulover Beach is gorgeous too (heads up: the north end is clothing-optional).",
+    "businesses": [
+      "South Beach",
+      "Crandon Park Beach",
+      "South Pointe Park"
+    ],
+    "chips": [
+      "Best family beach?",
+      "Water sports?",
+      "Snorkeling spots?",
+      "Beach clubs?"
+    ]
+  },
+  {
+    "keys": [
+      "outdoor",
+      "nature",
+      "hiking",
+      "kayak",
+      "adventure"
+    ],
+    "text": "Take an airboat through the Everglades — gators, roseate spoonbills, the whole River of Grass, 45 min from downtown. Oleta River State Park has mountain biking and mangrove kayaking inside the city. Biscayne National Park is 95% underwater — snorkeling on the third-largest barrier reef in the world. Fairchild Tropical Garden is a quiet masterpiece on the Bay.",
+    "businesses": [
+      "Everglades National Park",
+      "Oleta River State Park",
+      "Biscayne National Park",
+      "Fairchild Tropical Botanic Garden"
+    ],
+    "chips": [
+      "Everglades tours?",
+      "Snorkeling?",
+      "Boat rentals?",
+      "Best parks?"
+    ]
+  },
+  {
+    "keys": [
+      "shopping",
+      "shop",
+      "buy",
+      "souvenirs"
+    ],
+    "text": "Design District for luxury — Gucci, Dior, Louis Vuitton, plus the architecture is incredible. Lincoln Road on the Beach for a pedestrian mall vibe with outdoor dining. Dolphin Mall if you want outlet deals. And the Sunday farmer's market on Lincoln Road is great for local stuff.",
+    "businesses": [
+      "Miami Design District",
+      "Lincoln Road Mall",
+      "Dolphin Mall"
+    ],
+    "chips": [
+      "Luxury shopping?",
+      "Outlet deals?",
+      "Local boutiques?",
+      "Farmer's markets?"
+    ]
+  },
+  {
+    "keys": [
+      "coffee",
+      "cafe",
+      "cafecito"
+    ],
+    "text": "This is a cafecito city. Any ventanita (walk-up window) on Calle Ocho serves Cuban coffee for $1 that'll rewire your nervous system. For specialty, Panther Coffee in Wynwood roasts their own. Caracas Bakery on Biscayne does Venezuelan pastries and great coffee together.",
+    "businesses": [
+      "Panther Coffee",
+      "Caracas Bakery"
+    ],
+    "chips": [
+      "What's a cortadito?",
+      "Best cafecito?",
+      "Work-from-cafe spots?",
+      "Morning pastries?"
+    ]
+  },
+  {
+    "keys": [
+      "hotel",
+      "stay",
+      "accommodation",
+      "where to stay",
+      "lodging"
+    ],
+    "text": "South Beach for nightlife and scene: Fontainebleau is the icon, Faena is the art hotel, 1 Hotel is eco-luxury. Brickell for a modern, urban base close to restaurants and rooftop bars. Freehand is the best budget play — boutique hostel with the Broken Shaker bar. Coral Gables for a quieter, residential feel.",
+    "businesses": [
+      "Fontainebleau Miami Beach",
+      "Faena Hotel Miami Beach",
+      "1 Hotel South Beach",
+      "Freehand Miami"
+    ],
+    "chips": [
+      "Best hotels on the Beach?",
+      "Budget stays?",
+      "Where do influencers stay?",
+      "Brickell vs South Beach?"
+    ]
+  },
+  {
+    "keys": [
+      "getting here",
+      "airport",
+      "transit",
+      "train",
+      "drive",
+      "transport"
+    ],
+    "text": "MIA is the main airport — global hub, direct flights everywhere. FLL (Fort Lauderdale) is 30 min north and often way cheaper. Brightline train connects MIA to Fort Lauderdale in 30 min and Orlando in 3.5 hours. Once here? Uber everywhere, or grab the free Metromover downtown. The free trolley runs through Wynwood, Brickell, and Little Havana. Parking on the Beach is expensive — valet or take a ride.",
+    "businesses": [],
+    "chips": [
+      "Brightline worth it?",
+      "MIA vs FLL?",
+      "Parking tips?",
+      "How to get to South Beach from airport?"
+    ]
+  },
+  {
+    "keys": [
+      "family",
+      "kids",
+      "children"
+    ],
+    "text": "Frost Museum of Science has a 3-story aquarium and planetarium — kids lose their minds. Zoo Miami is the only tropical zoo in the continental US. Jungle Island has ziplines and animal encounters. Crandon Park Beach on Key Biscayne has calm water perfect for little ones. And the free Metromover is basically an amusement ride for toddlers.",
+    "businesses": [
+      "Phillip and Patricia Frost Museum of Science",
+      "Zoo Miami",
+      "Jungle Island",
+      "Crandon Park Beach"
+    ],
+    "chips": [
+      "Rainy day activities?",
+      "Best family beach?",
+      "Kid-friendly restaurants?",
+      "Zoo or aquarium?"
+    ]
+  },
+  {
+    "keys": [
+      "romantic",
+      "date",
+      "couples",
+      "anniversary"
+    ],
+    "text": "Sunset dinner at Los Fuegos at the Faena — fire-grilled Argentine perfection in the most beautiful hotel in Miami. Walk the Vizcaya gardens at golden hour. Cocktails on the rooftop at Sugar in Brickell. Then close the night at Sweet Liberty. If you really want to go all out, a private sunset cruise on Biscayne Bay — the skyline at dusk is unmatched.",
+    "businesses": [
+      "Los Fuegos by Francis Mallmann",
+      "Vizcaya Museum and Gardens",
+      "Sugar at EAST Miami",
+      "Sweet Liberty"
+    ],
+    "chips": [
+      "Most romantic restaurant?",
+      "Sunset spots?",
+      "Couples spa?",
+      "Private boat cruise?"
+    ]
+  },
+  {
+    "keys": [
+      "day trip",
+      "perfect day",
+      "itinerary",
+      "one day"
+    ],
+    "text": "Your perfect Miami day: Cafecito at a ventanita to start. Walk the Art Deco District to South Pointe Park. Lunch at Gramps Getaway on the marina. Afternoon at Crandon Park Beach. Shower and change — dinner at Tropezón on Española Way. Then cocktails at Sweet Liberty, and finish at LIV or Ball & Chain depending on your vibe.",
+    "businesses": [
+      "South Pointe Park",
+      "Gramps Getaway",
+      "Crandon Park Beach",
+      "Tropezón",
+      "Sweet Liberty"
+    ],
+    "chips": [
+      "Two-day itinerary?",
+      "Rainy day plan?",
+      "Art lover's day?",
+      "Foodie crawl?"
+    ]
+  },
+  {
+    "keys": [
+      "events",
+      "what's happening",
+      "this week",
+      "festival"
+    ],
+    "text": "Miami always has something going on. Check for Art Basel in December, Ultra in March, Calle Ocho Festival in March, Miami Open tennis, and F1 Grand Prix in May. Year-round: Viernes Culturales on the last Friday of every month in Little Havana, Wynwood Art Walk on second Saturdays, and Lincoln Road Farmers Market every Sunday.",
+    "businesses": [],
+    "chips": [
+      "Art Basel info?",
+      "Ultra tickets?",
+      "Free events?",
+      "Sports schedule?"
+    ]
+  },
+  {
+    "keys": [
+      "breakfast",
+      "morning",
+      "brunch"
+    ],
+    "text": "Caracas Bakery for Venezuelan pastries — the ham cachito is mandatory. Gramps Getaway just launched a breakfast pop-up at the marina. For a scene brunch, Rusty Pelican does bottomless mimosas with a skyline view. And any ventanita in Little Havana will get you a tostada and cafecito for under $5.",
+    "businesses": [
+      "Caracas Bakery",
+      "Gramps Getaway",
+      "Rusty Pelican"
+    ],
+    "chips": [
+      "Best brunch?",
+      "Cuban breakfast?",
+      "Beachside breakfast?",
+      "Coffee spots?"
+    ]
+  },
+  {
+    "keys": [
+      "late night",
+      "after hours",
+      "4am",
+      "late"
+    ],
+    "text": "Miami doesn't close. E11EVEN is literally open 24/7 — the peak energy is 3-5am. Club Space goes until well past noon the next day. Mac's Club Deuce serves until 5am with cheap drinks. And plenty of ventanitas stay open late for a midnight croqueta and cafecito to keep the night going.",
+    "businesses": [
+      "E11EVEN Miami",
+      "Club Space",
+      "Mac's Club Deuce"
+    ],
+    "chips": [
+      "After-hours spots?",
+      "Late night food?",
+      "24-hour restaurants?",
+      "Sunrise sessions?"
+    ]
+  },
+  {
+    "keys": [
+      "art",
+      "culture",
+      "museums",
+      "wynwood",
+      "gallery"
+    ],
+    "text": "Start at Wynwood Walls for the outdoor murals, then just wander — the surrounding blocks have art on every surface. ICA Miami in the Design District is free and currently has the massive Dolce & Gabbana exhibition. PAMM on the waterfront is the contemporary art museum with killer bay views. And Vizcaya is a 1920s Italian villa with formal gardens that'll stop you in your tracks.",
+    "businesses": [
+      "Wynwood Walls",
+      "ICA Miami (Institute of Contemporary Art)",
+      "Pérez Art Museum Miami (PAMM)",
+      "Vizcaya Museum and Gardens"
+    ],
+    "chips": [
+      "Wynwood gallery map?",
+      "Free museums?",
+      "Design District art?",
+      "Art Deco District?"
+    ]
+  },
+  {
+    "keys": [
+      "lgbtq",
+      "gay",
+      "pride",
+      "drag"
+    ],
+    "text": "Twist on Washington Ave has been Miami's LGBTQ+ anchor for 25+ years — no cover, multiple rooms, dancing every night. Miami Beach Pride in April is one of the best in the country — the Ocean Drive parade with Art Deco hotels as backdrop is iconic. No. 3 Social in Wynwood does drag bingo on Sundays. Hotel Gaythering on Lincoln Road has nightly themed events.",
+    "businesses": [
+      "Twist South Beach",
+      "No. 3 Social"
+    ],
+    "chips": [
+      "Pride dates?",
+      "Drag shows?",
+      "LGBTQ+ friendly hotels?",
+      "Nightlife scene?"
+    ]
+  },
+  {
+    "keys": [
+      "neighborhoods",
+      "south beach vs brickell",
+      "where to go",
+      "neighborhood guide"
+    ],
+    "text": "Quick breakdown: South Beach is the beach/nightlife scene — touristy but iconic. Brickell is the urban/upscale core with rooftop bars and dining. Wynwood is street art and craft breweries. Little Havana is Cuban culture and salsa. Design District is luxury shopping and Michelin restaurants. Coral Gables is leafy, residential, and elegant. Coconut Grove is laid-back and artsy. Key Biscayne is where locals escape to real beaches.",
+    "businesses": [],
+    "chips": [
+      "Best for nightlife?",
+      "Best for food?",
+      "Where to stay on a budget?",
+      "Most walkable area?"
+    ]
+  },
+  {
+    "keys": [
+      "japanese",
+      "sushi",
+      "omakase"
+    ],
+    "text": "Miami has an insane omakase scene. Shingo in Coral Gables is 14 seats and a Michelin star — maybe the best in the city. Hiden in Wynwood is hidden behind a taco stand and holds a star too. Ogawa in Little River flies fish from Toyosu Market. For a less intense experience, Makoto at Bal Harbour is excellent and easier to book.",
+    "businesses": [
+      "Shingo",
+      "Hiden",
+      "Ogawa"
+    ],
+    "chips": [
+      "How far in advance to book?",
+      "Best sushi under $100?",
+      "Design District restaurants?"
+    ]
+  },
+  {
+    "keys": [
+      "peruvian",
+      "ceviche"
+    ],
+    "text": "La Mar by Gaston Acurio at the Mandarin Oriental is the gold standard — waterfront ceviche with Brickell Key views. For something more casual, Pisco y Nazca in Kendall does excellent lomo saltado and pisco sours. CVI.CHE 105 downtown is solid and always packed.",
+    "businesses": [
+      "Pisco y Nazca"
+    ],
+    "chips": [
+      "Best waterfront dining?",
+      "More Latin restaurants?",
+      "Cocktail bars nearby?"
+    ]
+  },
+  {
+    "keys": [
+      "haitian",
+      "little haiti"
+    ],
+    "text": "Little Haiti is one of Miami's most underrated neighborhoods. Chef Creole is the anchor — Haitian griot and conch salad under a thatched roof. Boia De nearby has a Michelin star hidden in a strip mall. The whole neighborhood is evolving fast with spots like La Natural and Ogawa putting it on the food map.",
+    "businesses": [
+      "Chef Creole Seasoned Kitchen",
+      "Boia De",
+      "La Natural",
+      "Ogawa"
+    ],
+    "chips": [
+      "Little River restaurants?",
+      "What's gentrifying?",
+      "Best hidden gems?"
+    ]
+  },
+  {
+    "keys": [
+      "waterfront",
+      "water view",
+      "by the water"
+    ],
+    "text": "For the skyline view: Rusty Pelican on Key Biscayne, hands down. On the Miami River: Seaspice and Kiki on the River are scene-y. At the tip of South Beach: Smith & Wollensky. In Brickell: La Mar at the Mandarin Oriental. And Gramps Getaway at Rickenbacker Marina is the chill local move.",
+    "businesses": [
+      "Rusty Pelican",
+      "Seaspice",
+      "Gramps Getaway",
+      "Smith & Wollensky"
+    ],
+    "chips": [
+      "Best sunset restaurant?",
+      "Boat-up dining?",
+      "Waterfront cocktails?"
+    ]
+  },
+  {
+    "keys": [
+      "new openings",
+      "new restaurants",
+      "whats new",
+      "2026"
+    ],
+    "text": "2026 is wild. Seia just opened on the 54th floor of Brickell — insane views and Italian food. Sunkissed in Brickell is doing late-night seafood. Sunny's Steakhouse in Little River went from pop-up to one of the hottest spots in America. Tequila Town is a 25,000 sq-ft agave experience in Hialeah. And Grotto Baths is bringing a social bathhouse to Wynwood.",
+    "businesses": [
+      "Seia",
+      "Sunny's Steakhouse",
+      "Tequila Town",
+      "Grotto Baths Wynwood"
+    ],
+    "chips": [
+      "Hardest reservation in Miami?",
+      "What closed recently?",
+      "Best new bars?"
+    ]
+  },
+  {
+    "keys": [
+      "dive bars",
+      "cheap drinks",
+      "no cover"
+    ],
+    "text": "Mac's Club Deuce on 14th Street has been pouring since 1964 — cash only, pool table, 2-for-1 happy hour that starts at 8 AM. Gramps in Wynwood has great pizza and actual air conditioning. Blackbird Ordinary in Brickell has a huge patio and strong cheap drinks. Jolene Soundroom is a Roaring Twenties basement turned dance floor.",
+    "businesses": [
+      "Mac's Club Deuce",
+      "Gramps",
+      "Blackbird Ordinary",
+      "Jolene Soundroom"
+    ],
+    "chips": [
+      "Best pool tables?",
+      "Bars open until 5am?",
+      "Wynwood bar crawl?"
+    ]
+  },
+  {
+    "keys": [
+      "rooftop",
+      "rooftop bar",
+      "views"
+    ],
+    "text": "Sugar at EAST Miami in Brickell is the rooftop king — Asian garden vibes with panoramic bay views. 1 Hotel South Beach rooftop has ocean views. Juvia on Lincoln Road has a stunning three-kitchen concept (Japanese-Peruvian-French) with skyline views. And if you can get into Seia on the 54th floor, nothing beats it.",
+    "businesses": [
+      "Sugar at EAST Miami",
+      "Seia"
+    ],
+    "chips": [
+      "Best sunset rooftop?",
+      "Rooftop pools?",
+      "Dress code?"
+    ]
+  },
+  {
+    "keys": [
+      "sports",
+      "heat",
+      "dolphins",
+      "f1",
+      "inter miami",
+      "marlins"
+    ],
+    "text": "Heat games at Kaseya Center downtown are electric — Heat Culture is real. Dolphins play at Hard Rock Stadium in Miami Gardens, same spot as the F1 Grand Prix in May. Inter Miami is Messi's team — tickets are gold. Marlins at loanDepot Park in Little Havana is underrated: great food, retractable roof, cheap tickets.",
+    "businesses": [],
+    "chips": [
+      "How to get F1 tickets?",
+      "Best sports bars?",
+      "Inter Miami schedule?",
+      "Tailgating at Hard Rock?"
+    ]
+  },
+  {
+    "keys": [
+      "pet",
+      "dog",
+      "pet friendly",
+      "harry"
+    ],
+    "text": "Miami is surprisingly dog-friendly. Haulover Beach has an off-leash dog beach — north end, before the clothing-optional section. Hobie Beach on the Rickenbacker Causeway is another dog beach. Many restaurants have pet-friendly patios — Cerveceria La Tropical, Gramps, and most Wynwood spots. For boarding, check Dogma or WoofGang.",
+    "businesses": [
+      "Cerveceria La Tropical",
+      "Gramps"
+    ],
+    "chips": [
+      "Dog beaches?",
+      "Pet-friendly hotels?",
+      "Dog parks?",
+      "Vet near South Beach?"
+    ]
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "_comment": "Audit-verified 2026-07-04 (workflow wf_908c6ef6): all 32 counts re-derived from data.js via vm, matched brief §2 exactly. verify.mjs fails the build if migrated data drifts from these.",
+  "chicago": { "businesses": 181, "deals": 17, "events": 29, "nodes": 20 },
+  "houston": { "businesses": 212, "deals": 16, "events": 25, "nodes": 28 },
+  "los-angeles": { "businesses": 154, "deals": 12, "events": 21, "nodes": 27 },
+  "miami": { "businesses": 251, "deals": 15, "events": 26, "nodes": 32 },
+  "new-orleans": { "businesses": 176, "deals": 17, "events": 32, "nodes": 29 },
+  "new-york-city": { "businesses": 190, "deals": 18, "events": 28, "nodes": 27 },
+  "san-francisco": { "businesses": 152, "deals": 15, "events": 26, "nodes": 20 },
+  "smoky-mountains": { "businesses": 155, "deals": 18, "events": 25, "nodes": 31 }
+}

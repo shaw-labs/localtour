@@ -1,0 +1,614 @@
+{
+  "morning_starts": [
+    {
+      "title": "Publik Coffee Roasters",
+      "note": "Fuel up in a sunlit converted warehouse before the canyon roads get busy.",
+      "business": "Publik Coffee Roasters",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Caffe D'Bolla",
+      "note": "A meticulous single-cup siphon pour to shake off the altitude fog.",
+      "business": "Caffe D'Bolla",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Three Pines Coffee",
+      "note": "Grab-and-go downtown espresso when you've got first-chair energy to burn.",
+      "business": "Three Pines Coffee",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tulie Bakery",
+      "note": "Warm morning bun and a flat white to start the day right.",
+      "business": "Tulie Bakery",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hub & Spoke Diner",
+      "note": "Hearty breakfast plates that'll carry you clear to the summit.",
+      "business": "Hub & Spoke Diner",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Salt Lake Roasting Co.",
+      "note": "A cozy longtime local perch for coffee and a slow start.",
+      "business": "Salt Lake Roasting Co.",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "La Barba Coffee",
+      "note": "Clean, bright espresso to prime you for the day's descents.",
+      "business": "La Barba Coffee",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "beach_lake_outdoor": [
+    {
+      "title": "Antelope Island State Park",
+      "note": "Bison, brine, and Great Salt Lake sunsets you won't forget.",
+      "business": "Antelope Island State Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Cecret Lake / Albion Basin",
+      "note": "An alpine tarn ringed by summer wildflowers up Little Cottonwood.",
+      "business": "Cecret Lake / Albion Basin",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Donut Falls Trail",
+      "note": "A short family-friendly ramble to a waterfall spilling through rock.",
+      "business": "Donut Falls Trail",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Lake Blanche Trail",
+      "note": "A lung-busting climb rewarded with a glassy high-country lake.",
+      "business": "Lake Blanche Trail",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Jordan River Parkway Trail & Water Trail",
+      "note": "Flat riverside miles for a mellow paddle or pedal.",
+      "business": "Jordan River Parkway Trail & Water Trail",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bonneville Salt Flats",
+      "note": "Drive out to the blinding white expanse where speed records fall.",
+      "business": "Bonneville Salt Flats",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ensign Peak Nature Park",
+      "note": "A quick pioneer-history hike with the whole valley at your feet.",
+      "business": "Ensign Peak Nature Park",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "culture_history": [
+    {
+      "title": "Natural History Museum of Utah",
+      "note": "Dinosaurs and geology tucked into a stunning foothill building.",
+      "business": "Natural History Museum of Utah",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Utah Museum of Fine Arts",
+      "note": "Five thousand years of art on the University campus.",
+      "business": "Utah Museum of Fine Arts",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "This Is the Place Heritage Park",
+      "note": "Where the pioneers stopped — living history at the valley's edge.",
+      "business": "This Is the Place Heritage Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Church History Museum",
+      "note": "The Crossroads-of-the-West story told steps from Temple Square.",
+      "business": "Church History Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Utah Museum of Contemporary Art",
+      "note": "Downtown's edgy rotating galleries for the modern-minded.",
+      "business": "Utah Museum of Contemporary Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Red Butte Garden and Arboretum",
+      "note": "Botanical trails and mountain views above the university.",
+      "business": "Red Butte Garden and Arboretum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tracy Aviary",
+      "note": "Liberty Park's century-old bird sanctuary, a gentle culture stop.",
+      "business": "Tracy Aviary",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "shopping_browsing": [
+    {
+      "title": "The King's English Bookshop",
+      "note": "A beloved indie warren of rooms for happy browsing.",
+      "business": "The King's English Bookshop",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Weller Book Works",
+      "note": "Trolley Square's cathedral of new and rare titles.",
+      "business": "Weller Book Works",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Ken Sanders Rare Books",
+      "note": "Dig for Western Americana and treasures amid the stacks.",
+      "business": "Ken Sanders Rare Books",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Diabolical Records",
+      "note": "Flip crates of vinyl in this scrappy downtown record shop.",
+      "business": "Diabolical Records",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Decades Vintage Clothing",
+      "note": "Curated vintage threads for a stylish afternoon score.",
+      "business": "Decades Vintage Clothing",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hip & Humble",
+      "note": "Charming gifts and home goods for the easy browser.",
+      "business": "Hip & Humble",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Downtown Farmers Market",
+      "note": "Local makers and produce when the season's in full swing.",
+      "business": "Downtown Farmers Market",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "casual_lunch": [
+    {
+      "title": "Red Iguana",
+      "note": "The city's legendary moles — worth the inevitable wait.",
+      "business": "Red Iguana",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mahider Ethiopian Restaurant & Market",
+      "note": "Scoop up spiced stews with injera on State Street's global row.",
+      "business": "Mahider Ethiopian Restaurant & Market",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Chanon Thai Cafe",
+      "note": "Homey, punchy Thai that locals swear by for lunch.",
+      "business": "Chanon Thai Cafe",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Afghan Kitchen",
+      "note": "Comforting kabobs and dumplings from an immigrant kitchen.",
+      "business": "Afghan Kitchen",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Mazza",
+      "note": "Bright Middle Eastern mezze in the 9th & 9th neighborhood.",
+      "business": "Mazza",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bhutan House Restaurant",
+      "note": "A rare taste of Himalayan cooking in the valley.",
+      "business": "Bhutan House Restaurant",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hub & Spoke Diner",
+      "note": "Approachable comfort plates for a no-fuss midday refuel.",
+      "business": "Hub & Spoke Diner",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "happy_hour_drinks": [
+    {
+      "title": "Water Witch",
+      "note": "Craft cocktails from a tiny bar the pros drink at.",
+      "business": "Water Witch",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bar X",
+      "note": "A moody, well-mixed classic cocktail den downtown.",
+      "business": "Bar X",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Copper Common",
+      "note": "Thoughtful drinks and small plates for the golden hour.",
+      "business": "Copper Common",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Fisher Brewing Company",
+      "note": "Community-owned pints in a laid-back Granary taproom.",
+      "business": "Fisher Brewing Company",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Templin Family Brewing (TF Brewing)",
+      "note": "German-leaning lagers poured with après-worthy ease.",
+      "business": "Templin Family Brewing (TF Brewing)",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Beer Bar",
+      "note": "Long communal tables, bratwurst, and a wall of taps.",
+      "business": "Beer Bar",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Red Door",
+      "note": "Dim, martini-forward, and just the right kind of secret.",
+      "business": "The Red Door",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_casual": [
+    {
+      "title": "The Copper Onion",
+      "note": "Rib-sticking new-American plates that never miss.",
+      "business": "The Copper Onion",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Pago",
+      "note": "Farm-to-table seasonal cooking in cozy 9th & 9th.",
+      "business": "Pago",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "HSL",
+      "note": "Inventive, shareable plates in a warm downtown room.",
+      "business": "HSL",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Monarca",
+      "note": "Vibrant regional Mexican worth loosening the boot buckles for.",
+      "business": "Monarca",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Laan Na Thai",
+      "note": "Northern Thai depth for a relaxed, flavorful evening.",
+      "business": "Laan Na Thai",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Red Iguana",
+      "note": "Those famous moles hit just as hard at dinner.",
+      "business": "Red Iguana",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hub & Spoke Diner",
+      "note": "Familiar comfort food when you want zero fuss.",
+      "business": "Hub & Spoke Diner",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_upscale": [
+    {
+      "title": "Urban Hill",
+      "note": "Sleek Granary District dining at the top of the city's game.",
+      "business": "Urban Hill",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Table X",
+      "note": "A chef-driven tasting experience for a real occasion.",
+      "business": "Table X",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Oquirrh",
+      "note": "Refined, ingredient-led plates in an intimate room.",
+      "business": "Oquirrh",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Pearl",
+      "note": "Elegant seafood-leaning dining with downtown polish.",
+      "business": "The Pearl",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "VENETO Ristorante Italiano",
+      "note": "White-tablecloth Venetian cooking and a serious wine list.",
+      "business": "VENETO Ristorante Italiano",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Takashi",
+      "note": "The city's benchmark sushi — book ahead, it fills fast.",
+      "business": "Takashi",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "St. Bernard's",
+      "note": "A mountain-luxe dinner with alpine ambiance to match.",
+      "business": "St. Bernard's",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "dinner_romantic": [
+    {
+      "title": "Log Haven",
+      "note": "A candlelit lodge up Millcreek Canyon beside a waterfall.",
+      "business": "Log Haven",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Franck's",
+      "note": "Refined French comfort in a hushed, intimate setting.",
+      "business": "Franck's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Valter's Osteria",
+      "note": "Old-world Italian charm with a host who treats you like family.",
+      "business": "Valter's Osteria",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Arlo",
+      "note": "Warm, low-lit seasonal cooking made for lingering.",
+      "business": "Arlo",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Manoli's",
+      "note": "Shareable Greek small plates over a bottle of wine.",
+      "business": "Manoli's",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Yurt at Solitude",
+      "note": "A snowshoe trek to a five-course dinner in a canyon yurt.",
+      "business": "The Yurt at Solitude",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Brownstone 22",
+      "note": "Polished plates and a date-night glow to close the evening.",
+      "business": "Brownstone 22",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "nightlife": [
+    {
+      "title": "The Urban Lounge",
+      "note": "The city's sweaty, essential room for live indie shows.",
+      "business": "The Urban Lounge",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Kilby Court",
+      "note": "A gravel-lot all-ages venue where big bands got their start.",
+      "business": "Kilby Court",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Depot",
+      "note": "Bigger-name touring acts in a historic downtown hall.",
+      "business": "The Depot",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Bar Nohm",
+      "note": "Late-night Korean bites and drinks for the night owls.",
+      "business": "Bar Nohm",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Water Witch",
+      "note": "Cap the night with a nightcap the bartenders are proud of.",
+      "business": "Water Witch",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Wiseguys Comedy",
+      "note": "Laughs from touring headliners to send the night sideways.",
+      "business": "Wiseguys Comedy",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "The Red Door",
+      "note": "A dim, moody nightcap spot that stays open late.",
+      "business": "The Red Door",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "family_activities": [
+    {
+      "title": "Clark Planetarium",
+      "note": "Free exhibits and a dome show that'll wow every age.",
+      "business": "Clark Planetarium",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Tracy Aviary",
+      "note": "Bird shows and easy paths in the heart of Liberty Park.",
+      "business": "Tracy Aviary",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "This Is the Place Heritage Park",
+      "note": "Pony rides and living pioneer village for the kids.",
+      "business": "This Is the Place Heritage Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Natural History Museum of Utah",
+      "note": "Dinosaur skeletons that turn every kid into a paleontologist.",
+      "business": "Natural History Museum of Utah",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Snowbird Aerial Tram",
+      "note": "A scenic ride to 11,000 feet the whole family can share.",
+      "business": "Snowbird Aerial Tram",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Utah Olympic Park",
+      "note": "Zip lines and bobsled thrills from the 2002 Games.",
+      "business": "Utah Olympic Park",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Hub & Spoke Diner",
+      "note": "A kid-friendly landing pad when everyone's hungry.",
+      "business": "Hub & Spoke Diner",
+      "website": null,
+      "duration": null
+    }
+  ],
+  "rainy_day": [
+    {
+      "title": "Utah Museum of Fine Arts",
+      "note": "Wander millennia of art while the storm rolls through.",
+      "business": "Utah Museum of Fine Arts",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Natural History Museum of Utah",
+      "note": "Hours of dinosaurs and geology, dry and warm.",
+      "business": "Natural History Museum of Utah",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Clark Planetarium",
+      "note": "Duck into a dome show and forget the weather entirely.",
+      "business": "Clark Planetarium",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Church History Museum",
+      "note": "A free, roof-covered dive into the valley's origins.",
+      "business": "Church History Museum",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Weller Book Works",
+      "note": "Lose an afternoon among the stacks at Trolley Square.",
+      "business": "Weller Book Works",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Utah Museum of Contemporary Art",
+      "note": "Cozy up to bold rotating art downtown.",
+      "business": "Utah Museum of Contemporary Art",
+      "website": null,
+      "duration": null
+    },
+    {
+      "title": "Caffe D'Bolla",
+      "note": "Nurse a siphon-brewed cup while the rain does its thing.",
+      "business": "Caffe D'Bolla",
+      "website": null,
+      "duration": null
+    }
+  ]
+}
