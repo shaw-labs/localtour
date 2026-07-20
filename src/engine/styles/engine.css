@@ -6,6 +6,12 @@ html{scroll-behavior:smooth}
    clipping the ROOT stops the sideways pan without creating a scroll container. */
 html{overflow-x:clip}
 @supports not (overflow: clip){html{overflow-x:hidden}}
+/* …and body must NOT be its own scroll container: with html's overflow set
+   above, the UA stops propagating body overflow to the viewport, so the ported
+   body{overflow-y:scroll} would turn body into an unscrollable container that
+   eats desktop wheel events (scroll only worked over fixed elements like the
+   nav, which chain straight to the viewport). Root owns clipping + scrolling. */
+body{overflow-x:visible !important;overflow-y:visible !important}
 body{background:#0a0a0b;color:#f5f2ec;font-family:'DM Sans',sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;transition:background .4s}
 ::selection{background:#dc2626;color:white}
 ::-webkit-scrollbar{width:5px}::-webkit-scrollbar-track{background:transparent}::-webkit-scrollbar-thumb{background:#3a4f62;border-radius:3px}::-webkit-scrollbar-thumb:hover{background:#dc2626}
