@@ -3,7 +3,9 @@ import { bizId, track } from "./beacon";
 import { mapsHref } from "./maps";
 import { openStatus } from "./hours";
 import { tripHas, tripToggle, onTripChange } from "./trip";
+import { distKm, fmtMiles, getUserLoc } from "./geo";
 import VERIFIED from "../generated/verified.json";
+import COORDS from "../generated/coords.json";
 
 // Shared, self-styled action bar for every place card (feed + classic) and the
 // concierge picks. Gives each listing: open-now status, neighborhood, a link to
@@ -48,6 +50,22 @@ export function PlaceActions({ biz, slug, dark = false, compact = false }) {
   const [inTrip, setInTrip] = useState(() => tripHas(slug, biz.name));
   useEffect(() => onTripChange(() => setInTrip(tripHas(slug, biz.name))), [slug, biz.name]);
 
+  // Real distance from the visitor (build-geocoded coords + device location).
+  // Only shown when the visitor is plausibly in the city (≤80km) — no giant
+  // "1,842 mi" labels for people browsing from home; falls back to neighborhood.
+  const [dist, setDist] = useState(null);
+  useEffect(() => {
+    const bc = COORDS.cities?.[slug]?.[biz.name];
+    if (!bc) return;
+    let alive = true;
+    getUserLoc().then((loc) => {
+      if (!alive || !loc) return;
+      const km = distKm(loc, bc);
+      if (km <= 80) setDist(fmtMiles(km));
+    });
+    return () => { alive = false; };
+  }, [slug, biz.name]);
+
   const placeUrl = `/cities/${slug}/places/${bizId(biz.name)}/`;
   const hood = neighborhood(biz.address);
   const st = openStatus(biz.hours);
@@ -66,7 +84,8 @@ export function PlaceActions({ biz, slug, dark = false, compact = false }) {
             {st.label}
           </span>
         )}
-        {hood && <span style={{ color: t.dim }}>📍 {hood}</span>}
+        {dist && <span style={{ color: t.fg, fontWeight: 600 }}>📍 {dist}</span>}
+        {hood && <span style={{ color: t.dim }}>{dist ? "" : "📍 "}{hood}</span>}
         {biz.hours && st.status === "unknown" && <span style={{ color: t.dim }}>{biz.hours}</span>}
       </div>
 
