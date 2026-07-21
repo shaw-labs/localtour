@@ -1,12 +1,13 @@
 // Classic view — trip planner overlay (ported verbatim; chicago index.html ~2451–2615).
 import { useState } from "react";
 import { useCityModel } from "../../cityModel";
-import { track } from "../../beacon";
+import { track, bizId } from "../../beacon";
 import { planParam } from "../../planShare";
+import { PlaceActions } from "../../PlaceActions";
 
 /* ═══ TRIP PLANNER OVERLAY ═══ */
 export function R_TripPlanner({onClose}) {
-  const { CITY, directory, MODES, slug } = useCityModel();
+  const { CITY, directory, MODES, slug, planner, byName } = useCityModel();
   const [step, setStep] = useState(0);
   const [prefs, setPrefs] = useState({days: 2, crew: 'couple', vibes: []});
   const [itinerary, setItinerary] = useState(null);
@@ -27,31 +28,95 @@ export function R_TripPlanner({onClose}) {
     return [...arr].sort(() => Math.random() - 0.5).slice(0, n);
   }
 
+  // High-confidence "evening-only" detector: keeps a Wed-Sat-dinner tasting room
+  // out of the Morning/Lunch slots. Only skips when the hours string is clearly
+  // evening ("Tue-Sat evenings", "Wed-Sat 5-10pm", "dinner only") — vague or
+  // missing hours never block a pick.
+  function eveningOnly(hours) {
+    if (!hours) return false;
+    const h = hours.toLowerCase();
+    if (/(brunch|breakfast|lunch|morning|daily\s*\d|am\b)/.test(h)) return false;
+    if (/(evenings?|dinner)\b/.test(h)) return true;
+    const first = h.match(/(\d{1,2})(?::\d{2})?\s*(am|pm)?\s*[-–]/);
+    if (first && (first[2] === "pm" || (!first[2] && /pm/.test(h))) && Number(first[1]) >= 4 && Number(first[1]) <= 11) return true;
+    return false;
+  }
+
+  // WS-followup planner brain: draws from the CURATED pools (planner.json —
+  // meal-typed and time-of-day-typed by construction), deduped across the WHOLE
+  // trip, with soft vibe preference and same-neighborhood affinity per day
+  // (no coords exist, so "geography" = shared address neighborhood). Falls back
+  // to category-filtered directory only when a pool runs dry on long trips.
   function generate() {
+    const pools = planner || {};
+    const hood = (b) => (b.address ? (b.address.split(',')[1] || '').trim().toLowerCase() : '');
+    const usedTrip = new Set(); // GLOBAL dedupe — a place appears once per trip
+
+    // hydrate a pool: curated items → {biz, note}, dropping unresolvable names
+    const hydrate = (key) => (pools[key] || [])
+      .map((it) => ({ biz: byName[it.business], note: it.note, duration: it.duration }))
+      .filter((x) => x.biz);
+
+    const fallbackCats = {
+      food: ['dining', 'coffee_bakeries'],
+      fun: ['attractions', 'entertainment', 'outdoor_adventure'],
+      bars: ['bars_nightlife'],
+    };
+    const fallback = (kind) => directory
+      .filter((b) => fallbackCats[kind].includes(b.category))
+      .map((b) => ({ biz: b, note: null }));
+
     const days = [];
-    const byVibe = prefs.vibes.length > 0
-      ? directory.filter(b => b.modes.some(m => prefs.vibes.includes(m)))
-      : directory;
-    const dining = byVibe.filter(b => b.category === 'dining' || b.category === 'coffee_bakeries');
-    const fun = byVibe.filter(b => ['attractions','entertainment','outdoor_adventure','outdoor','boating_water'].includes(b.category));
-    const bars = byVibe.filter(b => ['bars_nightlife','bars'].includes(b.category));
     for (let d = 0; d < prefs.days; d++) {
       const slots = [];
-      const used = new Set();
-      const addSlot = (time, pool) => {
-        const options = pool.filter(a => !used.has(a.name));
-        if (options.length) {
-          const picked = pick(options, 1)[0];
-          used.add(picked.name);
-          slots.push({time, biz: picked});
+      let dayHoods = [];
+
+      const addSlot = (time, poolKeys, kind, { daytime = false } = {}) => {
+        // candidate chain: curated pools (in preference order) → directory fallback
+        let cands = [];
+        for (const k of poolKeys) cands = cands.concat(hydrate(k));
+        if (!cands.length && kind) cands = fallback(kind);
+        cands = cands.filter((c) => !usedTrip.has(c.biz.name));
+        if (daytime) {
+          const ok = cands.filter((c) => !eveningOnly(c.biz.hours));
+          if (ok.length) cands = ok;
         }
+        if (!cands.length) return;
+        // soft vibe preference
+        if (prefs.vibes.length) {
+          const vibed = cands.filter((c) => (c.biz.modes || []).some((m) => prefs.vibes.includes(m)));
+          if (vibed.length) cands = vibed;
+        }
+        // neighborhood affinity: prefer candidates in a neighborhood already on today's route
+        const shuffled = pick(cands, cands.length);
+        const nearby = dayHoods.length ? shuffled.find((c) => dayHoods.includes(hood(c.biz))) : null;
+        const chosen = nearby || shuffled[0];
+        usedTrip.add(chosen.biz.name);
+        const h = hood(chosen.biz);
+        if (h && !dayHoods.includes(h)) dayHoods.push(h);
+        slots.push({ time, biz: chosen.biz, note: chosen.note || null });
       };
-      addSlot('Morning', dining);
-      addSlot('Late Morning', fun);
-      addSlot('Lunch', dining);
-      addSlot('Afternoon', fun);
-      addSlot('Dinner', dining);
-      if (prefs.crew !== 'family') addSlot('Night', bars);
+
+      // rotate the afternoon flavors so multi-day trips don't repeat a theme
+      const dayFlavors = prefs.crew === 'family'
+        ? [['family_activities'], ['beach_lake_outdoor', 'culture_history'], ['culture_history', 'shopping_browsing']]
+        : [['culture_history', 'beach_lake_outdoor'], ['beach_lake_outdoor', 'shopping_browsing'], ['shopping_browsing', 'culture_history']];
+      const am = dayFlavors[d % dayFlavors.length];
+      const pm = dayFlavors[(d + 1) % dayFlavors.length];
+      const dinnerRotation = prefs.crew === 'couple'
+        ? [['dinner_romantic'], ['dinner_upscale'], ['dinner_casual']]
+        : prefs.crew === 'family'
+          ? [['dinner_casual'], ['dinner_casual', 'dinner_upscale']]
+          : [['dinner_casual'], ['dinner_upscale'], ['dinner_casual']];
+
+      addSlot('Morning', ['morning_starts'], 'food', { daytime: true });
+      addSlot('Late Morning', am, 'fun', { daytime: true });
+      addSlot('Lunch', ['casual_lunch'], 'food', { daytime: true });
+      addSlot('Afternoon', pm, 'fun');
+      if (prefs.crew !== 'family') addSlot('Happy Hour', ['happy_hour_drinks'], 'bars');
+      addSlot('Dinner', dinnerRotation[d % dinnerRotation.length], 'food');
+      if (prefs.crew !== 'family') addSlot('Night', ['nightlife'], 'bars');
+
       days.push({
         day: d + 1,
         label: prefs.days === 1 ? 'Your Day' : `Day ${d + 1}`,
@@ -161,18 +226,9 @@ export function R_TripPlanner({onClose}) {
                 {day.slots.map((slot, i) => (
                   <div key={i} className="planner-slot">
                     <div className="time">{slot.time}</div>
-                    <h5>{slot.biz.name}</h5>
-                    <p>{slot.biz.description}</p>
-                    <div className="actions">
-                      {slot.biz.address && (
-                        <a
-                          href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(slot.biz.address + ' ' + slot.biz.name)}`}
-                          target="_blank" rel="noopener noreferrer"
-                        >📍 Map</a>
-                      )}
-                      {slot.biz.phone && <a href={`tel:${slot.biz.phone.replace(/[^+0-9]/g, '')}`}>📞 Call</a>}
-                      {slot.biz.website && <a href={slot.biz.website} target="_blank" rel="noopener noreferrer">🔗 Site</a>}
-                    </div>
+                    <a href={`/cities/${slug}/places/${bizId(slot.biz.name)}/`} onClick={() => track.bizClick(slug, slot.biz.name, "classic")} style={{ color: "inherit", textDecoration: "none" }}><h5>{slot.biz.name}</h5></a>
+                    <p>{slot.note || slot.biz.description}</p>
+                    <PlaceActions biz={slot.biz} slug={slug} compact />
                   </div>
                 ))}
               </div>

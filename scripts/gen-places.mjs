@@ -38,6 +38,14 @@ const CAT_LABEL = {
 const esc = (s) => String(s ?? "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const today = new Date().toISOString().slice(0, 10);
 
+// per-city "listing verified" dates from gen-verified.mjs — optional (footer line skipped if absent)
+let verified = {};
+try {
+  verified = JSON.parse(readFileSync(path.join(ROOT, "src", "generated", "verified.json"), "utf8"));
+} catch {
+  /* not generated yet — pages simply omit the verified line */
+}
+
 let pages = 0;
 const placeUrls = [];
 
@@ -127,13 +135,15 @@ footer a{color:#718096}
   ${b.must_try ? `<div class="try">Try: ${esc(b.must_try)}</div>` : ""}
   <div class="facts">
     ${b.address ? `<span>📍 <a href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(b.name + " " + b.address)}" rel="nofollow noopener">${esc(b.address)}</a></span>` : ""}
+    ${b.address ? `<span>🧭 <a href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(b.name + " " + b.address)}" rel="nofollow noopener">Directions</a></span>` : ""}
     ${b.hours ? `<span>🕐 ${esc(b.hours)}</span>` : ""}
     ${b.phone ? `<span>📞 <a href="tel:${esc(String(b.phone).replace(/[^+0-9]/g, ""))}">${esc(b.phone)}</a></span>` : ""}
-    ${b.website ? `<span>🔗 <a href="${esc(b.website)}" rel="noopener nofollow">${esc(b.website.replace(/^https?:\/\//, "").replace(/\/$/, ""))}</a></span>` : ""}
+    ${b.website ? `<span>🔗 <a href="${esc(b.website)}" rel="noopener nofollow">Reserve / official site</a></span>` : ""}
   </div>
   ${bizDeals.length ? `<h2>Current deals</h2>` + bizDeals.map((d) => `<div class="deal"><b>${esc(d.offer_text)}</b><span>Reveal and redeem inside the LocalTour app view.</span></div>`).join("") : ""}
   <a class="cta" href="/cities/${slug}">Open ${esc(cfg.name)} in the full experience →</a>
   ${related.length ? `<h2>Nearby in ${esc(catLabel)}</h2><div class="rel">` + related.map((r) => `<a href="/cities/${slug}/places/${r.ps}/"><b>${esc(r.b.name)}</b>${r.b.rating ? ` · ★ ${esc(r.b.rating)}` : ""}</a>`).join("") + `</div>` : ""}
+  ${verified[slug] ? `<p style="font-family:-apple-system,system-ui,sans-serif;font-size:12px;color:#a0aec0;margin-top:26px">Listing verified ${esc(verified[slug])}</p>` : ""}
   <footer><a href="/cities/${slug}">${esc(cfg.name)}</a> · <a href="/cities/${slug}/wall">The Wall</a> · <a href="/">All cities</a> · A SH@W Labs product</footer>
 </div>
 </body>

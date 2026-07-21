@@ -7,13 +7,14 @@
     "dev": "vite",
     "migrate": "node scripts/migrate-data.mjs",
     "verify": "node scripts/verify.mjs",
-    "build": "npm run verify && node scripts/gen-stats.mjs && node scripts/gen-sitemap.mjs && node scripts/gen-walls.mjs && node scripts/gen-coupons.mjs && node scripts/test-ranking.mjs && tsc -b && vite build && node scripts/copy-city-images.mjs && node scripts/gen-places.mjs && node scripts/gen-city-shells.mjs && node scripts/optimize-images.mjs && node scripts/gen-sw.mjs && node scripts/gen-onepager.mjs",
+    "build": "npm run verify && node scripts/gen-stats.mjs && node scripts/gen-verified.mjs && node scripts/gen-sitemap.mjs && node scripts/gen-walls.mjs && node scripts/gen-coupons.mjs && node scripts/test-ranking.mjs && node scripts/test-hours.mjs && tsc -b && vite build && node scripts/copy-city-images.mjs && node scripts/gen-places.mjs && node scripts/gen-city-shells.mjs && node scripts/optimize-images.mjs && node scripts/gen-sw.mjs && node scripts/gen-onepager.mjs",
     "preview": "vite preview",
     "lint": "eslint .",
     "baseline": "node scripts/baseline-screenshots.mjs",
     "issue-token": "node scripts/issue-token.mjs",
     "export-leads": "node scripts/export-leads.mjs",
-    "test-ranking": "node scripts/test-ranking.mjs"
+    "test-ranking": "node scripts/test-ranking.mjs",
+    "test-hours": "node scripts/test-hours.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.111.0",

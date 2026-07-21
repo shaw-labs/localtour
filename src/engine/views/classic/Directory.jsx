@@ -4,8 +4,9 @@ import { useState } from "react";
 import { CAT_LABELS_R } from "../../theme";
 import { R_Reveal } from "./scroll";
 import { useCityModel } from "../../cityModel";
-import { track } from "../../beacon";
+import { track, bizId } from "../../beacon";
 import { useImpression } from "../../useImpression";
+import { PlaceActions } from "../../PlaceActions";
 
 /* ═══ MODE FILTER ═══ */
 export function R_Modes({activeMode, setActiveMode}) {
@@ -92,7 +93,12 @@ export function R_BizCard({biz}) {
     >
       <div className="biz-top">
         <div style={{flex: 1, minWidth: 0}}>
-          <div className="biz-name">{biz.name}</div>
+          <a
+            className="biz-name"
+            href={`/cities/${slug}/places/${bizId(biz.name)}/`}
+            onClick={e => { e.stopPropagation(); track.bizClick(slug, biz.name, "classic"); }}
+            style={{ color: "inherit", textDecoration: "none", display: "block" }}
+          >{biz.name}</a>
           <div className="biz-sub">
             {(biz.subcategory || '').replace(/_/g, ' ')}
             {biz.tier && <R_TierBadge tier={biz.tier} />}
@@ -109,24 +115,8 @@ export function R_BizCard({biz}) {
       )}
       {open && (
         <div className="biz-exp">
-          {biz.address && (
-            <a
-              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(biz.name + ' ' + biz.address)}`}
-              target="_blank" rel="noopener noreferrer"
-              onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}
-            >📍 {biz.address}</a>
-          )}
-          {biz.phone && (
-            <a href={`tel:${biz.phone.replace(/[^+0-9]/g, '')}`} onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}>
-              📞 {biz.phone}
-            </a>
-          )}
-          {biz.hours && <p>🕐 {biz.hours}</p>}
-          {biz.website && (
-            <a href={biz.website} target="_blank" rel="noopener noreferrer" onClick={e => { e.stopPropagation(); track.outboundClick(slug, biz.name, "classic"); }}>
-              🔗 Visit website →
-            </a>
-          )}
+          {biz.address && <p style={{margin:0}}>📍 {biz.address}</p>}
+          <PlaceActions biz={biz} slug={slug} />
           {biz.modes.length > 0 && (
             <div className="tags">
               {biz.modes.map(m => <span key={m} className="tag">{m}</span>)}

@@ -8,6 +8,7 @@ import { Reveal } from "../../hooks";
 import { useCityModel } from "../../cityModel";
 import { track, bizId } from "../../beacon";
 import { useImpression } from "../../useImpression";
+import { PlaceActions } from "../../PlaceActions";
 
 // WS3 coupon redeem confirm (feed + classic share this): after a code is revealed
 // the shopper can confirm redemption → GET /api/redeem, which records a single
@@ -114,19 +115,17 @@ export function FeedBusinessCard({biz,kicker,override,imageKey}){
         <span style={{display:"inline-flex",alignItems:"center",gap:8}}>{kick}{biz.tier&&<FeedTierBadge tier={biz.tier}/>}</span>
         <span style={{textAlign:"right",maxWidth:"60%",overflow:"hidden",textOverflow:"ellipsis",whiteSpace:"nowrap"}}>{neighborhood}</span>
       </div>
-      <h2 style={{fontFamily:FT.fd,fontSize:24,fontWeight:500,color:FT.ink,margin:"0 0 10px",lineHeight:1.15,letterSpacing:"-.015em"}}>{title}</h2>
+      <a href={`/cities/${slug}/places/${bizId(biz.name)}/`} onClick={()=>track.bizClick(slug,biz.name,"feed")} style={{textDecoration:"none"}}>
+        <h2 style={{fontFamily:FT.fd,fontSize:24,fontWeight:500,color:FT.ink,margin:"0 0 10px",lineHeight:1.15,letterSpacing:"-.015em"}}>{title}</h2>
+      </a>
       <p style={{fontFamily:FT.fb,fontSize:14,color:FT.inkMid,lineHeight:1.55,margin:"0 0 14px"}}>{body}</p>
       {biz.must_try&&<div style={{fontFamily:FT.fb,fontSize:12,color:"#d8d3c9",fontStyle:"italic",padding:"10px 12px",borderLeft:`2px solid ${FT.red}`,background:"rgba(179,19,31,.04)",marginBottom:14}}>Try: {biz.must_try}</div>}
       <div style={{display:"flex",gap:14,fontFamily:FT.fm,fontSize:10,letterSpacing:".15em",color:FT.inkMid,textTransform:"uppercase",flexWrap:"wrap",alignItems:"center"}}>
         {stars&&<span style={{color:FT.gold}}>{stars}</span>}
         {price&&<span>{price}</span>}
-        {biz.hours&&<span style={{color:FT.inkDim,textTransform:"none",letterSpacing:".08em",fontSize:11}}>{biz.hours.length>40?biz.hours.slice(0,40)+"…":biz.hours}</span>}
       </div>
-      <div style={{display:"flex",gap:10,marginTop:14,flexWrap:"wrap"}}>
-        {biz.address&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(biz.address+" "+biz.name)}`} target="_blank" rel="noopener" style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Map</a>}
-        {biz.phone&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={`tel:${biz.phone.replace(/[^+0-9]/g,"")}`} style={{padding:"8px 14px",background:"transparent",color:FT.ink,border:`1px solid ${FT.inkFaint}`,fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Call</a>}
-        {biz.website&&<a onClick={()=>track.outboundClick(slug,biz.name,"feed")} href={biz.website} target="_blank" rel="noopener" style={{padding:"8px 14px",background:FT.ink,color:FT.bg,border:"none",fontFamily:FT.fm,fontSize:10,letterSpacing:".18em",textTransform:"uppercase",textDecoration:"none"}}>Book →</a>}
-      </div>
+      {/* WS-followup: status + neighborhood + Map/Directions/Call/Reserve/Add-to-trip + place-page link (shared with classic) */}
+      <PlaceActions biz={biz} slug={slug} dark/>
     </div>
   </article></Reveal>);
 }
